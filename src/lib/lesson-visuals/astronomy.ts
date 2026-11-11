@@ -7,8 +7,6 @@ export const ASTRONOMY_DIAGRAMS: readonly LessonDiagramSpec[] = [
     paths: [
       "/espace-et-astronomie/systeme-solaire/lune/la-lune-formation-et-marees",
       "/sciences-fondamentales/sciences-de-la-terre/oceanographie/comment-la-lune-fait-elle-monter-et-descendre-la-mer",
-      "/espace-et-astronomie/systeme-solaire/lune/pourquoi-la-mer-monte-t-elle-et-descend-elle-deux-fois-par-jour",
-      "/espace-et-astronomie/systeme-solaire/lune/les-marees-et-l-effet-de-la-lune-sur-les-oceans",
     ],
     steps: [
       {

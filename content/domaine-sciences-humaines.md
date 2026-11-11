@@ -236,6 +236,20 @@ quiz:
     explanation: >
       C'est pourquoi l'hypothèse avancée pour Homo naledi reste débattue. Une affirmation
       extraordinaire demande d'avoir éliminé les explications ordinaires.
+  - question: "Pourquoi la datation publiée en 2017 a-t-elle réservé une surprise ?"
+    options:
+      - "Elle montrait que l'espèce était apparue il y a plusieurs millions d'années"
+      - "Elle prouvait que l'espèce descendait d'Homo sapiens"
+      - "Elle montrait qu'une espèce au petit cerveau vivait à l'époque des premiers Homo sapiens, alors qu'on la croyait bien plus ancienne"
+    answer: 3
+    explanation: "On attendait plusieurs millions d'années, mais les fossiles ont entre 335 000 et 236 000 ans. Cette espèce au petit cerveau était donc contemporaine des premiers Homo sapiens."
+  - question: "Comment les Dénisoviens ont-ils d'abord été identifiés ?"
+    options:
+      - "Par l'ADN extrait d'un minuscule fragment osseux, avant même de disposer de fossiles complets"
+      - "Par un crâne complet découvert dans une grotte"
+      - "Par des outils de pierre caractéristiques"
+    answer: 1
+    explanation: "L'analyse de l'ADN ancien a permis d'identifier cette population à partir d'un minuscule fragment osseux, avant même de disposer de fossiles complets."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -359,6 +373,20 @@ quiz:
     explanation: >
       C'est la chute de la mortalité, et notamment de la mortalité infantile, qui explique
       l'essentiel. La natalité a même diminué pendant cette période dans les pays concernés.
+  - question: "Pourquoi est-il impossible de résumer le XXe siècle par un jugement unique ?"
+    options:
+      - "Parce que les sources manquent pour cette période"
+      - "Parce que les mêmes progrès techniques ont servi à soigner et à tuer à grande échelle"
+      - "Parce que seules les guerres mondiales comptent vraiment"
+    answer: 2
+    explanation: "Le siècle a vu l'éradication de la variole et l'extermination industrielle de populations. Les mêmes progrès techniques ont servi à soigner et à tuer à grande échelle."
+  - question: "Quelles sont les deux nouveautés sans précédent historique de l'époque contemporaine ?"
+    options:
+      - "Les guerres mondiales et l'explosion démographique"
+      - "L'électricité et les chemins de fer"
+      - "Une capacité d'autodestruction depuis 1945 et une action des humains sur le système terrestre"
+    answer: 3
+    explanation: "Depuis 1945, l'humanité peut détruire une grande partie de sa civilisation, et ses activités modifient le climat, l'atmosphère et la biodiversité à l'échelle planétaire."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -484,6 +512,20 @@ quiz:
     explanation: >
       Les pauvres, les femmes, les esclaves, les colonisés écrivaient rarement et n'étaient
       décrits que par d'autres. L'absence de traces n'est pas l'absence d'existence.
+  - question: "Quelle différence y a-t-il entre critique externe et critique interne d'une source ?"
+    options:
+      - "L'externe porte sur le contenu, l'interne sur le support matériel"
+      - "L'externe compare plusieurs sources, l'interne n'en examine qu'une"
+      - "L'externe porte sur la source elle-même (auteur, date, authenticité), l'interne sur son contenu (témoin direct, intérêt de l'auteur)"
+    answer: 3
+    explanation: "La critique externe s'intéresse à la source elle-même : qui l'a produite, quand, est-elle authentique. La critique interne examine son contenu : l'auteur était-il témoin, avait-il un intérêt à présenter les choses ainsi."
+  - question: "Qu'est-ce que l'anachronisme, piège classique de l'historien ?"
+    options:
+      - "Juger le passé avec les catégories du présent, ce qui empêche de comprendre pourquoi les gens ont agi ainsi"
+      - "Dater un document plus tard qu'il ne l'est réellement"
+      - "Excuser tous les comportements du passé au nom du contexte"
+    answer: 1
+    explanation: "L'anachronisme consiste à juger le passé avec les catégories du présent. Comprendre ce que les gens savaient et croyaient est nécessaire, sans pour autant tout excuser."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -613,6 +655,20 @@ quiz:
     explanation: >
       Les médicaments vitaux ou le carburant pour aller travailler en sont des exemples. On
       réduit peu sa consommation même quand le prix grimpe, faute d'alternative.
+  - question: "Pourquoi les prix agricoles fluctuent-ils autant ?"
+    options:
+      - "Parce que la consommation de nourriture varie fortement d'une année à l'autre"
+      - "Parce que la production dépend de la météo alors que la consommation reste à peu près stable"
+      - "Parce que les agriculteurs fixent leurs prix à l'avance"
+    answer: 2
+    explanation: "La production agricole varie avec la météo, alors que la consommation reste à peu près stable. L'écart entre offre et demande fait donc bouger les prix."
+  - question: "Pourquoi les sociétés retirent-elles certains biens du marché, comme l'école ou la justice ?"
+    options:
+      - "Parce que ces biens n'ont aucune valeur économique"
+      - "Parce qu'un marché fixe les prix de manière trop stable"
+      - "Parce qu'un marché alloue selon la capacité à payer, sans rien dire de la justice de la répartition"
+    answer: 3
+    explanation: "Un marché alloue selon la capacité à payer, ce qui est une information et non un jugement moral. Les sociétés retirent donc certains biens du marché ou en corrigent le résultat."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -740,6 +796,20 @@ quiz:
     explanation: >
       Si vous gardez vos enfants, cela ne compte pas. Si vous payez quelqu'un pour le faire,
       cela augmente le PIB. Le service rendu est pourtant identique.
+  - question: "Pourquoi une catastrophe qui détruit des logements peut-elle faire monter le PIB ?"
+    options:
+      - "Parce que le PIB compte positivement la reconstruction et les dépenses de réparation"
+      - "Parce que la catastrophe fait baisser les prix et stimule la demande"
+      - "Parce que le PIB mesure le nombre de logements détruits"
+    answer: 1
+    explanation: "Le PIB additionne la valeur de ce qui est produit : la reconstruction compte positivement, sans que la destruction soit déduite."
+  - question: "Quel facteur démographique contribue au ralentissement de la croissance ?"
+    options:
+      - "Les populations actives rajeunissent trop vite"
+      - "Les populations actives vieillissent et cessent de croître dans de nombreux pays"
+      - "La natalité augmente fortement dans les économies avancées"
+    answer: 2
+    explanation: "Parmi les facteurs de ralentissement, le texte cite la démographie : les populations actives vieillissent et cessent de croître dans de nombreux pays."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -866,6 +936,20 @@ quiz:
     explanation: >
       Des taux plus élevés découragent l'emprunt et l'investissement. La demande ralentit, ce
       qui réduit la pression sur les prix — au prix d'un ralentissement de l'activité.
+  - question: "Pourquoi les banques centrales visent-elles environ 2 % d'inflation plutôt que zéro ?"
+    options:
+      - "Parce que les salaires ne peuvent pas augmenter sans inflation"
+      - "Parce qu'une inflation nulle laisse trop peu de marge : au moindre choc, on bascule en déflation"
+      - "Parce que 2 % est le niveau qui maximise la croissance"
+    answer: 2
+    explanation: "Avec une inflation nulle, le moindre choc peut faire basculer l'économie en déflation, une situation redoutable."
+  - question: "Pourquoi la déflation est-elle redoutable ?"
+    options:
+      - "Parce qu'elle ruine les emprunteurs à taux fixe"
+      - "Parce qu'elle fait monter les taux d'intérêt"
+      - "Parce que les consommateurs reportent leurs achats, la demande chute, le chômage monte et les prix baissent encore"
+    answer: 3
+    explanation: "Si les consommateurs anticipent des prix plus bas, ils reportent leurs achats. La demande et la production baissent, le chômage monte, ce qui fait baisser encore les prix : la spirale s'auto-entretient."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -995,6 +1079,20 @@ quiz:
     explanation: >
       Le patrimoine s'accumule au fil du temps et se transmet entre générations. Les écarts
       s'y creusent donc bien davantage que sur les revenus annuels.
+  - question: "Pourquoi comparer deux pays sans préciser si l'on parle d'avant ou d'après redistribution n'a-t-il aucun sens ?"
+    options:
+      - "Parce que les deux pays n'utilisent pas la même monnaie"
+      - "Parce que la redistribution réduit substantiellement l'écart dans les pays dotés d'un système social développé"
+      - "Parce que le coefficient de Gini ne peut pas être calculé après impôts"
+    answer: 2
+    explanation: "Les inégalités de revenu primaire diffèrent fortement de celles du revenu disponible, car la redistribution réduit l'écart, surtout dans les pays à système social développé."
+  - question: "Que signifie un coefficient de Gini égal à 0 ?"
+    options:
+      - "Une seule personne possède tout"
+      - "Les revenus sont nuls dans toute la population"
+      - "Tout le monde a exactement la même chose"
+    answer: 3
+    explanation: "Le coefficient de Gini vaut 0 si tout le monde a exactement la même chose, et 1 si une seule personne a tout."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1126,6 +1224,20 @@ quiz:
       Chaque rappel réactive et recompose. Des détails peuvent s'ajouter ou se déformer, avec
       une confiance intacte. C'est pourquoi les témoignages oculaires sont moins fiables qu'on
       ne le croit.
+  - question: "Pourquoi un expert retient-il bien plus d'éléments dans son domaine ?"
+    options:
+      - "Sa mémoire de travail a une capacité plus grande que la moyenne"
+      - "Il relit plus souvent ce qu'il doit retenir"
+      - "Il mémorise des éléments plus gros, déjà organisés en motifs familiers"
+    answer: 3
+    explanation: "La mémoire de travail reste limitée. L'expert contourne cette limite par le regroupement : il retient des blocs plus gros, déjà organisés en motifs familiers."
+  - question: "Pourquoi la confiance d'un témoin n'est-elle pas un bon indicateur de l'exactitude de son souvenir ?"
+    options:
+      - "Parce que le souvenir est recomposé à chaque rappel et peut être influencé par ce qu'on nous raconte ou par la façon dont on pose la question"
+      - "Parce que les témoins mentent le plus souvent volontairement"
+      - "Parce que la mémoire sensorielle s'efface en une fraction de seconde"
+    answer: 1
+    explanation: "Un souvenir est reconstruit à chaque rappel, à partir de fragments, sous diverses influences. On peut même implanter des souvenirs d'événements qui n'ont jamais eu lieu."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1258,6 +1370,20 @@ quiz:
     explanation: >
       Elle s'acquiert vers quatre ou cinq ans. Avant, l'enfant suppose que ce qu'il sait, tout
       le monde le sait. C'est une étape essentielle de la vie sociale.
+  - question: "Dans l'expérience de l'eau, pourquoi un enfant de quatre ans affirme-t-il qu'il y a plus d'eau dans le verre étroit ?"
+    options:
+      - "Il n'a pas bien vu le liquide qu'on versait"
+      - "Il se concentre sur une seule dimension, le niveau plus haut"
+      - "Il ne sait pas encore compter jusqu'à deux"
+    answer: 2
+    explanation: "Ce n'est pas une erreur d'observation : l'enfant se concentre sur une seule dimension, le niveau. Sa façon de raisonner n'a pas encore acquis la conservation des quantités."
+  - question: "Pourquoi les travaux ultérieurs ont-ils nuancé les conclusions de Piaget ?"
+    options:
+      - "Avec des tests moins dépendants du langage, on observe des capacités bien plus précoces chez les jeunes enfants"
+      - "Parce qu'ils ont montré que Piaget avait surestimé les compétences des jeunes enfants"
+      - "Parce qu'ils ont prouvé que les enfants ne progressent pas du tout par étapes"
+    answer: 1
+    explanation: "Piaget avait souvent sous-estimé les jeunes enfants. Les tests moins dépendants du langage révèlent des capacités plus précoces, et le développement apparaît plus continu que découpé en stades nets."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1390,6 +1516,20 @@ quiz:
     explanation: >
       C'est le biais de disponibilité : nous jugeons la fréquence d'un événement à la facilité
       avec laquelle nous en trouvons des exemples, pas à sa fréquence réelle.
+  - question: "Pourquoi celui qui annonce le premier chiffre dans une négociation obtient-il un avantage ?"
+    options:
+      - "Parce qu'il paraît toujours plus compétent"
+      - "Parce que le premier chiffre entendu influence tous les jugements suivants, c'est l'ancrage"
+      - "Parce que l'autre partie cherche surtout ce qui confirme son avis"
+    answer: 2
+    explanation: "Le premier chiffre entendu ancre les jugements suivants, même quand il est arbitraire. C'est pourquoi le premier chiffre annoncé pèse dans une négociation."
+  - question: "Qu'est-ce qui permet réellement de limiter les biais cognitifs ?"
+    options:
+      - "Décider simplement d'être objectif"
+      - "Se fier à son expérience d'expert"
+      - "Des méthodes : chercher ce qui contredit son hypothèse, écrire sa prédiction avant le résultat, demander l'avis d'un tiers"
+    answer: 3
+    explanation: "Décider d'être objectif ne fonctionne pas. Ce qui marche relève de la méthode, et c'est exactement à cela que sert la méthode scientifique."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1529,6 +1669,20 @@ quiz:
     explanation: >
       Un seul dissident suffit à faire chuter la conformité de façon spectaculaire. Ce n'est
       pas l'unanimité du groupe qui pèse, c'est le fait d'être seul contre tous.
+  - question: "Pourquoi les expériences d'obéissance à l'autorité sont-elles aujourd'hui discutées ?"
+    options:
+      - "Elles ne seraient plus autorisées pour des raisons éthiques, et leurs comptes rendus montrent des variations entre conditions et un rôle de l'insistance de l'expérimentateur"
+      - "Personne n'a jamais pu en reproduire les résultats"
+      - "Les participants savaient d'avance que les chocs électriques étaient faux"
+    answer: 1
+    explanation: "Ces travaux sont discutés sur le plan éthique et méthodologique : les comptes rendus détaillés montrent des variations entre conditions et un rôle de l'insistance de l'expérimentateur."
+  - question: "Que montrent les recherches sur le rôle de la situation par rapport à celui de la personnalité ?"
+    options:
+      - "La personnalité explique l'essentiel d'un comportement"
+      - "Le contexte explique souvent davantage un comportement, sans annuler la responsabilité individuelle"
+      - "La responsabilité individuelle disparaît dès qu'on est dans un groupe"
+    answer: 2
+    explanation: "Notre réflexe est d'expliquer un comportement par la personnalité, mais le contexte pèse souvent davantage. Cela n'annule pas la responsabilité individuelle : cela indique où agir."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1657,6 +1811,20 @@ quiz:
     explanation: >
       C'est le cœur de l'analyse : l'égalité formelle de traitement peut produire de
       l'inégalité réelle quand les élèves n'arrivent pas avec les mêmes ressources.
+  - question: "Pourquoi une orientation précoce vers des filières séparées renforce-t-elle les écarts sociaux ?"
+    options:
+      - "Parce que les élèves choisissent toujours les filières les plus sélectives"
+      - "Parce qu'elle retarde l'accès à l'information sur les métiers"
+      - "Parce qu'elle sépare tôt les élèves, et que cette orientation reflète largement l'origine sociale"
+    answer: 3
+    explanation: "Les systèmes qui orientent tôt tendent à renforcer les écarts, car l'orientation précoce reflète largement l'origine sociale. Une orientation tardive laisse aux trajectoires le temps de s'écarter des origines."
+  - question: "Qu'appelle-t-on autocensure dans ce contexte ?"
+    options:
+      - "À résultats égaux, les élèves d'origine modeste se dirigent moins souvent vers les filières les plus sélectives"
+      - "Le fait que les enseignants évitent de noter sévèrement"
+      - "Le refus des familles aisées d'utiliser leurs ressources"
+    answer: 1
+    explanation: "L'autocensure est l'un des mécanismes concrets décrits : à résultats égaux, les élèves d'origine modeste visent moins souvent les filières les plus sélectives."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1826,6 +1994,20 @@ quiz:
       L'agriculture, contrairement à la chasse et la cueillette, nécessite de rester sur place
       pour surveiller et récolter les cultures, ce qui a conduit à l'établissement de villages
       permanents.
+  - question: "Comment des espèces sauvages sont-elles devenues des variétés domestiquées ?"
+    options:
+      - "En cueillant plus souvent les plantes dans la nature"
+      - "En sélectionnant et en replantant les graines des plantes les plus productives"
+      - "En protégeant les plantes uniquement de la pluie"
+    answer: 2
+    explanation: "Sélectionner et replanter les graines des plantes les plus productives a progressivement transformé des espèces sauvages en variétés domestiquées, dépendantes de l'intervention humaine."
+  - question: "Pourquoi le surplus alimentaire a-t-il favorisé l'artisanat et le commerce ?"
+    options:
+      - "Parce que tout le monde pouvait désormais cultiver sans travailler"
+      - "Parce que les cultures exigeaient de voyager loin pour échanger"
+      - "Parce que certaines personnes pouvaient se consacrer à d'autres activités que produire de la nourriture"
+    answer: 3
+    explanation: "Un surplus permet à certaines personnes de ne plus produire de nourriture et de se consacrer à l'artisanat spécialisé, au commerce et, à terme, aux premières civilisations."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -1951,6 +2133,20 @@ quiz:
       Un percuteur plus tendre, comme un morceau de bois ou de bois de cervidé, permet un
       détachement d'éclats plus contrôlé et plus précis qu'un percuteur en pierre dure,
       représentant une avancée technique majeure.
+  - question: "Quel avantage offre un percuteur tendre, en bois ou en bois de cervidé, par rapport à la pierre dure ?"
+    options:
+      - "Il détache des éclats plus gros"
+      - "Il permet un contrôle bien plus fin du résultat"
+      - "Il rend la roche taillée plus dure"
+    answer: 2
+    explanation: "L'usage de percuteurs plus tendres a permis un contrôle bien plus fin du résultat obtenu."
+  - question: "Que montre l'apparition des outils bifaciaux, taillés symétriquement sur leurs deux faces ?"
+    options:
+      - "Une planification plus poussée du geste de taille"
+      - "Que la taille se faisait désormais sans réflexion"
+      - "Que le silex avait été remplacé par un autre matériau"
+    answer: 1
+    explanation: "Les outils bifaciaux témoignent d'une planification plus poussée du geste de taille, par rapport aux simples éclats."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2159,6 +2355,20 @@ quiz:
     explanation: >
       Les États-Unis ont transféré environ 13,3 milliards de dollars à dix-sept pays d'Europe
       occidentale entre 1948 et 1952 pour soutenir leur reconstruction économique après la guerre.
+  - question: "Quel avantage a apporté le fait que le plan encourageait une reconstruction coordonnée plutôt qu'isolée ?"
+    options:
+      - "Une compétition plus forte entre pays voisins"
+      - "Une reconstruction plus rapide dans un seul pays"
+      - "Une reconstruction plus efficace des transports, de l'industrie et du commerce à l'échelle du continent"
+    answer: 3
+    explanation: "La coopération entre pays a permis de reconstruire plus efficacement les réseaux de transport, l'industrie et le commerce à l'échelle de tout le continent."
+  - question: "Quel héritage durable le plan Marshall a-t-il laissé au-delà de la reconstruction matérielle ?"
+    options:
+      - "Les bases d'une coopération économique européenne, qui a contribué aux premières institutions d'intégration européenne"
+      - "La création immédiate d'une monnaie commune"
+      - "Une présence militaire américaine permanente"
+    answer: 1
+    explanation: "Le plan a posé les bases d'une coopération économique européenne prolongée, qui a contribué à l'émergence des premières institutions d'intégration européenne."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2334,6 +2544,20 @@ quiz:
       Diamond met l'accent sur l'épuisement des ressources locales, comme les terres cultivables
       ou les forêts, comme facteur déterminant dans l'effondrement de plusieurs sociétés
       étudiées.
+  - question: "Que se passe-t-il quand plusieurs facteurs d'effondrement se combinent ?"
+    options:
+      - "Chacun est compensé par les autres jusqu'à ce que le dernier cède"
+      - "Le facteur militaire finit toujours par tout expliquer"
+      - "Ils s'aggravent mutuellement jusqu'à dépasser la capacité d'adaptation de la société"
+    answer: 3
+    explanation: "Sécheresse, mauvaise gestion, tensions internes et pression militaire peuvent se combiner et s'aggraver mutuellement jusqu'à dépasser la capacité d'adaptation d'une société."
+  - question: "Que s'est-il passé pour les populations après la chute de l'Empire romain d'Occident ?"
+    options:
+      - "Elles ont disparu avec l'empire"
+      - "Elles ont continué à vivre selon des structures plus simples et décentralisées"
+      - "Elles ont conservé la même administration à plus petite échelle"
+    answer: 2
+    explanation: "Un effondrement politique ne signifie pas la disparition de la population : après la chute de Rome, les gens ont continué à vivre dans des structures beaucoup plus simples et décentralisées."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2479,6 +2703,20 @@ quiz:
       Smith a formulé le principe selon lequel l'étendue de la division du travail est toujours
       limitée par l'étendue du marché : une spécialisation poussée n'a de sens que si la demande
       est suffisante pour écouler la production ainsi obtenue.
+  - question: "Pourquoi se spécialiser dans une tâche répétée augmente-t-il la productivité ?"
+    options:
+      - "On développe vite une compétence approfondie, on évite les pertes de temps liées au changement d'activité et on peut utiliser des outils adaptés"
+      - "Chaque ouvrier travaille simplement plus longtemps"
+      - "Chaque ouvrier fabrique un produit entier, ce qui évite les erreurs"
+    answer: 1
+    explanation: "La spécialisation permet d'acquérir rapidement une compétence, d'éviter les pertes de temps du changement d'activité et d'utiliser des outils spécifiques à la tâche."
+  - question: "Quelle vulnérabilité une spécialisation trop poussée peut-elle créer ?"
+    options:
+      - "Elle diminue toujours la qualité des produits"
+      - "Elle empêche tout commerce entre régions"
+      - "Elle rend vulnérable si la demande pour sa spécialité disparaît, et crée une dépendance envers d'autres partenaires"
+    answer: 3
+    explanation: "Un travailleur ou une région très spécialisé est exposé si la demande disparaît, et dépend des autres pour tout ce qu'il ne produit plus lui-même."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2616,6 +2854,13 @@ sources:
     url: "https://en.wikipedia.org/wiki/History_of_accounting"
     publisher: "Wikipedia"
     date: "2025"
+  - title: "Pacioli's innovation in accounting: business or academic affairs"
+    url: "https://www.um.edu.mt/library/oar/bitstream/123456789/31139/1/Pacioli%e2%80%99s_innovation_in_accounting_business_or_academic_affairs_2014.pdf"
+    publisher: "University of Malta"
+    date: "2014"
+  - title: "Lost in Translation (Accounting History)"
+    url: "https://abdn.elsevierpure.com/files/222838131/Sangster_etal_AH_Lost_in_Translation_VOR.pdf"
+    publisher: "University of Aberdeen"
 quiz:
   - question: "Que signifie le principe de base de la comptabilité en partie double ?"
     options:
@@ -2640,6 +2885,20 @@ quiz:
       Des marchands vénitiens utilisaient déjà des versions de la comptabilité en partie double
       depuis environ deux siècles avant Pacioli. Sa contribution majeure fut de systématiser et
       de publier cette méthode, la rendant accessible à un public bien plus large.
+  - question: "Pourquoi enregistrer chaque opération deux fois permet-il de détecter les erreurs ?"
+    options:
+      - "Parce que la seconde écriture corrige automatiquement la première"
+      - "Parce que les deux inscriptions doivent s'équilibrer, donc une erreur provoque un déséquilibre visible"
+      - "Parce qu'un second comptable relit chaque écriture"
+    answer: 2
+    explanation: "Les deux inscriptions d'une opération doivent toujours s'équilibrer. Une erreur de saisie crée un déséquilibre, ce qui permet de la repérer rapidement."
+  - question: "Pourquoi le livre de Luca Pacioli a-t-il popularisé la méthode bien au-delà de Venise ?"
+    options:
+      - "Parce qu'il avait inventé la méthode"
+      - "Parce que les marchands vénitiens la gardaient secrète jusque-là"
+      - "Parce que l'imprimerie, tout juste inventée, l'a diffusé bien plus largement qu'un manuscrit"
+    answer: 3
+    explanation: "Pacioli a décrit en 1494 une méthode déjà pratiquée par les marchands. Grâce à l'imprimerie, son livre s'est diffusé bien plus largement qu'un manuscrit."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2769,6 +3028,20 @@ quiz:
       Les toutes premières pièces de monnaie frappées sont généralement attribuées à la Lydie,
       une région d'Asie Mineure, vers le septième ou sixième siècle avant notre ère, à peu près à
       la même époque que des développements similaires en Inde et en Chine.
+  - question: "Pourquoi des biens comme le sel, les coquillages ou le bétail ont-ils facilité les échanges ?"
+    options:
+      - "Ils étaient plus légers et plus faciles à transporter que l'or"
+      - "Leur valeur était généralement reconnue par tous, même sans coïncidence des besoins"
+      - "Un souverain garantissait leur poids et leur valeur"
+    answer: 2
+    explanation: "Ces biens étaient largement acceptés comme intermédiaires : chacun savait qu'il pourrait les échanger ensuite, ce qui évitait de chercher un partenaire ayant exactement le besoin opposé."
+  - question: "Qu'apportaient les pièces frappées par rapport à l'or et à l'argent simplement pesés ?"
+    options:
+      - "Elles garantissaient un poids et une valeur standardisés sans pesée à chaque échange"
+      - "Elles permettaient de se passer de métaux précieux pour échanger"
+      - "Elles étaient plus rares, donc plus précieuses que les lingots"
+    answer: 1
+    explanation: "La pièce frappée porte une garantie de poids et de valeur : on n'a plus besoin de peser le métal à chaque transaction."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3145,6 +3418,13 @@ quiz:
     explanation: >
       En relisant, tout paraît familier. Mais le jour de l'examen, il faut retrouver
       l'information sans l'avoir sous les yeux.
+  - question: "Pourquoi vaut-il mieux mélanger les types d'exercices plutôt que d'en faire vingt identiques d'affilée ?"
+    options:
+      - "Parce que cela permet de finir plus vite sa séance de travail"
+      - "Parce que cela évite de se fatiguer sur un seul sujet"
+      - "Parce que l'on apprend ainsi à reconnaître quelle méthode utiliser"
+    answer: 3
+    explanation: "Face à des exercices variés, il faut choisir la bonne méthode, alors qu'une série identique permet de répéter sans réfléchir au choix."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -3524,6 +3804,9 @@ sources:
     url: "https://en.wikipedia.org/wiki/Governing_the_Commons"
     publisher: "Wikipedia"
     date: "2025"
+  - title: "Les communs, « tragédie » ou système de préservation des ressources ?"
+    url: "https://www.universalis.fr/encyclopedie/communs/2-des-biens-rivaux-exclusifs-et-geres-selon-des-regles-collectives/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Que soutenait la théorie de la tragédie des biens communs avant les travaux d'Elinor Ostrom ?"
     options:
@@ -3548,6 +3831,20 @@ quiz:
       Elinor Ostrom a reçu ce prix pour avoir démontré, à partir d'études de cas réelles, que des
       communautés peuvent gérer durablement des ressources partagées comme les pâturages, les
       forêts ou les zones de pêche, sans intervention extérieure, grâce à des règles collectives.
+  - question: "Pourquoi la confiance mutuelle rend-elle inutile la tentation de prélever plus que sa part ?"
+    options:
+      - "Parce que chacun sait que les autres respectent leur engagement"
+      - "Parce qu'un propriétaire unique surveille en permanence la ressource"
+      - "Parce que la ressource devient illimitée quand on la partage"
+    answer: 1
+    explanation: "Les communautés se rencontrent pour ajuster leurs règles ; chacun sait que les autres les respectent, donc personne n'a intérêt à prendre plus que sa part."
+  - question: "Laquelle de ces règles fait partie des principes communs aux communautés étudiées par Ostrom ?"
+    options:
+      - "Un contrôle assuré uniquement par une autorité extérieure"
+      - "Des sanctions progressives contre ceux qui ne respectent pas les règles"
+      - "L'accès libre pour tous, sans frontières définies"
+    answer: 2
+    explanation: "Parmi les principes identifiés figurent des frontières claires, des règles locales, une surveillance par les usagers et des sanctions progressives."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3689,6 +3986,9 @@ sources:
     url: "https://en.wikipedia.org/wiki/Oral_tradition"
     publisher: "Wikipedia"
     date: "2025"
+  - title: "Compagnonnage, network of knowledge and identity in apprenticeship"
+    url: "https://ich.unesco.org/en/RL/the-compagnonnage-network-of-knowledge-and-identity-in-apprenticeship-00441"
+    publisher: "UNESCO"
 quiz:
   - question: "Comment fonctionnait traditionnellement l'apprentissage d'un métier avant la
       généralisation des écoles ?"
@@ -3714,6 +4014,20 @@ quiz:
       Un texte peut décrire une technique, mais des savoir-faire comme le geste précis d'un
       artisan, le ton d'un conte ou une intuition pratique se transmettent mieux par la
       démonstration directe et la répétition orale, en complément de tout support écrit.
+  - question: "Pourquoi le compagnonnage reste-t-il irremplaçable pour des métiers comme la forge ou la menuiserie ?"
+    options:
+      - "Parce qu'il remplace entièrement l'écriture et l'école"
+      - "Parce qu'il permet de former beaucoup d'élèves en même temps"
+      - "Parce que l'apprenti observe, imite puis pratique sous la supervision d'un maître"
+    answer: 3
+    explanation: "Les savoir-faire manuels s'acquièrent par la relation prolongée avec un maître : observer, imiter les gestes, puis pratiquer jusqu'à maîtriser le métier."
+  - question: "Que permet l'écriture que la seule mémoire d'une personne ne permet pas ?"
+    options:
+      - "Accumuler des connaissances sur des siècles, consultables par quiconque sait lire"
+      - "Remplacer la démonstration pratique des gestes"
+      - "Transmettre un métier sans aucun contact avec un maître"
+    answer: 1
+    explanation: "L'écriture conserve les savoirs au-delà de la mémoire d'une personne ou d'une génération, ce qui rend possible leur accumulation."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -5730,6 +6044,9 @@ sources:
   - title: "Radiocarbon dating"
     url: "https://en.wikipedia.org/wiki/Radiocarbon_dating"
     publisher: "Wikipedia"
+  - title: "Radiocarbon Dating 101"
+    url: "https://www.texasbeyondhistory.net/radiocarbon/dating101.html"
+    publisher: "Texas Beyond History (University of Texas at Austin, Texas Historical Commission)"
 quiz:
   - question: "Où se forme le carbone 14 ?"
     options:
@@ -6036,6 +6353,9 @@ sources:
   - title: "Dendrochronology"
     url: "https://en.wikipedia.org/wiki/Dendrochronology"
     publisher: "Wikipedia"
+  - title: "Lire dans les cernes des arbres"
+    url: "https://www.academie-agriculture.fr/sites/default/files/publications/encyclopedie/lire_dans_les_cernes_des_arbres.pdf"
+    publisher: "Académie d'agriculture de France"
 quiz:
   - question: "Combien de cernes un arbre fabrique-t-il en général chaque année ?"
     options:
@@ -6481,6 +6801,9 @@ sources:
   - title: "Spear-thrower"
     url: "https://en.wikipedia.org/wiki/Spear-thrower"
     publisher: "Wikipedia"
+  - title: "Le propulseur (article)"
+    url: "https://orbi.uliege.be/bitstream/2268/177319/1/propulseurbcw-49_p.105-131.pdf"
+    publisher: "Université de Liège"
 quiz:
   - question: "Comment le propulseur aide-t-il à lancer plus vite ?"
     options:
@@ -7115,6 +7438,13 @@ quiz:
     explanation: >
       Les retours extérieurs et l'apprentissage aident à prendre conscience de ce qu'on ne sait pas
       encore.
+  - question: "Pourquoi la courbe avec un sommet de la stupidité et une vallée du désespoir est-elle trompeuse ?"
+    options:
+      - "Elle montre que les experts se surestiment plus que les débutants"
+      - "Elle ne vient pas de l'étude d'origine, dont l'effet est plus modeste"
+      - "Elle prouve que seules certaines personnes sont concernées"
+    answer: 2
+    explanation: "Cette courbe circulant sur Internet n'est pas dans l'étude de départ. L'effet réel est plus modeste : les débutants se croient simplement au-dessus de la moyenne."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -7211,6 +7541,9 @@ sources:
   - title: "Abraham Wald"
     url: "https://fr.wikipedia.org/wiki/Abraham_Wald"
     publisher: "Wikipédia"
+  - title: "Survivorship bias"
+    url: "https://www.britannica.com/science/survivorship-bias"
+    publisher: "Encyclopaedia Britannica"
 quiz:
   - question: "Où le statisticien Abraham Wald a-t-il conseillé de renforcer les avions ?"
     options:
@@ -7700,6 +8033,9 @@ sources:
   - title: "Multitasking"
     url: "https://fr.wikipedia.org/wiki/Multitasking"
     publisher: "Wikipédia"
+  - title: "Can we really do two things at once?"
+    url: "https://cordis.europa.eu/article/id/466274-can-we-really-do-two-things-at-once/fr"
+    publisher: "CORDIS (Commission européenne)"
 quiz:
   - question: "Que fait vraiment le cerveau quand on croit faire deux choses à la fois ?"
     options:
@@ -10202,6 +10538,13 @@ quiz:
     explanation: >
       Une personne qui renonce à chercher n'est plus comptée comme chômeur, ce qui fait baisser le taux
       sans création d'emploi.
+  - question: "Pourquoi le nombre d'inscrits à France Travail ne donne-t-il pas le même chiffre que le chômage au sens du BIT ?"
+    options:
+      - "Parce que seuls les actifs de plus de cinquante ans s'inscrivent"
+      - "Parce que l'Insee compte uniquement les personnes indemnisées"
+      - "Parce qu'on peut être inscrit en travaillant quelques heures, ou chômeur sans être inscrit"
+    answer: 3
+    explanation: "Les deux mesures ne recouvrent pas les mêmes situations : l'inscription n'est ni nécessaire ni suffisante pour être chômeur au sens du BIT."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -10638,6 +10981,10 @@ sources:
   - title: "Network effect"
     url: "https://en.wikipedia.org/wiki/Network_effect"
     publisher: "Wikipedia"
+  - title: "Monopole de fait : l'Autorité de la concurrence délivre un avis"
+    url: "https://www.concurrences.com/en/review/issues/no-2-2017/chroniques/unilateral-practices-5869/monopole-de-fait-l-autorite-de-la-concurrence-delivre-un-avis-sur-les"
+    publisher: "Concurrences (revue de droit de la concurrence)"
+    date: "2017"
 quiz:
   - question: "Pourquoi un monopole vend-il en général plus cher qu'un marché concurrentiel ?"
     options:
@@ -10665,6 +11012,13 @@ quiz:
     explanation: >
       Les autorités de concurrence sanctionnent les abus de position dominante et contrôlent les fusions
       ; des régulateurs encadrent les monopoles naturels.
+  - question: "Qu'appelle-t-on la perte sèche dans le cas d'un monopole ?"
+    options:
+      - "Une richesse qui n'est créée pour personne, car des clients renoncent d'acheter au prix élevé"
+      - "Le profit supplémentaire gagné par l'entreprise en situation de monopole"
+      - "L'argent perdu par le monopole quand il baisse ses prix"
+    answer: 1
+    explanation: "En réduisant la quantité vendue et en augmentant son prix, le monopole écarte des clients qui auraient acheté : cette richesse non créée est la perte sèche."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -13652,6 +14006,9 @@ sources:
   - title: "Factory Acts"
     url: "https://en.wikipedia.org/wiki/Factory_Acts"
     publisher: "Wikipedia"
+  - title: "Luddite"
+    url: "https://www.britannica.com/event/Luddite"
+    publisher: "Encyclopaedia Britannica"
 quiz:
   - question: "Où commence la révolution industrielle ?"
     options:
@@ -13958,6 +14315,9 @@ sources:
   - title: "Hyperbolic discounting"
     url: "https://en.wikipedia.org/wiki/Hyperbolic_discounting"
     publisher: "Wikipedia"
+  - title: "Just do it tomorrow: Procrastination in Tunisian university students"
+    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9480316/"
+    publisher: "European Psychiatry (Cambridge University Press)"
 quiz:
   - question: "Procrastiner, est-ce seulement de la paresse ?"
     options:
@@ -14059,6 +14419,12 @@ sources:
   - title: "Confirmation bias"
     url: "https://en.wikipedia.org/wiki/Confirmation_bias"
     publisher: "Wikipedia"
+  - title: "Could 'inoculation' limit misinformation?"
+    url: "https://news.cornell.edu/node/329707"
+    publisher: "Cornell University"
+  - title: "Lessons learned inoculation misinformation"
+    url: "https://www.hsph.harvard.edu/chc/2022/10/14/lessons-learned-inoculation-misinformation/"
+    publisher: "Harvard T.H. Chan School of Public Health"
 quiz:
   - question: "Quelle est la différence entre mésinformation et désinformation ?"
     options:
@@ -14159,6 +14525,12 @@ sources:
   - title: "Économie comportementale"
     url: "https://fr.wikipedia.org/wiki/%C3%89conomie_comportementale"
     publisher: "Wikipédia"
+  - title: "The Affect Heuristic"
+    url: "https://longevity.stanford.edu/?p=21198"
+    publisher: "Stanford Center on Longevity"
+  - title: "Rational Actors or Rational Fools? Implications of the Affect Heuristic for Behavioral Economics"
+    url: "https://longevity.stanford.edu/rational-actors-or-rational-fools-implications-of-the-affect-heuristic-for-behavioral-economics/"
+    publisher: "Stanford Center on Longevity"
 quiz:
   - question: "Que fait l'heuristique d'affect ?"
     options:
@@ -14253,6 +14625,9 @@ sources:
   - title: "Rumeur d'Orléans"
     url: "https://fr.wikipedia.org/wiki/Rumeur_d%27Orl%C3%A9ans"
     publisher: "Wikipédia"
+  - title: "Rumor"
+    url: "https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/rumor"
+    publisher: "Encyclopedia.com"
 quiz:
   - question: "Qu'est-ce qu'une rumeur ?"
     options:
@@ -14349,6 +14724,12 @@ sources:
   - title: "Économie comportementale"
     url: "https://fr.wikipedia.org/wiki/%C3%89conomie_comportementale"
     publisher: "Wikipédia"
+  - title: "Improving regulation and outcomes through behavioural insights"
+    url: "https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2018_9789264303072-en/full-report/improving-regulation-and-outcomes-through-behavioural-insights_g1g97944"
+    publisher: "OECD"
+  - title: "Behavioural insights"
+    url: "https://oecd-opsi.org/guide/behavioural-insights/"
+    publisher: "OECD Observatory of Public Sector Innovation"
 quiz:
   - question: "Qu'est-ce qu'un nudge ?"
     options:
@@ -14542,6 +14923,9 @@ sources:
   - title: "Price revolution"
     url: "https://en.wikipedia.org/wiki/Price_revolution"
     publisher: "Wikipedia"
+  - title: "American Treasure and the Price Revolution in Spain, 1501-1650 (compte rendu)"
+    url: "https://eh.net/book_reviews/american-treasure-and-the-price-revolution-in-spain-1501-1650/"
+    publisher: "EH.net (Economic History Association)"
 quiz:
   - question: "Comment Bodin explique-t-il la hausse des prix ?"
     options:
@@ -14769,6 +15153,13 @@ quiz:
     explanation: >
       Trois abonnements à 10 € par mois coûtent 360 € par an. On les oublie facilement, d'où
       l'intérêt de les revoir régulièrement.
+  - question: "Pourquoi diviser par douze les dépenses annuelles comme la taxe foncière ou l'assurance ?"
+    options:
+      - "Pour pouvoir les payer plus tard sans y penser"
+      - "Pour les mettre de côté chaque mois et ne pas être surpris"
+      - "Pour les inclure dans la règle 50/30/20 automatiquement"
+    answer: 2
+    explanation: "Étaler la dépense sur douze mois permet de la provisionner mensuellement, au lieu de subir un gros paiement d'un coup."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -14891,6 +15282,9 @@ sources:
   - title: "Rule of 72"
     url: "https://en.wikipedia.org/wiki/Rule_of_72"
     publisher: "Wikipedia"
+  - title: "Intérêts composés"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/501409/interets-composes"
+    publisher: "Office québécois de la langue française"
 quiz:
   - question: "Que sont les intérêts composés ?"
     options:
@@ -14919,6 +15313,13 @@ quiz:
     explanation: >
       Une dette à 20 % par an non remboursée double en moins de quatre ans. Le même mécanisme
       qui enrichit l'épargnant appauvrit l'emprunteur.
+  - question: "Pourquoi la personne qui commence à 25 ans obtient-elle environ trois fois plus que celle qui commence à 40 ans, en ayant versé seulement deux fois plus ?"
+    options:
+      - "Parce qu'elle a choisi un placement beaucoup plus risqué"
+      - "Parce que son taux de rendement était supérieur"
+      - "Parce que les quinze années supplémentaires ont fait fructifier ses intérêts"
+    answer: 3
+    explanation: "Avec les intérêts composés, le temps démultiplie l'effet : les années en plus produisent des intérêts sur des intérêts, d'où l'importance de commencer tôt."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -15069,6 +15470,13 @@ quiz:
     explanation: >
       Sans réserve, une dépense imprévue pendant une baisse des marchés forcerait à vendre à
       perte ou à emprunter cher.
+  - question: "Pourquoi un livret qui rapporte parfois moins que l'inflation convient-il quand même à l'épargne de précaution ?"
+    options:
+      - "Parce que son rôle est d'assurer contre les imprévus, pas de rapporter"
+      - "Parce qu'il rapporte toujours plus que les actions"
+      - "Parce que son taux est fixé par la banque selon le client"
+    answer: 1
+    explanation: "Ces livrets sont disponibles à tout moment et sans risque de perte : ils servent d'assurance, pas de placement destiné à faire fructifier l'argent."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -15206,6 +15614,13 @@ quiz:
     explanation: >
       Rendement élevé et absence de risque ne vont jamais ensemble. L'AMF publie des listes noires
       des sites et acteurs non autorisés.
+  - question: "Pourquoi investir une somme fixe chaque mois est-il recommandé ?"
+    options:
+      - "Parce que cela garantit de toujours acheter au prix le plus bas"
+      - "Parce que cela évite de deviner le bon moment et d'acheter dans l'euphorie ou vendre dans la panique"
+      - "Parce que cela supprime tout risque de baisse des marchés"
+    answer: 2
+    explanation: "Personne ne sait prévoir le bon moment. Un versement régulier automatique évite les deux erreurs les plus coûteuses : acheter dans l'euphorie et vendre dans la panique."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -15324,6 +15739,9 @@ sources:
   - title: "Anchoring effect"
     url: "https://en.wikipedia.org/wiki/Anchoring_effect"
     publisher: "Wikipedia"
+  - title: "Principled Negotiation: Focus on Interests to Create Value"
+    url: "https://www.pon.harvard.edu/daily/negotiation-skills-daily/principled-negotiation-focus-interests-create-value/"
+    publisher: "Harvard Program on Negotiation"
 quiz:
   - question: "Qu'est-ce que la « meilleure solution de repli » dans une négociation ?"
     options:
@@ -15352,6 +15770,13 @@ quiz:
     explanation: >
       Un premier chiffre sert de point de référence. Annoncer en premier un chiffre ambitieux mais
       justifiable peut tirer l'accord dans sa direction.
+  - question: "Que faut-il faire si l'autre partie annonce d'emblée un chiffre extrême ?"
+    options:
+      - "Partir de ce chiffre et négocier à partir de là"
+      - "Rester silencieux jusqu'à ce qu'il le modifie lui-même"
+      - "Le recadrer tout de suite plutôt que d'en partir"
+    answer: 3
+    explanation: "Le premier chiffre sert d'ancre et influence la suite : face à un chiffre extrême, il faut le recadrer immédiatement au lieu de l'adopter comme base."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -15489,6 +15914,13 @@ quiz:
     explanation: >
       Laisser ses chaussures de sport devant la porte ou ranger son téléphone dans une autre pièce
       agit plus sûrement qu'un effort de volonté répété.
+  - question: "Pour se défaire d'une mauvaise habitude, quelle approche est recommandée face au stress ?"
+    options:
+      - "Se forcer à ne rien faire jusqu'à ce que l'envie disparaisse"
+      - "Remplacer l'action par une autre qui apporte une récompense proche, comme marcher cinq minutes"
+      - "Attendre d'avoir assez de volonté pour supprimer le déclencheur"
+    answer: 2
+    explanation: "Supprimer une habitude est plus difficile que d'en créer une : on réussit mieux en remplaçant l'action par une autre qui offre une récompense proche."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -15621,6 +16053,13 @@ quiz:
     explanation: >
       Chaque changement de tâche a un coût. Une notification peut faire perdre plusieurs minutes de
       concentration.
+  - question: "Pourquoi savoir dire non ou pas maintenant aide-t-il à gérer son temps ?"
+    options:
+      - "Parce que refuser évite toujours de vexer les autres"
+      - "Parce que chaque oui à une demande est un non à autre chose, notamment à ses priorités"
+      - "Parce que cela permet de faire plusieurs choses en même temps"
+    answer: 2
+    explanation: "Accepter une demande prend du temps pris ailleurs : refuser poliment, en proposant une alternative, protège ce qui compte vraiment."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -15729,6 +16168,10 @@ sources:
   - title: "Rhétorique"
     url: "https://fr.wikipedia.org/wiki/Rh%C3%A9torique"
     publisher: "Wikipédia"
+  - title: "Fear of public speaking can be conquered: new research"
+    url: "https://lighthouse.mq.edu.au/article/may-2025/fear-of-public-speaking-can-be-conquered-new-research"
+    publisher: "Macquarie University"
+    date: "2025"
 quiz:
   - question: "Quelle est la première chose à définir avant de préparer une intervention ?"
     options:
@@ -15757,6 +16200,13 @@ quiz:
     explanation: >
       Une respiration lente calme le rythme cardiaque. Voir le trac comme de l'excitation plutôt
       que comme un danger aide à mieux parler.
+  - question: "Pourquoi conseille-t-on de choisir trois idées au plus pour soutenir son message ?"
+    options:
+      - "Parce que le temps de parole est toujours limité à dix minutes"
+      - "Parce qu'au-delà, le public décroche"
+      - "Parce que les diapositives ne peuvent pas en contenir davantage"
+    answer: 2
+    explanation: "Un message principal soutenu par peu d'idées reste mémorisable : trop d'idées font perdre l'attention du public."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -15872,6 +16322,9 @@ sources:
   - title: "Active listening"
     url: "https://en.wikipedia.org/wiki/Active_listening"
     publisher: "Wikipedia"
+  - title: "Communication non violente et écoute active (diaporama)"
+    url: "https://plateformepolecalais.etab.ac-lille.fr/files/2021/12/Communication-non-violente-et-ecoute-active-Diapos-Journee-QVT-Calais-1-CNV.pdf"
+    publisher: "Académie de Lille (Éducation nationale)"
 quiz:
   - question: "Qu'est-ce que reformuler, dans l'écoute active ?"
     options:
@@ -15899,6 +16352,13 @@ quiz:
     answer: 3
     explanation: >
       L'autre cherche alors un contre-exemple au lieu d'écouter le problème réel.
+  - question: "Pourquoi vaut-il mieux accueillir l'émotion de l'autre avant de chercher une solution ?"
+    options:
+      - "Parce que beaucoup de gens veulent d'abord être compris, pas conseillés"
+      - "Parce qu'une solution rapide est toujours mal reçue"
+      - "Parce que l'émotion disparaît d'elle-même après quelques minutes"
+    answer: 1
+    explanation: "Se sentir entendu passe souvent avant tout conseil : proposer trop vite une solution peut donner l'impression de ne pas être écouté."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -16035,6 +16495,13 @@ quiz:
     explanation: >
       Le code du travail interdit de discriminer selon la situation de famille, la grossesse,
       l'origine, la religion et d'autres critères.
+  - question: "Pourquoi dit-on je plutôt que nous dans la partie Action de la méthode STAR ?"
+    options:
+      - "Pour paraître plus sûr de soi que les autres candidats"
+      - "Pour raccourcir la réponse et gagner du temps"
+      - "Pour montrer ce que l'on a fait soi-même"
+    answer: 3
+    explanation: "Le recruteur évalue le candidat : il faut donc préciser sa propre action, et pas seulement celle de l'équipe."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -16154,6 +16621,12 @@ sources:
   - title: "Professional network service"
     url: "https://en.wikipedia.org/wiki/Professional_network_service"
     publisher: "Wikipedia"
+  - title: "The Strength of Weak Ties"
+    url: "https://apice.unibo.it/xwiki/bin/view/Publication/GranovetterAjs78"
+    publisher: "Università di Bologna (APICE)"
+  - title: "The Strength of Weak Ties"
+    url: "https://smg.media.mit.edu/classes/library/granovetter.weak.ties/granovetter.html"
+    publisher: "MIT Media Lab"
 quiz:
   - question: "Qu'a montré Mark Granovetter sur la force des liens faibles ?"
     options:
@@ -16182,6 +16655,13 @@ quiz:
     explanation: >
       Demander vingt minutes de conseils est bien plus facile à accepter qu'une demande d'emploi,
       et cela crée souvent des liens utiles.
+  - question: "Laquelle de ces actions illustre le principe de réciprocité dans un réseau ?"
+    options:
+      - "Contacter ses relations uniquement quand on cherche un emploi"
+      - "Envoyer le même message à tous ses contacts"
+      - "Mettre en relation deux personnes qui gagneraient à se connaître"
+    answer: 3
+    explanation: "Un réseau repose sur l'entraide : partager une information, mettre en relation ou féliciter entretient les relations avant d'avoir besoin d'aide."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -16329,6 +16809,13 @@ quiz:
     explanation: >
       Hésiter des semaines sur un choix facile à corriger fait perdre du temps. Une décision
       définitive mérite, elle, une vraie réflexion.
+  - question: "Pourquoi faut-il juger une décision sur sa qualité au moment où elle a été prise, et pas seulement sur son résultat ?"
+    options:
+      - "Parce que le résultat dépend aussi du hasard"
+      - "Parce que seules les décisions irréversibles comptent"
+      - "Parce que le résultat n'est jamais connu avec certitude"
+    answer: 1
+    explanation: "Une bonne décision peut mal tourner par malchance. Relire ses notes permet de juger le raisonnement avec les informations disponibles."
 lastVerified: 2026-11-07
 status: published
 ---

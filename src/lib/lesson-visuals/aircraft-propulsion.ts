@@ -4,7 +4,6 @@ export const AIRCRAFT_PROPULSION_DIAGRAMS: readonly LessonDiagramSpec[] = [
     id: "hydrogenair",
     title: "Stocker l’hydrogène puis choisir une chaîne de propulsion",
     paths: [
-      "/aeronautique/aviation-civile/decarbonation/avion-a-hydrogene-etat-des-projets",
       "/aeronautique/propulsion/propulsion-electrique-aeronautique/que-rejette-un-avion-a-hydrogene-et-ou-loge-t-on-le-carburant",
     ],
     steps: [

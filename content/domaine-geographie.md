@@ -200,6 +200,20 @@ quiz:
     explanation: >
       C'est l'isostasie. La croûte flotte sur le manteau. Retirer de la matière par érosion
       allège l'ensemble, qui remonte pour retrouver son équilibre.
+  - question: "Pourquoi, lors de la collision entre l'Inde et l'Eurasie, aucune plaque ne plonge-t-elle franchement sous l'autre ?"
+    options:
+      - "La plaque indienne est bien plus lourde que la plaque eurasiatique"
+      - "Les deux plaques se déplacent trop lentement pour plonger"
+      - "Les deux croûtes continentales ont des densités proches"
+    answer: 3
+    explanation: "Deux croûtes continentales ont des densités proches : aucune ne s'enfonce nettement. La matière s'empile alors et se soulève, ce qui forme l'Himalaya."
+  - question: "Comment la subduction d'une plaque océanique finit-elle par construire une chaîne volcanique comme les Andes ?"
+    options:
+      - "En s'enfonçant, la plaque libère de l'eau qui fait fondre le manteau, et le magma remonte"
+      - "La plaque océanique, plus légère, remonte et déforme la plaque continentale"
+      - "La friction entre les plaques fait fondre directement la croûte continentale"
+    answer: 1
+    explanation: "La plaque océanique plus dense plonge et libère de l'eau, ce qui fait fondre le manteau au-dessus. Le magma remonte et construit la chaîne volcanique."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -315,6 +329,20 @@ quiz:
     explanation: >
       Un hiver froid ne contredit pas le réchauffement, de même qu'un jour de pluie ne
       contredit pas un climat désertique. Ce sont deux échelles de temps différentes.
+  - question: "Pourquoi Köppen s'est-il limité à la température et aux précipitations ?"
+    options:
+      - "Ce sont les seules données qu'on savait mesurer à son époque"
+      - "Il voulait définir des zones correspondant aux grands types de végétation"
+      - "Il estimait que le vent et l'altitude n'influencent pas le climat"
+    answer: 2
+    explanation: "Köppen cherchait à faire correspondre les climats aux grands types de végétation. La température et les précipitations suffisent pour cela."
+  - question: "Pourquoi un hiver très froid ne contredit-il pas le réchauffement mondial ?"
+    options:
+      - "La météo décrit un moment précis, le climat des statistiques sur des décennies"
+      - "Le réchauffement ne concerne que les régions tropicales"
+      - "Les hivers froids sont des erreurs de mesure sans importance"
+    answer: 1
+    explanation: "La météo et le climat sont deux échelles différentes : un épisode froid est un moment, alors que le climat se mesure sur des décennies."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -443,6 +471,20 @@ quiz:
     explanation: >
       C'est pourquoi un versant de montagne peut être verdoyant et l'autre quasi désertique,
       alors qu'ils sont distants de quelques dizaines de kilomètres seulement.
+  - question: "Pourquoi l'air chaud et humide qui monte à l'équateur donne-t-il de fortes pluies ?"
+    options:
+      - "Il rencontre des montagnes qui le bloquent"
+      - "Il se réchauffe en altitude et libère sa vapeur"
+      - "Il se refroidit en montant, et l'air froid retient moins de vapeur d'eau"
+    answer: 3
+    explanation: "En s'élevant, l'air se refroidit. Comme l'air froid contient beaucoup moins de vapeur d'eau, l'excès se condense et tombe en pluie."
+  - question: "Pourquoi la mousson apporte-t-elle de fortes pluies en été ?"
+    options:
+      - "Le continent surchauffe, l'air y monte et de l'air humide venu de la mer comble le vide"
+      - "L'océan se réchauffe plus vite que la terre et projette de l'eau vers l'intérieur"
+      - "L'air sec redescend sur le continent et se charge d'humidité"
+    answer: 1
+    explanation: "La terre chauffe plus vite que l'océan. L'air monte au-dessus du continent et l'air humide de la mer vient le remplacer, d'où la pluie abondante."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -562,6 +604,20 @@ quiz:
     explanation: >
       C'est l'inertie démographique. Une pyramide des âges large à la base continue de produire
       beaucoup de naissances pendant des décennies, même à fécondité faible.
+  - question: "Pourquoi la population explose-t-elle pendant la phase où la mortalité a déjà chuté ?"
+    options:
+      - "Les gens migrent massivement vers les pays riches"
+      - "Les naissances restent nombreuses alors que les décès diminuent"
+      - "La natalité augmente fortement grâce aux progrès médicaux"
+    answer: 2
+    explanation: "La mortalité chute grâce à l'eau potable, aux vaccins et à une meilleure alimentation, alors que les naissances restent nombreuses un temps. L'écart fait grandir la population."
+  - question: "Pourquoi les projections démographiques à trente ans sont-elles relativement fiables ?"
+    options:
+      - "Les migrations sont très faciles à prévoir"
+      - "Le nombre d'enfants par femme ne varie jamais"
+      - "Les parents des enfants de 2050 sont déjà nés"
+    answer: 3
+    explanation: "La structure par âge est connue : les futurs parents existent déjà. Cela rend les projections à trente ans assez solides."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -685,6 +741,20 @@ quiz:
       Logements mitoyens mieux isolés, trajets plus courts, transports collectifs viables,
       réseaux mutualisés. La densité réduit l'empreinte par personne, à condition d'être bien
       conçue.
+  - question: "Pourquoi faut-il rester prudent dans les comparaisons internationales du taux d'urbanisation ?"
+    options:
+      - "Il n'existe pas de définition universelle de l'urbain"
+      - "Les pays refusent de communiquer leurs données"
+      - "Les villes sont recensées une seule fois par siècle"
+    answer: 1
+    explanation: "Certains pays utilisent un seuil de population, d'autres une densité, d'autres des services administratifs. Un même lieu peut donc être urbain ici et rural ailleurs."
+  - question: "Pourquoi l'enjeu des prochaines décennies se joue-t-il surtout dans les villes moyennes d'Afrique et d'Asie ?"
+    options:
+      - "Elles sont déjà les plus polluées du monde"
+      - "Elles grandiront le plus vite, avec souvent peu de moyens de planification"
+      - "Elles manquent d'habitants pour justifier des transports collectifs"
+    answer: 2
+    explanation: "Ces villes grandiront le plus vite et disposent souvent du moins de moyens de planification. Or une croissance non planifiée annule les bénéfices de la ville."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -810,6 +880,20 @@ quiz:
     explanation: >
       La convention de 1951 définit le réfugié et interdit de le renvoyer vers un pays où sa
       vie serait menacée. Le terme migrant est général et sans statut juridique propre.
+  - question: "Que protège avant tout le statut de réfugié ?"
+    options:
+      - "Le droit de choisir librement son pays d'accueil"
+      - "Le droit de travailler dans n'importe quel pays"
+      - "L'interdiction de renvoyer une personne vers un pays où sa vie ou sa liberté serait menacée"
+    answer: 3
+    explanation: "Le statut de réfugié ouvre des protections, dont la principale est l'interdiction de renvoyer une personne vers un pays où elle serait menacée."
+  - question: "Pourquoi la situation juridique des personnes déplacées par des catastrophes environnementales reste-t-elle incertaine ?"
+    options:
+      - "La convention de 1951 ne les couvre pas"
+      - "Elles reviennent presque toujours chez elles rapidement"
+      - "Elles sont toutes considérées comme des demandeurs d'asile"
+    answer: 1
+    explanation: "Le statut de réfugié, défini en 1951, vise la crainte de persécution. Les déplacés environnementaux n'entrent pas dans cette définition, leur statut reste donc indéfini."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -933,6 +1017,20 @@ quiz:
     explanation: >
       Le raisonnement était qu'ouvrir la question des frontières provoquerait des guerres en
       chaîne. On a préféré des frontières imparfaites mais stables.
+  - question: "Pourquoi une frontière naturelle comme un fleuve peut-elle créer des litiges ?"
+    options:
+      - "Un fleuve est toujours trop étroit pour séparer deux pays"
+      - "Son lit bouge au fil des siècles, ce qui déplace la frontière"
+      - "Les fleuves appartiennent par principe au pays le plus ancien"
+    answer: 2
+    explanation: "Un fleuve change de lit avec le temps, ce qui déplace la frontière ou provoque des disputes. Une frontière naturelle n'est donc pas forcément stable."
+  - question: "Pourquoi la découverte de ressources ravive-t-elle souvent d'anciens litiges frontaliers ?"
+    options:
+      - "Un territoire sans intérêt apparent devient soudain disputé"
+      - "Les traités anciens sont automatiquement annulés"
+      - "Les ressources déplacent les frontières naturelles"
+    answer: 1
+    explanation: "Pétrole, gaz ou minerais découverts après le tracé donnent de la valeur à un territoire jusque-là négligé. C'est ce qui s'est produit pour l'Essequibo."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1057,6 +1155,20 @@ quiz:
     explanation: >
       Leur nom est trompeur. Le goulot d'étranglement est le raffinage, très concentré, et non
       la présence du minerai dans le sol.
+  - question: "Le minerai de lithium n'est pas très concentré : pourquoi la ressource est-elle pourtant jugée vulnérable ?"
+    options:
+      - "Le lithium est extrêmement rare dans la croûte terrestre"
+      - "Le raffinage, lui, est beaucoup plus concentré géographiquement"
+      - "Il ne peut être extrait que dans des lacs salés"
+    answer: 2
+    explanation: "Le minerai est assez réparti, mais la transformation en composés utilisables est très concentrée. Le point faible de la chaîne est donc le raffinage."
+  - question: "Pourquoi l'offre de certains métaux pour semi-conducteurs réagit-elle peu à la demande ?"
+    options:
+      - "Ils sont produits comme sous-produits d'autres extractions"
+      - "Ils sont interdits d'exportation dans la plupart des pays"
+      - "Ils ne se trouvent que dans quelques mines très profondes"
+    answer: 1
+    explanation: "Ces métaux sont souvent des sous-produits d'autres extractions. On ne peut donc pas augmenter leur production simplement parce que la demande monte."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1179,6 +1291,20 @@ quiz:
     explanation: >
       Contourner un passage bloqué peut ajouter des milliers de kilomètres et plusieurs
       semaines, ce qui renchérit et retarde tout.
+  - question: "Pourquoi le canal de Panama est-il sensible à la sécheresse ?"
+    options:
+      - "Les navires y sont trop lourds pour un faible niveau d'eau"
+      - "L'eau de mer s'y évapore plus vite que dans d'autres canaux"
+      - "Ses écluses sont alimentées en eau douce par un lac"
+    answer: 3
+    explanation: "Les écluses fonctionnent avec de l'eau douce venue d'un lac. En cas de sécheresse, le nombre de passages quotidiens doit être réduit."
+  - question: "Pourquoi le conteneur a-t-il fait chuter le coût du commerce longue distance ?"
+    options:
+      - "Il permet de transporter des marchandises plus lourdes"
+      - "Sa standardisation évite de manipuler la marchandise entre navire, train et camion"
+      - "Il protège les produits des tempêtes en mer"
+    answer: 2
+    explanation: "Le conteneur standardisé passe directement du navire au train ou au camion sans manipulation de la marchandise. Le coût de chargement s'est effondré."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1435,6 +1561,20 @@ quiz:
       Certains oiseaux semblent réagir à la baisse de pression atmosphérique qui précède souvent
       une perturbation météorologique, ce qui peut expliquer un comportement de regroupement
       inhabituel.
+  - question: "Pourquoi un brouillard matinal en été annonce-t-il souvent une journée dégagée ?"
+    options:
+      - "L'air est encore trop frais pour évaporer l'humidité, qui se condense en brouillard"
+      - "Le brouillard empêche les nuages de se former plus tard"
+      - "Il indique que le vent va forcir dans la journée"
+    answer: 1
+    explanation: "Le brouillard signale un air encore frais, incapable d'évaporer l'humidité qui se condense. Il annonce généralement une journée qui restera dégagée."
+  - question: "Pourquoi ces observations traditionnelles ne remplacent-elles pas une prévision moderne ?"
+    options:
+      - "Elles ne fonctionnent que dans les régions côtières"
+      - "Elles sont devenues fausses avec le réchauffement"
+      - "Ce sont des indications générales, moins fiables que des mesures et des modèles"
+    answer: 3
+    explanation: "Ces signes donnent des tendances à court terme, mais restent bien moins fiables qu'une prévision fondée sur des mesures précises et des modèles informatiques."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -1578,6 +1718,20 @@ quiz:
       La latitude influence directement la durée du jour, l'intensité du rayonnement solaire et
       la longueur des saisons, ce qui détermine les périodes favorables aux semis et aux récoltes
       dans chaque région.
+  - question: "Pourquoi faut-il attendre la fin des risques de gel pour planter des tomates ou des haricots ?"
+    options:
+      - "Ils ont besoin de jours plus longs pour germer"
+      - "Ce sont des cultures de saison chaude qui ne tolèrent pas le gel"
+      - "Le gel rend le sol impropre à toute culture"
+    answer: 2
+    explanation: "Les tomates et les haricots sont des cultures de saison chaude : elles doivent attendre que tout risque de gel soit écarté, contrairement à certaines salades."
+  - question: "Pourquoi un calendrier personnel tenu pendant plusieurs années est-il utile ?"
+    options:
+      - "Il construit un calendrier adapté à son terrain, souvent plus fiable qu'une moyenne régionale"
+      - "Il remplace complètement l'observation des plantes locales"
+      - "Il garantit l'absence de gelées tardives"
+    answer: 1
+    explanation: "Noter semis, gelées et récoltes permet d'obtenir un calendrier propre à son terrain, souvent plus précis qu'une moyenne calculée pour toute une région."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -1957,6 +2111,20 @@ quiz:
       Dépendre d'une seule source d'eau, d'énergie ou de nourriture rend une communauté
       vulnérable si cette source venait à faire défaut. Diversifier les sources renforce la
       résilience globale du village.
+  - question: "Que apporte l'élevage en complément des cultures dans un village autonome ?"
+    options:
+      - "Il remplace entièrement les cultures vivrières"
+      - "Il fournit des protéines animales et du fumier fertilisant"
+      - "Il permet de se passer de composter les déchets"
+    answer: 2
+    explanation: "L'élevage complète la production végétale par des protéines animales et du fumier qui fertilise les cultures."
+  - question: "Pourquoi composter les déchets organiques est-il utile pour un village autonome ?"
+    options:
+      - "Cela produit de l'énergie pour le chauffage"
+      - "Cela purifie l'eau potable du village"
+      - "Cela fertilise les cultures et évite l'accumulation de déchets polluants"
+    answer: 3
+    explanation: "Le compost enrichit les cultures et, avec le tri et le traitement des eaux usées, évite que les déchets s'accumulent et polluent les environs du village."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2337,6 +2505,20 @@ quiz:
       Sans eau douce accessible, ni la survie humaine, ni l'agriculture, ni la plupart des
       activités artisanales ou industrielles ne sont possibles, ce qui en fait la ressource la
       plus fondamentale d'un territoire.
+  - question: "Qu'est-ce qui détermine la capacité d'un territoire à nourrir sa population de façon autonome ?"
+    options:
+      - "La superficie de terres fertiles, leur exposition au soleil et leur accès à l'irrigation"
+      - "Le nombre de forêts et de carrières présentes"
+      - "La longueur de ses côtes et de ses frontières"
+    answer: 1
+    explanation: "La surface de terres suffisamment fertiles, leur exposition et leur accès à l'irrigation déterminent si un territoire peut se nourrir sur le long terme."
+  - question: "Pourquoi certaines ressources acquièrent-elles une valeur stratégique ?"
+    options:
+      - "Parce qu'elles sont toujours les plus rares du monde"
+      - "Parce qu'elles ne peuvent être utilisées que sur place"
+      - "Parce qu'elles permettent des échanges avec des territoires moins bien dotés"
+    answer: 3
+    explanation: "Une ressource devient stratégique quand elle permet d'échanger avec d'autres territoires moins bien dotés, ce qui renforce l'influence et la sécurité de la communauté."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2534,7 +2716,7 @@ categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
 summary: >
   Boussole, étoiles, carte et estime : les méthodes de navigation traditionnelles.
 tags: [routes-et-detroits, navigation, orientation, essentiel-reconstruction]
-relatedArticles: [reperer-grace-etoiles, lire-une-carte-topographique-principes-de-base]
+relatedArticles: [l-etoile-polaire-et-son-role-dans-l-orientation, lire-une-carte-topographique-principes-de-base]
 sources:
   - title: "How to Navigate Without GPS: Master Land Navigation Skills"
     url: "https://www.battlbox.com/blogs/outdoors/how-to-navigate-without-gps-mastering-the-art-of-classic-navigation"
@@ -2567,6 +2749,20 @@ quiz:
       La méthode de l'ombre du bâton consiste à marquer la position de l'extrémité de l'ombre à
       intervalles réguliers : la ligne reliant ces marques indique approximativement l'axe
       est-ouest.
+  - question: "Pourquoi faut-il recaler régulièrement sa position quand on navigue à l'estime ?"
+    options:
+      - "Le point de départ change au cours du trajet"
+      - "Chaque erreur s'accumule au fil du trajet"
+      - "La direction suivie ne peut pas être mesurée"
+    answer: 2
+    explanation: "La navigation à l'estime part d'un point connu, de la direction et de la distance. Les petites erreurs s'additionnent, d'où le besoin de repères pour recaler la position."
+  - question: "Pourquoi une carte seule ne suffit-elle pas pour suivre une direction précise ?"
+    options:
+      - "Elle ne dit pas dans quelle direction on regarde réellement"
+      - "Elle ne montre pas le relief du terrain"
+      - "Elle n'indique pas où se trouve le nord"
+    answer: 1
+    explanation: "La carte montre où sont les éléments du terrain, mais pas notre orientation. Une boussole alignée sur le nord de la carte permet de faire correspondre les deux."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -4683,6 +4879,13 @@ quiz:
     explanation: >
       Ces nuages élevés sont souvent l'avant-garde d'un front chaud, suivi de nuages de plus en plus bas
       et de pluie.
+  - question: "Que signale la succession cirrus, voile, nuages moyens puis nuages bas ?"
+    options:
+      - "Un orage soudain et violent"
+      - "Un beau temps qui s'installe durablement"
+      - "L'approche d'un front"
+    answer: 3
+    explanation: "Cette suite de nuages indique l'arrivée d'un front, donc d'une perturbation. C'est une tendance pour les heures à venir, pas une prévision exacte."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -4780,6 +4983,12 @@ sources:
   - title: "Dépression (météorologie)"
     url: "https://fr.wikipedia.org/wiki/D%C3%A9pression_(m%C3%A9t%C3%A9orologie)"
     publisher: "Wikipédia"
+  - title: "Qu'est-ce que la pression atmosphérique ?"
+    url: "https://meteofrance.com/meteo-a-z/quest-ce-que-la-pression-atmospherique"
+    publisher: "Météo-France"
+  - title: "PRESSION ATMOSPHÉRIQUE"
+    url: "https://www.universalis.fr/encyclopedie/pression-atmospherique/1-les-unites-de-mesure-de-la-pression/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Quelle est la pression normale de l'air au niveau de la mer ?"
     options:
@@ -5145,6 +5354,9 @@ sources:
   - title: "Water cycle"
     url: "https://en.wikipedia.org/wiki/Water_cycle"
     publisher: "Wikipedia"
+  - title: "water cycle"
+    url: "https://ugc.berkeley.edu/background-content/water-cycle/"
+    publisher: "University of California, Berkeley (Understanding Global Change)"
 quiz:
   - question: "Quelle part de l'eau de la Terre se trouve dans les océans ?"
     options:
@@ -5331,6 +5543,9 @@ sources:
   - title: "Ganges Delta"
     url: "https://en.wikipedia.org/wiki/Ganges_Delta"
     publisher: "Wikipedia"
+  - title: "Delta littoral"
+    url: "https://www.larousse.fr/encyclopedie/divers/delta_littoral/41144"
+    publisher: "Larousse"
 quiz:
   - question: "Pourquoi un fleuve dépose-t-il ses sédiments en arrivant dans la mer ?"
     options:
@@ -5962,6 +6177,13 @@ quiz:
     explanation: >
       L'écart, la déclinaison magnétique, varie selon le lieu et le temps. Il est indiqué sur les
       cartes et reste faible en France aujourd'hui.
+  - question: "Comment peut-on se localiser sur une carte avec une boussole, sans GPS ?"
+    options:
+      - "En orientant la carte vers le sud"
+      - "En relevant la direction de deux ou trois repères et en traçant ces lignes : leur croisement donne la position"
+      - "En comptant les courbes de niveau autour de soi"
+    answer: 2
+    explanation: "On vise deux ou trois repères reconnaissables, on relève leur direction et on trace ces lignes sur la carte. Leur croisement indique l'endroit où l'on se trouve."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -6248,6 +6470,9 @@ sources:
   - title: "Rizières en terrasses des cordillères des Philippines"
     url: "https://fr.wikipedia.org/wiki/Rizi%C3%A8res_en_terrasses_des_cordill%C3%A8res_des_Philippines"
     publisher: "Wikipédia"
+  - title: "Rizières en terrasses des cordillères des Philippines (UNESCO/NHK)"
+    url: "https://whc.unesco.org/fr/documents/103884/"
+    publisher: "UNESCO"
 quiz:
   - question: "À quoi ressemble une colline aménagée en terrasses ?"
     options:
@@ -7480,6 +7705,10 @@ sources:
   - title: "Panama Canal locks"
     url: "https://en.wikipedia.org/wiki/Panama_Canal_locks"
     publisher: "Wikipedia"
+  - title: "Compendio Usodeaguas mar2021"
+    url: "https://pancanal.com/wp-content/uploads/2021/12/Compendio_Usodeaguas_mar2021.pdf"
+    publisher: "Autoridad del Canal de Panamá"
+    date: "2021"
 quiz:
   - question: "Quand le canal de Panama a-t-il ouvert ?"
     options:
@@ -7984,6 +8213,13 @@ quiz:
     explanation: >
       Moins de décès d'enfants, scolarisation, urbanisation et accès à la contraception changent les
       projets familiaux.
+  - question: "Pourquoi la population mondiale continue-t-elle d'augmenter alors que beaucoup de pays sont sous le seuil de renouvellement ?"
+    options:
+      - "Les femmes ont à nouveau plus d'enfants"
+      - "La mortalité infantile remonte dans certaines régions"
+      - "Beaucoup de jeunes arrivent à l'âge d'avoir des enfants et l'on vit plus longtemps"
+    answer: 3
+    explanation: "Même avec peu d'enfants par femme, les nombreux jeunes adultes ont des enfants et la durée de vie s'allonge, ce qui fait croître la population."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -10115,6 +10351,12 @@ sources:
   - title: "Zone économique exclusive"
     url: "https://fr.wikipedia.org/wiki/Zone_%C3%A9conomique_exclusive"
     publisher: "Wikipédia"
+  - title: "Droit de la mer : Convention des Nations Unies"
+    url: "https://www.canada.ca/fr/environnement-changement-climatique/organisation/affaires-internationales/partenariats-organisations/droit-mer-convention-nations-unies.html"
+    publisher: "Gouvernement du Canada"
+  - title: "A CONF.62 122 FR"
+    url: "https://digitallibrary.un.org/record/38990/files/A_CONF.62_122-FR.pdf"
+    publisher: "Organisation des Nations unies"
 quiz:
   - question: "Dans quelle ville a été signée la convention des Nations unies sur le droit de la mer, en 1982 ?"
     options:
@@ -11128,6 +11370,13 @@ quiz:
     explanation: >
       Le mètre est défini comme la dix-millionième partie du quart du méridien terrestre, c'est-
       à-dire de la distance du pôle Nord à l'équateur.
+  - question: "Pourquoi le mètre légal est-il un peu plus court que sa définition d'origine ?"
+    options:
+      - "Les géodésiens n'avaient pas pris en compte un effet de déviation de la verticale"
+      - "Delambre et Méchain n'ont jamais terminé leur mesure"
+      - "La base de départ avait été mesurée sur un terrain trop accidenté"
+    answer: 1
+    explanation: "Les géodésiens n'avaient pas tenu compte d'une déviation de la verticale, ce qui a rendu le mètre légal un peu plus court que prévu."
 lastVerified: 2026-09-30
 status: published
 ---
@@ -11210,6 +11459,13 @@ sources:
   - title: "Drainage basin"
     url: "https://en.wikipedia.org/wiki/Drainage_basin"
     publisher: "Wikipedia"
+  - title: "fiche le bassin versant"
+    url: "https://www.eaufrance.fr/sites/default/files/2018-07/fiche-le-bassin-versant-Agence-de-l-eau-onema-2012.pdf"
+    publisher: "Onema (Agence de l'eau)"
+    date: "2012"
+  - title: "Documentation BDTopo, bassin versant topographique"
+    url: "https://documentation.geoservices.ign.fr/bassin_versant_topographique&BDTopo"
+    publisher: "IGN"
 quiz:
   - question: "Qu'est-ce qu'un bassin versant ?"
     options:
@@ -11409,6 +11665,9 @@ sources:
   - title: "Sahara"
     url: "https://en.wikipedia.org/wiki/Sahara"
     publisher: "Wikipedia"
+  - title: "world's largest deserts"
+    url: "https://britannica.com/topic/worlds-largest-deserts-2225895"
+    publisher: "Britannica"
 quiz:
   - question: "Qu'est-ce qui définit un désert ?"
     options:
@@ -11509,6 +11768,9 @@ sources:
   - title: "International Meridian Conference"
     url: "https://en.wikipedia.org/wiki/International_Meridian_Conference"
     publisher: "Wikipedia"
+  - title: "Remembering the Washington Conference That Brought the World Standard Time"
+    url: "https://www.cfr.org/articles/remembering-washington-conference-brought-world-standard-time"
+    publisher: "Council on Foreign Relations"
 quiz:
   - question: "Pourquoi y a-t-il 24 fuseaux horaires ?"
     options:
@@ -11591,9 +11853,9 @@ title: Pourquoi les outre-mer donnent-ils à la France un territoire si dispers�
 slug: pourquoi-les-outre-mer-donnent-ils-a-la-france-un-territoire-si-disperse
 categoryPath: geographie-et-territoires/geographie-physique
 summary: >
-  Les outre-mer français s'étendent sur plusieurs océans. Leurs terres sont petites, mais leurs
-  zones maritimes sont immenses : la France a la deuxième plus grande zone économique exclusive
-  du monde.
+  Les outre-mer français s'étendent sur plusieurs océans. Leurs terres sont petites, mais leur
+  domaine maritime dépasse 10 millions de km², presque entièrement situé outre-mer, surtout dans
+  le Pacifique.
 tags: [geographie-physique]
 sources:
   - title: "Outre-mer français"
@@ -11605,6 +11867,10 @@ sources:
   - title: "Les zones économiques exclusives ultramarines : le moment de vérité"
     url: "https://www.senat.fr/rap/r13-430/r13-43012.html"
     publisher: "Sénat"
+  - title: "Le domaine maritime français (BM 244)"
+    url: "https://www.defense.gouv.fr/sites/default/files/cesm/BM-244---Le-domaine-maritime-franais.pdf"
+    publisher: "Ministère des Armées, Centre d'études stratégiques de la Marine"
+    date: "2021"
 quiz:
   - question: "Dans combien d'océans environ s'étendent les outre-mer ? Lesquels ?"
     options:
@@ -11640,13 +11906,13 @@ quiz:
     answer: 2
     explanation: >
       La quasi-totalité de la ZEE française se situe outre-mer.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
 ## En bref
 
-Les outre-mer français s'étendent sur plusieurs océans. Leurs terres sont petites, mais leurs zones maritimes sont immenses : la France a la deuxième plus grande zone économique exclusive du monde.
+Les outre-mer français s'étendent sur plusieurs océans. Leurs terres sont petites, mais leurs zones maritimes sont immenses : la France possède le deuxième domaine maritime du monde.
 
 ## Un espace éclaté
 
@@ -11656,9 +11922,9 @@ Les outre-mer français sont des territoires répartis sur plusieurs océans : A
 
 Leur surface de terres émergées est petite, mais ils s'étendent sur de très vastes zones maritimes. Une zone économique exclusive, ou ZEE, s'étend loin au large des côtes ; l'État y a des droits sur les ressources de la mer et du sous-sol. Ce régime vient de la convention des Nations unies sur le droit de la mer, signée à Montego Bay.
 
-## La deuxième ZEE du monde
+## Le deuxième domaine maritime du monde
 
-La France a la deuxième plus grande ZEE du monde, derrière les États-Unis. La quasi-totalité de la ZEE française se situe outre-mer. Ces territoires dépendent encore beaucoup de la métropole pour le commerce et le soutien financier.
+Le domaine maritime français, essentiellement fait de ZEE, est le deuxième du monde. La quasi-totalité se situe outre-mer. Ces territoires dépendent encore beaucoup de la métropole pour le commerce et le soutien financier.
 
 ```schema
 type: systeme
@@ -11672,14 +11938,21 @@ parties:
   - nom: Deuxième zone économique exclusive du monde
 ```
 
+## Des chiffres à l'échelle de la mer
+
+Selon la Marine nationale, le domaine maritime français, surtout des ZEE complétées par des extensions du plateau continental, couvre 10 911 823 km², après l'extension en 2021 du plateau continental de La Réunion et des îles Saint-Paul et Amsterdam. Environ 97 % de cet espace se trouve outre-mer. Pour comparaison, ce total dépasse largement la superficie de la France métropolitaine et de son littoral, qui n'en représentent qu'environ 4 %.
+
+## Le Pacifique en tête
+
+La répartition par océan est très inégale. Le Pacifique, avec notamment la Polynésie française et la Nouvelle-Calédonie, concentre environ 66 % du domaine maritime. L'océan Indien en regroupe environ 27 %, et l'Atlantique hors métropole environ 3 %. Un petit archipel peut donc peser plus qu'un grand département : c'est la dispersion qui crée l'espace maritime.
+
 ## À retenir
 
 - Les outre-mer français sont des territoires répartis sur plusieurs océans : Atlantique, Pacifique, Indien et Antarctique.
 - Ils n'ont pas tous le même statut : départements et régions d'outre-mer, collectivités d'outre-mer, et des cas particuliers comme la Nouvelle-Calédonie.
 - Leur surface de terres émergées est petite, mais ils s'étendent sur de très vastes zones maritimes.
-- Une zone économique exclusive, ou ZEE, s'étend au large des côtes ; l'État y a des droits sur les ressources.
-- La France a la deuxième plus grande ZEE du monde, derrière les États-Unis.
-
+- Le domaine maritime français atteint environ 10,9 millions de km², dont environ 97 % outre-mer et 66 % dans le Pacifique.
+- La France a le deuxième domaine maritime du monde, essentiellement des ZEE.
 ---
 type: article
 title: Pourquoi certains départements français gagnent-ils des habitants et d'autres en perdent-ils ?

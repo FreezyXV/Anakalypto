@@ -239,6 +239,20 @@ quiz:
       Sans référence commune, un hautbois de Vienne et un violon de Paris ne pouvaient pas
       jouer ensemble. La hauteur avait aussi tendance à monter, car un orchestre plus aigu
       sonne plus brillant.
+  - question: "Pourquoi l'absence de référence commune posait-elle problème aux musiciens ?"
+    options:
+      - "Les instruments sonnaient tous trop fort"
+      - "Les musiciens refusaient d'accorder"
+      - "Les instruments d'une ville ne pouvaient pas jouer avec ceux d'une autre"
+    answer: 3
+    explanation: "Chaque ville avait sa référence, avec des écarts jusqu'au demi-ton : un instrument de Venise ne pouvait pas jouer avec un ensemble de Dresde."
+  - question: "Que dit l'article sur la supposée supériorité du 432 hertz ?"
+    options:
+      - "Aucune étude sérieuse ne l'appuie : c'est un choix esthétique, pas scientifique"
+      - "Elle est prouvée par des études sérieuses"
+      - "Elle est imposée par la loi en France"
+    answer: 1
+    explanation: "L'oreille ne perçoit qu'une différence de hauteur très légère, et aucune étude n'appuie les vertus prétendues du 432 hertz."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -345,6 +359,20 @@ quiz:
       Tous les autres intervalles sont légèrement ajustés pour que l'on puisse jouer dans
       toutes les tonalités. La tierce majeure est celle qui s'éloigne le plus de la justesse
       naturelle.
+  - question: "Pourquoi est-il impossible de construire une gamme avec des intervalles tous parfaitement justes ?"
+    options:
+      - "Les instruments ne peuvent pas jouer les rapports simples"
+      - "Douze quintes justes ne retombent pas exactement sur sept octaves"
+      - "Les rapports simples sont trop compliqués à calculer"
+    answer: 2
+    explanation: "Aucune puissance de trois demis ne donne exactement une puissance de deux : douze quintes dépassent sept octaves du comma pythagoricien."
+  - question: "Quel avantage le tempérament égal apporte-t-il en échange de ses imperfections ?"
+    options:
+      - "Toutes les tierces deviennent justes"
+      - "Chaque tonalité garde sa couleur propre"
+      - "Toutes les tonalités deviennent équivalentes et on peut moduler partout"
+    answer: 3
+    explanation: "En répartissant l'erreur sur les douze demi-tons, on perd la pureté de certains intervalles mais on peut moduler librement."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -466,6 +494,20 @@ quiz:
     explanation: >
       Eschyle ajoute un deuxième acteur au premier, Sophocle un troisième. Avec des masques,
       ces trois acteurs pouvaient jouer tous les personnages de la pièce.
+  - question: "Qu'a rendu possible le geste de Thespis ?"
+    options:
+      - "Le dialogue, car quelqu'un pouvait répondre au chœur"
+      - "La construction des théâtres"
+      - "Le port du masque"
+    answer: 1
+    explanation: "En devenant le premier acteur, Thespis a rendu le dialogue possible : quelqu'un pouvait désormais répondre au chœur."
+  - question: "Comment le rôle du chœur a-t-il évolué avec l'ajout d'acteurs ?"
+    options:
+      - "Il est devenu le personnage principal"
+      - "Il a reculé et est devenu commentateur"
+      - "Il a disparu immédiatement"
+    answer: 2
+    explanation: "Le chœur, personnage collectif central au départ, recule progressivement et devient commentateur."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -578,6 +620,20 @@ quiz:
     explanation: >
       Dans une salle de cour, on regardait d'en haut et de trois côtés : les figures au sol
       étaient l'essentiel. Sur une scène frontale, tout se compose pour un regard unique.
+  - question: "Quelles furent les deux conséquences de l'académie fondée en 1661 ?"
+    options:
+      - "Elle interdit aux nobles de danser et supprime les figures"
+      - "Elle déplace le ballet en Italie"
+      - "Elle professionnalise les danseurs et codifie la technique"
+    answer: 3
+    explanation: "L'académie remplace progressivement les courtisans par des danseurs formés et fixe par écrit positions et nomenclature des pas."
+  - question: "Pourquoi le passage à la scène frontale a-t-il changé la composition des ballets ?"
+    options:
+      - "Les figures au sol devenaient invisibles pour un public assis d'un seul côté"
+      - "Les danseurs ne pouvaient plus sauter"
+      - "La musique ne pouvait plus être jouée"
+    answer: 1
+    explanation: "Face à un public d'un seul côté, les figures au sol deviennent invisibles : la composition se fait pour un regard unique et la virtuosité individuelle gagne en importance."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -694,6 +750,20 @@ quiz:
     explanation: >
       L'opéra quitte alors les palais princiers pour devenir un spectacle public et commercial,
       ce qui change complètement ce qu'on y montre et pour qui.
+  - question: "Pourquoi la polyphonie était-elle un obstacle pour raconter une histoire en musique ?"
+    options:
+      - "Elle exigeait un trop grand orchestre"
+      - "Les paroles devenaient incompréhensibles, chaque voix chantant des syllabes différentes"
+      - "Elle interdisait les voix seules"
+    answer: 2
+    explanation: "Plusieurs voix chantant en même temps des syllabes différentes rendent les mots incompréhensibles, or on ne peut pas raconter une histoire sans être compris."
+  - question: "Qu'a changé l'ouverture des théâtres payants à Venise en 1637 ?"
+    options:
+      - "L'opéra a cessé d'utiliser des récitatifs"
+      - "L'opéra est devenu réservé aux princes"
+      - "L'opéra est devenu un spectacle commercial qui devait attirer un public"
+    answer: 3
+    explanation: "L'opéra cesse d'être un cadeau princier pour devenir un spectacle commercial : il faut plaire, avec effets, machineries et vedettes."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -807,6 +877,20 @@ quiz:
     explanation: >
       Avant, il fallait chanter très fort dans un pavillon pour graver le sillon. Le microphone
       capte les sons faibles, ce qui a fait naître un style vocal intime, impossible auparavant.
+  - question: "Pourquoi l'enregistrement mécanique imposait-il de chanter très fort près du pavillon ?"
+    options:
+      - "Parce que le son faible ne faisait pas bouger l'aiguille, sans électricité pour l'amplifier"
+      - "Parce que le disque ne supportait que les sons graves"
+      - "Parce que le pavillon filtrait les voix aiguës"
+    answer: 1
+    explanation: "Sans électricité, seules les vibrations de l'air captées par le pavillon faisaient bouger l'aiguille, il fallait donc chanter ou jouer très fort."
+  - question: "Pourquoi la bande magnétique a-t-elle transformé le disque en construction plutôt qu'en trace d'une exécution ?"
+    options:
+      - "Parce qu'elle remplace les musiciens"
+      - "Parce qu'elle permet de couper, recoller et superposer des prises sur plusieurs pistes"
+      - "Parce qu'elle est plus dure à copier"
+    answer: 2
+    explanation: "Le montage et le multipiste permettent d'assembler des prises et de superposer des instruments, parfois impossibles à reproduire sur scène."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -924,6 +1008,20 @@ quiz:
     explanation: >
       Avant la perspective, la taille exprimait le rang et non la distance. Un roi pouvait être
       peint deux fois plus grand que ses sujets placés juste à côté de lui.
+  - question: "Que signifiait la taille d'un personnage dans la peinture médiévale ?"
+    options:
+      - "Sa distance par rapport au spectateur"
+      - "La maladresse du peintre"
+      - "Son importance, selon une convention cohérente"
+    answer: 3
+    explanation: "Au Moyen Âge, la taille indiquait l'importance et non la distance : un saint ou un roi était peint plus grand."
+  - question: "Pourquoi dit-on que la perspective est une convention et non la vision réelle ?"
+    options:
+      - "Elle suppose un observateur unique, immobile, regardant d'un seul œil"
+      - "Elle ne fonctionne qu'avec un carrelage"
+      - "Elle ignore le point de fuite"
+    answer: 1
+    explanation: "Nous ne voyons pas ainsi : la perspective suppose un observateur unique, immobile et monoculaire."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1035,6 +1133,20 @@ quiz:
     explanation: >
       L'attribution combine analyse du style, radiographies, étude des pigments et recherche
       d'archives. Elle fait souvent l'objet de désaccords entre spécialistes.
+  - question: "Pourquoi le prix du tableau a-t-il explosé alors que la peinture n'avait pas changé ?"
+    options:
+      - "Parce qu'il a été repeint par un grand artiste moderne"
+      - "Parce qu'il a été attribué à Léonard de Vinci, dont presque aucune œuvre n'est à vendre"
+      - "Parce qu'il a été découvert dans un musée"
+    answer: 2
+    explanation: "Ce qui a changé est l'attribution à Léonard : moins de vingt peintures lui sont attribuées et presque toutes sont dans des musées."
+  - question: "Que montre la controverse sur l'attribution du Salvator Mundi ?"
+    options:
+      - "Que le tableau est sûrement un faux"
+      - "Que les restaurations n'affectent jamais la valeur"
+      - "Que le prix dépend d'un jugement d'expert, par nature révisable"
+    answer: 3
+    explanation: "L'attribution n'est pas unanime, mais la vente a eu lieu : le prix d'une œuvre dépend d'un jugement d'expert révisable."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1139,6 +1251,20 @@ quiz:
     explanation: >
       Le daguerréotype donnait une image unique, impossible à reproduire. Le négatif de Talbot
       a fondé toute la photographie moderne, jusqu'au numérique.
+  - question: "Pourquoi les premiers procédés de Niépce ne permettaient-ils pas de faire des portraits ?"
+    options:
+      - "Le bitume ne pouvait pas capter les traits d'un visage"
+      - "Les temps de pose se comptaient en heures"
+      - "L'image disparaissait dès qu'on la sortait de la boîte"
+    answer: 2
+    explanation: "Avec le bitume durci par la lumière, il fallait poser pendant des heures, ce qui rendait le portrait impossible."
+  - question: "Quelle conséquence la photographie a-t-elle eue sur la peinture ?"
+    options:
+      - "Elle a fait disparaître les peintres portraitistes dès les premières années"
+      - "Elle a poussé les peintres à reprendre le principe du négatif de Talbot"
+      - "Elle lui a fait perdre le monopole de la ressemblance, avec des réactions variées chez les peintres"
+    answer: 3
+    explanation: "La peinture n'est plus la seule à reproduire la ressemblance : certains peintres s'en inquiètent, d'autres s'en libèrent."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1258,6 +1384,20 @@ quiz:
     explanation: >
       Chaque bobine faisait environ 17 mètres de pellicule, soit près de 50 secondes. Dix films
       étaient projetés à la suite, pour une séance d'environ vingt minutes.
+  - question: "Pourquoi n'est-il guère pertinent d'attribuer l'invention du cinéma à une seule personne ?"
+    options:
+      - "Des dizaines d'inventeurs travaillaient en même temps sur des dispositifs voisins"
+      - "Les Lumière ont repris l'appareil d'Edison sans rien y changer"
+      - "L'appareil des Lumière ne permettait pas la projection devant un public"
+    answer: 1
+    explanation: "De nombreux inventeurs travaillaient simultanément dans plusieurs pays. Les Lumière ont surtout réuni un appareil fiable, une projection publique et une exploitation commerciale."
+  - question: "Quel avantage la légèreté du Cinématographe, sans électricité, a-t-elle procuré ?"
+    options:
+      - "Elle permettait à chaque spectateur de regarder seul à travers une lucarne"
+      - "Elle dispensait d'utiliser une pellicule"
+      - "Elle a permis aux opérateurs Lumière d'aller filmer dans le monde entier"
+    answer: 3
+    explanation: "Léger, à manivelle et sans électricité, l'appareil était portable : les opérateurs Lumière ont pu partir filmer partout dès les années suivantes."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1366,6 +1506,20 @@ quiz:
     explanation: >
       Ils ont d'abord été jugés grossiers. Ce sont les mouvements modernistes du XXe siècle qui
       en ont fait le symbole de la neutralité fonctionnelle.
+  - question: "Pourquoi l'axe des lettres se redresse-t-il aux XVIIe et XVIIIe siècles ?"
+    options:
+      - "Les imprimeurs cherchent à imiter les capitales gravées romaines"
+      - "La publicité réclame des lettres lisibles de loin"
+      - "La gravure sur cuivre et les papiers lisses permettent des traits très fins, qui s'éloignent du geste de la plume"
+    answer: 3
+    explanation: "Avec des traits beaucoup plus fins, l'axe devient vertical et le contraste s'accentue : ces lettres marquent la fin du geste manuscrit."
+  - question: "Qu'apportent les fontes variables que les procédés antérieurs n'offraient pas ?"
+    options:
+      - "La possibilité de faire varier en continu la graisse, la largeur ou l'optique d'un même caractère"
+      - "Un dessin simplifié adapté aux écrans de faible définition"
+      - "Un ajustement des contours à la grille de pixels"
+    answer: 1
+    explanation: "Les fontes variables offrent une souplesse continue sur un même caractère, ce qu'aucun procédé précédent ne permettait. Les deux autres réponses décrivent les contraintes des anciens écrans."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1485,6 +1639,20 @@ quiz:
       Une colonne parfaitement droite paraît creusée en son milieu. Les Grecs la renflaient
       légèrement pour compenser. Ils courbaient aussi le soubassement, qui semblerait
       autrement s'affaisser.
+  - question: "Pourquoi dit-on qu'un ordre est plus qu'un catalogue d'ornements ?"
+    options:
+      - "Chaque ordre impose le même décor à tous les bâtiments"
+      - "Une mesure de base, le diamètre de la colonne, commande toutes les autres dimensions du bâtiment"
+      - "Chaque ordre correspond à une fonction religieuse différente"
+    answer: 2
+    explanation: "L'ordre est une règle de composition complète : le diamètre de la colonne détermine l'espacement, la hauteur de l'entablement et la pente du fronton."
+  - question: "Pourquoi les colonnes d'angle d'un temple grec étaient-elles épaissies ?"
+    options:
+      - "Pour porter une charge plus lourde que les autres colonnes"
+      - "Pour compenser le renflement donné aux colonnes centrales"
+      - "Parce que, se détachant sur le ciel, elles paraissent plus fines"
+    answer: 3
+    explanation: "Les colonnes d'angle se découpent sur le ciel et semblent plus minces : les architectes les épaississaient pour corriger cette illusion d'optique."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1602,6 +1770,20 @@ quiz:
     explanation: >
       Il enjambe le bas-côté et va chercher un massif de maçonnerie à l'extérieur. Le mur de la
       nef, déchargé, peut alors être percé de grandes verrières.
+  - question: "Qu'apporte l'arc brisé par rapport au demi-cercle ?"
+    options:
+      - "Il supprime toute poussée sur les murs porteurs"
+      - "Il remplace les arcs diagonaux par une surface continue"
+      - "Il réduit la poussée horizontale et permet de couvrir des travées de largeurs différentes à la même hauteur"
+    answer: 3
+    explanation: "Sa forme en pointe redresse la ligne de poussée, donc réduit la composante horizontale, et elle s'adapte à des travées inégales sans changer la hauteur."
+  - question: "Que montre l'effondrement partiel du chœur de la cathédrale de Beauvais ?"
+    options:
+      - "Que les arcs-boutants n'avaient aucune utilité"
+      - "Que la course à la hauteur avait atteint la limite du système"
+      - "Que de trop grandes verrières affaiblissaient les murs"
+    answer: 2
+    explanation: "Beauvais, la plus ambitieuse des cathédrales, a vu son chœur s'effondrer en partie : le système constructif avait trouvé sa limite."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1719,6 +1901,20 @@ quiz:
     explanation: >
       Chaque retrait change la section offerte au vent. Les tourbillons se désorganisent au
       lieu de se synchroniser, ce qui réduit fortement les oscillations.
+  - question: "Pourquoi les tourbillons du vent sont-ils dangereux pour une tour très élancée ?"
+    options:
+      - "Ils usent le béton de la façade de plus en plus vite"
+      - "Ils font monter la température à l'intérieur du noyau central"
+      - "Si leur rythme coïncide avec la fréquence propre du bâtiment, les oscillations s'amplifient"
+    answer: 3
+    explanation: "Le lâcher alterné des tourbillons pousse la tour de droite à gauche à rythme régulier. En cas de coïncidence avec sa fréquence propre, les oscillations s'amplifient."
+  - question: "Quel est l'intérêt du plan en Y du Burj Khalifa ?"
+    options:
+      - "Il rigidifie l'ensemble, comme les nervures d'une poutre"
+      - "Il empêche à lui seul les tourbillons de se synchroniser"
+      - "Il permet de couler le béton de nuit"
+    answer: 1
+    explanation: "Le plan en Y, avec trois ailes autour d'un noyau, rigidifie d'abord la structure. Ce sont les retraits en spirale qui empêchent les tourbillons de se synchroniser."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1826,6 +2022,20 @@ quiz:
     explanation: >
       Le label attire le tourisme, ce qui apporte des revenus mais use les sites fragiles et
       transforme parfois la vie des habitants. Le suivi vise à limiter ces effets.
+  - question: "Qui décide en dernier ressort d'inscrire un site sur la Liste du patrimoine mondial ?"
+    options:
+      - "Les organisations consultatives qui évaluent le dossier"
+      - "Un comité intergouvernemental qui se réunit une fois par an"
+      - "L'État qui a présenté la candidature"
+    answer: 2
+    explanation: "Les organisations consultatives évaluent le dossier, mais c'est le comité intergouvernemental qui décide : inscription, renvoi pour complément ou rejet."
+  - question: "Pourquoi l'inscription sur la liste du patrimoine en péril est-elle à double tranchant ?"
+    options:
+      - "Elle attire davantage de touristes, ce qui menace les sites déjà fragiles"
+      - "Elle interdit toute aide internationale tant que le site est menacé"
+      - "Elle alerte et peut débloquer une aide, mais l'État peut la vivre comme une mise en accusation"
+    answer: 3
+    explanation: "Cette inscription donne l'alerte et peut débloquer une aide internationale, mais elle est parfois perçue comme une accusation, ce qui complique la coopération."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1935,6 +2145,20 @@ quiz:
     explanation: >
       Chaque heure d'exposition ajoute un dommage qui ne s'efface jamais. Les musées limitent
       donc le nombre de semaines d'exposition sur plusieurs années.
+  - question: "Pourquoi les variations d'humidité abîment-elles les œuvres ?"
+    options:
+      - "Le bois, le papier ou le parchemin gonflent puis se rétractent, et les couches peintes finissent par se soulever"
+      - "Une humidité élevée est toujours fatale, même quand elle reste stable"
+      - "L'eau dissout les pigments des peintures"
+    answer: 1
+    explanation: "Les matériaux absorbent et rejettent l'eau selon l'air ambiant ; c'est la variation, plus que le niveau d'humidité, qui provoque le dégât."
+  - question: "Sur quoi portaient surtout les polémiques après les grands nettoyages de peintures murales ?"
+    options:
+      - "Sur les techniques de nettoyage employées"
+      - "Sur le choix de l'état à retrouver, qui relève de l'interprétation"
+      - "Sur le coût des opérations"
+    answer: 2
+    explanation: "Les débats portaient rarement sur la technique et presque toujours sur le choix entre l'état d'origine supposé et le respect des couches ajoutées par les siècles."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2054,6 +2278,20 @@ quiz:
     explanation: >
       C'est un principe fondateur de la convention : seule la communauté concernée peut dire ce
       qui fait partie de son héritage culturel.
+  - question: "Pourquoi l'inscription sur une liste internationale peut-elle figer une pratique ?"
+    options:
+      - "La loi interdit ensuite toute modification de la pratique"
+      - "Les communautés doivent pratiquer sans changement pour garder le label"
+      - "La version décrite dans le dossier devient la version officielle, au détriment des variantes locales"
+    answer: 3
+    explanation: "C'est l'effet pervers du figement : la description du dossier devient la référence officielle et les variantes locales passent au second plan."
+  - question: "Que perd-on quand une langue meurt, du point de vue du patrimoine immatériel ?"
+    options:
+      - "Tout ce qui n'avait jamais été écrit et qu'elle portait"
+      - "Seulement le vocabulaire, les récits étant conservés ailleurs"
+      - "Rien, si la langue a été enregistrée dans un dossier officiel"
+    answer: 1
+    explanation: "Les traditions orales sont portées par la langue : quand elle disparaît, elle emporte avec elle tout ce qui n'avait pas été écrit."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2177,6 +2415,20 @@ quiz:
     explanation: >
       La publication en feuilleton a directement façonné la forme des œuvres : longueur,
       rythme, rappels réguliers et fins de chapitre suspendues.
+  - question: "En quoi consiste le discours indirect libre ?"
+    options:
+      - "Le narrateur cite exactement les paroles prononcées entre guillemets"
+      - "La voix du personnage passe dans celle du narrateur, sans guillemets ni il pensait que"
+      - "Le récit est rédigé sous forme de lettres échangées entre personnages"
+    answer: 2
+    explanation: "Ce procédé, généralisé au XIXe siècle, fait entendre la pensée du personnage dans la voix du narrateur, sans marque de citation."
+  - question: "Pourquoi l'absence de règles antiques est-elle plutôt une force pour le roman ?"
+    options:
+      - "Elle oblige chaque auteur à suivre le modèle des romans grecs"
+      - "Elle réserve le genre à un public cultivé"
+      - "Le roman peut tout absorber, faute de modèle prestigieux à respecter"
+    answer: 3
+    explanation: "Sans poétique ni règle héritée, le roman n'est pas contraint dans sa forme : cette liberté lui permet d'absorber tout ce qu'il veut."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2292,6 +2544,20 @@ quiz:
     explanation: >
       Il a fallu une encre grasse, à base d'huile, capable de tenir sur les caractères de plomb
       puis de se transférer sur le papier sous la pression.
+  - question: "Pourquoi le caractère mobile est-il plus rentable avec un alphabet qu'avec l'écriture chinoise ?"
+    options:
+      - "Un alphabet demande quelques dizaines de signes, réutilisables pour n'importe quel texte"
+      - "Les lettres de l'alphabet se gravent plus facilement dans le bois"
+      - "Un alphabet permet de se passer de presse"
+    answer: 1
+    explanation: "L'écriture chinoise compte des milliers de signes, ce qui rend la casse coûteuse et la recherche lente. Quelques dizaines de lettres suffisent pour tout imprimer."
+  - question: "Pourquoi la reproduction à l'identique change-t-elle le statut du texte ?"
+    options:
+      - "Elle réserve les textes aux seuls savants capables de les comparer"
+      - "Elle empêche toute correction une fois le livre imprimé"
+      - "Les erreurs ne se multiplient plus de copie en copie et l'on peut renvoyer à une page précise"
+    answer: 3
+    explanation: "Tous les exemplaires étant identiques, on peut citer une page précise et comparer des éditions, ce qui donne naissance à la critique textuelle."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2818,6 +3084,20 @@ quiz:
     explanation: >
       Le lapis-lazuli provenait presque exclusivement d'Afghanistan et sa transformation en
       pigment était complexe, ce qui en faisait l'un des pigments les plus chers au monde.
+  - question: "Pourquoi un pigment en poudre ne suffit-il pas à faire une peinture ?"
+    options:
+      - "Il doit d'abord être chauffé pour changer de couleur"
+      - "Il lui faut un liant pour adhérer à la surface et rester fixé une fois sec"
+      - "Il doit être mélangé à de l'eau seule pour tenir"
+    answer: 2
+    explanation: "L'eau seule ne suffit pas : il faut une graisse, de l'œuf, une colle animale ou une résine pour que la couleur reste fixée."
+  - question: "Quel défaut ont souvent les pigments d'origine végétale ou animale ?"
+    options:
+      - "Ils ne peuvent pas être mélangés à un liant"
+      - "Ils sont toujours plus chers que le lapis-lazuli"
+      - "Ils résistent souvent moins bien à la lumière que les pigments minéraux"
+    answer: 3
+    explanation: "Les pigments organiques, comme le noir de fumée ou les colorants de baies et d'insectes, sont souvent moins résistants à la lumière que les pigments minéraux."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -2939,6 +3219,12 @@ sources:
   - title: "Sound film"
     url: "https://en.wikipedia.org/wiki/Sound_film"
     publisher: "Wikipedia"
+  - title: "Parlant (cinéma) - repères chronologiques"
+    url: "https://www.universalis.fr/encyclopedie/parlant-cinema-reperes-chronologiques/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "Cinéma (aspects généraux) - Histoire, le parlant, les années 1930"
+    url: "https://www.universalis.fr/encyclopedie/cinema-aspects-generaux-histoire/3-le-parlant-les-annees-1930/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Quel film de 1927 est considéré comme le premier long métrage parlant ?"
     options:
@@ -3301,6 +3587,20 @@ quiz:
     explanation: >
       Une forte pente permet à l'eau de ruisseler rapidement sans stagner, ce qui protège la
       toiture et limite les risques d'infiltration dans les régions très pluvieuses.
+  - question: "Pourquoi construire avec des matériaux trouvés sur place est-il avantageux ?"
+    options:
+      - "Cela réduit les besoins de transport et rend la construction accessible sans industrie lourde"
+      - "Cela garantit des bâtiments plus durables que le béton"
+      - "Cela dispense de tenir compte du climat"
+    answer: 1
+    explanation: "Les matériaux locaux évitent de longs transports et permettent de bâtir sans industrie lourde."
+  - question: "Pourquoi construit-on des maisons sur pilotis dans les régions humides ?"
+    options:
+      - "Pour retarder l'entrée de la chaleur dans la maison"
+      - "Pour faire sécher les récoltes sur le toit"
+      - "Pour se protéger des inondations et favoriser la circulation de l'air"
+    answer: 3
+    explanation: "Surélevée sur pilotis, la maison est protégée des crues et l'air circule mieux en dessous, ce qui convient aux régions humides."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3513,6 +3813,20 @@ quiz:
     explanation: >
       La chaleur accélère les réactions chimiques qui fragilisent le papier, et la lumière,
       surtout ultraviolette, décolore et affaiblit les fibres au fil du temps.
+  - question: "Pourquoi des variations brutales de température ou d'humidité sont-elles à éviter ?"
+    options:
+      - "Elles favorisent seulement les insectes"
+      - "Elles sont souvent plus dommageables qu'une condition légèrement défavorable mais constante"
+      - "Elles sont sans effet tant que l'air n'est pas trop sec"
+    answer: 2
+    explanation: "La stabilité compte plus que la perfection : des variations brutales abîment souvent davantage qu'une condition un peu défavorable mais constante."
+  - question: "Pourquoi dupliquer un document important le protège-t-il ?"
+    options:
+      - "Une copie vieillit moins vite que l'original"
+      - "Une copie numérique ne peut jamais être détruite"
+      - "Cela répartit le risque : une copie conservée ailleurs survit à la destruction de l'original"
+    answer: 3
+    explanation: "Si l'original brûle ou est inondé, une copie située ailleurs préserve l'information : la duplication répartit le risque de perte totale."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3668,6 +3982,20 @@ quiz:
     explanation: >
       Un objet ancien peut survivre sans que personne ne sache encore le fabriquer : c'est la
       transmission vivante du geste, de maître à apprenti, qui maintient un savoir-faire en vie.
+  - question: "Comment le compagnonnage organise-t-il la transmission d'un métier ?"
+    options:
+      - "Par des manuels détaillés que l'apprenti étudie seul"
+      - "Par un apprentissage long, souvent itinérant, où l'apprenti répète le geste du maître"
+      - "Par des concours entre ateliers qui retiennent les meilleurs gestes"
+    answer: 2
+    explanation: "Le compagnonnage repose sur un apprentissage long où l'apprenti observe, répète et perfectionne le geste du maître jusqu'à le maîtriser."
+  - question: "Que peut-on tenter quand un savoir-faire a disparu ?"
+    options:
+      - "Le retrouver à l'identique en observant simplement les objets fabriqués"
+      - "Y renoncer, car aucune méthode ne permet de le retrouver"
+      - "Le reconstituer par l'étude d'objets, de textes ou par essais successifs, mais rarement avec la même précision"
+    answer: 3
+    explanation: "Objets anciens, textes techniques et essais permettent parfois de reconstituer une technique, rarement aussi précisément qu'avec une transmission continue."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3924,6 +4252,20 @@ quiz:
     explanation: >
       Le tamis de bambou, trempé dans la cuve puis secoué doucement, retenait les fibres en une
       fine couche uniforme qui, une fois pressée et séchée, devenait une feuille de papier.
+  - question: "Pourquoi secoue-t-on régulièrement le tamis après l'avoir plongé dans la cuve ?"
+    options:
+      - "Pour faire écouler la colle du papier"
+      - "Pour séparer les fibres de cellulose"
+      - "Pour répartir les fibres uniformément en une fine couche entrelacée"
+    answer: 3
+    explanation: "Le mouvement de secousse répartit les fibres de façon homogène et forme la fine couche qui deviendra la feuille."
+  - question: "À quoi sert le pilage des fibres bouillies ?"
+    options:
+      - "À former une pâte fibreuse homogène en séparant les fibres de cellulose"
+      - "À faire sécher les fibres avant de les presser"
+      - "À fixer l'encre dans le support"
+    answer: 1
+    explanation: "Après ébullition, le pilage au maillet ou au mortier sépare les fibres de cellulose et produit la pâte homogène."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -4060,6 +4402,20 @@ quiz:
     explanation: >
       Contrairement à d'autres encres, celle au fer et à la noix de galle pénètre dans les fibres
       du support et résiste à l'eau après séchage, ce qui explique sa longévité d'usage.
+  - question: "Pourquoi la plume d'oiseau est-elle taillée en biseau puis légèrement fendue ?"
+    options:
+      - "Pour la rendre plus rigide qu'un calame"
+      - "Pour retenir l'encre et la laisser s'écouler régulièrement"
+      - "Pour l'utiliser uniquement avec de l'encre au carbone"
+    answer: 2
+    explanation: "La taille en biseau et la fente permettent à la plume de retenir l'encre et de la libérer de façon régulière sur le support."
+  - question: "Quel défaut présente l'encre au carbone une fois appliquée ?"
+    options:
+      - "Elle abîme les fibres du support"
+      - "Elle est très difficile à fabriquer"
+      - "Elle reste sensible à l'eau"
+    answer: 3
+    explanation: "L'encre au carbone, faite de suie et de liant, est simple à fabriquer mais reste sensible à l'eau, contrairement à l'encre au fer et à la noix de galle."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -4479,6 +4835,12 @@ sources:
   - title: "Musical notation"
     url: "https://en.wikipedia.org/wiki/Musical_notation"
     publisher: "Wikipedia"
+  - title: "Notation musicale"
+    url: "https://www.larousse.fr/encyclopedie/musdico/notation_musicale/169355"
+    publisher: "Larousse"
+  - title: "Musical notation - Introduction"
+    url: "https://www.britannica.com/art/musical-notation/Introduction"
+    publisher: "Encyclopaedia Britannica"
 quiz:
   - question: "Combien de lignes compte une portée ?"
     options:
@@ -4744,6 +5106,9 @@ sources:
   - title: "Hohle Fels"
     url: "https://en.wikipedia.org/wiki/Hohle_Fels"
     publisher: "Wikipedia"
+  - title: "Flûte"
+    url: "https://www.universalis.fr/encyclopedie/flute/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Sur quoi le souffle se brise-t-il dans une flûte ?"
     options:
@@ -6030,6 +6395,9 @@ sources:
   - title: "ISO 7001"
     url: "https://en.wikipedia.org/wiki/ISO_7001"
     publisher: "Wikipedia"
+  - title: "NF ISO 7001 - Graphical symbols - Public information symbols"
+    url: "https://www.boutique.afnor.org/en-gb/standard/nf-iso-7001/graphical-symbols-public-information-symbols/fa132773/30493"
+    publisher: "AFNOR"
 quiz:
   - question: "Qu'est-ce qui rend un pictogramme compréhensible sans mots ?"
     options:
@@ -6251,6 +6619,12 @@ sources:
   - title: "Estampe"
     url: "https://fr.wikipedia.org/wiki/Estampe"
     publisher: "Wikipédia"
+  - title: "Estampe"
+    url: "https://www.larousse.fr/encyclopedie/divers/estampe/49453"
+    publisher: "Larousse"
+  - title: "Estampe"
+    url: "https://www.universalis.fr/encyclopedie/estampe/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Comment appelle-t-on l'image imprimée à partir d'une gravure ?"
     options:
@@ -6879,6 +7253,9 @@ sources:
   - title: "Ceramic"
     url: "https://en.wikipedia.org/wiki/Ceramic"
     publisher: "Wikipedia"
+  - title: "Document pédagogique (Lillonum)"
+    url: "https://lillonum.univ-lille.fr/files/original/204d63940a429eeb3746d0b45261ef2332c6dbab.pdf"
+    publisher: "Université de Lille"
 quiz:
   - question: "Que devient une poterie d'argile sèche mais non cuite si on la plonge dans l'eau ?"
     options:
@@ -7257,6 +7634,12 @@ sources:
   - title: "Camera obscura"
     url: "https://en.wikipedia.org/wiki/Camera_obscura"
     publisher: "Wikipedia"
+  - title: "Chambre noire, chambre optique, reproduction graphique"
+    url: "https://www.universalis.fr/encyclopedie/chambre-noire-chambre-optique/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "La camera obscura immobilis, ou les origines mouvementées de la photographie"
+    url: "https://books.openedition.org/septentrion/46706"
+    publisher: "Presses universitaires du Septentrion"
 quiz:
   - question: "Dans quel sens apparaît l'image au fond de la chambre noire ?"
     options:
@@ -8223,6 +8606,9 @@ sources:
   - title: "Papyrus"
     url: "https://en.wikipedia.org/wiki/Papyrus"
     publisher: "Wikipedia"
+  - title: "Papyrus making in Egypt"
+    url: "https://www.metmuseum.org/fr/essays/papyrus-making-in-egypt"
+    publisher: "The Metropolitan Museum of Art"
 quiz:
   - question: "Quelle partie de la plante utilisait-on pour fabriquer le papyrus ?"
     options:
@@ -8786,105 +9172,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-type: article
-title: Comment un arc en pierre tient-il debout grâce à son propre poids ?
-slug: comment-un-arc-en-pierre-tient-il-debout-grace-a-son-propre-poids
-categoryPath: arts-et-culture/patrimoine/architecture
-summary: >
-  Un arc en plein cintre est un demi-cercle de pierres taillées en coin. Chaque pierre pousse
-  sur ses voisines, et le poids descend le long de l'arc jusqu'aux piliers. Les pierres sont
-  serrées les unes contre les autres au lieu de tomber.
-tags: [architecture]
-sources:
-  - title: "Arc en plein cintre"
-    url: "https://fr.wikipedia.org/wiki/Arc_en_plein_cintre"
-    publisher: "Wikipédia"
-  - title: "Arch"
-    url: "https://en.wikipedia.org/wiki/Arch"
-    publisher: "Wikipedia"
-  - title: "Voussoir"
-    url: "https://en.wikipedia.org/wiki/Voussoir"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Quelle forme a un arc en plein cintre ?"
-    options:
-      - "Un triangle"
-      - "Un demi-cercle"
-      - "Un carré"
-    answer: 2
-    explanation: >
-      Un arc en plein cintre forme un demi-cercle parfait, sans pointe.
-  - question: "Comment s'appellent les pierres taillées en coin qui forment l'arc ?"
-    options:
-      - "Les voussoirs"
-      - "Les briques plates"
-      - "Les galets"
-    answer: 1
-    explanation: >
-      Les pierres de l'arc s'appellent des voussoirs. Leur forme en coin les empêche de
-      glisser vers le bas.
-  - question: "À quoi sert le cintre en bois pendant la construction ?"
-    options:
-      - "À décorer l'arc"
-      - "À le peindre"
-      - "À soutenir les pierres tant que l'arc n'est pas fermé"
-    answer: 3
-    explanation: >
-      Le cintre est un gabarit en bois qui porte les pierres pendant la pose. On le retire
-      quand la dernière pierre est en place.
-  - question: "Quelle construction romaine célèbre utilise des arcs en plein cintre ?"
-    options:
-      - "La tour Eiffel"
-      - "Le pont du Gard"
-      - "Le Burj Khalifa"
-    answer: 2
-    explanation: >
-      Le pont du Gard, un aqueduc romain, aligne plusieurs étages d'arcs en plein cintre.
-lastVerified: 2026-10-09
-status: published
----
-
-## En bref
-
-Un arc en plein cintre est un demi-cercle de pierres taillées en coin. Chaque pierre pousse sur ses voisines, et le poids descend le long de l'arc jusqu'aux piliers. Les pierres sont serrées les unes contre les autres au lieu de tomber.
-
-## Un demi-cercle de pierres
-
-Un arc en plein cintre forme un demi-cercle parfait. Il est fait de pierres taillées en forme de coin, appelées voussoirs. Elles sont plus larges en haut qu'en bas. La pierre placée tout en haut, au centre, s'appelle la clé. L'arc repose de chaque côté sur un support vertical, le piédroit.
-
-## Le poids qui serre au lieu de faire tomber
-
-Une pierre posée en l'air tombe. Mais dans un arc, chaque voussoir est coincé entre ses deux voisins. Son poids le pousse vers le bas, et sa forme en coin l'empêche de passer entre les autres. Il appuie donc sur eux. De pierre en pierre, le poids descend le long de la courbe jusqu'aux piédroits. Toutes les pierres sont comprimées, c'est-à-dire serrées les unes contre les autres. Or la pierre résiste très bien à la compression.
-
-L'arc ne pousse pas seulement vers le bas. Il pousse aussi vers l'extérieur, sur les côtés. Les supports doivent donc être assez épais et lourds pour ne pas s'écarter.
-
-## Un échafaudage en bois
-
-Tant que la clé n'est pas posée, l'arc ne tient pas. Les bâtisseurs construisent d'abord un gabarit en bois en forme de demi-cercle : le cintre. Ils posent les voussoirs dessus, des deux côtés à la fois, puis placent la clé au sommet. L'arc se tient alors tout seul, et le cintre peut être retiré.
-
-## Des Romains aux églises romanes
-
-Les Romains ont beaucoup utilisé l'arc en plein cintre, dans leurs bâtiments comme dans leurs aqueducs. Le pont du Gard en aligne plusieurs étages. Au Moyen Âge, il devient l'élément principal de l'architecture romane. À la Renaissance, les architectes le reprennent comme un modèle venu de l'Antiquité.
-
-```schema
-type: etapes
-titre: L'arc en plein cintre
-elements:
-  - titre: Cintre en bois
-  - titre: Voussoirs taillés en coin
-  - titre: Clé posée en dernier
-  - titre: Le poids serre les pierres
-```
-
-## À retenir
-
-- Un arc en plein cintre est un demi-cercle de pierres taillées en coin, les voussoirs.
-- Le poids de chaque pierre la serre contre ses voisines au lieu de la faire tomber.
-- Le poids descend le long de l'arc jusqu'aux supports, qui doivent aussi résister à une poussée vers l'extérieur.
-- Pendant la construction, un cintre en bois porte les pierres jusqu'à la pose de la clé.
-- Les Romains l'ont beaucoup utilisé, par exemple au pont du Gard.
 
 ---
 type: article
@@ -13541,6 +13828,12 @@ sources:
   - title: "Scriptorium"
     url: "https://en.wikipedia.org/wiki/Scriptorium"
     publisher: "Wikipedia"
+  - title: "carolingiens2"
+    url: "https://multimedia-ext.bnf.fr/pdf/carolingiens2.pdf"
+    publisher: "Bibliothèque nationale de France"
+  - title: "Expo 2016 : Trésors enluminés de Normandie"
+    url: "https://mbarouen.fr/sites/default/files/upload/expo_2016_tresors_enlumines_de_normandie.pdf"
+    publisher: "Musée des Beaux-Arts de Rouen"
 quiz:
   - question: "Sur quoi écrivait-on les manuscrits enluminés ?"
     options:
@@ -13641,6 +13934,9 @@ sources:
   - title: "Movable type"
     url: "https://en.wikipedia.org/wiki/Movable_type"
     publisher: "Wikipedia"
+  - title: "Gutenberg (Johannes Gensfleisch dit)"
+    url: "https://www.universalis.fr/encyclopedie/gutenberg/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Qui a d'abord inventé le caractère mobile, avec de la céramique ?"
     options:
@@ -13756,6 +14052,9 @@ sources:
   - title: "Timbre"
     url: "https://en.wikipedia.org/wiki/Timbre"
     publisher: "Wikipedia"
+  - title: "Document Éduscol (fichier 25447)"
+    url: "https://eduscol.education.fr/document/25447/download"
+    publisher: "Éduscol"
 quiz:
   - question: "Que permet de reconnaître le timbre ?"
     options:
@@ -13958,6 +14257,12 @@ sources:
   - title: "Mobilier national"
     url: "https://fr.wikipedia.org/wiki/Mobilier_national"
     publisher: "Wikipédia"
+  - title: "Le Mobilier national et les Manufactures"
+    url: "https://www.culture.gouv.fr/fr/thematiques/arts-plastiques/les-arts-plastiques-en-france/le-mobilier-national-et-les-manufactures"
+    publisher: "Ministère de la Culture"
+  - title: "Manufacture des Gobelins"
+    url: "https://www.universalis.fr/encyclopedie/manufacture-des-gobelins/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Qui étaient les Gobelins à l'origine ?"
     options:
@@ -14160,6 +14465,9 @@ sources:
   - title: "Verdigris"
     url: "https://en.wikipedia.org/wiki/Verdigris"
     publisher: "Wikipedia"
+  - title: "Plomb dans les collections muséales"
+    url: "https://www.canada.ca/fr/institut-conservation/services/publications-conservation-preservation/notes-institut-canadien-conservation/plomb-collections-museales.html"
+    publisher: "Institut canadien de conservation (gouvernement du Canada)"
 quiz:
   - question: "De quel métal est fait le blanc de plomb ?"
     options:
@@ -14259,6 +14567,12 @@ sources:
   - title: "Conservation and restoration of cultural property"
     url: "https://en.wikipedia.org/wiki/Conservation_and_restoration_of_cultural_property"
     publisher: "Wikipedia"
+  - title: "Restauration (art contemporain)"
+    url: "https://www.universalis.fr/encyclopedie/art-restauration/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "Restauration (peinture)"
+    url: "https://www.larousse.fr/encyclopedie/peinture/restauration/154081"
+    publisher: "Larousse"
 quiz:
   - question: "Que fait la conservation d'une œuvre ?"
     options:
@@ -14346,7 +14660,8 @@ slug: pourquoi-fouille-t-on-avant-de-construire-une-route
 categoryPath: arts-et-culture/patrimoine/musees-et-conservation
 summary: >
   L'archéologie préventive étudie les vestiges menacés par des travaux avant qu'ils ne
-  disparaissent. En France, l'Inrap réalise les diagnostics et les fouilles.
+  disparaissent. En France, l'Inrap et d'autres opérateurs réalisent chaque année environ 2 000
+  diagnostics et plus de 200 fouilles, financés par les aménageurs.
 tags: [musees-et-conservation]
 sources:
   - title: "Archéologie préventive"
@@ -14361,6 +14676,10 @@ sources:
   - title: "Inrap, Institut national de recherches archéologiques préventives"
     url: "https://www.inrap.fr/"
     publisher: "Inrap"
+  - title: "Chiffres clés 2023, archéologie (fiche DEPS)"
+    url: "https://www.culture.gouv.fr/Media/Medias-creation-rapide-Ne-pas-supprimer/Chiffres-cles-2023_DEPS_Arche-ologie_Fiche.pdf"
+    publisher: "Ministère de la Culture"
+    date: "2023"
 quiz:
   - question: "Quand fouille-t-on en archéologie préventive ?"
     options:
@@ -14398,7 +14717,7 @@ quiz:
     explanation: >
       La convention de Malte a fixé un cadre européen de protection du patrimoine archéologique
       menacé par les aménagements.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -14417,6 +14736,16 @@ La convention de Malte a fixé un cadre européen de protection du patrimoine ar
 ## L'Inrap en France
 
 En France, une loi de 2001 a organisé l'archéologie préventive, avec des diagnostics et un financement par les aménageurs. L'Inrap, Institut national de recherches archéologiques préventives, réalise des diagnostics et des fouilles avant les travaux d'aménagement. L'Inrap est un établissement public administratif, placé sous la tutelle des ministères de la Culture et de la Recherche. L'Inrap a remplacé l'Afan, l'Association pour les fouilles archéologiques nationales. L'Inrap assure l'exploitation scientifique des opérations et la diffusion de leurs résultats.
+
+## Deux temps : diagnostic, puis fouille
+
+Le diagnostic vient d'abord. Il consiste en sondages sur le terrain du projet, pour savoir s'il contient des vestiges. En 2022, la France en a réalisé 2 096, contre 2 019 en 2021. Une fouille n'est prescrite que si ces sondages révèlent des vestiges qui méritent d'être étudiés : 238 fouilles ont été menées en 2022.
+
+La différence de nombre montre que la plupart des terrains ne donnent pas lieu à une fouille complète. Mais quand elle a lieu, elle est longue : environ 146 500 journées de travail en 2022, contre 81 460 pour l'ensemble des diagnostics.
+
+## Qui travaille sur le terrain ?
+
+L'Inrap n'est pas seul. Les services archéologiques de collectivités assurent environ 20 % des diagnostics. Treize entreprises privées ou associations agréées réalisent environ 40 % des fouilles. L'Inrap employait 2 280 personnes fin 2021, pour un budget d'environ 189 millions d'euros.
 
 ## Une découverte qui marque
 
@@ -14439,7 +14768,6 @@ elements:
 - La convention de Malte a fixé un cadre européen de protection du patrimoine archéologique menacé par les aménagements.
 - Dans de nombreux pays, c'est l'aménageur qui finance l'archéologie préventive.
 - L'Inrap, Institut national de recherches archéologiques préventives, réalise des diagnostics et des fouilles avant les travaux d'aménagement.
-
 ---
 type: article
 title: Le Laboratoire du Louvre et l'étude des oeuvres

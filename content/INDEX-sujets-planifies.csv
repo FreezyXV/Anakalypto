@@ -49,7 +49,6 @@ espace;espace-et-astronomie/exploration-spatiale/sondes;Le télescope spatial Ja
 espace;espace-et-astronomie/observation-astronomique/messagers-du-cosmos;Pourquoi observer dans l'infrarouge;pourquoi-observer-dans-linfrarouge;;non;published
 espace;espace-et-astronomie/observation-astronomique/telescopes;À quoi sert la taille d'un télescope;taille-des-telescopes-et-resolution;;non;published
 espace;espace-et-astronomie/exploration-spatiale/vols-habites;Artemis II, le retour vers la Lune;artemis-ii-retour-vers-la-lune;;non;published
-espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Comment on met un objet en orbite;mettre-un-objet-en-orbite;;non;published
 geographie;geographie-et-territoires/geographie-physique/reliefs;La formation des montagnes;formation-chaines-de-montagnes;;non;published
 geographie;geographie-et-territoires/geographie-physique/climatologie;Les grands types de climats;classification-climats-mondiaux-koppen;;non;published
 geographie;geographie-et-territoires/geographie-physique/hydrographie;Pourquoi il pleut ici et pas là;pourquoi-il-pleut-ici-et-pas-la;;non;published
@@ -143,7 +142,6 @@ droit;droit-et-justice/droit-prive/droit-civil;La propriété et le cadastre;pro
 droit;droit-et-justice/droit-prive/procedure-et-preuve;La médiation et l'arbitrage;mediation-arbitrage;1;oui;published
 droit;droit-et-justice/droit-public/droit-constitutionnel;Écrire une constitution;ecrire-constitution;1;oui;published
 energie;energie/energies-renouvelables/hydraulique;La microcentrale hydroélectrique;microcentrale-hydroelectrique;1;oui;published
-energie;energie/reseaux-et-stockage/reseaux-electriques;Produire de l'électricité avec un aimant;produire-electricite-avec-aimant;1;oui;published
 energie;energie/reseaux-et-stockage/batteries;La batterie au plomb;batterie-plomb;1;oui;published
 energie;energie/reseaux-et-stockage/hydrogene;L'électrolyse de l'eau;electrolyse-eau;1;oui;published
 energie;energie/efficacite-et-sobriete/efficacite-energetique;Isoler un bâtiment;isoler-batiment;1;oui;published
@@ -152,7 +150,6 @@ energie;energie/efficacite-et-sobriete/usages-et-consommation;Le bois de chauffa
 environnement;environnement-et-climat/pollution-et-ressources/eau;Récupérer l'eau de pluie;recuperer-eau-pluie;1;oui;published
 environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Réparer plutôt que jeter;reparer-plutot-jeter;1;oui;published
 espace;espace-et-astronomie/systeme-solaire/lune;Le calendrier lunaire;calendrier-lunaire;1;oui;published
-espace;espace-et-astronomie/astrophysique/etoiles;Se repérer grâce aux étoiles;reperer-grace-etoiles;1;oui;published
 espace;espace-et-astronomie/observation-astronomique/telescopes;Fabriquer une lunette astronomique;fabriquer-lunette-astronomique;1;oui;published
 geographie;geographie-et-territoires/geographie-physique/climatologie;Prévoir le temps sans instruments;prevoir-temps-sans-instruments;1;oui;published
 geographie;geographie-et-territoires/geographie-physique/climatologie;Le calendrier des saisons et des cultures;calendrier-saisons-cultures;1;oui;published
@@ -2252,7 +2249,6 @@ arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;Le codex, l'inven
 arts;arts-et-culture/patrimoine/architecture;Les temples grecs et leurs proportions mathematiques;les-temples-grecs-et-leurs-proportions-mathematiques;3;non;planned
 arts;arts-et-culture/patrimoine/architecture;Le Colisee de Rome et ses techniques de construction;le-colisee-de-rome-et-ses-techniques-de-construction;3;non;planned
 arts;arts-et-culture/patrimoine/architecture;Le beton romain, un materiau redecouvert;le-beton-romain-un-materiau-redecouvert;2;oui;planned
-arts;arts-et-culture/patrimoine/architecture;Comment un arc en pierre tient-il debout grâce à son propre poids ?;comment-un-arc-en-pierre-tient-il-debout-grace-a-son-propre-poids;2;oui;published
 arts;arts-et-culture/patrimoine/architecture;La voute en berceau et ses usages historiques;la-voute-en-berceau-et-ses-usages-historiques;3;oui;planned
 arts;arts-et-culture/patrimoine/architecture;La cathedrale gothique, une prouesse d'ingenierie;la-cathedrale-gothique-une-prouesse-d-ingenierie;3;non;planned
 arts;arts-et-culture/patrimoine/architecture;Notre-Dame de Paris avant l'incendie de 2019;notre-dame-de-paris-avant-l-incendie-de-2019;3;non;planned
@@ -4443,7 +4439,6 @@ espace;espace-et-astronomie/systeme-solaire/lune;Le calendrier lunaire et son us
 espace;espace-et-astronomie/systeme-solaire/lune;Les eclipses lunaires, mecanisme precis;les-eclipses-lunaires-mecanisme-precis;2;oui;planned
 espace;espace-et-astronomie/systeme-solaire/lune;Les eclipses solaires, une coincidence cosmique rare;les-eclipses-solaires-une-coincidence-cosmique-rare;2;oui;planned
 espace;espace-et-astronomie/systeme-solaire/lune;L'eloignement progressif de la Lune;l-eloignement-progressif-de-la-lune;3;non;planned
-espace;espace-et-astronomie/systeme-solaire/lune;Pourquoi la mer monte-t-elle et descend-elle deux fois par jour ?;pourquoi-la-mer-monte-t-elle-et-descend-elle-deux-fois-par-jour;2;oui;published
 espace;espace-et-astronomie/systeme-solaire/lune;L'influence de la Lune sur la stabilite de l'axe terrestre;l-influence-de-la-lune-sur-la-stabilite-de-l-axe-terrestre;2;non;planned
 espace;espace-et-astronomie/systeme-solaire/lune;L'eau lunaire, une decouverte qui change tout;l-eau-lunaire-une-decouverte-qui-change-tout;2;non;planned
 espace;espace-et-astronomie/systeme-solaire/lune;Les poles lunaires et leurs cratères en ombre permanente;les-poles-lunaires-et-leurs-crateres-en-ombre-permanente;3;non;planned
@@ -4855,7 +4850,7 @@ industries;industries/industrie-lourde/chimie-industrielle;Les grands accidents 
 industries;industries/industrie-lourde/chimie-industrielle;La chimie verte, reduire l'impact des procedes industriels;la-chimie-verte-reduire-l-impact-des-procedes-industriels;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La fabrication artisanale de la chaux;la-fabrication-artisanale-de-la-chaux;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;L'ammoniac, un compose chimique cle de l'industrie;l-ammoniac-un-compose-chimique-cle-de-l-industrie;2;oui;planned
-industries;industries/industrie-lourde/chimie-industrielle;La fabrication du verre, procede de base;la-fabrication-du-verre-procede-de-base;2;oui;planned
+industries;industries/industrie-lourde/chimie-industrielle;La fabrication du verre, procede de base;la-fabrication-du-verre-procede-de-base;2;oui;published
 industries;industries/industrie-lourde/chimie-industrielle;Le procede de fabrication du ciment;le-procede-de-fabrication-du-ciment;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La fabrication de l'eau de Javel;la-fabrication-de-l-eau-de-javel;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La distillation, principe chimique de base;la-distillation-principe-chimique-de-base;2;oui;planned
@@ -7119,7 +7114,6 @@ technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les infrastruc
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;L'histoire des grands travaux publics a travers les civilisations;l-histoire-des-grands-travaux-publics-a-travers-les-civilisations;2;non;planned
 technologies;technologies-et-ingenierie/genie-civil/structures;Les forces qui s'exercent sur une structure;les-forces-qui-s-exercent-sur-une-structure;2;oui;planned
 technologies;technologies-et-ingenierie/genie-civil/structures;La compression et la traction en ingenierie structurelle;la-compression-et-la-traction-en-ingenierie-structurelle;2;oui;planned
-technologies;technologies-et-ingenierie/genie-civil/structures;Le levier, la poulie et le plan incline en construction;le-levier-la-poulie-et-le-plan-incline-en-construction;2;oui;published
 technologies;technologies-et-ingenierie/genie-civil/structures;L'arc, une forme structurelle millenaire;l-arc-une-forme-structurelle-millenaire;2;oui;planned
 technologies;technologies-et-ingenierie/genie-civil/structures;La voute, principe et evolution historique;la-voute-principe-et-evolution-historique;2;oui;planned
 technologies;technologies-et-ingenierie/genie-civil/structures;Les fondations d'un batiment, role et types;les-fondations-d-un-batiment-role-et-types;2;oui;planned
@@ -11843,8 +11837,6 @@ intelligence-artificielle;intelligence-artificielle/apprentissage-automatique;Co
 geographie;geographie-et-territoires/geographie-physique/reliefs;Refaire une carte, la triangulation;refaire-une-carte-par-triangulation;2;oui;published
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Marcher et porter longtemps, l'astuce du pendule;marcher-et-porter-longtemps;2;oui;published
 aeronautique;aeronautique/aerodynamique/portance;Pourquoi un avion vole, portance et écoulement de l'air;pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air;0.91;non;published
-aeronautique;aeronautique/propulsion/turboreacteurs;Le turboréacteur à double flux, principe de fonctionnement;le-turboreacteur-a-double-flux-principe-de-fonctionnement;0.89;non;published
-aeronautique;aeronautique/navigation-aerienne/controle-du-trafic-aerien;Comment le contrôle aérien gère des milliers de vols;comment-le-controle-aerien-gere-des-milliers-de-vols;0.88;non;published
 aeronautique;aeronautique/aerodynamique/portance;Comment les pales d'un hélicoptère créent la portance;comment-les-pales-d-un-helicoptere-creent-la-portance;0.88;non;published
 aeronautique;aeronautique/aviation-civile/securite;Les turbulences, pourquoi l'avion est secoué;les-turbulences-pourquoi-l-avion-est-secoue;0.88;non;published
 aeronautique;aeronautique/aerodynamique/ecoulements;Le mur du son et le bang supersonique;le-mur-du-son-et-le-bang-supersonique;0.86;non;published
@@ -11939,7 +11931,6 @@ environnement;environnement-et-climat/pollution-et-ressources/eau;Pourquoi dit-o
 environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Le recyclage du plastique, ce qui est réellement recyclé;le-recyclage-du-plastique-ce-qui-est-reellement-recycle;0.87;non;planned
 environnement;environnement-et-climat/biodiversite/forets-et-oceans;Comment survivent les animaux dans les profondeurs sombres de l'océan ?;comment-survivent-les-animaux-dans-les-profondeurs-sombres-de-l-ocean;0.86;non;published
 environnement;environnement-et-climat/changement-climatique/impacts-et-adaptation;La fonte des glaciers et la vie microbienne des cours d'eau glaciaires;la-fonte-des-glaciers-et-la-vie-microbienne-des-cours-d-eau-glaciaires;0.84;non;planned
-espace;espace-et-astronomie/systeme-solaire/lune;Les marées et l'effet de la Lune sur les océans;les-marees-et-l-effet-de-la-lune-sur-les-oceans;0.92;non;published
 espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Comment une fusée fait-elle pour rester en orbite autour de la Terre ?;comment-une-fusee-fait-elle-pour-rester-en-orbite-autour-de-la-terre;0.91;non;published
 espace;espace-et-astronomie/astrophysique/etoiles;Comment naît une étoile à partir d'un nuage de gaz ?;comment-nait-une-etoile-a-partir-d-un-nuage-de-gaz;0.9;non;published
 espace;espace-et-astronomie/systeme-solaire/lune;Pourquoi n'y a-t-il pas une éclipse à chaque nouvelle Lune ?;pourquoi-n-y-a-t-il-pas-une-eclipse-a-chaque-nouvelle-lune;0.9;non;published
@@ -12009,7 +12000,7 @@ sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Pourquoi 
 sciences-fondamentales;sciences-fondamentales/chimie/chimie-physique;Pourquoi la croûte du pain et la viande grillée ont-elles ce goût et cette couleur ?;pourquoi-la-croute-du-pain-et-la-viande-grillee-ont-elles-ce-gout-et-cette-couleur;0.87;non;published
 sciences-fondamentales;sciences-fondamentales/biologie/evolution;Comment les animaux des profondeurs survivent-ils à une pression écrasante ?;comment-les-animaux-des-profondeurs-survivent-ils-a-une-pression-ecrasante;0.87;non;published
 sciences-fondamentales;sciences-fondamentales/mathematiques/geometrie;Pourquoi aucune carte du monde à plat ne peut-elle être parfaitement fidèle ?;pourquoi-aucune-carte-du-monde-a-plat-ne-peut-elle-etre-parfaitement-fidele;0.86;non;published
-sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/oceanographie;Les fosses océaniques et la zone hadale;les-fosses-oceaniques-et-la-zone-hadale;0.85;non;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/oceanographie;Les fosses océaniques et la zone hadale;les-fosses-oceaniques-et-la-zone-hadale;0.85;non;published
 sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;Un matériau peut-il être isolant à l'intérieur et conducteur en surface ?;un-materiau-peut-il-etre-isolant-a-l-interieur-et-conducteur-en-surface;0.76;non;published
 sciences-fondamentales;sciences-fondamentales/biologie/genetique;Que révèle le génome des derniers mammouths sur les dangers d'une toute petite population ?;que-revele-le-genome-des-derniers-mammouths-sur-les-dangers-d-une-toute-petite-population;0.74;non;published
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Pourquoi un motif de vannerie japonaise intrigue-t-il les physiciens des supraconducteurs ?;pourquoi-un-motif-de-vannerie-japonaise-intrigue-t-il-les-physiciens-des-supraconducteurs;0.74;non;published
@@ -12033,7 +12024,7 @@ sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-muscula
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Faut-il manger tout de suite après l'entraînement pour mieux progresser ?;faut-il-manger-tout-de-suite-apres-l-entrainement-pour-mieux-progresser;0.82;non;published
 sport;sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante;Que mesure vraiment le capteur au dos d'une montre connectée, et peut-on s'y fier ?;que-mesure-vraiment-le-capteur-au-dos-d-une-montre-connectee-et-peut-on-s-y-fier;0.82;non;published
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Pourquoi les records du monde tombent-ils moins vite qu'avant ?;pourquoi-les-records-du-monde-tombent-ils-moins-vite-qu-avant;0.82;non;published
-sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Les records de 1968 à Mexico et l'altitude;les-records-de-1968-a-mexico-et-l-altitude;0.8;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Les records de 1968 à Mexico et l'altitude;les-records-de-1968-a-mexico-et-l-altitude;0.8;non;published
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Que mesure vraiment la variabilité cardiaque, ce chiffre qui promet de dire si vous êtes récupéré ?;que-mesure-vraiment-la-variabilite-cardiaque-ce-chiffre-qui-promet-de-dire-si-vous-etes-recupere;0.79;non;published
 sport;sport-et-sciences-du-mouvement/sport-et-societe/dopage;Des chaussures qui font courir plus vite, est-ce du dopage technologique ?;des-chaussures-qui-font-courir-plus-vite-est-ce-du-dopage-technologique;0.79;non;published
 technologies;technologies-et-ingenierie/nanotechnologies/applications;Comment construit-on des structures à l'échelle du milliardième de mètre ?;comment-construit-on-des-structures-a-l-echelle-du-milliardieme-de-metre;0.85;non;published

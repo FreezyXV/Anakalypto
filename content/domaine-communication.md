@@ -237,6 +237,20 @@ quiz:
     explanation: >
       Si le web avait été breveté et payant, d'autres systèmes concurrents et fermés l'auraient
       probablement emporté. Sa gratuité a permis son adoption universelle.
+  - question: "Qu'est-ce qui a fait du web un espace plutôt qu'un catalogue ?"
+    options:
+      - "Son hébergement gratuit par le CERN"
+      - "Le fait qu'il fonctionne sur un réseau distinct d'internet"
+      - "Le fait que n'importe quelle page peut pointer vers n'importe quelle autre sans demander la permission"
+    answer: 3
+    explanation: "Grâce à l'URL, à HTTP et à HTML, toute page peut renvoyer vers une autre sans autorisation, ce qui crée un véritable espace."
+  - question: "Pourquoi la croissance du nombre d'internautes ralentit-elle ?"
+    options:
+      - "Les populations restantes se désintéressent d'internet"
+      - "Les populations restantes sont les plus difficiles à connecter"
+      - "Le web est saturé de pages"
+    answer: 2
+    explanation: "Le ralentissement ne vient pas du désintérêt : zones rurales isolées, régions pauvres et coût d'un smartphone rendent les derniers non-connectés difficiles à atteindre."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -354,6 +368,20 @@ quiz:
     explanation: >
       Un contenu publié dans une application peut être invisible pour un moteur de recherche,
       impossible à archiver, et disparaître sans laisser de trace.
+  - question: "De quelle asymétrie souffre un créateur de contenu sur une plateforme fermée ?"
+    options:
+      - "Il dépend de décisions de classement qu'il ne maîtrise pas et qui peuvent changer du jour au lendemain"
+      - "Il ne peut pas publier plus d'un contenu par jour"
+      - "Il doit payer chaque lien qu'il publie"
+    answer: 1
+    explanation: "Le créateur subit des décisions de classement hors de son contrôle, susceptibles de changer brutalement."
+  - question: "Pourquoi une grande partie des usages s'est-elle déplacée vers les applications ?"
+    options:
+      - "Le web ouvert a été interdit"
+      - "Les contenus d'applications sont plus faciles à citer depuis l'extérieur"
+      - "Elles sont plus faciles à utiliser, mieux adaptées au téléphone, modérées, et proposent des contenus sans recherche"
+    answer: 3
+    explanation: "Le déplacement n'est pas uniquement commercial : le confort d'usage, l'adaptation au téléphone, la modération et les contenus proposés d'office l'expliquent aussi."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -469,6 +497,20 @@ quiz:
     explanation: >
       Après des années de hausse, la moyenne mondiale a reculé d'une dizaine de minutes sur
       deux ans, autour de 2 h 20 par jour.
+  - question: "Pourquoi 2 h 20 d'usage quotidien ne signifie-t-il pas 2 heures d'attention continue ?"
+    options:
+      - "Le temps est compté par compte et non par personne"
+      - "L'usage se fragmente en dizaines de consultations très courtes"
+      - "Une partie du temps est passée hors connexion"
+    answer: 2
+    explanation: "L'usage se compose de dizaines de consultations très brèves, qui occupent plutôt les interstices de la journée."
+  - question: "Qu'est-ce qui change rapidement dans l'usage des réseaux sociaux ?"
+    options:
+      - "Le nombre de comptes par personne"
+      - "Le prix des forfaits de données"
+      - "La composition des usages : vidéo courte, messagerie privée, âge moyen des utilisateurs"
+    answer: 3
+    explanation: "Les formats courts en vidéo verticale, la messagerie privée et le vieillissement des utilisateurs de chaque plateforme font évoluer vite la composition des usages."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -575,6 +617,20 @@ quiz:
     explanation: >
       C'est une régularité bien documentée. Ces contenus produisent plus de réactions, donc le
       système les fait remonter, ce qui leur donne encore plus de réactions.
+  - question: "Que change le passage du fil chronologique au fil classé par prédiction ?"
+    options:
+      - "Le service devient un éditeur qui choisit selon la réaction prévue de chacun"
+      - "Le service n'affiche plus aucune publicité"
+      - "Le service montre uniquement les contenus des amis proches"
+    answer: 1
+    explanation: "Le service cesse de refléter ce que publient les contacts : il ordonne les contenus selon la probabilité que l'on regarde, réagisse, commente ou partage."
+  - question: "Pourquoi le classement ne comporte-t-il aucun critère d'exactitude ?"
+    options:
+      - "Les fausses informations sont interdites en amont"
+      - "Ces qualités sont difficiles à mesurer automatiquement, alors que la réaction se mesure instantanément"
+      - "Les annonceurs refusent qu'on y recoure"
+    answer: 2
+    explanation: "Ce n'est pas de la malveillance : exactitude, utilité ou importance se mesurent mal automatiquement, alors que la réaction se mesure aussitôt."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -689,6 +745,20 @@ quiz:
       Une langue parlée par quelques millions de personnes dispose de très peu de modérateurs
       et de très peu de données d'entraînement. Cela a eu des conséquences graves dans
       plusieurs crises.
+  - question: "Que changent les textes européens récents par rapport au cadre juridique historique des hébergeurs ?"
+    options:
+      - "Ils suppriment toute exonération et rendent l'hébergeur responsable de chaque contenu publié"
+      - "Ils gardent le principe d'exonération mais ajoutent des obligations de procédure : signalement, motivation, recours, audits"
+      - "Ils obligent les plateformes à faire relire chaque contenu par une équipe humaine avant publication"
+    answer: 2
+    explanation: "Le principe historique reste en place, mais on y ajoute des exigences sur le processus : signalement clair, décisions motivées, voies de recours, audits. On régule la qualité du processus plus que le contenu."
+  - question: "Pourquoi la comparaison d'empreintes numériques est-elle fiable, alors que la classification par modèles l'est moins ?"
+    options:
+      - "Les modèles sont entraînés sur trop peu d'images pour reconnaître le moindre contenu interdit"
+      - "Les empreintes sont vérifiées une par une par des modérateurs humains avant chaque décision"
+      - "Elle ne porte que sur des contenus déjà identifiés, alors que les modèles doivent trancher sur du neuf, en arbitrant entre deux types d'erreurs"
+    answer: 3
+    explanation: "Comparer des empreintes revient à reconnaître un contenu déjà connu. Pour le reste, les modèles classent avec un arbitrage permanent entre laisser passer ce qu'il fallait bloquer et bloquer ce qu'il fallait laisser."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -806,6 +876,20 @@ quiz:
     explanation: >
       Le chiffre est stable depuis plusieurs années, et la plupart de ceux qui paient ne
       s'abonnent qu'à un seul titre.
+  - question: "Pourquoi les petites annonces ont-elles quitté les journaux parmi les premières ?"
+    options:
+      - "Des sites spécialisés les proposaient mieux, plus vite et moins cher"
+      - "Les lecteurs ont cessé de s'intéresser à l'emploi et à l'immobilier"
+      - "Les journaux ont décidé de les supprimer pour se concentrer sur l'information"
+    answer: 1
+    explanation: "Emploi, immobilier, automobile : ces annonces représentaient une part considérable des revenus et sont parties vers des sites spécialisés plus performants."
+  - question: "L'audience des journaux en ligne dépasse celle du papier. Pourquoi cela ne rétablit-il pas leurs revenus ?"
+    options:
+      - "Les internautes lisent des articles trop courts pour que la publicité soit vue"
+      - "La publicité en ligne rapporte une fraction infime de ce que rapportait une page imprimée"
+      - "Les journaux en ligne refusent de vendre de la publicité pour garder leur indépendance"
+    answer: 2
+    explanation: "Même avec une audience énorme, la publicité en ligne rapporte très peu par rapport à une page de publicité imprimée : les volumes ne compensent pas."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -920,6 +1004,20 @@ quiz:
       C'est pourquoi les rédactions d'investigation utilisent des communications chiffrées et
       des boîtes de dépôt anonymes : la protection juridique ne suffit pas sans protection
       technique.
+  - question: "Pourquoi la levée du secret des sources doit-elle être décidée par un juge et non par l'autorité qui enquête ?"
+    options:
+      - "Parce que les juges connaissent mieux le métier de journaliste que les enquêteurs"
+      - "Parce qu'un juge peut décider beaucoup plus rapidement qu'une autorité d'enquête"
+      - "Parce que ce contrôle préalable distingue une protection réelle d'une protection de façade"
+    answer: 3
+    explanation: "Le secret peut céder dans des cas graves, mais seule la décision d'un juge, extérieur à l'enquête, garantit que la protection n'est pas de pure forme."
+  - question: "Pourquoi l'efficacité des lois protégeant les lanceurs d'alerte reste-t-elle discutée ?"
+    options:
+      - "La longueur des procédures et le coût personnel d'un signalement continuent de dissuader"
+      - "Ces lois autorisent encore les représailles professionnelles dans la plupart des cas"
+      - "Ces lois obligent les lanceurs d'alerte à révéler leur identité au public"
+    answer: 1
+    explanation: "Même avec l'interdiction des représailles et des canaux de signalement, les procédures longues et le coût personnel continuent de décourager."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1038,6 +1136,20 @@ quiz:
     explanation: >
       Une grande étude sur des années de données a montré que ce sont des humains, et non des
       comptes automatisés, qui expliquent l'essentiel de cette diffusion plus rapide.
+  - question: "Pourquoi un démenti corrige-t-il mal une fausse information ?"
+    options:
+      - "Les démentis sont presque toujours rédigés dans un langage trop technique"
+      - "Il arrive après la diffusion, et répéter l'affirmation la rend plus familière, donc plus vraisemblable"
+      - "Les gens ne lisent jamais les démentis publiés par les médias"
+    answer: 2
+    explanation: "Le démenti vient toujours après coup, et la familiarité est un des signaux que le cerveau utilise pour juger de la vraisemblance : répéter, même pour nier, peut donc renforcer."
+  - question: "Quelle approche fonctionne le mieux face à la désinformation selon le texte ?"
+    options:
+      - "Traiter de menteurs ceux qui relaient de fausses informations pour les dissuader"
+      - "Démentir chaque fausse information le plus vite possible après sa diffusion"
+      - "Expliquer à l'avance les procédés employés pour qu'on les reconnaisse quand on les rencontre"
+    answer: 3
+    explanation: "Plutôt que corriger après coup, les approches les plus efficaces expliquent à l'avance les procédés de manipulation afin qu'on puisse les reconnaître."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1147,6 +1259,20 @@ quiz:
     explanation: >
       C'est une différence importante : l'approche par provenance n'atteste pas de la véracité
       de ce qui est montré, seulement de la chaîne par laquelle l'image est arrivée.
+  - question: "Quel est de très loin l'usage le plus répandu des hypertrucages ?"
+    options:
+      - "La désinformation politique pendant les élections"
+      - "La fraude à la voix d'un dirigeant pour obtenir des virements"
+      - "La fabrication d'images intimes non consenties, qui vise massivement des femmes"
+    answer: 3
+    explanation: "Les observations disponibles placent en tête les images intimes non consenties, un usage de harcèlement. La fraude vient en deuxième, la politique en troisième."
+  - question: "Pourquoi le marquage invisible des contenus générés est-il une protection fragile ?"
+    options:
+      - "Il dépend du bon vouloir des producteurs et résiste mal aux recadrages et recompressions"
+      - "Il est visible à l'oeil nu et peut donc être effacé facilement par n'importe qui"
+      - "Il ne fonctionne que sur les vidéos et jamais sur les images fixes"
+    answer: 1
+    explanation: "Le marquage repose sur la bonne volonté de ceux qui produisent les contenus, et il disparaît facilement quand l'image est recadrée ou recompressée."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1257,6 +1383,20 @@ quiz:
     explanation: >
       Les contenus surprenants ou indignants se partagent le plus, qu'ils soient vrais ou faux.
       La popularité mesure l'attrait, pas la véracité.
+  - question: "Pourquoi mémoriser une liste de sites fiables et de sites douteux fonctionne-t-il mal ?"
+    options:
+      - "La liste vieillit, et elle déplace simplement la question"
+      - "Les sites fiables sont trop nombreux pour être tous retenus"
+      - "Les sites douteux changent d'adresse chaque semaine"
+    answer: 1
+    explanation: "Une liste devient vite périmée et ne fait que reporter le problème : il faut des réflexes applicables à n'importe quel contenu, même inconnu."
+  - question: "Pourquoi examiner le design et le ton d'une page ne suffit-il pas à juger sa fiabilité ?"
+    options:
+      - "Les pages sérieuses ont souvent un design négligé"
+      - "C'est exactement ce qu'un site trompeur sait imiter"
+      - "Le ton d'un article ne dit rien sur son auteur ni sur sa date"
+    answer: 2
+    explanation: "Les lecteurs non entraînés restent sur la page et jugent son apparence, qu'un site trompeur sait copier. Les vérificateurs, eux, quittent la page pour chercher ce qu'on en dit ailleurs."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1363,6 +1503,20 @@ quiz:
     explanation: >
       Plus la fréquence est haute, plus le débit possible est grand mais plus la portée est
       courte. Il faut donc davantage de points d'émission pour couvrir la même surface.
+  - question: "Pourquoi le débit est-il l'apport le moins important de la 5G pour la plupart des usages ?"
+    options:
+      - "Parce que le débit de la 5G n'est en réalité pas plus élevé que celui de la 4G"
+      - "Parce que la plupart des usages, comme la vidéo en haute définition, n'exigeaient déjà pas la 4G complète"
+      - "Parce que le débit dépend surtout du téléphone utilisé et non du réseau"
+    answer: 2
+    explanation: "Le débit est l'argument commercial, mais regarder une vidéo en haute définition ne demandait déjà pas toute la 4G. La latence et la densité comptent davantage."
+  - question: "Sur quoi portent surtout les pistes explorées pour la 6G ?"
+    options:
+      - "Sur un débit encore multiplié, qui reste l'objectif principal"
+      - "Sur l'abandon des antennes au profit des seuls satellites"
+      - "Sur l'intégration avec les satellites, l'efficacité énergétique et la détection de l'environnement par les ondes"
+    answer: 3
+    explanation: "Les pistes portent moins sur le débit que sur l'intégration avec les satellites, la consommation d'énergie des réseaux et leur capacité à détecter leur environnement."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1467,6 +1621,20 @@ quiz:
     explanation: >
       C'est le compromis fondamental : les basses fréquences couvrent de grandes surfaces avec
       peu d'antennes, mais offrent peu de débit. Les hautes font l'inverse.
+  - question: "Que se passe-t-il quand deux émissions utilisent la même fréquence, au même endroit, au même moment ?"
+    options:
+      - "Elles se brouillent mutuellement et aucune des deux ne passe"
+      - "La plus puissante passe et l'autre est simplement affaiblie"
+      - "Elles s'additionnent et le signal reçu est plus fort"
+    answer: 1
+    explanation: "C'est une règle physique : les deux émissions se brouillent. Le spectre est donc une ressource rivale qu'il faut partager."
+  - question: "Pourquoi les bandes hautes conviennent-elles à une gare, un stade ou une usine ?"
+    options:
+      - "Elles portent très loin et traversent les murs, ce qui couvre tout le bâtiment"
+      - "Elles consomment très peu d'énergie, ce qui convient aux lieux fermés"
+      - "Elles transportent énormément de données, sur quelques centaines de mètres seulement"
+    answer: 3
+    explanation: "Les bandes hautes offrent un très gros débit mais une faible portée et s'arrêtent au premier mur : idéales pour un lieu dense et restreint."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1581,6 +1749,20 @@ quiz:
     explanation: >
       À 550 km contre 35 786 km, le trajet est soixante fois plus court. Le délai passe de
       près d'un quart de seconde à quelques dizaines de millisecondes.
+  - question: "Pourquoi la multiplication des objets en orbite inquiète-t-elle les spécialistes ?"
+    options:
+      - "Les satellites finissent tous par tomber sur des zones habitées"
+      - "Chaque collision produit des débris qui augmentent à leur tour le risque, dans un effet en cascade"
+      - "Les satellites brouillent les uns les autres leurs communications"
+    answer: 2
+    explanation: "Plus il y a d'objets, plus le risque de collision croît, et chaque collision crée des débris qui augmentent encore ce risque : c'est l'effet en cascade."
+  - question: "Pourquoi ces constellations supposent-elles un remplacement permanent des satellites ?"
+    options:
+      - "Ils sont conçus pour se désintégrer dans l'atmosphère après quelques années"
+      - "Ils sont rendus inutilisables par les traînées lumineuses qu'ils produisent"
+      - "Ils sont abandonnés dès qu'un opérateur concurrent lance une constellation"
+    answer: 1
+    explanation: "Les satellites en orbite basse sont conçus pour brûler dans l'atmosphère au bout de quelques années, ce qui impose d'en lancer sans cesse de nouveaux."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1696,6 +1878,20 @@ quiz:
     explanation: >
       Le signal parcourt environ 72 000 kilomètres. Ce délai est imperceptible pour regarder la
       télévision, mais gênant dès qu'il faut dialoguer.
+  - question: "Pourquoi un satellite géostationnaire paraît-il immobile vu du sol ?"
+    options:
+      - "Il est si loin que son mouvement n'est plus visible à l'oeil nu"
+      - "Il est maintenu en place par des moteurs qui compensent la rotation de la Terre"
+      - "Il fait le tour de la Terre en 24 heures, comme la Terre tourne sur elle-même, donc les deux sont synchronisés"
+    answer: 3
+    explanation: "À 35 786 km au-dessus de l'équateur, le satellite met exactement 24 heures à faire le tour de la Terre, ce qui le garde au même point du ciel."
+  - question: "Pourquoi les emplacements géostationnaires sont-ils une ressource limitée ?"
+    options:
+      - "Chaque satellite exige un très grand espace autour de lui pour fonctionner"
+      - "Tous doivent se trouver sur le même anneau au-dessus de l'équateur, donc leur position se résume à une longitude"
+      - "Seuls quelques pays ont les moyens de lancer des satellites à cette altitude"
+    answer: 2
+    explanation: "Les satellites occupent un seul anneau équatorial : seule la longitude varie. Emplacements et fréquences associées doivent donc être coordonnés au niveau international."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1809,6 +2005,20 @@ quiz:
     explanation: >
       La fibre elle-même coûte peu. C'est le génie civil qui domine la facture, ce qui explique
       que le déploiement en zone peu dense soit si lent.
+  - question: "Comment la technique du multiplexage augmente-t-elle la capacité d'une fibre sans changer le câble ?"
+    options:
+      - "En faisant voyager plusieurs couleurs en même temps, chacune portant ses propres données"
+      - "En remplaçant le verre par un matériau plus pur"
+      - "En envoyant la lumière plus fort pour qu'elle porte plus loin"
+    answer: 1
+    explanation: "Dans le même brin, des dizaines de longueurs d'onde voyagent simultanément et transportent chacune leurs données, ce qui multiplie la capacité."
+  - question: "Pourquoi le déploiement de la fibre est-il lent en zone peu dense ?"
+    options:
+      - "Le verre de la fibre y coûte beaucoup plus cher qu'en ville"
+      - "Les habitants de ces zones refusent souvent le raccordement"
+      - "Le coût est surtout celui des travaux, et il peut être dix fois supérieur par logement"
+    answer: 3
+    explanation: "La dépense est du génie civil (tranchées, poteaux, autorisations) : en zone peu dense, le coût par logement peut être dix fois plus élevé."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1920,6 +2130,20 @@ quiz:
     explanation: >
       Aucun de ces éléments seul n'aurait suffi. C'est leur conjonction qui a permis de tirer à
       des centaines de milliers d'exemplaires et de les distribuer vite.
+  - question: "Pourquoi les Provinces-Unies puis l'Angleterre jouent-elles un rôle particulier dans l'histoire de la presse ?"
+    options:
+      - "Elles ont inventé l'imprimerie avant le reste de l'Europe"
+      - "Plus permissives, elles servaient d'ateliers d'impression pour des textes interdits ailleurs"
+      - "Elles étaient les seules à disposer d'un réseau postal régulier"
+    answer: 2
+    explanation: "Dans la plupart des monarchies, publier exigeait une autorisation et subissait la censure. Ces pays plus permissifs imprimaient des textes interdits ailleurs, qui repassaient ensuite clandestinement les frontières."
+  - question: "Comment le modèle économique du journal change-t-il au XIXe siècle ?"
+    options:
+      - "Le prix de vente ne couvre plus le coût et la publicité prend le relais"
+      - "Le journal est financé par l'État pour garantir son indépendance"
+      - "Les lecteurs paient un abonnement plus élevé pour compenser la hausse des coûts"
+    answer: 1
+    explanation: "Avec les innovations techniques, le prix de vente baisse et ne couvre plus le coût : la publicité prend le relais et le journal devient un support d'audience."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2033,6 +2257,20 @@ quiz:
     explanation: >
       Cela permet à un journal local de proposer une couverture internationale qu'il ne
       pourrait jamais financer seul.
+  - question: "Pourquoi la transmission télégraphique a-t-elle poussé à une écriture très concise ?"
+    options:
+      - "Les lecteurs de l'époque préféraient les textes courts"
+      - "Les journaux manquaient de place pour publier de longs articles"
+      - "La transmission se payait au mot et pouvait s'interrompre en route"
+    answer: 3
+    explanation: "Comme chaque mot coûtait de l'argent, on supprimait ornements et commentaires. Et le risque de coupure a imposé de placer l'essentiel dans la première phrase."
+  - question: "Pourquoi les agences exercent-elles un pouvoir de sélection sur l'actualité ?"
+    options:
+      - "Elles interdisent aux journaux de couvrir d'autres sujets que les leurs"
+      - "Ce qu'une agence ne couvre pas a peu de chances d'exister dans les médias qui en dépendent"
+      - "Elles choisissent les journalistes embauchés par les médias clients"
+    answer: 2
+    explanation: "Les agences sont la source première d'une grande part de l'actualité : les médias qui en dépendent publient surtout ce qu'elles couvrent, et cette dépendance a grandi avec la réduction des rédactions."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2140,6 +2378,20 @@ quiz:
     explanation: >
       C'est une raison majeure de sa puissance politique immédiate : une voix unique pouvait
       s'adresser à toute une nation, sans passer par l'écrit.
+  - question: "Qu'est-ce qui manquait avant les années 1920 pour que naisse la radiodiffusion ?"
+    options:
+      - "L'idée d'un public : la physique permettait déjà d'émettre vers tous"
+      - "Une technique capable d'émettre vers plusieurs récepteurs à la fois"
+      - "Des récepteurs assez bon marché pour entrer dans les foyers"
+    answer: 1
+    explanation: "Rien dans la physique n'imposait d'attendre : la diffusion vers tous était possible dès le début, mais on la voyait comme un défaut de confidentialité. Il manquait l'idée d'un public."
+  - question: "Quelle différence sépare le modèle commercial et le modèle de service public de la radio ?"
+    options:
+      - "Le modèle commercial n'utilise pas de fréquences attribuées par l'État"
+      - "Le service public diffuse seulement de l'information, sans divertissement"
+      - "Le commercial est financé par la publicité, le service public par une redevance avec une mission d'information, d'éducation et de divertissement"
+    answer: 3
+    explanation: "En Amérique du Nord, des stations privées vivent de la publicité ; en Europe, des organismes financés par une redevance ont une mission d'information, d'éducation et de divertissement."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2251,6 +2503,20 @@ quiz:
     explanation: >
       On ne peut pas regarder un match en décalé sans risquer d'en connaître le résultat. C'est
       ce qui explique l'envolée du prix des droits sportifs.
+  - question: "Pourquoi la télévision a-t-elle d'abord été organisée en grille de programmes ?"
+    options:
+      - "Les téléspectateurs réclamaient des horaires fixes"
+      - "Un émetteur hertzien envoie un seul flux : on regarde ce qui passe, à l'heure où cela passe"
+      - "Les chaînes voulaient contrôler le temps libre des familles"
+    answer: 2
+    explanation: "La grille venait d'une contrainte technique : un émetteur hertzien ne diffuse qu'un seul flux, le même pour tout le monde au même moment."
+  - question: "Comment la mise à disposition d'une saison entière a-t-elle changé l'écriture des séries ?"
+    options:
+      - "Plus besoin de rappeler les épisodes précédents ni de ménager une attente hebdomadaire"
+      - "Les épisodes sont devenus beaucoup plus courts pour être regardés en une soirée"
+      - "Les scénaristes évitent désormais toute intrigue qui dure plusieurs épisodes"
+    answer: 1
+    explanation: "Quand tous les épisodes sont disponibles d'un coup, on n'a plus à résumer les épisodes précédents ni à créer du suspense pour une semaine d'attente."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2392,6 +2658,12 @@ sources:
   - title: "La Presse (France)"
     url: "https://fr.wikipedia.org/wiki/La_Presse_(France)"
     publisher: "Wikipédia"
+  - title: "La Presse French newspaper"
+    url: "https://www.britannica.com/topic/La-Presse-French-newspaper"
+    publisher: "Encyclopaedia Britannica"
+  - title: "GIRARDIN ÉMILE DE (1806-1881)"
+    url: "https://www.universalis.fr/encyclopedie/emile-de-girardin/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Combien coûtait Le Petit Journal à son lancement en 1863 ?"
     options:
@@ -3196,6 +3468,9 @@ sources:
   - title: "Ionosphère"
     url: "https://fr.wikipedia.org/wiki/Ionosph%C3%A8re"
     publisher: "Wikipédia"
+  - title: "6 l ionosphere et les radiocommunications"
+    url: "https://www.universalis.fr/encyclopedie/ionosphere/6-l-ionosphere-et-les-radiocommunications/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Sur quelle couche de l'atmosphère les ondes courtes rebondissent-elles ?"
     options:
@@ -3306,6 +3581,12 @@ sources:
   - title: "Crystal radio"
     url: "https://en.wikipedia.org/wiki/Crystal_radio"
     publisher: "Wikipedia"
+  - title: "Crystal Receivers (Radio Encyclopedia)"
+    url: "https://www.museum.tv/radio-encyclopedia-3/crystal-receivers"
+    publisher: "Early Television Museum"
+  - title: "Cat's-whisker detector (PDF)"
+    url: "https://lso.fe.uni-lj.si/literatura/VajeVT/Schottky/priprava/Cat's-whisker_detector.pdf"
+    publisher: "Université de Ljubljana, Faculté d'électrotechnique"
 quiz:
   - question: "D'où vient l'énergie qui fait fonctionner un poste à galène ?"
     options:
@@ -3439,6 +3720,9 @@ sources:
   - title: "Shortwave radio"
     url: "https://en.wikipedia.org/wiki/Shortwave_radio"
     publisher: "Wikipedia"
+  - title: "Tout savoir sur le dispositif national FR-Alert"
+    url: "https://www.interieur.gouv.fr/actualites/actualites-du-ministere/tout-savoir-sur-dispositif-national-fr-alert"
+    publisher: "Ministère de l'Intérieur"
 quiz:
   - question: "Pourquoi la radio fonctionne-t-elle souvent quand internet et le téléphone ne marchent plus ?"
     options:
@@ -3467,6 +3751,13 @@ quiz:
     explanation: >
       Les écoles s'occupent des enfants, et les appels saturent les réseaux dont les secours ont
       besoin. La radio donne les instructions.
+  - question: "Pourquoi ne faut-il pas aller chercher ses enfants à l'école en cas d'alerte ?"
+    options:
+      - "Les routes sont systématiquement fermées par les autorités"
+      - "Les enfants sont évacués automatiquement vers un lieu éloigné"
+      - "Les établissements ont leurs propres plans de mise en sûreté"
+    answer: 3
+    explanation: "Les écoles appliquent leurs propres plans de mise en sûreté : se déplacer pour aller chercher les enfants n'est pas nécessaire."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -4245,6 +4536,12 @@ sources:
   - title: "Bradford Hill criteria"
     url: "https://en.wikipedia.org/wiki/Bradford_Hill_criteria"
     publisher: "Wikipedia"
+  - title: "La corrélation n'est pas la causalité"
+    url: "https://www.lafinancepourtous.com/juniors/lyceens/l-instant-maths/correlation-nest-pas-causalite/"
+    publisher: "La Finance pour tous"
+  - title: "correlation causalite IM 1"
+    url: "https://ts2i.ac-besancon.fr/wp-content/uploads/sites/35/2021/04/correlation-causalite-IM-1.pdf"
+    publisher: "Académie de Besançon"
 quiz:
   - question: "Les ventes de glaces et les noyades augmentent en même temps l'été. Pourquoi ?"
     options:
@@ -4272,6 +4569,13 @@ quiz:
     answer: 1
     explanation: >
       Le tirage au sort crée deux groupes comparables : seule la cause testée les différencie.
+  - question: "Pourquoi le tirage au sort rend-il l'expérience contrôlée capable de prouver une cause ?"
+    options:
+      - "Il garantit que les deux groupes ont exactement le même nombre de personnes"
+      - "Il répartit les autres facteurs de façon équilibrée, donc la différence vient de la cause testée"
+      - "Il empêche les participants de savoir qu'ils participent à une étude"
+    answer: 2
+    explanation: "Avec deux groupes tirés au sort, tous les autres facteurs sont équilibrés entre eux : si une différence apparaît, elle vient de la cause appliquée à un seul groupe."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -5734,6 +6038,12 @@ sources:
   - title: "HTML"
     url: "https://en.wikipedia.org/wiki/HTML"
     publisher: "Wikipedia"
+  - title: "de sgml a html"
+    url: "https://www.enssib.fr/bibliotheque-numerique/documents/45179-de-sgml-a-html.pdf"
+    publisher: "ENSSIB"
+  - title: "langages html et xml h2908niv10004"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/management-des-systemes-d-information-42302210/introduction-au-world-wide-web-h2908/langages-html-et-xml-h2908niv10004.html"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Comment s'écrivent les balises HTML ?"
     options:
@@ -5866,6 +6176,9 @@ sources:
   - title: "PageRank"
     url: "https://fr.wikipedia.org/wiki/PageRank"
     publisher: "Wikipédia"
+  - title: "Moteurs de recherche : comment ça fonctionne"
+    url: "https://www.cnil.fr/fr/cnil-direct/question/moteurs-de-recherche-comment-ca-fonctionne"
+    publisher: "CNIL"
 quiz:
   - question: "Que fait un crawler ?"
     options:
@@ -6163,6 +6476,12 @@ sources:
   - title: "Link rot"
     url: "https://en.wikipedia.org/wiki/Link_rot"
     publisher: "Wikipedia"
+  - title: "Comprendre le dépôt légal du web"
+    url: "https://www.bnf.fr/fr/comprendre-le-depot-legal-du-web"
+    publisher: "BnF"
+  - title: "Consulter les Archives de l'internet"
+    url: "https://www.bnf.fr/fr/consulter-les-archives-de-linternet"
+    publisher: "BnF"
 quiz:
   - question: "Qu'est-ce que la Wayback Machine ?"
     options:
@@ -6190,6 +6509,13 @@ quiz:
     answer: 1
     explanation: >
       Depuis 2006, la BnF collecte le web français, et l'INA les sites liés à l'audiovisuel.
+  - question: "Pourquoi une page publiée puis supprimée peut-elle ne jamais être archivée ?"
+    options:
+      - "Les archives ne sont que des instantanés : ce qui disparaît entre deux passages des robots peut être perdu"
+      - "Les robots d'archivage ne copient que les pages des grands sites"
+      - "Les archives ne conservent que les pages demandées par les propriétaires des sites"
+    answer: 1
+    explanation: "Les robots visitent les sites à intervalles : une page publiée puis retirée entre deux passages n'a pas été capturée."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -6332,6 +6658,9 @@ sources:
   - title: "Réflexion totale"
     url: "https://fr.wikipedia.org/wiki/R%C3%A9flexion_totale"
     publisher: "Wikipédia"
+  - title: "principe du guidage de la lumiere af2090niv10001"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/electronique-photonique-th13/telecommunications-optiques-42454210/propagation-guidee-de-la-lumiere-af2090/principe-du-guidage-de-la-lumiere-af2090niv10001.html"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Quel phénomène garde la lumière dans le cœur de la fibre ?"
     options:
@@ -7229,6 +7558,9 @@ sources:
   - title: "Satellite phone"
     url: "https://en.wikipedia.org/wiki/Satellite_phone"
     publisher: "Wikipedia"
+  - title: "Satellite-based telephone communication"
+    url: "https://www.britannica.com/technology/mobile-telephone/Satellite-based-telephone-communication"
+    publisher: "Encyclopaedia Britannica"
 quiz:
   - question: "Que remplacent les satellites dans la téléphonie par satellite ?"
     options:
@@ -12122,6 +12454,9 @@ sources:
   - title: "Cellular network"
     url: "https://en.wikipedia.org/wiki/Cellular_network"
     publisher: "Wikipedia"
+  - title: "Téléphonie mobile : comment cela fonctionne-t-il ?"
+    url: "https://www.bafu.admin.ch/fr/telephonie-mobile-comment-cela-fonctionne-t-il"
+    publisher: "OFEV (Office fédéral de l'environnement, Suisse)"
 quiz:
   - question: "Comment appelle-t-on la zone couverte par une antenne relais ?"
     options:
@@ -12770,6 +13105,9 @@ sources:
   - title: "Communications satellite"
     url: "https://en.wikipedia.org/wiki/Communications_satellite"
     publisher: "Wikipedia"
+  - title: "architecture des systemes de communication par satellite e7560v2niv10001"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/archives-th12/archives-reseaux-et-telecommunications-tiate/archive-2/systemes-de-communications-par-satellite-e7560/architecture-des-systemes-de-communication-par-satellite-e7560v2niv10001.html"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Pourquoi un satellite géostationnaire semble-t-il immobile dans le ciel ?"
     options:
@@ -13436,6 +13774,9 @@ sources:
   - title: "Vérification des faits"
     url: "https://fr.wikipedia.org/wiki/V%C3%A9rification_des_faits"
     publisher: "Wikipédia"
+  - title: "TinEye Reverse Image Search"
+    url: "https://cours.univ-paris1.fr/mod/url/view.php?id=1264603"
+    publisher: "Université Paris 1 Panthéon-Sorbonne"
 quiz:
   - question: "Que fait la recherche d'image inversée ?"
     options:
@@ -13518,8 +13859,9 @@ title: Comment les journalistes vérifient-ils une information avant de la publi
 slug: comment-les-journalistes-verifient-ils-une-information-avant-de-la-publier
 categoryPath: communication-et-medias/information-et-verification/journalisme
 summary: >
-  La vérification des faits contrôle qu'une affirmation est exacte, avant ou après sa
-  publication. Les vérificateurs cherchent la source première et consultent des experts.
+  Avant de publier, les journalistes recoupent leurs sources, remontent à l'origine d'une
+  information et vérifient la date et le lieu des images. Cette méthode réduit le risque d'erreur
+  sans le supprimer.
 tags: [journalisme]
 sources:
   - title: "Vérification des faits"
@@ -13534,6 +13876,9 @@ sources:
   - title: "International Fact-Checking Network"
     url: "https://www.poynter.org/ifcn/"
     publisher: "Poynter Institute"
+  - title: "Verification Fundamentals: Rules to Live By"
+    url: "https://datajournalism.com/read/handbook/verification-1/verification-fundamentals-rules-to-live-by"
+    publisher: "Verification Handbook, European Journalism Centre"
 quiz:
   - question: "Que fait un vérificateur de faits avec une affirmation douteuse ?"
     options:
@@ -13571,7 +13916,7 @@ quiz:
     explanation: >
       La vérification des faits a une efficacité limitée sur les publics très polarisés, et elle
       peut parfois répéter une fausse information en la corrigeant.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -13583,17 +13928,29 @@ La vérification des faits contrôle qu'une affirmation est exacte, avant ou apr
 
 La vérification des faits, ou fact-checking, consiste à contrôler la véracité des faits et l'exactitude des chiffres présentés dans les médias et par les personnalités publiques. Elle peut avoir lieu avant la publication, en interne dans la rédaction, ou après, par des organisations extérieures. Les vérificateurs repèrent l'affirmation douteuse, cherchent la source primaire, consultent des experts et comparent avec des bases de données et des statistiques officielles.
 
+## Les questions à poser à une source
+
+Face à un témoin ou à un informateur, le réflexe de base est de demander : comment le savez-vous ? Quelqu'un qui a vu la scène n'a pas le même poids que quelqu'un qui répète ce qu'on lui a raconté. On cherche ensuite une deuxième source indépendante, qui n'a pas simplement copié la première.
+
+Le Verification Handbook, un manuel destiné aux journalistes, ne propose pas de recette unique mais des stratégies à adapter à chaque fait et à chaque rôle. Il insiste pour contrôler aussi les sources officielles, et pour chercher des documents plutôt que de se fier aux seuls témoignages.
+
+## Vérifier une image ou une vidéo
+
+Un document venu des réseaux sociaux se contrôle avant usage, surtout en urgence. Les questions utiles portent sur l'auteur de la première publication, la date et le lieu de la prise de vue. Chaque réponse se recoupe. La recherche d'image inversée retrouve la première version en ligne. Le paysage, les enseignes ou les ombres se comparent à des images satellites ou à d'autres photos du lieu.
+
+Un exemple fréquent : une vidéo présentée comme récente peut dater de plusieurs années, ou venir d'un autre pays. Si les éléments ne concordent pas, le journaliste ne publie pas, ou il indique clairement ce qui reste incertain.
+
 ## Des gestes précis
 
-La lecture latérale consiste à consulter plusieurs autres sources pour vérifier vite une information. Ils utilisent aussi la recherche d'image inversée, des services d'archives du web et des outils pour étudier les domaines et les réseaux sociaux.
+La lecture latérale consiste à consulter plusieurs autres sources pour se faire vite une idée d'une information, plutôt que de creuser une seule page.
 
 ## Qui vérifie ?
 
-En France, on peut citer Les Décodeurs du Monde, AFP Factuel et CheckNews de Libération. L'International Fact-Checking Network, hébergé par l'institut Poynter, publie un code de principes que les organisations de vérification s'engagent à respecter.
+En France, on peut citer Les Décodeurs du Monde, AFP Factuel et CheckNews de Libération. L'International Fact-Checking Network, hébergé par l'institut Poynter, propose un code de principes que les organisations de vérification aspirent à respecter.
 
 ## Des limites
 
-La vérification des faits a une efficacité limitée sur les publics très polarisés, et elle peut parfois répéter une fausse information en la corrigeant.
+La vérification des faits a une efficacité limitée sur les publics très polarisés, et, selon ses critiques, elle peut parfois répéter une fausse information en la corrigeant.
 
 ```schema
 type: etapes
@@ -13609,10 +13966,9 @@ elements:
 
 - La vérification des faits contrôle la véracité des faits et l'exactitude des chiffres présentés dans les médias.
 - Les vérificateurs repèrent l'affirmation douteuse, cherchent la source primaire et consultent des experts.
-- La lecture latérale consiste à consulter plusieurs autres sources pour vérifier vite une information.
-- En France, on peut citer Les Décodeurs du Monde, AFP Factuel et CheckNews de Libération.
+- Face à une source, la question de base est : comment le savez-vous ?
+- Pour une image, on vérifie l'origine, la date et le lieu.
 - La vérification des faits a une efficacité limitée sur les publics très polarisés.
-
 ---
 type: article
 title: Pourquoi votre fil d'actualité ne ressemble-t-il pas à celui d'un ami ?
@@ -13734,6 +14090,9 @@ sources:
   - title: "Guglielmo Marconi"
     url: "https://en.wikipedia.org/wiki/Guglielmo_Marconi"
     publisher: "Wikipedia"
+  - title: "Milestones:Reception of Transatlantic Radio Signals, 1901"
+    url: "https://ethw.org/Milestones%3AReception_of_Transatlantic_Radio_Signals%2C_1901"
+    publisher: "IEEE History Center (ETHW)"
 quiz:
   - question: "Comment les messages de la TSF sont-ils codés ?"
     options:
@@ -14451,8 +14810,8 @@ slug: pourquoi-certaines-personnes-evitent-elles-les-actualites
 categoryPath: communication-et-medias/information-et-verification/education-aux-medias
 summary: >
   Une part croissante du public évite volontairement les actualités, surtout à cause de leur
-  négativité et de leur trop-plein. Les enquêtes du Reuters Institute suivent ce phénomène
-  chaque année.
+  négativité et de leur trop-plein. Les enquêtes du Reuters Institute suivent ce phénomène chaque
+  année, avec de grands écarts entre pays.
 tags: [education-aux-medias]
 sources:
   - title: "Digital News Report 2025, executive summary"
@@ -14467,6 +14826,10 @@ sources:
   - title: "News avoidance"
     url: "https://en.wikipedia.org/wiki/News_avoidance"
     publisher: "Wikipedia"
+  - title: "Digital News Report 2025"
+    url: "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025"
+    publisher: "Reuters Institute for the Study of Journalism"
+    date: "2025"
 quiz:
   - question: "Qu'est-ce que l'évitement de l'information ?"
     options:
@@ -14505,7 +14868,7 @@ quiz:
       Le doomscrolling, qui consiste à faire défiler sans fin des nouvelles négatives, et
       l'évitement sont deux réactions opposées aux mêmes causes : la négativité, la répétition
       et la surcharge d'informations.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -14527,7 +14890,13 @@ Le doomscrolling, qui consiste à faire défiler sans fin des nouvelles négativ
 
 ## D'un pays à l'autre
 
-L'évitement sélectif a doublé depuis 2017 dans certains pays, comme le Brésil et le Royaume-Uni.
+L'évitement sélectif a doublé depuis 2017 dans certains pays, comme le Brésil et le Royaume-Uni. Le rapport 2025 couvre 48 marchés. La Bulgarie (63 %) et la Croatie (61 %) affichent les niveaux d'évitement les plus élevés, devant d'autres pays d'Europe de l'Est. Les écarts sont donc larges : l'évitement n'est pas uniforme d'un pays à l'autre.
+
+## S'informer sans s'épuiser
+
+Couper totalement l'actualité a un coût : on peut passer à côté d'informations utiles, sur la santé, la météo ou les décisions locales. Beaucoup de personnes ne coupent pas tout, elles trient. Elles évitent certains sujets ou certains moments de la journée.
+
+Quelques pratiques aident à garder un lien avec l'actualité sans subir le flot : limiter les notifications, fixer un ou deux moments par jour, choisir des formats qui expliquent plutôt que de simplement alerter. L'objectif n'est pas de tout savoir, mais de rester informé sans s'épuiser.
 
 ```schema
 type: systeme
@@ -14545,5 +14914,4 @@ parties:
 - Dans l'enquête annuelle du Reuters Institute, la part des personnes qui évitent parfois ou souvent l'actualité a fortement augmenté depuis 2017.
 - Dans le rapport 2024, 39 % des personnes interrogées disent éviter parfois ou souvent l'actualité.
 - Raisons citées : l'humeur qui se dégrade, le trop-plein d'informations, l'impuissance et la méfiance envers les médias.
-- Le doomscrolling et l'évitement sont deux réactions opposées aux mêmes causes : négativité, répétition et surcharge.
-
+- L'évitement varie beaucoup d'un pays à l'autre, de la Bulgarie (63 %) à des niveaux bien plus bas ailleurs.

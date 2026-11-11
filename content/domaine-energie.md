@@ -235,6 +235,20 @@ quiz:
     explanation: >
       La pétrochimie transforme une part importante du pétrole en matières premières
       industrielles. Sortir du pétrole ne concerne donc pas que les transports.
+  - question: "Pourquoi les camions, navires et avions sont-ils difficiles à faire fonctionner avec des batteries ?"
+    options:
+      - "Parce que les batteries ne peuvent pas être rechargées en plus de trois minutes"
+      - "Parce que le pétrole est le seul liquide qu'on puisse transporter"
+      - "Parce qu'il faudrait emporter une masse de batteries prohibitive pour la même énergie"
+    answer: 3
+    explanation: "Un litre d'essence contient environ dix kilowattheures pour moins de huit cents grammes, alors qu'une bonne batterie en demande environ quarante kilogrammes pour la même énergie."
+  - question: "Pourquoi l'avantage du gaz sur le charbon peut-il être réduit ?"
+    options:
+      - "Parce que le gaz émet plus de CO2 que le charbon pour la même énergie"
+      - "Parce que les fuites de méthane, un puissant gaz à effet de serre, peuvent annuler une partie du gain"
+      - "Parce que le gaz doit être brûlé en plus grande quantité que le charbon"
+    answer: 2
+    explanation: "Le gaz émet moins de CO2 que le charbon, mais le méthane qui fuit pendant l'extraction, le transport et la distribution est lui-même un très puissant gaz à effet de serre."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -349,6 +363,20 @@ quiz:
     explanation: >
       La pollution de l'air liée au charbon provoque des décès prématurés chaque année, un
       effet immédiat et local qui s'ajoute à son effet climatique global.
+  - question: "Pourquoi un pays hésite-t-il à fermer ses centrales à charbon récentes ?"
+    options:
+      - "Parce que le charbon ne pollue pas l'air"
+      - "Parce qu'arrêter une centrale avant terme fait perdre l'investissement, que personne n'accepte de supporter seul"
+      - "Parce qu'aucune autre source d'électricité n'existe dans ces pays"
+    answer: 2
+    explanation: "Une centrale construite aujourd'hui fonctionne plusieurs décennies : la fermer avant terme représente des sommes perdues."
+  - question: "Quels sont les deux principaux facteurs du recul du charbon ?"
+    options:
+      - "La hausse de la demande mondiale et la baisse des prix du charbon"
+      - "Le prix du solaire et de l'éolien, devenus plus bas, et les politiques publiques"
+      - "L'épuisement des mines et l'arrêt des centrales par les entreprises"
+    answer: 2
+    explanation: "Le texte cite le prix, car le solaire et l'éolien coûtent souvent moins cher à construire, et les politiques publiques comme la tarification du carbone."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -465,6 +493,20 @@ quiz:
     explanation: >
       L'essentiel de la dépense est engagé avant le premier kilowattheure. Cela rend le coût
       final très sensible aux délais de construction et aux taux d'intérêt.
+  - question: "Quel avantage le nucléaire apporte-t-il à un système électrique où l'équilibre doit être tenu en permanence ?"
+    options:
+      - "Une production variable qui suit la météo"
+      - "Une production pilotable et continue, indépendante de la météo"
+      - "Une production qui augmente automatiquement quand la demande baisse"
+    answer: 2
+    explanation: "Le nucléaire fournit une production pilotable et continue, indépendante de la météo, précieuse pour équilibrer le réseau."
+  - question: "Pourquoi le risque d'accident nucléaire est-il difficile à évaluer collectivement ?"
+    options:
+      - "Parce qu'il combine une faible probabilité et des conséquences lourdes et durables"
+      - "Parce qu'il n'est jamais survenu dans l'histoire"
+      - "Parce qu'il dépend uniquement de la taille de la centrale"
+    answer: 1
+    explanation: "Le risque est faible en probabilité mais ses conséquences peuvent être durables et territoriales : cette combinaison est difficile à évaluer."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -590,6 +632,20 @@ quiz:
     explanation: >
       Un panneau solaire ne produit pas la nuit, une éolienne pas sans vent. La production
       réelle est donc toujours inférieure à la capacité multipliée par le temps.
+  - question: "Pourquoi comparer des gigawatts installés entre technologies différentes n'a-t-il pas de sens direct ?"
+    options:
+      - "Parce que le gigawatt ne mesure pas une puissance"
+      - "Parce que le solaire et l'éolien produisent beaucoup moins souvent à pleine puissance, ce qui donne un facteur de charge plus faible"
+      - "Parce que seuls les gigawatts du solaire sont officiellement comptabilisés"
+    answer: 2
+    explanation: "La capacité est une puissance maximale théorique. Le facteur de charge, plus faible pour le solaire et l'éolien que pour une centrale pilotable, la ramène à la production réelle."
+  - question: "Pourquoi les comparaisons de prix par kilowattheure donnent-elles une image incomplète du coût de la transition ?"
+    options:
+      - "Elles ne comptent pas le prix des panneaux solaires eux-mêmes"
+      - "Elles supposent que toutes les sources produisent à toute heure sans aucune contrainte"
+      - "Elles omettent souvent le stockage, les réseaux renforcés et les moyens d'appoint nécessaires"
+    answer: 3
+    explanation: "Une production qui dépend de la météo exige stockage, réseaux, moyens pilotables et gestion de la demande : ces investissements pèsent lourd mais sont souvent absents des comparaisons."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -706,6 +762,20 @@ quiz:
     explanation: >
       Sans relief ni bâtiment pour freiner l'air, le vent marin est plus constant. Le facteur
       de charge y est nettement supérieur à celui des éoliennes terrestres.
+  - question: "Pourquoi les mâts d'éoliennes sont-ils devenus de plus en plus hauts ?"
+    options:
+      - "Parce que le vent est plus fort en altitude et que la puissance varie comme le cube de sa vitesse"
+      - "Parce que le bruit est moins gênant pour les riverains en hauteur"
+      - "Parce que les pales actuelles ne peuvent pas tourner près du sol"
+    answer: 1
+    explanation: "Le vent est plus fort en altitude, moins freiné par le relief et les bâtiments ; comme la puissance varie avec le cube de la vitesse, un peu plus de vent rapporte beaucoup."
+  - question: "Quel intérêt présente l'éolien flottant ?"
+    options:
+      - "Il produit de l'électricité sans aucun vent"
+      - "Il permet d'installer des éoliennes là où la mer est trop profonde pour des fondations"
+      - "Il est moins cher à raccorder que l'éolien terrestre"
+    answer: 2
+    explanation: "L'éolien flottant, encore émergent, permettrait d'aller là où la mer est trop profonde pour poser des fondations, ouvrant des surfaces considérables."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -819,6 +889,20 @@ quiz:
     explanation: >
       Beaucoup d'eau tombant de peu de hauteur, ou peu d'eau tombant de très haut, peuvent
       produire la même puissance. Ce sont les deux paramètres du calcul.
+  - question: "Pourquoi une centrale hydroélectrique de lac est-elle précieuse pour le réseau ?"
+    options:
+      - "Elle produit toujours à puissance constante, sans possibilité d'arrêt"
+      - "Elle peut stocker l'eau et démarrer en quelques minutes, là où une centrale thermique demande des heures"
+      - "Elle n'a pas besoin de barrage ni de retenue"
+    answer: 2
+    explanation: "Avec sa retenue, la centrale de lac produit au moment voulu et démarre en quelques minutes, contrairement à une centrale thermique."
+  - question: "Quand une station de pompage fait-elle remonter l'eau vers le bassin haut ?"
+    options:
+      - "Quand l'électricité manque sur le réseau"
+      - "À heure fixe, chaque jour, quelle que soit la situation"
+      - "Quand l'électricité est abondante et bon marché, par exemple la nuit"
+    answer: 3
+    explanation: "On utilise l'électricité abondante et peu chère pour pomper l'eau en hauteur, puis on la laisse redescendre dans les turbines quand l'électricité manque."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -939,6 +1023,20 @@ quiz:
     explanation: >
       Décaler un chauffe-eau, un processus industriel ou une recharge de voiture revient à
       produire de l'électricité, en beaucoup moins cher. On parle parfois de négawatts.
+  - question: "Pourquoi des protections automatiques déconnectent-elles des portions du réseau quand l'écart entre production et consommation devient trop grand ?"
+    options:
+      - "Pour éviter un effondrement complet qui prendrait des jours à réparer"
+      - "Pour punir les consommateurs qui dépassent leur contrat"
+      - "Pour augmenter volontairement la fréquence du réseau"
+    answer: 1
+    explanation: "C'est brutal, mais cela évite un effondrement complet du réseau."
+  - question: "Que change l'arrivée de beaucoup de solaire et d'éolien dans la façon d'équilibrer le réseau ?"
+    options:
+      - "La production devient imposée par la météo, il faut donc agir aussi sur le stockage, les réseaux et la demande"
+      - "Le réseau n'a plus besoin d'être équilibré à chaque instant"
+      - "On peut demander au soleil de produire davantage quand la demande monte"
+    answer: 1
+    explanation: "Avec des centrales pilotables, on ajuste la production ; avec le solaire et l'éolien, qu'on ne commande pas, il faut stocker, renforcer les réseaux, garder des moyens d'appoint et agir sur la demande."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1053,6 +1151,20 @@ quiz:
       Elle stocke moins d'énergie par kilogramme, ce qui la désavantage pour l'automobile. Mais
       pour du stockage fixe, où le poids importe peu, l'abondance de la matière première est un
       atout.
+  - question: "Pourquoi le stockage par batteries devient-il rentable pour le réseau ?"
+    options:
+      - "Il permet de stocker l'électricité de l'été pour l'hiver"
+      - "Il permet d'absorber un pic solaire à midi et de le restituer en début de soirée"
+      - "Il évite d'avoir besoin de panneaux solaires"
+    answer: 2
+    explanation: "La baisse des prix rend rentable le stockage de courte durée : on absorbe l'excédent de midi pour le restituer quand la demande monte et que le soleil baisse."
+  - question: "Pourquoi les batteries lithium-ion sont-elles inadaptées au stockage saisonnier ?"
+    options:
+      - "Parce qu'elles perdent toute leur charge en quelques minutes"
+      - "Parce que le lithium est interdit dans les installations fixes"
+      - "Parce que garder l'électricité de l'été pour l'hiver demanderait des volumes et des coûts hors d'atteinte"
+    answer: 3
+    explanation: "Elles conviennent au stockage de quelques heures ; le stockage saisonnier exigerait des volumes et des coûts hors d'atteinte."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1137,7 +1249,7 @@ summary: >
   On ne trouve pas d'hydrogène pur dans la nature. Il faut le fabriquer, et c'est la façon dont
   on le fabrique qui décide de tout.
 tags: [hydrogene, electrolyse, industrie, stockage, decarbonation]
-relatedArticles: [avion-a-hydrogene-etat-des-projets, chimie-industrielle-mondiale-enjeux]
+relatedArticles: [les-concepts-d-avion-a-hydrogene-d-airbus, chimie-industrielle-mondiale-enjeux]
 sources:
   - title: "Hydrogen"
     url: "https://www.iea.org/energy-system/low-emission-fuels/hydrogen"
@@ -1168,6 +1280,20 @@ quiz:
       L'industrie consomme déjà des dizaines de millions de tonnes d'hydrogène, produit à
       partir de gaz. Le décarboner ne demande aucun nouvel usage, seulement un changement de
       production.
+  - question: "Qu'est-ce qui distingue l'hydrogène vert de l'hydrogène gris ?"
+    options:
+      - "Il est produit par électrolyse de l'eau avec de l'électricité décarbonée, et non à partir de gaz naturel"
+      - "Il est extrait directement du sol sous forme pure"
+      - "Il est produit à partir de gaz naturel avec capture partielle du CO2"
+    answer: 1
+    explanation: "L'hydrogène gris vient du gaz naturel et émet beaucoup de CO2 ; le vert est obtenu par électrolyse de l'eau avec une électricité décarbonée."
+  - question: "Pourquoi l'hydrogène a-t-il peu de sens pour les voitures particulières ?"
+    options:
+      - "Parce que l'hydrogène est plus rare que le pétrole"
+      - "Parce que la chaîne complète perd tant d'énergie que l'électricité directe est nettement plus efficace"
+      - "Parce qu'aucun moteur ne peut fonctionner avec de l'hydrogène"
+    answer: 2
+    explanation: "Électricité, électrolyse, compression, transport et reconversion perdent beaucoup d'énergie : utiliser directement l'électricité est plus efficace."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1288,6 +1414,20 @@ quiz:
     explanation: >
       Elle prélève de la chaleur dehors, même par temps froid, et la transfère à l'intérieur.
       Pour un kilowattheure d'électricité consommé, elle en restitue trois à quatre.
+  - question: "Baisser le chauffage d'un degré relève de quelle démarche ?"
+    options:
+      - "De l'efficacité, car on obtient le même service avec moins d'énergie"
+      - "De la sobriété, car on consomme moins de service"
+      - "De l'effet rebond, car on dépense l'argent économisé ailleurs"
+    answer: 2
+    explanation: "La sobriété consiste à consommer moins de service, comme baisser le chauffage ; l'efficacité obtient le même service avec moins d'énergie, comme isoler sa maison."
+  - question: "Pourquoi les politiques reposant uniquement sur des gains techniques surestiment-elles leurs résultats ?"
+    options:
+      - "Parce que les progrès techniques ne réduisent jamais la consommation"
+      - "Parce qu'elles raisonnent à usage constant, sans tenir compte de l'effet rebond"
+      - "Parce qu'elles négligent l'isolation des bâtiments"
+    answer: 2
+    explanation: "L'effet rebond absorbe une partie des gains, mais ces politiques supposent que les usages restent constants."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1402,6 +1542,20 @@ quiz:
     explanation: >
       Éteindre une veille ou une ampoule se voit et se ressent. Mais l'ordre de grandeur est
       sans commune mesure avec le chauffage ou l'isolation.
+  - question: "Pourquoi l'isolation des combles perdus offre-t-elle souvent le meilleur rapport coût-économie ?"
+    options:
+      - "Parce que la chaleur monte et s'échappe surtout par le haut du logement"
+      - "Parce que les combles sont la partie la plus facile à chauffer"
+      - "Parce qu'elle remplace entièrement le besoin de chauffage"
+    answer: 1
+    explanation: "La chaleur monte : isoler les combles agit sur une grosse source de pertes, d'où un très bon rapport entre le coût et l'économie obtenue."
+  - question: "À l'échelle d'une vie, quels postes pèsent réellement le plus dans l'empreinte énergétique ?"
+    options:
+      - "Les veilles des appareils électroniques et l'éclairage"
+      - "Le chauffage, les déplacements motorisés comme l'avion, et l'alimentation, notamment la part animale"
+      - "L'eau chaude sanitaire et le lave-linge"
+    answer: 2
+    explanation: "Ce sont les postes qui comptent vraiment ; il vaut mieux les hiérarchiser plutôt que s'épuiser sur un poste marginal."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1514,6 +1668,20 @@ quiz:
     explanation: >
       Le brut contient trop de fractions lourdes par rapport à ce que le marché demande. Le
       craquage réajuste la production à la demande.
+  - question: "Pourquoi le brut doit-il subir une désulfuration ?"
+    options:
+      - "Parce que le soufre, en brûlant, produit du dioxyde de soufre responsable de pluies acides et de problèmes respiratoires"
+      - "Parce que le soufre empêche la distillation de fonctionner"
+      - "Parce que le soufre rend l'essence trop légère pour les moteurs"
+    answer: 1
+    explanation: "Brûlé, le soufre donne du dioxyde de soufre ; les normes imposent donc des teneurs très faibles."
+  - question: "Où récupère-t-on le bitume et les fiouls lourds dans la tour de distillation ?"
+    options:
+      - "Tout en haut, avec les gaz comme le butane"
+      - "Au milieu, avec le kérosène"
+      - "Tout en bas, car les molécules les plus lourdes restent en bas"
+    answer: 3
+    explanation: "Les molécules légères s'évaporent et montent ; les plus lourdes restent en bas, où l'on recueille les fiouls lourds et le bitume."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1621,6 +1789,20 @@ quiz:
     explanation: >
       Quelques pour cent du volume concentrent la quasi-totalité de la radioactivité. Le reste
       est constitué d'objets faiblement contaminés, gants, outils, gravats.
+  - question: "Que reste-t-il de la radioactivité d'un élément après deux périodes ?"
+    options:
+      - "La moitié"
+      - "Le quart"
+      - "Plus rien"
+    answer: 2
+    explanation: "Après une période il reste la moitié ; après deux périodes, le quart."
+  - question: "Pourquoi le stockage géologique profond vise-t-il une barrière passive plutôt qu'une surveillance perpétuelle ?"
+    options:
+      - "Parce que les déchets deviennent inoffensifs au bout de quelques mois"
+      - "Parce qu'aucune institution humaine ne peut garantir une surveillance éternelle"
+      - "Parce que les déchets sont destinés à être récupérés dès que possible"
+    answer: 2
+    explanation: "Le principe est de créer, dans une couche géologique stable et imperméable, une barrière qui fonctionne sans intervention humaine."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1737,6 +1919,20 @@ quiz:
       Les noyaux se repoussent électriquement. Il faut une énergie colossale pour les
       rapprocher assez, et aucun matériau ne résiste à ces températures : on confine avec des
       champs magnétiques.
+  - question: "Pourquoi faut-il chauffer la matière à plus de cent millions de degrés pour obtenir la fusion ?"
+    options:
+      - "Parce que les deux noyaux portent une charge positive et se repoussent violemment"
+      - "Parce que le plasma ne peut se former qu'à très haute température"
+      - "Parce que le tokamak ne fonctionne qu'à cette température"
+    answer: 1
+    explanation: "Deux noyaux chargés positivement se repoussent ; il faut les lancer l'un contre l'autre avec une énergie considérable pour qu'ils fusionnent."
+  - question: "Pourquoi un accident de type Tchernobyl est-il considéré comme physiquement impossible avec la fusion ?"
+    options:
+      - "Parce que la fusion ne produit aucune chaleur"
+      - "Parce que le combustible est stocké sous terre"
+      - "Parce que la réaction est si difficile à maintenir que la moindre perturbation l'éteint"
+    answer: 3
+    explanation: "Il n'y a pas de risque d'emballement : la réaction s'arrête d'elle-même à la moindre perturbation."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1859,6 +2055,20 @@ quiz:
     explanation: >
       C'est contre-intuitif : un panneau préfère une journée froide et ensoleillée à une
       journée caniculaire. La chaleur réduit la tension produite.
+  - question: "Quel est le rôle du champ électrique interne créé à la jonction des deux couches de silicium ?"
+    options:
+      - "Il produit les photons qui libèrent les électrons"
+      - "Il pousse les électrons libérés toujours dans le même sens, ce qui donne un courant"
+      - "Il refroidit la cellule pour améliorer son rendement"
+    answer: 2
+    explanation: "Un électron libre qui se balade au hasard ne produit rien : le champ interne l'oriente pour créer un courant."
+  - question: "Pourquoi l'ombre sur une seule cellule pénalise-t-elle fortement un panneau ?"
+    options:
+      - "Parce que les cellules sont souvent reliées en série et qu'une cellule à l'ombre freine toute la chaîne"
+      - "Parce que l'ombre refroidit trop le silicium"
+      - "Parce que l'ombre empêche le panneau de se connecter au réseau"
+    answer: 1
+    explanation: "Les cellules étant souvent reliées en série, une cellule ombragée freine toute la chaîne."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1973,6 +2183,20 @@ quiz:
     explanation: >
       Convertir la lumière en chaleur est bien plus efficace que de la convertir en
       électricité. Pour un besoin de chaleur, c'est la solution la plus directe.
+  - question: "Pourquoi le chauffe-eau solaire a-t-il un rendement bien supérieur à un panneau photovoltaïque ?"
+    options:
+      - "Parce qu'il utilise de plus grands miroirs"
+      - "Parce qu'il fonctionne aussi la nuit"
+      - "Parce qu'il passe directement de la lumière à la chaleur, sans conversion en électricité"
+    answer: 3
+    explanation: "Il n'y a pas de conversion en électricité : on passe de la lumière à la chaleur, directement."
+  - question: "Pourquoi les centrales solaires à concentration ne fonctionnent-elles bien que dans certaines régions ?"
+    options:
+      - "Parce qu'elles ont besoin d'un rayonnement direct et intense, donc d'un ciel très ensoleillé et peu nuageux"
+      - "Parce qu'elles ne peuvent pas être construites près des villes"
+      - "Parce que leurs sels fondus gèlent dans les régions tempérées"
+    answer: 1
+    explanation: "Ces centrales exigent un rayonnement direct et intense : elles sont limitées aux régions très ensoleillées et peu nuageuses."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2094,6 +2318,20 @@ quiz:
     explanation: >
       Le système doit être dimensionné pour le pire moment de l'année, pas pour la moyenne.
       Certaines centrales ne fonctionnent que quelques dizaines d'heures par an.
+  - question: "Pourquoi comparer deux sources d'électricité par le seul coût du kilowattheure est-il insuffisant ?"
+    options:
+      - "Parce que le coût du kilowattheure est impossible à calculer"
+      - "Parce qu'une électricité bon marché produite au mauvais moment vaut moins qu'une électricité plus chère disponible à la demande"
+      - "Parce que seules les sources pilotables ont un coût"
+    answer: 2
+    explanation: "Le coût seul ignore la dimension temporelle : une électricité disponible quand on en a besoin a plus de valeur."
+  - question: "Qu'observe-t-on en fin d'après-midi dans un réseau très solarisé ?"
+    options:
+      - "Une remontée très rapide de la demande résiduelle, quand le soleil décline"
+      - "Une baisse brutale de la consommation totale"
+      - "Un arrêt complet de toutes les centrales pilotables"
+    answer: 1
+    explanation: "Après un creux à midi, la demande résiduelle remonte très vite à mesure que le soleil décline : il faut mobiliser beaucoup de puissance en peu de temps."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2217,6 +2455,20 @@ quiz:
     explanation: >
       Les contraintes chimiques sont maximales aux extrêmes de charge. Maintenir la batterie
       entre 20 et 80 % prolonge sensiblement sa durée de vie.
+  - question: "Pourquoi le lithium convient-il bien aux batteries ?"
+    options:
+      - "C'est le métal le plus léger et il cède facilement un électron, d'où beaucoup d'énergie par kilogramme"
+      - "C'est le métal le plus abondant sur Terre"
+      - "Il ne s'use jamais lors des cycles de charge"
+    answer: 1
+    explanation: "Sa légèreté et sa facilité à céder un électron donnent une bonne quantité d'énergie stockée par kilogramme."
+  - question: "Qu'est-ce que l'emballement thermique d'une batterie ?"
+    options:
+      - "Une charge plus rapide obtenue grâce à la chaleur"
+      - "Une perte progressive de capacité au fil des années"
+      - "Un cercle vicieux où la température monte, accélère les réactions et fait monter encore la température"
+    answer: 3
+    explanation: "Un défaut peut déclencher un emballement : plus il fait chaud, plus les réactions s'accélèrent, d'où les protections électroniques et thermiques."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2336,6 +2588,20 @@ quiz:
     explanation: >
       C'est une loi de la thermodynamique, pas un défaut technique. Une part de la chaleur doit
       obligatoirement être rejetée, d'où les tours de refroidissement.
+  - question: "Pourquoi comparer un chauffage électrique et une chaudière à gaz en énergie finale peut-il être trompeur ?"
+    options:
+      - "Parce que la chaudière à gaz ne délivre pas de chaleur dans la pièce"
+      - "Parce que l'électricité issue d'une centrale thermique demande environ trois fois plus d'énergie primaire"
+      - "Parce que l'énergie finale n'inclut jamais le chauffage"
+    answer: 2
+    explanation: "À énergie finale comparable, l'électricité produite par une centrale thermique a nécessité environ trois fois plus d'énergie primaire."
+  - question: "Pourquoi les comparaisons historiques de l'énergie primaire sont-elles délicates pour les renouvelables ?"
+    options:
+      - "Parce que, sans combustible, la notion devient conventionnelle et les statistiques appliquent des conventions différentes"
+      - "Parce que les renouvelables ne produisent pas d'énergie utile"
+      - "Parce que le vent et le soleil ne sont jamais mesurés"
+    answer: 1
+    explanation: "Pour le solaire et l'éolien il n'y a pas de combustible : les statistiques adoptent des conventions variables, source de malentendus."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2537,6 +2803,9 @@ sources:
   - title: "Biogas"
     url: "https://en.wikipedia.org/wiki/Biogas"
     publisher: "Wikipedia"
+  - title: "LA METHANISATION (PDF)"
+    url: "https://www.geres.eu/wp-content/uploads/2026/03/LA-METHANISATION.pdf"
+    publisher: "Geres"
 quiz:
   - question: "Qui fabrique le méthane dans un méthaniseur ?"
     options:
@@ -2565,6 +2834,13 @@ quiz:
     explanation: >
       Le digestat conserve l'azote, le phosphore et le potassium de la matière de départ. On
       l'épand sur les champs comme fertilisant.
+  - question: "Pourquoi un méthaniseur doit-il être une cuve totalement privée d'air ?"
+    options:
+      - "Parce que le méthane ne se forme qu'en présence d'oxygène"
+      - "Parce que l'air refroidit trop vite le mélange"
+      - "Parce que l'oxygène tue les microbes qui fabriquent le méthane"
+    answer: 3
+    explanation: "Les microbes vivent sans oxygène : une absence totale d'air est l'une de leurs exigences."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2815,6 +3091,13 @@ quiz:
     explanation: >
       En 1709, Abraham Darby réussit à fondre du fer avec du coke. Cela a soulagé les forêts
       européennes, très exploitées pour les forges.
+  - question: "Pourquoi le charbon de bois a-t-il permis de fondre le fer ?"
+    options:
+      - "Parce qu'il apporte à la fois une forte chaleur et du carbone qui arrache l'oxygène au minerai"
+      - "Parce qu'il contient déjà du fer sous forme de minerai"
+      - "Parce qu'il brûle avec une grande flamme qui fait fondre le métal"
+    answer: 1
+    explanation: "Séparer le métal du minerai demande une forte chaleur et du carbone, qui arrache l'oxygène : le charbon de bois fournit les deux."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -3034,6 +3317,13 @@ quiz:
     explanation: >
       Une centrale à charbon, à gaz ou nucléaire chauffe de l'eau. La vapeur fait tourner une
       turbine reliée à un alternateur.
+  - question: "Pourquoi une machine à vapeur doit-elle avoir une soupape de sécurité ?"
+    options:
+      - "Pour mesurer la pression à l'intérieur de la chaudière"
+      - "Pour laisser échapper la vapeur au-delà d'une pression fixée et éviter l'explosion de la chaudière"
+      - "Pour maintenir le niveau d'eau visible"
+    answer: 2
+    explanation: "Une chaudière est un récipient sous pression qui explose si elle cède ; la soupape libère la vapeur dès que la pression fixée est dépassée."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -3216,6 +3506,12 @@ sources:
   - title: "Solar water heating"
     url: "https://en.wikipedia.org/wiki/Solar_water_heating"
     publisher: "Wikipedia"
+  - title: "Chauffer l'eau au soleil"
+    url: "https://agirpourlatransition.ademe.fr/particuliers/maison/travaux/chauffer-leau-soleil"
+    publisher: "ADEME"
+  - title: "Guide adopter le solaire thermique (PDF)"
+    url: "https://librairie.ademe.fr/ged/7736/guide-adopter-solaire-thermique.pdf"
+    publisher: "ADEME"
 quiz:
   - question: "Pourquoi l'intérieur d'un four solaire est-il peint en noir mat ?"
     options:
@@ -3244,6 +3540,13 @@ quiz:
     explanation: >
       Dans les régions froides, on utilise un liquide antigel dans le capteur, ou un système qui se
       vide automatiquement.
+  - question: "Pourquoi l'eau du ballon d'un chauffe-eau solaire doit-elle monter régulièrement au-dessus de 55 à 60 °C ?"
+    options:
+      - "Pour éviter que le capteur ne gèle"
+      - "Pour limiter la prolifération des légionelles, qui se développent dans l'eau tiède stagnante"
+      - "Pour que le mitigeur thermostatique fonctionne correctement"
+    answer: 2
+    explanation: "Les légionelles prospèrent dans l'eau tiède qui stagne : monter régulièrement en température limite leur développement."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -3435,6 +3738,13 @@ quiz:
     explanation: >
       Les dix-neuf moulins de Kinderdijk, construits vers 1740, évacuaient l'eau des polders,
       ces terres situées sous le niveau de la mer.
+  - question: "Pourquoi les moulins européens, comme le moulin sur pivot ou le moulin tour, permettent-ils d'orienter les ailes ?"
+    options:
+      - "Pour régler la vitesse de rotation de la meule selon le grain"
+      - "Parce que le vent change de direction et que les ailes doivent lui faire face"
+      - "Pour protéger les toiles des ailes du soleil et de la pluie"
+    answer: 2
+    explanation: "Le vent change de direction : le meunier doit donc orienter les ailes face à lui, en faisant tourner toute la cabane (moulin sur pivot) ou seulement la toiture (moulin tour)."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -3625,6 +3935,9 @@ sources:
   - title: "Betz's law"
     url: "https://en.wikipedia.org/wiki/Betz%27s_law"
     publisher: "Wikipedia"
+  - title: "Où en est le petit éolien en France ?"
+    url: "https://www.connaissancedesenergies.org/questions-et-reponses-energies/ou-en-est-le-petit-eolien-en-france"
+    publisher: "Connaissance des énergies"
 quiz:
   - question: "Pourquoi faut-il installer une petite éolienne en hauteur ?"
     options:
@@ -3653,6 +3966,13 @@ quiz:
     explanation: >
       Une éolienne sans charge peut tourner trop vite et se détruire. La résistance lui donne
       toujours une charge à entraîner.
+  - question: "Pourquoi associe-t-on volontiers une petite éolienne à des panneaux solaires ?"
+    options:
+      - "Parce que les panneaux protègent l'éolienne des vents violents"
+      - "Parce que les deux produisent le même type de courant sans régulateur"
+      - "Parce que le vent souffle souvent plus en hiver et la nuit, quand le soleil manque"
+    answer: 3
+    explanation: "Les deux sources se complètent : le vent souffle souvent plus en hiver et la nuit, justement quand le soleil produit peu."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -3797,6 +4117,20 @@ quiz:
       Ce recensement commandé par Guillaume le Conquérant dénombre environ 6 000 moulins en
       Angleterre dès 1086, preuve que la technologie était déjà largement répandue à travers tout
       le pays au XIe siècle.
+  - question: "Pourquoi le moulin était-il souvent source de tensions au Moyen Âge ?"
+    options:
+      - "Les seigneurs et monastères en étaient propriétaires et faisaient payer son usage aux paysans par des banalités"
+      - "Les meuniers refusaient de moudre le grain des paysans les plus pauvres"
+      - "Le bruit des roues gênait les habitants des vallées"
+    answer: 1
+    explanation: "La plupart des moulins appartenaient aux seigneurs ou aux monastères, qui faisaient payer leur usage : le moulin était donc aussi une source de revenu et un instrument de pouvoir local."
+  - question: "Pourquoi dit-on que le moulin à eau a été le premier véritable outil industriel ?"
+    options:
+      - "Parce qu'il était construit en grande série dans des usines"
+      - "Parce qu'il fonctionnait grâce à la vapeur et au charbon"
+      - "Parce que, relié à des engrenages, il actionnait scies, soufflets et foulons en démultipliant le travail humain"
+    answer: 3
+    explanation: "Son énergie, transmise par des engrenages, pouvait actionner de nombreuses machines et remplacer le travail de dizaines de bras."
 lastVerified: 2026-09-24
 status: published
 ---
@@ -3942,7 +4276,7 @@ categoryPath: energie/energies-renouvelables/hydraulique
 summary: >
   Quelques mètres de chute et un petit débit suffisent à alimenter un hameau en électricité.
 tags: [hydraulique, microcentrale, electricite, essentiel-reconstruction]
-relatedArticles: [produire-electricite-avec-aimant]
+relatedArticles: [comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite]
 sources:
   - title: "Micro Hydro Power and How Does Micro Power Work?"
     url: "https://www.alternative-energy-tutorials.com/hydro-energy/micro-hydro-power.html"
@@ -3973,6 +4307,20 @@ quiz:
     explanation: >
       Une installation au fil de l'eau détourne une partie du courant sans grand barrage ni
       réservoir, évitant l'inondation de terres et limitant fortement l'impact sur le milieu.
+  - question: "Pourquoi une microcentrale peut-elle produire de l'électricité de nuit comme de jour, contrairement au solaire ?"
+    options:
+      - "Parce qu'elle stocke l'électricité dans de grandes batteries"
+      - "Parce qu'elle dépend du débit du cours d'eau et non de la météo ou de la lumière"
+      - "Parce qu'elle est toujours raccordée à un grand réseau électrique"
+    answer: 2
+    explanation: "Tant que le cours d'eau garde un débit suffisant, la turbine tourne en continu : la production ne dépend pas du soleil ni du vent."
+  - question: "Un petit torrent très pentu et une large rivière presque plate peuvent-ils fournir la même puissance ?"
+    options:
+      - "Non, seul le débit compte pour la puissance"
+      - "Non, seule la hauteur de chute compte pour la puissance"
+      - "Oui, une forte chute avec un faible débit peut équivaloir à une faible chute avec un fort débit"
+    answer: 3
+    explanation: "La hauteur de chute et le débit déterminent ensemble la puissance, donc l'un peut compenser l'autre."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -4112,118 +4460,6 @@ status: planned
 
 ---
 type: article
-title: Produire de l'électricité avec un aimant
-slug: produire-electricite-avec-aimant
-categoryPath: energie/reseaux-et-stockage/reseaux-electriques
-summary: >
-  Dynamo et alternateur : le principe de l'induction qui se cache derrière presque toute l'électricité produite.
-tags: [reseaux-electriques, induction, generateur, essentiel-reconstruction]
-relatedArticles: []
-sources:
-  - title: "Electromagnetism - Induction, Faraday, Magnetism"
-    url: "https://www.britannica.com/science/electromagnetism/Faradays-discovery-of-electric-induction"
-    publisher: "Encyclopaedia Britannica"
-    date: "2025"
-  - title: "The birth of the electric machines: a commentary on Faraday (1832) 'Experimental
-      researches in electricity'"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4360079/"
-    publisher: "Philosophical Transactions of the Royal Society / PMC"
-    date: "2025"
-quiz:
-  - question: "Que faut-il faire pour qu'un aimant produise du courant électrique dans une
-      bobine ?"
-    options:
-      - "Le placer immobile à côté de la bobine"
-      - "Le déplacer ou le faire tourner près de la bobine"
-      - "Le chauffer fortement"
-    answer: 2
-    explanation: >
-      C'est la variation du champ magnétique, provoquée par le mouvement de l'aimant, qui induit
-      un courant. Un aimant immobile ne produit rien.
-  - question: "Quel principe commun utilisent la plupart des centrales électriques pour produire
-      du courant ?"
-    options:
-      - "La réaction chimique entre deux métaux"
-      - "L'induction électromagnétique découverte par Faraday"
-      - "La combustion directe transformée en électricité"
-    answer: 2
-    explanation: >
-      Qu'elles soient nucléaires, hydrauliques ou thermiques, la plupart des centrales font
-      tourner un aimant dans des bobines pour produire du courant par induction.
-lastVerified: 2026-09-25
-status: published
----
-
-## En bref
-
-Déplacer un aimant près d'un fil électrique enroulé en bobine suffit à produire du courant, sans
-aucune réaction chimique. Cette découverte, faite en 1831, est à l'origine de presque toute
-l'électricité produite dans le monde aujourd'hui.
-
-## La découverte de Faraday
-
-Le physicien britannique Michael Faraday cherchait depuis dix ans à prouver qu'un aimant pouvait
-produire de l'électricité. En 1831, il observe qu'en déplaçant rapidement un aimant à l'intérieur
-d'une bobine de fil, un courant électrique bref apparaît dans le fil, même sans pile ni batterie.
-
-Ce phénomène s'appelle l'induction électromagnétique : un champ magnétique qui varie dans le
-temps crée un courant électrique dans un conducteur voisin.
-
-## Pourquoi il faut du mouvement
-
-Un aimant immobile près d'une bobine ne produit rien : c'est la variation du champ magnétique,
-pas sa seule présence, qui génère le courant. C'est pourquoi il faut faire tourner l'aimant, ou
-la bobine, en continu pour obtenir un courant électrique soutenu plutôt qu'une simple impulsion.
-
-## De la découverte à la dynamo
-
-Quelques années seulement après l'expérience de Faraday, des ingénieurs ont construit les
-premiers générateurs pratiques exploitant ce principe : des aimants tournant à l'intérieur de
-bobines fixes, entraînés par une manivelle, une roue à eau ou une machine à vapeur.
-
-## L'alternateur moderne
-
-Presque toutes les centrales électriques actuelles, qu'elles soient nucléaires, hydrauliques ou à
-charbon, fonctionnent sur exactement ce même principe : une source d'énergie fait tourner un
-aimant à l'intérieur de bobines, ce qui produit le courant alternatif qui alimente le réseau
-électrique.
-
-## Fabriquer un générateur de fortune
-
-Une bobine de fil de cuivre isolé, enroulée autour d'un aimant que l'on fait tourner rapidement à
-la main, produit un courant électrique mesurable, suffisant pour allumer une petite ampoule ou
-une diode. Plus la rotation est rapide et le nombre de spires élevé, plus le courant produit est
-important.
-
-## À retenir
-
-- Un aimant en mouvement près d'une bobine de fil produit un courant électrique, sans réaction
-  chimique.
-- Michael Faraday a découvert ce phénomène, l'induction électromagnétique, en 1831.
-- Seule la variation du champ magnétique produit du courant, pas sa simple présence.
-- La quasi-totalité des centrales électriques actuelles utilisent ce même principe pour produire
-  du courant.
-- Une bobine de cuivre et un aimant en rotation suffisent à construire un générateur électrique
-  rudimentaire.
-
-```schema
-type: etapes
-titre: L'induction électromagnétique
-legende: Découverte par Michael Faraday en 1831.
-elements:
-  - titre: Un aimant
-    icone: magnet
-  - titre: Du mouvement
-    texte: Seule la variation du champ produit du courant.
-  - titre: Une bobine de fil
-  - titre: Un courant électrique
-    icone: bolt
-```
-
----
-
----
-type: article
 title: Les interconnexions européennes
 slug: interconnexions-europeennes
 categoryPath: energie/reseaux-et-stockage/reseaux-electriques
@@ -4278,6 +4514,20 @@ quiz:
       L'électrolyte d'une batterie au plomb est une solution d'eau et d'acide sulfurique, qui
       permet la réaction chimique reversible entre les deux plaques lors de la charge et de la
       décharge.
+  - question: "Pourquoi la réversibilité de la réaction chimique est-elle essentielle dans la batterie de Planté ?"
+    options:
+      - "Elle permet de produire plus de courant qu'une pile classique"
+      - "Elle évite que le plomb ne s'use au contact de l'acide"
+      - "Elle permet de recharger la batterie en faisant circuler un courant en sens contraire"
+    answer: 3
+    explanation: "Contrairement à une pile classique, la réaction peut être inversée par un courant de sens contraire : c'est ce qui rend la batterie rechargeable."
+  - question: "Pourquoi la batterie au plomb équipe-t-elle encore presque tous les véhicules à moteur thermique ?"
+    options:
+      - "Elle est peu coûteuse, tolère les fortes intensités du démarrage et se recycle presque entièrement"
+      - "Elle stocke bien plus d'énergie par kilo que les autres batteries"
+      - "Elle ne contient aucune substance dangereuse à manipuler"
+    answer: 1
+    explanation: "Son faible coût, sa robustesse face aux fortes intensités de démarrage et son recyclage presque total expliquent sa longévité."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -4412,6 +4662,13 @@ quiz:
     explanation: >
       Le poids y compte moins que le prix et la robustesse. Les sodium-ion gardent une bonne
       partie de leur capacité à -20 °C.
+  - question: "Pourquoi l'électrode négative d'une batterie sodium-ion n'est-elle pas en graphite comme dans le lithium-ion ?"
+    options:
+      - "Parce que le graphite coûte trop cher pour les grandes séries"
+      - "Parce que l'ion sodium est plus gros et plus lourd, et que le graphite l'accueille mal"
+      - "Parce que le graphite ne conduit pas l'électricité à froid"
+    answer: 2
+    explanation: "L'ion sodium, plus gros et plus lourd, s'insère mal dans le graphite : on utilise donc du carbone dur."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -4579,7 +4836,7 @@ categoryPath: energie/reseaux-et-stockage/hydrogene
 summary: >
   Séparer l'eau en hydrogène et oxygène avec de l'électricité : le principe, les rendements, les usages.
 tags: [hydrogene, electrolyse, essentiel-reconstruction]
-relatedArticles: [batterie-plomb, produire-electricite-avec-aimant]
+relatedArticles: [batterie-plomb, comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite]
 sources:
   - title: "Hydrogen Production: Electrolysis"
     url: "https://www.energy.gov/eere/fuelcells/hydrogen-production-electrolysis"
@@ -4608,6 +4865,20 @@ quiz:
     explanation: >
       L'équation globale, deux H2O donnent deux H2 et un O2, montre que l'eau se sépare en deux
       fois plus d'hydrogène que d'oxygène, en volume de gaz produit.
+  - question: "De quoi dépend l'empreinte environnementale de l'hydrogène produit par électrolyse ?"
+    options:
+      - "De la taille de la membrane qui sépare les électrodes"
+      - "De la quantité d'eau utilisée pour la réaction"
+      - "De la source de l'électricité utilisée pour alimenter l'électrolyse"
+    answer: 3
+    explanation: "L'électrolyse n'émet rien directement, mais avec une électricité issue du charbon, on déplace simplement le problème."
+  - question: "Pourquoi une membrane sépare-t-elle les deux zones de l'électrolyseur ?"
+    options:
+      - "Pour éviter que les gaz produits ne se remélangent"
+      - "Pour empêcher le courant de passer d'une électrode à l'autre"
+      - "Pour chauffer l'eau avant la réaction"
+    answer: 1
+    explanation: "La membrane garde l'hydrogène et l'oxygène séparés, tout en laissant passer les ions hydrogène vers la cathode."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -4869,6 +5140,20 @@ quiz:
     explanation: >
       L'air chaud étant moins dense, il monte naturellement vers le haut du bâtiment. Sans
       isolation du toit, cette chaleur s'échappe rapidement.
+  - question: "Pourquoi un isolant comprimé ou humide protège-t-il mal du froid ?"
+    options:
+      - "Parce qu'il devient plus lourd et se détache des murs"
+      - "Parce qu'il perd une grande partie de sa capacité à freiner la chaleur"
+      - "Parce qu'il augmente les ponts thermiques autour des fenêtres"
+    answer: 2
+    explanation: "Un isolant comprimé, mal ajusté ou humide freine beaucoup moins la chaleur : la qualité de la pose compte autant que le matériau."
+  - question: "Pourquoi les fenêtres perdent-elles proportionnellement plus de chaleur que les murs ?"
+    options:
+      - "Parce qu'elles sont toujours orientées vers le nord"
+      - "Parce que l'air chaud monte et s'échappe surtout par elles"
+      - "Parce qu'elles sont plus fines et souvent moins isolantes que les murs"
+    answer: 3
+    explanation: "Les fenêtres, plus fines et moins isolantes, laissent passer proportionnellement plus de chaleur ; le double vitrage réduit nettement ces pertes."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -4953,6 +5238,12 @@ sources:
   - title: "Incandescent light bulb"
     url: "https://en.wikipedia.org/wiki/Incandescent_light_bulb"
     publisher: "Wikipedia"
+  - title: "Reflets de la physique, article p. 16 (PDF)"
+    url: "https://www.refletsdelaphysique.fr/articles/refdp/pdf/2022/01/refdp202271p16.pdf"
+    publisher: "Société Française de Physique"
+  - title: "Principe de fonctionnement des LEDs"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/electronique-photonique-th13/composants-optoelectroniques-42451210/eclairage-a-base-de-leds-e6501/principe-de-fonctionnement-des-leds-e6501niv10002.html"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Comment une LED produit-elle de la lumière ?"
     options:
@@ -5091,6 +5382,20 @@ quiz:
     explanation: >
       En récupérant la chaleur normalement perdue pour chauffer des bâtiments ou de l'eau, une
       installation de cogénération peut atteindre un rendement global proche de 90 %.
+  - question: "Pourquoi produire l'énergie directement sur le site de consommation réduit-il les pertes ?"
+    options:
+      - "Parce qu'on évite les pertes liées au transport de l'électricité sur de longues distances"
+      - "Parce que le combustible brûle plus proprement sur place"
+      - "Parce qu'on peut se passer complètement d'échangeur thermique"
+    answer: 1
+    explanation: "Une cogénération décentralisée consomme l'énergie là où elle est produite, ce qui limite les pertes du transport de l'électricité."
+  - question: "Quel est le rôle de l'échangeur thermique dans une installation de cogénération ?"
+    options:
+      - "Il convertit la chaleur directement en électricité"
+      - "Il refroidit le moteur pour le protéger de la surchauffe uniquement"
+      - "Il récupère la chaleur de la combustion pour produire eau chaude ou vapeur"
+    answer: 3
+    explanation: "L'échangeur récupère la chaleur dégagée par la combustion, qui sert ensuite à chauffer des bâtiments ou à alimenter un procédé industriel."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -5197,6 +5502,20 @@ quiz:
       Les bois durs et denses comme le chêne, riches en énergie mais lents à sécher, nécessitent
       généralement de dix-huit à trente mois de séchage pour atteindre un taux d'humidité
       adapté à la combustion.
+  - question: "Pourquoi un poêle fermé restitue-t-il davantage de chaleur qu'un foyer ouvert ?"
+    options:
+      - "Parce qu'il brûle uniquement du bois très humide"
+      - "Parce qu'il contrôle l'arrivée d'air et laisse moins s'échapper la chaleur par la cheminée"
+      - "Parce qu'il produit plus de fumée qui réchauffe la pièce"
+    answer: 2
+    explanation: "Le foyer ouvert laisse partir une grande partie de la chaleur par la cheminée, alors que le poêle fermé contrôle l'air et restitue davantage d'énergie."
+  - question: "Quelle différence de comportement y a-t-il entre le chêne et le pin comme bois de chauffage ?"
+    options:
+      - "Le pin contient plus d'énergie et brûle plus longtemps que le chêne"
+      - "Le chêne s'enflamme vite mais se consume très rapidement"
+      - "Le chêne contient plus d'énergie par volume et brûle plus longtemps, le pin s'enflamme vite mais se consume vite"
+    answer: 3
+    explanation: "Les bois durs et denses comme le chêne contiennent plus d'énergie par volume et durent plus longtemps que les bois tendres comme le pin."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -5382,6 +5701,9 @@ sources:
   - title: "Insulated glazing"
     url: "https://en.wikipedia.org/wiki/Insulated_glazing"
     publisher: "Wikipedia"
+  - title: "Catalogue valeurs U"
+    url: "https://www.buildwise.be/media/u3mhr1ev/catalogue_valeurs_u.pdf"
+    publisher: "Buildwise"
 quiz:
   - question: "Qu'y a-t-il entre les deux vitres d'un double vitrage ?"
     options:
@@ -5509,6 +5831,12 @@ sources:
   - title: "Pisé"
     url: "https://fr.wikipedia.org/wiki/Pis%C3%A9"
     publisher: "Wikipédia"
+  - title: "Fiche rénovation thermique 3 : maison en pierre (PDF)"
+    url: "https://www.ain.gouv.fr/contenu/telechargement/14104/105926/file/ficherenovationthermique3_maisonenpierre_voct2020.pdf"
+    publisher: "Préfecture de l'Ain"
+  - title: "Les Essentiels : confort thermique (PDF)"
+    url: "https://www.les-caue-occitanie.fr/sites/default/files/fichiers/ressource/field_fichiers/Les%20Essentiels-confort%20thermique.pdf"
+    publisher: "CAUE Occitanie"
 quiz:
   - question: "Que fait un mur à forte inertie thermique pendant une journée chaude ?"
     options:
@@ -7035,6 +7363,12 @@ sources:
   - title: "Polyéthylène"
     url: "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne"
     publisher: "Wikipédia"
+  - title: "Pétrochimie"
+    url: "https://www.larousse.fr/encyclopedie/divers/p%C3%A9trochimie/78883"
+    publisher: "Larousse"
+  - title: "IFP Energies nouvelles, document (PDF)"
+    url: "https://www.ifpenergiesnouvelles.fr/print/pdf/node/770"
+    publisher: "IFP Energies nouvelles"
 quiz:
   - question: "Quelle part du pétrole mondial la pétrochimie utilisait-elle en 2017 ?"
     options:
@@ -7775,6 +8109,12 @@ sources:
   - title: "Background radiation"
     url: "https://en.wikipedia.org/wiki/Background_radiation"
     publisher: "Wikipedia"
+  - title: "Radon in buildings: A report on the situation in France"
+    url: "https://recherche-expertise.asnr.fr/page/radon-buildings-report-situation-france-0"
+    publisher: "ASNR"
+  - title: "Tableau 3 : activité naturelle (PDF)"
+    url: "https://www.dgdr.cnrs.fr/sst/CNPS/guides/doc/radioprotection/Tableau3_Activite_naturelle.pdf"
+    publisher: "CNRS"
 quiz:
   - question: "Quelle est la plus grande source de radioactivité naturelle pour l'être humain ?"
     options:
@@ -8715,6 +9055,12 @@ sources:
   - title: "MeyGen"
     url: "https://en.wikipedia.org/wiki/MeyGen"
     publisher: "Wikipedia"
+  - title: "Énergies marines renouvelables hors éolien en mer"
+    url: "https://www.ecologie.gouv.fr/politiques-publiques/energies-marines-renouvelables-hors-eolien-mer"
+    publisher: "Ministère de l'Écologie"
+  - title: "MED Fiche 38 Autres EMR"
+    url: "https://www.debatpublic.fr/sites/default/files/2023-11/MED_Fiche_38_Autres_EMR.pdf"
+    publisher: "Commission nationale du débat public"
 quiz:
   - question: "Pourquoi une hydrolienne peut-elle être plus petite qu'une éolienne de même puissance ?"
     options:
@@ -8743,6 +9089,13 @@ quiz:
     explanation: >
       Inaugurée en 1966, elle utilise un barrage sur l'estuaire de la Rance et 24 turbines,
       pour une puissance de 240 mégawatts.
+  - question: "Pourquoi les nouveaux projets d'usines marémotrices sont-ils limités ?"
+    options:
+      - "Parce que fermer un estuaire modifie profondément son écosystème"
+      - "Parce que les marées ne sont pas assez prévisibles"
+      - "Parce que ces usines ne fonctionnent qu'une fois par jour"
+    answer: 1
+    explanation: "Barrer un estuaire bouleverse son écosystème, ce qui freine la construction de nouvelles usines marémotrices."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -9622,6 +9975,12 @@ sources:
   - title: "Voltaic pile"
     url: "https://en.wikipedia.org/wiki/Voltaic_pile"
     publisher: "Wikipedia"
+  - title: "Alessandro Volta"
+    url: "https://lemelson.mit.edu/resources/alessandro-volta"
+    publisher: "Lemelson-MIT Program"
+  - title: "Pure and Applied Chemistry, article pac-2023-0504"
+    url: "https://www.degruyterbrill.com/document/doi/10.1515/pac-2023-0504/html"
+    publisher: "De Gruyter"
 quiz:
   - question: "Pourquoi l'invention de Volta s'appelle-t-elle une « pile » ?"
     options:
@@ -9825,6 +10184,9 @@ sources:
   - title: "Accumulateur lithium"
     url: "https://fr.wikipedia.org/wiki/Accumulateur_lithium"
     publisher: "Wikipédia"
+  - title: "Aging of lithium-ion batteries"
+    url: "https://www.techniques-ingenieur.fr/en/resources/energies-th4/batteries-ti303/vieillissement-des-accumulateurs-lithium-ion-d7000"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Qu'est-ce que la couche appelée SEI dans une batterie ?"
     options:
@@ -9853,6 +10215,13 @@ quiz:
     explanation: >
       Au froid, les ions s'insèrent mal dans l'électrode. Ils se déposent alors en surface sous
       forme de métal, ce qui réduit la capacité et peut créer des risques.
+  - question: "Quel est le rôle du BMS, le système de gestion d'une batterie lithium-ion ?"
+    options:
+      - "Il augmente la capacité de la batterie au fil des années"
+      - "Il remplace l'électrolyte lorsqu'il se dégrade"
+      - "Il surveille tension, température et courant, protège les cellules et les équilibre entre elles"
+    answer: 3
+    explanation: "Le BMS mesure la tension de chaque cellule, la température et le courant, coupe la charge ou la décharge en cas de danger et équilibre les cellules."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -10218,6 +10587,13 @@ quiz:
     explanation: >
       Leur chimie très stable limite les risques d'emballement thermique, et elles supportent
       souvent plus de 3 000 cycles de charge.
+  - question: "Pourquoi les batteries LFP conviennent-elles aux voitures électriques d'entrée et de milieu de gamme ?"
+    options:
+      - "Parce que le prix y compte plus que l'autonomie maximale"
+      - "Parce qu'elles offrent la meilleure densité d'énergie du marché"
+      - "Parce qu'elles supportent mieux le froid que toutes les autres"
+    answer: 1
+    explanation: "Les LFP stockent un peu moins d'énergie par kilo mais coûtent moins cher : elles conviennent là où le prix compte plus que l'autonomie maximale."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -10404,6 +10780,9 @@ sources:
   - title: "Hydrogen storage"
     url: "https://en.wikipedia.org/wiki/Hydrogen_storage"
     publisher: "Wikipedia"
+  - title: "Clefs CEA (archives) : article sur l'hydrogène"
+    url: "https://www.cea.fr/multimedia/Documents/publications/clefs-cea/archives/fr/096a102wurster.pdf"
+    publisher: "CEA"
 quiz:
   - question: "Que produit la combustion ou l'utilisation de l'hydrogène dans une pile ?"
     options:
@@ -10432,6 +10811,13 @@ quiz:
     explanation: >
       L'hydrogène pur est presque absent de la nature : on le fabrique à partir de gaz ou d'eau, ce qui
       consomme plus d'énergie qu'il n'en restitue.
+  - question: "Pourquoi l'hydrogène est-il surtout jugé pertinent pour l'industrie et les usages difficiles à électrifier ?"
+    options:
+      - "Parce qu'il est plus facile à stocker que l'électricité"
+      - "Parce que chaque transformation perd de l'énergie, et que l'on perd souvent plus de la moitié entre l'électricité de départ et celle récupérée"
+      - "Parce qu'il est produit uniquement à partir d'énergies renouvelables"
+    answer: 2
+    explanation: "Les pertes de conversion sont importantes : on le réserve donc aux cas où l'électricité directe est difficile à utiliser."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -11120,6 +11506,14 @@ sources:
   - title: "2025 Iberian Peninsula blackout"
     url: "https://en.wikipedia.org/wiki/2025_Iberian_Peninsula_blackout"
     publisher: "Wikipedia"
+  - title: "28 April blackout in Spain and Portugal: expert panel releases comprehensive factual report"
+    url: "https://www.entsoe.eu/news/2025/10/03/28-april-blackout-in-spain-and-portugal-expert-panel-releases-comprehensive-factual-report/"
+    publisher: "ENTSO-E"
+    date: "2025"
+  - title: "ENTSO-E publishes expert panel final report on 28 April 2025 blackout in Spain and Portugal"
+    url: "https://entsoe.eu/news/2026/03/20/entso-e-publishes-expert-panel-final-report-on-28-april-2025-blackout-in-spain-and-portugal/"
+    publisher: "ENTSO-E"
+    date: "2026"
 quiz:
   - question: "Comment appelle-t-on une coupure volontaire de certains clients pour sauver le réseau ?"
     options:
@@ -15351,8 +15745,9 @@ title: Comment fonctionne une éolienne
 slug: comment-fonctionne-une-eolienne
 categoryPath: energie/energies-renouvelables/eolien
 summary: >
-  Les pales tournent grâce à la portance, des engrenages accélèrent le rotor et la génératrice
-  produit le courant. La limite de Betz plafonne le rendement à 59,3 %.
+  Une éolienne transforme le mouvement du vent en électricité grâce à la portance de ses pales.
+  Plus le rotor est grand, plus elle capte de vent : les modèles terrestres de demain visent plus
+  de 200 mètres de diamètre.
 tags: [eolien, portance, betz]
 sources:
   - title: "How a Wind Turbine Works"
@@ -15364,6 +15759,10 @@ sources:
   - title: "MIT engineers' new theory could improve the design and operation of wind farms"
     url: "https://news.mit.edu/2024/new-theory-could-improve-design-and-operation-wind-farms-0821"
     publisher: "MIT News"
+  - title: "Pushing the Boundaries of Land-Based Rotor Growth"
+    url: "https://nrel.gov/news/program/2019/pushing-boundaries.html"
+    publisher: "NREL (laboratoire national des énergies renouvelables, États-Unis)"
+    date: "2019"
 quiz:
   - question: "Que contient la nacelle d'une éolienne ?"
     options:
@@ -15399,7 +15798,7 @@ quiz:
     explanation: >
       Selon la limite de Betz, une éolienne ne peut extraire au mieux qu'environ 59,3 % de
       l'énergie cinétique du vent qui la traverse.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -15440,14 +15839,23 @@ Les engrenages, le rotor et la génératrice se trouvent dans un boîtier appel�
 
 Selon la limite de Betz, une éolienne ne peut extraire au mieux qu'environ 59,3 % de l'énergie cinétique du vent qui la traverse. Une théorie récente montre qu'on peut extraire un peu plus de puissance que ne le prévoyait la formule d'origine, de l'ordre de quelques pour cent.
 
+## Des rotors toujours plus grands
+
+Le diamètre du rotor décide de la surface de vent balayée : plus elle est large, plus la machine capte d'énergie. Placer le rotor plus haut donne aussi accès à des vents plus rapides, car le vent faiblit près du sol. C'est l'une des raisons pour lesquelles les éoliennes ont grossi, et la baisse du coût de l'énergie éolienne au fil des décennies doit beaucoup à ces grands rotors.
+
+En 2019, un projet du laboratoire américain NREL visait des rotors de 206 mètres de diamètre pour les futures éoliennes terrestres, soit deux terrains de football bout à bout.
+
+## Mesurer ce qu'une éolienne produit vraiment
+
+Le facteur de charge est la puissance moyenne délivrée par une éolienne sur une année, comparée à sa puissance maximale. Le vent n'est jamais constant, donc ce chiffre reste inférieur à 100 %. Les grands rotors du projet NREL devaient le relever de 10 % ou plus par rapport à une éolienne terrestre ordinaire.
+
 ## À retenir
 
 - Une éolienne convertit l'énergie cinétique du vent en énergie électrique.
 - Sur une pale, une poche d'air à basse pression tire la pale et fait tourner le rotor : c'est la portance.
 - Les engrenages, le rotor et la génératrice se trouvent dans la nacelle.
-- Les engrenages accélèrent le rotor jusqu'à la vitesse qui permet à la génératrice de produire du courant alternatif.
+- Un rotor plus grand et plus haut capte davantage de vent, d'où des machines de plus en plus imposantes.
 - Les éoliennes commerciales à axe horizontal ont en général trois pales, face au vent.
-
 ---
 type: article
 title: Comment un atome qui se casse peut-il allumer une ampoule ?
@@ -15571,9 +15979,9 @@ title: D'où vient l'électricité que l'on consomme en France ?
 slug: d-ou-vient-l-electricite-que-l-on-consomme-en-france
 categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
 summary: >
-  En France, l'électricité vient surtout du nucléaire, puis de l'hydraulique, de l'éolien et du
-  solaire. Plus de 95 % de l'électricité produite est décarbonée, et le pays en exporte
-  beaucoup.
+  La France produit surtout son électricité avec le nucléaire, puis l'hydraulique, l'éolien et le
+  solaire. En 2025, plus de 95 % de cette production était décarbonée, et le pays a exporté un
+  record d'électricité.
 tags: [usages-et-consommation]
 sources:
   - title: "Électricité en France"
@@ -15585,6 +15993,10 @@ sources:
   - title: "Bilan électrique 2025, principaux résultats"
     url: "https://analysesetdonnees.rte-france.com/en/annual-review-2025/keyfindings"
     publisher: "RTE, gestionnaire du réseau de transport d'électricité"
+  - title: "Bilan électrique 2025 : principaux résultats"
+    url: "https://assets.rte-france.com/prod/public/2026-02/Bilan-electrique-2025-principaux-resultats.pdf"
+    publisher: "RTE"
+    date: "2026"
 quiz:
   - question: "Quelle filière fournit la plus grande part de l'électricité en France ?"
     options:
@@ -15620,7 +16032,7 @@ quiz:
     explanation: >
       Cet engagement dans le nucléaire date d'un choc pétrolier, qui a poussé la France à
       réduire sa dépendance au pétrole.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -15630,15 +16042,15 @@ En France, l'électricité vient surtout du nucléaire, puis de l'hydraulique, d
 
 ## Un mix dominé par le nucléaire
 
-En 2025, la France métropolitaine a produit 547,5 TWh d'électricité. Le nucléaire a fourni 373,0 TWh, de loin la plus grande part. La production d'électricité française repose depuis longtemps sur le nucléaire, complété par l'hydraulique, le gaz, l'éolien et le solaire. L'hydraulique a produit 62,4 TWh. L'éolien se place derrière le nucléaire et l'hydraulique, et devant le solaire. Le solaire a produit 32,9 TWh, en forte hausse. Les centrales à gaz, au fioul et au charbon n'ont fourni qu'une petite part de la production.
+En 2025, la France métropolitaine a produit 547,5 TWh d'électricité. Le nucléaire a fourni 373,0 TWh, de loin la plus grande part. La production d'électricité française repose depuis longtemps sur le nucléaire, complété par l'hydraulique, le gaz, l'éolien et le solaire. L'hydraulique a produit 62,4 TWh. L'éolien et le solaire ont progressé, et la puissance solaire installée (30,4 GW) a dépassé celle de l'hydraulique (25,7 GW). Les centrales à gaz, au fioul et au charbon n'ont fourni qu'une petite part de la production.
 
 ## Une électricité très peu carbonée
 
-Plus de 95 % de l'électricité produite est décarbonée : elle vient du nucléaire et des énergies renouvelables. Grâce à ce mix, l'électricité française est très peu carbonée, avec une très faible intensité en gaz à effet de serre. Cet engagement dans le nucléaire date d'un choc pétrolier, qui a poussé la France à réduire sa dépendance au pétrole.
+Plus de 95 % de l'électricité produite est décarbonée : elle vient du nucléaire et des énergies renouvelables. Selon RTE, la production bas carbone a atteint 521,1 TWh en 2025, soit 95,2 % du total, un record. Grâce à ce mix, l'électricité française est très peu carbonée : environ 19,6 grammes de CO2 émis par kilowattheure produit. Cet engagement dans le nucléaire date d'un choc pétrolier, qui a poussé la France à réduire sa dépendance au pétrole.
 
 ## Un grand exportateur
 
-La France a exporté 92,3 TWh de plus qu'elle n'en a importé, un record. La France est le premier exportateur net d'électricité au monde.
+La France a exporté 92,3 TWh de plus qu'elle n'en a importé, un record. La France est le premier exportateur net d'électricité au monde. Ces ventes nettes ont rapporté environ 5,4 milliards d'euros.
 
 ```schema
 type: barres
@@ -15654,14 +16066,21 @@ valeurs:
     valeur: 32.9
 ```
 
+## Produire n'est pas consommer
+
+La consommation française reste bien inférieure à la production : environ 451 TWh en 2025 une fois corrigée de la météo et du calendrier, à peu près stable par rapport à 2024. La différence part à l'exportation. La demande est aussi très variable : la pointe de l'année a atteint 88 gigawatts, le niveau le plus haut depuis 2021.
+
+## Quand l'électricité est en excès
+
+Une production abondante a un effet visible sur les prix. En 2025, le prix de gros moyen a été d'environ 61 euros le mégawattheure. Le marché a compté 513 heures de prix négatifs, contre 352 en 2024 : à ces moments, l'offre dépasse tellement la demande que les producteurs paient pour injecter leur électricité.
+
 ## À retenir
 
 - Le nucléaire a fourni 373,0 TWh, de loin la plus grande part.
 - L'hydraulique a produit 62,4 TWh.
-- Le solaire a produit 32,9 TWh, en forte hausse.
+- La puissance solaire installée a dépassé celle de l'hydraulique.
 - Plus de 95 % de l'électricité produite en France est décarbonée, issue du nucléaire et des renouvelables.
 - La France a exporté 92,3 TWh de plus qu'elle n'en a importé, un record.
-
 ---
 type: article
 title: La fusion nucléaire, où en sont les réacteurs expérimentaux
@@ -15820,6 +16239,9 @@ sources:
   - title: "Grid energy storage"
     url: "https://en.wikipedia.org/wiki/Grid_energy_storage"
     publisher: "Wikipedia"
+  - title: "Rapport CAES"
+    url: "https://www.ineris.fr/sites/default/files/contribution/Documents/rapport-caes-v7-unique-1453211310.pdf"
+    publisher: "INERIS"
 quiz:
   - question: "Que fait-on avec l'électricité en excès dans ce système ?"
     options:
@@ -15936,6 +16358,9 @@ sources:
   - title: "Grid energy storage"
     url: "https://en.wikipedia.org/wiki/Grid_energy_storage"
     publisher: "Wikipedia"
+  - title: "World's biggest battery grows and gains new powers"
+    url: "https://arena.gov.au/blog/worlds-biggest-battery-grows-and-gains-new-powers"
+    publisher: "ARENA (Australian Renewable Energy Agency)"
 quiz:
   - question: "En combien de temps une méga-batterie peut-elle passer à pleine puissance ?"
     options:
@@ -16043,6 +16468,12 @@ sources:
   - title: "Grid energy storage"
     url: "https://en.wikipedia.org/wiki/Grid_energy_storage"
     publisher: "Wikipedia"
+  - title: "Batteries Red-ox flow : rapport"
+    url: "https://www.ineris.fr/sites/default/files/contribution/Documents/206958_Batteries%20Red-ox%20flow%20RAPPORT%20v1.pdf"
+    publisher: "INERIS"
+  - title: "New low-cost flow battery could sustain a future powered by renewable energy"
+    url: "https://www.cordis.europa.eu/article/id/421878-new-low-cost-flow-battery-could-sustain-a-future-powered-by-renewable-energy/fr"
+    publisher: "CORDIS (Commission européenne)"
 quiz:
   - question: "Où l'énergie est-elle stockée dans une batterie à flux ?"
     options:
@@ -16174,6 +16605,13 @@ quiz:
     explanation: >
       Les stations de transfert d'énergie par pompage remontent de l'eau dans un réservoir
       élevé quand l'électricité abonde et la turbinent plus tard.
+  - question: "Pourquoi faut-il un onduleur entre des panneaux solaires et les appareils d'une maison ?"
+    options:
+      - "Parce que les panneaux produisent une tension trop élevée pour le réseau"
+      - "Parce que l'onduleur stocke l'électricité pour la nuit"
+      - "Parce que les panneaux donnent du courant continu alors que la maison utilise du courant alternatif à 230 volts"
+    answer: 3
+    explanation: "Un panneau donne du courant continu, alors que la maison et le réseau fonctionnent en courant alternatif : l'onduleur fait la conversion."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -16323,6 +16761,13 @@ sources:
   - title: "Centrale géothermique de Larderello"
     url: "https://en.wikipedia.org/wiki/Larderello"
     publisher: "Wikipedia"
+  - title: "Potentiels de la géothermie pour la transition énergétique"
+    url: "https://academie-technologies.fr/wp-content/uploads/2024/06/potentiels_geothermie_transition_energetique_ST24_06_28022024.pdf"
+    publisher: "Académie des technologies"
+    date: "2024"
+  - title: "20 geothermie"
+    url: "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/20_geothermie.pdf"
+    publisher: "MRAe (ministère de la Transition écologique)"
 quiz:
   - question: "De combien la température augmente-t-elle en moyenne quand on descend de 100 mètres sous terre ?"
     options:
@@ -16351,6 +16796,13 @@ quiz:
     explanation: >
       En 1904, la vapeur naturelle de Larderello, en Toscane, alimente une dynamo qui allume
       quelques ampoules. Une centrale y fonctionne toujours.
+  - question: "Pourquoi une pompe à chaleur géothermique est-elle plus performante en hiver qu'une pompe à chaleur sur l'air ?"
+    options:
+      - "Parce que le sol est plus chaud que l'air froid"
+      - "Parce qu'elle consomme moins d'électricité que toute autre machine"
+      - "Parce qu'elle puise sa chaleur directement dans la vapeur volcanique"
+    answer: 1
+    explanation: "À quelques mètres de profondeur, le sol garde une température presque constante, plus élevée que celle de l'air en hiver."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -16499,6 +16951,13 @@ quiz:
     explanation: >
       La puissance est le produit de la tension par le courant. Monter la tension réduit le
       courant, donc l'échauffement et la section des câbles.
+  - question: "Pourquoi prévoit-on un appoint plutôt que de surdimensionner panneaux et batteries ?"
+    options:
+      - "Parce que les batteries ne supportent pas de grandes capacités"
+      - "Parce que cela coûte moins cher de couvrir les semaines grises avec un appoint"
+      - "Parce que les panneaux produisent plus en hiver qu'en été"
+    answer: 2
+    explanation: "En hiver la production est plusieurs fois plus faible : un groupe électrogène, une éolienne ou une microcentrale pour les semaines grises coûte moins cher que de tout surdimensionner."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -16652,6 +17111,13 @@ quiz:
     explanation: >
       Fientes d'oiseaux, poussières et dépôts du toit peuvent la contaminer. La boire suppose une
       filtration et une désinfection, et des analyses régulières.
+  - question: "Pourquoi une maison autonome en énergie et en eau n'est-elle pas totalement indépendante ?"
+    options:
+      - "Parce qu'elle doit toujours rester raccordée au réseau électrique"
+      - "Parce que l'eau de pluie ne peut jamais être utilisée sans traitement"
+      - "Parce qu'elle dépend encore des routes, des pièces de rechange et des soins"
+    answer: 3
+    explanation: "Une maison peut produire son énergie et son eau tout en restant dépendante de l'extérieur pour les routes, les pièces de rechange et les soins."
 lastVerified: 2026-11-07
 status: published
 ---

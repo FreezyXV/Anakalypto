@@ -248,6 +248,20 @@ quiz:
     explanation: >
       Baisser la température de combustion réduit les oxydes d'azote mais favorise les
       particules, et inversement. Il faut donc deux dispositifs de traitement distincts.
+  - question: "Pourquoi le Diesel a-t-il été encouragé dans les années 1990 et 2000 ?"
+    options:
+      - "Il polluait moins l'air des villes que l'essence"
+      - "Ses oxydes d'azote étaient jugés sans danger"
+      - "Le critère retenu était le CO2 par kilomètre, sur lequel il l'emportait"
+    answer: 3
+    explanation: "L'urgence affichée était le climat et le critère le CO2 au kilomètre : le Diesel, plus économe, gagnait, et la fiscalité l'a favorisé."
+  - question: "Dans quels usages le Diesel reste-t-il pertinent aujourd'hui ?"
+    options:
+      - "Là où le rendement prime et où le poids compte moins : camions, tracteurs, navires"
+      - "Dans les petites voitures de ville, où ses émissions sont les plus faibles"
+      - "Partout, car aucun polluant ne lui est plus reproché"
+    answer: 1
+    explanation: "Le Diesel garde son intérêt pour les camions, engins et navires, où aucune alternative n'est prête à le remplacer à grande échelle."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -367,6 +381,20 @@ quiz:
     explanation: >
       Dans une voiture classique, freiner transforme l'énergie en chaleur perdue. Ici, une
       partie revient dans la batterie, ce qui explique l'efficacité particulière en ville.
+  - question: "Pourquoi le bilan climatique d'une voiture électrique dépend-il du mix électrique ?"
+    options:
+      - "La batterie se recharge d'autant plus vite que l'électricité est propre"
+      - "Rechargée avec de l'électricité issue du charbon, elle perd une grande partie de son avantage"
+      - "Son moteur émet davantage à l'arrêt quand le mix est décarboné"
+    answer: 2
+    explanation: "La voiture n'émet rien en roulant, mais le climat dépend de la production de l'électricité : charbon, avantage fortement réduit ; mix décarboné, avantage net."
+  - question: "Pourquoi une voiture électrique est-elle généralement plus lourde qu'une thermique équivalente ?"
+    options:
+      - "Son moteur électrique est plus gros qu'un moteur thermique"
+      - "Elle a besoin d'une boîte à plusieurs rapports"
+      - "Il faut une grosse batterie, car le lithium-ion stocke peu d'énergie par kilogramme"
+    answer: 3
+    explanation: "Une batterie lithium-ion stocke bien moins d'énergie par kilogramme que l'essence : il en faut beaucoup, ce qui alourdit la voiture."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -476,6 +504,20 @@ quiz:
     explanation: >
       Les trajets quotidiens se comptent en dizaines de kilomètres. Une prise domestique
       suffit largement pendant la nuit. La recharge rapide ne sert que pour les longs trajets.
+  - question: "Pourquoi la recharge lente à domicile suffit-elle à la plupart des conducteurs ?"
+    options:
+      - "La voiture dort la nuit et les trajets quotidiens ne dépassent pas quelques dizaines de kilomètres"
+      - "Elle délivre la même puissance qu'une borne rapide"
+      - "Elle évite tout raccordement au réseau électrique"
+    answer: 1
+    explanation: "Une nuit entière suffit à couvrir les trajets du quotidien, et la durée de la recharge n'a aucune importance puisque la voiture est à l'arrêt."
+  - question: "Pourquoi l'habitat collectif sans place attribuée freine-t-il l'adoption de la voiture électrique ?"
+    options:
+      - "Les bornes y sont interdites par la réglementation"
+      - "Les trajets y sont trop longs pour une recharge lente"
+      - "La recharge nocturne y est impossible"
+    answer: 3
+    explanation: "Sans place attribuée, on ne peut pas recharger la nuit : c'est aujourd'hui le principal frein à l'adoption."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -606,6 +648,20 @@ quiz:
       Double peine : la chimie de la batterie est moins efficace à froid, et il faut prélever
       de l'électricité pour chauffer l'habitacle, alors qu'un moteur thermique le faisait
       gratuitement avec sa chaleur perdue.
+  - question: "Pourquoi mesure-t-on l'autonomie selon un cycle d'homologation en laboratoire ?"
+    options:
+      - "Pour prédire fidèlement la consommation de chaque conducteur"
+      - "Pour tester la voiture dans les pires conditions possibles"
+      - "Pour comparer les modèles entre eux dans des conditions identiques"
+    answer: 3
+    explanation: "Sur route, chaque essai donnerait un résultat différent. Le cycle impose des conditions identiques pour comparer, sans prétendre prédire un trajet particulier."
+  - question: "Qu'apporte une pompe à chaleur par rapport à une résistance électrique pour chauffer l'habitacle ?"
+    options:
+      - "Elle déplace de la chaleur plutôt que d'en produire, et consomme environ trois fois moins"
+      - "Elle récupère la chaleur perdue du moteur électrique"
+      - "Elle chauffe la batterie sans consommer d'électricité"
+    answer: 1
+    explanation: "La pompe à chaleur déplace la chaleur au lieu de la fabriquer, d'où une consommation environ trois fois moindre. Un moteur électrique ne perd presque rien à récupérer."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -719,6 +775,20 @@ quiz:
     explanation: >
       C'est en ville que le thermique est le plus mauvais et que la récupération au freinage
       rapporte le plus. Sur autoroute, l'avantage s'efface presque entièrement.
+  - question: "Quel est le rôle du moteur thermique dans un hybride série ?"
+    options:
+      - "Il entraîne directement les roues en alternance avec le moteur électrique"
+      - "Il répartit l'énergie entre deux voies grâce à un train d'engrenages"
+      - "Il fait tourner une génératrice et n'entraîne jamais les roues"
+    answer: 3
+    explanation: "Dans l'hybride série, le thermique alimente une génératrice et le moteur électrique seul entraîne les roues, ce qui permet au thermique de tourner à régime constant."
+  - question: "Pourquoi un hybride rechargeable jamais rechargé consomme-t-il plus qu'une thermique équivalente ?"
+    options:
+      - "Son moteur thermique est moins efficace"
+      - "Il transporte une grosse batterie inutile, donc du poids mort"
+      - "Son moteur électrique tourne à vide en permanence"
+    answer: 2
+    explanation: "Sans recharge, la grosse batterie n'apporte rien mais alourdit la voiture, ce qui fait grimper la consommation."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -842,6 +912,20 @@ quiz:
       Électricité vers hydrogène, hydrogène plus CO2 vers carburant, puis carburant vers
       mouvement dans un moteur à 30 % de rendement. Au total, il faut plusieurs fois plus
       d'électricité que pour alimenter directement une voiture électrique.
+  - question: "Pourquoi les biocarburants de deuxième génération sont-ils peu déployés ?"
+    options:
+      - "La lignine des résidus est très difficile à décomposer et les procédés restent coûteux"
+      - "Ils concurrencent les cultures alimentaires comme ceux de première génération"
+      - "Ils exigent de changer les voitures et les stations-service"
+    answer: 1
+    explanation: "Les résidus ne concurrencent pas l'alimentation, mais la lignine pose un problème technique : les procédés existent, coûteux et peu déployés."
+  - question: "Dans quelle condition le bilan d'un carburant de synthèse peut-il être neutre ?"
+    options:
+      - "Si le carburant est brûlé dans un moteur récent"
+      - "Si le CO2 est capté dans des cultures spécialement plantées"
+      - "Si l'électricité utilisée pour le produire est décarbonée"
+    answer: 3
+    explanation: "Le carbone rejeté est celui qui a été capté, donc le bilan peut être neutre à condition que l'électricité servant à produire l'hydrogène soit décarbonée."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -961,6 +1045,20 @@ quiz:
     explanation: >
       La caméra voit mal dans l'obscurité et un piéton est difficile à distinguer. C'est
       précisément là que les accidents mortels de piétons sont les plus fréquents.
+  - question: "Pourquoi une confiance excessive du conducteur réduit-elle le bénéfice des aides à la conduite ?"
+    options:
+      - "Les systèmes se désactivent quand le conducteur lâche le volant"
+      - "Les aides ne fonctionnent que si le conducteur freine aussi"
+      - "Elles rattrapent une erreur sans remplacer la conduite, et le conducteur relâche son attention"
+    answer: 3
+    explanation: "Ces aides ne sont pas conçues pour conduire : un conducteur qui compte sur elles et surveille moins annule une partie de leur bénéfice."
+  - question: "Comment mesure-t-on l'effet réel de ces aides sur la sécurité ?"
+    options:
+      - "En comparant les accidents de véhicules équipés et non équipés"
+      - "En les testant uniquement sur piste avec des mannequins"
+      - "En interrogeant les conducteurs sur les accidents qu'ils pensent avoir évités"
+    answer: 1
+    explanation: "Des organismes indépendants comparent les accidents des véhicules équipés et de ceux qui ne le sont pas, au lieu de se fier aux annonces."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1082,6 +1180,20 @@ quiz:
     explanation: >
       C'est pourquoi les constructeurs règlent ces systèmes avec beaucoup de prudence : rater
       un danger est grave, mais freiner sans raison à 130 km/h l'est aussi.
+  - question: "Pourquoi le freinage automatique est-il utile même quand le choc est inévitable ?"
+    options:
+      - "Il immobilise toujours la voiture avant l'impact"
+      - "Il déclenche automatiquement l'appel des secours"
+      - "La gravité des blessures varie à peu près comme le carré de la vitesse d'impact"
+    answer: 3
+    explanation: "Réduire la vitesse avant le choc diminue fortement l'énergie à absorber : passer de 50 à 30 km/h la divise par près de trois."
+  - question: "Pourquoi un assistant amplifie-t-il la pression du conducteur qui freine mais pas assez fort ?"
+    options:
+      - "Les freins mécaniques sont trop lents à réagir sans aide"
+      - "Beaucoup de conducteurs n'appuient pas à fond, même en urgence"
+      - "Le radar exige une pression minimale pour valider le danger"
+    answer: 2
+    explanation: "C'est un cas très fréquent : beaucoup de conducteurs n'appuient pas à fond sur la pédale, même face à une urgence."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1198,6 +1310,20 @@ quiz:
       C'est la distinction importante : les kilomètres parcourus avec un opérateur de sécurité
       à bord ne comptent pas de la même façon que ceux réalisés véritablement sans personne au
       volant.
+  - question: "Pourquoi faut-il des distances énormes pour comparer la sécurité des robotaxis à celle des humains ?"
+    options:
+      - "Les accidents graves restent rares, donc il faut beaucoup de kilomètres pour conclure statistiquement"
+      - "Les accidents des robotaxis sont tous attribués aux conducteurs humains"
+      - "Les bilans de sécurité ne sont jamais publiés"
+    answer: 1
+    explanation: "Les accidents graves étant rares, il faut accumuler d'énormes distances avant de pouvoir tirer une conclusion statistique."
+  - question: "Que doit faire un système autonome face à une situation qu'il n'a pas prévue ?"
+    options:
+      - "Improviser comme le ferait un conducteur humain"
+      - "Passer immédiatement la main à un passager"
+      - "Reconnaître qu'il ne sait pas et s'arrêter en sécurité, quitte à bloquer parfois la circulation"
+    answer: 3
+    explanation: "Un humain improvise ; un système doit avoir prévu le cas ou savoir qu'il ne sait pas, puis s'arrêter en sécurité, ce qui peut bloquer la circulation."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1310,6 +1436,20 @@ quiz:
     explanation: >
       Reconstruire une compréhension complète de la situation après avoir lu ou regardé un écran
       prend du temps, et ce temps varie beaucoup d'une personne à l'autre.
+  - question: "Pourquoi un système de niveau 4 limité à quelques quartiers est-il plus automatisé qu'un niveau 2 valable partout ?"
+    options:
+      - "Il fonctionne à plus grande vitesse"
+      - "Il n'utilise aucun capteur"
+      - "Il sait se mettre en sécurité seul, sans que le conducteur ait à reprendre la main"
+    answer: 3
+    explanation: "Au niveau 4, le véhicule conduit et se met en sécurité dans son domaine d'emploi, alors qu'au niveau 2 le conducteur doit surveiller en permanence. Le domaine compte plus que le numéro."
+  - question: "Pourquoi les industriels sont-ils prudents à revendiquer le niveau 3 ?"
+    options:
+      - "La responsabilité juridique passe au constructeur pendant le fonctionnement du système"
+      - "Le conducteur doit surveiller la route en permanence"
+      - "La technologie est trop chère pour être proposée aux particuliers"
+    answer: 1
+    explanation: "À partir du niveau 3, le système conduit : c'est le constructeur qui répond en cas de problème pendant son fonctionnement."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1434,6 +1574,20 @@ quiz:
     explanation: >
       Le coussin se déploie à très grande vitesse. Il est conçu pour rencontrer un corps déjà
       retenu par la ceinture. Un occupant non attaché le percute de plein fouet.
+  - question: "Que fait le limiteur d'effort d'une ceinture ?"
+    options:
+      - "Il supprime le mou de la sangle dès la détection du choc"
+      - "Au-delà d'une certaine force, il laisse filer quelques centimètres de sangle pour éviter de casser des côtes"
+      - "Il bloque totalement la sangle pour empêcher tout mouvement"
+    answer: 2
+    explanation: "Après le prétensionneur qui tend la sangle, le limiteur cède un peu pour ne pas blesser le thorax."
+  - question: "Pourquoi les voitures anciennes, très rigides, étaient-elles plus dangereuses pour leurs occupants ?"
+    options:
+      - "Leur habitacle s'écrasait dans les chocs"
+      - "Elles n'avaient pas de ceinture du tout"
+      - "Elles transmettaient presque intégralement la décélération aux occupants"
+    answer: 3
+    explanation: "Sans zones déformables, l'arrêt était très brutal : la voiture résistait mieux, mais ses occupants subissaient toute la décélération."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1555,6 +1709,20 @@ quiz:
     explanation: >
       Plus de 31 millions de véhicules produits en 2024. Avec les États-Unis et le Japon, ces
       trois pays représentent environ 54 % de la production mondiale.
+  - question: "Pourquoi la production automobile est-elle concentrée dans quelques pays ?"
+    options:
+      - "Taille des marchés intérieurs, savoir-faire accumulé et présence de fournisseurs près des usines"
+      - "Les droits de douane interdisent d'exporter des véhicules"
+      - "Les matières premières ne se trouvent que dans ces pays"
+    answer: 1
+    explanation: "Marchés intérieurs importants, décennies de savoir-faire et fournisseurs proches des usines d'assemblage expliquent cette concentration."
+  - question: "Pourquoi une seule pièce manquante peut-elle arrêter toute une chaîne d'assemblage ?"
+    options:
+      - "Le constructeur fabrique lui-même la plupart des pièces"
+      - "Les voitures sont assemblées sans standardisation"
+      - "Les stocks sont réduits au minimum et les sous-ensembles arrivent de fournisseurs, parfois dans l'ordre de la chaîne"
+    answer: 3
+    explanation: "Cette organisation très optimisée réduit les coûts, mais comme les stocks sont minimaux, un seul composant manquant bloque tout."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1662,6 +1830,20 @@ quiz:
     explanation: >
       C'est l'envers de l'économie d'échelle : le même composant équipant des millions de
       véhicules, un problème concerne d'un coup des millions de voitures.
+  - question: "Qu'apportent les architectures modulaires introduites dans les années 2010 ?"
+    options:
+      - "Elles imposent le même empattement à tous les modèles d'une marque"
+      - "Certaines dimensions deviennent réglables tandis que les interfaces restent normalisées"
+      - "Elles dispensent de refaire des essais de sécurité sur chaque modèle"
+    answer: 2
+    explanation: "Une même base peut ainsi servir une petite compacte comme un grand véhicule familial, grâce à des dimensions réglables et des interfaces normalisées."
+  - question: "Pourquoi adapter une plateforme thermique à l'électrique donne-t-il un compromis médiocre ?"
+    options:
+      - "Elle suppose compartiment moteur, tunnel et réservoir, alors que l'électrique veut un plancher plat pour la batterie"
+      - "Elle est trop légère pour supporter une batterie"
+      - "Elle ne permet pas de monter des roues assez grandes"
+    answer: 1
+    explanation: "La voiture électrique demande un plancher plat et épais, sans tunnel ni gros compartiment moteur : l'inverse d'une plateforme thermique."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1778,6 +1960,20 @@ quiz:
     explanation: >
       Les écarts entre pays s'expliquent avant tout par les politiques publiques et par la
       disponibilité des bornes, plus que par les préférences des acheteurs.
+  - question: "Pourquoi l'électrique est-il plus difficile à développer dans les marchés émergents ?"
+    options:
+      - "Les constructeurs locaux y sont peu compétitifs"
+      - "Les voitures y sont trop grosses pour les batteries"
+      - "Le réseau électrique y est parfois moins fiable et l'habitat collectif sans stationnement y domine"
+    answer: 3
+    explanation: "Réseau moins fiable, absence de place de stationnement et pouvoir d'achat limité rendent la question des motorisations différente de celle des pays riches."
+  - question: "Qu'est-ce qui distingue le marché nord-américain ?"
+    options:
+      - "Des véhicules plus compacts qu'en Europe"
+      - "Une part de pick-up et de grands SUV sans équivalent, avec un carburant historiquement moins taxé"
+      - "Une fiscalité qui pèse fortement sur la consommation"
+    answer: 2
+    explanation: "L'Amérique du Nord achète des véhicules nettement plus gros et plus lourds, et le carburant y est historiquement moins taxé."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1886,6 +2082,20 @@ quiz:
     explanation: >
       Une part importante de la valeur disparaît dès la première année, puis le rythme ralentit.
       Acheter une voiture de deux ou trois ans évite cette phase.
+  - question: "Pourquoi acheter un véhicule de deux ou trois ans est-il souvent un bon compromis ?"
+    options:
+      - "La décote est la plus forte à partir de la troisième année"
+      - "L'essentiel de la décote est déjà passé et la voiture est encore récente"
+      - "Les loueurs imposent des prix plus bas à cet âge"
+    answer: 2
+    explanation: "La décote chute brutalement la première année puis ralentit : après deux ou trois ans, le plus gros de la perte de valeur est derrière."
+  - question: "Pourquoi une valeur résiduelle mal estimée est-elle risquée pour un loueur ?"
+    options:
+      - "Ses loyers sont fixés par l'État"
+      - "Ses clients rendent les voitures trop tôt"
+      - "Il calcule ses loyers sur une valeur de revente anticipée et perd de l'argent si elle est fausse"
+    answer: 3
+    explanation: "Les loueurs fixent leurs loyers d'après la valeur résiduelle estimée à l'avance ; si la revente rapporte moins, ils perdent de l'argent."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1999,6 +2209,20 @@ quiz:
     explanation: >
       Ces émissions ne dépendent pas de la motorisation, et l'électrification ne les supprime
       pas. Le poids plus élevé des voitures électriques peut même les aggraver.
+  - question: "Pourquoi a-t-on introduit des essais en conduite réelle ?"
+    options:
+      - "Les cycles de laboratoire étaient jugés trop sévères pour les constructeurs"
+      - "Des écarts considérables existaient entre le cycle de laboratoire et les émissions réelles sur route"
+      - "Les normes Euro devaient désormais porter sur le CO2"
+    answer: 2
+    explanation: "Le cycle de laboratoire peu réaliste, et même des dispositifs reconnaissant le cycle d'essai, ont conduit à des essais sur route avec analyseur embarqué."
+  - question: "Pourquoi juge-t-on les normes Euro efficaces malgré les critiques ?"
+    options:
+      - "Une voiture récente émet une fraction infime des polluants d'une voiture des années 1980"
+      - "Elles ont fait baisser le CO2 des voitures dans les mêmes proportions"
+      - "Elles ont supprimé dès le départ l'écart entre laboratoire et route"
+    answer: 1
+    explanation: "Malgré les problèmes de mesure, les seuils ont été divisés par environ dix et une voiture récente émet très peu de polluants par rapport aux années 1980."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2107,6 +2331,20 @@ quiz:
     explanation: >
       S'il remplace des trajets en voiture individuelle, le gain est net. S'il détourne des
       usagers du bus, du vélo ou de la marche, le bilan peut devenir négatif.
+  - question: "Pourquoi le covoiturage peine-t-il sur les trajets domicile-travail ?"
+    options:
+      - "La distance est trop longue pour partager les frais"
+      - "Les plateformes n'y proposent aucun service"
+      - "Les horaires sont rigides, un imprévu bloque le retour et l'économie perçue est faible"
+    answer: 3
+    explanation: "Malgré un fort gisement, les contraintes d'horaires, le risque de rester bloqué au retour et le faible gain sur courte distance freinent la pratique."
+  - question: "Quelle différence y a-t-il entre l'autopartage et le covoiturage ?"
+    options:
+      - "L'autopartage exploite le temps d'immobilisation du véhicule, le covoiturage les places vides d'un trajet déjà prévu"
+      - "L'autopartage sert surtout sur longue distance, le covoiturage en ville"
+      - "L'autopartage fait partager les frais d'un trajet, le covoiturage un véhicule en libre-service"
+    answer: 1
+    explanation: "L'autopartage s'attaque au temps passé à l'arrêt en faisant servir un véhicule à plusieurs personnes ; le covoiturage remplit les places libres d'un trajet existant."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2217,6 +2455,20 @@ quiz:
     explanation: >
       Une batterie qui n'a plus assez de capacité pour une voiture reste très utile en usage
       fixe, où le poids et le volume n'ont pas d'importance.
+  - question: "Quels paramètres décident du point d'équilibre entre voiture électrique et thermique ?"
+    options:
+      - "Le prix du carburant, l'âge de la voiture et sa marque"
+      - "La taille de la batterie, le mix électrique et la consommation de la thermique comparée"
+      - "Le poids du coffre, la vitesse moyenne et la pression des pneus"
+    answer: 2
+    explanation: "Plus la batterie est grosse, plus la dette initiale est lourde ; le mix électrique et la consommation de la thermique de comparaison jouent aussi."
+  - question: "Pourquoi une très grosse batterie pour une voiture qui roule peu est-elle un mauvais calcul environnemental ?"
+    options:
+      - "La batterie s'use plus vite quand on roule peu"
+      - "Elle fait augmenter la consommation d'électricité à l'usage"
+      - "La dette initiale est lourde et ne se rembourse qu'en roulant beaucoup"
+    answer: 3
+    explanation: "La fabrication de la batterie pèse lourd dans le bilan ; avec peu de kilomètres, la voiture ne rembourse pas cette dette de départ."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2296,15 +2548,105 @@ title: Comment fonctionne une boîte de vitesses
 slug: fonctionnement-boite-de-vitesses
 categoryPath: automobile/motorisations/thermique
 summary: >
-  Le moteur tourne dans une plage de régime limitée. La boîte de vitesses lui permet de démarrer,
-  accélérer et rouler vite sans sortir de cette zone.
+  Un moteur thermique n'est efficace que dans une plage de régime étroite. La boîte de vitesses
+  multiplie ou démultiplie sa rotation pour que la voiture démarre, grimpe et roule vite sans
+  qu'il sorte de cette zone.
 tags: [automobile, transmission, boite-de-vitesses, mecanique, rendement]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [motorisations-hybrides-architectures]
+sources:
+  - title: "Tout sur les boîtes de vitesses"
+    url: "https://www.tcs.ch/mam/Digital-Media/PDF/Booklets/Tout-sur-les-bo-tes-vitesses.pdf"
+    publisher: "Touring Club Suisse"
+    date: "2014"
+  - title: "Conduite économe : rapports et régime moteur (publication de l'Office fédéral de l'énergie)"
+    url: "https://pubdb.bfe.admin.ch/fr/publication/download/3903"
+    publisher: "Office fédéral de l'énergie (Suisse)"
+quiz:
+  - question: "Quel rapport multiplie le couple aux roues ?"
+    options:
+      - "Un rapport long"
+      - "Un rapport court"
+      - "Aucun : le couple ne change jamais"
+    answer: 2
+    explanation: "Un rapport court démultiplie la rotation et augmente le couple, au prix d'un régime moteur élevé."
+  - question: "Que permet la boîte à double embrayage ?"
+    options:
+      - "Changer de rapport sans interrompre la force de traction"
+      - "Supprimer tous les rapports"
+      - "Faire fonctionner le moteur à l'arrêt"
+    answer: 1
+    explanation: "Un embrayage gère les rapports pairs, l'autre les impairs : le rapport suivant est déjà prêt."
+  - question: "Que se passe-t-il quand on lève le pied au-dessus de 1 500 tours par minute ?"
+    options:
+      - "Le moteur consomme davantage"
+      - "La consommation reste identique"
+      - "L'alimentation en carburant est coupée"
+    answer: 3
+    explanation: "L'alimentation est coupée à partir de 1 500 tours par minute : la consommation tombe à zéro."
+  - question: "Pourquoi beaucoup de voitures électriques n'ont-elles qu'un rapport ?"
+    options:
+      - "Leur moteur fournit un couple élevé sur une large plage de régime"
+      - "Elles ne roulent jamais vite"
+      - "Leur batterie remplace la boîte"
+    answer: 1
+    explanation: "Leur moteur est utilisable sur une large plage de régime, donc une démultiplication unique suffit souvent."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un moteur thermique ne donne de bons résultats que dans une plage de régime limitée. La boîte de vitesses sert d'intermédiaire entre lui et les roues : elle modifie le rapport entre la vitesse de rotation du moteur et celle des roues. Grâce à elle, la voiture peut démarrer, grimper une pente puis rouler vite sans que le moteur quitte sa zone utile.
+
+## Le principe du rapport
+
+Deux roues dentées de tailles différentes qui s'engrènent forment un rapport. Quand la petite roue entraîne la grande, la rotation ralentit mais la force de torsion, appelée couple, augmente. C'est un rapport court. Quand la grande entraîne la petite, la rotation s'accélère et le couple diminue : c'est un rapport long.
+
+Au démarrage, la voiture est lourde et immobile. Il faut beaucoup de couple aux roues, donc un rapport court, quitte à faire tourner le moteur vite. À vitesse stabilisée, la résistance à vaincre est plus faible. Un rapport long permet alors au moteur de tourner lentement, ce qui limite la consommation et le bruit.
+
+## Manuelle, robotisée, automatique
+
+Dans une boîte manuelle, le conducteur choisit le rapport et utilise l'embrayage, qui coupe un instant la liaison entre le moteur et la boîte. La boîte robotisée reste une boîte manuelle, mais son embrayage et ses changements de rapport sont pilotés par l'électronique : il n'y a plus de pédale d'embrayage.
+
+La boîte automatique classique remplace l'embrayage par un convertisseur hydraulique et sélectionne les rapports grâce à des trains épicycloïdaux. La boîte à double embrayage utilise deux embrayages, l'un pour les rapports pairs et l'autre pour les rapports impairs. Le rapport suivant est donc déjà prêt, et la force de traction n'est pas interrompue pendant le passage. La boîte à variation continue, elle, propose en théorie une infinité de rapports : la première est apparue en 1959 avec la DAF Variomatic.
+
+## Toujours plus de rapports
+
+Selon un guide du Touring Club Suisse de 2014, les boîtes manuelles comptent 5 ou 6 rapports depuis les années 1990, avec une exception à 7 rapports. Les boîtes automatiques en offrent jusqu'à 9, contre 5 auparavant. Multiplier les rapports permet de garder le moteur plus près de sa plage d'efficacité.
+
+Les automatiques ont aussi gagné du terrain. En Suisse, leur part dans les voitures immatriculées (automatiques et robotisées) est passée de 19 % en 1990 à 26 % en 2000, puis à environ 45 % en 2014. Les boîtes manuelles restent généralement un peu plus économes, d'après le même guide, sauf pour une boîte robotisée utilisée en mode automatique.
+
+## Bien utiliser sa boîte
+
+L'Office fédéral de l'énergie suisse recommande de rouler sur le rapport le plus élevé possible, à bas régime, de monter les rapports rapidement et de rétrograder le plus tard possible. Le Touring Club Suisse conseille de passer au rapport supérieur à 2 500 tours par minute au plus.
+
+Un autre point surprend : quand le pied quitte l'accélérateur et que le moteur tourne à plus de 1 500 tours par minute, l'alimentation en carburant est coupée. La consommation tombe alors à zéro. En descente, il vaut donc mieux choisir un rapport qui retient la voiture, plutôt que de freiner longtemps.
+
+## Et la voiture électrique ?
+
+Beaucoup de voitures électriques n'ont qu'un seul rapport. Leur moteur fournit un couple élevé sur une large plage de régime, ce qui rend inutile la multiplication des rapports. C'est une limite du moteur thermique, pas de la mécanique en général.
+
+## À retenir
+
+- Un rapport court multiplie le couple aux roues, au prix d'un régime moteur élevé.
+- Un rapport long fait tourner le moteur plus lentement et réduit la consommation sur route.
+- Les boîtes manuelle, robotisée, automatique, à double embrayage et à variation continue diffèrent par la façon de changer de rapport.
+- Lever le pied à plus de 1 500 tours par minute coupe l'arrivée de carburant.
+- Une voiture électrique se contente souvent d'un seul rapport.
+
+```schema
+type: comparaison
+titre: Rapports courts ou longs
+colonnes:
+  - titre: Rapports courts
+    points:
+      - Privilégient le couple
+      - Pour démarrer et monter
+  - titre: Rapports longs
+    points:
+      - Réduisent le régime et le bruit
+      - Pour rouler vite et économiser
+```
 
 ---
 
@@ -2314,15 +2656,103 @@ title: Pourquoi les pneus sont l'unique contact avec la route
 slug: pneus-contact-route-adherence
 categoryPath: automobile/securite-et-conduite
 summary: >
-  Quatre petites zones de caoutchouc transmettent freinage, direction et accélération. Leur état
-  influence directement l'adhérence et la distance d'arrêt.
+  Chaque pneu touche la route sur une surface comparable à une carte postale. C'est là que se
+  jouent freinage, direction et accélération : pression, usure et type de gomme changent
+  directement la distance d'arrêt.
 tags: [automobile, pneus, adherence, freinage, securite]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [ceinture-airbag-et-structures-deformables, technologies-aide-conduite-efficacite]
+sources:
+  - title: "Brochure pneus d'été 2025"
+    url: "https://www.tcs.ch/mam/Digital-Media/PDF/Booklets/brochure-pneus-d-039-ete-2025.pdf"
+    publisher: "Touring Club Suisse"
+    date: "2025"
+  - title: "État des pneus"
+    url: "https://www.alpes-de-haute-provence.gouv.fr/content/download/25301/144413/file/Etat%20des%20pneus.pdf"
+    publisher: "Préfecture des Alpes-de-Haute-Provence"
+quiz:
+  - question: "À quelle surface la zone de contact d'un pneu est-elle comparée ?"
+    options:
+      - "Une feuille A4"
+      - "Une carte postale"
+      - "Un ballon de football"
+    answer: 2
+    explanation: "Le Touring Club Suisse compare la zone de contact de chaque pneu à une carte postale."
+  - question: "Où trouver la pression de gonflage recommandée ?"
+    options:
+      - "Sur le flanc du pneu"
+      - "Dans le livret technique, sous la trappe à carburant ou sur la portière"
+      - "Sur le tableau de bord uniquement après un trajet"
+    answer: 2
+    explanation: "La valeur du constructeur figure dans le livret, la trappe ou la tranche de la portière avant."
+  - question: "Que provoque un sous-gonflage des quatre pneus de 0,5 bar ?"
+    options:
+      - "Une consommation réduite"
+      - "Aucune différence notable"
+      - "Un danger d'aquaplaning multiplié par deux"
+    answer: 3
+    explanation: "Selon le Touring Club Suisse, le danger d'aquaplaning est multiplié par deux, et la consommation augmente."
+  - question: "Que montre le comparatif de freinage à 100 km/h sur sol sec ?"
+    options:
+      - "Les pneus d'hiver roulent encore à 34 km/h quand ceux d'été sont arrêtés"
+      - "Les pneus d'été sont toujours plus lents à s'arrêter"
+      - "Pneus d'été et d'hiver freinent exactement pareil"
+    answer: 1
+    explanation: "Sur sol sec, les pneus d'été s'arrêtent plus vite : l'autre voiture roule encore à 34 km/h."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une voiture ne touche la route que par quatre pneus. Selon le Touring Club Suisse, la zone de contact de chaque pneu est comparable à une carte postale. Sur ces quatre petites surfaces passent tous les efforts : freiner, tourner et accélérer.
+
+## L'adhérence, une ressource à partager
+
+Le caoutchouc du pneu accroche les aspérités de la chaussée. Sur route sèche, il peut transmettre un effort important. L'eau, le froid, la neige, l'usure et une mauvaise pression réduisent cette marge.
+
+L'adhérence disponible est limitée et doit se partager. Si le conducteur freine fort en plein virage, il demande au pneu de transmettre à la fois un effort de freinage et un effort latéral. Dès que la somme dépasse ce que le pneu peut donner, la voiture glisse.
+
+## Ce que changent la gomme et l'âge du pneu
+
+Les distances de freinage dépendent beaucoup du pneu. Un freinage d'urgence à 100 km/h sur sol sec, mesuré par le Touring Club Suisse : quand la voiture équipée de pneus d'été est arrêtée, celle en pneus d'hiver roule encore à 34 km/h.
+
+Entre pneus d'une même catégorie, l'écart est aussi important. Dans le test 2025 du club sur une taille 225/40 R18, il atteint 4,7 m sur sol sec entre le meilleur pneu et le 17e. Sur sol mouillé, de 80 km/h à l'arrêt, l'écart monte à 16,7 m. Les progrès existent : le freinage sur sol mouillé de 100 à 0 km/h, avec un bon pneu, est passé de 80 m en 1973 à 56 m en 2023.
+
+## Pourquoi la pression compte
+
+Un pneu sous-gonflé se déforme davantage, chauffe et fait grimper la consommation. Un sous-gonflage de 0,5 bar, à peine perceptible, a de graves conséquences sur le comportement. Avec les quatre pneus sous-gonflés, le danger d'aquaplaning est multiplié par deux, et la consommation peut augmenter jusqu'à 0,3 litre aux 100 km.
+
+À l'inverse, un pneu trop gonflé réduit la surface de contact avec le sol, donc l'adhérence. La bonne valeur n'est pas écrite sur le flanc du pneu : la préfecture des Alpes-de-Haute-Provence indique de se référer à la valeur du constructeur, dans le livret technique, sous la trappe à carburant ou sur la tranche de la portière avant. Il faut mesurer à froid, au moins une fois par mois et avant un long trajet. À chaud, il faut ajouter environ 0,3 bar à cette valeur.
+
+## L'usure et l'âge
+
+La sculpture évacue l'eau. Le témoin d'usure indique 1,6 mm : c'est le seuil de remplacement. Le Touring Club Suisse recommande de changer plus tôt, à 3 mm pour des pneus d'été et à 4 mm pour des pneus d'hiver. Un pneu neuf compte en général environ 8 mm.
+
+Le caoutchouc vieillit aussi. Les quatre derniers chiffres du code DOT indiquent la semaine et l'année de fabrication, par exemple 0809 pour la 8e semaine de 2009. La préfecture donne une durée de vie moyenne de 5 à 10 ans, avec un contrôle régulier à partir de 5 ans.
+
+## Une idée reçue
+
+Un pneu très sculpté n'est pas toujours le meilleur : sur sol sec, un pneu d'hiver freine moins bien qu'un pneu d'été, comme le montrent les chiffres ci-dessus. L'étiquette européenne, de A à G pour l'adhérence sur sol mouillé et la consommation, aide à choisir. Le Touring Club Suisse précise toutefois que cette étiquette ne reflète pas toujours les valeurs mesurées dans ses propres tests.
+
+## À retenir
+
+- Chaque pneu transmet tous les efforts de la voiture par une zone comparable à une carte postale.
+- L'adhérence est limitée : elle se partage entre freiner, tourner et accélérer.
+- Un sous-gonflage de 0,5 bar double le danger d'aquaplaning et augmente la consommation.
+- La bonne pression se lit dans le livret ou sur la portière, jamais sur le flanc du pneu.
+- Le choix de la gomme, l'usure et l'âge font varier la distance de freinage de plusieurs mètres.
+
+```schema
+type: systeme
+titre: L'adhérence, une ressource à partager
+centre: Adhérence disponible
+parties:
+  - nom: Freiner
+  - nom: Tourner
+  - nom: Accélérer
+  - nom: Pression et usure
+    role: Elles déterminent l'adhérence disponible.
+```
 
 ---
 
@@ -2332,15 +2762,100 @@ title: La suspension et le compromis confort-tenue de route
 slug: suspension-confort-tenue-de-route
 categoryPath: automobile/securite-et-conduite
 summary: >
-  Une suspension doit maintenir les pneus au sol tout en isolant les occupants des irrégularités.
-  Ces deux objectifs se contredisent souvent.
+  Ressorts et amortisseurs isolent les occupants des bosses tout en gardant les pneus collés à la
+  chaussée. Ces deux missions s'opposent : plus on filtre les irrégularités, plus la caisse
+  bouge, et inversement.
 tags: [automobile, suspension, confort, tenue-de-route, chassis]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [pneus-contact-route-adherence, ceinture-airbag-et-structures-deformables]
+sources:
+  - title: "Automobile suspension"
+    url: "https://britannica.com/print/article/1386992"
+    publisher: "Encyclopaedia Britannica"
+  - title: "Suspension MacPherson"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8400463/suspension-macpherson"
+    publisher: "Office québécois de la langue française"
+quiz:
+  - question: "Quel est le rôle de l'amortisseur ?"
+    options:
+      - "Porter le poids de la caisse"
+      - "Dissiper l'énergie stockée par les ressorts"
+      - "Orienter les roues"
+    answer: 2
+    explanation: "L'amortisseur dissipe l'énergie des ressorts pour que la caisse cesse de rebondir."
+  - question: "Que réunit la jambe de force d'une suspension MacPherson ?"
+    options:
+      - "Le ressort et l'amortisseur"
+      - "Le moteur et la boîte"
+      - "Le frein et le pneu"
+    answer: 1
+    explanation: "Le bras vertical télescopique regroupe le ressort et l'amortisseur."
+  - question: "Quel type de ressort Britannica classe-t-il comme stockant le plus d'énergie par unité de poids ?"
+    options:
+      - "Le ressort à lames"
+      - "La barre de torsion"
+      - "Le ressort pneumatique"
+    answer: 3
+    explanation: "Dans le classement cité, le ressort à air arrive en dernier, donc en tête pour l'énergie stockée par poids."
+  - question: "Que provoque généralement un réglage ferme ?"
+    options:
+      - "Plus de mouvements de caisse"
+      - "Moins de mouvements de caisse mais plus de vibrations"
+      - "Un confort supérieur sur mauvaise route"
+    answer: 2
+    explanation: "Un réglage ferme contrôle mieux la voiture, au prix de vibrations transmises aux occupants."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La suspension relie les roues à la caisse. Elle doit absorber les bosses sans laisser la voiture rebondir, plonger au freinage ou se coucher dans les virages. Elle a deux missions : protéger les occupants et garder les pneus en contact avec la route, car sans contact il n'y a ni freinage ni direction.
+
+## Le ressort porte, l'amortisseur calme
+
+Le ressort stocke l'énergie d'un choc, puis la restitue. Seul, il ferait osciller la voiture comme un trampoline après chaque bosse. L'amortisseur intervient alors : selon Britannica, il dissipe l'énergie accumulée dans les ressorts pour que la caisse ne cesse de rebondir. Il fonctionne grâce à l'hydraulique, et se monte à l'intérieur ou à l'extérieur d'un ressort hélicoïdal, ou à côté d'un ressort à lames.
+
+L'énergie ne disparaît pas : elle se transforme en chaleur dans le liquide de l'amortisseur. C'est pourquoi un amortisseur usé laisse la voiture osciller plus longtemps et le pneu perdre plus souvent le contact avec la chaussée.
+
+## Des ressorts de plusieurs types
+
+Britannica cite les ressorts hélicoïdaux et les ressorts à lames, mais aussi les barres de torsion, les éléments en caoutchouc et les ressorts pneumatiques, c'est-à-dire à air. L'encyclopédie les classe, du moins efficace au plus efficace pour l'énergie stockée par unité de poids : lames, hélicoïdaux, barres de torsion, caoutchouc, puis air. Les ressorts à air ont l'avantage de pouvoir être réglés, ce qui prépare l'idée d'une suspension qui s'adapte.
+
+## Un exemple : la jambe de force
+
+Beaucoup de voitures de série utilisent la suspension dite MacPherson. L'Office québécois de la langue française la décrit comme une suspension à roues indépendantes : la roue est reliée à la coque par une seule structure triangulaire, et un bras vertical télescopique assure l'autre liaison. Ce bras, appelé jambe de force, réunit le ressort et l'amortisseur. Il remplace le triangle supérieur de schémas plus complexes.
+
+Ce montage est compact. Avec un moteur avant transversal, la jambe de force se trouve très près du centre de gravité. Elle subit à la fois des efforts dans l'axe de l'amortisseur et des efforts latéraux. L'amortisseur fait aussi partie de la géométrie du train : il craint donc les chocs, comme ceux d'un trottoir ou d'un accident.
+
+## Un compromis permanent
+
+Les réglages souples améliorent le confort, mais autorisent davantage de mouvements de caisse : plongée au freinage, roulis en virage, rebond après une bosse. Les réglages fermes contrôlent mieux la voiture, mais transmettent davantage de vibrations aux occupants.
+
+Un autre paramètre joue : la masse des pièces suspendues par rapport à celle des pièces qui suivent la roue. Plus la roue, le frein et leurs liaisons sont lourds, plus le ressort et l'amortisseur doivent travailler pour la ramener au sol. Les suspensions pilotées, à amortissement ou à ressorts réglables, tentent de changer de réglage selon la route et le style de conduite. Elles ajoutent coût et complexité.
+
+## Une idée reçue
+
+On pense souvent que le confort passe par une suspension très molle. Une suspension trop souple laisse la caisse bouger, et peut au contraire dégrader la sécurité en laissant le pneu perdre le contact avec le sol. Le bon réglage dépend de l'usage : voiture familiale, sportive ou tout-terrain.
+
+## À retenir
+
+- Les ressorts portent la caisse et stockent l'énergie des chocs.
+- Les amortisseurs dissipent cette énergie par l'hydraulique pour éviter les rebonds.
+- Un amortisseur usé laisse le pneu perdre le contact avec la chaussée plus souvent.
+- La jambe de force MacPherson réunit ressort et amortisseur dans un bras vertical compact.
+- Confort et tenue de route demandent souvent des réglages opposés.
+
+```schema
+type: comparaison
+titre: Les deux rôles de la suspension
+colonnes:
+  - titre: Ressorts
+    points:
+      - Portent la caisse
+  - titre: Amortisseurs
+    points:
+      - Contrôlent les mouvements
+```
 
 ---
 
@@ -2350,15 +2865,100 @@ title: L'aérodynamique d'une voiture
 slug: aerodynamique-automobile-trainee
 categoryPath: automobile/industrie-automobile/production
 summary: >
-  À vitesse élevée, l'air devient la principale résistance. La forme, le soubassement et les roues
-  déterminent une grande partie de la consommation.
+  Pour avancer, une voiture doit repousser l'air, et cet effort croît très vite avec la vitesse.
+  Forme, surface frontale, soubassement et roues déterminent une grande part de l'énergie
+  dépensée sur route.
 tags: [automobile, aerodynamique, consommation, vitesse, design]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [autonomie-reelle-et-cycle-dhomologation, plateformes-modulaires-et-standardisation]
+sources:
+  - title: "Fuel Economy: Where the Energy Goes"
+    url: "https://webarchive.library.unt.edu/web/20120915084110/http:/www.fueleconomy.gov/feg/atv.shtml"
+    publisher: "fueleconomy.gov (US Department of Energy, archive UNT)"
+  - title: "Fuel Efficiency"
+    url: "https://www.energy.gov/cmei/vehicles/fuel-efficiency"
+    publisher: "US Department of Energy"
+quiz:
+  - question: "Comment la traînée évolue-t-elle avec la vitesse ?"
+    options:
+      - "Elle diminue quand la vitesse augmente"
+      - "Elle augmente fortement avec la vitesse"
+      - "Elle reste constante"
+    answer: 2
+    explanation: "La traînée demande plus d'énergie quand la vitesse augmente, et croît avec son carré."
+  - question: "De combien environ la traînée est-elle multipliée entre 100 et 130 km/h ?"
+    options:
+      - "1,3"
+      - "1,7"
+      - "3"
+    answer: 2
+    explanation: "Le carré de 130 divisé par 100 donne environ 1,7."
+  - question: "Quelle part de l'énergie du carburant atteint les roues sur autoroute ?"
+    options:
+      - "Environ 20 à 26 %"
+      - "Environ 90 %"
+      - "Environ 50 %"
+    answer: 1
+    explanation: "La source indique de 20 à 26 % sur autoroute, le reste étant surtout perdu dans le moteur."
+  - question: "Pourquoi un SUV demande-t-il généralement plus d'effort à vitesse élevée ?"
+    options:
+      - "Ses roues sont plus petites"
+      - "Son moteur est toujours plus faible"
+      - "Sa surface frontale est plus grande"
+    answer: 3
+    explanation: "La traînée dépend aussi de la surface frontale, plus grande pour un véhicule haut."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une voiture doit repousser l'air pour avancer. À faible vitesse, la résistance de l'air est faible. À vitesse élevée, elle devient la principale résistance. L'aérodynamique cherche à réduire cet effort, donc la consommation de carburant ou d'électricité.
+
+## D'où vient la traînée
+
+La traînée est l'énergie dépensée pour écarter l'air du chemin. Le site officiel américain de l'économie de carburant explique qu'elle demande moins d'énergie à basse vitesse et davantage quand la vitesse augmente. Elle dépend de la forme du véhicule et de sa surface frontale.
+
+En physique, la force de traînée est proportionnelle au carré de la vitesse. Un calcul simple le montre : passer de 100 à 130 km/h multiplie cette force par environ 1,7. Le coefficient de traînée décrit la qualité de la forme, mais seul il ne suffit pas : multiplié par la surface frontale, il donne l'effort réellement subi.
+
+## Où va l'énergie du carburant
+
+Selon la même source, seule une partie de l'énergie du carburant atteint les roues : 20 à 26 % sur autoroute et 14 à 16 % en ville. En conduite mixte, avec 55 % de ville et 45 % d'autoroute, la part est de 17 à 21 %. Sur autoroute, les pertes du moteur représentent 65 à 69 %.
+
+Le test américain sur autoroute tourne en moyenne à 48 miles par heure, soit environ 77 km/h, sans arrêt intermédiaire. À ces vitesses, la traînée pèse déjà dans le bilan. Elle pèse davantage encore à 130 km/h.
+
+## Ce que peuvent changer les ingénieurs
+
+Le département américain de l'énergie classe la traînée parmi les pertes dites parasites, avec le freinage, la résistance au roulement et les équipements auxiliaires comme la climatisation. Selon le site de l'économie de carburant, les formes lisses ont déjà réduit la traînée de façon importante, mais une baisse supplémentaire de 20 à 30 % reste possible.
+
+Les leviers sont connus : carrosserie lisse, soubassement caréné, roues bien intégrées, rétroviseurs et joints soignés. Les roues et le dessous de caisse perturbent fortement l'écoulement, car ils sont irréguliers et en mouvement. Le propriétaire peut aussi agir : un coffre de toit ou une fenêtre ouverte ajoutent de la traînée.
+
+## Un autre frein : le roulement
+
+La résistance au roulement des pneus compte aussi, mais autrement. Elle vient de la déformation du pneu sur la route. Une baisse de 5 à 7 % de cette résistance améliore le rendement d'environ 1 %. Il faut toutefois l'équilibrer avec l'adhérence, la durabilité et le bruit.
+
+## Le paradoxe du design
+
+Une forme très basse est efficace, mais limite l'espace intérieur. Les SUV offrent une position haute appréciée, mais leur surface frontale plus grande augmente généralement l'effort demandé à vitesse élevée, même avec une forme soignée. L'aérodynamique est donc un compromis avec l'habitabilité, le coût et le style.
+
+## À retenir
+
+- La traînée augmente avec la vitesse, la forme et la surface frontale.
+- Elle varie avec le carré de la vitesse : de 100 à 130 km/h, elle est multipliée par environ 1,7.
+- Roues, soubassement, coffre de toit et fenêtres ouvertes perturbent l'écoulement.
+- Sur autoroute, 20 à 26 % seulement de l'énergie du carburant atteint les roues.
+- Confort et habitabilité peuvent s'opposer à l'efficacité aérodynamique.
+
+```schema
+type: systeme
+titre: Ce qui crée la traînée
+centre: Traînée
+parties:
+  - nom: Vitesse
+  - nom: Forme
+  - nom: Surface frontale
+  - nom: Roues et dessous de caisse
+    role: Ils perturbent fortement l'écoulement.
+```
 
 ---
 
@@ -2368,8 +2968,9 @@ title: Les batteries lithium-ion et leurs chimies
 slug: chimies-batteries-lithium-ion-automobile
 categoryPath: automobile/motorisations/electrique
 summary: >
-  Toutes les batteries lithium-ion ne se ressemblent pas. Les chimies privilégient tour à tour
-  densité énergétique, coût, durée de vie et sécurité.
+  Toutes les batteries lithium-ion ne se ressemblent pas. Entre NMC et LFP, les chimies arbitrent
+  tour à tour densité d'énergie, coût, durée de vie et sécurité, et l'assemblage de la batterie
+  compte autant que la cellule.
 tags: [automobile, batterie, lithium-ion, LFP, NMC]
 relatedArticles: [voiture-electrique, analyse-du-cycle-de-vie-dune-automobile]
 sources:
@@ -2377,6 +2978,10 @@ sources:
     url: "https://www.iea.org/reports/global-ev-outlook-2025"
     publisher: "Agence internationale de l'énergie"
     date: "2025"
+  - title: "Battle of the batteries: cost versus performance"
+    url: "https://nickelinstitute.org/blog/2020/june/battle-of-the-batteries-cost-versus-performance"
+    publisher: "Nickel Institute"
+    date: "2020"
 quiz:
   - question: "Quel est un avantage courant des batteries LFP ?"
     options:
@@ -2396,33 +3001,59 @@ quiz:
     explanation: >
       NMC privilégie la densité énergétique grâce au nickel, au manganèse et au cobalt, tandis
       que LFP mise sur le coût et la durabilité avec du fer et du phosphate.
-lastVerified: 2026-09-23
+  - question: "À taille égale, quelle part de l'énergie d'un pack NMC811 un pack LFP stocke-t-il, selon le Nickel Institute (2020) ?"
+    options:
+      - "Environ 95 %"
+      - "Environ 65 à 70 %"
+      - "Environ 30 %"
+    answer: 2
+    explanation: "Le Nickel Institute estime le pack LFP à 65 à 70 % du NMC811. Il faut donc une batterie LFP environ un tiers plus grande pour la même autonomie."
+  - question: "Qu'est-ce qui a permis à des packs LFP de dépasser 140 Wh/kg ?"
+    options:
+      - "Des grandes cellules posées directement dans le pack (cell-to-pack)"
+      - "Le remplacement du fer par du cobalt"
+      - "Un doublement du nombre de modules"
+    answer: 1
+    explanation: "Les packs cell-to-pack suppriment les modules intermédiaires, ce qui réduit pièces et coût et libère de la place pour la matière active."
+lastVerified: 2026-11-11
 status: published
 ---
 
 ## En bref
 
-La batterie n'est pas un réservoir uniforme. Elle est formée de cellules dont la chimie détermine
-le compromis entre autonomie, prix, puissance, durée de vie et sécurité.
+La batterie n'est pas un réservoir uniforme. Elle est formée de cellules dont la chimie détermine le compromis entre autonomie, prix, puissance, durée de vie et sécurité.
 
 ## Deux familles courantes
 
-Les chimies NMC offrent une bonne densité énergétique et permettent de réduire le volume à
-autonomie égale. Elles utilisent notamment nickel, manganèse et cobalt dans la cathode.
+Les chimies NMC offrent une bonne densité énergétique et permettent de réduire le volume à autonomie égale. Elles utilisent notamment nickel, manganèse et cobalt dans la cathode.
 
-Les chimies LFP utilisent du fer et du phosphate. Elles sont souvent moins coûteuses et très
-durables, mais stockent moins d'énergie à masse égale.
+Les chimies LFP utilisent du fer et du phosphate. Elles sont souvent moins coûteuses et très durables, mais stockent moins d'énergie à masse égale.
+
+## Ce que disent les chiffres
+
+En 2020, le Nickel Institute a comparé ces deux chimies. Selon lui, un pack LFP stocke environ 65 à 70 % de l'énergie d'un pack NMC811, à taille égale et selon sa conception. Pour offrir la même autonomie, il faut donc une batterie LFP environ un tiers plus grande.
+
+Un exemple tiré de la même analyse : une Tesla Model 3 équipée en LFP dans le même espace n'atteindrait qu'environ 66 % de l'autonomie de la version à cathode NCA (nickel, cobalt, aluminium). En contrepartie, le matériau de cathode LFP du fabricant chinois CATL coûtait environ 43 % de moins par kWh que le NMC811. La cathode est la pièce la plus chère de la cellule : cet écart pèse sur le prix de toute la batterie.
+
+## Gagner de la place sans changer de chimie
+
+L'assemblage compte autant que la cellule. Dans les packs dits cell-to-pack, de très grandes cellules sont posées directement dans le pack, sans modules intermédiaires. Il y a moins de pièces et de connexions, donc un coût plus faible et plus de place pour la matière active.
+
+Grâce à cette méthode, CATL et BYD ont dépassé 140 Wh/kg (wattheures par kilogramme, une mesure de l'énergie stockée par masse) au niveau du pack avec du LFP. C'était le seuil minimal alors exigé pour les aides chinoises. Du côté du NMC, General Motors et LG Chem annonçaient pour leur pack Ultium, à cathode très riche en nickel (89 %), plus de 200 Wh/kg.
+
+## Un partage du marché à suivre
+
+Les analystes cités en 2020 prévoyaient 15 à 40 % de LFP dans les voitures électriques en 2030, avec des avis très partagés. Ce sont des projections anciennes, pas des mesures : l'écart de prix pousse vers le LFP, l'écart d'autonomie vers le NMC.
 
 ## La gestion électronique
 
-Le système BMS surveille tension, température et état de charge de chaque groupe de cellules. Il
-équilibre les cellules et limite la puissance lorsque la batterie est trop froide, trop chaude ou
-presque pleine.
+Le système BMS surveille tension, température et état de charge de chaque groupe de cellules. Il équilibre les cellules et limite la puissance lorsque la batterie est trop froide, trop chaude ou presque pleine.
 
 ## À retenir
 
 - La chimie influence prix, autonomie, sécurité et durée de vie.
 - NMC et LFP répondent à des compromis différents.
+- À taille égale, le LFP stocke moins d'énergie, mais sa cathode coûte moins cher.
 - Le BMS protège et équilibre les cellules.
 
 ```schema
@@ -2445,15 +3076,109 @@ title: Le recyclage des batteries de voitures électriques
 slug: recyclage-batteries-vehicules-electriques
 categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
 summary: >
-  Une batterie usagée n'est pas un déchet ordinaire. Elle peut être réparée, réemployée en stockage,
-  puis démontée pour récupérer ses matériaux.
+  Une batterie de voiture électrique usagée se répare, se réemploie dans le stockage
+  stationnaire, puis se broie pour récupérer lithium, cobalt et nickel. L'Europe fixe désormais
+  des objectifs chiffrés pour boucler cette filière.
 tags: [automobile, batterie, recyclage, lithium, economie-circulaire]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [chimies-batteries-lithium-ion-automobile, analyse-du-cycle-de-vie-dune-automobile]
+sources:
+  - title: "Recyclage des batteries lithium : synthèse"
+    url: "https://www.mineralinfo.fr/sites/default/files/documents/2020-12/recyclage_batteries_lithium_-_csf_mines_et_metallurgie_-_synthese.pdf"
+    publisher: "Mineralinfo (comité stratégique de filière mines et métallurgie)"
+    date: "2020"
+  - title: "Règlement sur les batteries : résumé de la position du Parlement européen"
+    url: "https://oeil.europarl.europa.eu/oeil/fr/procedure-document-summary/pdf?id=1747981"
+    publisher: "Parlement européen"
+    date: "2023"
+  - title: "Règlement (UE) 2023/1542 relatif aux batteries et aux déchets de batteries"
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R1542"
+    publisher: "Union européenne (EUR-Lex)"
+    date: "2023"
+quiz:
+  - question: "Qu'est-ce que la black mass ?"
+    options:
+      - "Une poudre issue du broyage des batteries, avant extraction des métaux"
+      - "Un liquide de refroidissement"
+      - "Un type de batterie au plomb"
+    answer: 1
+    explanation: "C'est la matière issue du broyage, qui n'a pas encore subi d'extraction métallurgique."
+  - question: "Quelle capacité résiduelle la synthèse retient-elle pour une batterie de voiture entièrement électrique en seconde vie ?"
+    options:
+      - "30 %"
+      - "50 %"
+      - "80 %"
+    answer: 3
+    explanation: "La synthèse retient 80 % pour les voitures électriques, 70 % pour les hybrides rechargeables."
+  - question: "Quel objectif de récupération du lithium prévoit la position du Parlement européen d'ici 2031 ?"
+    options:
+      - "80 %"
+      - "10 %"
+      - "98 %"
+    answer: 1
+    explanation: "Le lithium doit être récupéré à 50 % d'ici 2027 puis 80 % d'ici 2031."
+  - question: "De combien doit être multipliée la capacité européenne de traitement d'ici 2027 ?"
+    options:
+      - "Elle doit rester stable"
+      - "Par trois"
+      - "Par cent"
+    answer: 2
+    explanation: "Les capacités actuelles de 15 000 à 20 000 tonnes par an doivent être multipliées par trois d'ici 2027."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La fin de vie d'une batterie se raisonne par étapes. Une capacité devenue insuffisante pour rouler peut rester utile dans un bâtiment. Quand elle ne sert plus du tout, le recyclage récupère les métaux. L'enjeu grandit avec le nombre de véhicules électriques : la synthèse du comité stratégique de la filière mines et métallurgie prévoit environ 50 000 tonnes de batteries en fin de vie par an dès 2027.
+
+## Réparer, puis réemployer
+
+Une batterie se compose de modules. Un diagnostic permet parfois de remplacer un module défaillant plutôt que tout l'ensemble. Quand la batterie ne convient plus à la traction, elle garde souvent une partie de sa capacité. La synthèse du comité stratégique des mines et de la métallurgie retient une capacité résiduelle de 80 % pour une voiture entièrement électrique, et de 70 % pour une hybride rechargeable.
+
+Cette seconde vie sert au stockage stationnaire : conserver l'électricité solaire ou soutenir le réseau. Le même document la juge réaliste à court terme, sur un horizon de 7 à 8 ans, mais avec une rentabilité actuelle faible, voire négative. Les perspectives d'équilibre économique dépendront de la chimie des batteries à l'horizon 2035-2040.
+
+## Comment on recycle
+
+Le recyclage combine des procédés mécaniques, pyrométallurgiques (à haute température) et hydrométallurgiques (par dissolution dans des liquides). La batterie est d'abord broyée. On obtient la black mass, une poudre issue du broyage qui n'a pas encore subi d'extraction de métaux.
+
+Deux modèles coexistent selon la synthèse. Le premier produit des métaux d'alliage, dont la pureté ne suffit pas pour refaire des batteries. Le second, en boucle fermée, produit des composés prêts à servir de cathodes, comme le carbonate de lithium ou les sulfates de nickel et de cobalt. Un procédé breveté par Blue Solutions récupère 98 % du lithium métal de ses batteries.
+
+## Des ordres de grandeur
+
+Le lithium ne représente qu'environ 1 % du poids total d'une batterie. Cobalt, nickel et lithium conservent la plus grande valeur. Le recyclage pourrait couvrir 10 % des besoins européens en cobalt pour la mobilité électrique en 2030, quand l'Europe aura besoin de 275 gigawattheures de batteries.
+
+La capacité de traitement est le goulot d'étranglement. Les installations européennes traitent aujourd'hui 15 000 à 20 000 tonnes par an, et doivent être multipliées par trois d'ici 2027. La France dispose d'environ 5 000 tonnes par an. Pour comparer, la batterie de 41 kWh d'une Renault Zoé pèse 300 kg.
+
+## Ce que l'Europe impose
+
+Le règlement européen sur les batteries, adopté en 2023, fixe un rendement de recyclage de 65 % pour les batteries au lithium au plus tard fin 2025. Il prévoit de récupérer 50 % du lithium d'ici 2027 et 80 % d'ici 2031, et 90 % du cobalt, du cuivre et du nickel d'ici 2027, puis 95 % d'ici 2031.
+
+Les nouvelles batteries doivent aussi intégrer des matières recyclées. Huit ans après l'entrée en vigueur, le texte vise 16 % de cobalt recyclé, 6 % de lithium et 6 % de nickel. Après 13 ans, ces parts passent à 26 %, 12 % et 15 %. Un passeport numérique avec un code QR doit suivre chaque batterie de voiture 42 mois après l'entrée en vigueur.
+
+## Idées reçues
+
+Une batterie usagée n'est pas un déchet ordinaire : elle reste dangereuse si on la démonte mal, d'où l'importance d'une filière sûre. Elle n'est pas non plus perdue : le recyclage réduit la dépendance à l'extraction, mais seulement si les installations existent et si l'équilibre économique est atteint.
+
+## À retenir
+
+- Une batterie peut avoir plusieurs vies : réparation, stockage stationnaire, puis recyclage.
+- Le recyclage broie la batterie, puis sépare les métaux par voie thermique ou chimique.
+- La capacité européenne de traitement doit être multipliée par trois d'ici 2027.
+- Le règlement européen fixe des taux de récupération de 50 à 95 % selon les métaux.
+- La rentabilité de la seconde vie et du recyclage reste fragile aujourd'hui.
+
+```schema
+type: etapes
+titre: Les vies d'une batterie
+elements:
+  - titre: Voiture
+    icone: car
+  - titre: Réparation
+  - titre: Réemploi stationnaire
+    icone: house
+  - titre: Recyclage des matériaux
+    icone: recycle
+```
 
 ---
 
@@ -2463,15 +3188,104 @@ title: Les voitures connectées et la cybersécurité
 slug: voitures-connectees-cybersecurite
 categoryPath: automobile/securite-et-conduite
 summary: >
-  Une voiture connectée échange des données utiles, mais une interface mal protégée peut devenir
-  une porte d'entrée vers ses fonctions numériques.
+  Une voiture connectée communique par réseau mobile, Wi-Fi, Bluetooth et applications. Chacun de
+  ces canaux peut devenir une porte d'entrée : sécurité du logiciel, isolement des fonctions
+  critiques et mises à jour régulières limitent le risque.
 tags: [automobile, connectivite, cybersecurite, donnees, vie-privee]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [niveaux-dautomatisation-de-la-conduite]
+sources:
+  - title: "Cybersécurité des véhicules connectés et automatisés pour votre organisation (ITSAP.00.142)"
+    url: "https://cyber.gc.ca/fr/orientation/cybersecurite-des-vehicules-connectes-et-automatises-pour-votre-organisation-itsap00142"
+    publisher: "Centre canadien pour la cybersécurité"
+    date: "2022"
+  - title: "New 2024 cybersecurity regulations for vehicles"
+    url: "https://www.incibe.es/en/incibe-cert/publications/guides-and-studies/guides/new-2024-cybersecurity-regulations-vehicles"
+    publisher: "INCIBE-CERT"
+    date: "2024"
+quiz:
+  - question: "Que couvre le règlement R155 de l'ONU ?"
+    options:
+      - "La gestion des mises à jour logicielles"
+      - "La gestion de la cybersécurité"
+      - "Les émissions de CO2"
+    answer: 2
+    explanation: "R155 porte sur la gestion de la cybersécurité, R156 sur la gestion des mises à jour logicielles."
+  - question: "Quelle attaque envoie de faux signaux, par exemple une fausse position GPS ?"
+    options:
+      - "Le brouillage"
+      - "Le chiffrement"
+      - "L'usurpation"
+    answer: 3
+    explanation: "L'usurpation envoie de faux signaux qui peuvent tromper le conducteur ou le véhicule automatisé."
+  - question: "Que peut permettre le brouillage d'une télécommande ?"
+    options:
+      - "Faciliter un vol"
+      - "Recharger la batterie"
+      - "Mettre à jour le logiciel"
+    answer: 1
+    explanation: "Le brouillage bloque des signaux entrants, comme ceux d'une télécommande, ce qui peut faciliter un vol."
+  - question: "Que doit faire le conducteur lorsqu'il revend sa voiture ?"
+    options:
+      - "Rien de particulier"
+      - "Effacer ses données, annuler ses abonnements et déconnecter ses applications"
+      - "Désactiver définitivement le moteur"
+    answer: 2
+    explanation: "Les recommandations canadiennes demandent d'effacer les données et de déconnecter applications et abonnements à la revente."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Navigation en ligne, appel d'urgence, application mobile et mises à jour à distance rendent la voiture plus utile. Elles en font aussi un système informatique roulant, relié à des réseaux extérieurs. Un défaut de sécurité ne concerne alors plus seulement des données : il peut toucher des fonctions du véhicule.
+
+## Les portes d'entrée
+
+Le Centre canadien pour la cybersécurité dresse la liste des surfaces d'attaque d'un véhicule connecté. Elles comprennent les connexions cellulaires, Wi-Fi et Bluetooth, les services de localisation par satellite, et les futures communications entre véhicules et avec l'infrastructure routière. S'y ajoutent les systèmes d'infodivertissement, les micrologiciels, les applications tierces, et les téléphones ou objets connectés jumelés à la voiture.
+
+Pour les véhicules automatisés, les capteurs comptent aussi : caméras, radars, lidars, capteurs à ultrasons et GPS. Plus il y a de canaux, plus il y a de points à protéger.
+
+## Les attaques possibles
+
+Le même document décrit plusieurs menaces. Le déni de service distribué inonde un système de données et perturbe les communications et les fonctions du véhicule. L'usurpation envoie de faux signaux, par exemple un faux obstacle ou une fausse position GPS, qui peuvent tromper le conducteur ou le véhicule automatisé. Le brouillage bloque des signaux entrants, comme ceux d'une télécommande, ce qui peut faciliter un vol. Enfin, l'exploitation de failles dans les logiciels embarqués, les réseaux mobiles ou le Wi-Fi complète la liste.
+
+## Une réglementation internationale
+
+Un organisme des Nations unies, le Forum mondial pour l'harmonisation de la réglementation des véhicules, a publié deux règlements. Le premier, appelé R155, porte sur la gestion de la cybersécurité. Le second, R156, porte sur la gestion des mises à jour logicielles. Selon l'Institut national espagnol de cybersécurité, les constructeurs doivent les respecter pour obtenir l'homologation de véhicules destinés à circuler dans les pays de l'Union européenne, ou dans des pays qui choisissent de les adopter.
+
+Les mises à jour logicielles sont elles aussi encadrées, car une mise à jour mal contrôlée peut devenir une faille.
+
+## Les protections
+
+Les recommandations canadiennes sont concrètes. Il faut réaliser régulièrement des évaluations de vulnérabilités et maintenir un plan de gestion de ces vulnérabilités. Il faut installer les mises à jour du logiciel et des micrologiciels fournies par le fabricant. Il faut chiffrer les données collectées, quand c'est possible, et séparer les véhicules connectés des réseaux qui contiennent des informations sensibles. L'authentification et le contrôle d'accès limitent l'accès aux personnes autorisées.
+
+Le conducteur agit aussi. Il peut désactiver le Bluetooth et la connexion automatique quand ils ne servent pas, et refuser l'accès aux contacts et aux données du téléphone sans raison. À la revente, il doit effacer ses données personnelles, annuler ses abonnements et déconnecter ses applications.
+
+## Une idée reçue
+
+Le risque ne se limite pas au pirate qui prendrait le contrôle à distance. Le vol d'une voiture par brouillage d'une télécommande ou la tromperie d'un capteur par de faux signaux relèvent aussi de la cybersécurité. Aucune protection n'est définitive : elle demande une surveillance et des mises à jour dans le temps.
+
+## À retenir
+
+- Une voiture connectée est un système informatique relié à de nombreux réseaux.
+- Réseaux mobiles, Wi-Fi, Bluetooth, applications et capteurs sont autant de portes d'entrée.
+- Les règlements R155 et R156 imposent aux constructeurs de gérer la cybersécurité et les mises à jour.
+- Mises à jour, chiffrement et séparation des réseaux réduisent l'exposition.
+- Le conducteur protège aussi son véhicule : Bluetooth, comptes et données à la revente.
+
+```schema
+type: systeme
+titre: Les fronts de la cybersécurité automobile
+centre: Voiture connectée
+icone: lock
+parties:
+  - nom: Le véhicule
+    role: Fonctions critiques isolées du confort.
+  - nom: Le cloud
+    role: Les serveurs du constructeur.
+  - nom: Le smartphone
+    role: L'application qui pilote la voiture.
+```
 
 ---
 
@@ -2481,15 +3295,104 @@ title: Pourquoi les puces sont devenues stratégiques pour l'automobile
 slug: semi-conducteurs-automobile
 categoryPath: automobile/industrie-automobile/production
 summary: >
-  Une voiture moderne dépend de milliers de composants électroniques. Une puce manquante peut
-  immobiliser une chaîne entière.
+  Moteur, batterie, freinage, écrans : une voiture moderne dépend de nombreuses puces à faible
+  valeur unitaire. La pénurie de 2021 a montré qu'une seule puce manquante peut arrêter une
+  chaîne entière, et poussé l'Europe à réagir.
 tags: [automobile, semi-conducteurs, industrie, electronique, production]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [production-automobile-mondiale]
+sources:
+  - title: "Synthèse de la table ronde Crise des matières premières et des composants"
+    url: "https://pfa-auto.fr/wp-content/uploads/2021/11/Synthèse-Table-ronde-Crise-des-matières-premières-et-des-composants-9-novembre-2021-V.pdf"
+    publisher: "Plateforme automobile (PFA)"
+    date: "2021"
+  - title: "Le règlement européen sur les semi-conducteurs (Chips Act)"
+    url: "https://www.consilium.europa.eu/fr/infographics/eu-chips-act/"
+    publisher: "Conseil de l'Union européenne"
+    date: "2023"
+quiz:
+  - question: "Combien de véhicules la pénurie de puces avait-elle entravés dans le monde, selon la Plateforme automobile (novembre 2021) ?"
+    options:
+      - "Plus de 10 millions"
+      - "Environ 100 000"
+      - "Environ 1 million"
+    answer: 1
+    explanation: "Selon son président, plus de 10 millions de véhicules, dont 3 millions en Europe."
+  - question: "Quel objectif chiffré fixe le Chips Act européen ?"
+    options:
+      - "Passer de 10 % à au moins 20 % de la production mondiale d'ici 2030"
+      - "Fabriquer toutes les puces en Europe"
+      - "Réduire de moitié la demande de puces"
+    answer: 1
+    explanation: "L'UE vise au moins 20 % de la production mondiale de puces d'ici 2030, contre 10 % en 2020."
+  - question: "Pourquoi la chaîne de production des puces est-elle vulnérable ?"
+    options:
+      - "Elle ne compte que quelques étapes"
+      - "Elle compte plus de 1 000 étapes et s'étend sur plusieurs pays"
+      - "Elle dépend d'un seul matériau"
+    answer: 2
+    explanation: "Le Conseil de l'UE cite plus de 1 000 étapes et des chaînes d'approvisionnement complexes."
+  - question: "Quelle cause de la pénurie est citée ?"
+    options:
+      - "Une baisse mondiale de la demande de puces"
+      - "L'abandon des puces par les constructeurs"
+      - "L'annulation de commandes par l'automobile pendant la crise"
+    answer: 3
+    explanation: "Les constructeurs avaient annulé des commandes de puces pendant la crise, alors que la demande reprenait."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les semi-conducteurs, ou puces, contrôlent le moteur, la batterie, le freinage, l'éclairage, les écrans et les aides à la conduite. Leur valeur unitaire est souvent faible, mais leur absence bloque le véhicule. La pénurie des années 2020-2022 a rendu cette dépendance visible, et fait des puces un sujet stratégique pour l'industrie.
+
+## Une chaîne longue et fragile
+
+La conception d'une puce, sa fabrication, son assemblage et sa validation s'étendent sur plusieurs pays. Le Conseil de l'Union européenne rappelle que la production de puces compte plus de 1 000 étapes, avec des chaînes d'approvisionnement complexes et vulnérables. En 2021, le monde a produit 1 100 milliards de puces.
+
+Les constructeurs ont longtemps privilégié les stocks minimaux et les composants spécialisés. Cela réduit les coûts tant que tout fonctionne. Mais une chaîne très optimisée n'a plus de marge quand l'un de ses maillons s'arrête.
+
+## Comment la pénurie est arrivée
+
+Lors d'une table ronde de la Plateforme automobile le 9 novembre 2021, plusieurs experts ont détaillé les causes. La demande a repris plus vite que prévu au printemps 2020. Les achats de biens durables, comme l'informatique et les téléphones, ont été soutenus par les aides publiques, notamment aux États-Unis. Les constructeurs avaient annulé des commandes de puces pendant la crise. Le transport maritime était désorganisé, et les fabricants de puces hésitaient à augmenter leur production dans un contexte de confinements.
+
+Les puces anciennes posent un problème particulier : les constructeurs en ont besoin, mais elles sont en concurrence avec d'autres secteurs. Selon l'un des intervenants, aucun fondeur n'investirait dans une nouvelle ligne pour ce type de composants.
+
+## Ce que la pénurie a coûté
+
+D'après le président de la Plateforme automobile, la pénurie avait entravé la production de plus de 10 millions de véhicules dans le monde, dont 3 millions en Europe. La production mondiale était d'environ 95 millions de véhicules en 2019, et un peu moins de 75 millions étaient attendus pour 2021. La production européenne devait baisser d'environ 15 % en 2021. Les intervenants n'attendaient qu'une amélioration timide au deuxième trimestre 2022, sans retour à la normale.
+
+## La réponse européenne
+
+L'Union européenne a adopté son règlement sur les semi-conducteurs, le Chips Act, le 25 juillet 2023. Son but chiffré : passer de 10 % de la production mondiale en 2020 à au moins 20 % d'ici 2030. Le texte a trois objectifs : renforcer les capacités et l'innovation en Europe, accroître fortement l'autoapprovisionnement, et permettre une réaction rapide en cas de crise d'approvisionnement.
+
+Le Conseil rappelle que la demande de puces devrait doubler entre 2022 et 2030, et que le marché devrait atteindre 1 000 milliards de dollars en 2030. Du côté des constructeurs, les pistes citées sont des contrats d'approvisionnement à long terme, la relocalisation de certaines chaînes de valeur et une meilleure planification de la filière.
+
+## Une idée reçue
+
+On croit parfois qu'il suffit de construire une usine pour régler le problème. Or une usine de puces demande des années, et chaque type de puce a sa propre chaîne. La résilience passe aussi par la standardisation, la diversification des fournisseurs et des stocks mieux pensés.
+
+## À retenir
+
+- Presque toutes les fonctions du véhicule dépendent de puces, dont la valeur unitaire est faible.
+- Une puce manquante peut arrêter une ligne complète.
+- La pénurie a entravé plus de 10 millions de véhicules dans le monde, selon la Plateforme automobile.
+- Le Chips Act européen vise au moins 20 % de la production mondiale d'ici 2030.
+- La résilience industrielle devient aussi importante que le coût.
+
+```schema
+type: etapes
+titre: Comment une puce peut arrêter une usine
+elements:
+  - titre: Électronique partout
+    texte: Presque toutes les fonctions en dépendent.
+    icone: chip
+  - titre: Composant rare
+    texte: Une seule puce manque.
+  - titre: Ligne arrêtée
+    texte: Toute la chaîne de montage s'immobilise.
+    icone: factory
+```
 
 ---
 
@@ -2499,15 +3402,104 @@ title: Les matériaux d'une voiture moderne
 slug: materiaux-automobile-acier-aluminium-composites
 categoryPath: automobile/industrie-automobile/production
 summary: >
-  Acier, aluminium, plastiques et composites remplissent des fonctions différentes. Le matériau
-  idéal dépend du coût, du poids, de la sécurité et du recyclage.
+  Acier, aluminium, plastiques et composites ont chacun leur rôle dans une voiture. Le choix
+  dépend du poids, du coût, de la sécurité et de la fin de vie : aucun matériau ne gagne sur tous
+  les critères.
 tags: [automobile, materiaux, acier, aluminium, recyclage]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [ceinture-airbag-et-structures-deformables, analyse-du-cycle-de-vie-dune-automobile]
+sources:
+  - title: "Matériaux pour l'allègement (document technique)"
+    url: "https://pfa-auto.fr/wp-content/uploads/2018/06/DT_Materiaux-pour-allegement_V6.pdf"
+    publisher: "Plateforme automobile (PFA)"
+    date: "2019"
+  - title: "Véhicules hors d'usage (VHU)"
+    url: "https://www.ecologie.gouv.fr/vehicules-hors-dusage"
+    publisher: "Ministère de la Transition écologique"
+quiz:
+  - question: "Quelle part de la masse d'un véhicule thermique moyen les aciers représentent-ils ?"
+    options:
+      - "Près de 60 %"
+      - "Environ 10 %"
+      - "Environ 30 %"
+    answer: 1
+    explanation: "La Plateforme automobile indique près de 60 % de la masse."
+  - question: "Combien de CO2 fait gagner le retrait de 100 kg d'un véhicule thermique ?"
+    options:
+      - "Environ 40 g/km"
+      - "Environ 4 g/km"
+      - "Environ 0,4 g/km"
+    answer: 2
+    explanation: "Sur le cycle d'essai récent, 100 kg en moins valent environ 4 g de CO2 par kilomètre."
+  - question: "Quel objectif la directive européenne fixe-t-elle pour la réutilisation et le recyclage des véhicules hors d'usage ?"
+    options:
+      - "Au moins 50 % de la masse"
+      - "Au moins 95 % de la masse"
+      - "Au moins 85 % de la masse"
+    answer: 3
+    explanation: "La directive impose 85 % pour réutilisation et recyclage, 95 % avec la valorisation."
+  - question: "Quels plastiques ne sont pas recyclables aujourd'hui ?"
+    options:
+      - "Les thermoplastiques"
+      - "Les thermodurcissables comme l'époxy"
+      - "Tous les plastiques"
+    answer: 2
+    explanation: "Selon la Plateforme automobile, les thermodurcissables ne se recyclent pas, les thermoplastiques oui."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La carrosserie n'est pas faite d'un seul matériau. Les ingénieurs choisissent selon l'endroit : cellule de survie, zones déformables, capot, roues, batterie ou habitacle. Le bon choix équilibre quatre critères : poids, coût, sécurité et possibilité de recyclage.
+
+## Ce que contient une voiture
+
+Selon un document de 2019 de la Plateforme automobile, les aciers représentent près de 60 % de la masse d'un véhicule thermique moyen. Les polymères, c'est-à-dire les plastiques, comptent pour 20 à 25 %, avec un objectif de 30 à 35 % à l'horizon 2030. Le verre pèse 3 à 4 %, et le magnésium moins de 1 %. Le cuivre se trouve surtout dans le câblage électrique.
+
+L'acier domine parce qu'il est résistant, bon marché et facile à mettre en forme. Sa densité est de 7,8 grammes par centimètre cube, contre 2,7 pour l'aluminium, 1,8 pour le magnésium et la fibre de carbone, et 1,2 pour le polyamide.
+
+## Alléger : pourquoi et jusqu'où
+
+Alléger réduit l'énergie nécessaire pour déplacer la voiture. D'après la même source, sur le cycle d'essai WLTP, retirer 100 kg d'un véhicule thermique fait gagner environ 4 grammes de CO2 par kilomètre. L'automobile représente environ 10 % des émissions mondiales de CO2.
+
+Les gains possibles par pièce, par rapport à l'acier, varient selon le matériau. L'aluminium allège de 20 à 40 % : environ 40 % pour les pièces de peau, 20 % pour les pièces de structure. Le magnésium allège de 25 à 50 %. Les composites à fibres de verre allègent jusqu'à 30 %, et ceux à fibres de carbone jusqu'à 50 %. Les nouveaux aciers à très haute résistance allègent de 10 à 20 %.
+
+## Les limites du poids plume
+
+Ces matériaux légers coûtent souvent plus cher. Les fibres de carbone et certains polymères techniques ont des prix très élevés, ce qui limite leur usage dans l'automobile. Certains composants lourds améliorent aussi la sécurité, la rigidité ou la durée de vie. Dans le câblage, l'aluminium impose des sections plus grandes que le cuivre, ce qui réduit son intérêt.
+
+Alléger ne suffit donc pas : il faut comparer le gain de consommation au surcoût et à l'impact de fabrication.
+
+## La fin de vie
+
+En France, environ 1,2 million de véhicules hors d'usage sont traités chaque année, dans 1 700 centres et 60 broyeurs, selon le ministère de la Transition écologique. Leur âge moyen est d'environ 19 ans. Les véhicules sont d'abord dépollués : batteries, pots catalytiques, huiles, liquides et pneumatiques. Des pièces peuvent être démontées pour être réutilisées. Les carcasses sont ensuite broyées, et les matières comme l'acier et les plastiques sont séparées.
+
+La directive européenne impose de réutiliser et recycler au moins 85 % de la masse du véhicule, et de réutiliser et valoriser au moins 95 %. En 2022, la France atteignait 88,3 % et 95,6 %. L'acier se recycle bien, à 85 à 90 % selon la Plateforme automobile. Les plastiques thermodurcissables, comme l'époxy, ne sont pas recyclables aujourd'hui, alors que les thermoplastiques le sont.
+
+## Une conception pour la fin de vie
+
+Les matériaux assemblés de façon irréversible sont difficiles à séparer. La conception tient donc de plus en plus compte du démontage, de la traçabilité et de la récupération des métaux. Un matériau léger mais impossible à recycler peut perdre son avantage sur l'ensemble de la vie de la voiture.
+
+## À retenir
+
+- Les aciers forment près de 60 % de la masse d'un véhicule thermique moyen.
+- Retirer 100 kg fait gagner environ 4 grammes de CO2 par kilomètre.
+- L'aluminium, le magnésium et les composites allègent, mais coûtent souvent plus cher.
+- La France recycle et réutilise plus de 88 % de la masse des véhicules hors d'usage.
+- Le choix des matériaux influence aussi la fin de vie.
+
+```schema
+type: systeme
+titre: Choisir un matériau, un compromis
+centre: Matériaux
+parties:
+  - nom: Poids
+    role: L'allègement réduit la consommation.
+  - nom: Coût
+    role: L'allègement a un prix.
+  - nom: Fin de vie
+    role: Le choix conditionne le recyclage.
+```
 
 ---
 
@@ -2517,15 +3509,98 @@ title: Pourquoi le poids d'une voiture augmente
 slug: augmentation-poids-voitures
 categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
 summary: >
-  Sécurité, confort, équipements et batteries ont alourdi les véhicules. Le poids influence
-  consommation, pneus, freinage et occupation de l'espace.
+  Les voitures neuves s'alourdissent d'année en année, portées par la montée des SUV plus que par
+  les seules batteries. Plus de masse, c'est plus d'énergie, plus d'usure des pneus et des
+  freins, et davantage de CO2.
 tags: [automobile, poids, SUV, securite, batteries]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [analyse-du-cycle-de-vie-dune-automobile, autopartage-et-covoiturage]
+sources:
+  - title: "Des voitures plus grandes et plus lourdes en Région bruxelloise : quels impacts et quelles mesures envisager"
+    url: "https://environnement.brussels/pro/nos-actions/plans-et-politiques-regionales/des-voitures-plus-grandes-et-plus-lourdes-en-region-bruxelloise-quels-impacts-et-quelles-mesures-envisager"
+    publisher: "Bruxelles Environnement"
+  - title: "Datalab essentiel n° 312 : les freins à la baisse des émissions de GES du parc automobile"
+    url: "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2023-07/datalab_essentiel_312_freins_baisse_emissions_ges_parc_automobile_juillet2023_0.pdf"
+    publisher: "SDES, ministère de la Transition écologique"
+    date: "2023"
+quiz:
+  - question: "Selon les données bruxelloises, quelle motorisation a vu la masse de ses voitures neuves augmenter le plus entre 2013 et 2025 ?"
+    options:
+      - "L'essence"
+      - "Le diesel"
+      - "L'électrique"
+    answer: 1
+    explanation: "La hausse est de 19 % pour l'essence, contre 6 % pour le diesel et 4 % pour l'électrique (mesuré depuis 2019)."
+  - question: "À caractéristiques égales, que provoque une hausse de 10 % de la masse d'une voiture ?"
+    options:
+      - "Aucun effet sur les émissions"
+      - "Environ 12 % d'émissions en plus"
+      - "Environ 12 % d'émissions en moins"
+    answer: 2
+    explanation: "Les statistiques françaises donnent environ +12 % d'émissions pour +10 % de masse, toutes choses égales par ailleurs."
+  - question: "Quel facteur pèse le plus dans l'alourdissement des voitures neuves à Bruxelles ?"
+    options:
+      - "La part croissante des SUV"
+      - "La suppression des freins"
+      - "La baisse de la taille des pneus"
+    answer: 1
+    explanation: "Les SUV sont passés de 55 % à 62 % des immatriculations neuves entre 2023 et 2025, et ils sont en moyenne 12 % plus lourds."
+  - question: "Pourquoi la masse moyenne du parc français évolue-t-elle plus lentement que celle des voitures neuves ?"
+    options:
+      - "Les voitures neuves sont plus légères"
+      - "Les voitures restent en service longtemps, 10,5 ans d'âge moyen en 2022"
+      - "Les statistiques ne comptent que les voitures électriques"
+    answer: 2
+    explanation: "Le parc se renouvelle lentement : son âge moyen est passé de 9,1 ans en 2012 à 10,5 ans en 2022."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La masse moyenne des voitures progresse depuis des décennies. Elle ne tient pas à un seul facteur, mais les données récentes montrent surtout un effet de gamme, avec des modèles plus grands et plus lourds qui prennent une part croissante du marché. Or chaque kilogramme supplémentaire a un coût en énergie et en usure.
+
+## Des chiffres qui montent
+
+Selon le service statistique du ministère français de la Transition écologique, la masse moyenne du parc de voitures en circulation est passée de 1,29 tonne en 2012 à 1,33 tonne en 2022. Le parc évolue lentement, car une voiture reste en service plus de dix ans : son âge moyen est passé de 9,1 à 10,5 ans sur la même période.
+
+Les voitures neuves bougent plus vite. L'Institut bruxellois de gestion de l'environnement indique que les voitures nouvellement immatriculées à Bruxelles ont gagné 14 % de masse entre 2013 et 2025 pour les véhicules privés, et 20 % pour les véhicules de société.
+
+## Ce n'est pas qu'une affaire de batteries
+
+On associe souvent l'alourdissement aux voitures électriques. Les chiffres bruxellois nuancent ce point. Entre 2013 et 2025, la hausse de masse des voitures neuves est de 19 % pour l'essence, 6 % pour le diesel et 13 % pour les hybrides. Pour l'électrique, elle est de 4 %, mesurée depuis 2019 faute d'immatriculations plus anciennes en nombre suffisant.
+
+Un moteur important du phénomène est la montée des SUV. À Bruxelles, ils sont passés de 55 % des immatriculations neuves en 2023 à 62 % en 2025, et l'analyse de 2023 les donnait en moyenne 12 % plus lourds que les autres modèles.
+
+## Ce que la masse coûte
+
+Pour mettre une voiture en mouvement, puis la ralentir, il faut dépenser de l'énergie proportionnelle à sa masse. Les statistiques françaises notent que les véhicules hauts, comme les SUV, émettent davantage que les modèles plus bas de même longueur. Leur part dans le parc est passée de 21 % à 32 % entre 2012 et 2022.
+
+La masse pèse aussi sur les particules qui ne sortent pas du pot d'échappement. L'organisme bruxellois relie l'usure des pneus, des plaquettes de frein et du revêtement routier à la masse des véhicules.
+
+## Un cercle qui s'entretient
+
+Un véhicule plus lourd demande des freins, des suspensions et des pneus plus grands. Ces pièces ajoutent à leur tour de la masse. Réduire le poids dès la conception reste donc plus efficace que de compenser ensuite par plus de puissance.
+
+Il y a aussi des effets sur la sécurité. Les occupants d'une voiture lourde sont moins exposés aux blessures graves, mais les piétons, les cyclistes et les occupants de petites voitures le sont davantage. Enfin, des véhicules plus grands occupent plus d'espace public.
+
+## À retenir
+
+- La masse moyenne du parc français est passée de 1,29 à 1,33 tonne entre 2012 et 2022.
+- À Bruxelles, les voitures neuves privées ont gagné 14 % de masse entre 2013 et 2025.
+- À Bruxelles, la montée des SUV compte davantage que les batteries dans cette évolution.
+- En France, la part des véhicules hauts dans le parc est passée de 21 % à 32 % entre 2012 et 2022.
+- La masse accroît aussi l'usure des pneus, des freins et de la route.
+
+```schema
+type: systeme
+titre: Ce que le poids d'une voiture affecte
+centre: Poids
+parties:
+  - nom: Énergie
+  - nom: Pneus
+  - nom: Freins
+  - nom: Matériaux
+```
 
 ---
 
@@ -2535,15 +3610,103 @@ title: Les émissions sonores de la circulation
 slug: bruit-routier-sante-et-pneus
 categoryPath: automobile/usages-et-mobilite
 summary: >
-  Le bruit routier vient du moteur à faible vitesse, mais surtout du contact pneus-chaussée à
-  vitesse élevée. L'électrification ne le supprime donc pas.
+  Au-delà d'environ 30 km/h, le bruit d'une voiture vient surtout du contact pneus-chaussée, pas
+  du moteur. L'électrique est donc très silencieuse en ville, mais presque pas plus sur route.
 tags: [automobile, bruit, pneus, ville, sante]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [normes-demissions-euro, augmentation-poids-voitures]
+sources:
+  - title: "Noise from electric vehicles"
+    url: "https://vejdirektoratet.dk/sites/default/files/publications/noise_from_electric_vehicles_0.pdf"
+    publisher: "Vejdirektoratet (direction danoise des routes)"
+  - title: "Road traffic noise"
+    url: "https://www.bafu.admin.ch/bafu/en/home/topics/noise/road-traffic-noise.html"
+    publisher: "Office fédéral de l'environnement (OFEV), Suisse"
+quiz:
+  - question: "À partir de quelle vitesse approximative le bruit pneus-chaussée domine-t-il celui d'une voiture de tourisme ?"
+    options:
+      - "Environ 5 km/h"
+      - "Environ 30 km/h"
+      - "Environ 110 km/h"
+    answer: 2
+    explanation: "L'étude danoise situe le seuil autour de 30 km/h. Au-delà, l'avantage sonore de l'électrique disparaît en grande partie."
+  - question: "À environ 10 km/h, de combien l'électrique était-elle plus silencieuse dans l'étude citée ?"
+    options:
+      - "4 à 5 dB"
+      - "Pas du tout"
+      - "Plus de 20 dB"
+    answer: 1
+    explanation: "Les mesures donnent un écart d'environ 4 à 5 dB à 10 km/h, sur un échantillon de quatre voitures."
+  - question: "Pourquoi les résultats de l'étude doivent-ils être lus avec prudence ?"
+    options:
+      - "Les mesures ont été faites sans pneus"
+      - "L'échantillon est petit et les pneus des deux voitures n'avaient pas le même niveau sonore"
+      - "Aucune voiture électrique n'a été testée"
+    answer: 2
+    explanation: "Quatre voitures seulement ont été testées, et l'une des électriques avait des pneus classés à 71 dB contre 69 dB pour son équivalent."
+  - question: "Parmi ces leviers, lequel agit directement sur le bruit de roulement ?"
+    options:
+      - "Choisir des pneus à étiquette sonore plus basse"
+      - "Changer la couleur de la carrosserie"
+      - "Alourdir le véhicule"
+    answer: 1
+    explanation: "Le bruit de roulement dépend des pneus, de la vitesse et du revêtement. Un véhicule plus lourd n'est pas automatiquement plus silencieux."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le bruit de la circulation a deux sources principales : la mécanique du véhicule et le roulement des pneus sur la chaussée. À très basse vitesse, le moteur domine. Dès que la voiture roule un peu plus vite, ce sont les pneus qui font l'essentiel du bruit. C'est pourquoi passer à l'électrique aide en ville, mais ne règle pas tout.
+
+## Deux bruits, un seuil
+
+Un moteur thermique est bruyant au ralenti, à l'accélération et en décélération. Un moteur électrique l'est beaucoup moins. À basse vitesse, la différence s'entend nettement.
+
+Mais un véhicule en mouvement produit aussi un bruit de roulement : les pneus frottent, se déforment et brassent l'air dans les sculptures de la bande de roulement. Ce bruit croît avec la vitesse. Selon une étude de 2015 de la direction danoise des routes, au-delà d'environ 30 km/h, le bruit pneus-chaussée domine pour les voitures de tourisme. L'avantage de l'électrique disparaît alors en grande partie.
+
+## Ce que montrent les mesures
+
+Cette même étude a comparé des voitures électriques et thermiques de même modèle ou de même catégorie. À environ 10 km/h, à vitesse stabilisée, l'électrique était plus silencieuse de 4 à 5 décibels selon les paires testées. Entre 30 et 60 km/h, l'écart tombait à 0 à 1,5 dB selon la paire, et l'électrique pouvait même être jusqu'à 2 dB plus bruyante dans un cas.
+
+Ces résultats ont des limites. L'échantillon ne compte que quatre voitures. De plus, l'une des électriques portait des pneus dont l'étiquette annonçait 71 dB, contre 69 dB pour son équivalent thermique : une partie de son bruit venait donc des pneus, pas du moteur. L'ordre de grandeur reste utile, mais il ne vaut pas pour tous les modèles.
+
+## Pourquoi cela compte pour la santé
+
+Le bruit n'est pas qu'une gêne. L'Office fédéral suisse de l'environnement rappelle que le calme favorise la détente, le sommeil, la concentration et la conversation, et qu'un bruit persistant nuit à la santé et au bien-être. Il indique qu'une personne sur dix en Suisse vit exposée à un bruit routier fort sur son lieu de résidence. Il estime aussi que ce bruit coûte environ 2 milliards de francs suisses par an en coûts externes, sans préciser l'année de ces chiffres.
+
+Un exemple concret : une rue limitée à 30 km/h et une avenue à 50 km/h n'ont pas le même profil sonore. Dans la première, la différence entre thermique et électrique se sent encore. Dans la seconde, les pneus couvrent presque tout.
+
+## Les leviers qui fonctionnent
+
+Puisque les pneus et la vitesse pèsent autant, les solutions passent par plusieurs voies :
+
+- réduire les vitesses là où le bruit de roulement domine ;
+- entretenir ou choisir des revêtements routiers plus silencieux ;
+- limiter le trafic dans les zones habitées ;
+- choisir des pneus dont l'étiquette annonce un niveau sonore plus bas.
+
+Un véhicule lourd ou chaussé de pneus larges n'est pas automatiquement plus discret pour le voisinage. Les mesures de bruit doivent se faire modèle par modèle.
+
+## À retenir
+
+- À basse vitesse, le moteur domine le bruit ; au-delà d'environ 30 km/h, ce sont les pneus.
+- L'électrique gagne 4 à 5 dB à 10 km/h dans l'étude citée, mais presque rien entre 30 et 60 km/h.
+- Les pneus ont une étiquette sonore qui permet de comparer leur bruit de roulement.
+- Le bruit persistant dégrade le sommeil, la concentration et la santé.
+- Vitesse, revêtement et trafic sont des leviers aussi importants que le type de moteur.
+
+```schema
+type: systeme
+titre: Les leviers contre le bruit routier
+centre: Bruit de circulation
+icone: wave
+parties:
+  - nom: Vitesse
+  - nom: Pneus
+  - nom: Revêtement
+  - nom: Motorisation électrique
+    role: Efficace surtout à basse vitesse.
+```
 
 ---
 
@@ -2553,15 +3716,102 @@ title: Le contrôle technique et ce qu'il révèle
 slug: controle-technique-securite-pollution
 categoryPath: automobile/industrie-automobile/reglementation-automobile
 summary: >
-  Le contrôle technique vérifie un véhicule à un instant donné. Il améliore la détection des
-  défauts, mais ne remplace ni l'entretien ni la responsabilité du conducteur.
+  Le contrôle technique classe les défauts en trois niveaux et révèle l'état d'un véhicule à un
+  instant donné. En 2018, près d'une voiture sur cinq était refusée, surtout pour l'éclairage,
+  les pneus ou les freins.
 tags: [automobile, controle-technique, securite, pollution, entretien]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [normes-demissions-euro, marche-de-loccasion-et-valeur-residuelle]
+sources:
+  - title: "Bilan du contrôle technique des véhicules légers 2018"
+    url: "https://www.ecologie.gouv.fr/sites/default/files/documents/bilan_vl_final.pdf"
+    publisher: "Ministère de la Transition écologique"
+    date: "2019"
+  - title: "Question écrite n° 9329, Assemblée nationale (15e législature), avec réponse du gouvernement"
+    url: "https://questions.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE9329.pdf"
+    publisher: "Assemblée nationale, Journal officiel"
+    date: "2018"
+quiz:
+  - question: "Que signifie un défaut critique au contrôle technique ?"
+    options:
+      - "Un simple conseil d'entretien"
+      - "Un danger direct et immédiat : le véhicule ne doit plus rouler avant réparation"
+      - "Un défaut esthétique"
+    answer: 2
+    explanation: "La réponse du gouvernement définit le défaut critique comme un danger direct et immédiat pour la sécurité routière."
+  - question: "En 2018, quelle part des véhicules contrôlés a été déclarée non conforme ?"
+    options:
+      - "Environ 2 %"
+      - "Environ 19 %"
+      - "Environ 60 %"
+    answer: 2
+    explanation: "Le bilan 2018 donne 19,43 % de véhicules non conformes (voitures particulières et utilitaires légers)."
+  - question: "Quelle famille de défauts était la plus fréquente après mai 2018 ?"
+    options:
+      - "Les feux et équipements électriques"
+      - "Le moteur"
+      - "La peinture"
+    answer: 1
+    explanation: "Les feux, catadioptres et équipements électriques arrivent en tête avec 10,88 % des contrôles, devant essieux-roues-pneus-suspension."
+  - question: "Pourquoi un contrôle technique ne garantit-il pas la fiabilité à long terme ?"
+    options:
+      - "Il se limite à une photographie à un instant donné"
+      - "Il dure plusieurs mois"
+      - "Il ne vérifie jamais les freins"
+    answer: 1
+    explanation: "Le contrôle vérifie l'état le jour de la visite. Un défaut peut apparaître ensuite, d'où l'importance de l'entretien régulier."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le contrôle technique est une inspection réglementaire qui cherche les défauts pouvant menacer la sécurité ou l'environnement. Il donne une photographie de l'état du véhicule le jour de la visite. Il ne garantit pas que la voiture restera fiable ensuite, mais il met au jour des défauts que beaucoup de conducteurs ne voient pas.
+
+## Trois niveaux de gravité
+
+Depuis la réforme du 20 mai 2018, qui transpose une directive européenne de 2014, chaque défaut est classé en défaut mineur, majeur ou critique. Un défaut critique représente, selon la réponse du gouvernement à une question parlementaire, un danger direct et immédiat pour la sécurité routière : le véhicule ne doit plus rouler tant qu'il n'est pas réparé. Un défaut majeur impose une réparation et une contre-visite.
+
+Cette réforme visait un objectif européen : réduire de moitié le nombre de morts sur la route entre 2010 et 2020. Elle a aussi élargi la liste des points vérifiés, ce qui peut expliquer que les refus aient augmenté après mai 2018.
+
+## Ce que montre le bilan 2018
+
+Le bilan publié par le ministère de la Transition écologique porte sur 2018 : environ 17,7 millions de voitures particulières et 2,8 millions d'utilitaires légers ont passé le contrôle périodique. Sur l'ensemble, 19,43 % des véhicules ont été déclarés non conformes et ont dû passer en contre-visite. Après le 20 mai 2018, ce taux est monté à 21,51 %.
+
+Sur cette seconde période, 20,24 % des véhicules avaient au moins un défaut majeur et 1,27 % un défaut critique. À l'inverse, seulement 12,95 % des voitures particulières n'avaient aucun défaut. Les contre-visites ont concerné 18,99 % des voitures particulières sur l'année.
+
+Un premier bilan cité par le gouvernement donnait 1,8 % de défauts critiques, un chiffre plus élevé que les 1,27 % du bilan annuel : de quoi lire ces statistiques avec précaution.
+
+## Quels défauts reviennent le plus
+
+Après mai 2018, trois familles dominaient : les feux, catadioptres et équipements électriques (10,88 % des contrôles), les essieux, roues, pneus et suspension (10,62 %), puis le freinage (6,05 %). Parmi les défauts critiques les plus fréquents figuraient des pneus complètement usés, un frein de stationnement nettement insuffisant et des feux stop hors service.
+
+Ce sont des éléments que le conducteur peut vérifier lui-même. Une ampoule grillée ou un pneu lisse se repèrent en quelques minutes, bien avant la visite.
+
+## Un outil pour l'occasion, avec ses limites
+
+Un procès-verbal récent fournit des indices sur l'état réel d'une voiture d'occasion : défauts relevés, réparations imposées, évolution entre deux visites. Il ne remplace ni l'historique d'entretien ni un essai. Une voiture peut être conforme le jour du contrôle puis développer une panne le lendemain.
+
+## À retenir
+
+- Les défauts sont classés en mineurs, majeurs et critiques depuis le 20 mai 2018.
+- Un défaut critique interdit de rouler tant qu'il n'est pas réparé.
+- En 2018, 19,43 % des véhicules contrôlés étaient non conformes.
+- Éclairage, pneus-suspension et freins sont les familles de défauts les plus fréquentes.
+- Le contrôle est une photographie, pas une garantie permanente.
+
+```schema
+type: comparaison
+titre: Ce qu'est, et n'est pas, le contrôle technique
+colonnes:
+  - titre: Ce qu'il est
+    points:
+      - Une photographie de l'état du véhicule
+      - Un historique utile pour l'occasion
+  - titre: Ce qu'il n'est pas
+    points:
+      - Une garantie permanente
+      - Un remplacement de l'entretien
+```
 
 ---
 
@@ -2571,15 +3821,101 @@ title: L'histoire des grandes innovations automobiles
 slug: histoire-innovations-automobiles
 categoryPath: automobile/industrie-automobile
 summary: >
-  Démarreur électrique, ceinture, ABS, airbags et catalyseur ont transformé la voiture plus
-  profondément que les changements de style.
+  Ceinture à trois points, ABS et airbag n'ont pas changé le style des voitures, mais leur
+  manière de protéger leurs occupants. Chaque innovation a mis des années, voire des décennies, à
+  s'imposer.
 tags: [automobile, histoire, innovation, securite, technologie]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [ceinture-airbag-et-structures-deformables]
+sources:
+  - title: "The 3-point belt remains central in today's and tomorrow's safety solutions"
+    url: "https://www.media.volvocars.com/us/en-us/media/pressreleases/18398"
+    publisher: "Volvo Cars"
+  - title: "Antilock braking system"
+    url: "https://www.britannica.com/technology/antilock-braking-system"
+    publisher: "Encyclopaedia Britannica"
+  - title: "Air bag"
+    url: "https://www.britannica.com/technology/air-bag"
+    publisher: "Encyclopaedia Britannica"
+quiz:
+  - question: "En quelle année Volvo a-t-il introduit la ceinture à trois points sur ses sièges avant ?"
+    options:
+      - "1959"
+      - "1979"
+      - "1999"
+    answer: 1
+    explanation: "Volvo situe l'introduction de la ceinture à trois points à l'avant en 1959."
+  - question: "Que mesurent les capteurs d'un système ABS ?"
+    options:
+      - "La température des freins"
+      - "La vitesse de rotation de chaque roue"
+      - "La pression des pneus"
+    answer: 2
+    explanation: "Les capteurs envoient la vitesse de rotation de chaque roue à un microprocesseur, qui détecte un début de blocage."
+  - question: "En combien de temps un airbag se gonfle-t-il ?"
+    options:
+      - "Environ trois secondes"
+      - "Moins d'un dixième de seconde"
+      - "Environ une minute"
+    answer: 2
+    explanation: "Selon Britannica, le sac se gonfle en moins d'un dixième de seconde, puis se dégonfle."
+  - question: "Qu'apporte le limiteur d'effort ajouté aux ceintures à partir de 1996 chez Volvo ?"
+    options:
+      - "Il bloque la sangle définitivement"
+      - "Il relâche un peu la sangle pour limiter la force sur le thorax"
+      - "Il éteint les airbags"
+    answer: 2
+    explanation: "Le limiteur d'effort accompagne le prétensionneur : il laisse filer légèrement la sangle après le début du choc."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'histoire de l'automobile ne se résume pas à une suite de modèles. Elle est faite d'innovations qui ont changé la sécurité, la fiabilité, le confort et la pollution. Trois d'entre elles, la ceinture à trois points, le freinage antiblocage et le coussin gonflable, montrent comment une idée devient un équipement banal.
+
+## La ceinture à trois points
+
+Selon le constructeur Volvo, la ceinture à trois points est apparue sur les sièges avant de ses voitures en 1959. Il a fallu ensuite plusieurs étapes pour la généraliser dans l'habitacle : ceintures à l'arrière en 1967, ceinture à enrouleur à inertie à l'avant en 1969, ceinture à trois points sur les places arrière en 1972, puis sur la place centrale arrière en 1986.
+
+La ceinture a aussi gagné en sophistication. Volvo cite un prétensionneur mécanique en 1987, un prétensionneur pyrotechnique à l'avant en 1992 et des limiteurs d'effort en 1996. Le prétensionneur tend la sangle dès le début du choc, et le limiteur d'effort la relâche un peu ensuite pour éviter de blesser le thorax.
+
+## L'ABS, un système qui réagit en temps réel
+
+Lors d'un freinage brutal, une roue qui se bloque perd son adhérence et le conducteur ne peut plus diriger. Le freinage antiblocage (ABS) corrige cela. D'après l'encyclopédie Britannica, des capteurs montés sur chaque roue envoient leur vitesse de rotation à un microprocesseur.
+
+Quand une roue ralentit trop vite par rapport aux autres, le système répond en modulant la pression de freinage par pulsations. Il doit réagir presque instantanément à la pression sur la pédale. Britannica situe l'arrivée de l'ABS sur les voitures de tourisme à la fin des années 1980, puis sa généralisation progressive.
+
+## L'airbag, un coussin qui se gonfle en un éclair
+
+L'airbag est un sac qui se remplit rapidement lors d'une collision pour amortir le choc entre l'occupant et l'habitacle. Des capteurs d'inertie détectent l'accident, et un circuit électronique déclenche le gonflage. Selon Britannica, le sac se gonfle en moins d'un dixième de seconde, puis se dégonfle pour permettre de sortir du véhicule.
+
+Les airbags commerciaux datent des années 1980. Aux États-Unis, les voitures neuves devaient avoir des airbags conducteur et passager avant en 1998, et les camions légers en 1999. L'airbag fonctionne avec la ceinture, il ne la remplace pas.
+
+## Pourquoi les innovations se diffusent lentement
+
+Une technologie doit être fiable, abordable, réparable et compatible avec les normes. Une bonne idée reste marginale si elle ajoute trop de coût ou si la filière industrielle n'est pas prête. Le cas de la ceinture le montre : 1959 pour la première version, et encore plus de trente ans de perfectionnements avant la ceinture à prétensionneurs et limiteurs de tous les sièges.
+
+Les règles jouent aussi un rôle décisif. Britannica note que des progrès comme l'airbag ont été retardés pendant plus d'une décennie aux États-Unis, entre scepticisme face à la régulation et influence des constructeurs.
+
+## À retenir
+
+- Volvo introduit la ceinture à trois points à l'avant en 1959.
+- L'ABS repose sur des capteurs de roue et un microprocesseur qui module le freinage.
+- L'airbag se gonfle en moins d'un dixième de seconde.
+- Il se passe souvent dix ou vingt ans entre l'invention et la généralisation.
+- Les innovations de sécurité fonctionnent en système : ceinture, airbag et structure travaillent ensemble.
+
+```schema
+type: systeme
+titre: Ce qui fait avancer l'automobile
+centre: Innovation utile
+parties:
+  - nom: Un problème concret
+  - nom: La sécurité
+  - nom: La pollution
+  - nom: L'industrie et les règles
+    role: Elles conditionnent la diffusion.
+```
 
 ---
 
@@ -2589,15 +3925,101 @@ title: La distribution variable et le turbo
 slug: distribution-variable-turbocompresseur
 categoryPath: automobile/motorisations/thermique
 summary: >
-  Un moteur produit davantage quand il respire mieux. Distribution variable et turbocompresseur
-  augmentent le remplissage des cylindres sans agrandir le moteur.
+  Un moteur est une pompe à air : plus il respire, plus il produit. La distribution variable
+  règle quand et combien les soupapes s'ouvrent, le turbo récupère l'énergie de l'échappement
+  pour souffler plus d'air.
 tags: [automobile, moteur, turbo, soupapes, rendement]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [fonctionnement-boite-de-vitesses]
+sources:
+  - title: "Variable valve timing technologies for internal combustion engines"
+    url: "https://www.techniques-ingenieur.fr/en/resources/article/ti151/variable-valve-timing-technologies-for-internal-combustion-engines-bm2580"
+    publisher: "Techniques de l'Ingénieur"
+  - title: "Turbocharger"
+    url: "https://www.britannica.com/technology/turbocharger"
+    publisher: "Encyclopaedia Britannica"
+quiz:
+  - question: "Quelle est la méthode la plus simple de distribution variable ?"
+    options:
+      - "Supprimer l'arbre à cames"
+      - "Le déphasage de l'arbre à cames"
+      - "Doubler le nombre de cylindres"
+    answer: 2
+    explanation: "Les Techniques de l'Ingénieur citent le déphasage de l'arbre à cames comme méthode la plus simple, avant les systèmes variant levée et durée."
+  - question: "Qu'est-ce qui entraîne la turbine d'un turbocompresseur ?"
+    options:
+      - "Les gaz d'échappement"
+      - "Une courroie reliée aux roues"
+      - "Le liquide de refroidissement"
+    answer: 1
+    explanation: "Selon Britannica, la turbine est entraînée par les gaz d'échappement et fait tourner une soufflante qui comprime l'air."
+  - question: "Pourquoi refroidit-on l'air comprimé avant les cylindres ?"
+    options:
+      - "Pour le rendre plus dense"
+      - "Pour réchauffer le moteur"
+      - "Pour réduire le bruit"
+    answer: 1
+    explanation: "L'air comprimé s'échauffe et devient moins dense. L'échangeur le refroidit pour faire entrer plus d'air."
+  - question: "Que permet de faire un turbo en plus de gagner en puissance, selon Britannica ?"
+    options:
+      - "Supprimer le carburant"
+      - "Améliorer l'économie de carburant"
+      - "Se passer d'huile"
+    answer: 2
+    explanation: "Britannica indique que les moteurs turbocompressés produisent plus de puissance et consomment moins."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un moteur thermique produit de la puissance en brûlant un mélange d'air et de carburant. La quantité d'air qu'il avale limite donc ce qu'il peut faire. Deux techniques augmentent ce remplissage sans agrandir le moteur : la distribution variable, qui adapte l'ouverture des soupapes, et le turbocompresseur, qui force l'air à entrer.
+
+## Pourquoi les soupapes doivent s'adapter
+
+Les soupapes s'ouvrent pour laisser entrer l'air et sortir les gaz brûlés. Leur ouverture est commandée par un arbre à cames qui tourne en liaison avec le vilebrequin. Avec un calage fixe, le moment d'ouverture est un compromis : bon à un régime, moins bon à un autre. À bas régime, on cherche de la souplesse ; à haut régime, on veut remplir au maximum les cylindres.
+
+La distribution variable supprime ce compromis. Selon l'article de synthèse des Techniques de l'Ingénieur, elle donne au moteur un degré de flexibilité supplémentaire qui permet d'améliorer ses performances sur toute sa plage de fonctionnement. Elle est surtout utilisée sur les véhicules routiers.
+
+## Décaler, soulever, prolonger
+
+La même source distingue plusieurs niveaux. La méthode la plus simple est le déphasage de l'arbre à cames : on avance ou on retarde l'ouverture des soupapes selon le régime et la charge. Les systèmes plus avancés font aussi varier la levée, c'est-à-dire la hauteur d'ouverture, ou la durée.
+
+Le matériel est varié : déphaseurs à chaîne, hélicoïdaux ou à palettes, systèmes de levée à plusieurs profils ou à variation continue, et même des soupapes sans arbre à cames, commandées électromécaniquement ou hydrauliquement. Certaines stratégies de fermeture de l'admission, précoce ou tardive, servent aux cycles dits Miller et Atkinson, plus économes.
+
+## Le turbocompresseur, une turbine sur l'échappement
+
+Selon Britannica, un turbocompresseur utilise une turbine à gaz entraînée par les gaz d'échappement du moteur. Cette turbine entraîne une soufflante centrifuge qui force davantage d'air dans le moteur. Les moteurs turbocompressés produisent plus de puissance et consomment moins pour une puissance donnée.
+
+Un moteur de plus petite cylindrée, soufflé par un turbo, peut donc fournir la puissance d'un moteur plus gros. C'est le principe du downsizing. Les Techniques de l'Ingénieur indiquent que la puissance spécifique des moteurs de dernière génération atteint environ 70 kW par litre, un niveau que l'on ne voyait auparavant que dans les moteurs de compétition. Cette valeur est donnée comme contexte du downsizing, sans être attribuée à la seule distribution variable.
+
+L'air comprimé s'échauffe et devient moins dense. Un échangeur le refroidit avant son entrée dans les cylindres, ce qui augmente la quantité d'air disponible pour la combustion.
+
+## Des techniques complémentaires
+
+Le turbo remplit les cylindres quand l'échappement est abondant, c'est-à-dire à charge élevée. La distribution variable ajuste ensuite quand l'air entre et quand les gaz sortent, à tous les régimes. Utilisées ensemble, elles permettent un moteur petit, souple à bas régime et puissant en haut de la plage.
+
+Limite pratique : ces systèmes ajoutent des pièces mobiles, des capteurs et des circuits d'huile. Ils demandent un entretien soigné, notamment une huile conforme à la spécification du constructeur.
+
+## À retenir
+
+- La puissance d'un moteur dépend de l'air qu'il peut faire entrer et des gaz qu'il peut évacuer.
+- La distribution variable adapte le calage, la levée ou la durée d'ouverture des soupapes.
+- Le turbo utilise l'énergie des gaz d'échappement pour souffler plus d'air dans le moteur.
+- L'échangeur refroidit l'air comprimé pour le rendre plus dense.
+- Ensemble, ces techniques permettent de réduire la cylindrée à puissance comparable.
+
+```schema
+type: comparaison
+titre: Deux façons de mieux remplir le moteur
+colonnes:
+  - titre: Distribution variable
+    points:
+      - Règle les échanges de gaz selon le régime
+  - titre: Turbocompresseur
+    points:
+      - Récupère l'énergie de l'échappement
+      - L'échangeur rend l'air comprimé plus dense
+```
 
 ---
 
@@ -2607,15 +4029,102 @@ title: Le système de refroidissement du moteur
 slug: refroidissement-moteur-thermique
 categoryPath: automobile/motorisations/thermique
 summary: >
-  Un moteur doit rester dans une fenêtre de température étroite : trop froid, il consomme mal ;
-  trop chaud, il se détériore.
+  Un moteur thermique brûle du carburant à très haute température, mais doit rester dans une
+  plage étroite. Pompe, radiateur, ventilateur et thermostat se partagent ce travail
+  d'équilibriste.
 tags: [automobile, moteur, refroidissement, liquide, thermostat]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: []
+sources:
+  - title: "Question of the week: why does an engine cooling system have a thermostat, and how does it relate to coolant?"
+    url: "https://www.caltech.edu/about/news/question-week-why-does-engine-cooling-system-have-thermostat-and-hos-does-it-relate-coolant"
+    publisher: "California Institute of Technology"
+  - title: "Automobile - Cooling, Radiator, Engine"
+    url: "https://www.britannica.com/technology/automobile/Cooling-system"
+    publisher: "Encyclopædia Britannica"
+quiz:
+  - question: "Quel est le rôle du thermostat au démarrage à froid ?"
+    options:
+      - "Refroidir le moteur au maximum"
+      - "Isoler le moteur du radiateur pour qu'il chauffe plus vite"
+      - "Faire tourner le ventilateur"
+    answer: 2
+    explanation: "Le thermostat reste fermé tant que le moteur est trop froid. Sans lui, le moteur perdrait de la chaleur vers le radiateur et chaufferait plus lentement."
+  - question: "Pourquoi le circuit de refroidissement est-il sous pression ?"
+    options:
+      - "Pour relever le point d'ébullition du liquide"
+      - "Pour faire du bruit"
+      - "Pour économiser le liquide"
+    answer: 1
+    explanation: "Sous pression, le liquide bout à une température plus élevée que les 100 °C de l'eau à l'air libre."
+  - question: "Que fait le calculateur pendant la montée en température du moteur ?"
+    options:
+      - "Il coupe l'injection"
+      - "Il peut enrichir le mélange, ce qui augmente consommation et émissions"
+      - "Il arrête la pompe à eau"
+    answer: 2
+    explanation: "Un moteur froid vaporise mal le carburant. Le calculateur compense parfois en enrichissant le mélange."
+  - question: "Que se passe-t-il quand l'air circule trop peu dans le radiateur et que le liquide est très chaud ?"
+    options:
+      - "Le moteur refroidit plus vite"
+      - "Le thermostat se ferme"
+      - "Le moteur risque de surchauffer"
+    answer: 3
+    explanation: "Thermostat grand ouvert, le radiateur seul doit évacuer la chaleur. Sans débit d'air suffisant, il n'y parvient pas."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans un cylindre, la combustion produit des flammes extrêmement chaudes. Le moteur ne peut pas laisser cette chaleur s'accumuler : les pièces se dilateraient trop et l'huile se dégraderait. Mais il ne doit pas non plus rester froid. Le circuit de refroidissement joue donc deux rôles à la fois : évacuer l'excès de chaleur et amener vite le moteur à sa bonne température.
+
+## Le circuit, pièce par pièce
+
+Selon le California Institute of Technology, le système a trois missions : retirer la chaleur en trop, maintenir le moteur à une température de fonctionnement efficace et l'y amener rapidement. Une partie de l'énergie du carburant se transforme en chaleur, et une pompe fait circuler un liquide de refroidissement pour l'emporter.
+
+Ce liquide passe dans le moteur, puis des durites le conduisent au radiateur. Un ventilateur tire de l'air à travers le radiateur pour évacuer la chaleur. Le liquide refroidi retourne ensuite à la pompe. À vitesse élevée, l'air du déplacement suffit souvent ; à l'arrêt ou à faible vitesse, le ventilateur prend le relais.
+
+## Le thermostat, un robinet qui réagit à la température
+
+Le thermostat se comporte comme une vanne qui s'ouvre et se ferme selon sa propre température. Tant que le moteur est trop froid, il isole le moteur du radiateur. Sans lui, le moteur perdrait toujours de la chaleur au profit du radiateur et mettrait plus de temps à chauffer.
+
+Une fois la température de fonctionnement atteinte, il laisse passer le liquide vers le radiateur et régule le débit pour garder une température stable. Quand le liquide est très chaud, il s'ouvre en grand : le radiateur doit alors faire seul tout le travail, ce qui ne marche que si l'air circule assez.
+
+## Pression et point d'ébullition
+
+Le circuit est fermé et sous pression. Cela relève le point d'ébullition : l'eau pure bout à 100 °C à l'air libre, alors que le liquide du circuit bout nettement plus haut. Ce liquide est un mélange d'eau et d'un additif.
+
+Cette marge explique pourquoi on n'ouvre jamais le bouchon d'un circuit chaud : le liquide peut jaillir brutalement quand la pression retombe. Elle explique aussi qu'une fuite, même modeste, fait baisser la pression et rapproche le moteur de la surchauffe.
+
+## Pourquoi un moteur froid n'est pas idéal
+
+Un moteur froid vaporise moins bien le carburant et lubrifie moins efficacement. Le calculateur enrichit parfois le mélange pendant la montée en température, ce qui augmente la consommation et les émissions. C'est la raison d'être du thermostat fermé au démarrage : réduire cette période où le moteur travaille mal.
+
+Un exemple concret : sur un petit trajet de quelques minutes, le moteur peut ne jamais atteindre sa température nominale. Il consomme alors davantage pour une distance donnée.
+
+## À retenir
+
+- Le refroidissement évacue la chaleur en trop et fait aussi monter le moteur en température.
+- Le circuit comprend une pompe, des durites, un radiateur, un ventilateur et un thermostat.
+- Le thermostat reste fermé à froid pour que le moteur chauffe plus vite.
+- Sous pression, le liquide ne bout qu'à une température supérieure à 100 °C.
+- Un niveau de liquide insuffisant ou un manque d'air dans le radiateur peut mener à la surchauffe.
+
+```schema
+type: etapes
+titre: Le circuit de refroidissement
+elements:
+  - titre: Pompe à eau
+    texte: Elle fait circuler le liquide.
+    icone: droplet
+  - titre: Moteur
+    texte: Le liquide absorbe sa chaleur.
+  - titre: Thermostat
+    texte: Fermé à froid, il accélère la mise en température.
+  - titre: Radiateur
+    texte: L'air extérieur refroidit le liquide.
+    icone: snowflake
+```
 
 ---
 
@@ -2625,15 +4134,102 @@ title: Pourquoi l'huile moteur est essentielle
 slug: huile-moteur-lubrification
 categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
 summary: >
-  L'huile réduit les frottements, évacue une partie de la chaleur et emporte des impuretés. Son
-  vieillissement explique les intervalles de vidange.
+  L'huile insère un film entre des pièces qui glissent l'une sur l'autre : elle limite l'usure,
+  aide à refroidir, protège de la corrosion et emporte les résidus. Son grade de viscosité, par
+  exemple 5W-30, se lit comme un code.
 tags: [automobile, entretien, huile, moteur, frottement]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [refroidissement-moteur-thermique]
+sources:
+  - title: "Ce qu'il faut savoir sur les huiles moteurs"
+    url: "https://www.tcs.ch/mam/Digital-Media/PDF/Booklets/Ce-qu-il-faut-savoir-sur-les-huiles-moteurs.pdf"
+    publisher: "Touring Club Suisse (TCS)"
+  - title: "Lubrication"
+    url: "https://www.britannica.com/technology/lubrication"
+    publisher: "Encyclopaedia Britannica"
+quiz:
+  - question: "Dans le grade 5W-30, que décrit le nombre placé avant le W ?"
+    options:
+      - "La viscosité à 100 °C"
+      - "L'écoulement de l'huile à froid"
+      - "La durée de vie en années"
+    answer: 2
+    explanation: "Le W signifie winter : le premier nombre décrit l'écoulement à froid. Le second correspond à la viscosité à 100 °C."
+  - question: "À partir de quelle consommation d'huile le TCS parle-t-il d'un défaut à réparer ?"
+    options:
+      - "Plus d'un litre pour 2 000 km"
+      - "Un demi-litre pour 10 000 km"
+      - "Une goutte par semaine"
+    answer: 1
+    explanation: "Une consommation normale est de 0,5 à 1,5 litre pour 10 000 km ; plus d'un litre pour 2 000 km signale un défaut."
+  - question: "Quand contrôle-t-on le niveau d'huile ?"
+    options:
+      - "Moteur tournant à plein régime"
+      - "Moteur chaud, environ deux minutes après l'arrêt"
+      - "Moteur froid, après une nuit de pluie"
+    answer: 2
+    explanation: "Environ deux minutes après l'arrêt, l'huile s'est rassemblée dans le carter, ce qui donne un niveau fiable."
+  - question: "Quel intervalle de vidange faut-il suivre ?"
+    options:
+      - "Celui d'un ami mécanicien"
+      - "Celui fixé par le constructeur du moteur"
+      - "Toujours 5 000 km"
+    answer: 2
+    explanation: "Le constructeur fixe l'intervalle selon la conception du moteur et sa filtration. Il faut le respecter même avec une huile de grande qualité."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans un moteur, des surfaces métalliques glissent à grande vitesse sous forte pression. Sans lubrification, le frottement provoquerait une usure rapide et beaucoup de chaleur. L'huile moteur est le fluide qui évite cela. Elle remplit aussi d'autres fonctions, ce qui explique pourquoi son choix et son niveau comptent.
+
+## Lubrifier, c'est séparer
+
+Selon Britannica, la lubrification consiste à introduire une substance entre des surfaces qui glissent pour réduire l'usure et le frottement. Dans un moteur, l'huile forme un film entre les pièces : tant que ce film tient, le métal ne touche pas le métal.
+
+Le Touring Club Suisse décrit les fonctions de l'huile moteur : lubrifier les pièces mobiles pour limiter l'usure, aider à refroidir le moteur, protéger contre la corrosion, absorber les saletés issues de la combustion et empêcher la formation de dépôts. Elle ne doit pas mousser, ni abîmer le catalyseur ou le filtre à particules.
+
+## Lire un grade de viscosité
+
+La viscosité mesure le frottement interne d'une huile, donc sa résistance à l'écoulement. Un grade comme 5W-30 se lit en deux parties. Le premier nombre, suivi de W pour winter (hiver), décrit l'écoulement à froid : plus il est bas, plus l'huile coule facilement et atteint vite les points à lubrifier. Le second nombre correspond à la viscosité à 100 °C.
+
+Un nombre bas contribue à une consommation de carburant plus faible. Selon le TCS, les 15W-50 et 10W-40 sont fréquentes sur les anciens véhicules, alors que les moteurs modernes demandent le plus souvent du 5W-30, du 5W-20 ou du 0W-20. Certains hybrides japonais utilisent du 0W-16 ou du 0W-8, mais seulement dans des moteurs conçus pour cela.
+
+## Additifs et filtre à particules
+
+Les huiles répondant aux spécifications ACEA de catégorie C contiennent des additifs adaptés : si le moteur consomme un peu d'huile, le filtre à particules ne se remplit pas de cendres. Le TCS déconseille d'ajouter des additifs supplémentaires, car la plupart des constructeurs l'interdisent. L'intervalle de vidange est fixé par le constructeur selon la conception du moteur et la filtration, et il faut le respecter même avec une huile de grande qualité.
+
+## Niveau et consommation : des repères chiffrés
+
+Une consommation normale est de 0,5 à 1,5 litre pour 10 000 km, et jusqu'à 2 litres ne doit pas inquiéter. Plus d'un litre pour 2 000 km signale un défaut à faire réparer. Sur presque toutes les voitures, la distance entre le repère minimum et le repère maximum de la jauge correspond à environ 1 litre.
+
+Pour contrôler le niveau, le moteur doit être à température de fonctionnement et arrêté depuis environ deux minutes, le temps que l'huile redescende dans le carter. Un excès d'huile peut abîmer le moteur, même si 2 à 3 mm au-dessus du maximum ne posent pas de problème. Sans jauge, on ajoute seulement un demi-litre à la fois.
+
+## Idées reçues
+
+Une huile plus chère ne dispense pas de suivre l'intervalle prescrit. Une huile plus fluide n'est pas bonne pour tous les moteurs : elle doit correspondre à la spécification prévue. Enfin, une huile neuve se conserve : bidon fermé, au moins trois ans ; bidon ouvert, à utiliser dans les six mois.
+
+## À retenir
+
+- L'huile lubrifie, aide à refroidir, protège de la corrosion et emporte les saletés.
+- Dans 5W-30, le premier nombre décrit le froid, le second la viscosité à 100 °C.
+- Plus d'un litre pour 2 000 km indique un défaut à réparer.
+- Le niveau se contrôle moteur chaud, environ deux minutes après l'arrêt.
+- La spécification du constructeur compte autant que la viscosité.
+
+```schema
+type: systeme
+titre: Les rôles de l'huile moteur
+centre: Huile moteur
+icone: droplet
+parties:
+  - nom: Protéger
+    role: Un film d'huile sépare les pièces.
+  - nom: Refroidir
+    role: Elle emporte une partie de la chaleur.
+  - nom: Nettoyer
+    role: Elle entraîne les impuretés vers le filtre.
+```
 
 ---
 
@@ -2643,15 +4239,106 @@ title: Le filtre à particules et le catalyseur
 slug: filtre-particules-catalyseur
 categoryPath: automobile/motorisations/thermique
 summary: >
-  Les moteurs modernes traitent leurs gaz après la combustion. Le filtre capture des particules et
-  le catalyseur transforme plusieurs polluants.
+  Avant de sortir du pot, les gaz d'échappement passent par deux dépollueurs : un catalyseur qui
+  transforme trois polluants gazeux et un filtre qui piège la suie. Tous deux ont besoin de
+  chaleur pour bien travailler.
 tags: [automobile, pollution, catalyseur, filtre, diesel]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [moteur-diesel-principe-et-declin, normes-demissions-euro]
+sources:
+  - title: "Pots catalytiques et dépollution automobile (ch-411)"
+    url: "https://new.societechimiquedefrance.fr/wp-content/uploads/2019/12/ch-411.pdf"
+    publisher: "Société chimique de France"
+  - title: "Dementhon, Oil & Gas Science and Technology, vol. 52 n°4"
+    url: "https://ogst.ifpenergiesnouvelles.fr/articles/ogst/pdf/1997/04/dementhon_v52n4.pdf"
+    publisher: "IFP Energies nouvelles"
+    date: "1997"
+quiz:
+  - question: "Quels polluants le catalyseur trois voies traite-t-il à la fois ?"
+    options:
+      - "CO, hydrocarbures et oxydes d'azote"
+      - "Suie, CO2 et soufre"
+      - "Eau, azote et oxygène"
+    answer: 1
+    explanation: "Il élimine le monoxyde de carbone, les hydrocarbures imbrûlés et les oxydes d'azote, à condition que le mélange reste proche de la stœchiométrie."
+  - question: "À quelle température la suie s'enflamme-t-elle typiquement sans additif ?"
+    options:
+      - "Entre 100 et 200 °C"
+      - "Entre 500 et 600 °C"
+      - "Au-dessus de 1 000 °C"
+    answer: 2
+    explanation: "Sans additif, la combustion de la suie démarre typiquement entre 500 et 600 °C ; un additif peut la ramener vers 450 °C."
+  - question: "Pourquoi les petits trajets répétés posent-ils problème à un filtre à particules ?"
+    options:
+      - "Ils usent la céramique par frottement"
+      - "L'échappement reste trop froid pour brûler la suie"
+      - "Ils font disparaître le catalyseur"
+    answer: 2
+    explanation: "La régénération demande une température élevée, rarement atteinte lors de courts parcours : la suie s'accumule et le filtre se colmate."
+  - question: "Le catalyseur supprime-t-il le dioxyde de carbone ?"
+    options:
+      - "Oui, totalement"
+      - "Oui, mais seulement à chaud"
+      - "Non, il en produit en oxydant le CO"
+    answer: 3
+    explanation: "En oxydant le monoxyde de carbone, le catalyseur forme du CO2. Il réduit des polluants toxiques, pas le gaz à effet de serre."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une voiture ne se contente pas de mieux brûler son carburant : elle nettoie aussi ses gaz juste avant de les rejeter. Le catalyseur transforme trois polluants gazeux en substances bien moins nocives, tandis que le filtre à particules retient la suie. Les deux fonctionnent mal à froid, ce qui explique certains ennuis liés aux petits trajets.
+
+## Le catalyseur : une chimie accélérée
+
+Dans un moteur à essence, le catalyseur dit « trois voies » traite trois polluants à la fois : le monoxyde de carbone (CO), les hydrocarbures imbrûlés (HC) et les oxydes d'azote (NOx). D'après la Société chimique de France, il repose sur du platine, du palladium et du rhodium déposés sur de l'alumine, associée à un composé de cérine et de zircone.
+
+Ces métaux ne sont pas consommés. Ils offrent une surface sur laquelle les réactions se déroulent beaucoup plus vite. Le CO et les hydrocarbures sont oxydés en dioxyde de carbone et en eau, tandis que les oxydes d'azote sont ramenés à de l'azote.
+
+Cette double action impose un réglage précis. Le catalyseur ne travaille bien que si le mélange air-carburant reste proche de la stœchiométrie, c'est-à-dire un rapport de 14,7 (λ = 1). Une sonde placée à l'échappement permet au calculateur de corriger l'injection en continu.
+
+## Le filtre à particules : un piège à suie
+
+Le filtre à particules est surtout associé aux moteurs diesel. Le fabricant Hella décrit un nid d'abeille en céramique dont la surface est revêtue de métaux précieux. Les gaz traversent les parois poreuses, et la suie reste bloquée à l'intérieur.
+
+Une publication de l'IFP datant de 1997 cite, pour ce type de pièges, des rendements de collecte allant de 70 % à plus de 90 % selon les fractions de particules. Le filtre n'est donc pas un simple tamis : il retient la grande majorité de ce qui le traverse.
+
+## La régénération : brûler la suie accumulée
+
+Un filtre qui se remplit finit par gêner la sortie des gaz. Dans un essai sur banc décrit par l'IFP, la perte de charge, c'est-à-dire la résistance au passage des gaz, passait de 15 à 40 mbar pour un piège propre à 350 à 420 mbar lorsqu'il était encrassé. Il faut donc vider le filtre en brûlant la suie.
+
+Sans aide, la suie s'enflamme typiquement entre 500 et 600 °C. Certains systèmes ajoutent un additif au carburant pour abaisser cette température : Hella indique une combustion à 450 °C. Selon le même constructeur, la régénération intervient environ tous les 400 à 800 km, généralement lors d'un trajet sur voie rapide.
+
+Le même document de l'IFP note que des régénérations spontanées peuvent apparaître dès 230 °C environ à l'échappement lorsque le filtre est proche du moteur. Elles restent toutefois locales et aléatoires, et laissent souvent le filtre partiellement nettoyé.
+
+## Limites et idées reçues
+
+Un conducteur qui n'effectue que des trajets courts empêche l'échappement de monter assez haut en température. La régénération est alors interrompue ou incomplète, et le filtre se charge de plus en plus. Un long parcours sur route permet en général de le vider.
+
+Le catalyseur ne supprime pas le CO2 : en oxydant le CO, il en produit. Son rôle est de réduire des polluants toxiques ou irritants, pas le gaz à effet de serre. Pris ensemble, catalyseurs et progrès des moteurs ont réduit les émissions polluantes d'un facteur 5 environ, selon la Société chimique de France.
+
+Ces métaux ont un coût. Ils représentent près des deux tiers du prix d'un catalyseur. Pour l'ensemble des systèmes de dépollution, la même source estime la demande à environ 120 tonnes de platine et 160 tonnes de palladium pour quelque 80 millions de véhicules par an, face à une offre mondiale d'environ 240 et 250 tonnes. Moins de 25 % est recyclé, d'où l'enjeu du recyclage.
+
+## À retenir
+
+- Le catalyseur trois voies transforme CO, hydrocarbures et oxydes d'azote grâce au platine, au palladium et au rhodium.
+- Il exige un mélange air-carburant proche de 14,7 pour rester efficace.
+- Le filtre à particules piège la suie dans une céramique poreuse, avec un rendement élevé.
+- La régénération brûle la suie, à 450 °C avec additif et 500 à 600 °C sans.
+- Les trajets courts répétés empêchent le système de chauffer assez pour se nettoyer.
+
+```schema
+type: comparaison
+titre: Catalyseur ou filtre à particules
+colonnes:
+  - titre: Catalyseur
+    points:
+      - Transforme chimiquement certains polluants
+  - titre: Filtre à particules
+    points:
+      - Retient les particules
+      - Les brûle lors de la régénération
+```
 
 ---
 
@@ -2661,15 +4348,109 @@ title: La transmission intégrale et le différentiel
 slug: transmission-integrale-differentiel
 categoryPath: automobile/motorisations/thermique
 summary: >
-  Le différentiel permet aux roues d'un même essieu de parcourir des distances différentes. La
-  transmission intégrale répartit le couple lorsque l'adhérence varie.
+  Dans un virage, chaque roue parcourt une distance différente. Le différentiel le permet en
+  répartissant la force du moteur, et la transmission intégrale étend ce principe aux deux
+  essieux, avec des gains de motricité et des coûts en poids.
 tags: [automobile, transmission, differentiel, 4x4, adherence]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [pneus-contact-route-adherence, fonctionnement-boite-de-vitesses]
+sources:
+  - title: "differential gear"
+    url: "https://www.britannica.com/print/article/162935"
+    publisher: "Encyclopaedia Britannica"
+  - title: "FOTW #1277: Nearly 60% of Light-Duty Vehicles Produced in 2022 had All-Wheel or 4-Wheel Drive"
+    url: "https://www.energy.gov/node/4826325"
+    publisher: "U.S. Department of Energy"
+    date: "2023"
+quiz:
+  - question: "Pourquoi un différentiel est-il nécessaire dans un virage ?"
+    options:
+      - "La roue extérieure parcourt un arc plus long que la roue intérieure"
+      - "Les deux roues doivent recevoir des couples différents"
+      - "Le moteur tourne plus vite en virage"
+    answer: 1
+    explanation: "Les deux roues parcourent des distances différentes : elles doivent donc pouvoir tourner à des vitesses différentes."
+  - question: "Que se passe-t-il avec un différentiel simple si une roue patine sur la glace ?"
+    options:
+      - "Le couple va surtout à la roue qui accroche"
+      - "Le couple qui parvient à l'autre roue chute"
+      - "Les deux roues se bloquent"
+    answer: 2
+    explanation: "Le différentiel simple donne un couple égal aux deux roues : si l'une patine, l'autre reçoit très peu de couple."
+  - question: "Quel inconvénient la transmission intégrale présente-t-elle ?"
+    options:
+      - "Elle empêche de prendre des virages"
+      - "Elle ajoute poids et frottements, donc de la consommation"
+      - "Elle supprime l'adhérence des pneus"
+    answer: 2
+    explanation: "Les composants supplémentaires alourdissent le véhicule et ajoutent des frottements, ce qui peut dégrader la consommation."
+  - question: "Quelle part des véhicules légers produits aux États-Unis en 2022 avait une transmission intégrale ou 4x4 ?"
+    options:
+      - "Environ 59 %"
+      - "Environ 10 %"
+      - "Environ 90 %"
+    answer: 1
+    explanation: "Le département de l'Énergie a relevé 59 % en 2022 (donnée préliminaire), contre une domination de ce type de transmission depuis 2017."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans un virage, les quatre roues ne parcourent pas la même distance. Le différentiel permet à deux roues d'un même essieu de tourner à des vitesses différentes tout en recevant la puissance du moteur. La transmission intégrale étend cette logique aux deux essieux : elle améliore la motricité, au prix de poids et de complexité.
+
+## Pourquoi les roues ne tournent pas à la même vitesse
+
+Dans un virage, la roue extérieure décrit un arc plus long que la roue intérieure. Il en va de même sur un sol bosselé, où l'une des roues monte et descend davantage que l'autre. Si les deux roues étaient liées rigidement au même axe, l'une d'elles devrait glisser, ce qui userait les pneus et gênerait la conduite.
+
+Selon Britannica, le différentiel envoie la force du moteur aux deux roues motrices tout en laissant chacune suivre un trajet de longueur différente. Il a été inventé par le Français Onésiphore Pecqueur en 1827 et utilisé d'abord sur des véhicules à vapeur.
+
+## Comment fonctionne le différentiel
+
+Un pignon, placé au bout de l'arbre de transmission, entraîne une grande couronne conique. Un boîtier fixé à cette couronne porte de petits pignons coniques, les satellites. Ils engrènent avec deux planétaires, chacun relié à l'axe d'une roue.
+
+En ligne droite, tout l'ensemble tourne d'un bloc et les deux roues tournent à la même vitesse. Dans un virage à gauche, la roue droite accélère : les satellites se mettent alors à tourner sur eux-mêmes et absorbent l'écart. La couronne, elle, tourne à la vitesse moyenne des deux roues.
+
+Un test simple le montre. Véhicule levé et au point mort, tourner une roue à la main fait tourner l'autre à la même vitesse, mais en sens inverse.
+
+## Le défaut du différentiel simple
+
+Le différentiel répartit un couple égal entre les deux roues. Si l'une d'elles patine sur la glace ou la boue, le couple qui parvient à l'autre chute. Imaginez une voiture dont une roue repose sur une plaque de verglas et l'autre sur du bitume sec : la roue sur la glace tourne dans le vide, et la voiture n'avance pas.
+
+La version à glissement limité répond à ce problème. Un embrayage relie un des axes à la couronne. Il résiste à la roue qui s'emballe et envoie davantage de couple vers celle qui a de l'adhérence.
+
+## Passer à deux essieux
+
+Une transmission intégrale entraîne les deux essieux. Un dispositif central, qui peut être un différentiel ou un embrayage piloté, répartit le couple entre l'avant et l'arrière selon l'adhérence, la vitesse et le mode de conduite choisi.
+
+Cette solution est devenue courante. Selon le département américain de l'Énergie, 59 % des véhicules légers produits aux États-Unis en 2022 étaient équipés d'une transmission intégrale ou 4x4 (donnée préliminaire), et ce type est le plus répandu depuis 2017.
+
+Elle a un prix. Les pièces supplémentaires ajoutent du poids et des frottements, ce qui peut dégrader la consommation, souligne la même source.
+
+## Ce que l'intégrale ne fait pas
+
+Plus de motricité ne signifie pas plus de capacité de freinage. Pour s'arrêter, ce sont les quatre pneus et leur adhérence qui comptent, que la voiture soit à deux ou quatre roues motrices. L'intégrale aide surtout au démarrage et à l'accélération, notamment lorsque l'adhérence diffère d'une roue à l'autre.
+
+## À retenir
+
+- Le différentiel permet aux roues d'un même essieu de tourner à des vitesses différentes dans un virage.
+- Un différentiel simple répartit un couple égal, donc une roue qui patine peut priver l'autre de couple.
+- Le différentiel à glissement limité renvoie du couple vers la roue qui a de l'adhérence.
+- La transmission intégrale répartit le couple entre deux essieux, mais ajoute poids et frottements.
+- Elle améliore la motricité, pas le freinage.
+
+```schema
+type: systeme
+titre: Différentiel et transmission intégrale
+centre: Transmission
+icone: gear
+parties:
+  - nom: Différentiel
+    role: Laisse les roues tourner à des vitesses différentes en virage.
+  - nom: Transmission intégrale
+    role: Aide surtout quand l'adhérence est inégale.
+  - nom: Freinage
+    role: Plus de motricité ne veut pas dire mieux freiner.
+```
 
 ---
 
@@ -2679,15 +4460,106 @@ title: La direction assistée et la maniabilité
 slug: direction-assistee-maniabilite
 categoryPath: automobile/securite-et-conduite
 summary: >
-  La direction transmet l'intention du conducteur aux roues. L'assistance réduit l'effort, tandis
-  que la géométrie détermine stabilité et précision.
+  Du volant aux roues, la direction mêle mécanique, assistance et géométrie. L'assistance,
+  aujourd'hui souvent électrique, réduit l'effort, mais c'est le réglage du train avant et des
+  pneus qui détermine la précision et la stabilité.
 tags: [automobile, direction, assistance, maniabilite, securite]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [suspension-confort-tenue-de-route, pneus-contact-route-adherence]
+sources:
+  - title: "Analysis of Energy Consumption for Various Power Assisted Steering Systems (SAE 970379)"
+    url: "https://saemobilus.sae.org/papers/analysis-energy-consumption-various-power-assisted-steering-systems-970379"
+    publisher: "SAE International"
+    date: "1997"
+  - title: "Electric Power Steering"
+    url: "https://www.nskeurope.com/eu-en/products/automotive/automotive-oem/industries/electric-power-steering"
+    publisher: "NSK Europe"
+quiz:
+  - question: "Quel organe transforme la rotation du pignon en déplacement latéral dans une direction à crémaillère ?"
+    options:
+      - "Un piston de frein"
+      - "La crémaillère"
+      - "Le différentiel"
+    answer: 2
+    explanation: "Le pignon déplace la crémaillère, qui oriente les roues par ses biellettes."
+  - question: "Pourquoi la direction assistée électrique consomme-t-elle moins que l'hydraulique classique ?"
+    options:
+      - "Elle n'apporte aucune aide en ligne droite à haute vitesse"
+      - "Elle n'utilise de l'énergie que lorsqu'une correction est demandée"
+      - "Elle supprime tout frottement"
+    answer: 2
+    explanation: "Un moteur électrique commandé à la demande évite les pertes d'une pompe qui tourne en permanence."
+  - question: "Qu'implique une direction très démultipliée ?"
+    options:
+      - "Peu de rotation du volant mais un effort élevé"
+      - "Beaucoup de rotation du volant pour un petit angle des roues"
+      - "Une direction qui réagit plus vite aux mouvements"
+    answer: 2
+    explanation: "Une forte démultiplication facilite les manœuvres mais demande de tourner davantage le volant."
+  - question: "Que fait l'assistance de direction face à un pneu qui a perdu l'adhérence ?"
+    options:
+      - "Elle recrée de l'adhérence"
+      - "Elle ne change pas la limite d'adhérence des pneus"
+      - "Elle bloque le volant"
+    answer: 2
+    explanation: "L'assistance réduit l'effort mais ne crée pas d'adhérence : la limite reste celle des pneus."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le volant agit sur les roues directrices par une chaîne mécanique simple. L'assistance diminue l'effort à fournir, surtout à l'arrêt ou à basse vitesse. La stabilité et la précision, elles, viennent de la géométrie du train avant, des pneus et de la suspension.
+
+## Du volant aux roues
+
+Sur la plupart des voitures, le volant fait tourner une colonne reliée à un petit pignon. Ce pignon déplace une crémaillère, une barre dentée placée en travers du véhicule. À chaque extrémité, des biellettes orientent les roues avant.
+
+Le rapport entre la rotation du volant et l'angle des roues s'appelle la démultiplication. Une direction très démultipliée demande de tourner beaucoup le volant pour un petit angle, mais l'effort est faible. Une direction plus directe réagit plus vite à un mouvement des mains, mais elle devient aussi plus sensible aux erreurs et aux irrégularités de la route.
+
+## L'assistance hydraulique
+
+Sur les systèmes classiques, une pompe entraînée par le moteur fait circuler de l'huile sous pression. Un piston pousse alors la crémaillère et aide le conducteur. Le défaut est que la pompe tourne en permanence, même en ligne droite quand aucune aide n'est nécessaire.
+
+Une étude de la SAE publiée en 1997 a cartographié la consommation d'énergie de ces directions à circuit ouvert. Elle parle d'une inefficacité grossière due à de fortes pertes parasites.
+
+## L'assistance électrique
+
+Les systèmes modernes remplacent l'huile par un moteur électrique. Selon le fabricant NSK, un capteur détecte la résistance au volant et un moteur électrique apporte l'aide nécessaire, sous le contrôle d'un logiciel. Un calculateur commande le moteur pour apporter l'aide nécessaire. Le moteur ne tourne que lorsque l'aide est utile, alors qu'une pompe hydraulique tourne en continu, ce qui provoque des pertes d'énergie importantes, note NSK. Supprimer la pompe économise aussi du carburant et de la place.
+
+La même étude SAE concluait que les systèmes à la demande, comme la direction assistée électrique, étaient probablement les plus efficaces sur le plan énergétique. Elle voyait dans l'électro-hydraulique une étape intermédiaire utile.
+
+Un calculateur pilote le moteur, et cela ouvre des possibilités : l'effort peut varier avec la vitesse, et le même système peut servir à des aides au stationnement ou au maintien dans la voie. Ces fonctions peuvent agir sur la direction sans l'intervention du conducteur.
+
+## Une affaire de géométrie
+
+L'assistance ne dit rien de la manière dont la voiture tient sa trajectoire. Cela dépend de réglages comme l'inclinaison de l'axe de pivot des roues, leur parallélisme et leur carrossage, ainsi que du comportement des pneus et de la suspension. Un bon réglage donne une voiture stable en ligne droite, qui revient d'elle-même vers le centre après un virage.
+
+Un défaut de réglage ou un pneu usé change ce comportement : la voiture peut devenir nerveuse, tirer d'un côté ou imposer des corrections constantes.
+
+## Limites
+
+L'assistance réduit l'effort, elle ne crée pas d'adhérence. Quand les pneus atteignent leur limite sur route mouillée ou glissante, tourner davantage le volant ne fait pas tourner davantage la voiture. Une direction légère peut même donner une impression de maîtrise supérieure à la réalité, car le conducteur ressent moins ce que les pneus supportent.
+
+## À retenir
+
+- Le volant agit sur les roues par une colonne, un pignon et une crémaillère.
+- L'assistance réduit l'effort, mais elle ne crée pas d'adhérence.
+- L'assistance hydraulique consomme en permanence, l'électrique seulement quand une correction est demandée.
+- Une forte démultiplication facilite les manœuvres, une direction directe est plus réactive mais plus sensible.
+- La géométrie du train avant et les pneus déterminent la stabilité et la précision.
+
+```schema
+type: systeme
+titre: Ce que fait la direction assistée
+centre: Direction assistée
+parties:
+  - nom: Réduire l'effort
+    role: Elle ne crée pas d'adhérence.
+  - nom: Géométrie
+    role: Elle influence stabilité et précision.
+  - nom: Assistance électrique
+    role: Elle facilite les aides à la conduite.
+```
 
 ---
 
@@ -2697,15 +4569,105 @@ title: Comment fonctionnent les capteurs ADAS
 slug: capteurs-adas-radar-camera-lidar
 categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
 summary: >
-  Caméra, radar, ultrasons et lidar ne perçoivent pas le monde de la même façon. La fusion de leurs
-  informations compense leurs limites respectives.
+  Caméra, radar, lidar et ultrasons ne perçoivent pas la route de la même façon. Chacun a ses
+  forces et ses angles morts, et leur fusion par un calculateur rend les aides à la conduite plus
+  fiables.
 tags: [automobile, ADAS, radar, camera, lidar]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [technologies-aide-conduite-efficacite, freinage-durgence-automatique]
+sources:
+  - title: "Sensors in Self-Driving Vehicles: A Detailed Literature Review and New Trends"
+    url: "https://www.mdpi.com/1424-8220/26/7/2153"
+    publisher: "Sensors (MDPI), revue scientifique"
+  - title: "Intelligent Transport Systems"
+    url: "https://www.etsi.org/technologies/intelligent-transport"
+    publisher: "ETSI"
+quiz:
+  - question: "Quel capteur mesure avec précision distance et vitesse sans être gêné par la météo ?"
+    options:
+      - "Le radar"
+      - "L'ultrason"
+      - "La caméra"
+    answer: 1
+    explanation: "Le radar, à longue portée autour de 77 GHz, reste fiable par mauvais temps, même s'il est moins détaillé que les capteurs optiques."
+  - question: "À quoi servent surtout les capteurs à ultrasons ?"
+    options:
+      - "Lire les panneaux"
+      - "Détecter des véhicules à 200 m"
+      - "Aider aux manœuvres à courte distance"
+    answer: 3
+    explanation: "Leur portée n'est que de quelques mètres : ils servent aux manœuvres à basse vitesse."
+  - question: "Quelle est la faiblesse principale du lidar d'après le texte ?"
+    options:
+      - "Il ne mesure pas les distances"
+      - "Brouillard, pluie et lumière vive réduisent sa portée"
+      - "Il ne couvre qu'un angle étroit"
+    answer: 2
+    explanation: "Le lidar mesure bien les distances en 3D, mais la pluie, le brouillard et la lumière vive diminuent sa portée."
+  - question: "Pourquoi fusionner les données de plusieurs capteurs ?"
+    options:
+      - "Pour compenser les limites de chacun et détecter des incohérences"
+      - "Pour supprimer tout besoin de calibration"
+      - "Pour que le conducteur n'ait plus à regarder la route"
+    answer: 1
+    explanation: "La fusion croise les mesures et améliore la robustesse, mais elle ne supprime pas les limites de météo, de visibilité ou de calibration."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un système d'aide à la conduite ne voit pas comme un humain. Il combine plusieurs capteurs pour estimer la position, la vitesse et la nature des objets autour du véhicule. Aucun capteur ne suffit seul : c'est leur association qui rend le résultat robuste.
+
+## La caméra : reconnaître
+
+La caméra lit les lignes au sol et reconnaît véhicules, piétons et panneaux. Une caméra simple estime mal la profondeur ; un montage stéréo, avec deux caméras, fournit une vision en trois dimensions sur une portée plus courte.
+
+Sa limite est celle d'un œil : la qualité de l'image dépend de la lumière et de la météo. Un pare-brise sale ou un contre-jour intense dégradent ce qu'elle voit.
+
+## Le radar : mesurer distance et vitesse
+
+Le radar émet des ondes radio et mesure leur retour. Selon une revue publiée dans la revue scientifique Sensors, les radars de longue portée fonctionnent autour de 77 GHz et détectent jusqu'à 250 m ; ceux de courte portée voient moins loin.
+
+Il mesure avec précision la distance et la vitesse, même à grande vitesse, et ne dépend pas de la météo. Sa faiblesse est une résolution spatiale plus faible que celle des capteurs optiques : il décrit moins finement la forme et la position d'un objet qu'une caméra. L'organisme de normalisation ETSI mentionne par ailleurs des bandes à 24 et 79 GHz pour les radars anticollision à courte portée.
+
+## Le lidar : dessiner en 3D
+
+Le lidar envoie des impulsions de lumière et mesure leur temps de retour. La plupart des lidars commerciaux utilisent une longueur d'onde de 905 nm (proche infrarouge). Il donne une image tridimensionnelle précise de la géométrie de la scène.
+
+Sa faiblesse : une lumière vive ou une visibilité réduite, comme le brouillard, la pluie ou les projections, réduisent sa portée par diffusion et absorption de la lumière.
+
+## Les ultrasons : les manœuvres
+
+Les capteurs à ultrasons se logent le plus souvent dans les pare-chocs. Leur portée est d'environ 1 à 5 m, avec une précision de l'ordre du centimètre, et ils sont sensibles à la température et au vent. Ils servent donc surtout aux manœuvres à basse vitesse.
+
+## La fusion des capteurs
+
+Un calculateur compare les mesures et cherche l'interprétation la plus cohérente. Si la caméra voit une forme et que le radar confirme un objet à 80 m qui se rapproche, la confiance augmente. Si les deux capteurs divergent, le système peut réduire son niveau d'assistance ou alerter le conducteur.
+
+Cette redondance aide à détecter une erreur, mais elle ne supprime pas les limites de visibilité, de météo ou de calibration. Après un choc ou un remplacement de pare-brise, la caméra peut devoir être recalibrée : un capteur mal orienté voit juste, mais au mauvais endroit.
+
+## À retenir
+
+- La caméra reconnaît formes, lignes et panneaux, mais dépend de la lumière et de la météo.
+- Le radar mesure distance et vitesse, sans être gêné par la météo, mais décrit moins finement les objets que les capteurs optiques.
+- Le lidar produit une image 3D précise, mais ses performances baissent par mauvais temps.
+- Les ultrasons couvrent quelques mètres, lors des manœuvres.
+- Un choc ou un changement de pare-brise peut imposer une recalibration.
+
+```schema
+type: systeme
+titre: La fusion des capteurs
+legende: Aucun capteur ne suffit dans toutes les situations.
+centre: Perception
+icone: eye
+parties:
+  - nom: Radar
+    role: Distances et vitesses.
+  - nom: Caméra
+    role: Identifie les objets et les marquages.
+  - nom: Lidar
+    role: Une image en relief par laser.
+```
 
 ---
 
@@ -2715,15 +4677,99 @@ title: La communication entre véhicules et infrastructures
 slug: communication-v2x-vehicule-infrastructure
 categoryPath: automobile/securite-et-conduite/conduite-autonome
 summary: >
-  La technologie V2X permet aux véhicules d'échanger avec d'autres véhicules, des piétons et la
-  route afin d'anticiper certains dangers invisibles.
+  Grâce au V2X, une voiture peut recevoir une alerte sur un danger qu'elle ne voit pas encore :
+  freinage brutal en amont, chantier, feu ou véhicule d'urgence. Cette communication complète les
+  capteurs sans les remplacer.
 tags: [automobile, V2X, connectivite, securite, infrastructure]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [voitures-connectees-cybersecurite, niveaux-dautomatisation-de-la-conduite]
+sources:
+  - title: "The ITS Directive brings legal certainty and security to C-ITS"
+    url: "https://car-2-car.org/news-events/news/detailview/the-its-directive-brings-legal-certainty-and-security-to-c-its-135"
+    publisher: "CAR 2 CAR Communication Consortium"
+    date: "2023"
+  - title: "Intelligent Transport Systems"
+    url: "https://www.etsi.org/technologies/intelligent-transport"
+    publisher: "ETSI"
+quiz:
+  - question: "Que désigne le terme C-ITS dans le droit européen ?"
+    options:
+      - "Un type de radar"
+      - "Les services V2X, ou systèmes de transport intelligents coopératifs"
+      - "Un carburant de synthèse"
+    answer: 2
+    explanation: "C-ITS est le terme utilisé par le droit européen pour les services V2X."
+  - question: "Quelle bande de fréquences est réservée en Europe aux services de sécurité C-ITS ?"
+    options:
+      - "50 MHz dans la bande des 5,9 GHz"
+      - "Toute la bande des 77 GHz"
+      - "La bande de la radio FM"
+    answer: 1
+    explanation: "Le règlement européen attribue 50 MHz de la bande 5,9 GHz à ces services dans tous les États membres."
+  - question: "Pourquoi le V2X ne remplace-t-il pas les capteurs du véhicule ?"
+    options:
+      - "Il fonctionne uniquement de jour"
+      - "Il est interdit en ville"
+      - "Tous les usagers ne sont pas connectés"
+    answer: 3
+    explanation: "Un piéton, un cycliste ou un vieux véhicule non équipés restent invisibles pour le réseau : les capteurs restent nécessaires."
+  - question: "Comment protège-t-on le V2X contre les fausses alertes ?"
+    options:
+      - "Par des certificats à pseudonymes qui authentifient les messages"
+      - "En supprimant les messages d'urgence"
+      - "En limitant la vitesse à 30 km/h"
+    answer: 1
+    explanation: "Un système de certificats authentifie l'émetteur tout en changeant d'identifiant pour protéger la vie privée."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une voiture équipée de capteurs ne perçoit pas toujours un véhicule caché par un camion ou par un virage. Le V2X (vehicle-to-everything) lui permet de recevoir l'information avant de voir le danger. Cette technologie complète la perception classique, elle ne la remplace pas.
+
+## Les différentes formes de V2X
+
+Le sigle regroupe plusieurs liaisons. Le V2V relie les véhicules entre eux, le V2I relie un véhicule à l'infrastructure routière (feux, panneaux à messages variables, chantiers), et le V2P concerne les piétons et autres usagers vulnérables. Dans le droit européen, ces services portent le nom de C-ITS, pour systèmes de transport intelligents coopératifs.
+
+L'organisme de normalisation ETSI décrit des services standardisés. Les messages de présence permettent à chaque station de signaler sa position et son mouvement. Les messages de notification d'événement alertent les usagers d'un incident détecté. Un service de perception coopérative permet à une station de partager ce que ses propres capteurs ont repéré autour d'elle.
+
+## Comment circulent les messages
+
+Les échanges se font par radio à courte portée, sans passer par un réseau de téléphonie. Le règlement européen réserve 50 MHz de la bande des 5,9 GHz aux services de sécurité et d'automatisation des C-ITS dans tous les États membres, selon le consortium CAR 2 CAR. La technologie ITS-G5 sert de base au routage géographique : les messages peuvent être relayés de véhicule en véhicule sans infrastructure.
+
+## Des usages concrets
+
+Un conducteur peut recevoir l'alerte d'un freinage brutal plusieurs véhicules devant lui, d'un chantier ou d'un véhicule d'urgence qui approche. Un feu peut annoncer son changement de phase, et l'infrastructure peut ajuster ses cycles selon le trafic. Les cas d'usage retenus par le consortium couvrent la sécurité routière, la mobilité durable et la gestion du trafic.
+
+Le déploiement est réel en Europe : en décembre 2023, le consortium faisait état d'environ 1,5 million de véhicules concernés et de plus de 20 000 km d'autoroutes équipées. Il le présente comme la plus grande exploitation interopérable de V2X au monde.
+
+## La limite essentielle
+
+Un véhicule ne peut pas supposer que tous les usagers sont connectés : un vieux véhicule, un piéton sans équipement ou un cycliste restent invisibles pour le réseau. La perception par les capteurs reste donc indispensable.
+
+Il faut aussi pouvoir se fier aux messages. Une fausse alerte pourrait déclencher un freinage inutile, voire dangereux. Le cadre de sécurité décrit par l'ETSI repose sur des certificats à pseudonymes, qui authentifient l'émetteur tout en changeant d'identifiant pour protéger la vie privée. Le CAR 2 CAR précise que le système européen de gestion de ces certificats est déjà opérationnel sous l'égide de la Commission européenne, et que la directive ITS révisée lui donne une base légale.
+
+## À retenir
+
+- V2X regroupe le V2V, le V2I et le V2P, et s'appelle C-ITS dans le droit européen.
+- La technologie peut signaler un danger hors du champ visuel des capteurs.
+- L'Europe réserve 50 MHz de la bande 5,9 GHz à ces services de sécurité.
+- En 2023, environ 1,5 million de véhicules européens étaient concernés selon le CAR 2 CAR.
+- Le V2X complète les capteurs et dépend de la cybersécurité : les messages doivent être authentifiés.
+
+```schema
+type: systeme
+titre: Les trois volets du V2X
+centre: Véhicule connecté
+icone: wifi
+parties:
+  - nom: V2V
+    role: Entre véhicules.
+  - nom: V2I
+    role: Avec l'infrastructure.
+  - nom: V2P
+    role: Avec les piétons.
+```
 
 ---
 
@@ -2733,15 +4779,103 @@ title: Le risque d'emballement thermique des batteries
 slug: emballement-thermique-batterie-electrique
 categoryPath: automobile/motorisations/electrique
 summary: >
-  Une batterie lithium-ion peut produire sa propre chaleur lors d'un défaut. La sécurité repose sur
-  la surveillance, le refroidissement et la limitation de la propagation entre cellules.
+  Dans une batterie lithium-ion, un défaut peut déclencher une réaction qui produit sa propre
+  chaleur et se propage de cellule en cellule. Surveillance, refroidissement et barrières
+  physiques servent à l'arrêter avant qu'elle ne s'étende.
 tags: [automobile, batterie, securite, thermique, incendie]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [chimies-batteries-lithium-ion-automobile, recyclage-batteries-vehicules-electriques]
+sources:
+  - title: "Features and Spread Mechanism of Thermal Runaway for Electric Car Batteries"
+    url: "https://iieta.org/node/9927"
+    publisher: "IIETA"
+  - title: "An Overview on Thermal Safety Issues of Lithium-ion Batteries for Electric Vehicle Application"
+    url: "https://doaj.org/article/7d50daf0ae9c4f45a04266b77f419eec"
+    publisher: "IEEE Access"
+    date: "2018"
+quiz:
+  - question: "Qu'est-ce que l'emballement thermique ?"
+    options:
+      - "Une panne de la recharge rapide"
+      - "Une réaction qui produit sa propre chaleur et s'entretient"
+      - "Une simple surchauffe sans conséquence"
+    answer: 2
+    explanation: "La réaction libère de la chaleur qui l'accélère, d'où son caractère auto-entretenu."
+  - question: "Que libère la décomposition de l'électrode positive ?"
+    options:
+      - "De l'oxygène"
+      - "Du lithium pur"
+      - "De l'eau"
+    answer: 1
+    explanation: "Elle libère de l'oxygène, ce qui alimente la combustion à l'intérieur de la cellule."
+  - question: "Quel est le rôle d'une meilleure évacuation de la chaleur ?"
+    options:
+      - "Elle accélère la réaction"
+      - "Elle ne change rien"
+      - "Elle évite un pic de température et rend l'emballement moins probable"
+    answer: 3
+    explanation: "Dans l'étude citée, une meilleure évacuation évitait le pic de température."
+  - question: "Pourquoi un pack accidenté reste-t-il dangereux après l'arrêt du véhicule ?"
+    options:
+      - "Une cellule abîmée peut réagir après un délai"
+      - "Le moteur continue de tourner"
+      - "Le BMS devient inutile"
+    answer: 1
+    explanation: "Un pack endommagé peut rester dangereux : d'où des procédures spécifiques pour l'isoler et le transporter."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une batterie de voiture électrique concentre beaucoup d'énergie dans un volume compact. Un court-circuit interne, un choc, une surcharge ou une température excessive peut déclencher une réaction qui s'entretient d'elle-même : l'emballement thermique. La conception du pack vise surtout à empêcher qu'une cellule en défaut chauffe ses voisines.
+
+## Une réaction en plusieurs étapes
+
+Un article publié dans la revue IIETA décrit la montée en température par étapes. Vers 70 à 90 °C, la fine couche protectrice qui recouvre l'électrode négative commence à se décomposer. À partir d'environ 120 °C, l'électrode négative réagit avec l'électrolyte. Entre 180 et 250 °C selon les passages de l'article, l'électrode positive se décompose et libère de l'oxygène, ce qui alimente la combustion.
+
+À ce stade, la température au cœur de la cellule peut dépasser 1 000 °C. La chaleur produite devient négligeable sous 145 °C environ ; au-delà, le dégagement s'accélère. Le phénomène devient alors difficile à arrêter de l'intérieur.
+
+## Ce qui peut le déclencher
+
+Les causes sont mécaniques (choc, perforation), électriques (surcharge, décharge excessive, court-circuit interne) ou thermiques. Les défauts de fabrication et de conception en font aussi partie. Une revue publiée dans IEEE Access en 2018 qualifie la sécurité thermique des batteries lithium-ion de point douloureux majeur malgré la croissance rapide des ventes.
+
+## La propagation d'une cellule à l'autre
+
+Une cellule en défaut chauffe celles qui l'entourent. Dans un test de perforation à l'aiguille sur un pack, rapporté dans l'article, l'emballement passait d'une cellule à la suivante en 95 à 118 secondes selon les cellules. Les auteurs citent aussi un seuil : la propagation devient plus probable lorsque la cellule voisine chauffe à plus de 0,36 °C par seconde.
+
+Une meilleure évacuation de la chaleur évitait le pic de température et rendait l'emballement moins probable. Lors d'essais de charge rapide, des pics d'environ 350 °C ont été mesurés au bout de 260 secondes environ.
+
+## Les protections
+
+Le système de gestion de la batterie (BMS) mesure tensions et températures cellule par cellule. En cas d'anomalie, il peut limiter le courant ou couper le circuit grâce à des fusibles et des contacteurs. Des circuits de refroidissement évacuent la chaleur, et des barrières physiques entre cellules ralentissent la propagation.
+
+La revue d'IEEE Access distingue la détection et la prévention au niveau de la cellule et du pack. Elle cite des améliorations de matériaux, des additifs et des conceptions thermiques, électriques et mécaniques.
+
+## Après un accident
+
+Un pack endommagé peut rester dangereux même lorsque le véhicule est arrêté : une cellule abîmée peut entrer en réaction après un délai. Les secours et les techniciens suivent donc des procédures spécifiques pour identifier, isoler et transporter une batterie accidentée.
+
+## À retenir
+
+- L'emballement thermique est une réaction qui produit sa propre chaleur, avec des étapes entre 70 et 250 °C.
+- Il peut se propager d'une cellule à l'autre en quelques dizaines de secondes à quelques minutes.
+- Le BMS surveille mais ne remplace pas les protections physiques et le refroidissement.
+- Une meilleure évacuation de la chaleur réduit le risque de propagation.
+- Une batterie accidentée doit être évaluée par des professionnels formés.
+
+```schema
+type: systeme
+titre: Les protections d'une batterie de traction
+centre: Batterie de traction
+icone: battery
+parties:
+  - nom: BMS
+    role: Surveille et protège les cellules.
+  - nom: Protections physiques
+    role: Le BMS ne les remplace pas.
+  - nom: Après un accident
+    role: Évaluation par des professionnels formés.
+```
 
 ---
 
@@ -2751,15 +4885,102 @@ title: La voiture à hydrogène et la pile à combustible
 slug: voiture-hydrogene-pile-combustible
 categoryPath: automobile/motorisations/carburants-alternatifs
 summary: >
-  Une pile à combustible transforme l'hydrogène en électricité à bord. Elle évite les émissions
-  directes de CO2, mais dépend d'une production et d'une distribution d'hydrogène adaptées.
+  Une voiture à hydrogène est une voiture électrique qui fabrique son électricité à bord avec une
+  pile à combustible. Elle n'émet que de l'eau à l'échappement, mais la production et la
+  distribution de l'hydrogène pèsent lourd dans le bilan.
 tags: [automobile, hydrogene, pile-a-combustible, energie, transport]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [voiture-electrique, biocarburants-et-carburants-de-synthese]
+sources:
+  - title: "Alternative Fuels Data Center: How Do Fuel Cell Electric Vehicles Work Using Hydrogen?"
+    url: "https://afdc.energy.gov/vehicles/how-do-fuel-cell-electric-cars-work"
+    publisher: "U.S. Department of Energy"
+  - title: "Hydrogen Refuelling Stations"
+    url: "https://observatory.clean-hydrogen.europa.eu/index.php/hydrogen-landscape/distribution-and-storage/hydrogen-refuelling-stations"
+    publisher: "European Clean Hydrogen Observatory"
+    date: "2026"
+quiz:
+  - question: "Que rejette une voiture à pile à combustible à l'échappement ?"
+    options:
+      - "Du CO2"
+      - "De l'eau et de la chaleur"
+      - "Des particules de suie"
+    answer: 2
+    explanation: "La recombinaison de l'hydrogène et de l'oxygène produit de l'eau et de la chaleur, sans CO2 à l'échappement."
+  - question: "Que sépare le catalyseur de la pile à combustible ?"
+    options:
+      - "L'eau et l'air"
+      - "Le carbone et l'oxygène"
+      - "L'hydrogène en protons et en électrons"
+    answer: 3
+    explanation: "Le catalyseur sépare l'hydrogène ; les protons traversent la membrane, les électrons passent par le circuit et produisent le courant."
+  - question: "Quel ordre de grandeur donne l'étude ZEMO sur l'efficacité du puits à la roue ?"
+    options:
+      - "Hydrogène 4 à 6 fois moins efficace que l'électrique à batterie"
+      - "Hydrogène 4 à 6 fois plus efficace"
+      - "Aucune différence"
+    answer: 1
+    explanation: "Sur des poids lourds, l'étude donne une efficacité du puits à la roue 4 à 6 fois moins bonne pour l'hydrogène."
+  - question: "Quand l'hydrogène est-il bas-carbone ?"
+    options:
+      - "Toujours"
+      - "Seulement si sa production l'est, par exemple par électrolyse avec une électricité bas-carbone"
+      - "Jamais"
+    answer: 2
+    explanation: "L'hydrogène issu de gaz naturel émet du CO2 ; seule une production bas-carbone rend la chaîne bas-carbone."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La voiture à hydrogène est une voiture électrique dont l'électricité est produite à bord. Une pile à combustible combine l'hydrogène et l'oxygène de l'air pour alimenter le moteur. Elle ne rejette pas de CO2 à l'échappement, mais son bilan dépend de la façon dont l'hydrogène est produit et acheminé.
+
+## Comment fonctionne la pile à combustible
+
+Dans la pile, l'hydrogène arrive d'un côté et l'air de l'autre, séparés par une membrane. Un catalyseur, souvent à base de platine, sépare l'hydrogène en protons et en électrons. Les protons traversent la membrane, mais pas les électrons.
+
+Les électrons doivent passer par un circuit extérieur : c'est ce courant qui alimente le moteur électrique. De l'autre côté, protons, électrons et oxygène se recombinent en eau. Le véhicule rejette donc de l'eau et de la chaleur, sans dioxyde de carbone.
+
+Une batterie accompagne souvent la pile. Elle fournit un surcroît de puissance lors des accélérations, lisse la production de la pile et récupère l'énergie au freinage.
+
+## Ses atouts
+
+Le plein se fait à une station, avec un pistolet de remplissage, comme pour un carburant liquide. L'énergie embarquée dépend de la taille du réservoir. Les réservoirs contiennent de l'hydrogène comprimé à haute pression, et doivent donc être conçus pour y résister.
+
+## Ses difficultés
+
+L'hydrogène n'est pas une source d'énergie : c'est un vecteur, qu'il faut fabriquer. Le produire, le comprimer, le transporter et le distribuer consomme de l'énergie à chaque étape. La chaîne complète perd donc davantage d'énergie que l'usage direct de l'électricité dans une batterie.
+
+Une étude du partenariat britannique ZEMO sur les poids lourds donne l'ordre de grandeur : sur l'ensemble de la chaîne, du puits à la roue, l'efficacité énergétique de l'hydrogène est environ 4 à 6 fois moins bonne que celle de l'électrique à batterie. L'étude modélise des scénarios entre 2020 et 2035. Elle porte sur des camions, pas sur des voitures, mais la logique physique est la même.
+
+## Un hydrogène plus ou moins propre
+
+L'hydrogène n'est pas automatiquement bas-carbone. Tout dépend de sa production. S'il est fabriqué à partir de gaz naturel, la production émet du CO2. S'il est obtenu par électrolyse de l'eau avec une électricité bas-carbone, le bilan est très différent, mais il demande beaucoup d'électricité.
+
+## L'infrastructure
+
+L'Observatoire européen de l'hydrogène distingue, pour les stations publiques en service (données de mai 2026), des distributeurs à 700 bar et à 350 bar pour les voitures, et à 350 bar pour les poids lourds. Les stations restent rares et coûteuses : il faut stocker et comprimer l'hydrogène sur place. Sans réseau dense, l'usage reste limité à des zones où des stations existent, ou à des flottes qui font le plein au même endroit, comme des taxis ou des bus. Les batteries ont, elles, un avantage immédiat : on peut les recharger partout où il y a une prise.
+
+## À retenir
+
+- La pile à combustible produit l'électricité à bord à partir d'hydrogène et d'oxygène.
+- Le véhicule rejette de l'eau et de la chaleur, pas de CO2 à l'échappement.
+- La chaîne hydrogène perd plus d'énergie que l'électricité directe : 4 à 6 fois moins efficace selon une étude sur les poids lourds.
+- L'hydrogène n'est bas-carbone que si sa production l'est.
+- Le manque de stations limite encore l'usage pour les particuliers.
+
+```schema
+type: comparaison
+titre: La voiture à hydrogène
+colonnes:
+  - titre: Atouts
+    points:
+      - Électricité produite à bord par la pile
+  - titre: Difficultés
+    points:
+      - Bas-carbone seulement selon la production de l'hydrogène
+      - Infrastructure encore limitée
+```
 
 ---
 
@@ -2769,15 +4990,104 @@ title: Les véhicules utilitaires et leurs contraintes
 slug: vehicules-utilitaires-transport-marchandises
 categoryPath: automobile/usages-et-mobilite
 summary: >
-  Une camionnette ne se juge pas comme une citadine : charge utile, temps d'immobilisation et
-  accès urbain déterminent son coût et sa motorisation.
+  Une camionnette est un outil de travail : sa charge utile, ses horaires et ses tournées
+  comptent plus que sa fiche technique. Voici pourquoi la motorisation se choisit d'abord selon
+  la mission.
 tags: [automobile, utilitaire, logistique, electrique, livraison]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [production-automobile-mondiale, voiture-electrique]
+sources:
+  - title: "Les véhicules utilitaires légers électriques (Annales des Mines, Réalités industrielles)"
+    url: "https://www.annales.org/ri/2018/ri-mai-2018/2018-05-5.pdf"
+    publisher: "Annales des Mines"
+    date: "2018"
+  - title: "Projet Auto et Mobilités, note thématique TCO et VO"
+    url: "https://theshiftproject.org/app/uploads/2026/06/Projet-Auto-et-Mobilites-Note-thematique-TCO-et-VO.pdf"
+    publisher: "The Shift Project"
+    date: "2026"
+quiz:
+  - question: "Qu'appelle-t-on la charge utile d'un utilitaire ?"
+    options:
+      - "La masse de marchandises qu'il peut emporter"
+      - "La puissance de son moteur"
+      - "Le volume de son réservoir ou de sa batterie"
+    answer: 1
+    explanation: "C'est la masse transportable une fois déduit le poids du véhicule. Une batterie plus lourde la réduit."
+  - question: "Pourquoi une batterie surdimensionnée est-elle un problème pour un utilitaire ?"
+    options:
+      - "Elle se recharge trop vite"
+      - "Elle coûte cher et réduit la charge utile"
+      - "Elle interdit de circuler en ville"
+    answer: 2
+    explanation: "Elle alourdit le véhicule et en augmente le prix, ce qui diminue la masse de marchandises transportable."
+  - question: "Quel profil rend l'utilitaire électrique le plus compétitif selon l'étude de 2018 ?"
+    options:
+      - "Les petits rouleurs aux trajets variables"
+      - "Les gros rouleurs, au-delà de 15 000 km par an, aux trajets réguliers"
+      - "Les véhicules garés dehors sans borne"
+    answer: 2
+    explanation: "Un kilométrage élevé et des trajets réguliers permettent d'amortir plus vite le surcoût d'achat."
+  - question: "Où la recharge d'une flotte est-elle la plus simple à organiser ?"
+    options:
+      - "Au dépôt de l'entreprise"
+      - "Sur les aires d'autoroute"
+      - "Chez chaque conducteur"
+    answer: 1
+    explanation: "Les véhicules y rentrent chaque soir et peuvent se recharger la nuit, ce qui évite les arrêts en tournée."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un véhicule utilitaire léger (VUL) n'est pas une voiture avec un grand coffre. C'est un outil qui doit transporter une charge, rouler chaque jour sur des parcours souvent répétitifs et rester disponible aux heures d'activité. Son coût et sa motorisation se jugent sur la mission, pas sur l'agrément de conduite.
+
+## Un parc nombreux et polyvalent
+
+En France, le parc comptait environ 6 millions de VUL en 2018, contre 500 000 poids lourds et 30 millions de voitures particulières. Une minorité seulement, environ 7 % du parc, relève du transport routier au sens strict.
+
+Le reste sert de boîte à outils, de stock, d'atelier ou même de bureau roulant. Un plombier et un livreur de colis utilisent donc le même type de véhicule pour des besoins très différents. Dans les émissions du transport routier français, les VUL pesaient 20 %, contre 56 % pour les voitures et 22 % pour les poids lourds.
+
+## La charge utile, le vrai critère
+
+La charge utile est la masse de marchandises que le véhicule peut emporter, une fois déduit le poids du véhicule lui-même. Tout ce qui alourdit la fourgonnette réduit donc ce qu'elle peut transporter.
+
+C'est là que la batterie d'un modèle électrique pose problème. Une grosse batterie rassure sur l'autonomie, mais elle pèse lourd et coûte cher. Une petite batterie allège le véhicule, mais peut obliger à recharger en pleine tournée, donc à immobiliser le véhicule et son conducteur.
+
+## Dimensionner selon la tournée
+
+Les professionnels connaissent souvent leurs trajets à l'avance, ce que peu de particuliers savent faire. Une tournée de messagerie représente 60 à 80 km par jour, six jours sur sept. Pour ce profil, l'autonomie de 150 km environ des modèles électriques de 2018 suffisait déjà.
+
+La rentabilité dépend du kilométrage. Une étude publiée en 2018 jugeait les modèles électriques surtout compétitifs pour les gros rouleurs, au-delà de 15 000 km par an, avec des trajets quotidiens réguliers. Les voitures de flotte d'entreprise roulent d'ailleurs en moyenne 17 000 km par an, contre 11 000 km pour les particuliers (données 2025).
+
+Les progrès ont été rapides : l'autonomie a doublé entre 2011 et 2017 à poids et prix constants, et le coût des batteries baissait d'environ 8 % par an. En 2017, l'électrique ne représentait pourtant que 1,4 % des ventes de VUL.
+
+## Le dernier kilomètre en ville
+
+Les zones à circulation restreinte, le bruit des livraisons de nuit et la multiplication des colis rendent les véhicules propres très utiles en ville. Un moteur électrique est silencieux, ce qui facilite les livraisons tôt le matin.
+
+Reste la recharge. Le dépôt de l'entreprise est le lieu idéal : les véhicules y rentrent chaque soir et peuvent se recharger la nuit. L'installation d'une borne coûtait de 800 à 50 000 euros selon les cas, un écart qui pèse dans le calcul global.
+
+## Idées reçues
+
+Une camionnette électrique n'est pas adaptée à tout le monde : un artisan qui parcourt de longues distances sans retour au dépôt a un besoin différent. À l'inverse, penser que l'électrique est réservé aux petits trajets sous-estime le poids de la régularité : un parcours prévisible compte plus que sa longueur.
+
+## À retenir
+
+- La mission réelle (distance, charge, retour au dépôt) détermine la bonne motorisation.
+- La charge utile compte autant que l'autonomie : une batterie lourde réduit ce que le véhicule transporte.
+- Les gros rouleurs aux trajets réguliers tirent le plus de profit de l'électrique.
+- Le dépôt de l'entreprise facilite la recharge nocturne et la planification.
+- Les VUL représentaient 20 % des émissions du transport routier français, d'où l'enjeu de leur transition.
+
+```schema
+type: systeme
+titre: Choisir un utilitaire
+centre: Mission réelle
+parties:
+  - nom: Charge utile
+  - nom: Autonomie
+  - nom: Recharge au dépôt
+```
 
 ---
 
@@ -2787,15 +5097,107 @@ title: Pourquoi les SUV ont changé le marché automobile
 slug: essor-suv-marche-automobile
 categoryPath: automobile/industrie-automobile/marche
 summary: >
-  Les SUV combinent position de conduite élevée, espace et image robuste, mais leur taille modifie
-  consommation, prix, sécurité des autres usagers et occupation de l'espace.
+  Position haute, espace et image robuste : les SUV représentent près de la moitié des ventes
+  mondiales de voitures. Leur succès pose des questions de poids, d'énergie, de stationnement et
+  de sécurité en ville.
 tags: [automobile, SUV, marche, poids, urbanisme]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [marche-automobile-mondial-regions, augmentation-poids-voitures]
+sources:
+  - title: "As their sales continue to rise, SUVs' global CO2 emissions are nearing 1 billion tonnes"
+    url: "https://www.iea.org/commentaries/as-their-sales-continue-to-rise-suvs-global-co2-emissions-are-nearing-1-billion-tonnes"
+    publisher: "Agence internationale de l'énergie (AIE)"
+    date: "2023"
+  - title: "40 millions de voitures en circulation en France au 1er janvier 2026"
+    url: "https://www.statistiques.developpement-durable.gouv.fr/40-millions-de-voitures-en-circulation-en-france-au-1er-janvier-2026"
+    publisher: "SDES, ministère de la Transition écologique"
+    date: "2026"
+quiz:
+  - question: "Quelle part des ventes mondiales de voitures les SUV ont-ils atteinte en 2022, selon l'AIE ?"
+    options:
+      - "Environ 25 %"
+      - "Environ 46 %"
+      - "Environ 70 %"
+    answer: 2
+    explanation: "Selon l'Agence internationale de l'énergie, les SUV ont représenté environ 46 % des ventes mondiales de voitures en 2022."
+  - question: "Pourquoi une carrosserie haute pénalise-t-elle l'efficacité à vitesse élevée ?"
+    options:
+      - "Elle augmente la surface frontale et donc la résistance de l'air"
+      - "Elle réduit le poids du véhicule"
+      - "Elle diminue la puissance du moteur"
+    answer: 1
+    explanation: "La résistance de l'air augmente avec la surface frontale et avec le carré de la vitesse."
+  - question: "Un SUV consomme-t-il toujours plus qu'une berline ?"
+    options:
+      - "Oui, sans exception"
+      - "Non, cela dépend du modèle, de la motorisation et de l'usage"
+      - "Non, il consomme toujours moins"
+    answer: 2
+    explanation: "Un petit SUV hybride peut consommer moins qu'une grande berline thermique."
+  - question: "Quel est l'enjeu principal du débat sur la taille des véhicules en ville ?"
+    options:
+      - "La couleur des carrosseries"
+      - "Le stationnement et la sécurité des usagers vulnérables"
+      - "Le prix des péages"
+    answer: 2
+    explanation: "Un véhicule plus grand occupe plus de place et peut être plus dangereux pour piétons et cyclistes."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le SUV est devenu une silhouette très répandue parmi les voitures neuves. Il séduit par sa position de conduite haute, son espace et une image de robustesse. Mais sa taille a des conséquences : consommation, prix, place occupée dans la rue et risque pour les autres usagers.
+
+## Une part de marché en forte hausse
+
+Selon l'Agence internationale de l'énergie, les SUV ont représenté environ 46 % des ventes mondiales de voitures en 2022, avec des ventes en hausse d'environ 3 % sur un an. Environ 16 % de ces SUV étaient électriques.
+
+Le phénomène est donc ancien mais pas terminé : la part des SUV continue de progresser.
+
+## Pourquoi ils plaisent
+
+Trois raisons se combinent. La position haute donne une impression de visibilité et de sécurité. L'habitacle est souvent spacieux et le coffre pratique pour une famille. Enfin, les constructeurs y trouvent un argument commercial fort, ce qui explique l'élargissement des gammes.
+
+Le mot SUV recouvre toutefois des véhicules très différents, du petit urbain surélevé au grand modèle à quatre roues motrices.
+
+## Ce que change la forme
+
+Une carrosserie plus haute augmente la surface frontale. Or la résistance de l'air croît avec cette surface et avec le carré de la vitesse : sur autoroute, un véhicule haut doit fournir plus d'effort pour avancer.
+
+Le poids joue aussi. Roues plus grandes, équipements et carrosserie renforcée ajoutent de la masse, et une masse plus élevée demande plus d'énergie à chaque accélération. Le poids moyen des voitures électriques en circulation en France a ainsi augmenté de 1,9 % entre 2025 et 2026.
+
+Selon la même agence, un SUV consomme en moyenne environ 20 % de pétrole de plus qu'une voiture moyenne non SUV. Il ne faut pas en conclure qu'un SUV consomme toujours plus : un petit SUV hybride peut consommer moins qu'une grande berline thermique. La consommation dépend du modèle, de la motorisation et de l'usage.
+
+## Les effets en ville
+
+Un véhicule plus long et plus large occupe davantage de place de stationnement, dans un parc français qui comptait 40,0 millions de voitures au 1er janvier 2026. Les rues et les places ont souvent été pensées pour des voitures plus petites.
+
+Un capot haut et massif peut aussi augmenter la gravité des chocs avec les piétons et les cyclistes. Ce débat porte donc sur la taille et la masse, pas seulement sur la motorisation : une voiture électrique très lourde pose les mêmes questions.
+
+## Un choix proportionné
+
+Le succès des SUV mêle donc des raisons techniques, commerciales et culturelles. Le bon choix consiste à comparer le véhicule à l'usage réel : combien de personnes, quels trajets, quel stationnement. Un modèle plus petit suffit souvent pour la majorité des déplacements.
+
+## À retenir
+
+- Les SUV représentaient environ 46 % des ventes mondiales de voitures en 2022.
+- Une carrosserie haute accroît la résistance de l'air, surtout à vitesse élevée.
+- Plus de masse signifie plus d'énergie à chaque accélération.
+- La consommation dépend du modèle et de l'usage, pas seulement de la forme.
+- Taille et poids posent des questions de stationnement et de sécurité des usagers vulnérables.
+
+```schema
+type: systeme
+titre: Le succès des SUV
+centre: SUV
+icone: car
+parties:
+  - nom: Technique
+  - nom: Commercial
+  - nom: Culturel
+  - nom: Le revers
+    role: Taille, poids et aérodynamique pèsent sur l'efficacité.
+```
 
 ---
 
@@ -2805,15 +5207,109 @@ title: Comment calculer le coût total d'une voiture
 slug: cout-total-possession-voiture
 categoryPath: automobile/industrie-automobile/marche
 summary: >
-  Le prix d'achat n'est qu'une partie de la dépense. Décote, énergie, assurance, entretien,
-  financement et stationnement déterminent le coût réel par kilomètre.
+  Le prix d'achat n'est que la partie visible. Décote, énergie, entretien, assurance et
+  kilométrage décident du coût réel d'une voiture ; le comparer au kilomètre évite les fausses
+  bonnes affaires.
 tags: [automobile, cout, achat, assurance, entretien]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [marche-de-loccasion-et-valeur-residuelle, controle-technique-securite-pollution]
+sources:
+  - title: "Projet Auto et Mobilités, note thématique TCO et VO"
+    url: "https://theshiftproject.org/app/uploads/2026/06/Projet-Auto-et-Mobilites-Note-thematique-TCO-et-VO.pdf"
+    publisher: "The Shift Project"
+    date: "2026"
+  - title: "40 millions de voitures en circulation en France au 1er janvier 2026"
+    url: "https://www.statistiques.developpement-durable.gouv.fr/40-millions-de-voitures-en-circulation-en-france-au-1er-janvier-2026"
+    publisher: "SDES, ministère de la Transition écologique"
+    date: "2026"
+quiz:
+  - question: "Que faut-il retirer du total des dépenses pour obtenir le coût de possession ?"
+    options:
+      - "Les taxes"
+      - "La valeur de revente"
+      - "L'assurance"
+    answer: 2
+    explanation: "La valeur de revente est soustraite : on ne compte que la perte de valeur réelle."
+  - question: "Un thermique à 6 l/100 km consomme combien de fois plus d'énergie qu'un électrique à 20 kWh/100 km ?"
+    options:
+      - "2,7 fois"
+      - "1,1 fois"
+      - "10 fois"
+    answer: 1
+    explanation: "Avec 1 litre égal à environ 9 kWh, 6 litres font 54 kWh, soit 2,7 fois 20 kWh."
+  - question: "Pourquoi la décote est-elle un poste dangereux à ignorer ?"
+    options:
+      - "Elle est interdite par la loi"
+      - "Elle ne figure sur aucune facture mais peut peser lourd"
+      - "Elle ne concerne que les voitures électriques"
+    answer: 2
+    explanation: "C'est une perte de valeur invisible au quotidien, difficile à prévoir et souvent élevée."
+  - question: "Qui roule en moyenne le plus, selon les données 2025 citées ?"
+    options:
+      - "Les particuliers, environ 17 000 km par an"
+      - "Les voitures de flotte d'entreprise, environ 17 000 km par an"
+      - "Les deux roulent autant"
+    answer: 2
+    explanation: "Les particuliers font environ 11 000 km par an, les flottes environ 17 000 km."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pour comparer deux voitures, il faut additionner toutes les dépenses sur une période donnée, puis retirer la valeur de revente. Le résultat surprend souvent : la voiture la moins chère à l'achat n'est pas forcément la moins coûteuse. Ce calcul s'appelle le coût total de possession, ou TCO.
+
+## La formule
+
+Coût total = achat ou financement + énergie + assurance + entretien + pneus + taxes + stationnement, moins la valeur de revente. Diviser le total par les kilomètres parcourus donne un coût au kilomètre, qui permet de comparer des voitures très différentes.
+
+Le choix de la période compte : sur deux ans, la décote pèse lourd ; sur dix ans, ce sont l'entretien et les réparations.
+
+## La décote, le poste invisible
+
+La décote est la perte de valeur entre l'achat et la revente. Elle ne figure sur aucune facture, mais elle peut représenter une part importante de la dépense.
+
+Elle est aussi difficile à prévoir. Les contrats de location signés entre 2020 et 2023 reposaient sur des valeurs de revente élevées. À leur terme, en 2023 et 2024, les prix réels étaient nettement inférieurs, avec des pertes latentes estimées en moyenne entre 3 000 et 5 000 euros par véhicule, jusqu'à 15 000 euros dans les cas les plus exposés.
+
+Pour une voiture électrique, la chaîne de traction, batterie comprise, représente environ 35 % de la valeur du véhicule neuf : l'incertitude sur l'état de la batterie pèse donc sur la revente.
+
+## Énergie, entretien, assurance
+
+Pour comparer les énergies, on peut les convertir en une unité commune. Un litre de carburant équivaut à environ 9 kWh d'énergie. Un thermique à 6 litres aux 100 km consomme alors 2,7 fois plus d'énergie qu'un électrique à 20 kWh aux 100 km.
+
+Le prix payé change toutefois beaucoup selon le lieu de recharge : domicile, entreprise, borne publique ou autoroute n'ont pas le même tarif du kilowattheure, un écart souvent sous-estimé.
+
+L'entretien des électriques reste stable dans le temps, alors que celui des thermiques augmente après 6 à 8 ans. Les primes d'assurance des électriques sont 20 à 30 % plus élevées, mais l'écart vient surtout du type de véhicule et de contrat ; à profil comparable, elles sont inférieures.
+
+## Le kilométrage change le calcul
+
+Les particuliers parcouraient en moyenne 11 000 km par an en 2025, contre environ 17 000 km pour les voitures de flotte d'entreprise. Un véhicule qui roule beaucoup répartit son prix d'achat sur davantage de kilomètres et profite davantage d'une énergie moins chère.
+
+À l'inverse, un petit rouleur paie surtout la décote et l'assurance, quelle que soit l'énergie. Pour lui, un modèle simple et peu coûteux à l'achat est souvent le plus économique.
+
+## Un exemple de raisonnement
+
+Une voiture A coûte moins cher à l'achat mais se revend mal ; une voiture B coûte plus cher mais conserve mieux sa valeur et consomme moins. Sur quatre ans, la différence de décote peut absorber l'écart de prix initial. Le calcul complet, au kilomètre, montre quelle voiture revient réellement moins cher.
+
+## À retenir
+
+- Le coût total dépasse largement le prix affiché.
+- La décote doit être intégrée au calcul, même si elle ne figure sur aucune facture.
+- Le lieu de recharge influence fortement le coût de l'énergie électrique.
+- Le kilométrage annuel modifie le classement entre motorisations.
+- Comparer par kilomètre évite les fausses bonnes affaires.
+
+```schema
+type: systeme
+titre: Le coût total d'une voiture
+centre: Coût par kilomètre
+icone: coin
+parties:
+  - nom: Prix d'achat
+  - nom: Décote
+  - nom: Énergie
+  - nom: Assurance
+  - nom: Entretien
+```
 
 ---
 
@@ -2823,15 +5319,105 @@ title: Les rappels automobiles et la traçabilité
 slug: rappels-automobiles-securite
 categoryPath: automobile/industrie-automobile/reglementation-automobile
 summary: >
-  Un rappel corrige un défaut identifié après la production. La traçabilité par numéro de série
-  permet de prévenir les propriétaires concernés.
+  Un rappel corrige un défaut repéré après la vente, grâce au numéro de série de chaque véhicule.
+  Voici comment la chaîne fonctionne, de l'alerte à la réparation, et pourquoi vérifier en
+  achetant d'occasion.
 tags: [automobile, rappel, securite, constructeur, regulation]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [plateformes-modulaires-et-standardisation, controle-technique-securite-pollution]
+sources:
+  - title: "Informations concernant les rappels (OFROU, N342-0363)"
+    url: "https://www.astra.admin.ch/dam/astra/fr/dokumente/homologation_vonfahrzeugen/informationen_zurueckrufen.pdf.download.pdf/informations_concernantlesrappels.pdf"
+    publisher: "Office fédéral des routes (OFROU)"
+  - title: "40 millions de voitures en circulation en France au 1er janvier 2026"
+    url: "https://www.statistiques.developpement-durable.gouv.fr/40-millions-de-voitures-en-circulation-en-france-au-1er-janvier-2026"
+    publisher: "SDES, ministère de la Transition écologique"
+    date: "2026"
+quiz:
+  - question: "Qu'indique un rappel automobile ?"
+    options:
+      - "Que toute la voiture est dangereuse"
+      - "Qu'un défaut identifié justifie une réparation corrective"
+      - "Que la garantie est terminée"
+    answer: 2
+    explanation: "Le rappel vise un défaut précis, selon un niveau de risque défini."
+  - question: "Comment l'entreprise retrouve-t-elle les véhicules concernés ?"
+    options:
+      - "Grâce aux listes de numéros de série ou d'homologation"
+      - "En interrogeant les voisins"
+      - "Par la couleur du véhicule"
+    answer: 1
+    explanation: "Les demandes reposent sur des listes de numéros VIN, des séries ou des numéros d'homologation."
+  - question: "Dans la procédure suisse, en combien de temps un rappel doit-il être terminé au plus tard ?"
+    options:
+      - "30 jours"
+      - "12 mois"
+      - "5 ans"
+    answer: 2
+    explanation: "Le document prévoit un achèvement le plus vite possible et au plus tard en 12 mois."
+  - question: "Pourquoi vérifier les rappels en achetant une voiture d'occasion ?"
+    options:
+      - "Le courrier part vers le propriétaire connu et peut manquer le nouvel acheteur"
+      - "Les rappels sont toujours payants"
+      - "Un rappel annule la vente"
+    answer: 1
+    explanation: "Le nouvel acheteur peut ne pas avoir reçu l'information : le VIN permet de vérifier l'état du rappel."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un rappel ne prouve pas qu'une voiture entière est dangereuse. Il signifie qu'un défaut précis, identifié après la mise en vente, justifie une réparation selon un niveau de risque défini. Le numéro de série de chaque véhicule permet de retrouver ceux qui sont concernés.
+
+## Deux façons de déclencher un rappel
+
+Le cas le plus courant est le rappel volontaire : le constructeur ou l'importateur découvre un défaut de sécurité ou une non-conformité et agit de lui-même. L'autorité de contrôle peut aussi imposer un rappel. En Suisse, par exemple, l'Office fédéral des routes (OFROU) peut ordonner un contrôle de conformité et exiger un rappel si l'entreprise n'agit pas assez, au vu d'essais ou d'autres constats.
+
+Le fonctionnement décrit ici suit la procédure suisse, détaillée dans un document officiel ; la logique générale est comparable ailleurs, mais les délais et formulaires varient selon les pays.
+
+## La chaîne du rappel
+
+L'entreprise commence par signaler le risque et le rappel prévu à l'autorité, qui accuse réception et ouvre un dossier. Elle identifie ensuite les véhicules touchés, à partir de listes de numéros de série, de séries entières ou de numéros d'homologation.
+
+Les propriétaires sont alors prévenus, en général par écrit et souvent par plusieurs courriers. Si certains n'ont pas été joints par courrier recommandé, un rappel recommandé est exigé ; il est conseillé de le lancer quand la moitié au moins des véhicules concernés a été réparée.
+
+## Un suivi jusqu'au bout
+
+L'autorité surveille le rappel jusqu'à sa clôture. L'entreprise lui envoie en principe un bilan mensuel d'avancement. Le suivi s'arrête quand l'autorité confirme le taux de réussite. Un rappel doit être terminé le plus vite possible et au plus tard en 12 mois.
+
+La réparation se fait normalement chez un concessionnaire de la marque. Si le propriétaire a bien reçu un courrier recommandé mais ignore l'invitation, l'entreprise peut déclarer le dossier réglé : la responsabilité passe alors au propriétaire.
+
+## Le rôle du numéro de série
+
+Le numéro d'identification du véhicule (VIN) comporte 17 caractères. Les positions 4 à 11 précisent le modèle, ce qui permet de cibler une série précise plutôt que toute une gamme. C'est la traçabilité : une pièce défectueuse, montée sur une période donnée, est reliée à la liste exacte des véhicules concernés.
+
+Le principe est utile parce que les voitures changent de mains. Le parc français comptait 40,0 millions de voitures au 1er janvier 2026, d'un âge moyen de 11,8 ans, et beaucoup ont eu plusieurs propriétaires.
+
+## Pourquoi vérifier
+
+Le courrier part vers le propriétaire connu au moment du rappel. Une voiture achetée d'occasion après l'annonce peut donc échapper à l'information. Avant un achat, il est utile de demander le VIN ou l'immatriculation au constructeur ou à un concessionnaire, pour savoir si un rappel est ouvert et si l'intervention a été réalisée.
+
+## À retenir
+
+- Un rappel corrige un défaut identifié après la commercialisation, pas toute la voiture.
+- Il peut être volontaire ou imposé par l'autorité de contrôle.
+- Le numéro de série relie une pièce défectueuse à une série précise de véhicules.
+- Une procédure suisse fixe un achèvement des rappels en 12 mois au plus.
+- À l'achat d'occasion, vérifier les rappels ouverts avec le VIN évite de rouler avec un défaut connu.
+
+```schema
+type: etapes
+titre: La chaîne d'un rappel
+elements:
+  - titre: Défaut identifié
+    texte: Après la commercialisation.
+  - titre: Traçabilité
+    texte: Une pièce reliée à une série de véhicules.
+  - titre: Rappel
+    texte: Les propriétaires sont prévenus.
+  - titre: Correction
+    texte: À vérifier lors d'un achat d'occasion.
+```
 
 ---
 
@@ -2841,15 +5427,112 @@ title: La réparation et le diagnostic électronique
 slug: diagnostic-electronique-reparation-automobile
 categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
 summary: >
-  Le mécanicien ne cherche plus seulement une panne mécanique : il interprète des données,
-  historiques et codes défauts, puis vérifie la cause réelle.
+  Brancher une valise de diagnostic ne suffit pas : le code défaut n'est qu'un indice. Voici
+  comment un mécanicien interprète les données du véhicule pour trouver la vraie cause d'une
+  panne.
 tags: [automobile, diagnostic, OBD, reparation, electronique]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [semi-conducteurs-automobile]
+sources:
+  - title: "On-Board Diagnostics Primer, Heavy-duty I/M Workgroup Meeting July 2019"
+    url: "https://ww2.arb.ca.gov/sites/default/files/classic/msprog/hdim/meetings/20190716_hdim_workgroup_presentation.pdf?_ga=2.17525360.876916029.1565212134-1228222299.1559065469"
+    publisher: "California Air Resources Board"
+    date: "2019"
+  - title: "Directive 98/69/EC of the European Parliament and of the Council"
+    url: "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A31998L0069%3AEN%3AHTML"
+    publisher: "EUR-Lex, Union européenne"
+  - title: "40 millions de voitures en circulation en France au 1er janvier 2026"
+    url: "https://www.statistiques.developpement-durable.gouv.fr/40-millions-de-voitures-en-circulation-en-france-au-1er-janvier-2026"
+    publisher: "SDES, ministère de la Transition écologique"
+    date: "2026"
+quiz:
+  - question: "Que signifie la lettre P au début d'un code défaut ?"
+    options:
+      - "Pneus"
+      - "Groupe motopropulseur"
+      - "Pression atmosphérique"
+    answer: 2
+    explanation: "P désigne le groupe motopropulseur ; C le châssis, B la carrosserie et U le réseau."
+  - question: "À partir de quel millésime les voitures américaines sont-elles équipées de l'OBD-II ?"
+    options:
+      - "1996"
+      - "2008"
+      - "1980"
+    answer: 1
+    explanation: "Le California Air Resources Board parle des voitures du millésime 1996 et suivants."
+  - question: "Pourquoi effacer un code défaut ne répare-t-il rien ?"
+    options:
+      - "Le défaut revient tant que la cause n'est pas traitée"
+      - "L'effacement détruit le calculateur"
+      - "Le code est toujours faux"
+    answer: 1
+    explanation: "Le code signale un symptôme ; sans traiter la cause, le défaut réapparaît."
+  - question: "Quels éléments le technicien croise-t-il pour établir un diagnostic ?"
+    options:
+      - "Seulement le code lu"
+      - "Symptômes, données en direct, schémas électriques et tests physiques"
+      - "La couleur du voyant"
+    answer: 2
+    explanation: "Aucun élément seul ne suffit : c'est le recoupement qui évite de changer des pièces au hasard."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les voitures modernes enregistrent en permanence des informations sur leurs systèmes. Une prise de diagnostic permet de lire un code défaut, mais ce code n'est que le début du raisonnement. Le mécanicien doit encore trouver la cause réelle, sans changer des pièces au hasard.
+
+## D'où vient la prise de diagnostic
+
+Le diagnostic embarqué (OBD) est apparu d'abord aux États-Unis. Selon le California Air Resources Board, les voitures américaines équipées de l'OBD-II sont celles du millésime 1996 et des suivants. En Europe, la version européenne, appelée EOBD, découle de la directive 98/69/CE sur les émissions des véhicules.
+
+Le principe est le même partout : un connecteur standardisé (forme, emplacement et protocole de communication) donne accès aux données du véhicule. Un voyant dédié au système signale qu'un défaut a été détecté.
+
+## Que dit un code défaut
+
+Un code comporte une lettre et des chiffres. La lettre indique le domaine : P pour le groupe motopropulseur, C pour le châssis, B pour la carrosserie, U pour le réseau. Le code P0201, par exemple, signale un problème du circuit d'injecteur du cylindre 1.
+
+Ce code désigne un circuit, pas forcément une pièce en panne. Le câblage, le connecteur, le capteur ou le calculateur peuvent aussi être en cause. Effacer le code ne règle rien : le défaut revient tant que la cause demeure.
+
+## La méthode du technicien
+
+Le technicien croise plusieurs éléments : les symptômes décrits par le conducteur, les données en direct lues par l'outil, les schémas électriques et des tests physiques, comme une mesure de tension ou un contrôle visuel.
+
+Cette démarche évite deux écueils. Le premier est de remplacer une pièce sur la seule foi du code, ce qui coûte cher et peut masquer la cause. Le second est de s'arrêter à un voyant éteint après un effacement, sans avoir compris pourquoi il s'était allumé.
+
+## Une spécialisation croissante
+
+Le parc vieillit : l'âge moyen des voitures françaises atteignait 11,8 ans au 1er janvier 2026, et l'âge moyen des voitures détruites en 2025 était de 20,0 ans. Les garages voient donc passer à la fois des voitures anciennes et des modèles récents très équipés.
+
+Les batteries haute tension, les radars, les caméras et les réseaux de calculateurs exigent des procédures et des outils adaptés. Une réparation correcte inclut parfois une programmation ou un réétalonnage, par exemple après le remplacement d'un pare-brise portant une caméra.
+
+Les codes évoluent eux-mêmes : une version dite WWH-OBD ajoute un troisième octet qui précise le mode de défaillance, là où les codes classiques tiennent sur deux octets.
+
+## Un exemple de raisonnement
+
+Un voyant moteur s'allume et l'outil affiche P0201. Un mauvais réflexe consiste à remplacer l'injecteur du cylindre 1. Le bon réflexe est de vérifier d'abord le câblage et le connecteur, de comparer les données en direct avec celles d'un cylindre voisin, puis de mesurer le circuit. Si tout est correct, l'injecteur est alors la cause probable.
+
+Cette méthode prend plus de temps au départ, mais elle évite de payer une pièce inutile et de revenir au garage quelques jours plus tard avec le même voyant.
+
+## À retenir
+
+- Un code défaut doit être interprété, pas simplement effacé.
+- La lettre du code indique le domaine : moteur, châssis, carrosserie ou réseau.
+- Le diagnostic croise symptômes, données en direct, schémas et tests physiques.
+- Les voitures modernes combinent mécanique, électricité et logiciel.
+- La compétence et l'outillage deviennent déterminants pour réparer correctement.
+
+```schema
+type: etapes
+titre: Un bon diagnostic
+elements:
+  - titre: Lire le code défaut
+  - titre: L'interpréter
+    texte: Il indique où chercher, pas forcément la pièce fautive.
+  - titre: Vérifier
+    texte: Mécanique, électricité et logiciel.
+  - titre: Réparer
+    texte: Plutôt que simplement effacer le code.
+```
 
 ---
 
@@ -2859,15 +5542,117 @@ title: La durée de vie d'une voiture dépend-elle du kilométrage
 slug: duree-vie-voiture-kilometrage-entretien
 categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
 summary: >
-  Le kilométrage ne suffit pas à prédire la fiabilité. L'entretien, les trajets, le climat, le
-  stockage et la qualité de conception comptent souvent autant.
+  Un compteur ne dit pas tout : l'âge, le type de trajet et l'entretien comptent autant que les
+  kilomètres. Les chiffres de mise au rebut en France montrent pourquoi.
 tags: [automobile, fiabilite, kilometrage, entretien, occasion]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [marche-de-loccasion-et-valeur-residuelle, controle-technique-securite-pollution]
+sources:
+  - title: "39,7 millions de voitures en circulation en France au 1er janvier 2025"
+    url: "https://www.statistiques.developpement-durable.gouv.fr/397-millions-de-voitures-en-circulation-en-france-au-1er-janvier-2025"
+    publisher: "SDES, ministère de la Transition écologique"
+    date: "2025"
+  - title: "Projet Auto et Mobilités, note thématique TCO et VO"
+    url: "https://theshiftproject.org/app/uploads/2026/06/Projet-Auto-et-Mobilites-Note-thematique-TCO-et-VO.pdf"
+    publisher: "The Shift Project"
+    date: "2026"
+  - title: "40 millions de voitures en circulation en France au 1er janvier 2026"
+    url: "https://www.statistiques.developpement-durable.gouv.fr/40-millions-de-voitures-en-circulation-en-france-au-1er-janvier-2026"
+    publisher: "SDES, ministère de la Transition écologique"
+    date: "2026"
+quiz:
+  - question: "Quel âge moyen avaient les voitures cédées pour destruction en France en 2024 ?"
+    options:
+      - "12,4 ans"
+      - "15,2 ans"
+      - "19,9 ans"
+    answer: 3
+    explanation: "Le service statistique du ministère indique 19,9 ans en moyenne."
+  - question: "Qu'est-ce qui distingue un diesel d'une essence au moment de la destruction ?"
+    options:
+      - "Il est détruit plus jeune mais avec plus de kilomètres"
+      - "Il est détruit plus tard avec moins de kilomètres"
+      - "Il n'est jamais détruit"
+    answer: 1
+    explanation: "Environ 19,1 ans et 237 000 km pour le diesel, contre 21,7 ans et 163 000 km pour l'essence."
+  - question: "Pourquoi les trajets courts usent-ils davantage un moteur ?"
+    options:
+      - "Ils multiplient les démarrages à froid"
+      - "Ils font surchauffer la boîte"
+      - "Ils n'ont aucun effet"
+    answer: 1
+    explanation: "Chaque démarrage à froid sollicite le moteur avant qu'il atteigne sa température normale."
+  - question: "Quel document renseigne le mieux sur l'état d'une voiture d'occasion ?"
+    options:
+      - "Une photo de l'intérieur"
+      - "Un historique cohérent de factures et de contrôles"
+      - "Le seul chiffre du compteur"
+    answer: 2
+    explanation: "L'historique permet de comprendre la trajectoire du véhicule, au-delà d'un seul chiffre."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le kilométrage est un indicateur utile, mais il ne raconte qu'une partie de l'histoire. Une voiture qui roule beaucoup sur autoroute peut être moins sollicitée qu'une autre qui a parcouru moins de kilomètres en ville. L'âge, l'usage et l'entretien comptent presque autant.
+
+## Ce que disent les voitures mises au rebut
+
+En France, les voitures cédées pour destruction à un professionnel avaient en moyenne 19,9 ans en 2024. L'âge moyen est de 19,1 ans pour le diesel et de 21,7 ans pour l'essence.
+
+Pour les voitures de 5 ans et plus, le dernier contrôle technique relevait en moyenne 211 000 km. La moyenne atteint 237 000 km pour le diesel et seulement 163 000 km pour l'essence.
+
+## Âge et kilomètres, deux usures différentes
+
+Ces chiffres montrent que les deux mesures ne se confondent pas. Le diesel est détruit plus jeune mais avec beaucoup plus de kilomètres : il est vraisemblablement choisi par de gros rouleurs. L'essence finit sa vie plus tard, avec moins de kilomètres : elle sert probablement plus à de petits trajets.
+
+Les kilomètres mesurent l'usure des pièces en mouvement : moteur, boîte, embrayage, freins, pneus. L'âge mesure autre chose : le vieillissement des joints, des caoutchoucs, des fluides et de la batterie auxiliaire, qui évoluent même quand la voiture reste au garage.
+
+## Le rôle du trajet et du climat
+
+Un trajet court multiplie les démarrages à froid, phase où le moteur n'a pas atteint sa température de fonctionnement et où l'usure est généralement jugée plus forte. À l'inverse, un long trajet régulier sollicite le moteur de façon stable.
+
+Le sel hivernal, l'humidité et les fortes chaleurs accélèrent certains vieillissements, notamment la corrosion et celui des plastiques et des joints. Deux voitures identiques peuvent donc vieillir très différemment selon la région où elles circulent.
+
+## Un parc qui vieillit
+
+L'âge moyen des voitures en circulation est passé de 11,1 ans au 1er janvier 2024 à environ 11,5 ans un an plus tard (11,4 après révision), puis à 11,8 ans au 1er janvier 2026. La distance moyenne parcourue par voiture s'est établie à 11 600 km en 2025, en léger recul.
+
+Le coût d'entretien évolue aussi avec l'âge : pour les thermiques, il augmente après 6 à 8 ans. Un entretien régulier, en revanche, aide à étaler ce coût dans le temps.
+
+## Le document le plus utile
+
+Face à un seul chiffre au compteur, un historique cohérent est bien plus parlant : factures, contrôles techniques, opérations prévues, réparations importantes. Il permet de comprendre la trajectoire du véhicule. Une voiture à fort kilométrage bien entretenue peut être un meilleur achat qu'une voiture moins roulée mais négligée.
+
+## Comment lire une annonce d'occasion
+
+Deux voitures du même modèle affichent 150 000 km. L'une a été conduite sur de longs trajets réguliers par un gros rouleur, l'autre en ville pour de courtes courses. Le compteur est identique, l'usure ne l'est pas. Les chiffres de mise au rebut le rappellent : diesel et essence n'atteignent pas la fin de vie au même âge ni au même kilométrage.
+
+Il vaut donc mieux croiser trois informations : l'âge, le kilométrage et le type d'usage probable, puis demander les factures qui le confirment.
+
+## À retenir
+
+- Kilométrage et âge mesurent des contraintes différentes.
+- En France, les voitures détruites en 2024 avaient en moyenne 19,9 ans.
+- Le diesel est détruit plus jeune mais plus roulé que l'essence.
+- Trajets courts, sel, humidité et chaleur accélèrent certains vieillissements.
+- L'historique d'entretien vaut mieux qu'une simple impression visuelle.
+
+```schema
+type: comparaison
+titre: Âge ou kilométrage
+colonnes:
+  - titre: Kilométrage
+    points:
+      - Mesure l'usure par l'usage
+      - Le type de trajet compte
+  - titre: Âge
+    points:
+      - Mesure le vieillissement des matériaux
+  - titre: Le plus utile
+    points:
+      - L'historique d'entretien
+```
 
 ---
 
@@ -2877,15 +5662,115 @@ title: La recharge bidirectionnelle et le véhicule-réseau
 slug: recharge-bidirectionnelle-vehicule-reseau
 categoryPath: automobile/motorisations/electrique
 summary: >
-  Une voiture électrique peut parfois restituer son énergie à une maison ou au réseau. L'intérêt
-  dépend de la compatibilité, du contrat et de l'usure de la batterie.
+  Une voiture électrique peut parfois alimenter une maison ou le réseau. Voici comment fonctionne
+  la recharge bidirectionnelle, ce que la norme ISO 15118-20 y change et pourquoi tous les
+  véhicules ne sont pas concernés.
 tags: [automobile, electrique, recharge, V2G, energie]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [recharge-et-infrastructure-des-bornes, chimies-batteries-lithium-ion-automobile]
+sources:
+  - title: "ISO 15118-20:2022"
+    url: "https://webstore.iec.ch/publication/26347"
+    publisher: "IEC / ISO"
+    date: "2022"
+  - title: "Vehicle-to-Grid (V2G) with CharIN: Driving interoperability, standards, and grid integration"
+    url: "https://www.charin.global/news/vehicle-to-grid-v2g-interoperability-standards-grid-integration/"
+    publisher: "CharIN"
+    date: "2025"
+  - title: "Projet Auto et Mobilités, note thématique TCO et VO"
+    url: "https://theshiftproject.org/app/uploads/2026/06/Projet-Auto-et-Mobilites-Note-thematique-TCO-et-VO.pdf"
+    publisher: "The Shift Project"
+    date: "2026"
+quiz:
+  - question: "Que désigne le V2H ?"
+    options:
+      - "Une voiture qui alimente une maison"
+      - "Une voiture qui échange avec le réseau"
+      - "Une voiture qui recharge un téléphone seulement"
+    answer: 1
+    explanation: "V2H signifie vehicle-to-home. L'échange avec le réseau s'appelle V2G."
+  - question: "Quelle norme définit les messages du transfert bidirectionnel, publiée en 2022 ?"
+    options:
+      - "ISO 15118-20"
+      - "ISO 9001"
+      - "ISO 26262"
+    answer: 1
+    explanation: "L'ISO 15118-20, publiée le 26 avril 2022, définit ces messages et leur séquencement."
+  - question: "Quelle autonomie perd-on environ en restituant 10 kWh avec une consommation de 18 kWh/100 km ?"
+    options:
+      - "Environ 18 km"
+      - "Environ 100 km"
+      - "Environ 55 km"
+    answer: 3
+    explanation: "10 divisé par 0,18 donne environ 55 km."
+  - question: "Quel est l'un des freins actuels du V2G d'après CharIN ?"
+    options:
+      - "Il est interdit en Europe"
+      - "Peu de modèles de véhicules sont compatibles"
+      - "Il ne fonctionne que de jour"
+    answer: 2
+    explanation: "CharIN indique que peu de véhicules sont aujourd'hui compatibles, malgré une généralisation attendue."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une voiture stationnée est une batterie mobile. Avec une borne et un véhicule compatibles, elle peut absorber de l'électricité quand le réseau en a de reste, puis en restituer quand il en manque. L'intérêt dépend de la compatibilité, du contrat et de l'usure de la batterie.
+
+## Trois usages
+
+Le V2L (vehicle-to-load) alimente directement des appareils, comme un outil de chantier ou un barbecue électrique. Le V2H (vehicle-to-home) alimente une maison. Le V2G (vehicle-to-grid) échange avec le réseau : le véhicule réinjecte de l'énergie en période de pointe, ou absorbe l'excédent quand la production renouvelable est élevée.
+
+Les fonctions disponibles dépendent à la fois du véhicule et du chargeur : un modèle peut offrir le V2L sans pouvoir faire du V2G.
+
+## Le rôle des normes
+
+Pour qu'un véhicule et une borne de marques différentes se comprennent, il faut un langage commun. La norme ISO 15118-20, publiée le 26 avril 2022, définit les messages de communication et les exigences de séquencement pour le transfert d'énergie bidirectionnel. Elle couvre aussi la recharge conductive et sans fil.
+
+Selon l'association CharIN, qui rassemble des acteurs de la recharge, cette norme est le socle du V2G en recharge à courant continu. Pour la recharge en courant alternatif, en revanche, les cadres réglementaires restent fragmentés entre pays européens.
+
+## Un exemple chiffré
+
+Prenons une consommation de 18 kWh pour 100 km, valeur de référence utilisée dans une note du Shift Project. Si une voiture restitue 10 kWh à la maison un soir de pointe, elle perd environ 55 km d'autonomie pour le lendemain.
+
+Le pilotage doit donc garantir une réserve suffisante pour le déplacement prévu. Un bon contrat permet au conducteur de fixer un niveau minimal de charge au départ.
+
+## Les limites
+
+Peu de modèles de véhicules sur le marché sont aujourd'hui compatibles avec le V2G, même si la plupart des nouveaux véhicules devraient bientôt l'intégrer, selon CharIN en 2025. La borne bidirectionnelle est aussi plus complexe qu'une borne classique.
+
+S'ajoutent des questions contractuelles : qui rémunère l'énergie restituée, à quel tarif, et qui assume l'usure supplémentaire de la batterie ? Le véhicule doit aussi rester disponible : une voiture vidée pour le réseau n'est pas utilisable pour partir.
+
+## Pourquoi cela intéresse le réseau
+
+Les énergies renouvelables varient avec le soleil et le vent. Des batteries nombreuses et réparties, branchées au moment utile, pourraient aider à absorber les excédents et à couvrir les pointes. Ce potentiel dépend toutefois du nombre de véhicules réellement compatibles et branchés.
+
+## Ce que cela change pour le conducteur
+
+Pour un particulier, le scénario le plus simple est le V2H : la voiture se recharge quand l'électricité est abondante, puis alimente la maison en soirée. Le conducteur ne le remarque que si le logiciel respecte son besoin de départ.
+
+Pour une entreprise, une flotte garée au dépôt la nuit forme un ensemble de batteries pilotables ensemble. C'est un cas favorable : les horaires sont connus, les véhicules reviennent chaque soir et la réserve nécessaire au lendemain se calcule à l'avance.
+
+## À retenir
+
+- Une voiture électrique branchée peut devenir un élément du système électrique.
+- V2L, V2H et V2G désignent trois usages : appareils, maison, réseau.
+- La norme ISO 15118-20 (2022) fixe les messages du transfert bidirectionnel.
+- Peu de véhicules sont aujourd'hui compatibles avec le V2G.
+- Le bénéfice doit être comparé à la perte de disponibilité et à l'usure de la batterie.
+
+```schema
+type: comparaison
+titre: La voiture comme batterie
+colonnes:
+  - titre: Ce que cela apporte
+    points:
+      - La voiture devient un élément du système électrique
+  - titre: Les conditions
+    points:
+      - Compatibilité et réglementation
+      - Bénéfice à comparer à l'usure
+```
 
 ---
 
@@ -2895,15 +5780,105 @@ title: La conduite économe et l'éco-conduite
 slug: eco-conduite-consommation-securite
 categoryPath: automobile/usages-et-mobilite
 summary: >
-  Anticiper, accélérer progressivement et limiter la vitesse réduisent la consommation. La bonne
-  éco-conduite améliore aussi la sécurité sans inciter à rouler dangereusement lentement.
+  Conduire en anticipant, en restant souple et en levant le pied sur la vitesse peut réduire la
+  consommation de près de 15 %. Comprendre où part l'énergie permet d'économiser sans jamais
+  sacrifier la sécurité.
 tags: [automobile, ecoconduite, consommation, securite, vitesse]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [autonomie-reelle-et-cycle-dhomologation, pneus-contact-route-adherence]
+sources:
+  - title: "L'écoconduite : une solution pour consommer moins de carburant et limiter vos émissions de CO₂"
+    url: "https://agirpourlatransition.ademe.fr/particuliers/economiser/carburant/ecoconduite-solution-consommer-moins-carburant-limiter-emissions-co2?backtosearch=true"
+    publisher: "ADEME"
+  - title: "L'écoconduite"
+    url: "https://www.bison-fute.gouv.fr/ecoconduite,10211.html"
+    publisher: "Bison Futé (Ministère de la Transition écologique)"
+quiz:
+  - question: "Que devient l'énergie de mouvement quand le conducteur freine fort ?"
+    options:
+      - "Elle est stockée dans le moteur"
+      - "Elle est dissipée en chaleur dans les freins"
+      - "Elle revient entièrement à la batterie"
+    answer: 2
+    explanation: "Les freins transforment l'énergie de mouvement en chaleur, qui ne revient pas. Le freinage régénératif d'une électrique n'en récupère qu'une partie."
+  - question: "Selon Bison Futé, que permet de gagner une réduction de 10 km/h sur 500 km ?"
+    options:
+      - "3 à 5 litres de carburant"
+      - "Une heure de trajet"
+      - "Aucune économie mesurable"
+    answer: 1
+    explanation: "Rouler 10 km/h moins vite économise 3 à 5 litres sur 500 km et réduit le CO₂ d'environ 12,5 %."
+  - question: "Quel geste d'éco-conduite est présenté comme le plus rentable ?"
+    options:
+      - "Rouler au point mort en descente"
+      - "Anticiper les ralentissements et lever le pied"
+      - "Couper le moteur en roulant"
+    answer: 2
+    explanation: "Anticiper évite de dépenser de l'énergie en accélération puis de la perdre au freinage. Le point mort fait perdre le frein moteur."
+  - question: "Pourquoi la vitesse pèse-t-elle autant sur la consommation ?"
+    options:
+      - "La résistance de l'air croît avec le carré de la vitesse"
+      - "Les pneus fondent à haute vitesse"
+      - "Le moteur ne consomme qu'à partir de 100 km/h"
+    answer: 1
+    explanation: "La résistance de l'air augmente plus vite que la vitesse, donc quelques km/h de plus coûtent cher sur autoroute."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'éco-conduite est une façon de conduire qui évite de gaspiller l'énergie. L'idée centrale : ne pas dépenser en accélérations ce que les freins vont transformer en chaleur quelques secondes plus tard. Selon Bison Futé, elle permet d'économiser près de 15 % de carburant.
+
+## Où part l'énergie
+
+Un véhicule qui roule lutte contre trois choses : la résistance de l'air, le frottement des pneus sur la chaussée et sa propre inertie. Pour accélérer, le moteur puise de l'énergie. Quand le conducteur freine ensuite, cette énergie de mouvement est dissipée en chaleur dans les freins et ne revient pas.
+
+Plus on accélère fort puis freine tard, plus on gaspille. À l'inverse, un véhicule qui ralentit en roue libre ou au frein moteur utilise son élan au lieu de le détruire.
+
+La résistance de l'air grandit plus vite que la vitesse : elle augmente avec le carré de celle-ci. C'est pourquoi quelques kilomètres par heure de plus pèsent lourd sur autoroute, bien plus qu'en ville.
+
+## Les gestes qui comptent
+
+Bison Futé met en avant une conduite souple. Cela commence par un démarrage en douceur et un passage au rapport supérieur sans attendre, car un moteur qui tourne trop haut dans les tours se met à surconsommer : le site indique jusqu'à 20 % de surconsommation en cas de sur-régime.
+
+Le deuxième geste est l'anticipation. En voyant un ralentissement loin devant, le conducteur lève le pied et laisse le frein moteur agir, plutôt que de rouler vite jusqu'à la dernière seconde puis d'écraser la pédale de frein. C'est le geste le plus rentable, parce qu'il évite à la fois la dépense d'énergie et sa perte.
+
+D'autres habitudes complètent le tableau : surveiller le chargement du véhicule, limiter l'usage de la climatisation, vérifier l'état général de la voiture et couper le moteur lors d'un arrêt prolongé. Un véhicule bien entretenu et peu chargé a simplement moins d'effort à fournir.
+
+## L'effet de la vitesse
+
+La vitesse est le levier le plus facile à mesurer. D'après Bison Futé, rouler 10 km/h moins vite fait économiser 3 à 5 litres de carburant sur 500 km. Les émissions de CO₂ baissent d'environ 12,5 % sur le même trajet, soit 12 kg.
+
+Un exemple concret : sur un long trajet d'autoroute, passer de 130 à 120 km/h change peu l'heure d'arrivée, mais se voit à la pompe. Le site ajoute qu'une vitesse réduite diminue aussi le risque d'accident de 10 à 15 %. Les chiffres de cette page ne sont pas datés.
+
+## Limites et idées reçues
+
+L'éco-conduite n'est pas la conduite lente. Rouler nettement en dessous du flux gêne les autres, provoque des dépassements et des freinages, et peut créer du danger. La fluidité fait partie de la sécurité.
+
+Mettre la voiture au point mort en descente est une autre fausse bonne idée. Le moteur continue alors de consommer pour tourner au ralenti, et le conducteur perd l'aide du frein moteur. Couper des systèmes de sécurité pour économiser quelques gouttes n'a pas de sens non plus.
+
+Sur une voiture électrique, le freinage régénératif récupère une partie de l'énergie au ralentissement. Cette récupération reste partielle : mieux vaut encore anticiper que freiner fort en comptant sur elle.
+
+## À retenir
+
+- L'éco-conduite peut économiser près de 15 % de carburant selon Bison Futé.
+- Anticiper et utiliser le frein moteur évite de perdre en freinage l'énergie dépensée à l'accélération.
+- Rouler 10 km/h moins vite économise 3 à 5 litres sur 500 km.
+- Un moteur en sur-régime peut consommer jusqu'à 20 % de plus.
+- Économiser ne justifie jamais de gêner la circulation ni de réduire la sécurité.
+
+```schema
+type: systeme
+titre: Ce qui influence la consommation
+centre: Consommation
+parties:
+  - nom: Anticipation
+    role: Souvent le geste le plus efficace.
+  - nom: Vitesse
+  - nom: Pression des pneus
+  - nom: Charge
+  - nom: Climatisation
+```
 
 ---
 
@@ -2913,15 +5888,104 @@ title: La place de la voiture dans la ville
 slug: voiture-espace-urbain-stationnement
 categoryPath: automobile/usages-et-mobilite
 summary: >
-  Une voiture en mouvement demande une voirie ; une voiture à l'arrêt demande du stationnement.
-  La place consacrée à ces deux usages influence la forme et le coût de la ville.
+  Une voiture passe l'essentiel de son temps à l'arrêt, et chaque place coûte de l'espace, de
+  l'argent et des choix d'aménagement. La façon de gérer le stationnement façonne la forme et les
+  habitudes d'une ville.
 tags: [automobile, ville, stationnement, urbanisme, mobilite]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [autopartage-et-covoiturage, essor-suv-marche-automobile]
+sources:
+  - title: "Compte rendu du groupe de travail 1 : transition écologique et parkings"
+    url: "https://www.reseaunationalamenageurs.logement.gouv.fr/IMG/pdf/cr_gt1_rna_juillet_2019_-_tee_parkings_-_vf.pdf"
+    publisher: "Réseau national des aménageurs (Ministère du Logement)"
+    date: "2019"
+  - title: "Fiche d'information : gestion du stationnement"
+    url: "https://www.are.admin.ch/dam/fr/sd-web/ZTkOrSjDzrWv/factsheet_parkraummanagement.pdf"
+    publisher: "Office fédéral du développement territorial (Suisse)"
+quiz:
+  - question: "Selon le document de 2019, quel type de place coûte le plus cher à construire ?"
+    options:
+      - "Parc au sol"
+      - "Silo"
+      - "Souterrain"
+    answer: 3
+    explanation: "Une place souterraine revient à 20 000 à 40 000 euros hors taxes, contre 10 000 à 15 000 en silo et 2 000 à 5 000 au sol."
+  - question: "Quelle part des places peut rester vide dans des quartiers existants ?"
+    options:
+      - "20 à 25 %"
+      - "Moins de 1 %"
+      - "Plus de 80 %"
+    answer: 1
+    explanation: "Le document cite 20 à 25 % de places vides, avec des cas encore plus marqués dans certains logements sociaux."
+  - question: "Pourquoi limiter l'offre de stationnement à destination peut-il changer les comportements ?"
+    options:
+      - "Les voitures deviennent plus petites"
+      - "Cela incite à changer de mode de transport"
+      - "Cela supprime tous les besoins des résidents"
+    answer: 2
+    explanation: "Moins de places à l'arrivée rend la voiture moins pratique et favorise transports publics, vélo ou marche, à condition d'avoir des alternatives."
+  - question: "Quel effet pervers faut-il éviter en réformant le stationnement ?"
+    options:
+      - "Une hausse du trafic de recherche de place"
+      - "Une baisse du prix du carburant"
+      - "Une disparition des trottoirs"
+    answer: 1
+    explanation: "Si les conducteurs tournent pour trouver une place, le trafic augmente ; guider vers les places libres limite ce risque."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une voiture ne prend pas de la place uniquement quand elle roule. Elle en occupe aussi quand elle est garée, c'est-à-dire presque tout le temps. Dans une ville, la rue, le trottoir, les arbres, les terrasses et le stationnement se partagent une largeur limitée, et chaque répartition est un choix.
+
+## Ce que coûte une place
+
+Une place de stationnement n'est pas qu'un rectangle peint au sol. Un document du réseau national des aménageurs, issu d'une réunion de juillet 2019, retient environ 25 m² par place de bureau, contre 20 m² d'espace par employé. Autrement dit, la place de la voiture dépasse celle de son conducteur.
+
+Le coût de construction dépend du type d'ouvrage. Dans ce même document, une place en parc au sol revient à 2 000 à 5 000 euros hors taxes, une place en silo à 10 000 à 15 000 euros, et une place souterraine à 20 000 à 40 000 euros hors très grandes villes. À Montpellier, le parking Saint-Roch (792 places sur 9 niveaux, mis en service en 2015) affiche environ 14 700 euros par place.
+
+Ces écarts expliquent pourquoi le stationnement gratuit ou peu cher est en réalité subventionné par quelqu'un : le promoteur, la collectivité ou les habitants.
+
+## Beaucoup de places, souvent vides
+
+Construire davantage ne règle pas tout. Dans les quartiers existants, le document évoque 20 à 25 % de places vides. À Cergy, un quartier tertiaire compte 12 000 places, dont 2 672 seraient mobilisables. Dans des logements sociaux de Vitry-sur-Seine, le taux d'occupation n'atteint qu'à peine 30 %.
+
+Le stationnement est aussi très dispersé entre public et privé. Dans un centre-ville dense, le texte situe environ 25 % de l'offre en voirie et 65 % dans des garages et cours privés. Les places privées sont plus difficiles à réguler que celles de la rue, ce que souligne aussi l'Office fédéral suisse du développement territorial.
+
+## Les leviers de la régulation
+
+Selon cet office, le stationnement consomme beaucoup de surface et concurrence d'autres usages, surtout en centre-ville. Limiter l'offre de places à destination incite à changer de mode, et le niveau des tarifs influence le choix du moyen de transport.
+
+Les outils sont connus : tarification, durée de stationnement limitée, places réservées à certaines catégories d'usagers, parkings relais en périphérie. Un autre outil est la mutualisation : le document cite l'exemple de deux parkings de 150 places remplacés par un seul de 210 places, soit 30 % de places en moins pour le même service.
+
+Il faut aussi éviter l'effet pervers. Le trafic de recherche de place ne doit pas augmenter, d'où l'intérêt de guider les automobilistes vers les places libres les plus proches.
+
+## Limites et précautions
+
+Réduire le stationnement sans alternative crédible fait peser le coût sur ceux qui n'ont pas le choix. Les résidents, les artisans, les personnes à mobilité réduite ont des besoins réels, qu'une règle trop uniforme ignore.
+
+La régulation produit aussi de l'argent, qui peut financer des alternatives. Mais ce choix relève des communes, avec des règles qui varient selon les territoires, ce qui complique la coordination à l'échelle d'une agglomération.
+
+## À retenir
+
+- Une voiture occupe de l'espace même lorsqu'elle ne roule pas, soit presque tout le temps.
+- Une place coûte de 2 000 à 40 000 euros hors taxes à construire selon le type d'ouvrage.
+- Dans des quartiers existants, 20 à 25 % des places peuvent rester vides.
+- Tarifs, durée limitée et mutualisation influencent les choix de transport et réduisent la surface nécessaire.
+- Régler le stationnement suppose de tenir compte des résidents et des personnes à mobilité réduite.
+
+```schema
+type: systeme
+titre: La voiture et l'espace urbain
+centre: Voiture en ville
+parties:
+  - nom: Espace
+    role: Consommé même à l'arrêt.
+  - nom: Stationnement
+    role: Il influence circulation et choix de transport.
+  - nom: Aménagement
+    role: Il change les comportements.
+```
 
 ---
 
@@ -2931,15 +5995,106 @@ title: La climatisation et le chauffage automobile
 slug: chauffage-climatisation-consommation-automobile
 categoryPath: automobile/usages-et-mobilite
 summary: >
-  Chauffer ou refroidir l'habitacle consomme de l'énergie. L'impact est particulièrement visible
-  dans une voiture électrique, qui dispose de peu de chaleur perdue.
+  Chauffer ou refroidir l'habitacle prélève de l'énergie, et l'effet est spectaculaire sur une
+  électrique : un test américain a mesuré jusqu'à 41 % d'autonomie perdue par grand froid avec
+  chauffage.
 tags: [automobile, chauffage, climatisation, consommation, electrique]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [autonomie-reelle-et-cycle-dhomologation, voiture-electrique]
+sources:
+  - title: "AAA: Cold weather can cut electric car range over 40 percent"
+    url: "https://cnycentral.com/news/auto-matters/aaa-cold-weather-can-cut-electric-car-range-over-40-percent"
+    publisher: "AAA (relayé par CNY Central)"
+    date: "2019"
+  - title: "L'écoconduite"
+    url: "https://www.bison-fute.gouv.fr/ecoconduite,10211.html"
+    publisher: "Bison Futé (Ministère de la Transition écologique)"
+quiz:
+  - question: "Quelle perte d'autonomie l'AAA a-t-elle mesurée à -7 °C avec chauffage ?"
+    options:
+      - "Environ 4 %"
+      - "Environ 41 %"
+      - "Environ 90 %"
+    answer: 2
+    explanation: "À -7 °C avec chauffage de l'habitacle, la perte atteint environ 41 %, contre environ 12 % sans chauffage."
+  - question: "Pourquoi une électrique est-elle plus pénalisée qu'une thermique pour se chauffer ?"
+    options:
+      - "Elle ne dispose presque pas de chaleur perdue à réutiliser"
+      - "Elle n'a pas de ventilateur"
+      - "Elle pèse toujours plus lourd"
+    answer: 1
+    explanation: "Un moteur thermique rejette beaucoup de chaleur réutilisable, alors qu'une électrique doit tirer l'énergie de sa batterie."
+  - question: "Quel réflexe l'AAA recommande-t-elle pour préserver l'autonomie ?"
+    options:
+      - "Rouler fenêtres fermées"
+      - "Chauffer ou refroidir la voiture pendant qu'elle est branchée"
+      - "Couper la batterie au démarrage"
+    answer: 2
+    explanation: "Le préconditionnement branché utilise l'électricité du réseau et laisse la batterie de traction intacte."
+  - question: "Comment fonctionne une pompe à chaleur ?"
+    options:
+      - "Elle brûle un peu de carburant"
+      - "Elle déplace de la chaleur au lieu de la produire directement"
+      - "Elle chauffe uniquement par friction"
+    answer: 1
+    explanation: "Elle capte la chaleur extérieure et la transfère à l'habitacle, d'où un meilleur rendement qu'une résistance."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Chauffer ou refroidir l'habitacle demande de l'énergie. Dans une voiture thermique, une partie de la chaleur du moteur peut être réutilisée pour se chauffer. Une voiture électrique produit très peu de chaleur perdue : elle doit tirer l'énergie de sa batterie, celle-là même qui sert à avancer.
+
+## Ce que dit un test de 2019
+
+L'association américaine AAA a publié en 2019 un test de cinq voitures électriques : BMW i3, Chevrolet Bolt, Nissan Leaf, Tesla Model S 75D et Volkswagen e-Golf. Les modèles dataient de 2017 et 2018, et chacun offrait au moins 100 miles (environ 160 km) d'autonomie. Les essais ont eu lieu sur banc à rouleaux, dans une cellule à température contrôlée.
+
+L'autonomie a été comparée à celle mesurée à 24 °C environ (75 °F). À -7 °C, elle a baissé d'environ 41 % avec le chauffage de l'habitacle en marche, et d'environ 12 % sans chauffage.
+
+Par forte chaleur, à 35 °C, la perte atteint environ 17 % avec la climatisation, contre environ 4 % sans.
+
+## Pourquoi le froid pèse plus que la chaleur
+
+Le froid frappe deux fois. D'abord, une batterie froide délivre moins bien son énergie, ce qui explique la perte de 12 % même sans chauffage. Ensuite, il faut produire de la chaleur pour l'habitacle, et c'est le poste le plus coûteux : il fait passer la perte de 12 à 41 %.
+
+Refroidir demande moins d'énergie que chauffer, car l'écart avec la température souhaitée est plus faible et le compresseur de climatisation déplace de la chaleur au lieu d'en fabriquer.
+
+## La pompe à chaleur
+
+Un chauffage à résistance transforme chaque unité d'électricité en une unité de chaleur, comme un radiateur. Une pompe à chaleur fonctionne comme une climatisation à l'envers : elle capte la chaleur de l'air extérieur ou des composants de la voiture et la déplace vers l'habitacle. Elle fournit ainsi plus de chaleur qu'elle ne consomme d'électricité.
+
+Son efficacité baisse quand il fait plus froid dehors, car il y a moins de chaleur à capter. Elle reste en général plus économe qu'une résistance, mais l'écart dépend de la température. Les modèles testés par l'AAA datent de 2017-2018 : des voitures plus récentes, équipées de pompes à chaleur, peuvent obtenir de meilleurs résultats.
+
+## Les bons réflexes
+
+AAA recommande de chauffer ou de refroidir la voiture pendant qu'elle est branchée à une borne. L'énergie vient alors du réseau et non de la batterie, qui garde toute son autonomie pour la route. C'est le préconditionnement.
+
+Autres habitudes utiles : se servir des sièges et du volant chauffants, qui réchauffent le corps directement avec peu d'énergie, et choisir une température raisonnable plutôt qu'un réglage extrême.
+
+Sur une voiture thermique, la climatisation augmente aussi la consommation. Bison Futé range d'ailleurs la limitation de son usage parmi les gestes d'éco-conduite.
+
+## À retenir
+
+- Une voiture électrique doit puiser dans sa batterie pour chauffer, faute de chaleur perdue à récupérer.
+- Dans un test publié en 2019, l'AAA a mesuré environ 41 % d'autonomie perdue à -7 °C avec chauffage, et environ 17 % à 35 °C avec climatisation.
+- Même sans chauffage, le froid fait perdre environ 12 % d'autonomie par effet sur la batterie.
+- La pompe à chaleur déplace la chaleur et consomme moins qu'une simple résistance, mais moins bien par grand froid.
+- Préchauffer ou prérefroidir la voiture branchée préserve l'autonomie.
+
+```schema
+type: comparaison
+titre: Chauffer une voiture électrique
+colonnes:
+  - titre: Résistance
+    points:
+      - Simple, mais gourmande
+  - titre: Pompe à chaleur
+    points:
+      - Plus efficace dans certaines conditions
+  - titre: Préconditionnement branché
+    points:
+      - Préserve la batterie de traction
+```
 
 ---
 
@@ -2949,15 +6104,104 @@ title: L'ergonomie et la fatigue au volant
 slug: ergonomie-fatigue-conduite
 categoryPath: automobile/securite-et-conduite
 summary: >
-  Position, visibilité, commandes et vigilance influencent la sécurité. Une voiture confortable ne
-  doit pas seulement être agréable : elle doit réduire les erreurs et la fatigue.
+  Posture, visibilité, commandes et vigilance décident de la qualité de la conduite autant que la
+  mécanique. Une voiture confortable réduit la fatigue, mais aucune aide technique ne remplace le
+  repos.
 tags: [automobile, ergonomie, fatigue, securite, conduite]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [technologies-aide-conduite-efficacite, niveaux-dautomatisation-de-la-conduite]
+sources:
+  - title: "Somnolence et risque accidentel"
+    url: "https://www.onisr.securite-routiere.gouv.fr/es/node/301"
+    publisher: "ONISR (Observatoire national interministériel de la sécurité routière)"
+    date: "2019"
+  - title: "Drowsy driving"
+    url: "https://www.nhtsa.gov/risky-driving/drowsy-driving"
+    publisher: "NHTSA"
+quiz:
+  - question: "Pourquoi la somnolence est-elle probablement sous-estimée dans les statistiques ?"
+    options:
+      - "Elle est difficile à établir juste après un accident"
+      - "Elle n'existe que la nuit"
+      - "Les conducteurs ne la signalent jamais volontairement"
+    answer: 1
+    explanation: "L'ONISR indique que la somnolence est difficile à établir après coup, d'où une sous-estimation probable."
+  - question: "Que proposent les experts en 2016 pour mieux la mesurer ?"
+    options:
+      - "Supprimer toute catégorie"
+      - "Séparer somnolence et malaise"
+      - "Compter uniquement les accidents de nuit"
+    answer: 2
+    explanation: "La catégorie fatigue-malaise serait remplacée par deux catégories distinctes, somnolence et malaise."
+  - question: "Quelle est la bonne réponse face aux premiers signes de somnolence ?"
+    options:
+      - "Monter le volume de la radio"
+      - "S'arrêter et se reposer"
+      - "Compter sur le régulateur adaptatif"
+    answer: 2
+    explanation: "Les aides ne corrigent pas la somnolence ; seul l'arrêt et le repos réduisent le risque."
+  - question: "Pourquoi un écran tactile très chargé peut-il être problématique ?"
+    options:
+      - "Il oblige à détourner longuement le regard de la route"
+      - "Il consomme trop de carburant"
+      - "Il rend le siège inconfortable"
+    answer: 1
+    explanation: "Chercher une commande dans des menus oblige à regarder, viser et valider, donc à quitter la route des yeux."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le conducteur reste l'opérateur principal d'un véhicule. La position du siège, la lisibilité des informations et la facilité d'accès aux commandes influencent donc directement la sécurité. L'ergonomie ne concerne pas le luxe : elle vise à réduire les erreurs et la fatigue.
+
+## La fatigue et la somnolence
+
+La somnolence est un risque sérieux. L'Observatoire national interministériel de la sécurité routière (ONISR) la décrit comme l'une des premières causes d'accidents mortels relevées sur autoroute. Il précise aussi qu'elle est difficile à établir juste après un accident, donc probablement sous-estimée.
+
+C'est pourquoi les experts ont proposé en 2016 de séparer la catégorie utilisée jusque-là, appelée fatigue-malaise, en deux : somnolence d'un côté, malaise de l'autre. Cela permet de mieux mesurer chaque phénomène.
+
+Le problème touche aussi les professionnels. Selon la même page, environ 10 à 15 % des conducteurs professionnels sont concernés par la somnolence au volant.
+
+## Ce qui aggrave la fatigue
+
+Un long trajet, une mauvaise posture, la chaleur dans l'habitacle et un écran trop chargé réduisent l'attention. Sur autoroute, la monotonie accentue l'effet : peu de stimulations, une vitesse stable, un paysage qui défile.
+
+La fatigue diminue la capacité à repérer un danger et à corriger une erreur. Elle ne se compense pas par la volonté. Des pauses régulières et l'arrêt dès les premiers signes (bâillements, paupières lourdes, franchissement d'une ligne) sont les réponses les plus fiables : un café ne soulage que brièvement, et seul un sommeil suffisant protège vraiment.
+
+## Un poste de conduite bien réglé
+
+Les conseils usuels de réglage commencent par le siège. La jambe doit rester légèrement fléchie quand la pédale est enfoncée, les bras ne doivent pas être tendus, et l'appuie-tête doit se trouver derrière la tête, pas dans la nuque. Une posture correcte évite les tensions, qui deviennent douloureuses après plusieurs heures.
+
+La visibilité compte autant. Des rétroviseurs réglés, des montants fins et une vitre propre diminuent les angles morts. Plus la vision est facile, moins le conducteur doit se tordre et plus il garde l'attention sur la route.
+
+## Une interface qui n'accapare pas le regard
+
+Les informations urgentes doivent être visibles et compréhensibles en un coup d'œil. Les commandes essentielles, comme le désembuage, les essuie-glaces ou le volume, doivent rester accessibles sans détourner longuement les yeux de la route.
+
+Un écran tactile qui regroupe tout dans des menus oblige à regarder, viser et valider. Chaque seconde passée les yeux sur l'écran est une seconde où la route n'est plus surveillée. Une interface trop complexe peut ainsi annuler une partie du bénéfice des technologies embarquées.
+
+## Les aides ne remplacent pas le repos
+
+Régulateur adaptatif, maintien dans la voie et alertes de vigilance sont utiles, mais elles ne corrigent pas la somnolence. Elles peuvent même donner une fausse impression de sécurité, et pousser à poursuivre un trajet alors qu'il faudrait s'arrêter.
+
+## À retenir
+
+- La somnolence est l'une des premières causes d'accidents mortels sur autoroute, probablement sous-estimée selon l'ONISR.
+- Environ 10 à 15 % des conducteurs professionnels sont concernés par la somnolence.
+- Un siège bien réglé et une bonne visibilité réduisent la fatigue et les erreurs.
+- Les commandes essentielles doivent rester utilisables sans quitter longuement la route des yeux.
+- Les aides à la conduite ne remplacent ni le repos ni les pauses.
+
+```schema
+type: systeme
+titre: Confort et sécurité au volant
+centre: Conducteur
+parties:
+  - nom: Fatigue
+    role: Elle réduit la capacité à détecter et corriger une erreur.
+  - nom: Interface
+    role: Trop complexe, elle annule une partie des bénéfices.
+```
 
 ---
 
@@ -2967,15 +6211,99 @@ title: Les collisions avec les piétons et les cyclistes
 slug: securite-pietons-cyclistes-automobile
 categoryPath: automobile/securite-et-conduite/securite-passive
 summary: >
-  La forme du véhicule, la vitesse et la visibilité influencent fortement les conséquences d'un
-  choc avec un usager vulnérable.
+  Face à une voiture, un piéton ou un cycliste n'a aucune carrosserie : la vitesse d'impact
+  décide presque de tout. Entre 25 et 70 km/h, le risque de décès passe d'environ 10 % à 50 %.
 tags: [automobile, pietons, cyclistes, securite, ville]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [ceinture-airbag-et-structures-deformables, technologies-aide-conduite-efficacite]
+sources:
+  - title: "Impact speed and a pedestrian's risk of severe injury or death"
+    url: "https://aaafoundation.org/impact-speed-pedestrians-risk-severe-injury-death/"
+    publisher: "AAA Foundation for Traffic Safety"
+    date: "2011"
+  - title: "Euro NCAP AEB VRU test protocol"
+    url: "https://cdn.euroncap.com/media/53153/euro-ncap-aeb-vru-test-protocol-v302.pdf"
+    publisher: "Euro NCAP"
+quiz:
+  - question: "À quelle vitesse d'impact (environ) le risque de décès d'un piéton atteint-il 50 % selon l'étude AAA ?"
+    options:
+      - "26 km/h"
+      - "68 km/h"
+      - "93 km/h"
+    answer: 2
+    explanation: "Le risque de décès atteint 50 % vers 42 mph, soit environ 68 km/h, et 90 % vers 93 km/h."
+  - question: "Quel est l'effet de l'âge dans cette étude ?"
+    options:
+      - "Aucun effet"
+      - "Un piéton de 70 ans à 40 km/h a un risque proche d'un piéton de 30 ans à 56 km/h"
+      - "Les jeunes sont toujours plus exposés"
+    answer: 2
+    explanation: "L'étude compare 25 mph pour 70 ans à 35 mph pour 30 ans, soit 40 contre 56 km/h."
+  - question: "Pourquoi le freinage automatique d'urgence réduit-il la gravité des chocs ?"
+    options:
+      - "Il durcit le capot"
+      - "Il réduit la vitesse avant l'impact"
+      - "Il alerte les piétons par un son"
+    answer: 2
+    explanation: "Moins de vitesse à l'impact signifie moins de risque de blessure grave ou de décès."
+  - question: "Quelle limite ont les chiffres de l'étude AAA ?"
+    options:
+      - "Ils portent sur des collisions américaines des années 1990, ajustées pour 2007-2009"
+      - "Ils ne concernent que les cyclistes"
+      - "Ils ont été mesurés en 2024"
+    answer: 1
+    explanation: "Les données proviennent de collisions de 1994 à 1998 aux États-Unis ; ce sont des ordres de grandeur, pas des valeurs exactes pour aujourd'hui."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les piétons et les cyclistes n'ont ni carrosserie ni ceinture. Lors d'un choc, c'est leur corps qui absorbe l'énergie. La gravité dépend de la vitesse du véhicule, de la visibilité, de l'aménagement de la route et de la capacité du véhicule à détecter et à freiner à temps.
+
+## La vitesse, premier facteur
+
+La fondation AAA pour la sécurité routière a publié en 2011 une étude de Brian Tefft sur les piétons heurtés par la face avant de voitures, de camionnettes et de SUV aux États-Unis. Elle donne le risque en fonction de la vitesse au moment du choc.
+
+À environ 26 km/h (16 mph), le risque de blessure grave est de 10 %. À 37 km/h (23 mph), il passe à 25 %, et le risque de décès atteint 10 %. À 50 km/h (31 mph), une blessure grave devient aussi probable que non, avec 50 %.
+
+Pour le décès, le risque monte à 25 % vers 51 km/h (32 mph), à 50 % vers 68 km/h (42 mph), à 75 % vers 80 km/h (50 mph) et à 90 % vers 93 km/h (58 mph). Le risque ne croît pas de façon régulière : quelques kilomètres par heure de plus peuvent faire basculer un accident grave en accident mortel.
+
+## L'âge compte aussi
+
+La même étude indique qu'un piéton de 70 ans heurté à 40 km/h (25 mph) a un risque comparable à celui d'un piéton de 30 ans heurté à 56 km/h (35 mph). Les personnes âgées supportent moins bien les chocs, et les enfants, plus petits, sont plus difficiles à apercevoir.
+
+Ces données américaines reposent sur des collisions des années 1994 à 1998, ajustées pour représenter 2007-2009. Elles donnent un bon ordre de grandeur, mais pas des chiffres exacts pour les voitures actuelles.
+
+## Ce que peut faire le véhicule
+
+Le choc dépend de la forme de la face avant : hauteur du capot, rigidité du pare-chocs, espace sous le capot. Le freinage automatique d'urgence agit en amont : en réduisant la vitesse avant l'impact, il réduit la gravité, d'après les tableaux ci-dessus.
+
+Euro NCAP, l'organisme qui évalue la sécurité des voitures neuves en Europe, publie des protocoles d'essai spécifiques pour le freinage automatique face aux piétons et aux cyclistes. La visibilité depuis le siège est un autre facteur : un capot haut ou de larges montants cachent un enfant ou un cycliste.
+
+## Le rôle de la ville
+
+Aucune caméra ne compense une rue mal conçue. L'éclairage, les passages protégés, la séparation des flux et la limitation de vitesse agissent sur le risque avant même que le conducteur n'ait à réagir. Ralentir la circulation là où piétons et cyclistes sont nombreux est l'un des leviers les plus efficaces, car la vitesse est le paramètre le plus sensible.
+
+## À retenir
+
+- La vitesse d'impact détermine fortement la gravité : d'environ 10 % de risque de décès à 37 km/h à 50 % vers 68 km/h.
+- Un piéton de 70 ans à 40 km/h court un risque comparable à celui d'un piéton de 30 ans à 56 km/h.
+- Le freinage automatique réduit la vitesse d'impact, donc la gravité.
+- La sécurité des usagers vulnérables combine véhicule, infrastructure et limitation de vitesse.
+- Le conducteur doit rester attentif aux zones peu visibles.
+
+```schema
+type: systeme
+titre: Protéger les usagers vulnérables
+centre: Piétons et cyclistes
+parties:
+  - nom: Vitesse
+    role: Déterminante pour la gravité d'un choc.
+  - nom: Conception du véhicule
+  - nom: Aménagement de la ville
+  - nom: Attention du conducteur
+    role: Surtout dans les zones peu visibles.
+```
 
 ---
 
@@ -2985,15 +6313,102 @@ title: Les zones à faibles émissions et les restrictions de circulation
 slug: zones-faibles-emissions-automobile
 categoryPath: automobile/industrie-automobile/reglementation-automobile
 summary: >
-  Les villes peuvent limiter l'accès des véhicules selon leurs émissions ou leur vignette. Ces
-  règles transforment la valeur et l'usage des voitures avant même leur interdiction totale.
+  Une zone à faibles émissions ne fixe pas la norme des voitures neuves : elle décide quels
+  véhicules déjà en circulation peuvent entrer en ville, selon leur vignette Crit'Air. Un outil
+  local, aux effets sociaux réels.
 tags: [automobile, ZFE, pollution, ville, regulation]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [normes-demissions-euro, marche-de-loccasion-et-valeur-residuelle]
+sources:
+  - title: "Lutte contre la pollution de l'air : les zones à faibles émissions (ZFE)"
+    url: "https://www.service-public.gouv.fr/particuliers/actualites/A17999?lang=fr"
+    publisher: "Service-Public.fr (Direction de l'information légale et administrative)"
+    date: "2025"
+  - title: "Communication de la mission flash sur les zones à faibles émissions"
+    url: "https://www2.assemblee-nationale.fr/content/download/349512/3438522/version/1/file/Communication+mission+flash+ZFE.pdf"
+    publisher: "Assemblée nationale"
+quiz:
+  - question: "Quelle différence existe-t-il entre une norme d'homologation et une ZFE ?"
+    options:
+      - "Aucune"
+      - "La norme vise les véhicules neufs, la ZFE les véhicules en circulation"
+      - "La ZFE ne concerne que les camions"
+    answer: 2
+    explanation: "L'homologation s'applique à la mise sur le marché, tandis qu'une ZFE restreint l'accès d'un territoire."
+  - question: "Combien de niveaux compte la vignette Crit'Air ?"
+    options:
+      - "3"
+      - "6"
+      - "12"
+    answer: 2
+    explanation: "Il existe 6 niveaux de vignette, selon le niveau de pollution du véhicule."
+  - question: "Quelle loi imposait une ZFE aux agglomérations de plus de 150 000 habitants avant fin 2024 ?"
+    options:
+      - "La loi Climat et résilience de 2021"
+      - "La loi de 1982 sur les transports"
+      - "Un décret de 2030"
+    answer: 1
+    explanation: "La loi Climat et résilience de 2021 a renforcé le dispositif créé par la loi d'orientation des mobilités de 2019."
+  - question: "À quoi sert un Pass ZFE ?"
+    options:
+      - "À payer le carburant"
+      - "À circuler un nombre limité de jours par an quelle que soit la vignette"
+      - "À obtenir une vignette plus verte"
+    answer: 2
+    explanation: "Il offre par exemple 24 jours à Paris et 52 à Lyon, ce qui limite l'impact pour ceux qui viennent rarement."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une norme d'homologation s'applique aux véhicules neufs, au moment de leur mise sur le marché. Une zone à faibles émissions (ZFE) agit autrement : elle restreint l'accès d'un territoire aux véhicules qui y circulent déjà, selon leur niveau de pollution. Les deux mécanismes sont donc complémentaires, mais différents.
+
+## Comment fonctionne une ZFE
+
+Les ZFE sont nées de la loi d'orientation des mobilités de 2019, puis ont été renforcées par la loi Climat et résilience de 2021. Cette dernière imposait aux agglomérations de plus de 150 000 habitants d'en mettre une en place avant le 31 décembre 2024. Leur objectif est de répondre aux dépassements réguliers des normes de qualité de l'air en ville.
+
+Chaque véhicule reçoit une vignette Crit'Air, délivrée par le ministère de la Transition écologique. Il en existe 6 niveaux, selon le niveau de pollution du véhicule. La vignette est obligatoire dans les villes dotées d'une ZFE.
+
+## Ce qui a été fixé début 2025
+
+Selon Service-Public.fr, 12 agglomérations avaient une ZFE en 2024. La page recense 25 ZFE actives en 2025, et indique que 40 zones sont concernées à partir du 1er janvier 2025, avec une mise en place progressive et différente selon les villes.
+
+Depuis le 1er janvier 2025, les véhicules Crit'Air 3 ne peuvent plus circuler dans plusieurs grandes agglomérations. Il s'agit de diesels immatriculés entre 2006 et 2010 et d'essences immatriculées entre 2000 et 2010. À Paris, Lyon, Montpellier et Grenoble, certains véhicules Crit'Air 3, 4 et 5 sont interdits.
+
+## Des règles locales et des dérogations
+
+Chaque ville adapte son dispositif. À Paris et à Grenoble, les restrictions ne s'appliquent pas les week-ends, la nuit et les jours fériés. Un Pass ZFE autorise un nombre limité de jours par an quelle que soit la vignette : 12 jours à Grenoble, 24 à Paris, 52 à Lyon et à Montpellier.
+
+Ces dérogations montrent le compromis recherché : protéger l'air des centres sans bloquer ceux qui ne roulent que rarement en ville.
+
+## Effets et limites
+
+Ces règles peuvent accélérer le renouvellement du parc, modifier les prix de l'occasion et pousser les entreprises à adapter leurs flottes. Un véhicule ancien interdit en ville perd de la valeur à cet endroit, même s'il roule encore parfaitement ailleurs.
+
+L'efficacité dépend du contrôle, du périmètre et des alternatives disponibles. Une restriction isolée peut déplacer le trafic vers l'extérieur plutôt que le réduire. Les ménages qui ne peuvent pas changer de voiture immédiatement ont besoin d'information, d'aides ou de solutions de transport crédibles.
+
+Les règles évoluent : la page de Service-Public.fr elle-même rappelle qu'elle date de janvier 2025 et peut ne plus être exacte. Pour savoir si l'on peut entrer dans une zone, mieux vaut consulter le simulateur officiel.
+
+## À retenir
+
+- Une ZFE agit localement sur les véhicules en circulation, une norme d'homologation sur les véhicules neufs.
+- La vignette Crit'Air comporte 6 niveaux et conditionne l'accès aux zones.
+- Début 2025, les Crit'Air 3 étaient interdits dans plusieurs grandes agglomérations.
+- Les dérogations, comme le Pass ZFE, adoucissent le dispositif.
+- L'accompagnement et les alternatives déterminent l'acceptabilité.
+
+```schema
+type: systeme
+titre: Les effets d'une zone à faibles émissions
+centre: ZFE
+parties:
+  - nom: Air local
+    role: Elle agit sur les véhicules qui circulent.
+  - nom: Marché de l'occasion
+    role: Les restrictions le modifient.
+  - nom: Acceptabilité
+    role: Elle dépend de l'accompagnement et des alternatives.
+```
 
 ---
 
@@ -3003,15 +6418,101 @@ title: La chaîne de valeur des matières premières automobiles
 slug: matieres-premieres-automobile-lithium-cobalt-nickel
 categoryPath: automobile/industrie-automobile/production
 summary: >
-  Une voiture mobilise acier, cuivre, aluminium, lithium, nickel et terres rares. Leur extraction,
-  leur raffinage et leur recyclage deviennent des enjeux industriels et géopolitiques.
+  Une voiture réclame acier, cuivre, aluminium, lithium, nickel et terres rares. Le vrai nœud
+  n'est pas seulement la mine, mais le raffinage, très concentré dans quelques pays, et le
+  recyclage encore à construire.
 tags: [automobile, matieres-premieres, lithium, cobalt, industrie]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [chimies-batteries-lithium-ion-automobile, recyclage-batteries-vehicules-electriques]
+sources:
+  - title: "Supply concentration, export restrictions and declining investment put critical mineral security at risk"
+    url: "https://iea.org/news/supply-concentration-export-restrictions-and-declining-investment-put-critical-mineral-security-at-risk"
+    publisher: "Agence internationale de l'énergie (AIE)"
+    date: "2026"
+  - title: "Sustainability rules for batteries and waste batteries"
+    url: "https://eur-lex.europa.eu/EN/legal-content/summary/sustainability-rules-for-batteries-and-waste-batteries.html"
+    publisher: "EUR-Lex (Union européenne)"
+quiz:
+  - question: "Quelle étape de la chaîne est aussi stratégique que l'extraction ?"
+    options:
+      - "La peinture"
+      - "Le raffinage"
+      - "La publicité"
+    answer: 2
+    explanation: "Le minerai doit être raffiné pour devenir un matériau industriel, et cette étape est très concentrée géographiquement."
+  - question: "Quelle était la part du premier fournisseur de terres rares en 2025 selon l'AIE ?"
+    options:
+      - "85 %"
+      - "50 %"
+      - "20 %"
+    answer: 1
+    explanation: "Elle est passée de plus de 90 % en 2023 à 85 % en 2025."
+  - question: "À quel montant ont atteint les financements publics en 2025 ?"
+    options:
+      - "6,5 milliards de dollars"
+      - "65 milliards de dollars"
+      - "650 milliards de dollars"
+    answer: 2
+    explanation: "Ils ont plus que quadruplé entre 2023 et 2025 pour atteindre 65 milliards de dollars."
+  - question: "Quel avantage a un métal par rapport à l'essence ?"
+    options:
+      - "Il peut être recyclé"
+      - "Il est gratuit"
+      - "Il ne se raffine jamais"
+    answer: 1
+    explanation: "Un métal contenu dans une batterie peut être récupéré, alors que le carburant brûlé est perdu."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La transition automobile déplace une partie des enjeux. On brûle moins de pétrole, mais on a besoin de davantage de matériaux pour les batteries, les moteurs, les câbles et l'électronique. Ces matières sont extraites, raffinées et fabriquées dans une chaîne mondiale dont chaque maillon peut devenir un point de fragilité.
+
+## Du minerai au composant
+
+Extraire n'est que la première étape. Le minerai doit être concentré, puis raffiné pour obtenir un matériau de pureté industrielle. Celui-ci est ensuite transformé en composants de batterie, assemblés en cellules, puis en blocs installés dans la voiture.
+
+Un exemple : le lithium sort d'une mine ou d'une saumure, puis d'une usine chimique, avant d'entrer dans la cathode d'une batterie. Un pays peut posséder le minerai sans posséder les usines de raffinage, et inversement.
+
+## Un raffinage très concentré
+
+D'après l'Agence internationale de l'énergie, qui publie son édition 2026 sur les minéraux critiques, le raffinage est dominé par un petit nombre de pays. L'Indonésie pour le nickel et la Chine pour les autres minéraux énergétiques clés représentent plus des trois quarts de la croissance de l'offre raffinée de ces deux dernières années.
+
+Pour les terres rares, la part du premier fournisseur est passée de plus de 90 % en 2023 à 85 % en 2025. Elle pourrait tomber à 70 % d'ici 2035 si les projets annoncés aboutissent. Mais la capacité de raffinage prévue ne couvrirait qu'environ deux tiers de la production minière attendue en 2035, et la production d'aimants seulement un tiers.
+
+## Des investissements qui ne suivent pas toujours
+
+Les pouvoirs publics ont réagi : leurs financements ont plus que quadruplé entre 2023 et 2025, pour atteindre 65 milliards de dollars. Pourtant, selon la même agence, les investissements dans les minéraux critiques ont baissé de 9 % en 2025. Ouvrir une mine ou une usine prend des années, et un projet s'arrête vite quand les prix chutent.
+
+## Réduire la pression
+
+Aucun levier ne suffit seul. Les constructeurs peuvent proposer des batteries plus petites, adaptées à l'usage réel, et utiliser des chimies moins dépendantes de certains métaux. Les rendements s'améliorent, le réemploi des batteries prolonge leur vie, et le recyclage permet de récupérer des métaux déjà extraits.
+
+L'Union européenne a adopté un règlement sur les batteries et leurs déchets qui encadre le recyclage et le suivi des matériaux. Recycler ne supprime pas le besoin de mines à court terme, car les premières batteries de grande série sont encore en service, mais cela réduit la dépendance sur le long terme.
+
+## Idées reçues
+
+La voiture électrique ne supprime pas la question des ressources : elle la déplace du pétrole vers les métaux. La différence est qu'un métal peut être recyclé, alors qu'un litre d'essence brûlé ne revient pas.
+
+## À retenir
+
+- La voiture électrique remplace une dépendance au pétrole par des besoins en métaux.
+- Raffinage et fabrication sont aussi stratégiques que l'extraction.
+- Pour les terres rares, le premier fournisseur est passé de plus de 90 % en 2023 à 85 % en 2025.
+- Les financements publics ont plus que quadruplé entre 2023 et 2025, à 65 milliards de dollars.
+- Sobriété, substitution et recyclage réduisent les risques ensemble.
+
+```schema
+type: etapes
+titre: Du minerai au composant
+elements:
+  - titre: Extraction
+  - titre: Raffinage
+    texte: Aussi stratégique que l'extraction.
+  - titre: Fabrication
+  - titre: Recyclage
+    icone: recycle
+```
 
 ---
 
@@ -3021,15 +6522,100 @@ title: Les essais de collision et les étoiles de sécurité
 slug: crash-tests-etoiles-securite
 categoryPath: automobile/securite-et-conduite/securite-passive
 summary: >
-  Les essais de collision utilisent des mannequins instrumentés et des scénarios standardisés pour
-  comparer la protection des occupants et des usagers vulnérables.
+  Les étoiles Euro NCAP résument des essais de choc, des tests d'aides à la conduite et des
+  contrôles après accident. Les lire par catégorie, plutôt que la note globale seule, dit mieux
+  ce que vaut une voiture.
 tags: [automobile, crash-test, securite, euro-ncap, airbags]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [ceinture-airbag-et-structures-deformables, technologies-aide-conduite-efficacite]
+sources:
+  - title: "The ratings explained"
+    url: "https://www.euroncap.com/en/car-safety/the-ratings-explained"
+    publisher: "Euro NCAP"
+  - title: "Euro NCAP: New 2026 protocols target distraction, impairment, and speeding"
+    url: "https://etsc.eu/euro-ncap-new-2026-protocols/"
+    publisher: "ETSC"
+    date: "2026"
+quiz:
+  - question: "Depuis quand les mannequins de crash-test sont-ils utilisés par Euro NCAP ?"
+    options:
+      - "1997"
+      - "2015"
+      - "2026"
+    answer: 1
+    explanation: "Les mannequins instrumentés servent aux essais depuis 1997."
+  - question: "À quelle fréquence les exigences pour obtenir les étoiles sont-elles relevées ?"
+    options:
+      - "Chaque année"
+      - "Tous les trois ans"
+      - "Jamais"
+    answer: 2
+    explanation: "Elles sont mises à jour tous les trois ans, donc des étoiles de millésimes différents ne se comparent pas."
+  - question: "Quels mannequins enfants sont utilisés dans les chocs ?"
+    options:
+      - "De 1 et 3 ans"
+      - "De 6 et 10 ans"
+      - "De 14 et 16 ans"
+    answer: 2
+    explanation: "Des mannequins de 6 ans et de 10 ans sont testés dans des chocs frontaux et latéraux."
+  - question: "Que doit comporter une voiture pour obtenir cinq étoiles en 2026, selon l'ETSC ?"
+    options:
+      - "Un toit ouvrant"
+      - "Un suivi continu des yeux et de la tête du conducteur"
+      - "Un moteur électrique"
+    answer: 2
+    explanation: "Le suivi continu du conducteur est une condition des cinq étoiles."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un crash-test transforme un accident, par nature chaotique, en protocole répétable. Chaque voiture subit les mêmes essais, avec les mêmes mannequins, et les résultats sont convertis en étoiles. Cette note permet de comparer des modèles entre eux, mais elle ne remplace pas la lecture du détail.
+
+## Des essais qui reproduisent des chocs types
+
+Euro NCAP, l'organisme européen qui publie ces évaluations, teste d'abord la protection des occupants dans des chocs frontaux, latéraux et contre un poteau. Des mannequins instrumentés mesurent les efforts subis par la tête, le thorax ou les jambes. Ils sont utilisés depuis 1997. Des simulations numériques validées par des essais réels complètent ces mesures, mais les essais physiques restent au centre du dispositif.
+
+Les enfants ont leur propre volet : des mannequins de 6 ans et de 10 ans sont placés dans des chocs frontaux et latéraux, et l'on vérifie aussi si le siège enfant s'installe facilement. Un volet distinct évalue la face avant du véhicule pour les piétons et les cyclistes, d'après le risque de blessure à la tête, au bassin et aux jambes.
+
+## Éviter le choc et réagir après
+
+Une voiture sûre est aussi une voiture qui évite l'accident. Les pistes d'essai servent à tester le freinage d'urgence automatique face à une voiture, un piéton, un cycliste ou un motard, ainsi que le maintien dans la voie et la direction d'urgence. Les assistances de vitesse, la surveillance du conducteur et le rappel de ceinture entrent aussi en ligne de compte.
+
+Le dernier volet porte sur l'après-accident : appel d'urgence automatique, informations de secours pour les pompiers, ouverture des portes, sécurité de la batterie haute tension et comportement en cas d'immersion.
+
+## Un protocole qui évolue
+
+Les exigences pour obtenir les étoiles sont relevées tous les trois ans, ce qui explique qu'un modèle de 2015 et un modèle de 2025 ne se comparent pas directement. Environ 90 % des voitures neuves vendues ont une évaluation valide.
+
+En 2026, les notes s'organisent en quatre piliers : conduite sûre, évitement de l'accident, protection en cas de choc et sécurité après l'accident. Selon l'ONG européenne ETSC, une note de cinq étoiles exige désormais un suivi continu des yeux et de la tête du conducteur. Pour les meilleures notes, les constructeurs doivent aussi garder des boutons physiques pour les clignotants, les feux de détresse, les essuie-glaces, l'avertisseur et l'appel d'urgence. En juillet 2026, la BMW iX3 et la Zeekr 7GT ont obtenu cinq étoiles selon ces nouveaux tests.
+
+## Les limites
+
+Une note est un résumé. Une voiture peut bien se comporter dans un scénario et moins bien dans un autre, et aucun protocole ne couvre toutes les situations réelles. Les essais comparent des modèles dans des conditions connues ; ils ne prédisent pas le résultat exact d'un accident donné.
+
+Euro NCAP teste en général la version la plus vendue en Europe, équipée du matériel de sécurité courant. Certaines voitures reçoivent une seconde note avec un pack de sécurité en option : il faut donc vérifier à quelle version s'applique l'étoile affichée. Enfin, l'ETSC rappelle qu'une évaluation volontaire ne remplace pas la loi. Euro NCAP signalait de son côté, en juin 2026, des défauts de protection contre l'encastrement sous remorque, liés à 400 morts par an.
+
+## À retenir
+
+- Les crash-tests rendent les voitures comparables grâce à des essais et des mannequins standardisés.
+- Les étoiles combinent protection des adultes et des enfants, piétons, aides à la conduite et sécurité après accident.
+- Les exigences sont relevées tous les trois ans : comparez des notes du même millésime.
+- Vérifiez la version testée, car l'étoile ne vaut pas forcément pour toutes les finitions.
+- Aucun test ne couvre toutes les situations réelles.
+
+```schema
+type: comparaison
+titre: Les essais de collision
+colonnes:
+  - titre: Ce qu'ils apportent
+    points:
+      - Une comparaison standardisée
+      - Des étoiles qui combinent plusieurs dimensions
+  - titre: Leur limite
+    points:
+      - Aucun test ne couvre toutes les situations réelles
+```
 
 ---
 
@@ -3039,15 +6625,99 @@ title: Le recyclage d'une carrosserie en acier et aluminium
 slug: recyclage-acier-aluminium-automobile
 categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
 summary: >
-  Les métaux représentent une grande partie de la masse d'une voiture et peuvent être récupérés.
-  Le démontage et la séparation déterminent la qualité du recyclage.
+  Une voiture en fin de vie passe par la dépollution, le démontage puis le broyage. Environ neuf
+  dixièmes de sa masse sont réemployés ou recyclés, mais le tri des métaux dépend de la manière
+  dont elle a été conçue.
 tags: [automobile, recyclage, acier, aluminium, economie-circulaire]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [materiaux-automobile-acier-aluminium-composites, analyse-du-cycle-de-vie-dune-automobile]
+sources:
+  - title: "Véhicules hors d'usage"
+    url: "https://www.ecologie.gouv.fr/vehicules-hors-dusage"
+    publisher: "Ministère de la Transition écologique"
+  - title: "Autofocus 95 : le démontage et le recyclage automobile"
+    url: "https://www.anfa-auto.fr/sites/default/files/2022-07/Autofocus%2095%20-%20Le%20d%C3%A9montage%20et%20le%20recyclage%20automobile.pdf"
+    publisher: "ANFA"
+    date: "2022"
+quiz:
+  - question: "Quelle est la première étape du traitement d'une voiture hors d'usage dans un centre agréé ?"
+    options:
+      - "La dépollution"
+      - "Le broyage"
+      - "La fonte de l'acier"
+    answer: 1
+    explanation: "On retire d'abord batterie, huiles, liquides et pneus, qui ne doivent pas aller au broyeur."
+  - question: "Quel taux de réemploi et de recyclage la France affichait-elle en 2022 ?"
+    options:
+      - "63,5 %"
+      - "88,3 %"
+      - "99 %"
+    answer: 2
+    explanation: "Le taux de 88,3 % dépasse le seuil européen de 85 %."
+  - question: "Quel procédé permet d'attirer l'acier après le broyage ?"
+    options:
+      - "Les courants de Foucault"
+      - "La flottaison"
+      - "Les aimants"
+    answer: 3
+    explanation: "Les aimants attirent l'acier ; l'aluminium, non magnétique, est isolé par d'autres techniques."
+  - question: "Quelle part des véhicules hors d'usage échapperait aux centres agréés ?"
+    options:
+      - "Environ un tiers"
+      - "Moins de 1 %"
+      - "Plus de la moitié"
+    answer: 1
+    explanation: "La filière estime à environ 500 000 par an les véhicules passant par des circuits non agréés."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une voiture hors d'usage n'est pas jetée : elle suit une filière encadrée. On retire d'abord les produits dangereux, puis les pièces qui peuvent resservir, et seulement après la carcasse part au broyeur, où l'acier et les autres métaux sont séparés. En France, cette chaîne permet de réemployer ou de recycler près de 88 % de la masse des véhicules traités.
+
+## Un volume important
+
+La France traite environ 1,2 million de véhicules hors d'usage (VHU) par an, selon le ministère de la Transition écologique. Ils passent par environ 1 700 centres spécialisés, puis par une soixantaine de broyeurs. L'âge moyen de ces véhicules est d'environ 19 ans, alors que la France vend près de 2 millions de véhicules neufs chaque année.
+
+Pour cette même filière, l'Union européenne impose depuis 2015 deux seuils, mesurés sur la masse : au moins 85 % de réemploi et de recyclage, et au moins 95 % de réemploi et de valorisation (la valorisation inclut la production d'énergie). La France a atteint le premier seuil en 2013. En 2022, elle affichait 88,3 % de réemploi et de recyclage et 95,6 % de valorisation.
+
+## La dépollution d'abord
+
+Dans un centre agréé, la première étape est la dépollution. On retire la batterie, le pot catalytique, les huiles usagées, les liquides de frein et de refroidissement, le fluide de climatisation et les pneus. Les airbags sont neutralisés. Ces éléments polluent ou sont dangereux : ils ne doivent jamais finir dans un broyeur.
+
+Les pièces qui fonctionnent encore sont ensuite démontées, contrôlées et stockées pour être revendues. En 2019, les centres agréés ont ainsi sorti 12,8 millions de pièces pour le réemploi, hors pneus et batteries, soit 8 % de plus qu'en 2018. Pour les voitures et les camionnettes, l'objectif de réemploi de pièces est fixé à 8,5 % en 2024, 10 % en 2026 et 16 % en 2028.
+
+## Du broyeur aux métaux
+
+Le véhicule vidé et allégé de ses pièces part chez un broyeur. La machine réduit la carcasse en morceaux, puis plusieurs procédés séparent les matières. Les aimants attirent l'acier. Les métaux non magnétiques, comme l'aluminium, sont ensuite isolés par d'autres techniques, par exemple les courants de Foucault, qui repoussent les morceaux de métal conducteur. Un acier propre peut être refondu, et les alliages d'aluminium récupérés sont d'autant plus utiles qu'ils sont triés par type.
+
+Le prix payé pour une carcasse dépend du cours des métaux. Quand ces cours varient fortement, une partie des carcasses part chez des broyeurs étrangers qui offrent mieux.
+
+## Les limites
+
+Le taux de 88 % ne dit pas tout. Il compte des matières de qualité très différente, et il repose sur une composition moyenne de véhicule qui a peu changé, alors que les constructeurs emploient de plus en plus de matériaux légers et de composites. Plastiques mélangés, mousses et adhésifs sont plus difficiles à séparer que l'acier.
+
+Surtout, une partie des véhicules échappe à la filière officielle. On estime qu'environ un tiers des VHU, soit à peu près 500 000 par an, passent par des circuits non agréés, selon la filière professionnelle. Pour limiter ces pertes, la France a mis en place en 2024 une responsabilité élargie des producteurs : les constructeurs doivent financer et organiser la fin de vie de leurs véhicules.
+
+## À retenir
+
+- Une voiture en fin de vie est dépolluée, démontée pour le réemploi, puis broyée pour récupérer les métaux.
+- En 2022, 88,3 % de la masse des VHU français était réemployée ou recyclée.
+- Aimants et courants de Foucault séparent l'acier de l'aluminium après le broyage.
+- Environ un tiers des véhicules hors d'usage échappent encore aux centres agréés.
+- Depuis 2024, les constructeurs sont responsables du financement de la fin de vie de leurs véhicules.
+
+```schema
+type: etapes
+titre: La fin de vie d'une carrosserie
+elements:
+  - titre: Réemploi
+    texte: Des pièces réutilisées.
+  - titre: Tri
+    texte: Il détermine la qualité des métaux.
+  - titre: Recyclage matière
+    icone: recycle
+```
 
 ---
 
@@ -3057,15 +6727,99 @@ title: La location longue durée et la propriété automobile
 slug: location-longue-duree-propriete-automobile
 categoryPath: automobile/industrie-automobile/marche
 summary: >
-  Acheter, louer ou financer une voiture répartit différemment le risque de décote, les réparations
-  et la liberté d'usage. Le prix mensuel ne suffit pas à comparer les offres.
+  Acheter, louer ou financer une voiture répartit autrement le risque de décote et les frais de
+  restitution. Le loyer mensuel ne suffit pas : durée, kilométrage et fin de contrat comptent
+  autant.
 tags: [automobile, LLD, financement, achat, decote]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [cout-total-possession-voiture, marche-de-loccasion-et-valeur-residuelle]
+sources:
+  - title: "Location de voiture : LOA ou LLD"
+    url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F2437?utm_"
+    publisher: "Service-public.fr"
+  - title: "Réduisez le coût de votre voiture : si vous ne voulez pas l'acheter, louez-la"
+    url: "https://www.quechoisir.org/enquete-reduisez-le-cout-de-votre-voiture-si-vous-ne-voulez-pas-l-acheter-louez-la-n2421"
+    publisher: "UFC-Que Choisir"
+quiz:
+  - question: "Que se passe-t-il à la fin d'une LLD classique ?"
+    options:
+      - "On devient automatiquement propriétaire"
+      - "On rend le véhicule"
+      - "Le loyer est remboursé"
+    answer: 2
+    explanation: "La LLD ne comporte pas d'option d'achat, sauf clause contraire."
+  - question: "Qu'est-ce que la valeur résiduelle ?"
+    options:
+      - "La valeur estimée du véhicule à la fin du contrat"
+      - "Le prix de l'assurance"
+      - "Le montant de l'apport"
+    answer: 1
+    explanation: "Elle sert à calculer la dépréciation que le loyer doit couvrir."
+  - question: "Quelle durée de LOA est la plus courante ?"
+    options:
+      - "12 mois"
+      - "36 mois"
+      - "84 mois"
+    answer: 2
+    explanation: "Les contrats durent de 2 à 5 ans, avec 36 mois le plus courant."
+  - question: "Quel délai de rétractation s'applique à une LOA ?"
+    options:
+      - "14 jours"
+      - "3 mois"
+      - "Aucun"
+    answer: 1
+    explanation: "La LOA est assimilée à un crédit à la consommation et offre 14 jours calendaires."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avec la location longue durée (LLD), on paie un loyer mensuel pour utiliser une voiture qui reste la propriété du loueur. À la fin du contrat, on la rend. Acheter signifie au contraire devenir propriétaire, avec le risque de la décote. Aucune formule n'est la moins chère en toutes circonstances : tout dépend de l'usage.
+
+## Ce que le loyer finance
+
+Le loyer d'une location couvre surtout la perte de valeur de la voiture pendant le contrat. Les loueurs estiment, dès le départ, la valeur résiduelle, c'est-à-dire ce que le véhicule vaudra à la fin. Plus cette valeur est élevée, plus le loyer est bas. Les mensualités sont calculées d'après cette dépréciation estimée, selon une enquête de Que Choisir de 2005 à propos de la location avec option d'achat.
+
+Le loyer peut inclure ou non des services, comme l'entretien ou l'assurance, selon le contrat. Le service-public précise que, en LLD, les frais d'entretien dépendent des clauses signées. Il faut donc comparer ce qui est réellement compris.
+
+## LLD, LOA et achat
+
+Le service-public distingue deux formules de location. En LLD, la durée est le plus souvent comprise entre 12 et 60 mois, et il n'existe pas d'option d'achat : on rend le véhicule, sauf clause contraire. En location avec option d'achat (LOA), on peut racheter la voiture au prix fixé dans le contrat, mais sans y être obligé. La durée de la LOA va en général de 2 à 5 ans, et 36 mois est la plus courante selon cette enquête de 2005.
+
+Des différences juridiques existent aussi. Une LOA est assimilée à un crédit à la consommation et ouvre un délai de rétractation de 14 jours. Pour une LLD, ce délai n'est pas prévu par la loi, sauf mention dans le contrat. La résiliation anticipée est en général possible, mais souvent avec des pénalités.
+
+## Kilométrage et restitution
+
+Chaque contrat fixe un kilométrage autorisé. En LOA, il se situait souvent entre 15 000 et 30 000 km par an selon cette même enquête. Dépasser la limite est facturé selon la formule du contrat. Des dégradations au-delà de l'usure normale, ou un retard de restitution, peuvent aussi coûter cher.
+
+Il faut également prévoir l'apport initial, souvent de 10 à 15 % du prix de la voiture neuve en LOA d'après cette enquête (le service-public cite pour sa part un dépôt de garantie de 10 % de la valeur, ou de 1 000 ou 2 000 euros), et parfois un premier loyer majoré. En LLD, un dépôt de garantie ou un premier loyer plus élevé est possible.
+
+## Quel choix selon l'usage
+
+La location convient mieux à un conducteur au kilométrage stable qui aime changer de voiture régulièrement et veut connaître son budget à l'avance. L'achat peut être plus avantageux pour quelqu'un qui garde son véhicule longtemps : la décote pèse alors sur davantage d'années.
+
+Le loyer le plus bas n'est donc pas une preuve d'économie. La bonne comparaison porte sur le coût total sur la durée de détention, y compris les frais de fin de contrat.
+
+## À retenir
+
+- En LLD, le loueur reste propriétaire et le véhicule est rendu à la fin, sans option d'achat.
+- Le loyer repose sur la perte de valeur estimée, appelée valeur résiduelle.
+- Kilométrage autorisé, dégradations et restitution tardive peuvent entraîner des frais.
+- La LOA, assimilée à un crédit, ouvre un délai de rétractation de 14 jours ; ce n'est pas le cas de la LLD.
+- Il faut comparer le coût total, pas seulement la mensualité.
+
+```schema
+type: comparaison
+titre: Louer ou acheter
+colonnes:
+  - titre: Location longue durée
+    points:
+      - Un loyer n'est pas un coût total
+      - Kilométrage et restitution sont essentiels
+  - titre: Achat
+    points:
+      - Le propriétaire porte le risque de décote
+```
 
 ---
 
@@ -3075,15 +6829,102 @@ title: Le partage de données et la vie privée dans la voiture
 slug: donnees-voiture-vie-privee
 categoryPath: automobile/securite-et-conduite
 summary: >
-  Une voiture connectée peut enregistrer position, trajets, diagnostics et habitudes. L'utilité du
-  service doit être mise en balance avec la transparence et le contrôle des données.
+  Navigation, assistance, assurance : la voiture connectée envoie des données qui racontent vos
+  trajets et vos habitudes. Comprendre ce qui sort du véhicule, et ce que la loi exige, permet de
+  garder la main.
 tags: [automobile, donnees, vie-privee, connectivite, RGPD]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [voitures-connectees-cybersecurite]
+sources:
+  - title: "Véhicules connectés : la CNIL publie sa recommandation sur l'utilisation des données de localisation"
+    url: "https://cnil.fr/fr/recommandation-vehicules-connectes-localisation"
+    publisher: "CNIL"
+    date: "2026"
+  - title: "Véhicules connectés : un pack de conformité pour une utilisation responsable des données"
+    url: "https://www.cnil.fr/fr/vehicules-connectes-un-pack-de-conformite-pour-une-utilisation-responsable-des-donnees"
+    publisher: "CNIL"
+    date: "2017"
+quiz:
+  - question: "Quelle donnée d'une voiture connectée est jugée particulièrement sensible par la CNIL ?"
+    options:
+      - "La localisation"
+      - "La pression des pneus"
+      - "La couleur du véhicule"
+    answer: 1
+    explanation: "La position peut révéler les déplacements, les lieux fréquentés et les centres d'intérêt."
+  - question: "Dans le pack de conformité de 2017, quelle option la CNIL encourage-t-elle ?"
+    options:
+      - "Envoyer toutes les données au constructeur"
+      - "Garder les données dans le véhicule"
+      - "Les revendre à des assureurs"
+    answer: 2
+    explanation: "Quand les données ne quittent pas la voiture, l'exposition de la vie privée est la plus faible."
+  - question: "Quelle est la règle générale pour utiliser la localisation d'un véhicule ?"
+    options:
+      - "Le consentement de l'utilisateur"
+      - "Aucune autorisation"
+      - "Une autorisation de la préfecture"
+    answer: 1
+    explanation: "Le consentement est requis en principe, sauf si la donnée est nécessaire à un service expressément demandé."
+  - question: "Quelle exception existe pour la localisation sans consentement ?"
+    options:
+      - "Afficher des publicités"
+      - "Retrouver un véhicule volé"
+      - "Calculer le style de conduite"
+    answer: 2
+    explanation: "Retrouver un véhicule volé et éviter la non-restitution d'un véhicule loué sont des cas prévus."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une voiture récente collecte et transmet des informations : où elle va, comment elle est conduite, dans quel état elle est. Ces données permettent des services utiles, comme le guidage ou l'assistance en cas de panne. Elles disent aussi beaucoup sur la vie de son conducteur, ce qui justifie des règles précises en Europe.
+
+## Des données qui racontent une vie
+
+La CNIL, l'autorité française de protection des données, rappelle que toute donnée liée à une personne identifiable est protégée, y compris quand elle passe par la plaque d'immatriculation ou le numéro de série du véhicule. Elle cite comme exemples les données de trajet, l'usure des pièces, les dates de contrôle technique, le kilométrage et le style de conduite.
+
+La position est la plus sensible. Elle peut révéler les lieux fréquentés, les déplacements et même les centres d'intérêt de la personne. La CNIL a d'ailleurs mentionné des fuites de données touchant des propriétaires de véhicules électriques.
+
+## Trois façons de traiter les données
+
+En 2017, la CNIL a publié un pack de conformité pour les véhicules connectés, après avoir consulté 21 acteurs publics et privés. Il distingue trois cas.
+
+Dans le premier, les données restent dans la voiture et ne sont jamais envoyées au prestataire. Un conseil d'écoconduite affiché sur l'ordinateur de bord en est un exemple. La CNIL encourage cette option, parce qu'elle expose le moins la vie privée.
+
+Dans le deuxième, les données sortent du véhicule pour rendre un service au conducteur, comme une assurance qui facture selon l'usage. Dans le troisième, les données sortent puis déclenchent une action automatique dans la voiture, par exemple un nouvel itinéraire après un incident de circulation.
+
+## Le cas de la localisation
+
+Le 16 avril 2026, la CNIL a adopté une recommandation consacrée aux données de localisation, publiée après une consultation publique lancée en mars 2025. Elle vise les constructeurs, les gestionnaires de flottes, les fournisseurs de services de télématique et les agrégateurs de données. Elle concerne les propriétaires et les loueurs de véhicules ; les voitures de fonction sont exclues.
+
+La règle de départ est le consentement : il est en principe nécessaire pour utiliser la localisation, sauf si elle est indispensable à un service que l'utilisateur a expressément demandé. Il existe des exceptions, notamment pour retrouver un véhicule volé ou pour éviter qu'un véhicule loué ne soit pas restitué.
+
+## Reprendre le contrôle
+
+La CNIL recommande quatre principes : une base légale valable, la collecte du strict nécessaire, une durée de conservation limitée et la sécurité des données. Pour les véhicules partagés, elle conseille des profils authentifiés, afin que chaque conducteur utilise le sien, et la possibilité de déconnecter à distance un compte personnel. Elle recommande aussi d'empêcher le conducteur suivant d'accéder aux données laissées sur l'écran par le précédent.
+
+Au quotidien, on peut se poser les mêmes questions que celles du régulateur. Qui collecte ? Pour quoi faire ? Combien de temps ? Peut-on accéder à ses données, les corriger ou les supprimer ?
+
+## À retenir
+
+- Une voiture connectée peut révéler trajets, lieux fréquentés et style de conduite.
+- La localisation est la donnée la plus sensible, car elle dessine les habitudes de vie.
+- Garder les données dans le véhicule est l'option la plus protectrice, selon la CNIL.
+- Le consentement est la règle pour la localisation, avec des exceptions comme le vol ou la non-restitution d'un véhicule loué.
+- Collecte limitée, durée de conservation courte et sécurité font partie des principes recommandés.
+
+```schema
+type: systeme
+titre: Les données de la voiture connectée
+centre: Données
+parties:
+  - nom: Habitudes révélées
+    role: Trajets, horaires, conduite.
+  - nom: Transparence
+  - nom: Minimisation
+    role: Ne collecter que le nécessaire.
+```
 ---
 type: article
 title: Le marche automobile chinois et sa croissance
@@ -3551,6 +7392,12 @@ sources:
   - title: "Assembly line"
     url: "https://en.wikipedia.org/wiki/Assembly_line"
     publisher: "Wikipedia"
+  - title: "1913 Fords Moving Assembly Line"
+    url: "https://motorcities.org/images/making_tracks/1913-Fords-Moving-Assembly-Line.pdf"
+    publisher: "Motor Cities National Heritage Area"
+  - title: "The Henry Ford's Ingersoll Milling Machine and Mass Production at Highland Park"
+    url: "https://www.thehenryford.org/collections/explore/articles/the-henry-fords-ingersoll-milling-machine-and-mass-production-at-highland-park"
+    publisher: "The Henry Ford"
 quiz:
   - question: "Quelle idée a inspiré la chaîne de montage de Ford ?"
     options:
@@ -4610,6 +8457,9 @@ sources:
   - title: "Vegetable oil fuel"
     url: "https://en.wikipedia.org/wiki/Vegetable_oil_fuel"
     publisher: "Wikipedia"
+  - title: "EVC1: Transesterification to biodiesel"
+    url: "https://www.etipbioenergy.eu/value-chains/conversion-technologies/conventional-technologies/transesterification-to-biodiesel"
+    publisher: "ETIP Bioenergy"
 quiz:
   - question: "Pourquoi ne met-on pas directement l'huile de friture dans un moteur diesel ordinaire ?"
     options:
@@ -5740,6 +9590,13 @@ quiz:
     explanation: >
       Moteur froid, la compression seule chauffe moins bien l'air. La bougie de préchauffage
       rougit et aide le gazole à s'enflammer.
+  - question: "Pourquoi le calculateur réduit-il l'avance à l'allumage quand le capteur de cliquetis détecte des combustions anormales ?"
+    options:
+      - "Pour augmenter la puissance disponible"
+      - "Pour protéger le moteur contre ces combustions anormales"
+      - "Pour préparer le préchauffage du diesel"
+    answer: 2
+    explanation: "Le capteur de cliquetis repère les combustions anormales, qui sonnent comme un tintement métallique ; réduire l'avance protège le moteur."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -5907,6 +9764,12 @@ sources:
   - title: "Diesel engine"
     url: "https://en.wikipedia.org/wiki/Diesel_engine"
     publisher: "Wikipedia"
+  - title: "Cours de technologie : moteurs à allumage par compression"
+    url: "https://direns.minesparis.psl.eu/Sites/Thopt/fr/res/TechnoMACI.pdf"
+    publisher: "MINES Paris - PSL"
+  - title: "Cours sur les moteurs"
+    url: "https://savoir.ensam.eu/moodle/pluginfile.php/658718/mod_resource/content/1/Moteur.cour.pdf"
+    publisher: "ENSAM (Arts et Métiers)"
 quiz:
   - question: "Qu'est-ce qui allume le gazole dans un moteur diesel ?"
     options:
@@ -6069,6 +9932,13 @@ quiz:
     explanation: >
       La réglementation impose d'empêcher le fonctionnement sans dépollution. Des alertes
       préviennent longtemps à l'avance.
+  - question: "Pourquoi les trajets courts posent-ils problème au filtre à particules ?"
+    options:
+      - "Ils consomment trop d'AdBlue"
+      - "Ils font brûler trop vite les cendres d'huile"
+      - "La régénération, qui brûle la suie vers 550 à 600 °C, est interrompue et le filtre se colmate"
+    answer: 3
+    explanation: "Sur trajet court, les gaz restent trop froids et la régénération n'aboutit pas : la suie s'accumule et colmate le filtre."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -6270,6 +10140,12 @@ sources:
   - title: "Continuously variable transmission"
     url: "https://en.wikipedia.org/wiki/Continuously_variable_transmission"
     publisher: "Wikipedia"
+  - title: "Boîtes à double embrayage"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/mecanique-th7/groupes-motopropulseurs-gmp-automobiles-controles-et-hybridation-42169210/transmissions-dans-l-automobile-bm2586/boites-a-double-embrayage-bm2586niv10006.html"
+    publisher: "Techniques de l'Ingénieur"
+  - title: "Classification des transmissions"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/mecanique-th7/groupes-motopropulseurs-gmp-automobiles-controles-et-hybridation-42169210/transmissions-dans-l-automobile-bm2586/classification-des-transmissions-bm2586niv10003.html"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Qu'est-ce qui remplace l'embrayage dans une boîte automatique classique ?"
     options:
@@ -6298,6 +10174,13 @@ quiz:
     explanation: >
       Une huile usée provoque des passages durs ou tardifs et accélère l'usure. Les intervalles
       varient beaucoup selon les constructeurs.
+  - question: "Quel est l'avantage de la boîte à variation continue (CVT) ?"
+    options:
+      - "Elle change de rapport plus vite que toute autre boîte"
+      - "Elle évite tout entretien de l'huile"
+      - "Il n'y a pas de rapports fixes : le régime moteur reste au meilleur point, avec une grande douceur"
+    answer: 3
+    explanation: "Avec ses deux poulies à diamètre variable et sa courroie, la CVT garde le moteur à son meilleur régime et reste très douce, même si le bruit peut sembler monotone."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -6797,6 +10680,9 @@ sources:
   - title: "Electronic stability control"
     url: "https://en.wikipedia.org/wiki/Electronic_stability_control"
     publisher: "Wikipedia"
+  - title: "Electronic stability control"
+    url: "https://tc.canada.ca/en/road-transportation/driver-assistance-technologies/electronic-stability-control"
+    publisher: "Transports Canada"
 quiz:
   - question: "Que fait l'ESP quand la voiture commence à déraper ?"
     options:
@@ -7288,6 +11174,9 @@ sources:
   - title: "Crumple zone"
     url: "https://en.wikipedia.org/wiki/Crumple_zone"
     publisher: "Wikipedia"
+  - title: "Crush zones and crumple zones"
+    url: "https://www.nzta.govt.nz/vehicles/choosing-the-right-vehicle/features-that-protect-you/crush-zones-and-crumple-zones"
+    publisher: "NZ Transport Agency Waka Kotahi"
 quiz:
   - question: "Pourquoi est-il utile que l'avant de la voiture s'écrase lors d'un choc ?"
     options:
@@ -7412,6 +11301,9 @@ sources:
   - title: "Seat belt"
     url: "https://en.wikipedia.org/wiki/Seat_belt"
     publisher: "Wikipedia"
+  - title: "NCAP test improvements: pretensioners and load limiters"
+    url: "https://swov.nl/en/publicatie/ncap-test-improvements-pretensioners-and-load-limiters"
+    publisher: "SWOV (Institut néerlandais pour la recherche sur la sécurité routière)"
 quiz:
   - question: "Que se passe-t-il si on tire très vite sur une ceinture de sécurité ?"
     options:
@@ -10569,6 +14461,9 @@ sources:
   - title: "Mild hybrid"
     url: "https://en.wikipedia.org/wiki/Mild_hybrid"
     publisher: "Wikipedia"
+  - title: "48 volts system mild hybrid significant potential"
+    url: "https://www.ifpenergiesnouvelles.com/brief/48-volts-system-mild-hybrid-significant-potential"
+    publisher: "IFP Énergies nouvelles"
 quiz:
   - question: "Une voiture hybride légère peut-elle rouler uniquement à l'électricité ?"
     options:
@@ -14794,8 +18689,9 @@ title: Pourquoi les moteurs de voitures électriques ont-ils besoin de terres ra
 slug: pourquoi-les-moteurs-de-voitures-electriques-ont-ils-besoin-de-terres-rares
 categoryPath: automobile/motorisations/electrique
 summary: >
-  Beaucoup de moteurs de voitures électriques utilisent des aimants très puissants, faits de
-  néodyme. Ces aimants dépendent de terres rares, dont la production est très concentrée.
+  Beaucoup de moteurs de voitures électriques utilisent des aimants au néodyme, renforcés en
+  terres rares lourdes pour résister à la chaleur. Leur production dépend surtout de la Chine,
+  notamment aux étapes de raffinage.
 tags: [electrique]
 sources:
   - title: "Moteur synchrone"
@@ -14810,6 +18706,10 @@ sources:
   - title: "Rare Earths Statistics and Information"
     url: "https://www.usgs.gov/centers/national-minerals-information-center/rare-earths-statistics-and-information"
     publisher: "USGS, Service géologique des États-Unis"
+  - title: "Neodymium Magnets Supply Chain Report"
+    url: "https://www.energy.gov/sites/default/files/2022-02/Neodymium%20Magnets%20Supply%20Chain%20Report%20-%20Final.pdf"
+    publisher: "U.S. Department of Energy"
+    date: "2022"
 quiz:
   - question: "Qu'est-ce qui entraîne le rotor d'un moteur synchrone à aimants ?"
     options:
@@ -14846,7 +18746,7 @@ quiz:
     answer: 1
     explanation: >
       La Chine domine la fabrication de ces aimants et le raffinage des terres rares.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -14860,11 +18760,23 @@ Dans un moteur synchrone à aimants permanents, le rotor porte des aimants ; le 
 
 ## Des aimants très puissants
 
-Les aimants les plus puissants du commerce sont les aimants au néodyme, un alliage de néodyme, de fer et de bore. Ils sont faits surtout de néodyme et de praséodyme, avec parfois du dysprosium et du terbium pour mieux résister à la chaleur. Leurs performances baissent nettement quand la température monte. On les trouve dans les moteurs des voitures électriques et hybrides, dans des éoliennes et dans des équipements industriels.
+Les aimants les plus puissants du commerce sont les aimants au néodyme, un alliage de néodyme, de fer et de bore. Ils sont faits surtout de néodyme et de praséodyme. On les trouve dans les moteurs des voitures électriques et hybrides, dans des éoliennes et dans des équipements industriels.
+
+## La chaleur, ennemie des aimants
+
+Un rapport du département américain de l'Énergie (2022) estime qu'un moteur de traction utilise en général 1 à 2 kg de matériau magnétique. Or ce moteur chauffe, et les performances d'un aimant baissent quand la température monte. Un aimant standard supporte environ 80 °C ; les qualités les plus résistantes montent à 220 °C.
+
+Au-dessus de 120 °C environ, il faut ajouter des terres rares dites lourdes, le dysprosium et le terbium, pour éviter que l'aimant ne se démagnétise. Leur part passe de moins de 0,5 % dans une qualité standard à 8,5 à 11 % dans les qualités les plus résistantes à la chaleur.
 
 ## Des terres rares pas si rares
 
-Les terres rares forment un groupe d'éléments qui comprend le scandium, l'yttrium et les lanthanides, des métaux gris argenté, mous et réactifs. Malgré leur nom, les terres rares sont relativement abondantes dans l'écorce terrestre. La Chine domine la fabrication de ces aimants et le raffinage des terres rares.
+Les terres rares forment un groupe d'éléments qui comprend le scandium, l'yttrium et les lanthanides, des métaux gris argenté, mous et réactifs. Malgré leur nom, elles sont relativement abondantes dans l'écorce terrestre. Le problème est ailleurs : dans la concentration des étapes industrielles.
+
+En 2020, la Chine assurait environ 58 % de l'extraction mondiale, contre plus de 90 % en 2012. Mais elle réalisait environ 89 % de la séparation des terres rares, 90 % du raffinage en métal et 92 % de la fabrication d'aimants au néodyme frittés. Les États-Unis en extrayaient environ 16 %, mais fabriquaient moins de 1 % des aimants.
+
+## Réduire la dépendance
+
+Remplacer ces aimants est difficile. Les fabricants réduisent surtout la quantité de dysprosium, par exemple en la concentrant là où elle est utile dans l'aimant. Les aimants samarium-cobalt supportent mieux la chaleur, mais servent plutôt là où le poids compte peu. Toyota a mis au point un aimant sans terre rare lourde, moins performant, qu'il n'utilise pas dans ses hybrides.
 
 ```schema
 type: etapes
@@ -14883,10 +18795,9 @@ elements:
 
 - Le stator, alimenté en courant alternatif triphasé, crée un champ magnétique tournant qui entraîne le rotor à aimants.
 - Les aimants les plus puissants du commerce sont les aimants au néodyme, un alliage de néodyme, de fer et de bore.
-- Ils sont faits surtout de néodyme et de praséodyme, avec parfois du dysprosium et du terbium pour mieux résister à la chaleur.
-- On les trouve dans les moteurs des voitures électriques et hybrides, dans des éoliennes et dans des équipements industriels.
-- La Chine domine la fabrication de ces aimants et le raffinage des terres rares.
-
+- Au-dessus de 120 °C environ, le dysprosium et le terbium évitent que l'aimant ne se démagnétise.
+- Les terres rares sont assez abondantes ; ce sont le raffinage et la fabrication des aimants qui sont concentrés.
+- En 2020, la Chine fabriquait environ 92 % des aimants au néodyme frittés.
 ---
 type: article
 title: Qu'est-ce qu'une voiture définie par logiciel, et en quoi change-t-elle tout ?
@@ -15098,8 +19009,8 @@ title: Comment un airbag se gonfle-t-il plus vite qu'un clin d'œil ?
 slug: comment-un-airbag-se-gonfle-t-il-plus-vite-qu-un-clin-d-oeil
 categoryPath: automobile/securite-et-conduite/securite-passive
 summary: >
-  Un airbag détecte un choc brutal, déclenche un générateur de gaz et se gonfle en quelques
-  dizaines de millisecondes. Il complète la ceinture de sécurité, sans la remplacer.
+  Un airbag détecte un choc brutal, déclenche un générateur de gaz et se gonfle en moins d'un
+  vingtième de seconde. Il complète la ceinture de sécurité, sans la remplacer.
 tags: [securite-passive]
 sources:
   - title: "Airbag"
@@ -15149,7 +19060,7 @@ quiz:
     answer: 3
     explanation: >
       Un airbag ne se déclenche qu'une fois : après un choc, il doit être remplacé.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -15161,13 +19072,21 @@ Un airbag détecte un choc brutal, déclenche un générateur de gaz et se gonfl
 
 Des capteurs, les accéléromètres, détectent une décélération brutale ; un calculateur décide alors d'allumer un générateur de gaz qui gonfle le coussin. Le calculateur n'allume le gonflage que si la décélération dépasse un seuil, qui dépend du type de choc. Le gonflage vient d'une réaction chimique qui produit surtout de l'azote ; on a utilisé l'azoture de sodium, puis d'autres composés comme le nitrate de guanidine. Un airbag se gonfle en quelques dizaines de millisecondes, plus vite qu'un clin d'œil.
 
+## Une idée des années 1950
+
+En 1952, l'ingénieur américain John Hetrick, marqué par une sortie de route en famille, dépose un brevet de coussin gonflable. Il l'obtient en 1953, la même année que l'Allemand Walter Linderer pour un principe voisin. Dès cette époque, l'objectif est de gonfler le coussin en 40 millisecondes. Les modèles actuels le font en moins d'un vingtième de seconde.
+
+Les premiers essais sont peu fiables, et certains mettent en danger de jeunes enfants. Dans les années 1980, Mercedes-Benz, General Motors et Ford proposent l'airbag en option. Une loi américaine de 1991 le rend obligatoire : il devient standard dans les voitures neuves en 1998, puis dans les camionnettes, pick-up et SUV en 1999.
+
 ## Une aide, pas un remplacement
 
-Un airbag complète la ceinture de sécurité, il ne la remplace pas : son efficacité optimale est obtenue avec elle. Un airbag frontal réduit le risque de blessure grave à la tête et de décès lors d'un choc de face, surtout quand la ceinture est bouclée.
+Un airbag complète la ceinture de sécurité, il ne la remplace pas : son efficacité optimale est obtenue avec elle. Un airbag frontal réduit le risque de blessure grave à la tête et de décès lors d'un choc de face, surtout quand la ceinture est bouclée. L'agence américaine NHTSA estime que les airbags frontaux ont sauvé plus de 50 000 vies entre 1987 et 2017.
 
 ## Des limites à connaître
 
 Un airbag ne se déclenche qu'une fois : après un choc, il doit être remplacé. Un airbag frontal ne protège pas lors d'un choc latéral : des airbags latéraux existent pour cela.
+
+Un coussin qui jaillit si vite peut aussi frapper. Il faut éviter de s'asseoir ou de se pencher près du tableau de bord, et les enfants de moins de 13 ans voyagent à l'arrière. Les défauts de fabrication existent aussi : le rappel des générateurs Takata, commencé en 2013 pour 3,6 millions de véhicules, a fini par concerner jusqu'à 70 millions d'airbags.
 
 ```schema
 type: etapes
@@ -15186,10 +19105,9 @@ elements:
 
 - Des capteurs, les accéléromètres, détectent une décélération brutale ; un calculateur décide alors d'allumer un générateur de gaz qui gonfle le coussin.
 - Le calculateur n'allume le gonflage que si la décélération dépasse un seuil, qui dépend du type de choc.
-- Un airbag se gonfle en quelques dizaines de millisecondes, plus vite qu'un clin d'œil.
+- Un airbag se gonfle en moins d'un vingtième de seconde, plus vite qu'un clin d'œil.
 - Un airbag complète la ceinture de sécurité, il ne la remplace pas : son efficacité optimale est obtenue avec elle.
 - Un airbag ne se déclenche qu'une fois : après un choc, il doit être remplacé.
-
 ---
 type: article
 title: Pourquoi la norme Euro 7 s'intéresse-t-elle aussi aux freins et aux pneus ?
@@ -15318,6 +19236,9 @@ sources:
   - title: "Diesel engine"
     url: "https://en.wikipedia.org/wiki/Diesel_engine"
     publisher: "Wikipedia"
+  - title: "Diesel vs gasoline engine"
+    url: "https://energyeducation.ca/encyclopedia/Diesel_vs_gasoline_engine"
+    publisher: "Energy Education (University of Calgary)"
 quiz:
   - question: "Comment le carburant s'enflamme-t-il dans un moteur diesel ?"
     options:
@@ -15346,6 +19267,13 @@ quiz:
     explanation: >
       Le calculateur mesure l'air, la température, le régime et les gaz d'échappement, puis
       pilote l'injection, l'allumage, le turbo et la dépollution.
+  - question: "Pourquoi une pompe à eau défaillante peut-elle coûter très cher ?"
+    options:
+      - "Elle prive le moteur d'air et le fait fumer"
+      - "Elle provoque une surchauffe qui peut déformer la culasse"
+      - "Elle décharge la batterie puis perturbe les calculateurs"
+    answer: 2
+    explanation: "Sans circulation du liquide de refroidissement, le moteur surchauffe et la culasse peut se déformer : une petite pièce peut immobiliser toute la voiture."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -15512,6 +19440,9 @@ sources:
   - title: "Fuel injection"
     url: "https://en.wikipedia.org/wiki/Fuel_injection"
     publisher: "Wikipedia"
+  - title: "Cours de technologie moteur (MoteurTechnoraccourci)"
+    url: "https://savoir.ensam.eu/moodle/pluginfile.php/658767/mod_resource/content/2/MoteurTechnoraccourci.cour.pdf"
+    publisher: "ENSAM (Arts et Métiers)"
 quiz:
   - question: "Quelle pression peut atteindre l'injection d'un diesel moderne à rampe commune ?"
     options:
@@ -15540,6 +19471,13 @@ quiz:
     explanation: >
       Le gazole peut contenir un peu d'eau, qui abîme les injecteurs. Le filtre la retient au
       fond, et on la purge lors de l'entretien.
+  - question: "Quel est l'avantage de l'injection directe essence, et quel est son inconvénient ?"
+    options:
+      - "Elle supprime le besoin de pompe mais use les injecteurs"
+      - "Elle réduit les particules mais augmente la consommation"
+      - "Elle refroidit la chambre et réduit la consommation, mais produit plus de particules et peut encrasser les soupapes"
+    answer: 3
+    explanation: "L'injection directe refroidit la chambre et permet une compression plus forte, donc moins de consommation. En contrepartie, elle produit plus de particules et la calamine encrasse les soupapes."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -15661,6 +19599,9 @@ sources:
   - title: "NOx"
     url: "https://en.wikipedia.org/wiki/NOx"
     publisher: "Wikipedia"
+  - title: "Exhaust Gas Recirculation (EGR)"
+    url: "https://dieselnet.com/tech/engine_egr.php"
+    publisher: "DieselNet Technology Guide"
 quiz:
   - question: "Pourquoi réinjecte-t-on des gaz d'échappement dans le moteur ?"
     options:
@@ -15689,6 +19630,13 @@ quiz:
     explanation: >
       La voiture ne respecte plus la norme pour laquelle elle a été homologuée. Le contrôle
       technique peut le relever et l'assurance peut en tenir compte.
+  - question: "Pourquoi la vanne EGR se ferme-t-elle en forte accélération ?"
+    options:
+      - "Pour éviter que la suie ne l'encrasse"
+      - "Parce que le moteur a besoin de tout l'oxygène de l'air pour donner sa puissance"
+      - "Parce que les gaz d'échappement sont alors trop chauds"
+    answer: 2
+    explanation: "Les gaz recyclés sont pauvres en oxygène : en forte accélération, le moteur a besoin de tout l'air frais pour sa puissance, donc la vanne se ferme."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -15796,6 +19744,9 @@ sources:
   - title: "Turbocompresseur"
     url: "https://fr.wikipedia.org/wiki/Turbocompresseur"
     publisher: "Wikipédia"
+  - title: "Charge Air Cooling"
+    url: "https://dieselnet.com/tech/air_cool.php"
+    publisher: "DieselNet Technology Guide"
 quiz:
   - question: "Pourquoi refroidit-on l'air à la sortie du turbo ?"
     options:
@@ -15824,6 +19775,13 @@ quiz:
     explanation: >
       Un peu de vapeur d'huile est normal, mais une quantité importante indique souvent des
       joints de turbo usés ou un problème de recyclage des vapeurs du carter.
+  - question: "Pourquoi faut-il laisser tourner un moteur turbo au ralenti quelques dizaines de secondes après un effort intense ?"
+    options:
+      - "Pour recharger la batterie"
+      - "Pour purger le filtre à air"
+      - "Pour que l'huile refroidisse le turbo"
+    answer: 3
+    explanation: "Après un effort intense, le turbo est très chaud : laisser tourner le moteur au ralenti permet à l'huile de le refroidir."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -15960,6 +19918,13 @@ quiz:
     explanation: >
       Le patinage frotte le disque contre le volant et l'use. En côte, on utilise le frein à main
       ou l'aide au démarrage.
+  - question: "Pourquoi relâcher progressivement la pédale permet-il de démarrer sans à-coup ?"
+    options:
+      - "Le volant bimasse absorbe alors toute la poussée du moteur"
+      - "Le disque patine un peu avant d'être serré contre le volant"
+      - "La butée sépare lentement le moteur de la boîte"
+    answer: 2
+    explanation: "En relâchant doucement la pédale, le disque glisse un instant avant d'être pleinement serré, ce qui adoucit la liaison entre moteur et boîte."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -16076,6 +20041,9 @@ sources:
   - title: "Différentiel (mécanique)"
     url: "https://fr.wikipedia.org/wiki/Diff%C3%A9rentiel_(m%C3%A9canique)"
     publisher: "Wikipédia"
+  - title: "Transfer case"
+    url: "https://taylorandfrancis.com/knowledge/Engineering_and_technology/Mechanical_engineering/Transfer_case"
+    publisher: "Taylor & Francis Knowledge"
 quiz:
   - question: "À quoi sert la gamme courte d'une boîte de transfert ?"
     options:
@@ -16104,6 +20072,13 @@ quiz:
     explanation: >
       En temps normal, seul un essieu est moteur. Un embrayage multidisque commandé
       électroniquement transfère du couple quand c'est utile.
+  - question: "Pourquoi faut-il utiliser quatre pneus identiques et également usés sur un 4x4 ?"
+    options:
+      - "Pour que la gamme courte puisse s'enclencher"
+      - "Pour équilibrer l'huile des différents ponts"
+      - "Des diamètres différents forcent en permanence le système de transmission"
+    answer: 3
+    explanation: "Des pneus de diamètres différents parcourent des distances inégales, ce qui sollicite en continu la transmission."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -16247,6 +20222,13 @@ quiz:
     explanation: >
       Après un choc contre un trottoir ou le remplacement de pièces de direction, la géométrie
       doit être contrôlée et réglée.
+  - question: "Pourquoi change-t-on généralement les pièces du train roulant par paire ?"
+    options:
+      - "Les fabricants ne vendent pas de pièce seule"
+      - "Pour garder un comportement symétrique à gauche et à droite"
+      - "Parce que la géométrie n'a alors plus besoin d'être contrôlée"
+    answer: 2
+    explanation: "Remplacer les pièces des deux côtés garde un comportement symétrique ; on fait ensuite contrôler la géométrie."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -16393,6 +20375,13 @@ quiz:
     explanation: >
       Les batteries AGM ou EFB résistent mieux aux décharges et recharges répétées imposées par
       les arrêts et redémarrages automatiques.
+  - question: "Que signifie un voyant batterie allumé en roulant ?"
+    options:
+      - "La batterie est trop chargée par l'alternateur"
+      - "Le démarreur est resté engagé sur le volant moteur"
+      - "L'alternateur ne charge plus ou sa courroie est cassée, et la voiture roule sur la réserve de la batterie"
+    answer: 3
+    explanation: "Sans charge de l'alternateur, la voiture ne tourne plus que sur la réserve de la batterie, puis finit par s'arrêter."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -16561,6 +20550,13 @@ quiz:
     explanation: >
       Il utilise des valeurs de secours, limite la puissance pour protéger le moteur et allume
       le voyant. Le code se lit par la prise de diagnostic.
+  - question: "Pourquoi un code de défaut ne désigne-t-il pas toujours la pièce fautive ?"
+    options:
+      - "Les codes sont effacés à chaque démarrage"
+      - "Il indique où chercher, mais un défaut de sonde lambda peut venir d'une fuite à l'échappement"
+      - "Le calculateur n'enregistre les défauts qu'en mode dégradé"
+    answer: 2
+    explanation: "Le code oriente le diagnostic sans désigner à coup sûr la pièce : une fuite à l'échappement peut par exemple fausser la sonde lambda."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -16705,6 +20701,13 @@ quiz:
     explanation: >
       L'accès demande le même démontage. Changer les deux en même temps évite de refaire tout le
       travail si la pompe lâche ensuite.
+  - question: "Quelle différence y a-t-il entre la pompe électrique du réservoir et la pompe haute pression ?"
+    options:
+      - "La première est entraînée par le moteur, la seconde est électrique"
+      - "La première sert à l'injection directe, la seconde aux seuls diesels anciens"
+      - "La première envoie le carburant sous quelques bars, la seconde le porte à des centaines ou des milliers de bars"
+    answer: 3
+    explanation: "La pompe du réservoir amène le carburant sous quelques bars ; sur injection directe et diesels, la pompe haute pression, entraînée par le moteur, monte la pression beaucoup plus haut."
 lastVerified: 2026-11-07
 status: published
 ---

@@ -236,6 +236,20 @@ quiz:
     explanation: >
       Historiquement, ce chiffre mesurait une dimension réelle. Ce n'est plus le cas : c'est
       devenu une appellation marketing pour désigner un palier de performance.
+  - question: "Pourquoi la gravure passe-t-elle à l'ultraviolet extrême ?"
+    options:
+      - "Sa très courte longueur d'onde permet de dessiner des motifs plus fins"
+      - "Elle est absorbée par l'air, ce qui protège les puces"
+      - "Elle est plus facile à produire que la lumière visible"
+    answer: 1
+    explanation: "On ne peut pas dessiner plus fin que la longueur d'onde de la lumière utilisée. L'ultraviolet extrême a une longueur d'onde très courte, mais il exige travail sous vide et miroirs."
+  - question: "Pourquoi a-t-on changé la forme des transistors, de plat à arête puis entouré par la commande ?"
+    options:
+      - "Pour les rendre visibles à l'oeil nu"
+      - "Parce qu'un transistor plat fuit à ces dimensions"
+      - "Pour pouvoir utiliser la lumière visible"
+    answer: 2
+    explanation: "À ces dimensions, un transistor plat laisse passer du courant même quand il devrait être bloqué. Entourer le canal par la commande limite ces fuites."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -357,6 +371,20 @@ quiz:
     explanation: >
       La consommation et la chaleur augmentent très vite avec la fréquence. Multiplier les
       cœurs permet de faire plusieurs choses en parallèle à fréquence raisonnable.
+  - question: "Comment le travail à la chaîne, ou pipeline, accélère-t-il un processeur ?"
+    options:
+      - "Il exécute chaque instruction deux fois pour vérifier"
+      - "Il réduit la fréquence pour économiser la chaleur"
+      - "Pendant qu'une instruction s'exécute, la suivante est décodée et la troisième cherchée"
+    answer: 3
+    explanation: "Comme dans une usine, plusieurs instructions sont à des étapes différentes en même temps, ce qui améliore le débit réel."
+  - question: "Que fait un processeur quand son pari sur un branchement se révèle faux ?"
+    options:
+      - "Il jette le travail commencé"
+      - "Il s'arrête jusqu'à intervention de l'utilisateur"
+      - "Il garde le résultat quand même"
+    answer: 1
+    explanation: "Face à un si, le processeur parie sur le résultat et commence à travailler. Si le pari est mauvais, le travail est jeté ; s'il est bon, du temps est gagné."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -479,6 +507,20 @@ quiz:
     explanation: >
       Registres, caches, mémoire vive et stockage forment une pyramide : du très rapide et très
       petit vers le lent et très grand.
+  - question: "Pourquoi un SSD est-il bien plus réactif qu'un disque dur classique ?"
+    options:
+      - "Il utilise des plateaux magnétiques plus rapides"
+      - "Il n'a aucune pièce mobile, donc pas d'attente mécanique"
+      - "Il est branché directement sur le processeur"
+    answer: 2
+    explanation: "Un disque dur doit attendre que le bon secteur passe sous la tête de lecture. Un SSD, en mémoire flash, accède presque instantanément à n'importe quelle donnée."
+  - question: "Pourquoi les fabricants empilent-ils les cellules de mémoire en couches ?"
+    options:
+      - "Pour accélérer la rotation des plateaux"
+      - "Pour rendre la mémoire volatile"
+      - "Pour augmenter la capacité sans agrandir la puce"
+    answer: 3
+    explanation: "L'empilement en plus de deux cents couches augmente la capacité sans agrandir la puce, ce qui explique la baisse continue du prix du stockage."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -593,6 +635,20 @@ quiz:
     explanation: >
       C'est pourquoi un OLED affiche un vrai noir : le pixel est simplement éteint. Un écran à
       cristaux liquides laisse toujours passer un peu de la lumière de fond.
+  - question: "Pourquoi le noir d'un écran à cristaux liquides apparaît-il gris foncé ?"
+    options:
+      - "On ne peut jamais bloquer complètement la lumière de fond"
+      - "Les cristaux émettent eux-mêmes un peu de lumière"
+      - "Le filtre coloré est toujours légèrement transparent"
+    answer: 1
+    explanation: "Ces écrans ont une lumière blanche permanente derrière la dalle, qu'on ne peut pas bloquer entièrement. Un écran OLED, lui, éteint simplement le pixel."
+  - question: "Pourquoi un téléphone exige-t-il une densité de pixels plus élevée qu'un téléviseur ?"
+    options:
+      - "Il a un écran plus lumineux"
+      - "Il consomme moins d'énergie"
+      - "On le regarde de beaucoup plus près"
+    answer: 3
+    explanation: "La densité décide si l'on distingue les points. Un téléphone regardé à trente centimètres demande une densité bien supérieure à un téléviseur regardé à trois mètres."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -707,6 +763,20 @@ quiz:
     explanation: >
       C'est une protection matérielle et logicielle. Sans elle, un programme défaillant ou
       malveillant pourrait corrompre ou espionner tous les autres.
+  - question: "À quoi servent les pilotes dans un système d'exploitation ?"
+    options:
+      - "À distribuer le temps de processeur"
+      - "À permettre à une application de demander d'afficher quelque chose sans connaître le modèle d'écran"
+      - "À isoler la mémoire de chaque programme"
+    answer: 2
+    explanation: "Grâce aux pilotes, une application demande simplement d'afficher ceci, et le système se charge de parler au matériel précis."
+  - question: "Pourquoi utilise-t-on Linux plusieurs fois par jour sans le savoir, alors qu'il est minoritaire sur les ordinateurs personnels ?"
+    options:
+      - "Il fait tourner la plupart des serveurs web et il est le noyau d'Android"
+      - "Il est installé sur tous les ordinateurs de bureau"
+      - "Il a remplacé MS-DOS dans les années 1980"
+    answer: 1
+    explanation: "Linux domine les serveurs, les superordinateurs et les smartphones via Android, et se trouve dans les box internet, téléviseurs et voitures."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -817,6 +887,20 @@ quiz:
       Au XIXe siècle, elle a conçu un algorithme destiné à une machine à calculer mécanique
       qui n'a jamais été construite, et pressenti que de telles machines pourraient manipuler
       autre chose que des nombres.
+  - question: "Quel avantage l'interprétation présente-t-elle par rapport à la compilation ?"
+    options:
+      - "Elle produit un programme plus rapide"
+      - "Elle supprime tout besoin de traduction"
+      - "Le même programme fonctionne partout où l'interpréteur existe, et l'on teste immédiatement"
+    answer: 3
+    explanation: "L'interprétation est plus lente, mais le programme reste portable et testable sans attendre de compilation. La compilation donne un exécutable rapide mais lié à un type de machine."
+  - question: "Quel est le compromis d'un langage proche de la machine ?"
+    options:
+      - "Un contrôle fin et de bonnes performances, au prix d'une écriture exigeante et de risques d'erreur"
+      - "Une écriture rapide, mais des performances faibles"
+      - "Une grande sécurité, mais aucun contrôle sur la machine"
+    answer: 1
+    explanation: "Un langage proche de la machine donne un contrôle fin et des performances maximales, mais exige plus d'efforts et expose davantage aux erreurs."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -942,6 +1026,20 @@ quiz:
     explanation: >
       Sur dix éléments, toutes les méthodes se valent. Sur un million, l'une répond
       instantanément et l'autre ne termine jamais.
+  - question: "Quelle condition est indispensable pour utiliser la recherche dichotomique ?"
+    options:
+      - "La liste doit contenir moins de mille éléments"
+      - "La liste doit être triée"
+      - "La liste doit être lue du début à la fin"
+    answer: 2
+    explanation: "Pour éliminer la moitié des éléments à chaque étape, la liste doit être triée. C'est pourquoi le tri est un problème si étudié."
+  - question: "Pourquoi mesure-t-on un algorithme en comptant les opérations plutôt qu'en le chronométrant ?"
+    options:
+      - "Les chronomètres ne sont pas assez précis"
+      - "Le temps dépend du langage choisi uniquement"
+      - "Le chronométrage dépendrait de la machine utilisée"
+    answer: 3
+    explanation: "On compte les opérations en fonction de la taille des données et on observe comment ce nombre grandit. C'est cette croissance qui compte, pas la vitesse sur de petits exemples."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1062,6 +1160,20 @@ quiz:
     explanation: >
       C'est l'annuaire d'internet. Sans lui, il faudrait retenir des suites de chiffres pour
       joindre chaque service.
+  - question: "Pourquoi les paquets permettent-ils de contourner une panne sans intervention ?"
+    options:
+      - "Ils peuvent emprunter des chemins différents"
+      - "Ils sont envoyés en double sur tous les liens"
+      - "Ils attendent que le lien soit réparé"
+    answer: 1
+    explanation: "Les paquets partent indépendamment et peuvent passer par des chemins différents. Si un lien tombe, ils contournent la panne."
+  - question: "Pourquoi l'organisation en couches explique-t-elle la longévité d'internet ?"
+    options:
+      - "Chaque couche est contrôlée par une seule entreprise"
+      - "On peut changer un niveau, comme la fibre, sans toucher aux autres, comme le web"
+      - "Les couches basses sont protégées par un centre de commande"
+    answer: 2
+    explanation: "Chaque couche ignore le détail des autres : on peut remplacer le support physique ou inventer une application sans modifier le reste."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1181,6 +1293,20 @@ quiz:
     explanation: >
       Même si quelqu'un obtient votre mot de passe, il lui manque le code ou la clé physique.
       C'est la mesure individuelle au meilleur rapport effort-protection.
+  - question: "Pourquoi la sauvegarde ne suffit-elle plus à se protéger de certains rançongiciels ?"
+    options:
+      - "Les sauvegardes sont toujours chiffrées par l'attaquant"
+      - "Les rançongiciels détruisent définitivement le matériel"
+      - "Les attaquants volent les données avant de les chiffrer et menacent de les publier"
+    answer: 3
+    explanation: "Avec le vol préalable des données, restaurer une sauvegarde n'empêche pas la menace de publication. La sauvegarde ne suffit donc plus."
+  - question: "Pourquoi faut-il garder au moins une sauvegarde déconnectée du réseau ?"
+    options:
+      - "Sinon elle sera chiffrée avec le reste"
+      - "Pour qu'elle prenne moins de place"
+      - "Pour qu'elle se mette à jour plus vite"
+    answer: 1
+    explanation: "Une sauvegarde connectée au réseau peut être chiffrée par les attaquants en même temps que le reste des données."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1307,6 +1433,20 @@ quiz:
     explanation: >
       Attention : un site frauduleux peut parfaitement avoir un cadenas. Celui-ci garantit la
       confidentialité du transport, pas l'honnêteté de l'interlocuteur.
+  - question: "Pourquoi le cadenas du navigateur ne garantit-il pas qu'un site est honnête ?"
+    options:
+      - "Il n'est affiché que sur les sites officiels"
+      - "Il atteste seulement que la communication est chiffrée et l'identité vérifiée"
+      - "Il disparaît dès qu'un site est piraté"
+    answer: 2
+    explanation: "Le cadenas signifie chiffrement et identité vérifiée, mais ne dit rien de l'honnêteté du site. Un site frauduleux peut afficher un cadenas."
+  - question: "Pourquoi la menace quantique concerne-t-elle des messages interceptés aujourd'hui ?"
+    options:
+      - "Les ordinateurs quantiques actuels les déchiffrent déjà"
+      - "Les clés publiques sont diffusées avec les messages"
+      - "Ils pourraient être déchiffrés plus tard par une machine assez puissante"
+    answer: 3
+    explanation: "Aucune machine de ce type n'existe aujourd'hui, mais des messages interceptés maintenant pourraient être déchiffrés plus tard. D'où les nouveaux algorithmes résistants."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1441,6 +1581,20 @@ quiz:
     explanation: >
       Un son faible juste après un son fort est inaudible. Inutile de le coder. C'est la
       psychoacoustique appliquée à la compression.
+  - question: "Pourquoi recompresser plusieurs fois une image avec perte dégrade-t-il le résultat ?"
+    options:
+      - "L'information jetée est perdue définitivement à chaque compression"
+      - "Le fichier grossit à chaque fois"
+      - "Les couleurs sont converties en noir et blanc"
+    answer: 1
+    explanation: "La compression avec perte supprime ce que les sens ne perçoivent pas, et cette information ne revient pas. Chaque nouvelle compression dégrade donc l'image."
+  - question: "Pourquoi la vidéo se compresse-t-elle si bien ?"
+    options:
+      - "Les films contiennent peu d'images par seconde"
+      - "Deux images successives se ressemblent, on code surtout ce qui change"
+      - "L'oeil ne voit pas les images en mouvement"
+    answer: 2
+    explanation: "On enregistre une image de référence puis seulement les blocs qui se déplacent ou changent. Une scène statique occupe très peu de place."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1563,6 +1717,20 @@ quiz:
     explanation: >
       Un virement retire d'un compte et ajoute sur un autre. Si la machine s'arrête entre les
       deux, la transaction est annulée intégralement : l'argent ne disparaît pas.
+  - question: "Pourquoi stocke-t-on un identifiant de client plutôt que de recopier son adresse dans chaque commande ?"
+    options:
+      - "Pour réduire la taille des adresses"
+      - "Pour empêcher le client de changer d'adresse"
+      - "Pour que l'information n'existe qu'à un seul endroit et reste à jour"
+    answer: 3
+    explanation: "Si le client déménage, on corrige une ligne et toutes les commandes sont à jour. Dupliquer l'information, c'est garantir qu'elle finira par diverger."
+  - question: "Pourquoi n'est-il pas judicieux d'indexer toutes les colonnes d'une table ?"
+    options:
+      - "Chaque index occupe de l'espace et ralentit légèrement les écritures"
+      - "Un index empêche de retrouver rapidement une ligne"
+      - "Un index ne fonctionne que sur une seule colonne"
+    answer: 1
+    explanation: "Chaque index doit être mis à jour à chaque écriture et prend de la place. Indexer tout serait donc contre-productif."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1666,6 +1834,9 @@ sources:
   - title: "MOSFET"
     url: "https://en.wikipedia.org/wiki/MOSFET"
     publisher: "Wikipedia"
+  - title: "CHAP 4elec quere"
+    url: "https://brive.unilim.fr/wp-content/uploads/sites/6/2016/12/CHAP_4elec_quere.pdf"
+    publisher: "Université de Limoges"
 quiz:
   - question: "Que fait la tension sur la grille d'un MOSFET ?"
     options:
@@ -1770,6 +1941,12 @@ sources:
   - title: "Dennard scaling"
     url: "https://en.wikipedia.org/wiki/Dennard_scaling"
     publisher: "Wikipedia"
+  - title: "Loi de Moore"
+    url: "https://www.universalis.fr/encyclopedie/loi-de-moore/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "Loi de Moore : la loi de 1975"
+    url: "https://www.universalis.fr/encyclopedie/loi-de-moore/2-la-loi-de-1975/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Que prédit la loi de Moore, dans sa version de 1975 ?"
     options:
@@ -1797,6 +1974,13 @@ quiz:
     explanation: >
       Vers 2005, les puces ne pouvaient plus évacuer la chaleur produite à plus haute fréquence.
       On a préféré multiplier les cœurs.
+  - question: "Pourquoi la loi de Moore n'est-elle pas une loi de la nature ?"
+    options:
+      - "Elle ne s'applique qu'aux puces d'Intel"
+      - "C'est une observation devenue un objectif pour toute l'industrie"
+      - "Elle a été démentie dès 1975"
+    answer: 2
+    explanation: "Moore a constaté un doublement régulier, et l'industrie en a fait un objectif à tenir. Elle a duré un demi-siècle avant de ralentir."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -1899,6 +2083,9 @@ sources:
   - title: "AlexNet"
     url: "https://en.wikipedia.org/wiki/AlexNet"
     publisher: "Wikipedia"
+  - title: "Cours I03 GPU"
+    url: "https://perso.ensta-paris.fr/~tajchman/Seance05/Cours_I03_GPU.pdf"
+    publisher: "ENSTA Paris"
 quiz:
   - question: "Quelle est la grande différence entre un CPU et un GPU ?"
     options:
@@ -1927,6 +2114,13 @@ quiz:
     explanation: >
       Des milliers de cœurs consomment énormément de données. La mémoire vidéo, très rapide,
       est placée juste à côté du GPU pour les alimenter.
+  - question: "Pourquoi une carte graphique haut de gamme exige-t-elle un refroidissement important ?"
+    options:
+      - "Sa mémoire vidéo chauffe à cause de la lumière"
+      - "Ses sorties vidéo émettent beaucoup de chaleur"
+      - "Elle peut consommer plusieurs centaines de watts"
+    answer: 3
+    explanation: "Une carte haut de gamme consomme plusieurs centaines de watts, d'où les radiateurs, caloducs et ventilateurs nécessaires."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2036,6 +2230,12 @@ sources:
   - title: "Procédé de Czochralski"
     url: "https://fr.wikipedia.org/wiki/Proc%C3%A9d%C3%A9_de_Czochralski"
     publisher: "Wikipédia"
+  - title: "FeteScience09 FicheDemo08R"
+    url: "https://sites.laas.fr/laas/files/RE-COM/FeteScience09/FeteScience09_FicheDemo08R.pdf"
+    publisher: "LAAS-CNRS"
+  - title: "Cours 2 Phy568"
+    url: "https://www.enseignement.polytechnique.fr/profs/physique/Francois.Anceau/Phy568/Amphis/cours2.pdf"
+    publisher: "École polytechnique"
 quiz:
   - question: "Comment dessine-t-on les motifs des transistors sur le silicium ?"
     options:
@@ -2064,6 +2264,13 @@ quiz:
     explanation: >
       Une plaque passe par des centaines, parfois plus de mille étapes, ce qui demande de
       l'ordre de trois mois dans l'usine.
+  - question: "Que fait l'étape de dopage dans la fabrication d'une puce ?"
+    options:
+      - "Elle grave le motif dans la couche à l'aide d'un plasma, là où la résine ne protège plus."
+      - "Elle modifie la façon dont le silicium conduit l'électricité, ce qui crée les transistors."
+      - "Elle aplanit la surface de la plaque avant le dépôt de la couche suivante."
+    answer: 2
+    explanation: "On bombarde certaines zones d'atomes comme le bore ou le phosphore, ce qui change la conduction électrique du silicium. C'est ce qui forme les transistors."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2213,6 +2420,13 @@ quiz:
     explanation: >
       Le CHIPS Act américain de 2022 et le règlement européen sur les semi-conducteurs de 2023
       subventionnent l'installation d'usines de puces.
+  - question: "Pourquoi le modèle de la fonderie pure a-t-il permis à TSMC de progresser plus vite que ses concurrents ?"
+    options:
+      - "Elle conçoit elle-même toutes les puces qu'elle fabrique, ce qui lui évite de dépendre de clients."
+      - "Elle reçoit gratuitement de l'État taïwanais les machines de lithographie les plus avancées."
+      - "Elle regroupe les commandes du monde entier, ce qui lui permet de financer les usines les plus coûteuses."
+    answer: 3
+    explanation: "TSMC fabrique les puces conçues par d'autres. En rassemblant les commandes de nombreux clients, elle finance des usines très chères et avance plus vite."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2413,6 +2627,20 @@ quiz:
       Même un support physique en parfait état devient inutile si le format du fichier ou le
       logiciel nécessaire pour l'ouvrir n'est plus disponible, un problème appelé obsolescence
       logicielle.
+  - question: "Pourquoi recopier régulièrement des données importantes vers des supports plus récents ?"
+    options:
+      - "Pour agir avant que l'ancien support devienne défaillant ou illisible, ce qui reste la stratégie la plus fiable à très long terme."
+      - "Pour profiter de supports qui ne s'abîment jamais, ce qui dispense ensuite de toute surveillance."
+      - "Pour réduire le nombre de copies à conserver, car un support récent suffit à protéger une donnée."
+    answer: 1
+    explanation: "Aucun support ne dure indéfiniment. Migrer les données avant la défaillance ou l'obsolescence de l'ancien support est la seule stratégie véritablement fiable sur le très long terme."
+  - question: "Que recommande la règle des trois copies pour protéger une donnée importante ?"
+    options:
+      - "Faire trois copies sur le même disque de qualité archive pour gagner du temps."
+      - "Conserver trois copies dans un même lieu bien protégé, à température stable."
+      - "Garder au moins trois copies sur au moins deux supports différents, dont une dans un lieu distinct."
+    answer: 3
+    explanation: "Cette redondance protège contre la défaillance simultanée de plusieurs copies : supports variés et un lieu physiquement séparé limitent les risques communs."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2742,6 +2970,20 @@ quiz:
       Les systèmes d'exploitation modernes exigent souvent des ressources matérielles
       importantes. Un système plus léger, conçu pour du matériel plus modeste, permet à un vieil
       ordinateur de continuer à fonctionner correctement.
+  - question: "Pourquoi remplacer un disque dur mécanique par un support à mémoire flash aide-t-il un vieil ordinateur ?"
+    options:
+      - "Parce qu'il augmente la quantité de mémoire vive disponible pour les programmes."
+      - "Parce qu'il refroidit mieux le processeur et supprime le besoin de pâte thermique."
+      - "Parce qu'il est plus rapide et n'a pas de pièce mobile susceptible de tomber en panne."
+    answer: 3
+    explanation: "Le support flash est plus rapide qu'un disque mécanique et, sans pièce mobile, il évite les pannes mécaniques propres aux anciens disques durs."
+  - question: "Pourquoi un nettoyage à l'air comprimé peut-il résoudre une partie des problèmes d'un ordinateur ancien ?"
+    options:
+      - "La poussière accumulée nuit à la ventilation et peut provoquer une surchauffe."
+      - "La poussière use la mémoire vive et ralentit les échanges de données avec le disque."
+      - "La poussière fait durcir la pâte thermique et la rend définitivement inutilisable."
+    answer: 1
+    explanation: "La poussière gêne la circulation de l'air dans la machine et peut la faire surchauffer. Un nettoyage règle souvent le problème sans changer de pièce."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3040,8 +3282,8 @@ title: Comment Internet traverse-t-il les océans ?
 slug: comment-internet-traverse-t-il-les-oceans
 categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
 summary: >
-  Presque tout le trafic entre continents passe par des câbles à fibres optiques posés au fond
-  de la mer, pas par des satellites. La lumière y transporte les données.
+  Presque tout le trafic entre continents passe par des câbles à fibres optiques posés au fond de
+  la mer, pas par des satellites. La lumière y transporte les données, jusque sous les océans.
 tags: [internet]
 sources:
   - title: "Submarine Cables"
@@ -3053,6 +3295,10 @@ sources:
   - title: "Submarine communications cable"
     url: "https://en.wikipedia.org/wiki/Submarine_communications_cable"
     publisher: "Wikipedia"
+  - title: "2023 Mythbusting Part 3: Do Submarine Cables Account For Over 99% of Intercontinental Data Traffic?"
+    url: "https://resources.telegeography.com/2023-mythbusting-part-3"
+    publisher: "TeleGeography"
+    date: "2023"
 quiz:
   - question: "Par où passe presque tout le trafic Internet entre continents ?"
     options:
@@ -3088,7 +3334,7 @@ quiz:
     answer: 1
     explanation: >
       Le premier câble transatlantique à fibre optique, TAT-8, est entré en service en 1988.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -3125,13 +3371,21 @@ parties:
     role: Chaluts, ancres et séismes.
 ```
 
+## Quelle part exactement ?
+
+On lit souvent que les câbles sous-marins transportent plus de 99 % du trafic de données entre continents. Le cabinet d'analyse TeleGeography, spécialiste du secteur, juge cette affirmation exacte. Un indice vient des États-Unis : d'après les dernières données publiques de la FCC, datant de 2013, les satellites ne représentaient que 0,37 % de la capacité internationale du pays.
+
+## Des chiffres à manier avec prudence
+
+Ce 99 % est un ordre de grandeur, pas une mesure précise. Pour le calculer exactement, il faudrait connaître le trafic réel des satellites entre continents, et ces données manquent : l'autorité américaine a depuis changé ses règles et n'oblige plus les opérateurs de satellites à déclarer leurs circuits. La conclusion reste solide, mais le chiffre exact ne l'est pas.
+
 ## À retenir
 
 - La quasi-totalité du trafic de données entre continents passe par des câbles sous-marins, et non par des satellites.
 - Dans une fibre optique, la lumière est guidée par réflexion totale interne ; l'information est codée en impulsions lumineuses.
 - Des répéteurs, qui amplifient le signal, jalonnent le câble ; ils sont alimentés en électricité par le câble lui-même.
-- Près des côtes, le câble est généralement enterré pour le protéger, notamment de la pêche.
 - Les pannes viennent surtout des chaluts de pêche, des ancres de navires et des séismes.
+- Le chiffre de plus de 99 % des échanges entre continents est un ordre de grandeur : les données satellites précises manquent.
 
 ---
 
@@ -3227,6 +3481,20 @@ quiz:
       Dans un réseau maillé, chaque appareil peut relayer les communications des autres. La
       panne d'un seul nœud n'empêche donc pas le reste du réseau de continuer à fonctionner,
       contrairement à un réseau dépendant d'un unique point central.
+  - question: "Quelle est la principale limite d'un réseau local isolé d'internet ?"
+    options:
+      - "Il ne permet pas de partager de fichiers entre les appareils connectés."
+      - "Il reste limité à la portée de ses appareils et ne donne pas accès aux ressources d'internet."
+      - "Il ne fonctionne que si un fournisseur d'accès est relié au routeur."
+    answer: 2
+    explanation: "Un réseau local fonctionne sans internet, mais il est limité géographiquement et n'offre pas l'accès aux ressources extérieures normalement disponibles en ligne."
+  - question: "Comment une base de connaissances peut-elle être consultable sur un réseau local sans internet ?"
+    options:
+      - "Chaque appareil doit en stocker une copie complète avant de se connecter au réseau."
+      - "Elle doit être téléchargée depuis un serveur extérieur à chaque consultation."
+      - "Elle est stockée sur un seul appareil et consultable par tous les autres connectés au même réseau."
+    answer: 3
+    explanation: "Un seul appareil peut héberger la base, et les autres y accèdent directement par le réseau local, sans jamais passer par internet."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -4171,6 +4439,9 @@ sources:
   - title: "American Standard Code for Information Interchange"
     url: "https://fr.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange"
     publisher: "Wikipédia"
+  - title: "Représentation des données : code ASCII étendu et entiers naturels"
+    url: "https://ent2d.ac-bordeaux.fr/disciplines/sti-college/wp-content/uploads/sites/63/2024/06/SFC1l-Representation-des-donnees-_-representation-des-booleens-des-mots-code-ASCII-etendu-des-nombres-entiers-naturels-1.docx.pdf"
+    publisher: "Académie de Bordeaux"
 quiz:
   - question: "Combien vaut le nombre binaire 1101 en écriture décimale ?"
     options:
@@ -5206,6 +5477,10 @@ sources:
   - title: "Structured program theorem"
     url: "https://en.wikipedia.org/wiki/Structured_program_theorem"
     publisher: "Wikipedia"
+  - title: "Un modèle fonctionnel des structures de contrôle"
+    url: "https://www.numdam.org/item/ITA_1977__11_3_213_0"
+    publisher: "RAIRO - Informatique théorique"
+    date: "1977"
 quiz:
   - question: "À quoi sert une condition « si... alors... sinon » ?"
     options:
@@ -7642,6 +7917,13 @@ quiz:
     explanation: >
       Un NPU de 40 TOPS peut effectuer environ 40 000 milliards d'opérations simples par seconde,
       souvent en précision réduite.
+  - question: "Pourquoi un NPU place-t-il des réserves de mémoire au plus près de ses unités de calcul ?"
+    options:
+      - "Parce que déplacer une donnée coûte souvent plus d'énergie que la calculer."
+      - "Parce que la mémoire proche permet de calculer avec des nombres plus précis."
+      - "Parce que cela évite d'utiliser des grilles de multiplicateurs, plus coûteuses en énergie."
+    answer: 1
+    explanation: "Le déplacement des données consomme souvent plus d'énergie que le calcul lui-même. Une mémoire proche des unités de calcul réduit donc la dépense d'énergie."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -7923,6 +8205,9 @@ sources:
   - title: "Chiffrement par décalage"
     url: "https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage"
     publisher: "Wikipédia"
+  - title: "Vigenere cipher"
+    url: "https://britannica.com/topic/Vigenere-cipher"
+    publisher: "Encyclopaedia Britannica"
 quiz:
   - question: "De combien de rangs Jules César décalait-il les lettres ?"
     options:
@@ -10343,6 +10628,12 @@ sources:
   - title: "Tri fusion"
     url: "https://fr.wikipedia.org/wiki/Tri_fusion"
     publisher: "Wikipédia"
+  - title: "Tri Fusion"
+    url: "https://dept-info.labri.fr/ENSEIGNEMENT/algotab/cours/Tri-Fusion.pdf"
+    publisher: "LaBRI (Université de Bordeaux)"
+  - title: "trifusion"
+    url: "https://ufr-segmi.parisnanterre.fr/medias/fichier/trifusion__1190755500435.pdf"
+    publisher: "Université Paris Nanterre"
 quiz:
   - question: "À quoi ressemble le tri par insertion ?"
     options:
@@ -10861,6 +11152,13 @@ quiz:
     explanation: >
       Le moteur repère les portions souvent exécutées et les traduit en code machine pendant que le
       programme tourne.
+  - question: "Pourquoi un programme Java peut-il tourner sur des systèmes différents sans être recompilé pour chacun ?"
+    options:
+      - "Parce qu'il est interprété ligne par ligne, sans aucune traduction préalable."
+      - "Parce qu'il est traduit en langage machine propre à chaque processeur au moment de l'écriture."
+      - "Parce qu'il est compilé en bytecode indépendant du processeur, qu'une machine virtuelle exécute sur chaque système."
+    answer: 3
+    explanation: "Java est compilé vers un bytecode indépendant du processeur. Une machine virtuelle l'exécute sur chaque système, ce qui apporte la portabilité."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -11375,6 +11673,9 @@ sources:
   - title: "Microkernel"
     url: "https://en.wikipedia.org/wiki/Microkernel"
     publisher: "Wikipedia"
+  - title: "Systèmes d'exploitation, informatique : structure d'un système d'exploitation"
+    url: "https://www.universalis.fr/encyclopedie/systemes-d-exploitation-informatique/1-structure-d-un-systeme-d-exploitation/"
+    publisher: "Encyclopædia Universalis"
 quiz:
   - question: "Quel est le rôle principal du noyau ?"
     options:
@@ -11403,6 +11704,13 @@ quiz:
     explanation: >
       Chaque processus a sa mémoire protégée : une erreur dans l'un ne peut pas écraser les autres ni le
       noyau.
+  - question: "Pourquoi un pilote défaillant peut-il faire tomber tout le système avec un noyau monolithique ?"
+    options:
+      - "Parce que les applications peuvent écrire directement dans la mémoire du pilote."
+      - "Parce que les pilotes fonctionnent en mode noyau, dans le même grand programme."
+      - "Parce que le pilote empêche l'ordonnanceur de donner du temps aux autres programmes."
+    answer: 2
+    explanation: "Dans un noyau monolithique, pilotes et systèmes de fichiers tournent en mode noyau, avec tous les droits. Une erreur dans l'un d'eux arrête donc tout le système."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -13888,6 +14196,9 @@ sources:
   - title: "Cryptographie asymétrique"
     url: "https://fr.wikipedia.org/wiki/Cryptographie_asym%C3%A9trique"
     publisher: "Wikipédia"
+  - title: "Cryptographie RSA et factorisation"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/archives-th12/archives-reseaux-et-telecommunications-tiate/archive-1/rsa-la-fin-des-cles-de-768-bits-in131/cryptographie-rsa-et-factorisation-in131niv10001.html"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Quelle clé peut-on diffuser librement ?"
     options:
@@ -14150,6 +14461,9 @@ sources:
   - title: "Raster graphics"
     url: "https://en.wikipedia.org/wiki/Raster_graphics"
     publisher: "Wikipedia"
+  - title: "Profondeur de couleur"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26507029/profondeur-de-couleur"
+    publisher: "Office québécois de la langue française"
 quiz:
   - question: "Que signifie pixel ?"
     options:
@@ -14372,6 +14686,12 @@ sources:
   - title: "Qubit"
     url: "https://en.wikipedia.org/wiki/Qubit"
     publisher: "Wikipedia"
+  - title: "Défis du CEA : infographie processeur quantique élémentaire"
+    url: "https://irig.cea.fr/multimedia/Documents/infographies/defis-du-cea-infographie-processeur-quantique-elementaire214.pdf"
+    publisher: "CEA"
+  - title: "Superconducting quantum computers"
+    url: "https://cordis.europa.eu/article/id/83207-superconducting-quantum-computers/fr"
+    publisher: "CORDIS (Commission européenne)"
 quiz:
   - question: "Qu'est-ce qu'un qubit ?"
     options:
@@ -14507,6 +14827,13 @@ quiz:
     explanation: >
       L'EUV est absorbé par presque toutes les matières. La machine fonctionne sous vide et
       utilise des miroirs au lieu de lentilles.
+  - question: "Quel avantage l'EUV apporte-t-il par rapport à la lumière de 193 nm utilisée avec plusieurs passes ?"
+    options:
+      - "Elle dessine les motifs les plus fins en une seule fois, alors que chaque passe supplémentaire coûte du temps et augmente les risques de défauts."
+      - "Elle permet de se passer du masque, ce qui réduit fortement le coût des machines."
+      - "Elle peut traverser les lentilles en verre, ce qui rend les machines plus simples à construire."
+    answer: 1
+    explanation: "Avec le 193 nm, il faut exposer en plusieurs passes pour descendre très bas, ce qui coûte du temps et risque des défauts. L'EUV, bien plus courte, fait le même travail en une seule fois."
 lastVerified: 2026-11-07
 status: published
 ---

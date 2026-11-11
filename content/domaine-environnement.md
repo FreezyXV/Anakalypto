@@ -199,6 +199,20 @@ quiz:
     explanation: >
       C'est une proportion minuscule. Mais ces molécules ont une propriété particulière :
       elles absorbent le rayonnement infrarouge émis par la Terre.
+  - question: "Comment les gaz à effet de serre rendent-ils la surface de la Terre plus chaude ?"
+    options:
+      - "Ils bloquent la lumière visible du Soleil avant qu'elle n'atteigne le sol"
+      - "Ils absorbent l'infrarouge réémis par le sol et en renvoient une partie vers la surface"
+      - "Ils produisent eux-mêmes de la chaleur en se décomposant"
+    answer: 2
+    explanation: "La lumière visible traverse l'atmosphère, mais les gaz à effet de serre absorbent l'infrarouge réémis par le sol et en renvoient une partie vers lui."
+  - question: "À quoi correspond l'oscillation annuelle de la courbe de CO2 mesurée à Mauna Loa ?"
+    options:
+      - "À l'alternance entre les périodes d'activité industrielle et de vacances"
+      - "Aux éruptions volcaniques régulières d'Hawaï"
+      - "À la respiration de la végétation de l'hémisphère nord au fil des saisons"
+    answer: 3
+    explanation: "La courbe montre une oscillation annuelle liée à la végétation de l'hémisphère nord, superposée à une hausse continue."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -336,6 +350,20 @@ quiz:
     explanation: >
       Il s'agit d'une moyenne planétaire et pluriannuelle. Les continents se réchauffent plus
       que les océans, et les pôles bien plus que l'équateur.
+  - question: "Pourquoi retarder l'action climatique rend-il le problème plus difficile ?"
+    options:
+      - "Parce que chaque tonne émise réduit le budget restant, et qu'il faudra ensuite réduire plus brutalement"
+      - "Parce que les océans cessent d'absorber du CO2 après quelques années"
+      - "Parce que les émissions futures comptent davantage que les émissions passées"
+    answer: 1
+    explanation: "La température dépend du cumul émis : chaque tonne émise aujourd'hui réduit ce qui reste, donc les réductions futures devront être plus brutales."
+  - question: "Que représente un scénario climatique ?"
+    options:
+      - "Une prédiction certaine de ce qui arrivera en 2100"
+      - "Une réponse conditionnelle : si les émissions suivent telle trajectoire, quelle température obtient-on ?"
+      - "Une mesure du réchauffement déjà observé"
+    answer: 2
+    explanation: "Les scénarios ne prédisent pas l'avenir : ils explorent plusieurs trajectoires possibles d'émissions et leurs conséquences."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -455,6 +483,20 @@ quiz:
     explanation: >
       Les surfaces minérales absorbent la chaleur le jour et la restituent la nuit, ce qui
       empêche le rafraîchissement nocturne. L'écart peut atteindre plusieurs degrés.
+  - question: "Pourquoi l'adaptation ne peut-elle pas remplacer la réduction des émissions ?"
+    options:
+      - "Parce qu'elle coûte toujours moins cher que l'atténuation"
+      - "Parce qu'elle ne concerne que les villes et pas les campagnes"
+      - "Parce qu'elle a des limites absolues, comme une chaleur humide trop forte ou la disparition d'un territoire insulaire"
+    answer: 3
+    explanation: "L'adaptation protège à court terme, mais l'atténuation évite d'atteindre des situations auxquelles on ne peut plus s'adapter."
+  - question: "Pourquoi planter des arbres aide-t-il à rafraîchir une ville ?"
+    options:
+      - "Leur ombre et l'évaporation de l'eau rafraîchissent réellement l'air"
+      - "Leurs racines absorbent la chaleur du sol pendant la nuit"
+      - "Ils bloquent le vent et empêchent l'air chaud de circuler"
+    answer: 1
+    explanation: "Les arbres rafraîchissent par leur ombre et par l'évaporation, ce qui compense les surfaces minérales qui restituent la chaleur la nuit."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -572,6 +614,20 @@ quiz:
     explanation: >
       Agriculture, urbanisation et infrastructures fragmentent et suppriment les milieux. Le
       climat aggrave la situation mais n'est pas encore la cause dominante.
+  - question: "Pourquoi le chiffre de 28 % d'espèces menacées ne s'applique-t-il pas à l'ensemble du vivant ?"
+    options:
+      - "Parce qu'il a été calculé uniquement pour les espèces marines"
+      - "Parce qu'il porte sur les espèces évaluées, une petite partie des espèces connues, avec des groupes bien étudiés surreprésentés"
+      - "Parce qu'il compte aussi les espèces classées en préoccupation mineure comme menacées"
+    answer: 2
+    explanation: "Les 28 % concernent les espèces évaluées, qui ne représentent qu'une petite part des espèces connues, avec beaucoup de mammifères et d'oiseaux."
+  - question: "Pourquoi le classement de la liste rouge repose-t-il sur des critères quantifiés ?"
+    options:
+      - "Cela permet de comparer dans le temps et entre groupes, et de contester les conclusions sur des bases précises"
+      - "Cela permet de classer chaque espèce plus rapidement"
+      - "Cela garantit qu'aucune espèce n'est classée menacée à tort"
+    answer: 1
+    explanation: "Des critères précis (population, tendance, aire de répartition) rendent les comparaisons possibles et les conclusions discutables sur des bases claires."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -693,6 +749,20 @@ quiz:
     explanation: >
       Ses racines enchevêtrées freinent la houle et retiennent les sédiments. C'est une digue
       vivante, qui se répare seule et s'adapte à la montée des eaux.
+  - question: "Quel risque comporte le fait de chiffrer le prix des services de la nature ?"
+    options:
+      - "Cela les rend invisibles dans les décisions économiques"
+      - "Cela les met automatiquement en vente sur des marchés"
+      - "Cela peut laisser croire que tout est remplaçable si l'on paie assez"
+    answer: 3
+    explanation: "Chiffrer rend les services visibles, mais certains n'ont pas de remplacement à l'échelle nécessaire et certaines pertes sont irréversibles."
+  - question: "Pourquoi certaines grandes villes protègent-elles leurs bassins versants plutôt que de construire des usines de traitement de l'eau ?"
+    options:
+      - "Parce que les usines ne peuvent pas traiter l'eau douce"
+      - "Parce que c'est moins cher"
+      - "Parce que les lois interdisent de construire des usines près des rivières"
+    answer: 2
+    explanation: "Les milieux naturels épurent l'eau gratuitement : protéger un bassin versant coûte souvent moins cher qu'une usine."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -810,6 +880,20 @@ quiz:
     explanation: >
       Élevage, soja, huile de palme et cultures vivrières expliquent l'essentiel. La demande
       vient souvent de marchés situés à des milliers de kilomètres.
+  - question: "Pourquoi couper une vieille forêt pour planter de jeunes arbres donne-t-il un bilan carbone défavorable pendant des décennies ?"
+    options:
+      - "On libère un énorme stock de carbone, alors que l'absorption annuelle gagnée est faible au regard de ce stock"
+      - "Les jeunes arbres ne captent presque pas de carbone"
+      - "Les jeunes arbres libèrent davantage de carbone qu'ils n'en captent"
+    answer: 1
+    explanation: "L'absorption annuelle augmente avec de jeunes arbres, mais le stock accumulé pendant des siècles est libéré : le bilan est très défavorable pendant longtemps."
+  - question: "Pourquoi une surface forestière mondiale stable peut-elle rassurer à tort ?"
+    options:
+      - "Parce que les statistiques ne comptent pas les forêts tropicales"
+      - "Parce que la surface forestière est toujours mesurée par satellite"
+      - "Parce que des plantations comptent comme forêt sans remplacer le carbone ni la biodiversité d'une forêt primaire"
+    answer: 3
+    explanation: "Une plantation d'une seule essence peut compter comme forêt, mais ne remplace ni le stock de carbone ni la biodiversité d'une forêt primaire."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -930,6 +1014,20 @@ quiz:
     explanation: >
       Ces organismes construisent des structures en carbonate de calcium. Une eau plus acide
       rend cette construction plus coûteuse en énergie, voire dissout les structures existantes.
+  - question: "Pourquoi les mers polaires absorbent-elles particulièrement bien le CO2 ?"
+    options:
+      - "Parce qu'elles abritent davantage de phytoplancton qu'ailleurs"
+      - "Parce que le CO2 se dissout d'autant mieux que l'eau est froide"
+      - "Parce que les glaces fixent chimiquement le CO2"
+    answer: 2
+    explanation: "La dissolution physique du CO2 est plus efficace dans l'eau froide, d'où le rôle des mers polaires."
+  - question: "Pourquoi la capacité de l'océan à absorber le carbone pourrait-elle s'affaiblir ?"
+    options:
+      - "Sa chimie sature peu à peu et une eau de surface plus chaude se mélange moins avec les couches profondes"
+      - "Les courants profonds s'accélèrent et rejettent le carbone"
+      - "Le phytoplancton disparaît dès que l'eau devient plus froide"
+    answer: 1
+    explanation: "Plus l'océan se charge en carbone, moins il en absorbe ; et l'eau de surface plus chaude ralentit le transfert vers le fond."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1049,6 +1147,20 @@ quiz:
     explanation: >
       Cuisiner au bois ou au charbon dans un logement mal ventilé expose à des concentrations
       très élevées, en particulier les femmes et les jeunes enfants.
+  - question: "Quelle différence y a-t-il entre l'ozone de basse altitude et la couche d'ozone ?"
+    options:
+      - "Il s'agit du même gaz, qui est toujours protecteur"
+      - "L'ozone de basse altitude vient des volcans, la couche d'ozone des industries"
+      - "L'ozone de basse altitude est un polluant irritant formé par réaction chimique, la couche d'ozone en altitude nous protège"
+    answer: 3
+    explanation: "L'ozone formé près du sol sous l'effet du soleil est un puissant irritant, alors que la couche d'ozone de haute altitude nous protège."
+  - question: "Que montre la forte baisse de plusieurs polluants en Europe et en Amérique du Nord depuis les années 1990 ?"
+    options:
+      - "Que la pollution de l'air est un problème dont on connaît les solutions"
+      - "Que la pollution de l'air disparaît d'elle-même avec le temps"
+      - "Que seuls les polluants intérieurs restent à traiter"
+    answer: 1
+    explanation: "Normes sur les véhicules, filtres, interdictions de combustibles et zones à faibles émissions ont donné des résultats spectaculaires."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1168,6 +1280,20 @@ quiz:
     explanation: >
       Certaines nappes se sont remplies il y a des milliers d'années sous un climat différent.
       Les exploiter revient à extraire un stock non renouvelable, comme du pétrole.
+  - question: "Pourquoi le stress hydrique n'est-il pas qu'une question de quantité d'eau disponible ?"
+    options:
+      - "Parce que l'eau douce n'existe que dans les glaces"
+      - "Parce qu'il dépend du rapport entre ce qu'on prélève et ce qui se renouvelle, et du moment où l'eau est disponible"
+      - "Parce que seules les régions désertiques manquent d'eau"
+    answer: 2
+    explanation: "Le problème tient au rapport prélèvements/ressources renouvelables, et aussi au calendrier : une région peut manquer d'eau quand les cultures en ont besoin."
+  - question: "Comment le réchauffement climatique agit-il sur l'eau douce ?"
+    options:
+      - "Il réduit fortement la quantité totale d'eau sur Terre"
+      - "Il fait disparaître les nappes souterraines"
+      - "Il redistribue les précipitations et modifie le calendrier de la ressource, par exemple avec la fonte des glaciers"
+    answer: 3
+    explanation: "Le réchauffement ne réduit pas l'eau totale mais la redistribue, et la fonte des glaciers change le calendrier d'alimentation des fleuves."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1284,6 +1410,20 @@ quiz:
     explanation: >
       C'est la hiérarchie des déchets. Le meilleur déchet est celui qui n'existe pas ; le
       recyclage n'intervient que lorsque les deux premières options ont été épuisées.
+  - question: "Qu'appelle-t-on le décyclage du plastique ?"
+    options:
+      - "Le fait que la matière se dégrade à chaque cycle et qu'on ne refait généralement pas le même produit"
+      - "Le tri des plastiques par famille chimique"
+      - "La transformation du plastique en énergie par combustion"
+    answer: 1
+    explanation: "À chaque recyclage, les chaînes moléculaires se raccourcissent : on obtient en général un produit de moindre qualité."
+  - question: "Pourquoi dit-on que tout se décide à la conception pour la recyclabilité ?"
+    options:
+      - "Parce que le tri en centre spécialisé n'a aucun effet"
+      - "Parce que les consommateurs n'ont aucune influence sur les déchets"
+      - "Parce qu'un objet conçu sans y penser ne sera pas recyclable ni réparable, quel que soit le soin du tri"
+    answer: 3
+    explanation: "Un objet mono-matériau, démontable et réparable sera recyclable ; conçu sans y penser, il ne le sera pas, même bien trié."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1721,6 +1861,13 @@ quiz:
     explanation: >
       La cave et le parking souterrain sont des pièges mortels. On se réfugie en hauteur et l'on
       suit les consignes des autorités.
+  - question: "Pourquoi les digues ne suffisent-elles pas à se protéger des inondations ?"
+    options:
+      - "Parce qu'elles aggravent toujours les crues en aval"
+      - "Parce qu'elles ne fonctionnent que contre la submersion marine"
+      - "Parce qu'elles peuvent céder et donnent une fausse impression de sécurité"
+    answer: 3
+    explanation: "Les digues protègent mais peuvent céder : on les combine avec des zones d'expansion des crues, des zones humides et des sols vivants."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2053,6 +2200,12 @@ sources:
   - title: "Hedge"
     url: "https://en.wikipedia.org/wiki/Hedge"
     publisher: "Wikipedia"
+  - title: "Que nous apportent les haies et le bocage ?"
+    url: "https://ofb.gouv.fr/que-nous-apportent-les-haies-et-le-bocage"
+    publisher: "Office français de la biodiversité (OFB)"
+  - title: "Les haies : une richesse à préserver"
+    url: "https://ofb.gouv.fr/doc/les-haies-une-richesse-a-preserver"
+    publisher: "Office français de la biodiversité (OFB)"
 quiz:
   - question: "Sur quelle distance une haie freine-t-elle nettement le vent derrière elle ?"
     options:
@@ -2081,6 +2234,13 @@ quiz:
     explanation: >
       Le remembrement a regroupé les petites parcelles en grands champs, plus faciles à
       travailler avec les tracteurs, au prix de la disparition de nombreuses haies.
+  - question: "Pourquoi une haie un peu perméable freine-t-elle mieux le vent qu'un mur plein ?"
+    options:
+      - "Parce que le mur plein crée des tourbillons derrière lui"
+      - "Parce que la haie est toujours plus haute qu'un mur"
+      - "Parce que le mur plein laisse passer le vent par le dessus"
+    answer: 1
+    explanation: "Un mur plein crée des tourbillons derrière lui, alors qu'une haie un peu perméable ralentit le vent plus efficacement."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2302,6 +2462,9 @@ sources:
   - title: "Sustainable forest management"
     url: "https://en.wikipedia.org/wiki/Sustainable_forest_management"
     publisher: "Wikipedia"
+  - title: "Gestion forestière durable (encyclopédie)"
+    url: "https://academie-agriculture.fr/sites/default/files/publications/encyclopedie/8.04.gestionfor.durable.v2.pdf"
+    publisher: "Académie d'agriculture de France"
 quiz:
   - question: "Quelle est la règle de base d'une gestion durable de la forêt ?"
     options:
@@ -2330,6 +2493,13 @@ quiz:
     explanation: >
       Ce responsable des mines de Saxe, inquiet du manque de bois, a défendu une exploitation
       qui laisse repousser autant qu'on coupe.
+  - question: "Pourquoi une forêt d'une seule essence est-elle fragile ?"
+    options:
+      - "Parce que ses arbres poussent trop lentement"
+      - "Parce qu'un insecte, une maladie, une tempête ou une sécheresse peut la détruire en entier"
+      - "Parce qu'elle ne peut pas être régénérée naturellement"
+    answer: 2
+    explanation: "Une forêt mélangée, avec plusieurs essences et plusieurs âges, résiste mieux et se reconstitue plus vite."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2639,6 +2809,20 @@ quiz:
       Posée à plein soleil pendant six heures, une bouteille en plastique transparent laisse les
       UV-A désactiver les agents pathogènes. La méthode ne fonctionne pas contre les polluants
       chimiques et perd en efficacité par ciel très nuageux.
+  - question: "Pourquoi faut-il clarifier l'eau avant de la désinfecter ?"
+    options:
+      - "Parce que les particules colorent l'eau après le traitement"
+      - "Parce que le chlore se dissout mal dans l'eau claire"
+      - "Parce que les particules protègent les microbes du chlore ou des ultraviolets"
+    answer: 3
+    explanation: "Une eau chargée en particules abrite les microbes du traitement : on enlève d'abord ce qui trouble l'eau."
+  - question: "Pourquoi un filtre à sable lent peut-il purifier l'eau sans produit chimique ni électricité ?"
+    options:
+      - "Une fine couche biologique se forme à la surface du sable et piège une grande partie des microbes"
+      - "Le sable tue les microbes par sa chaleur"
+      - "Le sable neutralise les polluants chimiques et les métaux lourds"
+    answer: 1
+    explanation: "Comme dans un sol, l'eau traverse lentement le sable, et la couche biologique en surface retient une grande partie des microbes."
 lastVerified: 2026-09-24
 status: published
 ---
@@ -2774,6 +2958,20 @@ quiz:
     explanation: >
       Sans étape supplémentaire, l'eau de pluie collectée convient à l'arrosage ou au nettoyage,
       mais pas à la consommation directe : il faut une filtration fine suivie d'une désinfection.
+  - question: "Pourquoi la cuve de récupération d'eau de pluie doit-elle rester à l'abri de la lumière ?"
+    options:
+      - "Pour que l'eau reste plus chaude en hiver"
+      - "Pour éviter le développement d'algues"
+      - "Pour empêcher le toit de relâcher des substances"
+    answer: 2
+    explanation: "La lumière favorise les algues dans la cuve : un réservoir à l'abri de la lumière et nettoyé régulièrement garde une meilleure eau."
+  - question: "Pourquoi un toit en bitume ou traité chimiquement pose-t-il problème pour récupérer l'eau de pluie ?"
+    options:
+      - "Il retient toute l'eau et empêche son écoulement"
+      - "Il rend l'eau trop chaude pour être stockée"
+      - "Il peut libérer des substances indésirables dans l'eau collectée"
+    answer: 3
+    explanation: "Un toit en bitume ou traité chimiquement peut relâcher des substances indésirables dans l'eau qui ruisselle."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3098,6 +3296,20 @@ quiz:
       Le mouvement rassemble ateliers de réparation indépendants, associations environnementales
       et consommateurs qui militent pour garantir l'accès aux pièces détachées, aux outils et aux
       informations techniques nécessaires à la réparation.
+  - question: "Quels éléments rendent certains objets électroniques difficiles à réparer ?"
+    options:
+      - "Des composants collés plutôt que vissés, des pièces propriétaires introuvables et un manque de documentation"
+      - "Un nombre trop élevé de vis et de pièces détachées"
+      - "L'usage exclusif de métaux précieux"
+    answer: 1
+    explanation: "Composants collés, pièces propriétaires et absence de documentation technique rendent la réparation difficile, voire impossible."
+  - question: "À quoi sert l'indice de réparabilité ?"
+    options:
+      - "À fixer le prix de la réparation chez le fabricant"
+      - "À informer l'acheteur, avant l'achat, de la facilité à réparer le produit"
+      - "À mesurer la quantité de déchets produits par l'appareil"
+    answer: 2
+    explanation: "Cette note oriente les achats vers des produits conçus pour durer."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3358,6 +3570,9 @@ sources:
   - title: "Mangrove"
     url: "https://en.wikipedia.org/wiki/Mangrove"
     publisher: "Wikipedia"
+  - title: "Mangroves are making a comeback: here's what's working"
+    url: "https://www.unep.org/news-and-stories/story/mangroves-are-making-comeback-heres-whats-working"
+    publisher: "PNUE (UNEP)"
 quiz:
   - question: "Comment s'appellent les arbres typiques de la mangrove ?"
     options:
@@ -3630,6 +3845,9 @@ sources:
   - title: "Earthworm"
     url: "https://en.wikipedia.org/wiki/Earthworm"
     publisher: "Wikipedia"
+  - title: "Impacts des invertébrés du sol (encyclopédie)"
+    url: "https://www.academie-agriculture.fr/sites/default/files/publications/encyclopedie/impacts_invertebres.pdf"
+    publisher: "Académie d'agriculture de France"
 quiz:
   - question: "Comment appelle-t-on les petits tas de terre que les vers rejettent à la surface ?"
     options:
@@ -4383,6 +4601,13 @@ quiz:
     explanation: >
       Les racines vont chercher ce que les cultures n'atteignent pas, et leurs feuilles mortes
       enrichissent ensuite la surface.
+  - question: "Comment un système agroforestier limite-t-il la concurrence entre arbres et cultures ?"
+    options:
+      - "En plantant les arbres au centre de chaque champ"
+      - "En remplaçant toutes les cultures par des arbres fruitiers"
+      - "En espaçant les rangées et en choisissant des essences qui gênent peu, comme celles dont les feuilles sortent tard"
+    answer: 3
+    explanation: "Les arbres font de l'ombre et puisent eau et lumière : un bon système espace les rangées et choisit des essences peu gênantes."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -4499,6 +4724,10 @@ sources:
   - title: "Canadair CL-415"
     url: "https://fr.wikipedia.org/wiki/Canadair_CL-415"
     publisher: "Wikipédia"
+  - title: "Débroussailler pour prévenir les feux de forêt"
+    url: "https://www.ecologie.gouv.fr/feux-foret-vegetation-ayons-bons-reflexes/debroussailler-prevenir-feux-foret?lang=en"
+    publisher: "Ministère de la Transition écologique"
+    date: "2024"
 quiz:
   - question: "Quels sont les trois éléments du triangle du feu ?"
     options:
@@ -5175,6 +5404,9 @@ sources:
   - title: "Protocole de Montréal"
     url: "https://fr.wikipedia.org/wiki/Protocole_de_Montr%C3%A9al"
     publisher: "Wikipédia"
+  - title: "NASA Sees Definitive Evidence of the Montreal Protocol's Success"
+    url: "https://svs.gsfc.nasa.gov/12816/"
+    publisher: "NASA"
 quiz:
   - question: "Contre quoi la couche d'ozone nous protège-t-elle ?"
     options:
@@ -5585,6 +5817,9 @@ sources:
   - title: "Urban heat island"
     url: "https://en.wikipedia.org/wiki/Urban_heat_island"
     publisher: "Wikipedia"
+  - title: "Flyer ClimaDiag : chaleur en ville"
+    url: "https://meteofrance.fr/sites/default/files/files/editorial/flyer-climadiag-chaleur-en-ville-meteo-france.pdf"
+    publisher: "Météo-France"
 quiz:
   - question: "Comment appelle-t-on le fait qu'une ville soit plus chaude que la campagne autour ?"
     options:
@@ -6149,6 +6384,9 @@ sources:
   - title: "Prévision météorologique"
     url: "https://fr.wikipedia.org/wiki/Pr%C3%A9vision_m%C3%A9t%C3%A9orologique"
     publisher: "Wikipédia"
+  - title: "Quelle différence entre météo et climat ?"
+    url: "https://meteofrance.com/meteo-a-z/quelle-difference-entre-meteo-et-climat"
+    publisher: "Météo-France"
 quiz:
   - question: "Sur combien d'années calcule-t-on en général le climat d'un lieu ?"
     options:
@@ -6583,6 +6821,9 @@ sources:
   - title: "Deinking"
     url: "https://en.wikipedia.org/wiki/Deinking"
     publisher: "Wikipedia"
+  - title: "Efficient paper recycling from first page to last"
+    url: "https://www.cordis.europa.eu/article/id/120328-efficient-paper-recycling-from-first-page-to-last/fr"
+    publisher: "CORDIS (Commission européenne)"
 quiz:
   - question: "Comment appelle-t-on l'étape où l'on retire l'encre du vieux papier ?"
     options:
@@ -6732,6 +6973,9 @@ sources:
   - title: "Compost"
     url: "https://en.wikipedia.org/wiki/Compost"
     publisher: "Wikipedia"
+  - title: "Guide : réussir son compost"
+    url: "https://librairie.ademe.fr/ged/6991/guide-reussir-compost.pdf"
+    publisher: "ADEME"
 quiz:
   - question: "Combien de bactéries compte-t-on dans une poignée de compost ?"
     options:
@@ -7304,6 +7548,12 @@ sources:
   - title: "Directive Nitrates"
     url: "https://fr.wikipedia.org/wiki/Directive_Nitrates"
     publisher: "Wikipédia"
+  - title: "Marées vertes"
+    url: "https://www.universalis.fr/encyclopedie/marees-vertes/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "Les « marées vertes » en Bretagne, la responsabilité du nitrate"
+    url: "https://agris.fao.org/search/en/records/66d9b4e6f995ef9c042515cb"
+    publisher: "FAO (AGRIS)"
 quiz:
   - question: "De quoi les algues vertes se nourrissent-elles surtout pour proliférer ?"
     options:
@@ -7608,6 +7858,12 @@ sources:
   - title: "Groundwater"
     url: "https://en.wikipedia.org/wiki/Groundwater"
     publisher: "Wikipedia"
+  - title: "Nappes phréatiques, des réservoirs d'eau souterrains"
+    url: "https://www.vie-publique.fr/questions-reponses/288610-nappes-phreatiques-des-reservoirs-deau-souterrains"
+    publisher: "La Documentation française (vie-publique.fr)"
+  - title: "Hydrogéologie : dynamique naturelle"
+    url: "https://www.universalis.fr/encyclopedie/hydrogeologie/3-dynamique-naturelle/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Où se trouve l'eau d'une nappe phréatique ?"
     options:
@@ -8102,6 +8358,13 @@ quiz:
     explanation: >
       Ce gaz radioactif naturel remonte du sous-sol et peut s'accumuler dans les pièces mal ventilées
       en contact avec le sol.
+  - question: "Pourquoi l'air des lieux clos est-il souvent plus pollué que l'air extérieur ?"
+    options:
+      - "Parce que les polluants émis à l'intérieur s'accumulent quand l'air n'est pas renouvelé"
+      - "Parce que les murs produisent eux-mêmes des polluants"
+      - "Parce que l'air extérieur est toujours filtré naturellement"
+    answer: 1
+    explanation: "À l'intérieur, les polluants s'accumulent : aérer et limiter les sources en sont les remèdes simples."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -11538,8 +11801,9 @@ title: Le blanchissement des coraux
 slug: le-blanchissement-des-coraux
 categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
 summary: >
-  Quand l'eau est trop chaude, les coraux perdent les algues qui les nourrissent et
-  blanchissent. La NOAA compte quatre épisodes mondiaux depuis 1998.
+  Quand l'eau reste trop chaude, les coraux perdent les algues qui les nourrissent et
+  blanchissent. Les scientifiques mesurent cette chaleur accumulée pour prévoir où et quand les
+  récifs sont en danger.
 tags: [forets-et-oceans, coraux, blanchissement]
 sources:
   - title: "What is coral bleaching?"
@@ -11560,6 +11824,9 @@ sources:
   - title: "World's Fourth Mass Coral Bleaching Event Likely Ended in 2025"
     url: "https://www.nesdis.noaa.gov/news/worlds-fourth-mass-coral-bleaching-event-likely-ended-2025"
     publisher: "NOAA NESDIS"
+  - title: "Coral Bleaching: Degree Heating Week"
+    url: "https://www.pacioos.hawaii.edu/voyager/info/coral_bleaching_degree_heating_week.html"
+    publisher: "PacIOOS (Pacific Islands Ocean Observing System, Université d'Hawaï)"
 quiz:
   - question: "Comment s'appellent les algues qui vivent dans les tissus du corail ?"
     options:
@@ -11596,7 +11863,7 @@ quiz:
     explanation: >
       Si le stress est modéré, le corail peut se rétablir ; si la perte d'algues dure et que le
       stress continue, il finit par mourir.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -11634,14 +11901,21 @@ elements:
   - titre: Rétablissement ou mort
 ```
 
+## Mesurer la chaleur qui s'accumule
+
+Dépasser le seuil un seul jour ne suffit pas à faire blanchir un récif : ce qui compte, c'est la durée. L'indicateur utilisé s'appelle les degrés-semaines de chauffe. Il additionne, sur les 12 dernières semaines, les écarts de température au-dessus du seuil de blanchissement. Un écart de 1 °C maintenu pendant deux semaines vaut donc 2 degrés-semaines.
+
+## Deux niveaux d'alerte
+
+À partir de 4 degrés-semaines, un blanchissement important devient probable, surtout chez les espèces les plus sensibles. À partir de 8 degrés-semaines, un blanchissement généralisé et une mortalité due au stress thermique peuvent apparaître. Ces seuils sont des repères de prévision : la réaction réelle varie selon les espèces et les sites.
+
 ## À retenir
 
 - Les coraux vivent avec des algues microscopiques, les zooxanthelles, installées dans leurs tissus.
 - Stressé, le corail perd ces algues et devient blanc ou très pâle : c'est le blanchissement.
 - Ces algues sont sa principale nourriture ; sans elles, le corail est plus sensible aux maladies.
-- La NOAA parle de seuil de blanchissement à 1 °C au-dessus du maximum de la moyenne mensuelle.
+- Les degrés-semaines de chauffe cumulent sur 12 semaines la chaleur au-dessus du seuil : 4 annonce un blanchissement probable, 8 une mortalité possible.
 - Le premier épisode mondial date de 1998 ; le quatrième, confirmé en 2024, a exposé environ 84 % des récifs à une chaleur de blanchissement.
-
 ---
 type: article
 title: Pourquoi l'acidification des océans menace-t-elle les récifs coralliens ?
@@ -11985,6 +12259,10 @@ sources:
   - title: "Pollinisation"
     url: "https://fr.wikipedia.org/wiki/Pollinisation"
     publisher: "Wikipédia"
+  - title: "Rapport de l'IPBES sur les pollinisateurs (version longue)"
+    url: "https://www.fondationbiodiversite.fr/wp-content/uploads/2016/02/IPBES-Rapport-V-longue.pdf"
+    publisher: "IPBES (hébergé par la Fondation pour la recherche sur la biodiversité)"
+    date: "2016"
 quiz:
   - question: "Qu'est-ce que la pollinisation ?"
     options:
@@ -12082,6 +12360,12 @@ sources:
   - title: "Ramsar Convention"
     url: "https://en.wikipedia.org/wiki/Ramsar_Convention"
     publisher: "Wikipedia"
+  - title: "Protection des milieux humides"
+    url: "https://www.ecologie.gouv.fr/protection-des-milieux-humides"
+    publisher: "Ministère de la Transition écologique"
+  - title: "2012 12 fi zones humides marais"
+    url: "https://www.eaurmc.fr/upload/docs/application/pdf/2017-05/2012-12-fi-zones-humides-marais.pdf"
+    publisher: "Agence de l'eau Rhône-Méditerranée-Corse"
 quiz:
   - question: "Que font les zones humides pendant les crues ?"
     options:
@@ -12318,6 +12602,9 @@ sources:
   - title: "Septic tank"
     url: "https://en.wikipedia.org/wiki/Septic_tank"
     publisher: "Wikipedia"
+  - title: "Guide des règles et bonnes pratiques v2"
+    url: "https://www.assainissement-non-collectif.developpement-durable.gouv.fr/IMG/pdf/Guide_des_regles_et_bonnes_pratiques-v2.pdf"
+    publisher: "Ministère de la Transition écologique"
 quiz:
   - question: "Que se passe-t-il dans une fosse toutes eaux ?"
     options:
@@ -12346,6 +12633,13 @@ quiz:
     explanation: >
       La sciure absorbe les liquides et les odeurs. Après un compostage de longue durée, la
       matière devient un amendement pour le sol.
+  - question: "Pourquoi le compostage des toilettes sèches doit-il être long, souvent deux ans ?"
+    options:
+      - "Pour que la sciure se transforme en engrais liquide"
+      - "Pour que la chaleur et le temps détruisent les germes"
+      - "Pour que le compost prenne une bonne odeur"
+    answer: 2
+    explanation: "Un compostage long permet à la chaleur et au temps de détruire les germes, avant d'utiliser le compost sur les arbres et les fleurs."
 lastVerified: 2026-11-07
 status: published
 ---

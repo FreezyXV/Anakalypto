@@ -144,3 +144,11 @@ non-Wikipedia reportees sur la lecon conservee), 43 lecons de moins de 260 mots 
 1 010 -> 917 lecons publiees. Detail et reste a faire : `docs/QUALITY_CLEANUP_2026-11-11.md`
 et `docs/QUALITY_BACKLOG.csv`. Verification : `tsx prisma/seed.ts --dry-run` (corpus valide),
 suites lesson-visuals et discovery vertes ; la suite d'integration (base Postgres) tourne en CI.
+
+## 2026-11-11 et 12 — Enrichissement des lecons (branche claude/enrichissement-lecons)
+
+Aucune ecriture en base ni deploiement. Quiz portes a 4 questions (937 questions sur 525
+lecons), 43 lecons depubliees reecrites et republiees, 38 lecons courtes enrichies, 366 sources
+ajoutees a 277 lecons, 42 lecons verifiees contre leurs sources (25 corrigees), 12 doublons
+porteurs d'un visuel fusionnes (visuels re-pointes dans `src/lib/lesson-visuals`). Detail,
+reserves et reste a faire : `docs/QUALITY_ENRICHMENT_2026-11-11.md` et `docs/QUALITY_BACKLOG.csv`.

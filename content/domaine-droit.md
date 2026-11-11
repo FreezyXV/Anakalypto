@@ -199,6 +199,20 @@ quiz:
     explanation: >
       Il a été profondément réformé, notamment sur la famille et sur les contrats en 2016, mais
       c'est toujours le même texte qui s'applique aujourd'hui.
+  - question: "Pourquoi le Code civil a-t-il été écrit volontairement dans une langue simple et sans jargon ?"
+    options:
+      - "Pour qu'un citoyen ordinaire puisse le lire et le comprendre"
+      - "Pour que les juristes puissent le recopier plus vite dans chaque province"
+      - "Pour le traduire facilement dans les autres pays d'Europe"
+    answer: 1
+    explanation: "Le texte est volontairement accessible : l'idée est qu'un citoyen puisse le lire, et Stendhal disait même en lire quelques pages chaque matin."
+  - question: "Qu'est-ce qui montre que le Code civil est un texte vivant, malgré son âge ?"
+    options:
+      - "Il a été abrogé en 1807 puis remplacé par le Code Napoléon"
+      - "Il est resté totalement inchangé depuis 1804 et reste appliqué tel quel"
+      - "Il n'a jamais été abrogé mais il a été largement réécrit, par exemple en 2016 pour les contrats"
+    answer: 3
+    explanation: "Le Code n'a jamais été abrogé, mais il a été énormément réécrit : le droit de la famille à partir des années 1960, le droit des contrats par l'ordonnance de 2016."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -310,6 +324,20 @@ quiz:
       Le droit pénal distingue l'élément matériel — ce qui a été fait — de l'élément moral —
       l'état d'esprit. Tuer volontairement et causer la mort par imprudence ne sont pas la même
       infraction.
+  - question: "Pourquoi une loi pénale plus sévère ne s'applique-t-elle pas aux faits déjà commis ?"
+    options:
+      - "Parce que les juges n'ont pas le temps de revoir les anciennes affaires"
+      - "Parce que sinon un pouvoir pourrait interdire rétroactivement ce que faisaient ses adversaires"
+      - "Parce que les peines doivent toujours rester identiques d'une époque à l'autre"
+    answer: 2
+    explanation: "Sans cette règle, un pouvoir pourrait punir après coup des comportements qui étaient permis. En revanche, une loi plus douce s'applique immédiatement."
+  - question: "Qu'est-ce qui distingue le meurtre de l'homicide involontaire ?"
+    options:
+      - "L'intention : l'acte et le résultat sont les mêmes, mais l'état d'esprit change tout"
+      - "Le résultat : dans un cas la victime décède, dans l'autre elle survit"
+      - "La juridiction : l'un est jugé par un tribunal de police, l'autre par un juge unique"
+    answer: 1
+    explanation: "L'élément moral, c'est-à-dire l'état d'esprit, fait la différence : l'acte et le résultat sont identiques, mais l'intention change la qualification et la peine."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -426,6 +454,20 @@ quiz:
     explanation: >
       Une loi ordinaire peut être défaite par une autre loi ordinaire. En plaçant le principe
       dans la Constitution, on exige une majorité bien plus large pour revenir en arrière.
+  - question: "Pourquoi l'irréversibilité de l'erreur judiciaire est-elle un argument central des abolitionnistes ?"
+    options:
+      - "Parce que les erreurs judiciaires sont plus fréquentes pour les crimes graves"
+      - "Parce que cette peine coûte plus cher que les autres à l'État"
+      - "Parce que toutes les autres peines peuvent être révisées, mais pas celle-là"
+    answer: 3
+    explanation: "Une personne condamnée à tort à une autre peine peut voir la décision révisée ; une exécution ne peut plus être corrigée."
+  - question: "Pourquoi la ratification en 1986 d'un protocole à la Convention européenne des droits de l'homme rend-elle le retour en arrière plus difficile ?"
+    options:
+      - "Revenir en arrière supposerait de dénoncer un engagement international"
+      - "Elle a rendu l'abolition applicable seulement aux crimes commis en temps de paix"
+      - "Elle a transféré la décision au Sénat, qui doit voter chaque année"
+    answer: 1
+    explanation: "Une loi ordinaire peut être défaite par une autre loi ordinaire ; ici, rétablir la peine de mort exigerait de dénoncer un engagement international."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -538,6 +580,20 @@ quiz:
     explanation: >
       Le système accepte délibérément de laisser échapper des coupables plutôt que de
       condamner des innocents. C'est un choix, et il est assumé.
+  - question: "Pourquoi n'est-ce pas à l'accusé de prouver son innocence ?"
+    options:
+      - "Parce que l'accusé n'a pas le droit de présenter de preuves au procès"
+      - "Parce que prouver qu'on n'a pas fait quelque chose est souvent impossible, surtout sans témoins"
+      - "Parce que la police est toujours sûre de ses accusations"
+    answer: 2
+    explanation: "Exiger cette preuve condamnerait systématiquement les personnes isolées, pauvres ou sans témoins, car il est très difficile de démontrer qu'on n'a pas commis un acte."
+  - question: "Pourquoi le droit de se taire découle-t-il de la présomption d'innocence ?"
+    options:
+      - "Parce que les juges n'ont pas besoin d'entendre l'accusé pour décider"
+      - "Parce que le silence est considéré comme un aveu discret de culpabilité"
+      - "Parce que, sans lui, la charge de la preuve se déplacerait en pratique vers l'accusé"
+    answer: 3
+    explanation: "Si le silence pouvait être retenu contre la personne, elle serait obligée de se défendre et de prouver son innocence, ce qui renverserait la charge de la preuve."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -656,6 +712,20 @@ quiz:
     explanation: >
       Élu directement par les citoyens, le président tire de ce vote une légitimité qui dépasse
       celle que le texte de 1958 lui donnait initialement.
+  - question: "Pourquoi la Constitution de 1958 cherche-t-elle à renforcer l'exécutif ?"
+    options:
+      - "Pour mettre fin à l'instabilité gouvernementale chronique de la IVe République"
+      - "Pour réduire le rôle du président de la République"
+      - "Pour supprimer le référendum comme moyen de décision"
+    answer: 1
+    explanation: "La IVe République souffrait de gouvernements qui tombaient tous les quelques mois, faute de majorité stable : renforcer l'exécutif devait y mettre fin."
+  - question: "Quel est le rôle du Conseil constitutionnel créé en 1958 ?"
+    options:
+      - "Nommer le Premier ministre à la place du président"
+      - "Organiser les élections législatives et présidentielles"
+      - "Vérifier que les lois respectent la Constitution"
+    answer: 3
+    explanation: "Le Conseil constitutionnel est créé pour contrôler que les lois sont conformes à la Constitution."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -774,6 +844,20 @@ quiz:
     explanation: >
       La justice nationale reste prioritaire. La Cour est un recours quand elle est défaillante
       ou complice, pas un tribunal d'appel mondial.
+  - question: "Pourquoi des mandats d'arrêt de la Cour pénale internationale restent-ils parfois inexécutés pendant des années ?"
+    options:
+      - "Parce que la Cour ne peut les émettre qu'après la fin des guerres"
+      - "Parce que la Cour n'a aucune force de police et dépend de la coopération des États"
+      - "Parce que les chefs d'État en exercice ne peuvent jamais être visés"
+    answer: 2
+    explanation: "La Cour n'a pas de police propre : elle dépend entièrement des États pour arrêter les personnes recherchées. Le texte précise aussi qu'elle juge des chefs d'État en exercice."
+  - question: "Pourquoi un mandat d'arrêt garde-t-il une utilité même s'il n'est pas exécuté ?"
+    options:
+      - "Il restreint les déplacements de la personne visée et inscrit les faits dans un dossier judiciaire"
+      - "Il suffit à entraîner automatiquement la condamnation de la personne visée"
+      - "Il oblige l'État de la personne visée à la juger lui-même immédiatement"
+    answer: 1
+    explanation: "Même sans arrestation, le mandat limite les déplacements de la personne et consigne les faits : c'est peu, mais plus que l'impunité totale d'avant."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -897,6 +981,20 @@ quiz:
     explanation: >
       On prévient une chute en installant une rampe : le risque est connu. On applique la
       précaution quand le danger est plausible mais pas encore démontré.
+  - question: "Contre quel schéma le principe de précaution a-t-il été écrit ?"
+    options:
+      - "Contre les innovations lancées sans aucune autorisation administrative"
+      - "Contre l'usage excessif des experts scientifiques dans les décisions publiques"
+      - "Contre l'attente d'une certitude scientifique pendant que l'exposition au danger continue"
+    answer: 3
+    explanation: "Face au tabac, à l'amiante ou au plomb, on a répété qu'il fallait attendre la certitude ; pendant ce temps le dommage s'aggravait, parfois de façon irréversible."
+  - question: "Quelle critique sérieuse adresse-t-on au principe de précaution ?"
+    options:
+      - "Il ne s'applique qu'aux risques déjà démontrés par la science"
+      - "Il ne regarde que le risque de l'action, pas celui de l'inaction"
+      - "Il interdit définitivement toute technologie jugée incertaine"
+    answer: 2
+    explanation: "Ne pas autoriser une technologie a aussi des conséquences parfois graves. Les formulations modernes demandent donc d'évaluer les risques des deux côtés."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1019,6 +1117,20 @@ quiz:
     explanation: >
       Elle ne se prononce pas sur ce qui s'est réellement passé. Si elle casse une décision,
       elle renvoie l'affaire devant une autre cour d'appel qui la rejugera.
+  - question: "Quel type de litige relève de l'ordre administratif et non de l'ordre judiciaire ?"
+    options:
+      - "Un désaccord entre deux voisins sur une clôture"
+      - "Un permis de construire refusé par l'administration"
+      - "Un vol commis dans un magasin"
+    answer: 2
+    explanation: "L'ordre administratif juge les litiges entre un citoyen et l'administration, comme un permis de construire refusé, une sanction disciplinaire ou une expulsion."
+  - question: "Pourquoi a-t-on placé une Cour de cassation au sommet du système ?"
+    options:
+      - "Pour assurer l'unité d'interprétation de la loi sur tout le territoire"
+      - "Pour rejuger une troisième fois tous les faits de chaque affaire"
+      - "Pour remplacer les cours d'appel lorsqu'elles sont trop lentes"
+    answer: 1
+    explanation: "Si chaque cour d'appel interprétait la loi à sa façon, un même texte aurait un sens différent selon la région. La Cour de cassation unifie cette interprétation."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1134,6 +1246,20 @@ quiz:
     explanation: >
       Les crimes nazis avaient été commis en respectant les lois allemandes de l'époque. Il
       fallait affirmer des droits supérieurs aux lois nationales.
+  - question: "Si la Déclaration de 1948 n'est pas obligatoire, d'où vient sa force ?"
+    options:
+      - "Elle est automatiquement appliquée par les tribunaux de tous les pays"
+      - "Elle a servi de matrice à des textes contraignants, à des constitutions et à des systèmes régionaux"
+      - "Elle prévoit des sanctions financières contre les États qui l'ignorent"
+    answer: 2
+    explanation: "La Déclaration énonce des principes, mais elle a inspiré les pactes de 1966, des conventions, des constitutions nationales et des systèmes comme la Convention européenne des droits de l'homme."
+  - question: "Quel élément nuance l'idée que ces droits seraient une pure construction occidentale ?"
+    options:
+      - "Le texte a été rédigé uniquement par des juristes français réunis à Paris"
+      - "Le texte ne contient aucun droit économique ou social"
+      - "La commission de rédaction comprenait des membres venus de Chine, du Liban, du Chili et d'Inde"
+    answer: 3
+    explanation: "Le texte rappelle que la commission de rédaction n'était pas uniquement occidentale, et que l'argument du relativisme culturel vient surtout de gouvernements."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1253,6 +1379,20 @@ quiz:
     explanation: >
       Le rôle de l'avocat est de faire valoir tous les arguments en faveur de son client et de
       vérifier que la procédure a été respectée. C'est ce qui rend le jugement légitime.
+  - question: "Pourquoi le greffier est-il indispensable à une audience ?"
+    options:
+      - "Il consigne ce qui se dit et authentifie les actes, ce qui donne une existence juridique à l'audience"
+      - "Il décide de la peine lorsque le juge est absent"
+      - "Il représente la société et requiert une peine contre l'accusé"
+    answer: 1
+    explanation: "Sans le greffier, une audience n'a pas d'existence juridique : c'est lui qui fait d'un jugement un document opposable."
+  - question: "Pourquoi l'indépendance du juge est-elle protégée, par exemple contre la révocation ?"
+    options:
+      - "Pour que le juge puisse choisir librement les avocats des parties"
+      - "Pour que le juge soit payé indépendamment du résultat de ses décisions"
+      - "Pour qu'il puisse, au besoin, donner tort à l'État sans craindre de sanction"
+    answer: 3
+    explanation: "Un juge qui pourrait être déplacé ou révoqué par mécontentement politique ne pourrait pas donner tort à l'État : son indépendance est la condition de son impartialité."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1406,6 +1546,20 @@ quiz:
     explanation: >
       Erreur, tromperie et violence sont les trois vices du consentement. Ils permettent de
       demander l'annulation, c'est-à-dire d'effacer le contrat comme s'il n'avait jamais existé.
+  - question: "À quoi sert surtout l'écrit, puisqu'un accord verbal est un vrai contrat ?"
+    options:
+      - "À rendre le contrat valable dans tous les cas"
+      - "À prouver le contrat en cas de désaccord, et à respecter les rares actes qui l'exigent"
+      - "À permettre de modifier le contrat sans l'accord de l'autre partie"
+    answer: 2
+    explanation: "L'écrit est exigé pour certains actes importants, mais il sert surtout à prouver l'existence et le contenu du contrat quand il y a un litige."
+  - question: "Pourquoi un médecin n'est-il pas tenu de garantir la guérison ?"
+    options:
+      - "Parce qu'il a une obligation de moyens : soigner selon les règles de l'art"
+      - "Parce qu'il a une obligation de résultat limitée aux cas simples"
+      - "Parce que le contrat médical n'est jamais un vrai contrat"
+    answer: 1
+    explanation: "Avec une obligation de moyens, on promet de tout mettre en oeuvre sans garantir le résultat. Cette distinction change ce qu'il faut prouver en cas de litige."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1523,6 +1677,20 @@ quiz:
       Si votre arbre tombe sur la voiture du voisin, vous répondez du dommage sans qu'aucune
       faute ne soit à démontrer. Cette responsabilité sans faute facilite beaucoup
       l'indemnisation.
+  - question: "Pourquoi le droit français ne pratique-t-il pas, en principe, les dommages et intérêts punitifs ?"
+    options:
+      - "Parce que les victimes ne peuvent pas demander d'argent à l'auteur du dommage"
+      - "Parce que seul le juge pénal peut fixer une somme d'argent"
+      - "Parce que la réparation vise à remettre la victime en l'état, sans l'enrichir ni punir"
+    answer: 3
+    explanation: "Le principe est la réparation intégrale, ni plus ni moins : on répare le préjudice, on ne dépasse pas volontairement la somme pour sanctionner."
+  - question: "Pourquoi certaines assurances, comme l'assurance automobile, sont-elles obligatoires ?"
+    options:
+      - "Pour garantir que la victime soit indemnisée même si le responsable est insolvable"
+      - "Pour permettre à l'État de punir plus facilement les conducteurs fautifs"
+      - "Pour éviter que les victimes aient à prouver un lien de causalité"
+    answer: 1
+    explanation: "L'obligation d'assurance assure l'indemnisation de la victime même si le responsable ne peut pas payer lui-même."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1641,6 +1809,20 @@ quiz:
     explanation: >
       Leur gravité a été jugée telle que le temps ne doit pas les effacer. C'est une exception
       délibérée au principe général.
+  - question: "Pourquoi le délai de prescription d'une infraction cachée ne court-il qu'à partir de la découverte des faits ?"
+    options:
+      - "Parce que les crimes cachés sont toujours les plus graves"
+      - "Parce que sinon il suffirait de bien dissimuler pendant quelques années pour échapper aux poursuites"
+      - "Parce que les enquêteurs ne travaillent que sur les faits récents"
+    answer: 2
+    explanation: "Sans cette règle, un auteur habile pourrait attendre l'expiration du délai en cachant les faits. Le délai ne court donc que lorsque les faits ont pu être découverts."
+  - question: "Qu'est-ce que la prescription de la peine, à ne pas confondre avec celle de l'action publique ?"
+    options:
+      - "Elle concerne une condamnation déjà prononcée mais jamais exécutée"
+      - "Elle empêche de poursuivre une personne soupçonnée trop longtemps après les faits"
+      - "Elle fixe le délai pour demander réparation en matière civile"
+    answer: 1
+    explanation: "La prescription de l'action publique empêche de poursuivre ; celle de la peine concerne une condamnation déjà prononcée mais non exécutée."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1761,6 +1943,20 @@ quiz:
       Isolée, fatiguée et sans conseil, une personne peut faire des déclarations qu'elle
       regrettera. La présence d'un avocat dès les premières heures a été imposée par la
       jurisprudence européenne.
+  - question: "Quelle est la durée de principe de la garde à vue en droit commun ?"
+    options:
+      - "Quarante-huit heures, non prolongeables"
+      - "Vingt-quatre heures, prolongeables une fois sur décision d'un magistrat"
+      - "Soixante-douze heures, prolongeables sans limite par les enquêteurs"
+    answer: 2
+    explanation: "Le principe est de vingt-quatre heures, prolongeables une fois sur décision d'un magistrat. Les régimes plus longs sont des exceptions."
+  - question: "Pourquoi les régimes dérogatoires de garde à vue plus longue sont-ils régulièrement discutés ?"
+    options:
+      - "Parce qu'ils s'éloignent du droit commun"
+      - "Parce qu'ils s'appliquent à toutes les infractions sans distinction"
+      - "Parce qu'ils suppriment l'obligation d'informer la personne de ses droits"
+    answer: 1
+    explanation: "Ces régimes existent pour des infractions très graves comme le terrorisme, mais ils sont débattus précisément parce qu'ils s'écartent du droit commun."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1882,6 +2078,20 @@ quiz:
     explanation: >
       Les pouvoirs collaborent nécessairement. Ce qui compte n'est pas l'étanchéité mais le
       fait que chacun puisse contrôler et freiner les autres.
+  - question: "Si la séparation des pouvoirs n'est jamais étanche, qu'est-ce qui compte vraiment ?"
+    options:
+      - "Que chaque pouvoir agisse sans jamais rien demander aux autres"
+      - "Que chacun puisse freiner les autres, dans un équilibre"
+      - "Que le gouvernement décide seul de toutes les lois"
+    answer: 2
+    explanation: "Les pouvoirs collaborent en permanence. Ce qui compte n'est pas l'étanchéité mais l'équilibre : chacun doit pouvoir freiner les autres."
+  - question: "Pourquoi le contrôle parlementaire s'affaiblit-il quand la même majorité tient durablement l'exécutif et le législatif ?"
+    options:
+      - "Parce que le Parlement n'a plus le droit de voter des lois"
+      - "Parce que les juges prennent alors le contrôle de l'Assemblée"
+      - "Parce que la majorité n'a guère d'intérêt à contrôler un gouvernement qui est le sien"
+    answer: 3
+    explanation: "Quand la même majorité contrôle l'exécutif et le législatif, le contrôle parlementaire perd de sa force : c'est l'un des points de vigilance classiques."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2007,6 +2217,20 @@ quiz:
     explanation: >
       Les limites doivent être prévues par la loi, poursuivre un but légitime et rester
       proportionnées. C'est ce triple test qui distingue une limite acceptable d'une censure.
+  - question: "Pourquoi la liberté d'expression doit-elle protéger aussi les propos qui heurtent ou choquent ?"
+    options:
+      - "Parce qu'un propos consensuel n'a pas besoin de protection : une liberté qui ne protégerait que ce qui plaît ne servirait à rien"
+      - "Parce que les propos choquants sont toujours les plus vrais"
+      - "Parce qu'aucune restriction n'est jamais admise par le droit international"
+    answer: 1
+    explanation: "Personne ne cherche à interdire un propos consensuel : la protection n'a de sens que pour les idées qui dérangent."
+  - question: "Pourquoi une personne poursuivie pour diffamation peut-elle parfois échapper à la condamnation, contrairement à l'injure ?"
+    options:
+      - "Parce que la diffamation est toujours une infraction mineure"
+      - "Parce que la diffamation porte sur un fait vérifiable dont elle peut prouver la vérité"
+      - "Parce que la diffamation ne vise que les responsables publics"
+    answer: 2
+    explanation: "La diffamation allègue un fait précis : prouver que ce fait est vrai peut éviter la condamnation. L'injure, elle, n'énonce aucun fait."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2128,6 +2352,20 @@ quiz:
     explanation: >
       La cause doit être vérifiable et suffisamment grave. Sans elle, le licenciement est
       injustifié et ouvre droit à des indemnités supplémentaires.
+  - question: "Qu'est-ce qui permet à un juge de requalifier une prestation indépendante en emploi salarié ?"
+    options:
+      - "Le fait que le contrat porte le nom de contrat de travail"
+      - "Le lieu de travail ou le matériel fourni par l'entreprise"
+      - "Le fait que la relation fonctionne en réalité sous l'autorité de l'employeur"
+    answer: 3
+    explanation: "Le nom du contrat ne compte pas : c'est le lien de subordination, c'est-à-dire le pouvoir de donner des ordres, de contrôler et de sanctionner, qui décide."
+  - question: "Pourquoi la procédure de licenciement n'est-elle pas une simple formalité ?"
+    options:
+      - "Elle permet au salarié de s'expliquer avant que la décision ne soit prise"
+      - "Elle sert surtout à retarder le licenciement de plusieurs mois"
+      - "Elle remplace la nécessité d'avoir une cause réelle et sérieuse"
+    answer: 1
+    explanation: "Convocation, entretien préalable et notification motivée donnent au salarié la possibilité de s'expliquer avant la décision."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2248,6 +2486,20 @@ quiz:
     explanation: >
       Le contrat est suspendu, pas rompu. Le salarié ne travaille pas, donc il n'est pas payé
       pour ces heures, mais il conserve son emploi et son ancienneté.
+  - question: "Que devient le contrat de travail d'un salarié pendant la grève ?"
+    options:
+      - "Il est rompu, mais le salarié peut être réembauché ensuite"
+      - "Il est suspendu : le salarié garde son emploi et son ancienneté mais n'est pas payé"
+      - "Il continue normalement, avec le paiement intégral du salaire"
+    answer: 2
+    explanation: "Le contrat est suspendu, pas rompu : l'emploi, l'ancienneté et la protection sociale sont conservés, mais les heures non travaillées ne sont pas payées."
+  - question: "Un salarié qui ralentit volontairement son travail sans l'arrêter fait-il grève ?"
+    options:
+      - "Oui, car ralentir est une forme plus modérée de grève"
+      - "Oui, à condition de prévenir son employeur"
+      - "Non, la grève suppose une cessation complète du travail, et ralentir constitue une faute"
+    answer: 3
+    explanation: "Ralentir volontairement ou n'exécuter qu'une partie des tâches n'est pas une grève et constitue une faute."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2401,6 +2653,20 @@ quiz:
     explanation: >
       Un cadastre est un registre public qui documente les limites précises de chaque parcelle,
       son propriétaire et ses droits associés, servant de référence légale en cas de litige.
+  - question: "Pourquoi un cadastre écrit règle-t-il mieux un désaccord qu'une haie ou une pierre ?"
+    options:
+      - "Parce que les haies et les pierres sont interdites comme limites"
+      - "Parce que ces marqueurs sont fragiles, faciles à déplacer ou à oublier, alors que le registre tranche objectivement"
+      - "Parce que le cadastre est toujours plus récent que les marqueurs physiques"
+    answer: 2
+    explanation: "Sans document officiel, la limite repose sur la mémoire ou des repères fragiles. Un registre consultable permet de trancher objectivement."
+  - question: "Si les registres d'un cadastre sont détruits, comment peut-on reconstituer les limites ?"
+    options:
+      - "À partir des témoignages, des marqueurs physiques durables et d'anciennes cartes"
+      - "En attribuant les parcelles au premier occupant qui se présente"
+      - "En redistribuant les parcelles à parts égales entre les habitants"
+    answer: 1
+    explanation: "On s'appuie sur les témoignages des habitants, les marqueurs durables comme les murets de pierre, ou d'anciennes cartes conservées ailleurs."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -2550,6 +2816,13 @@ quiz:
     explanation: >
       Un défaut non noté à l'entrée risque d'être imputé au locataire à la sortie. On le remplit
       avec soin, photos à l'appui.
+  - question: "Qui doit assurer les petites réparations et l'entretien courant d'un logement loué ?"
+    options:
+      - "Le propriétaire, qui doit tout réparer"
+      - "L'agence immobilière, dans tous les cas"
+      - "Le locataire, le propriétaire gardant les grosses réparations"
+    answer: 3
+    explanation: "Le locataire fait les petites réparations et l'entretien courant ; le propriétaire doit fournir un logement décent et faire les grosses réparations."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2888,6 +3161,20 @@ quiz:
     explanation: >
       La médiation cherche un accord accepté par les deux parties, ce qui aide à préserver la
       relation entre elles, contrairement à une décision imposée par un tiers.
+  - question: "Pourquoi la médiation est-elle généralement plus rapide et moins coûteuse qu'un arbitrage ou un procès ?"
+    options:
+      - "Parce que le médiateur impose sa décision sans écouter les parties"
+      - "Parce qu'elle ne nécessite pas de constituer un dossier de preuves aussi complet"
+      - "Parce que les parties n'ont pas besoin de se rencontrer"
+    answer: 2
+    explanation: "La médiation repose sur le dialogue et ne demande pas un dossier de preuves aussi complet, ce qui la rend plus rapide et moins chère."
+  - question: "À quelle condition une médiation informelle, sans cadre juridique officiel, peut-elle fonctionner ?"
+    options:
+      - "Les deux parties acceptent librement la personne neutre et s'engagent à respecter l'accord trouvé"
+      - "Un juge doit désigner la personne qui mène la médiation"
+      - "La personne qui médie doit trancher à la place des parties"
+    answer: 1
+    explanation: "Une personne respectée et neutre peut médier sans cadre officiel si les deux parties acceptent librement sa présence et s'engagent à respecter l'accord."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3077,6 +3364,20 @@ quiz:
     explanation: >
       Une procédure de révision, généralement plus exigeante qu'une loi ordinaire, permet à la
       constitution de s'adapter dans le temps tout en la protégeant de changements arbitraires.
+  - question: "Pourquoi réunir une assemblée constituante représentative pour rédiger une constitution ?"
+    options:
+      - "Pour que le texte soit écrit plus vite que par un seul rédacteur"
+      - "Pour supprimer toute procédure de révision future"
+      - "Pour donner au texte une légitimité qu'un document imposé sans discussion n'aurait pas"
+    answer: 3
+    explanation: "Une assemblée représentative débat et approuve le texte avant son entrée en vigueur, ce qui lui donne une légitimité."
+  - question: "Pourquoi une constitution commence-t-elle souvent par énoncer des principes généraux comme la liberté ou l'égalité ?"
+    options:
+      - "Parce qu'ils orientent ensuite toutes les règles plus précises"
+      - "Parce qu'ils remplacent la nécessité de décrire les institutions"
+      - "Parce qu'ils sont les seuls à pouvoir être modifiés par une loi ordinaire"
+    answer: 1
+    explanation: "Ces principes posés avant l'organisation des institutions orientent toutes les règles plus précises qui suivent."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3777,6 +4078,13 @@ sources:
   - title: "Surendettement"
     url: "https://fr.wikipedia.org/wiki/Surendettement"
     publisher: "Wikipédia"
+  - title: "Crédit à la consommation : obligations de la banque"
+    url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F2440?ori=mcmga"
+    publisher: "Service-Public.fr"
+  - title: "Crédit à la consommation : quelle formule choisir pour vos besoins"
+    url: "https://economie.gouv.fr/dgccrf/les-fiches-pratiques/credit-la-consommation-quelle-formule-choisir-pour-vos-besoins"
+    publisher: "DGCCRF"
+    date: "2026"
 quiz:
   - question: "Quel taux permet de comparer le coût réel de deux crédits ?"
     options:
@@ -3805,6 +4113,13 @@ quiz:
     explanation: >
       Avec de petites mensualités, le capital baisse lentement, les intérêts s'accumulent et la
       dette peut durer des années.
+  - question: "Que devient un crédit affecté si la vente qu'il finance est annulée ?"
+    options:
+      - "Il se transforme automatiquement en crédit renouvelable"
+      - "Il continue normalement jusqu'au dernier remboursement"
+      - "Il est annulé lui aussi, car il est lié à l'achat précis"
+    answer: 3
+    explanation: "Le crédit affecté est lié à un achat précis : si la vente est annulée, le crédit l'est aussi."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -4173,6 +4488,13 @@ quiz:
     explanation: >
       La prescription acquisitive est de trente ans en principe, réduite à dix ans pour celui qui a
       acquis de bonne foi avec un titre.
+  - question: "Pourquoi un locataire n'est-il pas possesseur de son logement, mais seulement détenteur ?"
+    options:
+      - "Parce qu'il n'utilise pas matériellement le logement"
+      - "Parce qu'il sait que le logement appartient à un autre et ne se comporte donc pas en propriétaire"
+      - "Parce que la loi interdit à un locataire de posséder quoi que ce soit"
+    answer: 2
+    explanation: "La possession suppose à la fois de détenir la chose et de se comporter en propriétaire. Le locataire détient le logement mais sait qu'il appartient à autrui."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -4948,6 +5270,12 @@ sources:
   - title: "Responsabilité civile"
     url: "https://fr.wikipedia.org/wiki/Responsabilit%C3%A9_civile"
     publisher: "Wikipédia"
+  - title: "Obligation du locataire : assurance habitation couvrant les risques locatifs"
+    url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F1349?quest0=0"
+    publisher: "Service-Public.fr"
+  - title: "Assurance habitation : souscription du contrat"
+    url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F2598"
+    publisher: "Service-Public.fr"
 quiz:
   - question: "Qu'est-ce que la franchise d'une assurance ?"
     options:
@@ -4976,6 +5304,13 @@ quiz:
     explanation: >
       Depuis 2015, la résiliation est possible à tout moment après un an, sans frais. Cela permet
       de faire jouer la concurrence.
+  - question: "Pourquoi une fausse déclaration intentionnelle est-elle dangereuse pour l'assuré ?"
+    options:
+      - "Elle peut entraîner la nullité du contrat et le refus de toute indemnisation"
+      - "Elle augmente seulement la franchise de quelques dizaines d'euros"
+      - "Elle oblige l'assureur à résilier le contrat à la fin de l'année"
+    answer: 1
+    explanation: "Mentir volontairement à la souscription ou lors d'un sinistre peut annuler le contrat, priver l'assuré de toute indemnisation et mener à des poursuites pour fraude."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -6109,6 +6444,12 @@ sources:
   - title: "Hans Kelsen"
     url: "https://fr.wikipedia.org/wiki/Hans_Kelsen"
     publisher: "Wikipédia"
+  - title: "Qu'est-ce que la question prioritaire de constitutionnalité (QPC) ?"
+    url: "https://www.vie-publique.fr/fiches/19560-quest-ce-que-la-question-prioritaire-de-constitutionnalite-qpc"
+    publisher: "Vie publique"
+  - title: "La question prioritaire de constitutionnalité devant la juridiction administrative"
+    url: "https://www.conseil-etat.fr/decisions-de-justice/jurisprudence/dossiers-thematiques/la-question-prioritaire-de-constitutionnalite-devant-la-juridiction-administrative"
+    publisher: "Conseil d'État"
 quiz:
   - question: "Quelle règle se trouve tout en haut de la pyramide des normes en France ?"
     options:
@@ -8898,6 +9239,12 @@ sources:
   - title: "Jury criminel en France"
     url: "https://fr.wikipedia.org/wiki/Jury_criminel_en_France"
     publisher: "Wikipédia"
+  - title: "Les jurés des cours d'assises"
+    url: "https://www.cours-appel.justice.fr/nancy/les-jures-des-cours-dassises"
+    publisher: "Cour d'appel de Nancy (justice.fr)"
+  - title: "Cour d'assises"
+    url: "https://www.larousse.fr/encyclopedie/divers/cour_dassises/187220"
+    publisher: "Larousse"
 quiz:
   - question: "Combien de jurés siègent dans une cour d'assises en premier ressort ?"
     options:
@@ -9304,6 +9651,13 @@ quiz:
     answer: 1
     explanation: >
       C'est le vendeur professionnel qui est responsable, même s'il renvoie souvent vers le fabricant.
+  - question: "En quoi la garantie commerciale diffère-t-elle de la garantie légale de conformité ?"
+    options:
+      - "Elle est automatique et gratuite, alors que la garantie légale est facultative"
+      - "Elle est facultative, souvent payante, et s'ajoute à la garantie légale sans la remplacer"
+      - "Elle remplace la garantie légale dès qu'on la souscrit"
+    answer: 2
+    explanation: "La garantie commerciale est offerte par le vendeur ou le fabricant, souvent payante, et ne supprime jamais la garantie légale."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -10002,6 +10356,13 @@ quiz:
     explanation: >
       Ils prouvent les périodes travaillées et les salaires, utiles pour calculer la retraite ou
       en cas de litige.
+  - question: "Pourquoi le coût total d'un salarié pour l'entreprise est-il nettement supérieur à son salaire brut ?"
+    options:
+      - "Parce que l'employeur paie en plus les cotisations patronales"
+      - "Parce que l'employeur reverse au salarié les cotisations salariales"
+      - "Parce que le salarié doit rembourser l'employeur de l'impôt prélevé à la source"
+    answer: 1
+    explanation: "Les cotisations patronales sont payées par l'employeur en plus du salaire brut, ce qui fait monter le coût total."
 lastVerified: 2026-11-07
 status: published
 ---

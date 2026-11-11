@@ -247,6 +247,20 @@ quiz:
     explanation: >
       Artères et veines ne font que transporter. Les échanges d'oxygène, de nutriments et de
       déchets ont lieu dans les capillaires, dont la paroi n'a qu'une cellule d'épaisseur.
+  - question: "Pourquoi la paroi musculaire du côté gauche du coeur est-elle plus épaisse ?"
+    options:
+      - "Parce qu'il reçoit un sang plus riche en dioxyde de carbone"
+      - "Parce qu'il bat plus souvent que le côté droit"
+      - "Parce qu'il doit pousser le sang dans tout le corps, jusqu'aux orteils, et pas seulement vers les poumons"
+    answer: 3
+    explanation: "Le côté gauche alimente tout le corps alors que le droit n'a que les poumons à desservir : il travaille davantage et sa paroi est donc plus épaisse."
+  - question: "À quoi servent les petites valves des veines des jambes ?"
+    options:
+      - "À empêcher le sang de redescendre, pendant que les muscles des mollets le font avancer"
+      - "À ralentir le sang pour qu'il échange ses gaz avec les muscles"
+      - "À augmenter la pression du sang à la sortie du coeur"
+    answer: 1
+    explanation: "Dans les jambes, le sang remonte contre la gravité avec une faible pression : les valves l'empêchent de redescendre et la contraction des mollets le fait progresser."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -359,6 +373,20 @@ quiz:
     explanation: >
       La salière ne représente qu'une petite partie. C'est pourquoi réduire le sel passe
       surtout par la reformulation des produits industriels.
+  - question: "Pourquoi beaucoup de personnes hypertendues arrêtent-elles leur traitement ?"
+    options:
+      - "Les médicaments provoquent des symptômes désagréables au quotidien"
+      - "Elles ne ressentaient rien avant et ne ressentent rien après : le comprimé semble inutile"
+      - "Elles pensent que leur tension a été définitivement guérie par le traitement"
+    answer: 2
+    explanation: "L'hypertension est silencieuse : comme le traitement ne change rien à ce qu'on ressent, l'impression d'avaler un comprimé pour rien est très forte."
+  - question: "Pourquoi le coeur s'épaissit-il puis se fatigue-t-il en cas d'hypertension ?"
+    options:
+      - "Il doit pousser le sang contre une résistance plus forte"
+      - "Il bat plus lentement et se remplit de graisse"
+      - "Il reçoit moins de sang parce que les reins filtrent mal"
+    answer: 1
+    explanation: "Des artères rigidifiées et rétrécies opposent une résistance plus forte : le coeur, qui doit pousser davantage, s'épaissit puis finit par se fatiguer."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -474,6 +502,20 @@ quiz:
     explanation: >
       Le signal saute d'une interruption de gaine à la suivante au lieu de parcourir toute la
       fibre. La vitesse peut être multipliée par plus de cinquante.
+  - question: "Pourquoi le passage du signal électrique au signal chimique à la synapse est-il essentiel ?"
+    options:
+      - "Il permet de moduler, d'amplifier ou d'atténuer le signal"
+      - "Il rend la transmission plus rapide que le signal électrique"
+      - "Il permet au signal de rester dans le même neurone"
+    answer: 1
+    explanation: "Ce relais chimique n'est pas un détail : il permet d'ajuster le signal et c'est aussi le point d'action de la plupart des médicaments agissant sur le cerveau."
+  - question: "Qu'est-ce qui compte le plus dans le cerveau, plus que le nombre de neurones ?"
+    options:
+      - "Le poids total de l'organe"
+      - "Les connexions entre neurones, qui se comptent en milliers de milliards"
+      - "La taille de chaque corps cellulaire"
+    answer: 2
+    explanation: "Le chiffre de 100 milliards de neurones est impressionnant, mais chaque neurone établit des milliers de connexions : ce sont elles qui comptent."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -592,6 +634,20 @@ quiz:
       Après une amputation, le territoire cérébral du membre disparu est envahi par ses
       voisins. Cette réorganisation est associée à des sensations douloureuses d'un membre qui
       n'existe plus.
+  - question: "Que signifie la formule : les neurones qui s'activent ensemble se connectent ensemble ?"
+    options:
+      - "Les neurones voisins fusionnent pour ne former qu'une seule cellule"
+      - "Tous les neurones d'une même zone s'activent en même temps"
+      - "Une connexion souvent utilisée se renforce, une connexion inutilisée s'affaiblit"
+    answer: 3
+    explanation: "La force d'une synapse change selon l'activité qui la traverse. C'est considéré comme le mécanisme de base de la mémoire."
+  - question: "Pourquoi la rééducation après un accident vasculaire cérébral repose-t-elle sur la plasticité ?"
+    options:
+      - "Des zones voisines peuvent reprendre une partie de la fonction perdue, si elles sont sollicitées tôt et intensivement"
+      - "Les neurones détruits sont remplacés par de nouveaux neurones identiques"
+      - "Le cerveau se fige pour protéger les zones restées intactes"
+    answer: 1
+    explanation: "La rééducation exploite la capacité des zones voisines à reprendre progressivement une partie de la fonction perdue, à condition d'être sollicitées tôt et intensivement."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -710,6 +766,20 @@ quiz:
     explanation: >
       Des centaines de millions d'alvéoles minuscules déploient une surface comparable à celle
       d'un demi-court de tennis, repliée dans quelques litres.
+  - question: "Pourquoi les échanges gazeux dans les poumons ne coûtent-ils aucune énergie ?"
+    options:
+      - "Le diaphragme pousse l'oxygène directement dans le sang"
+      - "Les gaz passent d'eux-mêmes du milieu où ils sont concentrés vers celui où ils le sont moins"
+      - "Les globules rouges transportent activement l'oxygène à travers la paroi"
+    answer: 2
+    explanation: "C'est la diffusion : l'oxygène passe de l'air vers le sang pauvre en oxygène et le CO2 dans l'autre sens, sans pompe ni transport actif."
+  - question: "Que se passe-t-il dans une zone du poumon mal ventilée ?"
+    options:
+      - "Ses vaisseaux se dilatent pour recevoir plus de sang"
+      - "Le diaphragme se contracte plus fort pour la ventiler"
+      - "Ses petits vaisseaux se resserrent et le sang est détourné vers les zones qui respirent bien"
+    answer: 3
+    explanation: "Cette régulation évite de faire circuler du sang là où il ne pourrait pas se charger en oxygène."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -830,6 +900,20 @@ quiz:
     explanation: >
       Plis circulaires, villosités puis microvillosités s'emboîtent. C'est ce qui permet à
       quelques mètres de tube d'absorber presque tout en quelques heures.
+  - question: "À quoi sert la bile dans la digestion des graisses ?"
+    options:
+      - "Elle casse les graisses en gouttelettes minuscules pour que les enzymes puissent les attaquer"
+      - "Elle découpe chimiquement les graisses en acides gras"
+      - "Elle neutralise l'acidité de l'estomac avant l'arrivée des graisses"
+    answer: 1
+    explanation: "La bile ne digère rien elle-même : elle agit comme un détergent et fragmente les graisses pour donner prise aux enzymes."
+  - question: "Pourquoi digérer consiste-t-il essentiellement à découper les aliments ?"
+    options:
+      - "Les gros morceaux d'aliments abîmeraient la paroi de l'intestin"
+      - "Les molécules des aliments sont trop grosses pour traverser la paroi de nos cellules"
+      - "Les bactéries du côlon ne peuvent fermenter que de petits fragments"
+    answer: 2
+    explanation: "Les longues chaînes comme l'amidon ne passent pas la paroi des cellules : il faut les découper en glucose, acides aminés et éléments plus petits."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -951,6 +1035,20 @@ quiz:
     explanation: >
       Le mode d'accouchement, l'allaitement, l'environnement et les traitements reçus pendant
       cette période influencent durablement sa composition.
+  - question: "Que signifie la résistance à la colonisation assurée par le microbiote ?"
+    options:
+      - "Le microbiote détruit les bactéries dangereuses grâce à des antibiotiques naturels"
+      - "Le microbiote empêche le système immunitaire de réagir trop fort"
+      - "En occupant l'espace et les ressources, il empêche des bactéries dangereuses de s'installer"
+    answer: 3
+    explanation: "Les bactéries du microbiote saturent la place disponible : les bactéries dangereuses ne trouvent ni espace ni ressources pour s'installer."
+  - question: "Pourquoi faut-il être prudent face aux affirmations sur l'effet du microbiote sur l'humeur ?"
+    options:
+      - "Parce que l'intestin n'est relié au cerveau par aucun nerf"
+      - "Parce qu'association n'est pas causalité et qu'une grande partie des travaux porte sur l'animal"
+      - "Parce que le microbiote change trop vite pour être étudié"
+    answer: 2
+    explanation: "La communication intestin-cerveau existe, mais les associations observées ne prouvent pas une cause, et beaucoup d'études sont faites sur l'animal."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1063,6 +1161,20 @@ quiz:
     explanation: >
       Prendre un antibiotique contre une infection virale n'apporte aucun bénéfice, perturbe le
       microbiote et favorise l'apparition de résistances.
+  - question: "Pourquoi un antibiotique touche-t-il aussi les bactéries utiles ?"
+    options:
+      - "Il est avalé et se répand dans tout le corps sans cible"
+      - "Il vise des mécanismes communs à de nombreuses bactéries et ne distingue pas les utiles des nuisibles"
+      - "Il détruit la paroi de l'intestin en même temps que les microbes"
+    answer: 2
+    explanation: "Les antibiotiques ciblent la fabrication de la paroi, la lecture du matériel génétique ou la production de protéines, des mécanismes partagés par beaucoup de bactéries."
+  - question: "Pourquoi transplanter le microbiote d'un donneur sain aide-t-il dans les infections récidivantes à Clostridioides difficile ?"
+    options:
+      - "Il apporte un antibiotique plus puissant que les précédents"
+      - "Il stimule directement les défenses immunitaires du patient"
+      - "Il réinstalle un écosystème fonctionnel qui retrouve la résistance à la colonisation"
+    answer: 3
+    explanation: "Le traitement antibiotique a détruit l'écosystème qui bloquait les bactéries opportunistes ; la transplantation en réinstalle un qui fonctionne."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1173,6 +1285,20 @@ quiz:
     explanation: >
       C'est exactement le principe sur lequel repose la vaccination : créer cette mémoire sans
       passer par la maladie.
+  - question: "Pourquoi les signes de l'inflammation sont-ils en réalité un bon signe ?"
+    options:
+      - "Les vaisseaux se dilatent pour amener davantage de cellules de défense : le système fonctionne"
+      - "Ils montrent que le microbe est déjà détruit"
+      - "Ils protègent la peau contre une seconde infection"
+    answer: 1
+    explanation: "Rougeur, chaleur, gonflement et douleur viennent de la dilatation des vaisseaux, qui amène plus de cellules de défense sur place."
+  - question: "Pourquoi la vaccination s'appuie-t-elle sur l'immunité adaptative ?"
+    options:
+      - "Elle active les barrières physiques comme la peau et les muqueuses"
+      - "Elle renforce la réaction inflammatoire pour qu'elle dure plus longtemps"
+      - "Elle crée des cellules mémoire sans faire passer par la maladie"
+    answer: 3
+    explanation: "L'immunité adaptative garde une mémoire grâce aux cellules mémoire. Le vaccin exploite ce mécanisme pour que la réponse à la vraie rencontre soit rapide."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1287,6 +1413,20 @@ quiz:
     explanation: >
       On a longtemps conseillé de retarder. Les études ont montré que cela augmentait le risque
       d'allergie plutôt que de le réduire.
+  - question: "Qu'est-ce qui déclenche la libération d'histamine lors d'un contact ultérieur avec l'allergène ?"
+    options:
+      - "Le corps fabrique de nouveaux anticorps en grande quantité"
+      - "L'allergène relie entre eux les anticorps fixés sur les mastocytes"
+      - "Les mastocytes détectent la disparition de l'allergène"
+    answer: 2
+    explanation: "Après la sensibilisation, les anticorps sont fixés sur les mastocytes. Quand l'allergène les relie, c'est le signal : les mastocytes déversent leur contenu, dont l'histamine."
+  - question: "Parmi les pistes proposées pour expliquer la hausse des allergies, laquelle est citée ?"
+    options:
+      - "La réduction de la diversité des expositions microbiennes dans la petite enfance"
+      - "L'usage plus fréquent de l'adrénaline injectable"
+      - "La disparition des acariens dans les logements modernes"
+    answer: 1
+    explanation: "Moins d'expositions microbiennes variées pendant que le système immunitaire apprend à distinguer le dangereux de l'inoffensif figure parmi les pistes, avec le microbiote, la pollution et les saisons polliniques plus longues."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1398,6 +1538,20 @@ quiz:
     explanation: >
       Le sommeil profond domine les premiers cycles, le paradoxal les derniers. Se lever deux
       heures plus tôt coupe donc principalement le sommeil paradoxal.
+  - question: "Pourquoi se coucher plus tard et se lever plus tôt ne privent-ils pas des mêmes fonctions ?"
+    options:
+      - "Le sommeil léger domine en début de nuit et le sommeil profond en fin de nuit"
+      - "Les cycles sont identiques toute la nuit, seule leur durée varie"
+      - "Le sommeil profond domine en début de nuit et le paradoxal en fin de nuit"
+    answer: 3
+    explanation: "Se coucher tard ampute surtout le sommeil profond, se lever tôt ampute surtout le sommeil paradoxal : ce ne sont pas les mêmes fonctions qui en pâtissent."
+  - question: "Pourquoi les muscles sont-ils paralysés pendant le sommeil paradoxal ?"
+    options:
+      - "Le cerveau y est presque inactif et n'envoie plus aucun ordre"
+      - "Cela empêche de mimer ses rêves"
+      - "Le corps y récupère physiquement grâce à l'hormone de croissance"
+    answer: 2
+    explanation: "Le cerveau est alors presque aussi actif qu'éveillé, mais la paralysie des muscles évite de mimer ses rêves."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1521,6 +1675,20 @@ quiz:
     explanation: >
       La progression mondiale en quelques décennies ne peut pas s'expliquer par un changement
       de caractère des populations. Ce qui a changé, c'est l'environnement.
+  - question: "Pourquoi l'obésité est-elle plus fréquente dans les milieux modestes ?"
+    options:
+      - "Les aliments les plus caloriques sont souvent les moins chers à la calorie"
+      - "Les personnes modestes ont généralement moins de volonté"
+      - "L'activité physique y est interdite ou trop coûteuse"
+    answer: 1
+    explanation: "Le prix joue : les aliments très caloriques coûtent peu par calorie, ce qui explique une prévalence plus élevée dans les milieux modestes."
+  - question: "Pourquoi la graisse abdominale est-elle particulièrement préoccupante ?"
+    options:
+      - "Elle est plus difficile à perdre que les autres graisses"
+      - "Elle comprime les organes digestifs"
+      - "C'est un tissu actif qui produit des molécules inflammatoires"
+    answer: 3
+    explanation: "La graisse abdominale n'est pas un stock inerte : elle produit des molécules inflammatoires, ce qui l'implique dans de nombreuses maladies."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1626,6 +1794,20 @@ quiz:
     explanation: >
       C'est une voie d'entrée indépendante. Elle explique pourquoi une marche après le repas
       abaisse réellement la glycémie.
+  - question: "Pourquoi le diabète est-il souvent découvert à l'occasion d'une complication ?"
+    options:
+      - "Les analyses de sang classiques ne détectent jamais l'excès de glucose"
+      - "Le pancréas compense pendant des années sans symptôme, et la glycémie ne monte qu'après son épuisement"
+      - "Les symptômes sont attribués à tort à d'autres maladies"
+    answer: 2
+    explanation: "Au début, le pancréas produit plus d'insuline et la glycémie reste normale. La maladie ne devient détectable qu'une fois le pancréas épuisé, parfois après des atteintes de la rétine ou des reins."
+  - question: "Que reflète le dosage de l'hémoglobine glyquée ?"
+    options:
+      - "La glycémie moyenne des deux à trois mois précédents"
+      - "La quantité d'insuline produite aujourd'hui par le pancréas"
+      - "La glycémie mesurée juste après le dernier repas"
+    answer: 1
+    explanation: "Cet examen permet de regarder en arrière : il reflète la glycémie moyenne des deux à trois mois passés."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1742,6 +1924,20 @@ quiz:
       Un antibiotique vraiment nouveau doit être gardé en réserve pour rester efficace. C'est
       un modèle économique peu attractif, ce qui a conduit plusieurs laboratoires à quitter ce
       domaine.
+  - question: "Pourquoi la résistance se répand-elle si vite chez les bactéries ?"
+    options:
+      - "Les bactéries mutent volontairement pour échapper aux médicaments"
+      - "Les bactéries résistantes sont transmises uniquement par les animaux d'élevage"
+      - "Elles se divisent toutes les vingt minutes et peuvent s'échanger des gènes de résistance, même entre espèces"
+    answer: 3
+    explanation: "La sélection est extraordinairement rapide chez des organismes qui se divisent toutes les vingt minutes, et les gènes de résistance se transmettent directement d'une bactérie à l'autre."
+  - question: "Pourquoi interrompre un traitement antibiotique trop tôt favorise-t-il la résistance ?"
+    options:
+      - "Cela laisse survivre les bactéries les plus résistantes"
+      - "Cela habitue le corps du malade au médicament"
+      - "Cela rend l'antibiotique plus toxique pour le corps"
+    answer: 1
+    explanation: "Un traitement arrêté trop tôt laisse survivre les bactéries les plus résistantes, qui se multiplient ensuite."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1858,6 +2054,20 @@ quiz:
     explanation: >
       En dessous de 1, l'épidémie s'éteint d'elle-même. C'est l'objectif de toutes les mesures
       de contrôle.
+  - question: "Pourquoi isoler les malades ne suffit-il plus quand une maladie est contagieuse avant les symptômes ?"
+    options:
+      - "Les malades refusent généralement de rester isolés"
+      - "On transmet avant de se savoir malade"
+      - "Les symptômes n'apparaissent jamais chez les personnes contagieuses"
+    answer: 2
+    explanation: "Si la contagiosité précède les symptômes, des personnes qui ne se savent pas malades transmettent la maladie avant qu'on puisse les isoler."
+  - question: "Pourquoi la variole a-t-elle pu être éradiquée ?"
+    options:
+      - "Elle se transmettait uniquement par les moustiques, faciles à éliminer"
+      - "Elle ne touchait que de très petites populations isolées"
+      - "Elle ne présentait ni contagiosité avant les symptômes, ni formes sans symptôme, ni réservoir animal"
+    answer: 3
+    explanation: "Ces trois traits rendent une épidémie difficile à arrêter ; la variole n'en avait aucun, ce qui a rendu son éradication possible."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1978,6 +2188,20 @@ quiz:
       Les travaux actuels décrivent une interaction entre vulnérabilité génétique, événements
       de vie, inflammation et régulation du stress. L'image du simple déficit chimique est
       dépassée.
+  - question: "Qu'est-ce qui définit la dépression, plutôt que l'intensité du chagrin ?"
+    options:
+      - "Un ensemble de symptômes, une durée d'au moins deux semaines et un retentissement sur le fonctionnement"
+      - "Une tristesse très intense apparue après un événement précis"
+      - "Un manque de sérotonine mesuré par une prise de sang"
+    answer: 1
+    explanation: "Le diagnostic repose sur une constellation de manifestations, présentes presque tous les jours pendant au moins deux semaines, et sur le fait qu'elle empêche de fonctionner."
+  - question: "Comment le bénéfice des antidépresseurs varie-t-il selon la gravité de la dépression ?"
+    options:
+      - "Il est identique quelle que soit la gravité"
+      - "Il croît avec la sévérité : modeste dans les formes légères, net dans les formes marquées"
+      - "Il est plus fort dans les formes légères que dans les formes sévères"
+    answer: 2
+    explanation: "Pour les formes légères à modérées, les psychothérapies ont des données solides ; les antidépresseurs apportent un bénéfice net surtout dans les formes marquées."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2096,6 +2320,20 @@ quiz:
     explanation: >
       Plus un agent est contagieux, plus il faut de personnes immunisées pour interrompre la
       transmission. Pour la rougeole, le seuil avoisine 95 %.
+  - question: "Pourquoi les vaccins vivants atténués sont-ils contre-indiqués chez les personnes au système immunitaire affaibli ?"
+    options:
+      - "Ils contiennent un adjuvant toxique pour ces personnes"
+      - "Ils demandent trop de rappels pour ces personnes"
+      - "Le microbe affaibli peut encore se multiplier un peu, ce qu'un système immunitaire faible gère mal"
+    answer: 3
+    explanation: "Un vaccin vivant atténué utilise un microbe capable de se multiplier un peu. C'est sans danger pour la plupart, mais pas pour une personne dont l'immunité est affaiblie."
+  - question: "Quel paradoxe fragilise la vaccination quand elle réussit ?"
+    options:
+      - "Plus la maladie est visible, moins les gens se font vacciner"
+      - "Plus la maladie recule, moins elle est visible, alors que les effets indésirables du vaccin restent visibles"
+      - "Plus la couverture est élevée, plus le seuil d'immunité collective monte"
+    answer: 2
+    explanation: "On ne voit plus les enfants paralysés par la polio ni les décès par rougeole. Ce qui reste visible, ce sont les effets indésirables : la balance perçue se déforme."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2216,6 +2454,20 @@ quiz:
     explanation: >
       L'ARN messager est lu dans le cytoplasme, là où se trouvent les ribosomes. Il n'entre pas
       dans le noyau et ne modifie pas l'ADN.
+  - question: "Pourquoi une modification d'une base de l'ARN a-t-elle été décisive ?"
+    options:
+      - "Elle rend l'ARN assez discret pour éviter une réaction inflammatoire qui le détruirait"
+      - "Elle permet à l'ARN d'entrer dans le noyau de la cellule"
+      - "Elle fait durer l'ARN plusieurs mois dans le corps"
+    answer: 1
+    explanation: "Le corps déteste l'ARN étranger et le détruit par une réaction inflammatoire. Une base légèrement modifiée rend la molécule discrète."
+  - question: "Pourquoi l'ARN est-il enfermé dans des nanoparticules lipidiques ?"
+    options:
+      - "Pour le faire entrer dans le noyau et modifier l'ADN"
+      - "Pour qu'il soit détruit plus vite après l'injection"
+      - "Pour le protéger, car il est fragile, et l'aider à fusionner avec la membrane des cellules"
+    answer: 3
+    explanation: "L'ARN est très fragile et ne traverse pas la membrane des cellules : les bulles de graisse le protègent et fusionnent avec la membrane."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2336,6 +2588,20 @@ quiz:
     explanation: >
       C'est le biais d'avance au diagnostic. Seule la comparaison de la mortalité entre groupes
       dépistés et non dépistés permet de conclure.
+  - question: "Pourquoi faut-il qu'un traitement soit plus efficace au stade précoce pour justifier un dépistage ?"
+    options:
+      - "Sinon le dépistage n'avance que la date du diagnostic, en ajoutant des années à vivre en se sachant malade"
+      - "Sinon le dépistage coûte trop cher pour le système de santé"
+      - "Sinon le test produit trop de faux négatifs"
+    answer: 1
+    explanation: "Si le traitement donne le même résultat à tous les stades, trouver tôt ne change pas l'évolution de la maladie, seulement le moment où on l'apprend."
+  - question: "Pourquoi un dépistage périodique attrape-t-il surtout les tumeurs à évolution lente ?"
+    options:
+      - "Les tumeurs rapides sont toujours détectées trop tard pour être comptées"
+      - "Les tumeurs lentes sont plus grosses et donc plus faciles à voir"
+      - "Les tumeurs rapides peuvent apparaître et progresser entre deux examens, alors que les lentes restent détectables plus longtemps"
+    answer: 3
+    explanation: "C'est un biais de sélection : le dépistage repère préférentiellement les formes lentes, de meilleur pronostic, et rate celles qui évoluent entre deux examens."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2466,6 +2732,20 @@ quiz:
       Les compressions thoraciques ne remplacent pas un cœur qui bat, mais elles maintiennent un
       minimum de circulation sanguine vers le cerveau, gagnant un temps précieux avant que les
       secours n'arrivent avec un défibrillateur.
+  - question: "Pourquoi faut-il laisser le thorax remonter complètement entre deux compressions ?"
+    options:
+      - "Pour éviter de casser les côtes de la victime"
+      - "Pour permettre au sauveteur de reprendre son souffle"
+      - "Pour permettre au coeur de se remplir de sang avant la compression suivante"
+    answer: 3
+    explanation: "Sans relâchement complet, le coeur ne se remplit pas bien et l'efficacité du massage diminue nettement."
+  - question: "Pourquoi se relayer toutes les deux minutes environ quand plusieurs sauveteurs sont présents ?"
+    options:
+      - "La qualité des compressions se dégrade après deux minutes, la profondeur diminuant en premier"
+      - "Le coeur de la victime a besoin d'une courte pause toutes les deux minutes"
+      - "Le défibrillateur ne peut être utilisé qu'à ce rythme"
+    answer: 1
+    explanation: "La fatigue réduit d'abord la profondeur des compressions, avant même que le rythme ne ralentisse. Le relais, de quelques secondes seulement, préserve la qualité."
 lastVerified: 2026-09-24
 status: published
 ---
@@ -2670,6 +2950,20 @@ quiz:
     explanation: >
       Retirer un pansement déjà en place relance le saignement en décollant le caillot qui
       commence à se former en dessous.
+  - question: "Pourquoi ne faut-il pas relâcher la pression pour vérifier si le saignement a cessé ?"
+    options:
+      - "Cela risquerait de contaminer la plaie"
+      - "Chaque interruption relance le saignement"
+      - "Le tissu pourrait se coller à la plaie"
+    answer: 2
+    explanation: "La pression bloque le sang et laisse le corps commencer à cicatriser : la relâcher, même brièvement, relance le saignement."
+  - question: "Pourquoi ne faut-il pas retirer un objet planté dans la plaie ?"
+    options:
+      - "Il aide à désinfecter la plaie"
+      - "Il est trop difficile à retirer sans outil"
+      - "Il bouche parfois lui-même une partie de la blessure"
+    answer: 3
+    explanation: "L'objet peut faire office de bouchon : le retirer risque d'aggraver l'hémorragie."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -2752,6 +3046,9 @@ sources:
   - title: "Neurotransmitter"
     url: "https://en.wikipedia.org/wiki/Neurotransmitter"
     publisher: "Wikipedia"
+  - title: "chemical synapses"
+    url: "https://www.jove.com/fr/science-education/v/14896/chemical-synapses"
+    publisher: "JoVE"
 quiz:
   - question: "Qu'est-ce qui fait libérer les neurotransmetteurs ?"
     options:
@@ -3074,7 +3371,9 @@ title: Dégager les voies respiratoires
 slug: degager-voies-respiratoires
 categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
 summary: >
-  La manœuvre de Heimlich et la position latérale de sécurité : des gestes simples face à un étouffement.
+  Face à un étouffement grave, cinq claques dans le dos puis cinq compressions abdominales, en
+  alternance, peuvent dégager les voies respiratoires. Si la personne perd connaissance, on
+  appelle les secours et on commence la réanimation.
 tags: [systeme-respiratoire, secourisme, etouffement, essentiel-reconstruction]
 relatedArticles: []
 sources:
@@ -3086,6 +3385,9 @@ sources:
     url: "https://www.redcross.org.uk/first-aid/learn-first-aid/choking"
     publisher: "British Red Cross"
     date: "2025"
+  - title: "Choking - first aid"
+    url: "https://medlineplus.gov/ency/article/000049.htm"
+    publisher: "MedlinePlus, National Library of Medicine (NIH)"
 quiz:
   - question: "Que faire en premier si une personne tousse encore fort ?"
     options:
@@ -3105,51 +3407,65 @@ quiz:
     explanation: >
       Comprimer le ventre d'une femme enceinte est dangereux pour elle et le fœtus : on déplace
       le point de compression sur le thorax.
-lastVerified: 2026-09-25
+  - question: "Que faire si une personne qui s'étouffait perd connaissance ?"
+    options:
+      - "Lui donner de l'eau pour faire passer l'objet"
+      - "Alerter les secours, l'allonger et commencer la réanimation cardio-pulmonaire"
+      - "Continuer les compressions abdominales sans interruption"
+    answer: 2
+    explanation: "Chez une personne inconsciente, on appelle les secours et on fait des compressions sur le thorax, pas sur le ventre. L'objet n'est retiré que s'il est visible et libre."
+  - question: "À partir de quand des lésions du cerveau peuvent-elles apparaître sans oxygène ?"
+    options:
+      - "Dès 4 minutes environ"
+      - "Après 30 minutes"
+      - "Après plus d'une heure"
+    answer: 1
+    explanation: "Le manque d'oxygène peut endommager le cerveau dès 4 minutes environ, ce qui impose d'agir vite."
+lastVerified: 2026-11-11
 status: published
 ---
 
 ## En bref
 
-Quand quelqu'un s'étouffe, l'air ne passe plus. La personne ne peut ni parler ni tousser fort.
-Quelques gestes précis, appris en quelques minutes, peuvent dégager les voies respiratoires en
-quelques secondes.
+Quand quelqu'un s'étouffe, l'air ne passe plus. La personne ne peut ni parler ni tousser fort. Quelques gestes précis, appris en quelques minutes, peuvent dégager les voies respiratoires en quelques secondes.
 
 ## Reconnaître un étouffement grave
 
-Si la personne tousse fort ou peut encore parler, l'air passe encore un peu : on la laisse
-tousser, c'est le meilleur réflexe naturel. Le danger commence quand elle porte les mains à sa
-gorge, ne peut plus émettre aucun son, ni respirer.
+Si la personne tousse fort ou peut encore parler, l'air passe encore un peu : on la laisse tousser, c'est le meilleur réflexe naturel. Le danger commence quand elle porte les mains à sa gorge, ne peut plus émettre aucun son, tousse faiblement, respire avec peine ou prend une teinte bleutée.
+
+Le temps compte : sans oxygène, des lésions du cerveau peuvent commencer dès 4 minutes environ.
 
 ## Les claques dans le dos
 
-Pencher la personne en avant, soutenir son torse d'une main, et donner cinq claques fermes entre
-les omoplates avec le talon de l'autre main. Le choc et la gravité aident souvent à expulser
-l'objet.
+Pencher la personne en avant, soutenir son torse d'une main, et donner cinq claques fermes entre les omoplates avec le talon de l'autre main. Le choc et la gravité aident souvent à expulser l'objet. Après chaque série, regarder si l'objet est sorti.
 
 ## La manœuvre de Heimlich
 
-Si les claques ne suffisent pas, se placer derrière la personne, un poing fermé juste au-dessus
-du nombril, l'autre main par-dessus. Tirer brusquement vers soi et vers le haut, cinq fois. L'air
-restant dans les poumons est chassé d'un coup et peut éjecter l'objet coincé.
+Si les claques ne suffisent pas, se placer derrière la personne, un poing fermé juste au-dessus du nombril, l'autre main par-dessus. Tirer brusquement vers soi et vers le haut, cinq fois. L'air restant dans les poumons est chassé d'un coup et peut éjecter l'objet coincé.
 
-Alterner cinq claques dans le dos et cinq compressions abdominales jusqu'à ce que l'objet
-ressorte ou que la personne puisse à nouveau respirer.
+Alterner cinq claques dans le dos et cinq compressions abdominales jusqu'à ce que l'objet ressorte ou que la personne puisse à nouveau respirer.
+
+## Les cas particuliers
+
+Chez une femme enceinte ou une personne très corpulente, on remplace les compressions abdominales par des compressions sur le thorax. Les bras passent autour de la poitrine, le poing se place au milieu du sternum, et on tire fermement vers soi, jusqu'à cinq fois.
 
 ## Si la personne perd connaissance
 
-Allonger la personne au sol et commencer une réanimation cardio-pulmonaire. Chaque fois qu'on
-ouvre les voies respiratoires pour insuffler de l'air, regarder si l'objet est visible dans la
-bouche avant de le retirer avec un doigt.
+Appeler les secours, ou faire appeler un témoin ; si on est seul, crier pour attirer de l'aide. Allonger la personne au sol sur une surface ferme et commencer une réanimation cardio-pulmonaire, avec des compressions sur le thorax et non sur le ventre.
+
+Chaque fois qu'on ouvre les voies respiratoires pour insuffler de l'air, regarder si l'objet est visible dans la bouche. On ne le retire que s'il est visible et libre : fouiller la gorge à l'aveugle risque de l'enfoncer plus loin.
+
+## Après le geste
+
+Même quand l'objet est sorti, un avis médical est recommandé : l'étouffement, ou les gestes de secours, peuvent causer des complications. Une toux persistante, de la fièvre, des difficultés à avaler ou à respirer dans les jours qui suivent doivent faire consulter.
 
 ## À retenir
 
 - Si la personne tousse encore, la laisser tousser : c'est le geste naturel le plus efficace.
 - Cinq claques dans le dos, puis cinq compressions abdominales, en alternance.
 - La manœuvre de Heimlich ne s'utilise que si la personne ne peut plus respirer du tout.
-- Chez une femme enceinte ou une personne très corpulente, les compressions se font sur le
-  thorax, pas sur le ventre.
-- Une perte de connaissance impose de commencer immédiatement une réanimation.
+- Chez une femme enceinte ou une personne très corpulente, les compressions se font sur le thorax, pas sur le ventre.
+- Une perte de connaissance impose d'alerter les secours et de commencer immédiatement une réanimation.
 
 ```schema
 type: etapes
@@ -3238,6 +3554,20 @@ quiz:
     explanation: >
       La vitamine A joue un rôle essentiel dans la vision. Sa carence provoque souvent d'abord
       une difficulté à voir en faible lumière, avant d'autres symptômes plus graves.
+  - question: "Pourquoi une alimentation basée presque uniquement sur du riz blanchi peut-elle provoquer le béribéri ?"
+    options:
+      - "L'enveloppe du riz, riche en vitamine B1, a été retirée"
+      - "Le riz blanchi contient une substance toxique pour les nerfs"
+      - "Le riz blanchi ne contient aucun glucide utile"
+    answer: 1
+    explanation: "Le blanchiment retire l'enveloppe riche en vitamine B1 ; une carence prolongée provoque faiblesse musculaire, troubles nerveux et parfois problèmes cardiaques."
+  - question: "Que provoque un manque prolongé de vitamine D chez l'enfant ?"
+    options:
+      - "Des gencives qui saignent et une cicatrisation ralentie"
+      - "Une anémie avec fatigue intense et essoufflement"
+      - "Des os qui se minéralisent mal et se déforment : c'est le rachitisme"
+    answer: 3
+    explanation: "Sans vitamine D, produite en partie par la peau exposée au soleil, les os de l'enfant ne se minéralisent pas correctement."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3308,7 +3638,7 @@ slug: que-fait-le-foie-l-usine-chimique-du-corps
 categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
 summary: >
   Le foie fabrique la bile, stocke le sucre, produit des protéines du sang et transforme les
-  substances toxiques. Il reçoit deux arrivées de sang et sait se régénérer.
+  substances toxiques. Il reçoit deux arrivées de sang et sait se régénérer après une lésion.
 tags: [systeme-digestif]
 sources:
   - title: "Your Digestive System and How It Works"
@@ -3320,6 +3650,9 @@ sources:
   - title: "Liver"
     url: "https://en.wikipedia.org/wiki/Liver"
     publisher: "Wikipedia"
+  - title: "Liver structure and function"
+    url: "https://www.msdmanuals.com/professional/hepatic-and-biliary-disorders/approach-to-the-patient-with-liver-disease/liver-structure-and-function"
+    publisher: "MSD Manuals"
 quiz:
   - question: "Combien d'arrivées de sang le foie reçoit-il ?"
     options:
@@ -3357,7 +3690,7 @@ quiz:
     explanation: >
       Il possède une capacité de régénération remarquable : un fragment de foie peut
       reconstituer un organe entier.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -3369,13 +3702,25 @@ Le foie fabrique la bile, stocke le sucre, produit des protéines du sang et tra
 
 Le foie est le plus gros organe interne du corps humain. Il reçoit du sang par deux voies : l'artère hépatique apporte du sang riche en oxygène, et la veine porte apporte le sang chargé de nutriments venant de la digestion. Les nutriments absorbés par l'intestin passent par le foie, qui les stocke et les distribue.
 
+## Une architecture en lobules
+
+Le tissu du foie est organisé en lobules hexagonaux. Au centre de chacun passe une veine hépatique. Aux angles se trouvent des triades portes, qui réunissent une branche de la veine porte, une branche de l'artère hépatique et un petit canal biliaire.
+
+Le sang circule des bords vers le centre, au contact des cellules du foie, les hépatocytes, qui font l'essentiel du travail chimique. Les cellules proches du centre reçoivent le sang en dernier : ce sont les plus vulnérables quand l'apport en oxygène baisse.
+
 ## Trois grands rôles
 
 Ses nombreuses fonctions se regroupent en trois rôles : purifier, synthétiser et stocker. Il fabrique la bile, un liquide qui aide à digérer les graisses ; la vésicule biliaire la stocke jusqu'au repas. Il stocke le glucose sous forme de glycogène et le libère quand le corps en a besoin. Il fabrique la plupart des protéines du plasma sanguin, dont l'albumine et plusieurs facteurs de coagulation. Il transforme et élimine de nombreuses substances toxiques et déchets. Il intervient aussi dans le métabolisme des graisses et des sucres.
 
+## Un exemple : le recyclage de la bilirubine
+
+Chaque jour, la destruction des globules rouges libère 250 à 350 mg de bilirubine, un pigment jaune. Le foie la capte, la rend soluble dans l'eau, puis l'envoie dans la bile. La bile rejoint l'intestin par le canal cholédoque. Les bactéries de l'intestin transforment alors la bilirubine en pigments qui donnent sa couleur aux selles.
+
+Quand le foie ne remplit plus son rôle, les conséquences sont larges : saignements, infections, troubles de la glycémie, et confusion due à l'accumulation d'ammoniac dans le sang.
+
 ## Un champion de la réparation
 
-Il possède une capacité de régénération remarquable : un fragment de foie peut reconstituer un organe entier.
+Après une lésion, le foie peut se régénérer, parfois complètement, comme après une hépatite virale aiguë. Si les atteintes sont répétées ou touchent des lobules entiers, la réparation reste incomplète et du tissu cicatriciel, la fibrose, s'installe.
 
 ```schema
 type: systeme
@@ -3397,8 +3742,8 @@ parties:
 - Il reçoit deux arrivées de sang : l'artère hépatique, riche en oxygène, et la veine porte, chargée de nutriments.
 - Il fabrique la bile, un liquide qui aide à digérer les graisses ; la vésicule biliaire la stocke jusqu'au repas.
 - Il fabrique la plupart des protéines du plasma sanguin, dont l'albumine et plusieurs facteurs de coagulation.
-- Il transforme et élimine de nombreuses substances toxiques et déchets.
-- Il possède une capacité de régénération remarquable : un fragment de foie peut reconstituer un organe entier.
+- Il transforme et élimine de nombreuses substances toxiques et déchets, dont la bilirubine.
+- Il sait se régénérer après une lésion, mais des atteintes répétées laissent des cicatrices.
 
 ---
 
@@ -3457,6 +3802,20 @@ quiz:
     explanation: >
       Les recommandations nutritionnelles générales situent l'apport en protéines entre 10 et
       35 % de l'énergie quotidienne totale, le reste provenant des glucides et des graisses.
+  - question: "Pourquoi les micronutriments restent-ils indispensables alors qu'ils ne fournissent pas d'énergie ?"
+    options:
+      - "Ils sont transformés en glucides par le foie"
+      - "Ils sont nécessaires à de nombreux processus internes, de la formation du sang à la solidité des os"
+      - "Ils remplacent les protéines pour réparer les muscles"
+    answer: 2
+    explanation: "Vitamines et minéraux ne donnent pas d'énergie, mais le fer, l'iode, le zinc et les autres interviennent dans de nombreux processus essentiels."
+  - question: "Pourquoi la diversité alimentaire protège-t-elle mieux contre les carences qu'un aliment jugé complet ?"
+    options:
+      - "Aucun aliment unique ne couvre tous les besoins du corps"
+      - "Les aliments variés contiennent plus de calories"
+      - "Un aliment jugé complet est toujours trop riche en graisses"
+    answer: 1
+    explanation: "En combinant céréales, légumineuses, légumes, fruits et protéines variées, on couvre l'ensemble des besoins, ce qu'aucun aliment seul ne fait."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -4134,6 +4493,20 @@ quiz:
     explanation: >
       Le choléra provoque une perte d'eau si rapide et si importante que la déshydratation, et
       non la bactérie directement, représente le danger vital principal.
+  - question: "Pourquoi retirer la poignée de la pompe de Broad Street a-t-il fait reculer l'épidémie ?"
+    options:
+      - "La pompe était la seule source de nourriture du quartier"
+      - "Cela a incité les habitants à quitter le quartier"
+      - "Les habitants n'avaient plus accès à l'eau contaminée"
+    answer: 3
+    explanation: "Les décès étaient concentrés autour de cette pompe : en l'empêchant de servir, on a coupé la transmission par l'eau contaminée."
+  - question: "Quel est le traitement principal du choléra ?"
+    options:
+      - "Les antibiotiques pris dès les premiers symptômes"
+      - "Le soluté de réhydratation orale, complété par des antibiotiques dans les cas graves"
+      - "L'isolement strict du malade pendant plusieurs semaines"
+    answer: 2
+    explanation: "Comme le danger vient de la déshydratation rapide, le traitement principal est la réhydratation, avec des antibiotiques en complément pour les cas les plus graves."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -4289,6 +4662,20 @@ quiz:
     explanation: >
       Le lavage des mains et une cuisson suffisante des aliments éliminent la grande majorité des
       agents pathogènes responsables des maladies transmises par l'eau et la nourriture.
+  - question: "Laquelle de ces maladies atteint le foie et peut jaunir la peau et les yeux ?"
+    options:
+      - "L'hépatite A"
+      - "La typhoïde"
+      - "La dysenterie"
+    answer: 1
+    explanation: "L'hépatite A provoque une inflammation du foie qui peut rendre la peau et les yeux jaunes. La typhoïde donne une fièvre prolongée, la dysenterie une diarrhée souvent sanglante."
+  - question: "Quelle différence principale distingue les symptômes de la dysenterie et ceux de la typhoïde ?"
+    options:
+      - "La dysenterie se transmet par l'air, la typhoïde par l'eau"
+      - "La dysenterie donne une diarrhée souvent sanglante, la typhoïde une fièvre prolongée"
+      - "La dysenterie atteint le foie, la typhoïde l'intestin"
+    answer: 2
+    explanation: "Les deux se transmettent par l'eau et les aliments souillés, mais la dysenterie provoque surtout une diarrhée avec du sang et des crampes, la typhoïde une fièvre prolongée et des douleurs abdominales."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -4479,6 +4866,20 @@ quiz:
     explanation: >
       La psychothérapie, sous diverses formes, constitue le traitement principal du stress
       post-traumatique, parfois complétée par des médicaments prescrits par un professionnel.
+  - question: "Pourquoi toute personne exposée à un événement traumatique ne développe-t-elle pas ce trouble ?"
+    options:
+      - "Seules les victimes directes peuvent le développer"
+      - "Le trouble ne concerne que les personnes faibles"
+      - "Des expositions antérieures à l'adversité, surtout dans l'enfance, augmentent le risque, sans lien avec une faiblesse personnelle"
+    answer: 3
+    explanation: "Le risque varie selon des facteurs comme l'adversité vécue plus tôt. Cela ne reflète pas une faiblesse, et le trouble touche aussi les témoins."
+  - question: "Comment l'entourage peut-il aider au rétablissement ?"
+    options:
+      - "En offrant un soutien, sans forcer la personne à revivre l'événement avant qu'elle ne soit prête"
+      - "En l'encourageant à raconter l'événement le plus souvent possible"
+      - "En évitant d'aborder le sujet pour ne pas lui rappeler l'événement"
+    answer: 1
+    explanation: "Le soutien de l'entourage joue un rôle important, à condition de ne pas pousser la personne à revivre l'événement avant qu'elle ne soit prête."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -4933,6 +5334,13 @@ quiz:
     explanation: >
       On peut avoir une tension trop élevée sans rien ressentir. Seule une mesure régulière permet de
       la repérer.
+  - question: "Pourquoi une personne qui fume, a une tension élevée et trop de cholestérol est-elle à plus haut risque que la simple somme des trois ?"
+    options:
+      - "Parce que ces trois facteurs agissent sur des organes différents"
+      - "Parce que les effets des facteurs se multiplient au lieu de s'additionner"
+      - "Parce que le tabac annule l'effet des traitements de la tension"
+    answer: 2
+    explanation: "Les facteurs de risque se multiplient : en agir sur plusieurs à la fois réduit donc fortement le risque."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -5497,6 +5905,13 @@ quiz:
     explanation: >
       Le desserrer peut relancer l'hémorragie. Les secours ont besoin de l'heure de pose pour la
       prise en charge.
+  - question: "Pourquoi un garrot improvisé ne doit-il pas être fait avec une ficelle ou un fil trop fin ?"
+    options:
+      - "Il se dénoue trop facilement pendant le transport"
+      - "Il est trop fragile pour supporter la tension nécessaire"
+      - "Il coupe les tissus sans bien comprimer"
+    answer: 3
+    explanation: "Un lien trop fin blesse la peau sans arrêter efficacement la circulation : il faut une bande large d'au moins 3 à 4 cm."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -6501,6 +6916,13 @@ quiz:
     explanation: >
       Ces signes indiquent une déshydratation grave ou une infection sérieuse. Les nourrissons et
       les personnes âgées sont les plus fragiles.
+  - question: "Pourquoi faut-il mesurer avec soin le sel dans la solution de réhydratation maison ?"
+    options:
+      - "Trop de sel est dangereux, surtout pour un enfant"
+      - "Le sel empêcherait le sucre d'être absorbé"
+      - "Le sel donnerait un goût désagréable qui pousserait à ne pas boire"
+    answer: 1
+    explanation: "La recette de secours doit être dosée précisément : une solution trop salée est dangereuse, en particulier pour un enfant."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -6943,6 +7365,12 @@ sources:
   - title: "Human body temperature"
     url: "https://en.wikipedia.org/wiki/Human_body_temperature"
     publisher: "Wikipedia"
+  - title: "THERMORÉGULATION, biologie"
+    url: "https://www.universalis.fr/index/thermoregulation-biologie/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "Secrets of the body's thermostat could spark health innovations"
+    url: "https://cordis.europa.eu/article/id/460529-secrets-of-the-body-s-thermostat-could-spark-health-innovations/fr"
+    publisher: "CORDIS (Commission européenne)"
 quiz:
   - question: "Quelle partie du cerveau joue le rôle de thermostat ?"
     options:
@@ -9211,6 +9639,13 @@ quiz:
     explanation: >
       Le tétanos provoque des contractures musculaires graves. Le vaccin est très efficace, mais
       demande des rappels réguliers.
+  - question: "Pourquoi une morsure nécessite-t-elle un avis médical ?"
+    options:
+      - "Elle saigne toujours beaucoup plus qu'une coupure"
+      - "Elle s'infecte très souvent et peut exposer à la rage dans certaines régions"
+      - "Elle ne cicatrise jamais sans points de suture"
+    answer: 2
+    explanation: "Les morsures, animales ou humaines, s'infectent très souvent, et certaines exposent à la rage dans les régions concernées."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -9397,6 +9832,13 @@ quiz:
     explanation: >
       Un médecin ou un psychologue peut aider. En cas d'idées suicidaires, le 3114 répond jour et
       nuit en France.
+  - question: "Pourquoi l'alcool, le tabac et les excès de café aggravent-ils le stress ?"
+    options:
+      - "Ils augmentent la production d'adrénaline pendant plusieurs jours"
+      - "Ils réduisent la durée du sommeil de façon définitive"
+      - "Ils soulagent sur le moment mais aggravent l'anxiété et le sommeil"
+    answer: 3
+    explanation: "Ces substances donnent un soulagement immédiat, mais elles dégradent ensuite l'anxiété et le sommeil, ce qui entretient le stress."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -9869,6 +10311,13 @@ quiz:
     explanation: >
       Pour une dépression légère à modérée, l'exercice aide nettement. En cas de dépression sévère, il
       s'ajoute aux soins prescrits par un professionnel.
+  - question: "Pourquoi conseille-t-on de viser très bas au début quand on se sent déprimé ?"
+    options:
+      - "Parce que l'énergie et la motivation manquent, ce qui est normal, et qu'un petit objectif aide à démarrer"
+      - "Parce qu'un effort important est dangereux pour une personne déprimée"
+      - "Parce que seuls les efforts très courts ont un effet sur l'humeur"
+    answer: 1
+    explanation: "La dépression réduit l'énergie et la motivation : commencer par dix minutes de marche, par exemple, rend le démarrage possible."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -10069,6 +10518,9 @@ sources:
   - title: "Antibody"
     url: "https://en.wikipedia.org/wiki/Antibody"
     publisher: "Wikipedia"
+  - title: "Médecine/Sciences, article msc190190 (PDF)"
+    url: "https://www.medecinesciences.org/articles/medsci/pdf/2019/12/msc190190.pdf"
+    publisher: "Médecine/Sciences"
 quiz:
   - question: "Quelle forme a un anticorps ?"
     options:
@@ -12399,7 +12851,7 @@ slug: pourquoi-l-estomac-ne-se-digere-t-il-pas-lui-meme
 categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
 summary: >
   L'estomac baigne les aliments dans un acide fort et des enzymes. Il ne se digère pas lui-même,
-  car sa paroi sécrète une couche de mucus qui la protège.
+  car sa paroi sécrète un gel de mucus et du bicarbonate qui la protègent.
 tags: [systeme-digestif]
 sources:
   - title: "Your Digestive System and How It Works"
@@ -12411,6 +12863,10 @@ sources:
   - title: "Stomach"
     url: "https://en.wikipedia.org/wiki/Stomach"
     publisher: "Wikipedia"
+  - title: "Allen A., Flemström G. - Gastroduodenal mucus bicarbonate barrier: protection against acid and pepsin"
+    url: "https://eprints.ncl.ac.uk/71314"
+    publisher: "Newcastle University / American Journal of Physiology - Cell Physiology"
+    date: "2005"
 quiz:
   - question: "Qu'est-ce qui protège la paroi de l'estomac de l'acide ?"
     options:
@@ -12446,7 +12902,7 @@ quiz:
     answer: 2
     explanation: >
       L'essentiel de l'absorption des nutriments se fait plus loin, dans l'intestin grêle.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -12460,7 +12916,19 @@ L'estomac est un organe musculaire creux, situé entre l'œsophage et l'intestin
 
 ## Un bain d'acide, un bouclier de mucus
 
-Le suc gastrique contient de l'acide chlorhydrique et des enzymes comme la pepsine, qui coupe les protéines en morceaux plus petits. L'estomac est un milieu très acide. Une couche de mucus et de bicarbonate, sécrétée par la paroi, la protège de l'acide. Une bactérie, Helicobacter pylori, peut infecter la paroi de l'estomac et provoquer une gastrite ou un ulcère.
+Le suc gastrique contient de l'acide chlorhydrique et des enzymes comme la pepsine, qui coupe les protéines en morceaux plus petits. L'estomac est un milieu très acide. Une couche de mucus et de bicarbonate, sécrétée par la paroi, la protège de l'acide.
+
+Le danger vient autant de la pepsine que de l'acide. Cette enzyme découpe les protéines des aliments, et la paroi de l'estomac est elle-même faite de protéines.
+
+## Un gradient de pH dans le mucus
+
+La protection ne repose pas sur le mucus seul. La paroi sécrète du bicarbonate dans le gel de mucus qui la recouvre. Ce gel adhère à la paroi et reste stable, sans être brassé. Le bicarbonate a donc le temps de neutraliser l'acide qui s'y infiltre.
+
+Il en résulte un gradient : le milieu est très acide dans la cavité de l'estomac, presque neutre au contact des cellules. Le gel gêne aussi l'arrivée de la pepsine jusqu'à la paroi. Dans une revue publiée en 2005, les chercheurs Allen et Flemström jugent cette barrière suffisante, en conditions normales, pour protéger la muqueuse de l'acide et de la pepsine.
+
+## Quand la barrière cède
+
+La paroi n'est donc pas insensible à l'acide : elle est défendue par un système actif de sécrétions. Si cette défense est affaiblie, acide et pepsine peuvent attaquer la paroi. Une bactérie, Helicobacter pylori, peut infecter la paroi de l'estomac et provoquer une gastrite ou un ulcère.
 
 ## Et ensuite ?
 
@@ -12484,9 +12952,8 @@ colonnes:
 - Ses contractions brassent les aliments avec le suc gastrique, ce qui les transforme en une pâte appelée chyme.
 - Le suc gastrique contient de l'acide chlorhydrique et des enzymes comme la pepsine, qui coupe les protéines en morceaux plus petits.
 - Une couche de mucus et de bicarbonate, sécrétée par la paroi, la protège de l'acide.
-- Le pylore laisse passer le chyme petit à petit dans l'intestin grêle.
+- Le bicarbonate crée un gradient de pH : très acide dans la cavité, presque neutre au contact des cellules.
 - Des cellules de l'estomac fabriquent aussi le facteur intrinsèque, nécessaire à l'absorption de la vitamine B12 dans l'intestin grêle.
-
 ---
 type: article
 title: Le role du foie dans la digestion des graisses
@@ -15899,6 +16366,13 @@ quiz:
     explanation: >
       Le virus de la grippe change chaque année, et les personnes âgées font plus de formes graves :
       le vaccin est renouvelé à chaque saison.
+  - question: "Que faire quand un vaccin a été oublié ?"
+    options:
+      - "Recommencer tout le programme depuis le début"
+      - "Renoncer à ce vaccin car il est trop tard"
+      - "Reprendre le programme là où il s'était arrêté : c'est le rattrapage"
+    answer: 3
+    explanation: "Un retard n'oblige pas à tout recommencer : on poursuit le calendrier à partir de la dernière dose reçue."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -16536,6 +17010,9 @@ sources:
   - title: "Altitude sickness"
     url: "https://en.wikipedia.org/wiki/Altitude_sickness"
     publisher: "Wikipedia"
+  - title: "Mal aigu montagne (PDF)"
+    url: "https://www.ffme.fr/wp-content/uploads/2019/06/mal-aigu-montagne.pdf"
+    publisher: "Fédération française de la montagne et de l'escalade"
 quiz:
   - question: "Que change-t-il dans l'air en altitude ?"
     options:
@@ -16637,6 +17114,9 @@ sources:
   - title: "C-reactive protein"
     url: "https://en.wikipedia.org/wiki/C-reactive_protein"
     publisher: "Wikipedia"
+  - title: "Inflammation de bas grade et microbiote intestinal"
+    url: "https://www.em-consulte.com/article/1648846/inflammation-de-bas-grade-et-microbiote-intestinal"
+    publisher: "EM-Consulte"
 quiz:
   - question: "Qu'est-ce que l'inflammation ?"
     options:
@@ -16834,8 +17314,8 @@ title: Pourquoi un bébé a-t-il plus d'os qu'un adulte ?
 slug: pourquoi-un-bebe-a-t-il-plus-d-os-qu-un-adulte
 categoryPath: corps-humain-et-sante/anatomie
 summary: >
-  Un bébé naît avec environ 300 os, un adulte en a 206. La différence vient de la soudure de
-  nombreux os pendant la croissance, et du cartilage qui se transforme en os.
+  Un bébé naît avec environ 300 os, un adulte en a 206. Il n'a pas de matière en plus : beaucoup
+  d'os se soudent pendant la croissance, et le cartilage se transforme peu à peu en os.
 tags: [anatomie]
 sources:
   - title: "Squelette humain"
@@ -16886,7 +17366,7 @@ quiz:
     explanation: >
       Par exemple, plusieurs vertèbres du bas du dos se soudent pour former un seul os, le
       sacrum, et certains os du crâne et du bassin se soudent aussi.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -16898,13 +17378,23 @@ Un bébé naît avec environ 300 os, un adulte en a 206. La différence vient de
 
 Un bébé naît avec environ 300 os. Un adulte a 206 os. Le nombre exact dépend de la façon de compter les os, car certains se soudent ou varient d'une personne à l'autre.
 
+Il ne s'agit pas d'os en plus qui disparaîtraient. C'est la même matière répartie en plus de morceaux, qui se rejoignent avec l'âge.
+
 ## Des os qui se soudent
 
 La différence vient du fait que beaucoup d'os du bébé se soudent entre eux pendant la croissance. Par exemple, plusieurs vertèbres du bas du dos se soudent pour former un seul os, le sacrum, et certains os du crâne et du bassin se soudent aussi.
 
+## Un crâne qui ne se ferme pas tout de suite
+
+Chez le nouveau-né, les os du crâne ne sont pas encore soudés. Les espaces qui les séparent, les fontanelles, sont recouverts d'une membrane souple. Ils permettent à la tête de se déformer légèrement pendant l'accouchement et laissent de la place à la croissance rapide du cerveau. Ils se ferment progressivement pendant la petite enfance.
+
 ## Du cartilage à l'os
 
-Chez le bébé, certains os sont entièrement faits de cartilage, une matière souple, et d'autres en contiennent en partie. Pendant l'enfance, le cartilage grandit et est remplacé peu à peu par de l'os, grâce au calcium. La croissance des os se termine, et la masse osseuse atteint son maximum, au début de l'âge adulte.
+Chez le bébé, certains os sont entièrement faits de cartilage, une matière souple, et d'autres en contiennent en partie. Pendant l'enfance, le cartilage grandit et est remplacé peu à peu par de l'os, grâce au calcium. L'os s'allonge pendant l'enfance, puis le corps continue de le renouveler toute la vie.
+
+## Des plaques de croissance
+
+Les os longs, comme le fémur, s'allongent grâce à des zones de cartilage situées près de leurs extrémités, les plaques de croissance. Le cartilage s'y multiplie, puis se minéralise et devient de l'os, ce qui allonge l'os petit à petit. À la fin de l'adolescence, ces plaques se ferment et l'os cesse de s'allonger.
 
 ## Un squelette complet
 
@@ -16928,8 +17418,7 @@ valeurs:
 - Un adulte a 206 os.
 - La différence vient du fait que beaucoup d'os du bébé se soudent entre eux pendant la croissance.
 - Chez le bébé, certains os sont entièrement faits de cartilage, une matière souple, et d'autres en contiennent en partie.
-- La croissance des os se termine, et la masse osseuse atteint son maximum, au début de l'âge adulte.
-
+- Les os longs s'allongent grâce aux plaques de croissance, qui se ferment à la fin de l'adolescence.
 ---
 type: article
 title: Pourquoi manquer de sommeil affaiblit-il les défenses du corps ?
@@ -16949,6 +17438,10 @@ sources:
   - title: "Sommeil"
     url: "https://fr.wikipedia.org/wiki/Sommeil"
     publisher: "Wikipédia"
+  - title: "NIH-funded study shows sound sleep supports immune function"
+    url: "https://www.nhlbi.nih.gov/news/2022/nih-funded-study-shows-sound-sleep-supports-immune-function"
+    publisher: "National Heart, Lung, and Blood Institute (NIH)"
+    date: "2022"
 quiz:
   - question: "Que fait le manque de sommeil au système immunitaire ?"
     options:
@@ -16985,7 +17478,7 @@ quiz:
     answer: 3
     explanation: >
       Les mécanismes précis par lesquels le sommeil renforce l'immunité sont encore mal compris.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -17001,9 +17494,17 @@ Le manque de sommeil altère la fonction immunitaire : le sommeil aide le corps 
 
 Les personnes qui dorment peu sont plus exposées aux infections, comme le rhume ou la grippe. Après un vaccin contre la grippe, des personnes qui dormaient mal ont produit nettement moins d'anticorps.
 
+## Une expérience de six semaines
+
+En 2022, une étude parue dans le Journal of Experimental Medicine, en partie financée par les instituts de santé américains, a testé l'effet d'un sommeil raccourci. Quatorze adultes ont suivi deux périodes de six semaines, séparées par six semaines de repos : une avec environ 7,5 heures de sommeil par nuit, l'autre avec environ 6 heures. Des prises de sang ont eu lieu pendant les deux dernières semaines de chaque période.
+
+Avec un sommeil réduit, les participants avaient davantage de monocytes, un type de globules blancs, dans le sang l'après-midi. Ils avaient aussi plus de cellules souches immunitaires et des signes d'activation du système immunitaire. Selon l'un des auteurs, ces changements ne sont pas permanents.
+
+Cette étude a des limites : l'échantillon est très petit, et les résultats décrivent des associations, pas une preuve de cause.
+
 ## Des gènes qui changent
 
-Le manque de sommeil modifie l'expression de gènes qui régulent les rythmes du corps, le métabolisme et l'immunité. Les rythmes du corps sont réglés par une horloge interne qui possède ses propres gènes. Une nuit comprend plusieurs cycles de sommeil, avec du sommeil lent profond et du sommeil paradoxal.
+Le manque de sommeil modifie l'expression de gènes qui régulent les rythmes du corps, le métabolisme et l'immunité. Les rythmes du corps sont réglés par une horloge interne qui possède ses propres gènes.
 
 ## Ce qu'on ignore encore
 
@@ -17024,9 +17525,8 @@ elements:
 - Le manque de sommeil altère la fonction immunitaire : le sommeil aide le corps à restaurer ses défenses et à les faire fonctionner.
 - Le manque de sommeil augmente la production de cytokines inflammatoires, des messagers du système immunitaire.
 - Les personnes qui dorment peu sont plus exposées aux infections, comme le rhume ou la grippe.
-- Le manque de sommeil modifie l'expression de gènes qui régulent les rythmes du corps, le métabolisme et l'immunité.
+- Une étude de 2022 sur 14 adultes a montré, avec 6 heures de sommeil au lieu de 7,5, plus de monocytes et de cellules souches immunitaires.
 - Les mécanismes précis par lesquels le sommeil renforce l'immunité sont encore mal compris.
-
 ---
 type: article
 title: Le cœur et la flore intestinale
@@ -17061,6 +17561,9 @@ sources:
   - title: "Sommeil"
     url: "https://fr.wikipedia.org/wiki/Sommeil"
     publisher: "Wikipédia"
+  - title: "RMS 604 883 (PDF)"
+    url: "https://www.revmed.ch/view/429274/3704454/RMS_604_883.pdf"
+    publisher: "Revue Médicale Suisse"
 quiz:
   - question: "Comment appelle-t-on le sursaut qui survient à l'endormissement ?"
     options:
@@ -17176,6 +17679,9 @@ sources:
   - title: "Empathy"
     url: "https://en.wikipedia.org/wiki/Empathy"
     publisher: "Wikipedia"
+  - title: "Le bâillement, au-delà d'un mécanisme automatique"
+    url: "https://www.espace-sciences.org/sciences-ouest/416/actualite/le-baillement-au-dela-d-un-mecanisme-automatique?page=9"
+    publisher: "Espace des sciences (Sciences Ouest)"
 quiz:
   - question: "Quels animaux bâillent ?"
     options:
@@ -17306,6 +17812,13 @@ quiz:
     explanation: >
       Par forte chaleur, on peut mourir de déshydratation en moins d'un jour. Au repos et au frais,
       on tient plus longtemps.
+  - question: "Pourquoi l'eau passe-t-elle avant la nourriture dans l'ordre des priorités ?"
+    options:
+      - "Le corps perd plusieurs litres d'eau par jour alors qu'il a des réserves de graisse pour plusieurs semaines"
+      - "L'eau fournit l'énergie dont le corps a besoin pour marcher"
+      - "La nourriture est dangereuse à consommer en situation de survie"
+    answer: 1
+    explanation: "Sans boire, la déshydratation devient dangereuse en deux à quatre jours, alors que la faim tue lentement, le corps puisant dans ses réserves pendant des semaines."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -17437,6 +17950,13 @@ quiz:
     explanation: >
       En cas de coupure générale, les réseaux mobiles peuvent tomber. La radio reste souvent le
       dernier moyen de recevoir l'information officielle.
+  - question: "Quelle est la différence entre le stock à domicile et le sac d'évacuation ?"
+    options:
+      - "Le stock sert à rester chez soi quelques jours, le sac est un minimum léger prêt près de la porte pour partir vite"
+      - "Le stock contient seulement de l'eau, tandis que le sac d'évacuation contient uniquement les documents et l'argent"
+      - "Le stock est prévu pour une journée, alors que le sac d'évacuation doit tenir au moins une semaine"
+    answer: 1
+    explanation: "Le texte distingue le stock à domicile, pour rester chez soi, du sac d'évacuation, léger et prêt près de la porte avec le minimum pour 72 heures, documents et médicaments."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -17584,6 +18104,13 @@ quiz:
     explanation: >
       On la manipule doucement. L'alcool dilate les vaisseaux de la peau et aggrave la perte de
       chaleur.
+  - question: "Chez une personne en hypothermie, que signifie l'arrêt des frissons ?"
+    options:
+      - "Le corps s'est réchauffé et le danger est passé"
+      - "La personne s'est habituée au froid et peut reprendre son effort"
+      - "Le stade est grave : la personne devient somnolente puis inconsciente"
+    answer: 3
+    explanation: "Au stade grave, les frissons s'arrêtent, la personne devient somnolente puis inconsciente et le coeur ralentit : c'est une aggravation, pas une amélioration."
 lastVerified: 2026-11-07
 status: published
 ---
