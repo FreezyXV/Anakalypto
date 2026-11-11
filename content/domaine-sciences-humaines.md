@@ -2854,6 +2854,13 @@ sources:
     url: "https://en.wikipedia.org/wiki/History_of_accounting"
     publisher: "Wikipedia"
     date: "2025"
+  - title: "Pacioli's innovation in accounting: business or academic affairs"
+    url: "https://www.um.edu.mt/library/oar/bitstream/123456789/31139/1/Pacioli%e2%80%99s_innovation_in_accounting_business_or_academic_affairs_2014.pdf"
+    publisher: "University of Malta"
+    date: "2014"
+  - title: "Lost in Translation (Accounting History)"
+    url: "https://abdn.elsevierpure.com/files/222838131/Sangster_etal_AH_Lost_in_Translation_VOR.pdf"
+    publisher: "University of Aberdeen"
 quiz:
   - question: "Que signifie le principe de base de la comptabilité en partie double ?"
     options:
@@ -3797,6 +3804,9 @@ sources:
     url: "https://en.wikipedia.org/wiki/Governing_the_Commons"
     publisher: "Wikipedia"
     date: "2025"
+  - title: "Les communs, « tragédie » ou système de préservation des ressources ?"
+    url: "https://www.universalis.fr/encyclopedie/communs/2-des-biens-rivaux-exclusifs-et-geres-selon-des-regles-collectives/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Que soutenait la théorie de la tragédie des biens communs avant les travaux d'Elinor Ostrom ?"
     options:
@@ -3976,6 +3986,9 @@ sources:
     url: "https://en.wikipedia.org/wiki/Oral_tradition"
     publisher: "Wikipedia"
     date: "2025"
+  - title: "Compagnonnage, network of knowledge and identity in apprenticeship"
+    url: "https://ich.unesco.org/en/RL/the-compagnonnage-network-of-knowledge-and-identity-in-apprenticeship-00441"
+    publisher: "UNESCO"
 quiz:
   - question: "Comment fonctionnait traditionnellement l'apprentissage d'un métier avant la
       généralisation des écoles ?"
@@ -6031,6 +6044,9 @@ sources:
   - title: "Radiocarbon dating"
     url: "https://en.wikipedia.org/wiki/Radiocarbon_dating"
     publisher: "Wikipedia"
+  - title: "Radiocarbon Dating 101"
+    url: "https://www.texasbeyondhistory.net/radiocarbon/dating101.html"
+    publisher: "Texas Beyond History (University of Texas at Austin, Texas Historical Commission)"
 quiz:
   - question: "Où se forme le carbone 14 ?"
     options:
@@ -6337,6 +6353,9 @@ sources:
   - title: "Dendrochronology"
     url: "https://en.wikipedia.org/wiki/Dendrochronology"
     publisher: "Wikipedia"
+  - title: "Lire dans les cernes des arbres"
+    url: "https://www.academie-agriculture.fr/sites/default/files/publications/encyclopedie/lire_dans_les_cernes_des_arbres.pdf"
+    publisher: "Académie d'agriculture de France"
 quiz:
   - question: "Combien de cernes un arbre fabrique-t-il en général chaque année ?"
     options:
@@ -6782,6 +6801,9 @@ sources:
   - title: "Spear-thrower"
     url: "https://en.wikipedia.org/wiki/Spear-thrower"
     publisher: "Wikipedia"
+  - title: "Le propulseur (article)"
+    url: "https://orbi.uliege.be/bitstream/2268/177319/1/propulseurbcw-49_p.105-131.pdf"
+    publisher: "Université de Liège"
 quiz:
   - question: "Comment le propulseur aide-t-il à lancer plus vite ?"
     options:
@@ -7519,6 +7541,9 @@ sources:
   - title: "Abraham Wald"
     url: "https://fr.wikipedia.org/wiki/Abraham_Wald"
     publisher: "Wikipédia"
+  - title: "Survivorship bias"
+    url: "https://www.britannica.com/science/survivorship-bias"
+    publisher: "Encyclopaedia Britannica"
 quiz:
   - question: "Où le statisticien Abraham Wald a-t-il conseillé de renforcer les avions ?"
     options:
@@ -8008,6 +8033,9 @@ sources:
   - title: "Multitasking"
     url: "https://fr.wikipedia.org/wiki/Multitasking"
     publisher: "Wikipédia"
+  - title: "Can we really do two things at once?"
+    url: "https://cordis.europa.eu/article/id/466274-can-we-really-do-two-things-at-once/fr"
+    publisher: "CORDIS (Commission européenne)"
 quiz:
   - question: "Que fait vraiment le cerveau quand on croit faire deux choses à la fois ?"
     options:
@@ -10953,6 +10981,10 @@ sources:
   - title: "Network effect"
     url: "https://en.wikipedia.org/wiki/Network_effect"
     publisher: "Wikipedia"
+  - title: "Monopole de fait : l'Autorité de la concurrence délivre un avis"
+    url: "https://www.concurrences.com/en/review/issues/no-2-2017/chroniques/unilateral-practices-5869/monopole-de-fait-l-autorite-de-la-concurrence-delivre-un-avis-sur-les"
+    publisher: "Concurrences (revue de droit de la concurrence)"
+    date: "2017"
 quiz:
   - question: "Pourquoi un monopole vend-il en général plus cher qu'un marché concurrentiel ?"
     options:
@@ -13974,6 +14006,9 @@ sources:
   - title: "Factory Acts"
     url: "https://en.wikipedia.org/wiki/Factory_Acts"
     publisher: "Wikipedia"
+  - title: "Luddite"
+    url: "https://www.britannica.com/event/Luddite"
+    publisher: "Encyclopaedia Britannica"
 quiz:
   - question: "Où commence la révolution industrielle ?"
     options:
@@ -14280,6 +14315,9 @@ sources:
   - title: "Hyperbolic discounting"
     url: "https://en.wikipedia.org/wiki/Hyperbolic_discounting"
     publisher: "Wikipedia"
+  - title: "Just do it tomorrow: Procrastination in Tunisian university students"
+    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9480316/"
+    publisher: "European Psychiatry (Cambridge University Press)"
 quiz:
   - question: "Procrastiner, est-ce seulement de la paresse ?"
     options:
@@ -14381,6 +14419,12 @@ sources:
   - title: "Confirmation bias"
     url: "https://en.wikipedia.org/wiki/Confirmation_bias"
     publisher: "Wikipedia"
+  - title: "Could 'inoculation' limit misinformation?"
+    url: "https://news.cornell.edu/node/329707"
+    publisher: "Cornell University"
+  - title: "Lessons learned inoculation misinformation"
+    url: "https://www.hsph.harvard.edu/chc/2022/10/14/lessons-learned-inoculation-misinformation/"
+    publisher: "Harvard T.H. Chan School of Public Health"
 quiz:
   - question: "Quelle est la différence entre mésinformation et désinformation ?"
     options:
@@ -14481,6 +14525,12 @@ sources:
   - title: "Économie comportementale"
     url: "https://fr.wikipedia.org/wiki/%C3%89conomie_comportementale"
     publisher: "Wikipédia"
+  - title: "The Affect Heuristic"
+    url: "https://longevity.stanford.edu/?p=21198"
+    publisher: "Stanford Center on Longevity"
+  - title: "Rational Actors or Rational Fools? Implications of the Affect Heuristic for Behavioral Economics"
+    url: "https://longevity.stanford.edu/rational-actors-or-rational-fools-implications-of-the-affect-heuristic-for-behavioral-economics/"
+    publisher: "Stanford Center on Longevity"
 quiz:
   - question: "Que fait l'heuristique d'affect ?"
     options:
@@ -14575,6 +14625,9 @@ sources:
   - title: "Rumeur d'Orléans"
     url: "https://fr.wikipedia.org/wiki/Rumeur_d%27Orl%C3%A9ans"
     publisher: "Wikipédia"
+  - title: "Rumor"
+    url: "https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/rumor"
+    publisher: "Encyclopedia.com"
 quiz:
   - question: "Qu'est-ce qu'une rumeur ?"
     options:
@@ -14671,6 +14724,12 @@ sources:
   - title: "Économie comportementale"
     url: "https://fr.wikipedia.org/wiki/%C3%89conomie_comportementale"
     publisher: "Wikipédia"
+  - title: "Improving regulation and outcomes through behavioural insights"
+    url: "https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2018_9789264303072-en/full-report/improving-regulation-and-outcomes-through-behavioural-insights_g1g97944"
+    publisher: "OECD"
+  - title: "Behavioural insights"
+    url: "https://oecd-opsi.org/guide/behavioural-insights/"
+    publisher: "OECD Observatory of Public Sector Innovation"
 quiz:
   - question: "Qu'est-ce qu'un nudge ?"
     options:
@@ -14864,6 +14923,9 @@ sources:
   - title: "Price revolution"
     url: "https://en.wikipedia.org/wiki/Price_revolution"
     publisher: "Wikipedia"
+  - title: "American Treasure and the Price Revolution in Spain, 1501-1650 (compte rendu)"
+    url: "https://eh.net/book_reviews/american-treasure-and-the-price-revolution-in-spain-1501-1650/"
+    publisher: "EH.net (Economic History Association)"
 quiz:
   - question: "Comment Bodin explique-t-il la hausse des prix ?"
     options:
@@ -15220,6 +15282,9 @@ sources:
   - title: "Rule of 72"
     url: "https://en.wikipedia.org/wiki/Rule_of_72"
     publisher: "Wikipedia"
+  - title: "Intérêts composés"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/501409/interets-composes"
+    publisher: "Office québécois de la langue française"
 quiz:
   - question: "Que sont les intérêts composés ?"
     options:
@@ -15674,6 +15739,9 @@ sources:
   - title: "Anchoring effect"
     url: "https://en.wikipedia.org/wiki/Anchoring_effect"
     publisher: "Wikipedia"
+  - title: "Principled Negotiation: Focus on Interests to Create Value"
+    url: "https://www.pon.harvard.edu/daily/negotiation-skills-daily/principled-negotiation-focus-interests-create-value/"
+    publisher: "Harvard Program on Negotiation"
 quiz:
   - question: "Qu'est-ce que la « meilleure solution de repli » dans une négociation ?"
     options:
@@ -16100,6 +16168,10 @@ sources:
   - title: "Rhétorique"
     url: "https://fr.wikipedia.org/wiki/Rh%C3%A9torique"
     publisher: "Wikipédia"
+  - title: "Fear of public speaking can be conquered: new research"
+    url: "https://lighthouse.mq.edu.au/article/may-2025/fear-of-public-speaking-can-be-conquered-new-research"
+    publisher: "Macquarie University"
+    date: "2025"
 quiz:
   - question: "Quelle est la première chose à définir avant de préparer une intervention ?"
     options:
@@ -16250,6 +16322,9 @@ sources:
   - title: "Active listening"
     url: "https://en.wikipedia.org/wiki/Active_listening"
     publisher: "Wikipedia"
+  - title: "Communication non violente et écoute active (diaporama)"
+    url: "https://plateformepolecalais.etab.ac-lille.fr/files/2021/12/Communication-non-violente-et-ecoute-active-Diapos-Journee-QVT-Calais-1-CNV.pdf"
+    publisher: "Académie de Lille (Éducation nationale)"
 quiz:
   - question: "Qu'est-ce que reformuler, dans l'écoute active ?"
     options:
@@ -16546,6 +16621,12 @@ sources:
   - title: "Professional network service"
     url: "https://en.wikipedia.org/wiki/Professional_network_service"
     publisher: "Wikipedia"
+  - title: "The Strength of Weak Ties"
+    url: "https://apice.unibo.it/xwiki/bin/view/Publication/GranovetterAjs78"
+    publisher: "Università di Bologna (APICE)"
+  - title: "The Strength of Weak Ties"
+    url: "https://smg.media.mit.edu/classes/library/granovetter.weak.ties/granovetter.html"
+    publisher: "MIT Media Lab"
 quiz:
   - question: "Qu'a montré Mark Granovetter sur la force des liens faibles ?"
     options:

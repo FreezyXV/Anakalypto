@@ -1533,6 +1533,9 @@ sources:
   - title: "Vital signs"
     url: "https://en.wikipedia.org/wiki/Vital_signs"
     publisher: "Wikipedia"
+  - title: "Polycopie de sémiologie clinique"
+    url: "https://ufr3s.univ-lille.fr/fileufr3s/user_upload/ufr3s-formations/medecine-scolarite/stages-gardes/reforme-second-cycle/polycopie-semiologie-clinique.pdf"
+    publisher: "Université de Lille, UFR3S"
 quiz:
   - question: "Qui a inventé le stéthoscope, en 1816 ?"
     options:
@@ -3106,6 +3109,9 @@ sources:
   - title: "Svalbard Global Seed Vault"
     url: "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault"
     publisher: "Wikipedia"
+  - title: "Production et conservation des semences"
+    url: "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/agriculture/agriculture-urbaine/preparer-entretenir-potager/production-conservation-semences"
+    publisher: "Gouvernement du Québec"
 quiz:
   - question: "Pourquoi ne garde-t-on pas les graines d'une variété hybride F1 ?"
     options:
@@ -3274,6 +3280,9 @@ sources:
   - title: "Phylloxera"
     url: "https://fr.wikipedia.org/wiki/Phylloxera"
     publisher: "Wikipédia"
+  - title: "NOVAE2022 art02 (INRAE)"
+    url: "https://hal.inrae.fr/hal-04622298/file/NOVAE2022_art02.pdf"
+    publisher: "INRAE"
 quiz:
   - question: "Pourquoi greffe-t-on les pommiers plutôt que de semer leurs pépins ?"
     options:
@@ -3448,6 +3457,9 @@ sources:
   - title: "Grande famine en Irlande"
     url: "https://fr.wikipedia.org/wiki/Grande_famine_en_Irlande"
     publisher: "Wikipédia"
+  - title: "Les plantes qui nourrissent le monde (FAO Stories)"
+    url: "https://www.fao.org/fao-stories/article/fr/c/1676730/"
+    publisher: "Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO)"
 quiz:
   - question: "Pourquoi les légumineuses enrichissent-elles le sol ?"
     options:
@@ -4698,6 +4710,9 @@ sources:
   - title: "Mulch"
     url: "https://en.wikipedia.org/wiki/Mulch"
     publisher: "Wikipedia"
+  - title: "Guide : comment bien pailler son jardin"
+    url: "https://librairie.ademe.fr/ged/9527/guide-comment-bien-pailler-jardin.pdf"
+    publisher: "ADEME"
 quiz:
   - question: "Pourquoi un sol paillé garde-t-il mieux son eau ?"
     options:
@@ -5227,6 +5242,9 @@ sources:
   - title: "Zea (plant)"
     url: "https://en.wikipedia.org/wiki/Zea_(plant)"
     publisher: "Wikipedia"
+  - title: "Article PMC2664021 (titre non affiché dans le résultat)"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/2664021/"
+    publisher: "National Institutes of Health (PubMed Central)"
 quiz:
   - question: "Quel est l'ancêtre sauvage du maïs ?"
     options:
@@ -5399,6 +5417,9 @@ sources:
   - title: "Svalbard Global Seed Vault"
     url: "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault"
     publisher: "Wikipedia"
+  - title: "Svalbard Global Seed Vault"
+    url: "https://www.britannica.com/EBchecked/topic/1278353/Svalbard-Global-Seed-Vault"
+    publisher: "Britannica"
 quiz:
   - question: "À quelle température les graines sont-elles conservées au Svalbard ?"
     options:
@@ -6454,6 +6475,9 @@ sources:
   - title: "Recombinant DNA"
     url: "https://en.wikipedia.org/wiki/Recombinant_DNA"
     publisher: "Wikipedia"
+  - title: "Endocrine Reviews, 42(3), article 374 (titre non affiché dans le résultat)"
+    url: "https://academic.oup.com/edrv/article/42/3/374/6042201"
+    publisher: "Oxford University Press (Endocrine Reviews)"
 quiz:
   - question: "Quel organe fabrique l'insuline dans le corps ?"
     options:
@@ -6641,6 +6665,9 @@ sources:
   - title: "Industrial enzymes"
     url: "https://en.wikipedia.org/wiki/Industrial_enzymes"
     publisher: "Wikipedia"
+  - title: "Enzyme Technology: detergent (cours)"
+    url: "https://water.lsbu.ac.uk/water/enztech/detergent.html"
+    publisher: "London South Bank University"
 quiz:
   - question: "Qu'est-ce qu'une enzyme ?"
     options:
@@ -7558,6 +7585,9 @@ sources:
   - title: "Medical ultrasound"
     url: "https://en.wikipedia.org/wiki/Medical_ultrasound"
     publisher: "Wikipedia"
+  - title: "Cours 6 : Échographie 1"
+    url: "https://arche.univ-lorraine.fr/pluginfile.php/4910298/mod_resource/content/0/Cours6_Echographie1.pdf"
+    publisher: "Université de Lorraine"
 quiz:
   - question: "Que sont les ultrasons ?"
     options:
@@ -8124,6 +8154,9 @@ sources:
   - title: "Observer-expectancy effect"
     url: "https://en.wikipedia.org/wiki/Observer-expectancy_effect"
     publisher: "Wikipedia"
+  - title: "essai à double insu"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8873411/essai-a-double-insu"
+    publisher: "Office québécois de la langue française"
 quiz:
   - question: "Dans un essai en double aveugle, qui ignore quel traitement reçoit chaque patient ?"
     options:
@@ -8254,6 +8287,9 @@ sources:
   - title: "Placebo"
     url: "https://en.wikipedia.org/wiki/Placebo"
     publisher: "Wikipedia"
+  - title: "L'effet nocebo, un agent de l'ombre à débusquer"
+    url: "https://www.vidal.fr/actualites/38366-l-effet-nocebo-un-agent-de-l-ombre-a-debusquer.html"
+    publisher: "Vidal"
 quiz:
   - question: "Que veut dire le mot latin « placebo » ?"
     options:
@@ -8918,6 +8954,9 @@ sources:
   - title: "Pénicilline"
     url: "https://fr.wikipedia.org/wiki/P%C3%A9nicilline"
     publisher: "Wikipédia"
+  - title: "Antibiotiques : quand les bactéries font de la résistance"
+    url: "https://www.pasteur.fr/fr/journal-recherche/dossiers/antibiotiques-quand-bacteries-font-resistance"
+    publisher: "Institut Pasteur"
 quiz:
   - question: "Quelle partie de la bactérie les pénicillines attaquent-elles ?"
     options:
@@ -12325,6 +12364,9 @@ sources:
   - title: "Nouvelles techniques génomiques"
     url: "https://fr.wikipedia.org/wiki/Nouvelles_techniques_g%C3%A9nomiques"
     publisher: "Wikipédia"
+  - title: "Édition du génome et agroécologie : une association qui sait se montrer bénéfique"
+    url: "https://www.universite-paris-saclay.fr/actualites/edition-du-genome-et-agroecologie-une-association-qui-sait-se-montrer-benefique"
+    publisher: "Université Paris-Saclay"
 quiz:
   - question: "Comment crée-t-on une variété par sélection classique ?"
     options:

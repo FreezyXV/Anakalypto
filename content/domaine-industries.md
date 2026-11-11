@@ -4577,19 +4577,19 @@ Pour refaire du verre à partir de rien, il faut trois ingrédients et un feu ca
 
 ## Trois ingrédients, trois rôles
 
-Le verre sodocalcique, celui des bouteilles, des vitres et de la vaisselle, contient environ 71 à 74 % de silice, 11 à 15 % d'oxyde de sodium et 8 à 11 % de chaux, selon la Société chimique de France. Le sable fournit la silice, et un bon sable en contient plus de 99 %.
+Le verre sodocalcique, celui des bouteilles, des vitres et de la vaisselle, contient environ 71 à 74 % de silice, 11 à 15 % d'oxyde de sodium et 8 à 11 % de chaux, selon la Société chimique de France. Le sable fournit la silice.
 
 La silice forme le réseau rigide du verre. La soude vient du carbonate ou du sulfate de sodium. Elle abaisse le point de fusion de la silice, qui serait sinon beaucoup trop élevé pour un four ordinaire. La chaux stabilise le réseau : sans elle, un verre fait de silice et de soude seules se dégraderait au contact de l'eau.
 
 ## Le four et la fusion
 
-Le mélange, appelé composition, est chauffé dans un four vers 1 300 à 1 400 °C. Avec la soude comme fondant, la fusion intervient autour de 1 350 °C. Il faut ensuite faire monter la température plus haut, entre 1 400 et 1 500 °C, pour l'affinage : à cette étape, les bulles de gaz remontent et quittent la masse fondue.
+Le mélange, appelé composition, est chauffé dans un four vers 1 300 à 1 400 °C. Avec la soude comme fondant, la fusion reste dans cette fourchette. Il faut ensuite faire monter la température plus haut, entre 1 400 et 1 500 °C, pour l'affinage : à cette étape, les bulles de gaz remontent et quittent la masse fondue.
 
 Atteindre et maintenir ces températures est la vraie difficulté. Il faut un four bien isolé, un combustible abondant et du temps. Dans l'industrie moderne, les fours à bassin fonctionnent en continu.
 
 ## Façonner le verre
 
-Le verre fondu est une pâte visqueuse que l'on façonne avant qu'elle refroidisse. La canne à souffler est l'outil emblématique. L'artisan cueille une masse de verre en fusion au bout d'un tube creux, puis souffle pour former une bulle. Il la modèle ensuite en la soufflant, en la balançant ou en la roulant sur une surface lisse appelée marbre. Le soufflage a transformé le verre en produit courant : des ateliers syriens ont exporté des récipients soufflés dans tout l'Empire romain, selon l'encyclopédie Britannica.
+Le verre fondu est une pâte visqueuse que l'on façonne avant qu'elle refroidisse. La canne à souffler est l'outil emblématique. L'artisan cueille une masse de verre en fusion au bout d'un tube creux, puis souffle pour former une bulle. Il la modèle ensuite en la soufflant, en la balançant ou en la roulant sur une surface lisse appelée marbre. Selon l'encyclopédie Britannica, des artisans syriens ont mis au point le soufflage au Ier siècle avant notre ère. Il a transformé le verre en produit courant : leurs ateliers ont exporté des récipients soufflés dans tout l'Empire romain.
 
 ## Refroidir lentement
 
@@ -4602,7 +4602,7 @@ Le verre en fusion et les fours brûlent gravement. Lunettes, gants et distance 
 ## À retenir
 
 - Le verre courant est environ 71 à 74 % de silice, 11 à 15 % de soude et 8 à 11 % de chaux.
-- La soude abaisse la température de fusion, qui tombe autour de 1 350 °C.
+- La soude abaisse la température de fusion, qui reste vers 1 300 à 1 400 °C.
 - L'affinage, vers 1 400 à 1 500 °C, chasse les bulles.
 - La canne à souffler permet de gonfler le verre fondu et d'en faire des objets creux.
 - La recuisson vers 550 à 600 °C évite que la pièce ne casse en refroidissant.
@@ -7961,6 +7961,9 @@ sources:
   - title: "Milling (machining)"
     url: "https://en.wikipedia.org/wiki/Milling_(machining)"
     publisher: "Wikipedia"
+  - title: "F6 Les param coupe"
+    url: "https://analyse-fabrication.univ-lille.fr/res/F6_Les_param_coupe.pdf"
+    publisher: "Université de Lille"
 quiz:
   - question: "Sur un tour, qu'est-ce qui tourne ?"
     options:
@@ -11616,6 +11619,10 @@ sources:
   - title: "China currently dominates global solar PV supply chains (Solar PV Global Supply Chains, executive summary)"
     url: "https://www.iea.org/reports/solar-pv-global-supply-chains/executive-summary"
     publisher: "AIE (Agence internationale de l'énergie)"
+  - title: "Solar PV Global Supply Chains"
+    url: "https://www.iea.org/reports/solar-pv-global-supply-chains"
+    publisher: "Agence internationale de l'énergie"
+    date: "2022"
 quiz:
   - question: "Quel matériau est utilisé dans presque toutes les cellules solaires commerciales ?"
     options:
@@ -11662,7 +11669,7 @@ Un panneau solaire en silicium naît d'un silicium très purifié, coulé en lin
 
 ## Un silicium très pur
 
-Presque toutes les cellules solaires commerciales sont en silicium cristallin. Le silicium destiné au photovoltaïque doit être purifié à un niveau très élevé. Le silicium de départ, dit métallurgique, est raffiné par le procédé Siemens : il est transformé en trichlorosilane puis décomposé à haute température, ce qui élimine les impuretés. Ce procédé consomme beaucoup d'énergie ; un autre procédé, en lit fluidisé, en consomme bien moins. La Chine produit la grande majorité du polysilicium mondial.
+Presque toutes les cellules solaires commerciales sont en silicium cristallin. Le silicium destiné au photovoltaïque doit être purifié à un niveau très élevé. Le silicium de départ, dit métallurgique, est raffiné par le procédé Siemens : il est transformé en trichlorosilane puis décomposé à haute température, ce qui élimine les impuretés. Ce procédé consomme beaucoup d'énergie ; un autre procédé, en lit fluidisé, en consomme bien moins. La Chine pèse très lourd dans la production mondiale de polysilicium.
 
 ## Des lingots aux plaquettes
 
@@ -11690,7 +11697,7 @@ Une cellule seule est fragile et ne délivre qu'une faible tension. Les cellules
 
 ## Une chaîne très concentrée
 
-Chaque étape, du polysilicium au module, est une usine différente, et ces usines ne sont pas réparties de façon égale. L'Agence internationale de l'énergie souligne que la Chine domine aujourd'hui les chaînes d'approvisionnement mondiales du photovoltaïque. Cette concentration compte autant pour le prix des panneaux que pour la sécurité d'approvisionnement des pays qui les installent.
+Chaque étape, du polysilicium au module, est une usine différente, et ces usines ne sont pas réparties de façon égale. L'Agence internationale de l'énergie suit cinq étapes de fabrication (polysilicium, lingots, plaquettes, cellules, modules) et s'inquiète de la sécurité d'approvisionnement, la diversification étant selon elle un moyen de réduire ce risque. Le titre de son résumé indique que la Chine domine aujourd'hui ces chaînes. Une telle concentration expose à des risques de pénurie et de hausse des coûts.
 
 ## À retenir
 
@@ -12525,6 +12532,13 @@ sources:
   - title: "3D printing"
     url: "https://en.wikipedia.org/wiki/3D_printing"
     publisher: "Wikipedia"
+  - title: "Do-it-yourself manufacturing"
+    url: "https://betterworld.mit.edu/spectrum/issues/winter-2014/do-it-yourself-manufacturing/"
+    publisher: "MIT Spectrum"
+    date: "2014"
+  - title: "Gershenfeld, APS News"
+    url: "https://aps.org/publications/apsnews/200604/gershenfeld.cfm"
+    publisher: "American Physical Society"
 quiz:
   - question: "Qu'est-ce qu'un fab lab ?"
     options:

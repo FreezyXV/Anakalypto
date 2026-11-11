@@ -2016,6 +2016,13 @@ sources:
   - title: "Rugby union"
     url: "https://en.wikipedia.org/wiki/Rugby_union"
     publisher: "Wikipedia"
+  - title: "Laws of the Game"
+    url: "https://world.rugby/laws"
+    publisher: "World Rugby"
+  - title: "2024 World Rugby Laws (PDF)"
+    url: "https://passport.world.rugby/media/n3rlky1b/2024-wr-laws-en-compressed.pdf"
+    publisher: "World Rugby"
+    date: "2024"
 quiz:
   - question: "Dans quelle direction peut-on faire une passe à la main au rugby ?"
     options:
@@ -2123,6 +2130,9 @@ sources:
   - title: "Basketball"
     url: "https://en.wikipedia.org/wiki/Basketball"
     publisher: "Wikipedia"
+  - title: "James Naismith"
+    url: "https://www.britannica.com/biography/James-Naismith"
+    publisher: "Encyclopaedia Britannica"
 quiz:
   - question: "En quelle année le basket-ball a-t-il été inventé ?"
     options:
@@ -4032,6 +4042,9 @@ sources:
   - title: "Breaststroke"
     url: "https://en.wikipedia.org/wiki/Breaststroke"
     publisher: "Wikipedia"
+  - title: "Validation of a propulsion model in front crawl swimming"
+    url: "https://lida.sport-iat.de/ta/Record/4085075?lng=en"
+    publisher: "Institut für Angewandte Trainingswissenschaft (IAT)"
 quiz:
   - question: "Quelle est la nage la plus lente en compétition ?"
     options:
@@ -4326,6 +4339,10 @@ sources:
   - title: "Kernmantle rope"
     url: "https://en.wikipedia.org/wiki/Kernmantle_rope"
     publisher: "Wikipedia"
+  - title: "UIAA 101 Dynamic Ropes 2025"
+    url: "https://www.theuiaa.org/documents/safety-standards/UIAA_101-DynamicRopes-2025.pdf"
+    publisher: "UIAA (Union internationale des associations d'alpinisme)"
+    date: "2025"
 quiz:
   - question: "Pourquoi dit-on que la corde d'escalade est dynamique ?"
     options:
@@ -4687,6 +4704,10 @@ sources:
   - title: "Concussions in sport"
     url: "https://en.wikipedia.org/wiki/Concussions_in_sport"
     publisher: "Wikipedia"
+  - title: "UK concussion guidelines for non elite grassroots sport, November 2024 update"
+    url: "https://sportandrecreation.org.uk/files/uk-concussion-guidelines-for-non-elite-grassroots-sport---november-2024-update-accessible-version-061124084259.pdf"
+    publisher: "Sport and Recreation (Royaume-Uni)"
+    date: "2024"
 quiz:
   - question: "Que se passe-t-il dans la tête lors d'une commotion ?"
     options:
@@ -5838,6 +5859,9 @@ sources:
   - title: "Musculation"
     url: "https://fr.wikipedia.org/wiki/Musculation"
     publisher: "Wikipédia"
+  - title: "does resistance training induced muscle growth con... (titre tronqué dans le résultat)"
+    url: "https://www.em-consulte.com/article/1560544/does-resistance-training-induced-muscle-growth-con"
+    publisher: "EM-consulte"
 quiz:
   - question: "Pourquoi devient-on plus fort dès les premières semaines d'entraînement ?"
     options:
@@ -7695,6 +7719,13 @@ sources:
   - title: "Wheelchair basketball"
     url: "https://en.wikipedia.org/wiki/Wheelchair_basketball"
     publisher: "Wikipedia"
+  - title: "Quick Rule Guide"
+    url: "https://iwbf.org/rules-of-wheelchair-basketball/"
+    publisher: "IWBF (International Wheelchair Basketball Federation)"
+  - title: "2024 IWBF rules"
+    url: "https://www.basketball.nl/documents/1651/2024_IWBF_rules.pdf"
+    publisher: "IWBF (International Wheelchair Basketball Federation)"
+    date: "2024"
 quiz:
   - question: "À quelle hauteur est le panier au basket en fauteuil ?"
     options:
@@ -7830,6 +7861,13 @@ sources:
   - title: "Goalball"
     url: "https://en.wikipedia.org/wiki/Goalball"
     publisher: "Wikipedia"
+  - title: "goalball rules"
+    url: "https://ibsasport.org/goalball-rules"
+    publisher: "IBSA (International Blind Sports Federation)"
+  - title: "Final 2025 IBSA Goalball Rules and Regulations"
+    url: "https://goalball.sport/wp-content/uploads/2024/12/Final-2025-IBSA-Goalball-Rules-and-Regulations-1.pdf"
+    publisher: "IBSA (International Blind Sports Federation)"
+    date: "2025"
 quiz:
   - question: "Qu'est-ce qui permet aux joueurs de suivre le ballon ?"
     options:
@@ -10787,6 +10825,9 @@ sources:
   - title: "Stretching"
     url: "https://en.wikipedia.org/wiki/Stretching"
     publisher: "Wikipedia"
+  - title: "Échauffement en EPS"
+    url: "https://site.ac-martinique.fr/wp-content/uploads/sites/13/2014/05/ECHAUFFEMENT-EN-EPS.pdf"
+    publisher: "Académie de la Martinique (Éducation nationale)"
 quiz:
   - question: "Que fait l'échauffement au corps ?"
     options:
@@ -10888,6 +10929,9 @@ sources:
   - title: "Athlete biological passport"
     url: "https://en.wikipedia.org/wiki/Athlete_biological_passport"
     publisher: "Wikipedia"
+  - title: "Erythropoietin (EPO) - Detection Method"
+    url: "https://www.dshs-koeln.de/en/universitaet/organisation/institute-einrichtungen/institute-for-biochemistry/analyses-methods/epo-detection-method"
+    publisher: "Deutsche Sporthochschule Köln"
 quiz:
   - question: "Que stimule l'EPO ?"
     options:
@@ -11182,6 +11226,9 @@ sources:
   - title: "Sports analytics"
     url: "https://en.wikipedia.org/wiki/Sports_analytics"
     publisher: "Wikipedia"
+  - title: "Sport and exercise science: an introduction"
+    url: "https://lida.sport-iat.de/svd/Record/4029187?lng=en"
+    publisher: "IAT (Institut für Angewandte Trainingswissenschaft), catalogue"
 quiz:
   - question: "Que étudie la science du sport ?"
     options:
@@ -11709,7 +11756,7 @@ En octobre 1968, aux Jeux olympiques de Mexico, l'Américain Bob Beamon saute 8,
 
 Le record précédent, de 8,35 m, était partagé par Ralph Boston et Igor Ter-Ovanesyan. Beamon le dépasse de 55 cm, un écart énorme pour un record du monde en longueur, où l'on gagne d'habitude quelques centimètres à la fois.
 
-Le saut était si long que l'appareil de mesure optique ne pouvait pas le mesurer, selon World Athletics. Les officiels ont dû utiliser des rubans de mesure, puis la distance est apparue sur le tableau. La marque officielle est de 8,90 m, soit 29 pieds et 2 pouces et demi.
+Le saut était si long qu'il dépassait les capacités de l'équipement de mesure, selon World Athletics. Le tableau n'affichant rien au départ, les officiels ont dû sortir des rubans de mesure. La marque officielle est de 8,90 m, soit un peu plus de 29 pieds.
 
 Le contexte aide à mesurer l'écart. Un record du monde de longueur progresse d'ordinaire par petites touches, de quelques centimètres. Passer d'un bond de 8,35 m à 8,90 m ressemble donc moins à une amélioration qu'à un changement d'échelle, et c'est ce qui rend le saut si célèbre, même plus de cinquante ans après.
 
@@ -11763,6 +11810,10 @@ sources:
   - title: "Photoplethysmogram"
     url: "https://en.wikipedia.org/wiki/Photoplethysmogram"
     publisher: "Wikipedia"
+  - title: "La variabilité de la fréquence cardiaque. Intérêts en psychiatrie"
+    url: "https://www.em-consulte.com/article/229517/la-variabilite-de-la-frequence-cardiaque-interets-"
+    publisher: "EM-consulte"
+    date: "2009"
 quiz:
   - question: "Qu'est-ce que la variabilité de la fréquence cardiaque ?"
     options:

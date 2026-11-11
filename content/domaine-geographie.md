@@ -2716,7 +2716,7 @@ categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
 summary: >
   Boussole, étoiles, carte et estime : les méthodes de navigation traditionnelles.
 tags: [routes-et-detroits, navigation, orientation, essentiel-reconstruction]
-relatedArticles: [reperer-grace-etoiles, lire-une-carte-topographique-principes-de-base]
+relatedArticles: [l-etoile-polaire-et-son-role-dans-l-orientation, lire-une-carte-topographique-principes-de-base]
 sources:
   - title: "How to Navigate Without GPS: Master Land Navigation Skills"
     url: "https://www.battlbox.com/blogs/outdoors/how-to-navigate-without-gps-mastering-the-art-of-classic-navigation"
@@ -11912,7 +11912,7 @@ status: published
 
 ## En bref
 
-Les outre-mer français s'étendent sur plusieurs océans. Leurs terres sont petites, mais leurs zones maritimes sont immenses : la France a la deuxième plus grande zone économique exclusive du monde.
+Les outre-mer français s'étendent sur plusieurs océans. Leurs terres sont petites, mais leurs zones maritimes sont immenses : la France possède le deuxième domaine maritime du monde.
 
 ## Un espace éclaté
 
@@ -11922,9 +11922,9 @@ Les outre-mer français sont des territoires répartis sur plusieurs océans : A
 
 Leur surface de terres émergées est petite, mais ils s'étendent sur de très vastes zones maritimes. Une zone économique exclusive, ou ZEE, s'étend loin au large des côtes ; l'État y a des droits sur les ressources de la mer et du sous-sol. Ce régime vient de la convention des Nations unies sur le droit de la mer, signée à Montego Bay.
 
-## La deuxième ZEE du monde
+## Le deuxième domaine maritime du monde
 
-La France a la deuxième plus grande ZEE du monde, derrière les États-Unis. La quasi-totalité de la ZEE française se situe outre-mer. Ces territoires dépendent encore beaucoup de la métropole pour le commerce et le soutien financier.
+Le domaine maritime français, essentiellement fait de ZEE, est le deuxième du monde. La quasi-totalité se situe outre-mer. Ces territoires dépendent encore beaucoup de la métropole pour le commerce et le soutien financier.
 
 ```schema
 type: systeme
@@ -11940,11 +11940,11 @@ parties:
 
 ## Des chiffres à l'échelle de la mer
 
-Selon la Marine nationale, le domaine maritime français couvre 10 911 823 km², après l'extension en 2021 du plateau continental de La Réunion et des îles Saint-Paul et Amsterdam. Environ 97 % de cet espace se trouve outre-mer. Pour comparaison, ce total dépasse largement la superficie de la France métropolitaine et de son littoral, qui n'en représentent qu'environ 4 %.
+Selon la Marine nationale, le domaine maritime français, surtout des ZEE complétées par des extensions du plateau continental, couvre 10 911 823 km², après l'extension en 2021 du plateau continental de La Réunion et des îles Saint-Paul et Amsterdam. Environ 97 % de cet espace se trouve outre-mer. Pour comparaison, ce total dépasse largement la superficie de la France métropolitaine et de son littoral, qui n'en représentent qu'environ 4 %.
 
 ## Le Pacifique en tête
 
-La répartition par océan est très inégale. Le Pacifique, avec la Polynésie française, la Nouvelle-Calédonie et Wallis-et-Futuna, concentre environ 66 % du domaine maritime. L'océan Indien en regroupe environ 27 %, et l'Atlantique hors métropole environ 3 %. Un petit archipel peut donc peser plus qu'un grand département : c'est la dispersion qui crée l'espace maritime.
+La répartition par océan est très inégale. Le Pacifique, avec notamment la Polynésie française et la Nouvelle-Calédonie, concentre environ 66 % du domaine maritime. L'océan Indien en regroupe environ 27 %, et l'Atlantique hors métropole environ 3 %. Un petit archipel peut donc peser plus qu'un grand département : c'est la dispersion qui crée l'espace maritime.
 
 ## À retenir
 
@@ -11952,7 +11952,7 @@ La répartition par océan est très inégale. Le Pacifique, avec la Polynésie 
 - Ils n'ont pas tous le même statut : départements et régions d'outre-mer, collectivités d'outre-mer, et des cas particuliers comme la Nouvelle-Calédonie.
 - Leur surface de terres émergées est petite, mais ils s'étendent sur de très vastes zones maritimes.
 - Le domaine maritime français atteint environ 10,9 millions de km², dont environ 97 % outre-mer et 66 % dans le Pacifique.
-- La France a la deuxième plus grande ZEE du monde, derrière les États-Unis.
+- La France a le deuxième domaine maritime du monde, essentiellement des ZEE.
 ---
 type: article
 title: Pourquoi certains départements français gagnent-ils des habitants et d'autres en perdent-ils ?

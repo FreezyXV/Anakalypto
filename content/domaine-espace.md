@@ -1391,7 +1391,7 @@ summary: >
   Quatre astronautes, un survol de la face cachée, une dizaine de jours. Le premier vol habité
   au-delà de l'orbite terrestre depuis plus de cinquante ans.
 tags: [Artemis, Lune, vol-habite, NASA, Orion]
-relatedArticles: [la-lune-formation-et-marees, mettre-un-objet-en-orbite]
+relatedArticles: [la-lune-formation-et-marees, comment-une-fusee-fait-elle-pour-rester-en-orbite-autour-de-la-terre]
 sources:
   - title: "Artemis"
     url: "https://www.nasa.gov/humans-in-space/artemis/"
@@ -1502,141 +1502,6 @@ chiffres:
     texte: environ, avec un survol de la Lune
   - valeur: "> 50 ans"
     texte: depuis le dernier vol habité au-delà de l'orbite terrestre
-```
-
----
-
----
-type: article
-title: Comment on met un objet en orbite
-slug: mettre-un-objet-en-orbite
-categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
-summary: >
-  Être en orbite, ce n'est pas être loin de la Terre : c'est tomber en permanence en allant
-  assez vite pour rater le sol.
-tags: [orbite, fusee, vitesse, apesanteur, lanceur]
-relatedArticles: [artemis-ii-retour-vers-la-lune, constellations-satellites-orbite-basse]
-sources:
-  - title: "Orbits"
-    url: "https://science.nasa.gov/learn/basics-of-space-flight/"
-    publisher: "NASA"
-    date: "2025"
-  - title: "Orbit"
-    url: "https://www.britannica.com/science/orbit-astronomy"
-    publisher: "Encyclopaedia Britannica"
-    date: "2025"
-quiz:
-  - question: "Pourquoi les astronautes flottent-ils dans la Station spatiale ?"
-    options:
-      - "Parce qu'il n'y a pas de gravité à cette altitude"
-      - "Parce qu'ils sont en chute libre permanente autour de la Terre"
-      - "Parce que la station tourne sur elle-même"
-    answer: 2
-    explanation: >
-      À 400 kilomètres, la gravité vaut encore environ 90 % de celle du sol. Ils flottent parce
-      qu'ils tombent en même temps que la station, sans jamais atteindre le sol.
-  - question: "Qu'est-ce qui coûte le plus d'énergie pour mettre un satellite en orbite ?"
-    options:
-      - "Monter en altitude"
-      - "Atteindre la vitesse horizontale nécessaire, environ 28 000 km/h"
-      - "Traverser l'atmosphère"
-    answer: 2
-    explanation: >
-      Monter à 400 kilomètres est relativement peu coûteux. C'est la vitesse horizontale qui
-      demande l'essentiel de l'énergie, et donc du carburant.
-  - question: "Qu'est-ce qu'être en orbite ?"
-    options:
-      - "Être assez loin de la Terre pour échapper à sa gravité"
-      - "Flotter dans une zone où la gravité n'existe plus"
-      - "Tomber en permanence en allant assez vite pour que le sol se dérobe aussi vite qu'on descend"
-    answer: 3
-    explanation: "À 400 km, la gravité vaut encore près de 90 % de celle du sol : l'objet tombe en continu mais manque toujours la Terre."
-  - question: "Pourquoi les lanceurs spatiaux sont-ils à étages ?"
-    options:
-      - "Pour se débarrasser des réservoirs vides plutôt que de continuer à les accélérer"
-      - "Pour que chaque étage puisse atterrir séparément"
-      - "Pour répartir les astronautes dans plusieurs compartiments"
-    answer: 1
-    explanation: "Chaque kilogramme accéléré demande du carburant supplémentaire : larguer les réservoirs vides allège la fusée."
-lastVerified: 2026-09-23
-status: published
----
-
-## En bref
-
-Il existe un malentendu très répandu : on croit qu'être en orbite consiste à être assez loin pour
-échapper à la gravité.
-
-C'est faux. À l'altitude de la Station spatiale internationale, environ 400 kilomètres, la gravité
-vaut encore près de 90 % de celle que vous ressentez au sol.
-
-Être en orbite, c'est tout autre chose.
-
-## Tomber sans jamais toucher le sol
-
-Newton proposait une expérience de pensée. Imaginez un canon au sommet d'une très haute montagne,
-tirant horizontalement.
-
-Avec peu de puissance, le boulet retombe assez près.
-
-Avec plus de puissance, il tombe plus loin.
-
-Avec encore plus, il tombe si loin que la Terre a commencé à se courber sous lui.
-
-Et à une certaine vitesse, la courbure de sa trajectoire de chute correspond exactement à la
-courbure de la Terre. Il tombe en permanence, mais le sol se dérobe aussi vite qu'il descend. Il
-ne touchera jamais.
-
-C'est cela, une orbite.
-
-Cette vitesse vaut environ 28 000 kilomètres par heure en orbite basse, soit près de 8 kilomètres
-par seconde.
-
-## Pourquoi les fusées s'inclinent
-
-Une fusée décolle verticalement, puis se couche rapidement.
-
-Ce n'est pas un défaut de pilotage. Monter en altitude est la partie facile. La partie coûteuse
-est d'acquérir cette énorme vitesse horizontale.
-
-La montée initiale sert surtout à sortir rapidement des couches d'air dense, où la résistance
-serait prohibitive à grande vitesse.
-
-## Pourquoi c'est si cher
-
-Une fusée doit emporter son carburant, mais aussi le comburant, l'oxygène, puisqu'il n'y en a pas
-dans l'espace.
-
-Et chaque kilogramme de carburant supplémentaire doit lui-même être accéléré, ce qui demande
-encore du carburant. Cette spirale explique qu'une fusée soit constituée à plus de 90 % de son
-poids en ergols au décollage.
-
-C'est aussi pourquoi les lanceurs sont à étages : on se débarrasse des réservoirs vides en cours
-de route plutôt que de continuer à les accélérer.
-
-## L'apesanteur expliquée
-
-Les astronautes flottent non parce que la gravité a disparu, mais parce qu'ils tombent en même
-temps que leur vaisseau, et à la même vitesse.
-
-C'est exactement la sensation d'un ascenseur dont le câble casserait — en permanence et sans
-conséquence.
-
-## À retenir
-
-- La gravité vaut encore 90 % de sa valeur au sol à 400 kilomètres d'altitude.
-- Être en orbite, c'est tomber en allant assez vite pour manquer le sol.
-- La vitesse orbitale basse avoisine 28 000 kilomètres par heure.
-- L'essentiel de l'énergie sert à la vitesse horizontale, pas à l'altitude.
-
-```schema
-type: chiffres
-titre: Les repères de l'orbite basse
-chiffres:
-  - valeur: 90 %
-    texte: de la gravité du sol à 400 km d'altitude
-  - valeur: 28 000 km/h
-    texte: environ, la vitesse nécessaire
 ```
 
 ---
@@ -2100,126 +1965,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-
----
-type: article
-title: Se repérer grâce aux étoiles
-slug: reperer-grace-etoiles
-categoryPath: espace-et-astronomie/astrophysique/etoiles
-summary: >
-  Étoile polaire, Croix du Sud, constellations : trouver le nord et l'heure la nuit.
-tags: [etoiles, navigation, orientation, essentiel-reconstruction]
-relatedArticles: [naviguer-sans-gps]
-sources:
-  - title: "The Southern Cross is your guide to due south"
-    url: "https://earthsky.org/favorite-star-patterns/how-to-use-southern-cross-to-find-south-celestial-pole/"
-    publisher: "EarthSky"
-    date: "2025"
-  - title: "Star Navigation Guide: How to Navigate by the Stars"
-    url: "https://replogleglobes.com/blog/star-navigation-guide-how-to-navigate-by-the-stars/"
-    publisher: "Replogle Globes"
-    date: "2025"
-quiz:
-  - question: "Pourquoi l'étoile polaire est-elle si utile pour trouver le nord dans l'hémisphère
-      nord ?"
-    options:
-      - "Elle est l'étoile la plus brillante du ciel nocturne"
-      - "Elle est située presque exactement au-dessus du pôle nord et reste donc fixe dans le
-        ciel"
-      - "Elle change de position chaque nuit de façon prévisible"
-    answer: 2
-    explanation: >
-      L'étoile polaire se trouve presque exactement dans l'alignement de l'axe de rotation de la
-      Terre, ce qui la fait apparaître pratiquement immobile dans le ciel tout au long de la nuit
-      et de l'année, contrairement aux autres étoiles.
-  - question: "Comment la Croix du Sud permet-elle de trouver le sud dans l'hémisphère sud ?"
-    options:
-      - "En suivant directement l'étoile la plus brillante de la constellation"
-      - "En prolongeant sa grande branche jusqu'à un point qui indique approximativement le pôle
-        céleste sud"
-      - "Elle n'indique aucune direction utile"
-    answer: 2
-    explanation: >
-      En prolongeant environ quatre fois et demie la longueur de sa branche la plus longue, on
-      obtient approximativement la position du pôle céleste sud, dont on peut ensuite se
-      repérer au sol.
-  - question: "Comment la Grande Ourse aide-t-elle à trouver l'étoile polaire ?"
-    options:
-      - "En prolongeant environ cinq fois la distance entre les deux étoiles du bord de sa casserole"
-      - "En suivant l'étoile la plus brillante de la constellation"
-      - "En traçant une ligne vers la Croix du Sud"
-    answer: 1
-    explanation: "Cette prolongation mène directement à l'étoile polaire, repère presque immobile du nord."
-  - question: "Pourquoi la position des constellations permet-elle d'estimer l'heure ?"
-    options:
-      - "Parce que les étoiles s'allument à heure fixe"
-      - "Parce que la rotation de la Terre les déplace régulièrement dans le ciel au fil de la nuit"
-      - "Parce que la Lune change de place"
-    answer: 2
-    explanation: "Avec l'habitude de la position des étoiles à une heure donnée, on estime approximativement l'heure."
-lastVerified: 2026-09-28
-status: published
----
-
-## En bref
-
-Bien avant la boussole et le GPS, les voyageurs se repéraient déjà grâce aux étoiles. Deux points
-de repère majeurs, l'étoile polaire dans l'hémisphère nord et la Croix du Sud dans l'hémisphère
-sud, permettent de retrouver une direction fiable dans l'obscurité.
-
-## L'étoile polaire, un repère presque immobile
-
-Dans l'hémisphère nord, l'étoile polaire se situe presque exactement dans l'alignement de l'axe de
-rotation terrestre. Contrairement aux autres étoiles qui semblent tourner dans le ciel au cours de
-la nuit, elle reste pratiquement immobile, ce qui en fait un repère fiable pour indiquer le nord.
-
-## Retrouver l'étoile polaire dans le ciel
-
-La Grande Ourse, une constellation facilement reconnaissable, aide à localiser l'étoile polaire :
-en prolongeant environ cinq fois la distance entre les deux étoiles formant le bord de sa
-casserole, on tombe directement sur elle.
-
-## La Croix du Sud pour l'hémisphère austral
-
-Dans l'hémisphère sud, où l'étoile polaire n'est pas visible, la constellation de la Croix du Sud
-joue un rôle équivalent. En prolongeant environ quatre fois et demie la longueur de sa branche la
-plus longue, on obtient approximativement la position du pôle céleste sud.
-
-## Estimer l'heure grâce aux étoiles
-
-Les constellations se déplacent régulièrement dans le ciel au fil de la nuit, à cause de la
-rotation de la Terre. Un observateur familier avec la position habituelle de certaines étoiles à
-une heure donnée peut estimer approximativement l'heure qu'il est, sans montre ni instrument.
-
-## Les limites de cette méthode
-
-Un ciel couvert de nuages rend cette technique inutilisable, et une identification erronée d'une
-constellation peut conduire à une estimation de direction complètement fausse. Ces méthodes
-restent néanmoins fiables et gratuites par ciel dégagé.
-
-## À retenir
-
-- L'étoile polaire, presque immobile dans le ciel, indique le nord dans l'hémisphère nord.
-- La Grande Ourse aide à localiser facilement l'étoile polaire dans le ciel nocturne.
-- La Croix du Sud joue un rôle équivalent pour indiquer le sud dans l'hémisphère austral.
-- La position des constellations au fil de la nuit permet d'estimer approximativement l'heure.
-- Un ciel couvert de nuages rend ces méthodes de repérage inutilisables.
-
-```schema
-type: comparaison
-titre: S'orienter par les étoiles
-colonnes:
-  - titre: Hémisphère Nord
-    icone: star
-    points:
-      - L'étoile Polaire indique le nord
-      - La Grande Ourse aide à la trouver
-  - titre: Hémisphère Sud
-    points:
-      - La Croix du Sud indique le sud
-```
 
 ---
 
@@ -3939,6 +3684,14 @@ sources:
   - title: "EtoilePolaire enseignants"
     url: "https://www.cite-sciences.fr/fileadmin/fileadmin_CSI/fichiers/vous-etes/enseignant/Documents-pedagogiques/_documents/Ressources-en-ligne/EtoilePolaire-enseignants.pdf"
     publisher: "Cité des sciences et de l'industrie"
+  - title: "The Southern Cross is your guide to due south"
+    url: "https://earthsky.org/favorite-star-patterns/how-to-use-southern-cross-to-find-south-celestial-pole/"
+    publisher: "EarthSky"
+    date: "2025"
+  - title: "Star Navigation Guide: How to Navigate by the Stars"
+    url: "https://replogleglobes.com/blog/star-navigation-guide-how-to-navigate-by-the-stars/"
+    publisher: "Replogle Globes"
+    date: "2025"
 quiz:
   - question: "Pourquoi l'étoile Polaire semble-t-elle immobile toute la nuit ?"
     options:
@@ -7490,104 +7243,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-type: article
-title: Pourquoi la mer monte-t-elle et descend-elle deux fois par jour ?
-slug: pourquoi-la-mer-monte-t-elle-et-descend-elle-deux-fois-par-jour
-categoryPath: espace-et-astronomie/systeme-solaire/lune
-summary: >
-  L'attraction de la Lune, aidée par celle du Soleil, déforme l'eau des océans en deux bosses.
-  La Terre tourne à travers elles : on voit la mer monter et descendre.
-tags: [lune]
-sources:
-  - title: "Tides"
-    url: "https://science.nasa.gov/moon/tides/"
-    publisher: "NASA Science"
-  - title: "What are spring and neap tides?"
-    url: "https://oceanservice.noaa.gov/facts/springtide.html"
-    publisher: "NOAA, Service national de l'océan"
-  - title: "Marée"
-    url: "https://fr.wikipedia.org/wiki/Mar%C3%A9e"
-    publisher: "Wikipédia"
-  - title: "Tide"
-    url: "https://en.wikipedia.org/wiki/Tide"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Quelle est la cause principale des marées ?"
-    options:
-      - "L'attraction de la Lune"
-      - "Les vents"
-      - "Les courants de rivière"
-    answer: 1
-    explanation: >
-      L'attraction de la Lune est la cause principale des marées.
-  - question: "Combien de marées hautes la plupart des côtes connaissent-elles par jour ?"
-    options:
-      - "Deux"
-      - "Une"
-      - "Quatre"
-    answer: 1
-    explanation: >
-      En tournant, la Terre fait passer les côtes à travers ces deux renflements : la plupart
-      des rivages connaissent donc deux marées hautes et deux marées basses par jour.
-  - question: "Quand les marées de vive-eau ont-elles lieu ?"
-    options:
-      - "Aux quartiers de Lune"
-      - "À la pleine et à la nouvelle Lune"
-      - "Seulement au printemps"
-    answer: 2
-    explanation: >
-      Quand la Terre, la Lune et le Soleil sont alignés, à la pleine et à la nouvelle Lune,
-      leurs forces s'ajoutent : ce sont les marées de vive-eau, très marquées.
-  - question: "Pourquoi la Méditerranée a-t-elle de très faibles marées ?"
-    options:
-      - "La Lune ne l'attire pas"
-      - "Son eau est trop salée"
-      - "C'est une mer presque fermée"
-    answer: 3
-    explanation: >
-      L'amplitude varie selon la forme des côtes : les baies en entonnoir amplifient la marée,
-      alors que les mers fermées comme la Méditerranée en ont très peu.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-L'attraction de la Lune, aidée par celle du Soleil, déforme l'eau des océans en deux bosses. La Terre tourne à travers elles : on voit la mer monter et descendre.
-
-## Deux bosses d'eau
-
-L'attraction de la Lune est la cause principale des marées. L'eau forme un renflement du côté tourné vers la Lune et un autre du côté opposé. En tournant, la Terre fait passer les côtes à travers ces deux renflements : la plupart des rivages connaissent donc deux marées hautes et deux marées basses par jour. Entre deux marées hautes, il s'écoule un peu plus de douze heures.
-
-## Le Soleil donne un coup de main
-
-Le Soleil agit aussi, mais il est bien plus loin : sa force de marée est plus faible que celle de la Lune. Quand la Terre, la Lune et le Soleil sont alignés, à la pleine et à la nouvelle Lune, leurs forces s'ajoutent : ce sont les marées de vive-eau, très marquées. Quand le Soleil et la Lune forment un angle droit, vers les quartiers de Lune, leurs effets se compensent en partie : ce sont les marées de morte-eau, plus modérées. En anglais, la marée de vive-eau se dit « spring tide » : le mot vient de l'idée que la marée « jaillit » et n'a rien à voir avec la saison du printemps.
-
-## Pourquoi la marée varie d'un lieu à l'autre
-
-L'amplitude varie selon la forme des côtes : les baies en entonnoir amplifient la marée, alors que les mers fermées comme la Méditerranée en ont très peu.
-
-```schema
-type: etapes
-titre: Deux marées par jour
-elements:
-  - titre: La Lune attire l'eau
-  - titre: Deux renflements
-    texte: Côté Lune et côté opposé.
-    icone: wave
-  - titre: La Terre tourne
-    texte: Chaque lieu traverse les deux renflements.
-```
-
-## À retenir
-
-- L'attraction de la Lune est la cause principale des marées.
-- L'eau forme un renflement du côté tourné vers la Lune et un autre du côté opposé.
-- La Terre tourne à travers deux renflements d'eau : la plupart des côtes ont deux marées hautes par jour.
-- Quand la Terre, la Lune et le Soleil sont alignés, leurs forces s'ajoutent : ce sont les marées de vive-eau.
-- Les baies en entonnoir amplifient la marée ; les mers fermées comme la Méditerranée en ont très peu.
 
 ---
 type: article
@@ -12929,13 +12584,13 @@ Chaque degré de longitude d'écart avec le méridien du fuseau horaire décale 
 
 ## Lire l'heure de la montre
 
-Les sociétés de gnomonique publient des tableaux de l'équation du temps, en minutes, pour chaque jour. Si la valeur est positive, il faut l'ajouter à l'heure du cadran ; si elle est négative, il faut la retrancher. Une formule simple suffit à rester précis à environ une minute près.
+Les sociétés de gnomonique publient des tableaux de l'équation du temps, en minutes, pour chaque jour. Si la valeur est positive, il faut l'ajouter à l'heure du cadran ; si elle est négative, il faut la retrancher. Une formule simple permet aussi de la calculer.
 
 Exemple : un cadran situé 5 degrés à l'ouest du méridien de son fuseau retarde de 20 minutes (5 fois 4). Si l'équation du temps vaut ce jour-là +10 minutes, l'heure de la montre est celle du cadran plus 30 minutes.
 
 ## Un savoir ancien
 
-Vers 1500 av. J.-C., les plus anciennes horloges à ombre connues apparaissent en Égypte. Au Ier siècle avant notre ère, Vitruve décrit une douzaine de styles de cadrans en usage autour de la Méditerranée.
+Vers 1500 av. J.-C., les plus anciennes horloges à ombre connues apparaissent en Égypte. Au Ier siècle avant notre ère, Vitruve recense les cadrans et horloges à ombre connus à son époque.
 
 ## Essayer chez soi
 
@@ -12948,109 +12603,6 @@ Il faut un bâton droit, un sol plat et une journée ensoleillée. Marquer le bo
 - L'inclinaison du style est égale à la latitude du lieu.
 - L'heure solaire s'écarte de l'heure des montres de jusqu'à environ un quart d'heure selon la saison.
 - Chaque degré de longitude d'écart avec le méridien du fuseau décale l'heure solaire d'environ 4 minutes.
----
-type: article
-title: Les marées et l'effet de la Lune sur les océans
-slug: les-marees-et-l-effet-de-la-lune-sur-les-oceans
-categoryPath: espace-et-astronomie/systeme-solaire/lune
-summary: >
-  La gravité de la Lune produit la force de marée. Un jour lunaire dure 24 h 50, et deux marées
-  hautes se succèdent à environ 12 h 25.
-tags: [lune, marees, gravite]
-sources:
-  - title: "Frequency of Tides - The Lunar Day"
-    url: "https://oceanservice.noaa.gov/education/tutorial_tides/tides05_lunarday.html"
-    publisher: "NOAA National Ocean Service"
-  - title: "How frequent are tides?"
-    url: "https://oceanservice.noaa.gov/facts/tidefrequency.html"
-    publisher: "NOAA National Ocean Service"
-  - title: "What Causes Tides?"
-    url: "https://www.nesdis.noaa.gov/about/k-12-education/oceans-coasts/what-causes-tides"
-    publisher: "NOAA NESDIS"
-  - title: "Tide"
-    url: "https://en.wikipedia.org/wiki/Tide"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Combien dure un jour lunaire ?"
-    options:
-      - "24 heures"
-      - "24 heures et 50 minutes"
-      - "25 heures et 50 minutes"
-    answer: 2
-    explanation: >
-      Un jour lunaire dure 24 heures et 50 minutes.
-  - question: "Combien de marées hautes par jour lunaire sur la plupart des côtes ?"
-    options:
-      - "Une"
-      - "Deux"
-      - "Quatre"
-    answer: 2
-    explanation: >
-      La plupart des côtes connaissent deux marées hautes et deux marées basses par jour
-      lunaire.
-  - question: "Quand a-t-on des marées de vives-eaux ?"
-    options:
-      - "À la pleine lune et à la nouvelle lune"
-      - "Au seul premier quartier"
-      - "Jamais en hiver"
-    answer: 1
-    explanation: >
-      Quand la Terre, la Lune et le Soleil sont alignés, à la pleine lune et à la nouvelle lune,
-      les effets se renforcent : ce sont les marées de vives-eaux.
-  - question: "Quelle baie est souvent citée pour avoir les plus hautes marées du monde ?"
-    options:
-      - "La baie de Fundy"
-      - "La mer Méditerranée"
-      - "La mer Morte"
-    answer: 1
-    explanation: >
-      La baie de Fundy est souvent citée comme ayant les plus hautes marées du monde.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La gravité de la Lune produit la force de marée. Un jour lunaire dure 24 h 50, et deux marées hautes se succèdent à environ 12 h 25.
-
-## Deux marées hautes par jour
-
-La plupart des côtes connaissent deux marées hautes et deux marées basses par jour lunaire. Un jour lunaire dure 24 heures et 50 minutes, et deux marées hautes se succèdent à environ 12 heures et 25 minutes d'intervalle.
-
-## Pourquoi 24 h 50
-
-Le jour lunaire dépasse 24 heures de 50 minutes parce que la Lune tourne autour de la Terre dans le même sens que la rotation de la Terre : la Terre met 50 minutes de plus pour la « rattraper ».
-
-## La force de marée
-
-La gravité de la Lune produit la force de marée, une force qui vient des différences de gravité d'un point à l'autre de la Terre ; le Soleil y contribue, plus faiblement. Du côté tourné vers la Lune, la gravité est la plus forte et attire l'eau ; du côté opposé, elle est la plus faible et l'eau se renfle aussi.
-
-## Vives-eaux et mortes-eaux
-
-Quand la Terre, la Lune et le Soleil sont alignés, à la pleine lune et à la nouvelle lune, les effets se renforcent : ce sont les marées de vives-eaux. Quand ils s'opposent, ce sont les marées de mortes-eaux, inhabituellement faibles. La baie de Fundy est souvent citée comme ayant les plus hautes marées du monde.
-
-```schema
-type: comparaison
-titre: Vives-eaux et mortes-eaux
-colonnes:
-  - titre: Vives-eaux
-    points:
-      - Lune et Soleil alignés
-      - Marées de grande amplitude
-  - titre: Mortes-eaux
-    points:
-      - Lune et Soleil à angle droit
-      - Marées faibles
-```
-
-## À retenir
-
-- La gravité de la Lune produit la force de marée ; le Soleil y contribue, plus faiblement.
-- Du côté de la Lune, la gravité attire l'eau ; du côté opposé, elle est plus faible et l'eau se renfle aussi.
-- La plupart des côtes ont deux marées hautes et deux marées basses par jour lunaire.
-- Un jour lunaire dure 24 h 50 : la Terre doit « rattraper » la Lune, qui tourne dans le même sens.
-- À la pleine lune et à la nouvelle lune, Terre, Lune et Soleil alignés donnent les marées de vives-eaux.
-
 ---
 type: article
 title: Comment une fusée fait-elle pour rester en orbite autour de la Terre ?
@@ -13074,6 +12626,14 @@ sources:
   - title: "Motions of Satellites and Spacecraft (Astronomy, section 3.5)"
     url: "https://openstax.org/books/astronomy/pages/3-5-motions-of-satellites-and-spacecraft"
     publisher: "OpenStax (Université Rice)"
+  - title: "Orbits"
+    url: "https://science.nasa.gov/learn/basics-of-space-flight/"
+    publisher: "NASA"
+    date: "2025"
+  - title: "Orbit"
+    url: "https://www.britannica.com/science/orbit-astronomy"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
 quiz:
   - question: "Que doit surtout acquérir une fusée pour atteindre l'orbite ?"
     options:
@@ -13830,7 +13390,7 @@ Les 26 caméras se répartissent en 24 caméras dites standard et 2 caméras rap
 
 ## Où et comment ?
 
-Elle sera placée au point de Lagrange L2, à environ 1,5 million de kilomètres de la Terre, pour observer en continu avec une bonne stabilité thermique. Elle doit être lancée par une fusée Ariane 6 depuis Kourou, en Guyane. Elle vise la découverte de milliers d'exoplanètes, dont beaucoup de taille terrestre.
+Elle sera placée au point de Lagrange L2, à environ 1,5 million de kilomètres de la Terre, pour observer en continu avec une bonne stabilité thermique. Elle doit être lancée par une fusée Ariane 6 depuis Kourou, en Guyane, début 2027 selon l'ESA, la date restant à confirmer. Elle vise la découverte de milliers d'exoplanètes, dont beaucoup de taille terrestre.
 
 ## Quatre ans d'observation
 
@@ -14143,7 +13703,7 @@ Il doit étudier l'énergie noire et l'accélération de l'expansion de l'univer
 
 ## Comment marche une microlentille
 
-Quand une étoile passe exactement devant une autre, sa gravité courbe et amplifie la lumière de l'étoile lointaine, pendant quelques jours ou semaines. Si cette étoile avant-plan possède une planète, celle-ci ajoute un bref sursaut de luminosité supplémentaire. L'événement ne se répète jamais : il faut donc une surveillance très fréquente. Cette méthode détecte aussi des planètes errantes, sans étoile.
+Quand une étoile passe exactement devant une autre, sa gravité courbe et amplifie la lumière de l'étoile lointaine, de façon passagère. Si cette étoile avant-plan possède une planète, celle-ci ajoute un bref sursaut de luminosité supplémentaire. Un tel alignement est rare et passager : il faut donc une surveillance très fréquente. Cette méthode détecte aussi des planètes errantes, sans étoile.
 
 ## Le relevé du bulbe galactique
 

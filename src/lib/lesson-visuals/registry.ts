@@ -143,7 +143,6 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
     id: "lift",
     title: "L’aile et l’air qui la contourne",
     paths: [
-      "/aeronautique/aerodynamique/portance/physique-portance-aerodynamique",
       "/aeronautique/aerodynamique/portance/pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air",
       "/aeronautique/aerodynamique/portance/decrochage-aerodynamique",
     ],
@@ -180,7 +179,6 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
     paths: [
       "/aeronautique/propulsion/turboreacteurs/fonctionnement-turboreacteur",
       "/aeronautique/propulsion/turboreacteurs/taux-de-dilution-turboreacteurs",
-      "/aeronautique/propulsion/turboreacteurs/le-turboreacteur-a-double-flux-principe-de-fonctionnement",
     ],
     steps: [
       {
@@ -447,7 +445,6 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
     id: "induction",
     title: "Faire varier le champ dans une bobine",
     paths: [
-      "/energie/reseaux-et-stockage/reseaux-electriques/produire-electricite-avec-aimant",
       "/sciences-fondamentales/physique/electromagnetisme/comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite",
     ],
     steps: [
@@ -618,7 +615,6 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
     id: "orbit",
     title: "Tomber en avançant",
     paths: [
-      "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/mettre-un-objet-en-orbite",
       "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/comment-une-fusee-fait-elle-pour-rester-en-orbite-autour-de-la-terre",
       "/espace-et-astronomie/exploration-spatiale/vols-habites/pourquoi-les-astronautes-flottent-ils-dans-la-station-spatiale",
     ],
@@ -1048,9 +1044,7 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
   {
     id: "arch",
     title: "Les pierres se poussent, les appuis résistent",
-    paths: [
-      "/arts-et-culture/patrimoine/architecture/comment-un-arc-en-pierre-tient-il-debout-grace-a-son-propre-poids",
-    ],
+    paths: ["/technologies-et-ingenierie/genie-civil/structures/arc-voute"],
     steps: [
       {
         label: "Construire sur un cintre",

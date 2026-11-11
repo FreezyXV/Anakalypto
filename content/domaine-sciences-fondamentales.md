@@ -302,7 +302,7 @@ summary: >
   Énoncées en 1687, elles suffisent encore aujourd'hui à calculer la trajectoire d'une sonde
   spatiale vers Jupiter.
 tags: [Newton, mecanique, forces, inertie, mouvement]
-relatedArticles: [energie-et-conservation, physique-portance-aerodynamique]
+relatedArticles: [energie-et-conservation, pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air]
 sources:
   - title: "Newton's laws of motion"
     url: "https://www.britannica.com/science/Newtons-laws-of-motion"
@@ -7187,6 +7187,9 @@ sources:
   - title: "Antimicrobial resistance"
     url: "https://en.wikipedia.org/wiki/Antimicrobial_resistance"
     publisher: "Wikipedia"
+  - title: "Résistance aux antimicrobiens"
+    url: "https://www.who.int/fr/news-room/fact-sheets/detail/r%C3%A9sistance-aux-antimicrobiens"
+    publisher: "Organisation mondiale de la Santé"
 quiz:
   - question: "Quel mécanisme de l'évolution explique la résistance aux antibiotiques ?"
     options:
@@ -8183,6 +8186,9 @@ sources:
   - title: "Specific heat capacity"
     url: "https://en.wikipedia.org/wiki/Specific_heat_capacity"
     publisher: "Wikipedia"
+  - title: "Eau"
+    url: "https://www.larousse.fr/encyclopedie/divers/eau/45222"
+    publisher: "Larousse"
 quiz:
   - question: "Pourquoi la molécule d'eau est-elle dite polaire ?"
     options:
@@ -9349,6 +9355,9 @@ sources:
   - title: "Chlorure de sodium"
     url: "https://fr.wikipedia.org/wiki/Chlorure_de_sodium"
     publisher: "Wikipédia"
+  - title: "11.3 : Solubilité (Chimie 1re, OpenStax)"
+    url: "https://query.libretexts.org/Francais/Chimie_1e_(OpenStax)/11%3A_Solutions_et_collo%C3%AFdes/11.3%3A_Solubilit%C3%A9"
+    publisher: "OpenStax, Rice University (LibreTexts)"
 quiz:
   - question: "Dans de l'eau salée, comment appelle-t-on le sel ?"
     options:
@@ -10976,6 +10985,12 @@ sources:
   - title: "Eratosthenes"
     url: "https://en.wikipedia.org/wiki/Eratosthenes"
     publisher: "Wikipedia"
+  - title: "Énigme 1 : Ératosthène et la mesure de la circonférence de la Terre"
+    url: "https://www.pedagogie.ac-nice.fr/mathematiques/wp-content/uploads/sites/30/2013/01/Enigme-1-LUNDI-Eratosth%C3%A8ne-et-la-mesure-de-la-circonf%C3%A9rence-de-la-Terre.pdf"
+    publisher: "Académie de Nice"
+  - title: "Eratosthène et la mesure de la Terre"
+    url: "https://www.umoncton.ca/umcm-sciences/sites/umcm-sciences.prod.umoncton.ca/files/wf/eratosthene_et_la_mesure_de_la_terre.pdf"
+    publisher: "Université de Moncton"
 quiz:
   - question: "Que se passait-il à Syène, à midi, le jour du solstice d'été ?"
     options:
@@ -11318,6 +11333,12 @@ sources:
   - title: "Jacob Bernoulli"
     url: "https://en.wikipedia.org/wiki/Jacob_Bernoulli"
     publisher: "Wikipedia"
+  - title: "Calcul des probabilités : lois des grands nombres et théorème central limite"
+    url: "https://www.universalis.fr/encyclopedie/calcul-des-probabilites/8-lois-des-grands-nombres-et-theoreme-central-limite/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "loi des grands nombres"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17699757/loi-des-grands-nombres"
+    publisher: "Office québécois de la langue française"
 quiz:
   - question: "Que dit la loi des grands nombres ?"
     options:
@@ -11446,6 +11467,10 @@ sources:
   - title: "Central tendency"
     url: "https://en.wikipedia.org/wiki/Central_tendency"
     publisher: "Wikipedia"
+  - title: "Pour les statisticiens, avoir la moyenne ne suffit pas"
+    url: "https://blog.insee.fr/wp-content/uploads/2023/07/blogInsee_2023_07-pour_les_statisticiens_avoir_la_moyenne_ne_suffit_pas.pdf"
+    publisher: "INSEE"
+    date: "2023"
 quiz:
   - question: "Dans une entreprise, neuf salariés gagnent 2 000 € et le patron 50 000 €. Quelle mesure décrit le mieux le salaire typique ?"
     options:
@@ -12087,6 +12112,15 @@ sources:
   - title: "Bottle dynamo"
     url: "https://en.wikipedia.org/wiki/Bottle_dynamo"
     publisher: "Wikipedia"
+  - title: "Electromagnetism - Induction, Faraday, Magnetism"
+    url: "https://www.britannica.com/science/electromagnetism/Faradays-discovery-of-electric-induction"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+  - title: "The birth of the electric machines: a commentary on Faraday (1832) 'Experimental
+      researches in electricity'"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4360079/"
+    publisher: "Philosophical Transactions of the Royal Society / PMC"
+    date: "2025"
 quiz:
   - question: "Comment s'appelle le phénomène qui crée un courant quand un aimant bouge près d'une bobine ?"
     options:
@@ -12603,6 +12637,9 @@ sources:
   - title: "Weight"
     url: "https://en.wikipedia.org/wiki/Weight"
     publisher: "Wikipedia"
+  - title: "Masse (physique)"
+    url: "https://www.universalis.fr/encyclopedie/masse-physique/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Dans quelle unité mesure-t-on un poids ?"
     options:
@@ -13577,6 +13614,9 @@ sources:
   - title: "Absolute zero"
     url: "https://en.wikipedia.org/wiki/Absolute_zero"
     publisher: "Wikipedia"
+  - title: "Brochure SI, 9e édition"
+    url: "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9-FR.pdf"
+    publisher: "Bureau international des poids et mesures (BIPM)"
 quiz:
   - question: "À quelle température en degrés Celsius correspond le zéro absolu ?"
     options:
@@ -14633,6 +14673,28 @@ sources:
   - title: "Tide"
     url: "https://en.wikipedia.org/wiki/Tide"
     publisher: "Wikipedia"
+  - title: "Tides"
+    url: "https://science.nasa.gov/moon/tides/"
+    publisher: "NASA Science"
+  - title: "What are spring and neap tides?"
+    url: "https://oceanservice.noaa.gov/facts/springtide.html"
+    publisher: "NOAA, Service national de l'océan"
+  - title: "Frequency of Tides - The Lunar Day"
+    url: "https://oceanservice.noaa.gov/education/tutorial_tides/tides05_lunarday.html"
+    publisher: "NOAA National Ocean Service"
+  - title: "How frequent are tides?"
+    url: "https://oceanservice.noaa.gov/facts/tidefrequency.html"
+    publisher: "NOAA National Ocean Service"
+  - title: "What Causes Tides?"
+    url: "https://www.nesdis.noaa.gov/about/k-12-education/oceans-coasts/what-causes-tides"
+    publisher: "NOAA NESDIS"
+  - title: "Marée lunaire"
+    url: "https://www.imcce.fr/newsletter/docs/2015_03_Maree_lunaire.pdf"
+    publisher: "IMCCE (Observatoire de Paris)"
+    date: "2015"
+  - title: "Marées (dossier)"
+    url: "https://mobile.aviso.altimetry.fr/fileadmin/documents/kiosque/dossiers/marees_fr.pdf"
+    publisher: "AVISO+ (CNES)"
 quiz:
   - question: "Quels sont les deux astres qui causent les marées sur Terre ?"
     options:
@@ -19315,7 +19377,7 @@ summary: >
   alternative presque sans perte. Le transformateur permet de transporter l'électricité à très haute
   tension sur des centaines de kilomètres, puis de la ramener à 230 volts dans nos prises.
 tags: [electromagnetisme]
-relatedArticles: [electricite-et-magnetisme-un-seul-phenomene, tension-courant-resistance, comment-l-electricite-voyage-t-elle-de-la-centrale-jusqu-a-votre-prise, produire-electricite-avec-aimant]
+relatedArticles: [electricite-et-magnetisme-un-seul-phenomene, tension-courant-resistance, comment-l-electricite-voyage-t-elle-de-la-centrale-jusqu-a-votre-prise, comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite]
 sources:
   - title: "Transformateur électrique"
     url: "https://fr.wikipedia.org/wiki/Transformateur_%C3%A9lectrique"
@@ -19329,6 +19391,9 @@ sources:
   - title: "Electric power transmission"
     url: "https://en.wikipedia.org/wiki/Electric_power_transmission"
     publisher: "Wikipedia"
+  - title: "Transformateurs (cours IUT GMP)"
+    url: "https://iut-gmp.univ-lille.fr/upload/LPMICVI/05%20TransformateursCAT.pdf"
+    publisher: "Université de Lille, IUT GMP"
 quiz:
   - question: "Un transformateur a 100 spires au primaire et 10 au secondaire. Si l'on applique 230 V, quelle tension obtient-on ?"
     options:
@@ -21916,6 +21981,12 @@ sources:
   - title: "Grands fonds marins"
     url: "https://fr.wikipedia.org/wiki/Grands_fonds_marins"
     publisher: "Wikipédia"
+  - title: "How fish survive extreme pressures of ocean life"
+    url: "https://www.leeds.ac.uk/news/article/5155/how-fish-survive-extreme-pressures-of-ocean-life"
+    publisher: "University of Leeds"
+  - title: "Squishy survivor"
+    url: "https://www.whoi.edu/oceanus/feature/squishy-survivor-snailfish-hadal-zone/"
+    publisher: "Woods Hole Oceanographic Institution"
 quiz:
   - question: "Pourquoi beaucoup de poissons des profondeurs n'ont-ils pas de vessie natatoire à gaz ?"
     options:
@@ -22018,6 +22089,9 @@ sources:
   - title: "Theorema Egregium"
     url: "https://en.wikipedia.org/wiki/Theorema_Egregium"
     publisher: "Wikipedia"
+  - title: "Theorema egregium (concept)"
+    url: "https://graphsearch.epfl.ch/fr/concept/15346132"
+    publisher: "EPFL"
 quiz:
   - question: "Que prouve le théorème remarquable de Gauss pour les cartes ?"
     options:
@@ -22157,17 +22231,17 @@ La zone hadale est la partie la plus profonde de l'océan. Elle commence vers 6 
 
 Les océanographes découpent la colonne d'eau en zones selon la profondeur. La zone hadale est la dernière, et son nom vient d'Hadès, le dieu grec des enfers. Selon l'institut océanographique WHOI, elle s'étend de 6 000 à 11 000 mètres et ne se trouve que dans les fosses.
 
-Ces fosses sont rares et isolées. Elles se forment là où une plaque tectonique plonge sous une autre. Ce sont des fosses et des creux étroits, mais leur surface cumulée est considérable. Selon la NOAA, elle équivaut à environ la moitié de l'Australie ; selon le WHOI, elle est comparable à celle du continent entier. Les sources divergent, mais toutes soulignent que cette zone est vaste.
+Ces fosses sont rares et isolées. Elles se forment là où une plaque tectonique plonge sous une autre. Ce sont des fosses et des creux étroits, mais leur surface cumulée est considérable. Selon la NOAA, elle équivaut à environ la moitié de l'Australie ; selon le WHOI, elle est comparable à celle du continent. Les sources divergent, mais toutes soulignent que cette zone est vaste.
 
 ## Noir, froid, sous pression
 
-Aucune lumière du Soleil n'atteint ces profondeurs. L'eau y reste juste au-dessus de zéro degré, d'après le WHOI. La pression dépasse mille fois celle de la surface : les véhicules robotisés conçus pour ces fonds, comme les Orpheus du WHOI, sont construits pour la supporter. Au fond du Challenger Deep, dans la fosse des Mariannes, elle atteint environ 1 086 bars, d'après la revue Futura.
+Aucune lumière du Soleil n'atteint ces profondeurs. L'eau y reste juste au-dessus de zéro degré, d'après le WHOI. La pression dépasse mille fois celle de la surface : les véhicules robotisés conçus pour ces fonds, comme les Orpheus du WHOI, sont construits pour la supporter.
 
 La nourriture est rare. Certains organismes dépendent de la matière organique qui tombe des couches supérieures. D'autres utilisent l'énergie chimique de suintements hydrothermaux. Les microbes forment la base du réseau alimentaire.
 
 ## Des animaux étonnants
 
-La NOAA rappelle que certaines espèces ne vivent qu'à ces profondeurs, notamment des vers polychètes. Plusieurs organismes utilisent la bioluminescence, une lumière produite par l'animal lui-même, pour communiquer, selon le WHOI. Des crustacés et des poissons y ont été observés.
+La NOAA rappelle que cette zone abrite des espèces distinctives : un ver a ainsi été photographié vers 10 kilomètres de profondeur. Plusieurs organismes utilisent la bioluminescence, une lumière produite par l'animal lui-même, pour communiquer, selon le WHOI.
 
 Les chercheurs étudient aussi leur physiologie : la NOAA indique que certains processus pourraient aider à mettre au point des médicaments, par exemple contre la maladie d'Alzheimer.
 
@@ -22175,14 +22249,14 @@ Les chercheurs étudient aussi leur physiologie : la NOAA indique que certains p
 
 Au XIXe siècle, on pensait que les grands fonds étaient sans vie : en 1859, Forbes et Austen suggéraient qu'ils étaient vides. Dans les années 1950, les expéditions danoise Galathea et soviétique Vitiaz ont dressé les premiers catalogues d'espèces hadales, sans échantillonnage systématique.
 
-Les moyens techniques ont suivi plus tard. Le WHOI a testé en 2009 son premier véhicule capable d'aller à pleine profondeur, le Nereus, perdu en 2014 vers 10 000 mètres dans la fosse des Kermadec. En 2021, le navire Okeanos Explorer de la NOAA a testé les véhicules autonomes Orpheus. Cette zone reste peu connue.
+Les moyens techniques ont suivi plus tard : la pression extrême et l'éloignement de la surface restent de gros obstacles. En 2021, le navire Okeanos Explorer de la NOAA a testé les véhicules autonomes Orpheus. Cette zone reste peu connue.
 
 ## À retenir
 
 - La zone hadale s'étend d'environ 6 000 à 11 000 mètres et n'existe que dans les fosses.
 - Son nom vient d'Hadès, le dieu grec des enfers.
 - L'eau y est à peine au-dessus de zéro et la pression dépasse mille fois celle de la surface.
-- Des animaux, dont des vers polychètes, ne vivent qu'à ces profondeurs.
+- Des espèces distinctives, dont des vers, vivent à ces profondeurs.
 - Son exploration systématique est récente : les premiers catalogues d'espèces datent des années 1950.
 
 ```schema
@@ -23030,6 +23104,9 @@ sources:
   - title: "Ferrocerium"
     url: "https://en.wikipedia.org/wiki/Ferrocerium"
     publisher: "Wikipedia"
+  - title: "Lutte contre les feux de forêt : conseils de prévention"
+    url: "https://www.interieur.gouv.fr/actualites/grands-dossiers/lutte-contre-feux-de-foret-conseils-prevention"
+    publisher: "Ministère de l'Intérieur"
 quiz:
   - question: "Quels sont les trois éléments du triangle du feu ?"
     options:

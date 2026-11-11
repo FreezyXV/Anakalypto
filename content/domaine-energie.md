@@ -1249,7 +1249,7 @@ summary: >
   On ne trouve pas d'hydrogène pur dans la nature. Il faut le fabriquer, et c'est la façon dont
   on le fabrique qui décide de tout.
 tags: [hydrogene, electrolyse, industrie, stockage, decarbonation]
-relatedArticles: [avion-a-hydrogene-etat-des-projets, chimie-industrielle-mondiale-enjeux]
+relatedArticles: [les-concepts-d-avion-a-hydrogene-d-airbus, chimie-industrielle-mondiale-enjeux]
 sources:
   - title: "Hydrogen"
     url: "https://www.iea.org/energy-system/low-emission-fuels/hydrogen"
@@ -4276,7 +4276,7 @@ categoryPath: energie/energies-renouvelables/hydraulique
 summary: >
   Quelques mètres de chute et un petit débit suffisent à alimenter un hameau en électricité.
 tags: [hydraulique, microcentrale, electricite, essentiel-reconstruction]
-relatedArticles: [produire-electricite-avec-aimant]
+relatedArticles: [comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite]
 sources:
   - title: "Micro Hydro Power and How Does Micro Power Work?"
     url: "https://www.alternative-energy-tutorials.com/hydro-energy/micro-hydro-power.html"
@@ -4455,132 +4455,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-
----
-type: article
-title: Produire de l'électricité avec un aimant
-slug: produire-electricite-avec-aimant
-categoryPath: energie/reseaux-et-stockage/reseaux-electriques
-summary: >
-  Dynamo et alternateur : le principe de l'induction qui se cache derrière presque toute l'électricité produite.
-tags: [reseaux-electriques, induction, generateur, essentiel-reconstruction]
-relatedArticles: []
-sources:
-  - title: "Electromagnetism - Induction, Faraday, Magnetism"
-    url: "https://www.britannica.com/science/electromagnetism/Faradays-discovery-of-electric-induction"
-    publisher: "Encyclopaedia Britannica"
-    date: "2025"
-  - title: "The birth of the electric machines: a commentary on Faraday (1832) 'Experimental
-      researches in electricity'"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4360079/"
-    publisher: "Philosophical Transactions of the Royal Society / PMC"
-    date: "2025"
-quiz:
-  - question: "Que faut-il faire pour qu'un aimant produise du courant électrique dans une
-      bobine ?"
-    options:
-      - "Le placer immobile à côté de la bobine"
-      - "Le déplacer ou le faire tourner près de la bobine"
-      - "Le chauffer fortement"
-    answer: 2
-    explanation: >
-      C'est la variation du champ magnétique, provoquée par le mouvement de l'aimant, qui induit
-      un courant. Un aimant immobile ne produit rien.
-  - question: "Quel principe commun utilisent la plupart des centrales électriques pour produire
-      du courant ?"
-    options:
-      - "La réaction chimique entre deux métaux"
-      - "L'induction électromagnétique découverte par Faraday"
-      - "La combustion directe transformée en électricité"
-    answer: 2
-    explanation: >
-      Qu'elles soient nucléaires, hydrauliques ou thermiques, la plupart des centrales font
-      tourner un aimant dans des bobines pour produire du courant par induction.
-  - question: "Comment augmenter le courant produit par un générateur de fortune fait d'une bobine et d'un aimant ?"
-    options:
-      - "Faire tourner l'aimant plus vite et utiliser une bobine avec plus de spires"
-      - "Utiliser un fil sans isolant pour mieux conduire le courant"
-      - "Placer l'aimant immobile au centre de la bobine"
-    answer: 1
-    explanation: "Plus la rotation est rapide et plus le nombre de spires est élevé, plus le courant produit est important."
-  - question: "Dans les premiers générateurs pratiques, quel était le rôle de la manivelle, de la roue à eau ou de la machine à vapeur ?"
-    options:
-      - "Fournir directement l'électricité à la place de l'aimant"
-      - "Faire tourner les aimants à l'intérieur des bobines fixes"
-      - "Refroidir les bobines pour éviter leur échauffement"
-    answer: 2
-    explanation: "Ces dispositifs servaient de source d'énergie pour entraîner la rotation des aimants dans les bobines, ce qui produit le courant."
-lastVerified: 2026-09-25
-status: published
----
-
-## En bref
-
-Déplacer un aimant près d'un fil électrique enroulé en bobine suffit à produire du courant, sans
-aucune réaction chimique. Cette découverte, faite en 1831, est à l'origine de presque toute
-l'électricité produite dans le monde aujourd'hui.
-
-## La découverte de Faraday
-
-Le physicien britannique Michael Faraday cherchait depuis dix ans à prouver qu'un aimant pouvait
-produire de l'électricité. En 1831, il observe qu'en déplaçant rapidement un aimant à l'intérieur
-d'une bobine de fil, un courant électrique bref apparaît dans le fil, même sans pile ni batterie.
-
-Ce phénomène s'appelle l'induction électromagnétique : un champ magnétique qui varie dans le
-temps crée un courant électrique dans un conducteur voisin.
-
-## Pourquoi il faut du mouvement
-
-Un aimant immobile près d'une bobine ne produit rien : c'est la variation du champ magnétique,
-pas sa seule présence, qui génère le courant. C'est pourquoi il faut faire tourner l'aimant, ou
-la bobine, en continu pour obtenir un courant électrique soutenu plutôt qu'une simple impulsion.
-
-## De la découverte à la dynamo
-
-Quelques années seulement après l'expérience de Faraday, des ingénieurs ont construit les
-premiers générateurs pratiques exploitant ce principe : des aimants tournant à l'intérieur de
-bobines fixes, entraînés par une manivelle, une roue à eau ou une machine à vapeur.
-
-## L'alternateur moderne
-
-Presque toutes les centrales électriques actuelles, qu'elles soient nucléaires, hydrauliques ou à
-charbon, fonctionnent sur exactement ce même principe : une source d'énergie fait tourner un
-aimant à l'intérieur de bobines, ce qui produit le courant alternatif qui alimente le réseau
-électrique.
-
-## Fabriquer un générateur de fortune
-
-Une bobine de fil de cuivre isolé, enroulée autour d'un aimant que l'on fait tourner rapidement à
-la main, produit un courant électrique mesurable, suffisant pour allumer une petite ampoule ou
-une diode. Plus la rotation est rapide et le nombre de spires élevé, plus le courant produit est
-important.
-
-## À retenir
-
-- Un aimant en mouvement près d'une bobine de fil produit un courant électrique, sans réaction
-  chimique.
-- Michael Faraday a découvert ce phénomène, l'induction électromagnétique, en 1831.
-- Seule la variation du champ magnétique produit du courant, pas sa simple présence.
-- La quasi-totalité des centrales électriques actuelles utilisent ce même principe pour produire
-  du courant.
-- Une bobine de cuivre et un aimant en rotation suffisent à construire un générateur électrique
-  rudimentaire.
-
-```schema
-type: etapes
-titre: L'induction électromagnétique
-legende: Découverte par Michael Faraday en 1831.
-elements:
-  - titre: Un aimant
-    icone: magnet
-  - titre: Du mouvement
-    texte: Seule la variation du champ produit du courant.
-  - titre: Une bobine de fil
-  - titre: Un courant électrique
-    icone: bolt
-```
 
 ---
 
@@ -4962,7 +4836,7 @@ categoryPath: energie/reseaux-et-stockage/hydrogene
 summary: >
   Séparer l'eau en hydrogène et oxygène avec de l'électricité : le principe, les rendements, les usages.
 tags: [hydrogene, electrolyse, essentiel-reconstruction]
-relatedArticles: [batterie-plomb, produire-electricite-avec-aimant]
+relatedArticles: [batterie-plomb, comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite]
 sources:
   - title: "Hydrogen Production: Electrolysis"
     url: "https://www.energy.gov/eere/fuelcells/hydrogen-production-electrolysis"
@@ -9181,6 +9055,12 @@ sources:
   - title: "MeyGen"
     url: "https://en.wikipedia.org/wiki/MeyGen"
     publisher: "Wikipedia"
+  - title: "Énergies marines renouvelables hors éolien en mer"
+    url: "https://www.ecologie.gouv.fr/politiques-publiques/energies-marines-renouvelables-hors-eolien-mer"
+    publisher: "Ministère de l'Écologie"
+  - title: "MED Fiche 38 Autres EMR"
+    url: "https://www.debatpublic.fr/sites/default/files/2023-11/MED_Fiche_38_Autres_EMR.pdf"
+    publisher: "Commission nationale du débat public"
 quiz:
   - question: "Pourquoi une hydrolienne peut-elle être plus petite qu'une éolienne de même puissance ?"
     options:
@@ -16162,7 +16042,7 @@ En France, l'électricité vient surtout du nucléaire, puis de l'hydraulique, d
 
 ## Un mix dominé par le nucléaire
 
-En 2025, la France métropolitaine a produit 547,5 TWh d'électricité. Le nucléaire a fourni 373,0 TWh, de loin la plus grande part. La production d'électricité française repose depuis longtemps sur le nucléaire, complété par l'hydraulique, le gaz, l'éolien et le solaire. L'hydraulique a produit 62,4 TWh. L'éolien se place derrière le nucléaire et l'hydraulique, et devant le solaire. Le solaire a produit 32,9 TWh, en forte hausse. Les centrales à gaz, au fioul et au charbon n'ont fourni qu'une petite part de la production.
+En 2025, la France métropolitaine a produit 547,5 TWh d'électricité. Le nucléaire a fourni 373,0 TWh, de loin la plus grande part. La production d'électricité française repose depuis longtemps sur le nucléaire, complété par l'hydraulique, le gaz, l'éolien et le solaire. L'hydraulique a produit 62,4 TWh. L'éolien et le solaire ont progressé, et la puissance solaire installée (30,4 GW) a dépassé celle de l'hydraulique (25,7 GW). Les centrales à gaz, au fioul et au charbon n'ont fourni qu'une petite part de la production.
 
 ## Une électricité très peu carbonée
 
@@ -16198,7 +16078,7 @@ Une production abondante a un effet visible sur les prix. En 2025, le prix de gr
 
 - Le nucléaire a fourni 373,0 TWh, de loin la plus grande part.
 - L'hydraulique a produit 62,4 TWh.
-- Le solaire a produit 32,9 TWh, en forte hausse.
+- La puissance solaire installée a dépassé celle de l'hydraulique.
 - Plus de 95 % de l'électricité produite en France est décarbonée, issue du nucléaire et des renouvelables.
 - La France a exporté 92,3 TWh de plus qu'elle n'en a importé, un record.
 ---

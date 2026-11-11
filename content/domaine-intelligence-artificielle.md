@@ -7197,6 +7197,9 @@ sources:
   - title: "Convolutional neural network"
     url: "https://en.wikipedia.org/wiki/Convolutional_neural_network"
     publisher: "Wikipedia"
+  - title: "Convolution (cours CSC8607)"
+    url: "https://www-inf.telecom-sudparis.eu/COURS/CSC8607/Supports/cours/convolution.pdf"
+    publisher: "Télécom SudParis"
 quiz:
   - question: "Que fait un filtre dans un réseau convolutif ?"
     options:
@@ -7323,6 +7326,9 @@ sources:
   - title: "Recurrent neural network"
     url: "https://en.wikipedia.org/wiki/Recurrent_neural_network"
     publisher: "Wikipedia"
+  - title: "CSC321 Lecture 15 (slides)"
+    url: "https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/slides/lec15.pdf"
+    publisher: "University of Toronto"
 quiz:
   - question: "Comment un réseau récurrent lit-il une phrase ?"
     options:
@@ -9184,6 +9190,9 @@ sources:
   - title: "Stable Diffusion"
     url: "https://en.wikipedia.org/wiki/Stable_Diffusion"
     publisher: "Wikipedia"
+  - title: "Diffusion Models in Vision: A Survey"
+    url: "https://arxiv.org/pdf/2209.04747"
+    publisher: "arXiv"
 quiz:
   - question: "Par quoi commence un modèle de diffusion pour créer une image ?"
     options:
@@ -9396,6 +9405,9 @@ sources:
   - title: "Artificial Intelligence Act"
     url: "https://en.wikipedia.org/wiki/Artificial_Intelligence_Act"
     publisher: "Wikipedia"
+  - title: "Hypertrucage"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26552557/hypertrucage"
+    publisher: "Office québécois de la langue française"
 quiz:
   - question: "Quel est le mot français officiel pour « deepfake » ?"
     options:
@@ -9668,6 +9680,10 @@ sources:
   - title: "Large language model"
     url: "https://en.wikipedia.org/wiki/Large_language_model"
     publisher: "Wikipedia"
+  - title: "Evaluating RAG System Performance: The Impact of Knowledge Cut-off and Fine-Tuning"
+    url: "https://neurips.cc/virtual/2024/105008"
+    publisher: "NeurIPS"
+    date: "2024"
 quiz:
   - question: "Qu'est-ce que la date limite des connaissances d'un modèle de langage ?"
     options:
@@ -10345,6 +10361,10 @@ sources:
   - title: "Expert system"
     url: "https://en.wikipedia.org/wiki/Expert_system"
     publisher: "Wikipedia"
+  - title: "Preface, Buchanan and Shortliffe (1984)"
+    url: "https://impact.dbmi.columbia.edu/~ehs7001/Buchanan-Shortliffe-1984/Preface.pdf"
+    publisher: "Columbia University"
+    date: "1984"
 quiz:
   - question: "Quelle forme ont les règles d'un système expert ?"
     options:
@@ -10454,6 +10474,10 @@ sources:
   - title: "Robotique"
     url: "https://fr.wikipedia.org/wiki/Robotique"
     publisher: "Wikipédia"
+  - title: "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications"
+    url: "https://rpl.cs.utexas.edu/publications/2025/09/01/kawaharazuka-ieeeaccess25-vla/"
+    publisher: "University of Texas at Austin, Robot Perception and Learning Lab"
+    date: "2025"
 quiz:
   - question: "Que fait un système d'IA physique ?"
     options:
@@ -10582,6 +10606,9 @@ sources:
   - title: "Vision-language-action model"
     url: "https://en.wikipedia.org/wiki/Vision-language-action_model"
     publisher: "Wikipedia"
+  - title: "Vision-Language Models for Vision Tasks: A Survey"
+    url: "https://arxiv.org/pdf/2304.00685"
+    publisher: "arXiv"
 quiz:
   - question: "Que peut faire un modèle de vision et de langage ?"
     options:

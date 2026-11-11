@@ -1646,6 +1646,21 @@ sources:
   - title: "Pulley"
     url: "https://en.wikipedia.org/wiki/Pulley"
     publisher: "Wikipedia"
+  - title: "Simple Machines (Next Gen STEM)"
+    url: "https://www.nasa.gov/wp-content/uploads/2022/06/simple_machines_classroom_connection_508.pdf"
+    publisher: "NASA"
+  - title: "Powerful Pulleys"
+    url: "https://www.teachengineering.org/lessons/cub_simple_lesson05"
+    publisher: "TeachEngineering"
+  - title: "The Wheel, 5200 years"
+    url: "https://mgml.si/en/city-museum/exhibitions/211/the-wheel-5200-years/"
+    publisher: "City Museum of Ljubljana"
+  - title: "Oldest wheel"
+    url: "https://www.guinnessworldrecords.com/world-records/713722-oldest-wheel"
+    publisher: "Guinness World Records"
+  - title: "Ingenium feuille d'activité machines simples réponses"
+    url: "https://ingenium.ca/wp-content/uploads/2025/02/Ingenium-feuille-dactivite-machines-simples-reponses.pdf"
+    publisher: "Ingenium (musées des sciences et de la technologie du Canada)"
 quiz:
   - question: "Avec un levier dont le bras côté main est quatre fois plus long que le bras côté charge, quelle force faut-il pour soulever 100 kg ?"
     options:
@@ -1807,6 +1822,18 @@ sources:
   - title: "Pantheon, Rome"
     url: "https://en.wikipedia.org/wiki/Pantheon,_Rome"
     publisher: "Wikipedia"
+  - title: "Éduscol STI (page 3487)"
+    url: "https://sti.eduscol.education.fr/print/3487"
+    publisher: "Éduscol"
+  - title: "Arch (architecture)"
+    url: "https://www.britannica.com/print/article/32510"
+    publisher: "Encyclopaedia Britannica"
+  - title: "Coupole"
+    url: "https://www.universalis.fr/encyclopedie/coupole/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "Panthéon de Rome"
+    url: "https://www.worldhistory.org/trans/Fr/1-11201/pantheon-de-rome/"
+    publisher: "World History Encyclopedia"
 quiz:
   - question: "Comment travaille la pierre dans un arc ?"
     options:
@@ -2014,6 +2041,9 @@ sources:
   - title: "Tenon et mortaise"
     url: "https://fr.wikipedia.org/wiki/Tenon_et_mortaise"
     publisher: "Wikipédia"
+  - title: "Fiche Pathologie Bâtiment C01 : déformation des charpentes assemblées bois"
+    url: "https://qualiteconstruction.com/wp-content/uploads/2024/05/Fiche-Pathologie-Batiment-C01-Deformation-Charpentes-Assemblees-Bois-Chantier-AQC.pdf"
+    publisher: "AQC (Agence Qualité Construction)"
 quiz:
   - question: "Pourquoi les charpentes sont-elles faites de triangles ?"
     options:
@@ -3975,6 +4005,12 @@ sources:
   - title: "Hooke's law"
     url: "https://en.wikipedia.org/wiki/Hooke%27s_law"
     publisher: "Wikipedia"
+  - title: "Rhéologie : comportement physique et mécanique des matériaux 3 (avant-propos)"
+    url: "https://www.istegroup.com/wp-content/uploads/2024/05/981_Rheologie-comportement-physique-et-mecanique-de-materiaux-3_avant-propos.pdf"
+    publisher: "ISTE Group"
+  - title: "12.06 : Élasticité et plasticité"
+    url: "https://query.libretexts.org/Francais/Physique_universitaire_I_-_M%C3%A9canique,_son,_oscillations_et_ondes_(OpenStax)/12:_%C3%89quilibre_statique_et_%C3%A9lasticit%C3%A9/12.06:_%C3%89lasticit%C3%A9_et_plasticit%C3%A9"
+    publisher: "LibreTexts (adaptation OpenStax)"
 quiz:
   - question: "Que se passe-t-il quand on dépasse la limite d'élasticité d'un métal ?"
     options:
@@ -4103,6 +4139,9 @@ sources:
   - title: "Fatigue (material)"
     url: "https://en.wikipedia.org/wiki/Fatigue_(material)"
     publisher: "Wikipedia"
+  - title: "material fatigue"
+    url: "https://graphsearch.epfl.ch/fr/category/material-fatigue"
+    publisher: "EPFL"
 quiz:
   - question: "Qu'est-ce qui provoque la fatigue d'un matériau ?"
     options:
@@ -4237,6 +4276,12 @@ sources:
   - title: "Stainless steel"
     url: "https://en.wikipedia.org/wiki/Stainless_steel"
     publisher: "Wikipedia"
+  - title: "Module 05 : Résistance à la corrosion des aciers inoxydables"
+    url: "https://worldstainless.org/files/issf/Education/French/Module_05_Résistance_à_la_corrosion_des_aciers_inoxydables.pdf"
+    publisher: "ISSF (International Stainless Steel Forum)"
+  - title: "What is Stainless Steel (FR)"
+    url: "https://www.edelstahl-rostfrei.de/fileadmin/user_upload/ISER/downloads/What_is_Stainless_Steel_FR.pdf"
+    publisher: "ISER (Informationsstelle Edelstahl Rostfrei)"
 quiz:
   - question: "Quel élément faut-il ajouter à l'acier pour le rendre inoxydable ?"
     options:
@@ -4771,6 +4816,12 @@ sources:
   - title: "Factor of safety"
     url: "https://en.wikipedia.org/wiki/Factor_of_safety"
     publisher: "Wikipedia"
+  - title: "NBN EN 1990 (Eurocode 0 : bases de calcul des structures)"
+    url: "https://www.cstc.be/media/0a3lmptz/nbn-en-1990.pdf"
+    publisher: "CSTC (Centre scientifique et technique de la construction, Belgique)"
+  - title: "NF EN 1990 : Eurocode : bases de calcul des structures"
+    url: "https://www.boutique.afnor.org/standard/nf-en-1990/eurocode-basis-of-structural-design/article/760619/fa102408"
+    publisher: "AFNOR"
 quiz:
   - question: "Que signifie un coefficient de sécurité de 2 ?"
     options:
@@ -5298,6 +5349,9 @@ sources:
   - title: "Joseph Monier"
     url: "https://fr.wikipedia.org/wiki/Joseph_Monier"
     publisher: "Wikipédia"
+  - title: "Corrosion des armatures du béton armé"
+    url: "https://www.febelcem.be/fileadmin/user_upload/dossiers-ciment-2008/fr/T1_FR_Corrosion-armatures-beton-arme.pdf"
+    publisher: "Febelcem (fédération de l'industrie cimentière belge)"
 quiz:
   - question: "Quel est le point faible du béton seul ?"
     options:
@@ -5838,6 +5892,13 @@ sources:
   - title: "Barrage-voûte"
     url: "https://fr.wikipedia.org/wiki/Barrage-vo%C3%BBte"
     publisher: "Wikipédia"
+  - title: "Le dimensionnement des barrages-poids : pratiques actuelles"
+    url: "https://www.barrages-cfbr.eu/IMG/pdf/colloque2019_b102_le_dimensionnement_des_barrages-poids_pratiques_actuelles.pdf"
+    publisher: "CFBR (Comité français des barrages et réservoirs)"
+    date: "2019"
+  - title: "Généralités sur les barrages"
+    url: "https://www.afgc.asso.fr/app/uploads/2026/05/GeneralitesBarrages_AscoTP-1.pdf"
+    publisher: "AFGC (Association française de génie civil)"
 quiz:
   - question: "De quoi dépend surtout la poussée de l'eau sur un barrage ?"
     options:
@@ -6488,128 +6549,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-type: article
-title: Le levier, la poulie et la roue, la mécanique de base
-slug: le-levier-la-poulie-et-le-plan-incline-en-construction
-categoryPath: technologies-et-ingenierie/genie-civil/structures
-summary: >
-  Levier, poulie et roue sont trois des six machines simples. Leur avantage mécanique se calcule
-  avec des bras de levier ou un nombre de brins de corde.
-tags: [structures, essentiel-reconstruction, reconstruction]
-sources:
-  - title: "Simple Machines (Next Gen STEM)"
-    url: "https://www.nasa.gov/wp-content/uploads/2022/06/simple_machines_classroom_connection_508.pdf"
-    publisher: "NASA"
-  - title: "Simple machine"
-    url: "https://en.wikipedia.org/wiki/Simple_machine"
-    publisher: "Wikipedia"
-  - title: "Lever"
-    url: "https://en.wikipedia.org/wiki/Lever"
-    publisher: "Wikipedia"
-  - title: "Pulley"
-    url: "https://en.wikipedia.org/wiki/Pulley"
-    publisher: "Wikipedia"
-  - title: "Block and tackle"
-    url: "https://en.wikipedia.org/wiki/Block_and_tackle"
-    publisher: "Wikipedia"
-  - title: "Powerful Pulleys"
-    url: "https://www.teachengineering.org/lessons/cub_simple_lesson05"
-    publisher: "TeachEngineering"
-  - title: "Ljubljana Marshes Wheel"
-    url: "https://en.wikipedia.org/wiki/Ljubljana_Marshes_Wheel"
-    publisher: "Wikipedia"
-  - title: "The Wheel, 5200 years"
-    url: "https://mgml.si/en/city-museum/exhibitions/211/the-wheel-5200-years/"
-    publisher: "City Museum of Ljubljana"
-  - title: "Oldest wheel"
-    url: "https://www.guinnessworldrecords.com/world-records/713722-oldest-wheel"
-    publisher: "Guinness World Records"
-quiz:
-  - question: "Combien de machines simples classiques la NASA compte-t-elle ?"
-    options:
-      - "Trois"
-      - "Six"
-      - "Douze"
-    answer: 2
-    explanation: >
-      Il existe six machines simples classiques : la vis, le plan incliné, le coin, le levier,
-      la roue et l'essieu, et la poulie.
-  - question: "Quel est l'avantage mécanique d'une poulie mobile seule ?"
-    options:
-      - "1"
-      - "2"
-      - "6"
-    answer: 2
-    explanation: >
-      Une poulie mobile seule est portée par deux brins de la même corde : son avantage
-      mécanique est de 2.
-  - question: "Avec un avantage mécanique de 6, quelle longueur de corde faut-il tirer pour élever la charge d'un mètre ?"
-    options:
-      - "1 mètre"
-      - "3 mètres"
-      - "6 mètres"
-    answer: 3
-    explanation: >
-      Ce qu'on gagne en force se paie en longueur de corde : avec un avantage mécanique de 6, il
-      faut tirer 6 mètres de corde pour élever la charge d'un mètre.
-  - question: "Quel âge a la plus ancienne roue en bois connue avec son essieu ?"
-    options:
-      - "Environ 520 ans"
-      - "Environ 5 200 ans"
-      - "Environ 52 000 ans"
-    answer: 2
-    explanation: >
-      La plus ancienne roue en bois connue, avec son essieu, découverte dans les marais de
-      Ljubljana en Slovénie, a environ 5 200 ans.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Une machine simple change la direction ou l'intensité d'une force. On en compte six, dont le levier, la roue et l'essieu, et la poulie. La poulie permet de gagner en force, en payant ce gain en longueur de corde.
-
-```schema
-type: chiffres
-titre: L'avantage mécanique
-chiffres:
-  - valeur: 6
-    texte: machines simples classiques
-  - valeur: Levier
-    texte: avantage égal au rapport des longueurs des bras
-  - valeur: Poulies
-    texte: avantage égal au nombre de brins qui portent la charge
-```
-
-## Six machines simples
-
-Il existe six machines simples classiques : la vis, le plan incliné, le coin, le levier, la roue et l'essieu, et la poulie. La NASA cite comme exemples la balançoire à bascule et les ciseaux pour le levier, le vélo et l'horloge pour la roue et l'essieu, l'ascenseur et le puits pour la poulie.
-
-## Le levier
-
-Un levier s'appuie sur un point fixe, le pivot ou point d'appui, pour déplacer un objet. Son avantage mécanique est égal au rapport des longueurs de ses bras de levier. Les plus anciens écrits conservés sur le levier sont attribués à Archimède, à qui l'on prête la phrase « Donnez-moi un levier assez long et un point d'appui, et je soulèverai le monde ».
-
-## La poulie
-
-L'avantage mécanique d'un système de poulies est égal au nombre de brins de corde qui portent la charge. Une poulie fixe change seulement la direction de la force : elle n'apporte aucun avantage mécanique. Une poulie mobile seule est portée par deux brins de la même corde : son avantage mécanique est de 2. Ce qu'on gagne en force se paie en longueur de corde : avec un avantage mécanique de 6, il faut tirer 6 mètres de corde pour élever la charge d'un mètre.
-
-## La roue
-
-Une roue fixée à un essieu sert à faire tourner ou à déplacer une charge. La plus ancienne roue en bois connue, avec son essieu, découverte dans les marais de Ljubljana en Slovénie, a environ 5 200 ans. Elle est en frêne et en chêne, et son essieu est en chêne : il était fixé aux roues par des coins en chêne et tournait avec elles.
-
-## Avant de commencer
-
-Il faut une corde solide, une barre rigide, une roue ou une poulie.
-
-## À retenir
-
-- Il existe six machines simples classiques, dont le levier, la roue et l'essieu, et la poulie.
-- L'avantage mécanique d'un levier est le rapport des longueurs de ses bras.
-- L'avantage mécanique d'un système de poulies est égal au nombre de brins de corde qui portent la charge.
-- Ce qu'on gagne en force se paie en longueur de corde.
-- La plus ancienne roue en bois connue avec son essieu a environ 5 200 ans.
 
 ---
 type: article
@@ -12223,6 +12162,12 @@ sources:
   - title: "Lidar"
     url: "https://en.wikipedia.org/wiki/Lidar"
     publisher: "Wikipedia"
+  - title: "SY27 - Machines Intelligentes (cours lidar)"
+    url: "https://www.hds.utc.fr/~huetremy/submodules/SY27-lidar/cours.html"
+    publisher: "UTC (Université de technologie de Compiègne)"
+  - title: "Imagerie laser 3D à plan focal"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/electronique-photonique-th13/applications-des-lasers-et-instrumentation-laser-42661210/imagerie-laser-3d-a-plan-focal-r6734/"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Qu'est-ce qu'un lidar envoie pour mesurer une distance ?"
     options:
@@ -12883,6 +12828,12 @@ sources:
   - title: "Extreme ultraviolet lithography"
     url: "https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography"
     publisher: "Wikipedia"
+  - title: "Approche descendante (fiche terminologique)"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8355868/approche-descendante"
+    publisher: "Office québécois de la langue française"
+  - title: "Approche ascendante (fiche terminologique)"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8355869/approche-ascendante"
+    publisher: "Office québécois de la langue française"
 quiz:
   - question: "Combien vaut un nanomètre ?"
     options:
@@ -12979,6 +12930,12 @@ sources:
   - title: "Cement"
     url: "https://en.wikipedia.org/wiki/Cement"
     publisher: "Wikipedia"
+  - title: "Émissions de CO2 lors de la fabrication (ciments géopolymères)"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/materiaux-th11/surfaces-et-structures-fonctionnelles-42534210/ciments-geopolymeres-n3301/emissions-de-co2-lors-de-la-fabrication-n3301niv10006.html"
+    publisher: "Techniques de l'Ingénieur"
+  - title: "Que sont les ciments géopolymères"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/materiaux-th11/surfaces-et-structures-fonctionnelles-42534210/ciments-geopolymeres-n3301/que-sont-les-ciments-geopolymeres-n3301niv10001.html"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "D'où vient une grande partie du CO2 du ciment ?"
     options:
@@ -13190,6 +13147,12 @@ sources:
   - title: "3D printing"
     url: "https://en.wikipedia.org/wiki/3D_printing"
     publisher: "Wikipedia"
+  - title: "Topological optimization of a multibody system by the SIMP method"
+    url: "https://openscience.fr/Topological-optimization-of-a-multibody-system-by-the-SIMP-method"
+    publisher: "ISTE OpenScience"
+  - title: "A NURBS-BASED TOPOLOGY OPTIMIZATION METHOD INCLUDING ADDITIVE MANUFACTURING CONSTRAINTS"
+    url: "https://hal.archives-ouvertes.fr/hal-01695683v1"
+    publisher: "HAL (archive ouverte)"
 quiz:
   - question: "Que fait l'optimisation topologique ?"
     options:
@@ -13411,6 +13374,9 @@ sources:
   - title: "3D printing"
     url: "https://en.wikipedia.org/wiki/3D_printing"
     publisher: "Wikipedia"
+  - title: "3D-printed lightweight concrete for better building insulation"
+    url: "https://www.cordis.europa.eu/article/id/435273-3d-printed-lightweight-concrete-for-better-building-insulation/fr"
+    publisher: "CORDIS (Commission européenne)"
 quiz:
   - question: "Comment imprime-t-on en général un mur en béton ?"
     options:
@@ -13507,6 +13473,10 @@ sources:
   - title: "Self-healing concrete"
     url: "https://en.wikipedia.org/wiki/Self-healing_concrete"
     publisher: "Wikipedia"
+  - title: "Microencapsulation pour l'autoréparation"
+    url: "https://theses.fr/2011AIX30037"
+    publisher: "theses.fr (Aix-Marseille Université)"
+    date: "2011"
 quiz:
   - question: "Que fait un matériau autocicatrisant ?"
     options:
@@ -13647,11 +13617,11 @@ status: published
 
 ## En bref
 
-Des robots posent des briques, lient des armatures, tracent des plans ou surveillent le chantier. Ils répondent aux pénuries de main-d'œuvre, mais le coût et l'imprévu les limitent.
+Des robots posent des briques, tracent des plans ou surveillent le chantier. Ils répondent aux pénuries de main-d'œuvre, mais le coût et l'imprévu les limitent.
 
-## Poser, lier, tracer
+## Poser et tracer
 
-Des robots maçons posent des briques de façon autonome, avec une grande précision et sans fatigue. Des robots lient les armatures en continu, avec un seul ouvrier qui supervise. Des robots de traçage impriment directement les plans sur la dalle du chantier : l'un d'eux réalise ce travail six fois plus vite que sans robot, selon un rapport cité en 2025.
+Des robots maçons posent des briques de façon autonome, avec une grande précision et sans fatigue. Des robots de traçage impriment directement les plans sur la dalle du chantier : selon un article de 2025, ils iraient de trois à cinq fois plus vite que le traçage manuel.
 
 ## Creuser, démolir, surveiller
 
@@ -13659,19 +13629,19 @@ Des engins lourds autonomes, comme des excavatrices, déplacent les matériaux. 
 
 ## Pourquoi, et jusqu'où
 
-Les raisons de leur essor sont la pénurie de main-d'œuvre, la sécurité, la productivité et la réduction des délais. Peu de jeunes entrent dans le métier, beaucoup d'ouvriers qualifiés partent à la retraite et le travail est physiquement dur. Le cabinet McKinsey note aussi que les gains de productivité du secteur ont été faibles depuis vingt ans, très en dessous de l'industrie.
+Les raisons de leur essor sont la pénurie de main-d'œuvre, la sécurité, la productivité et la réduction des délais. Peu de jeunes entrent dans le métier, beaucoup d'ouvriers qualifiés partent à la retraite et le travail est physiquement dur. Selon un article citant le cabinet McKinsey, rattraper le retard de productivité du secteur représenterait un gain potentiel de plus de 1 600 milliards de dollars par an dans le monde.
 
 Les robots prennent les tâches répétitives ou dangereuses, pendant que les ouvriers se concentrent sur la supervision et les décisions qualifiées. Ils sont censés soutenir les ouvriers, pas les remplacer, et exigent une supervision humaine. Des exosquelettes réduisent la fatigue et le risque de blessure.
 
 ## Entre enthousiasme et usage réel
 
-Un baromètre du secteur (BuiltWorlds) montre un décalage. Les avis positifs sur la robotique sont passés de 74 % en 2024 à plus de 95 % en 2025. Pourtant, la part des entreprises qui déclarent utiliser activement des robots a reculé, de 65 % à 46 %.
+Un baromètre du secteur (BuiltWorlds) signalerait un décalage entre l'enthousiasme pour la robotique et son usage réel, mais ses chiffres n'ont pas pu être vérifiés.
 
 Le coût d'achat est un frein, surtout pour les petites entreprises, et il faut intégrer les robots aux méthodes de travail.
 
 ## Les humanoïdes, une promesse
 
-McKinsey voit dans les robots humanoïdes une solution potentiellement transformatrice, à condition qu'ils deviennent rentables. Aujourd'hui, leurs usages se limitent à des tâches répétitives dans des lieux très réguliers, comme des rayons de supermarché cartographiés. Un chantier, où rien n'est identique d'un jour à l'autre, reste un terrain bien plus difficile.
+Plusieurs entreprises développent des robots humanoïdes, présentés comme une tendance à venir, d'abord pour des usines de construction modulaire. Un chantier, où rien n'est identique d'un jour à l'autre, reste un terrain bien plus difficile.
 
 ```schema
 type: systeme
@@ -13691,9 +13661,9 @@ parties:
 ## À retenir
 
 - Des robots maçons posent des briques de façon autonome, avec une grande précision et sans fatigue.
-- Des robots lient les armatures en continu, avec un seul ouvrier qui supervise.
+- Des robots de traçage impriment les plans sur la dalle, bien plus vite qu'à la main.
 - Les raisons de leur essor sont la pénurie de main-d'œuvre, la sécurité, la productivité et la réduction des délais.
-- En 2025, les avis positifs dépassent 95 %, mais l'usage actif tombe à 46 % des entreprises.
+- L'enthousiasme pour la robotique semble dépasser l'usage réel, mais les chiffres du secteur restent à confirmer.
 - Ils sont censés soutenir les ouvriers, pas les remplacer, et exigent une supervision humaine.
 ---
 type: article
@@ -13812,6 +13782,12 @@ sources:
   - title: "Self-healing material"
     url: "https://en.wikipedia.org/wiki/Self-healing_material"
     publisher: "Wikipedia"
+  - title: "How does self-healing concrete work?"
+    url: "https://cordis.europa.eu/article/id/442767-how-does-self-healing-concrete-work/fr"
+    publisher: "CORDIS (Commission européenne)"
+  - title: "Auto-cicatrisation du béton"
+    url: "https://sti.eduscol.education.fr/sites/eduscol.education.fr.sti/files/ressources/pedagogiques/17281/17281-auto-cicatrisation-du-beton-ensps.pdf"
+    publisher: "Eduscol (ministère de l'Éducation nationale)"
 quiz:
   - question: "Que fait un béton autocicatrisant ?"
     options:

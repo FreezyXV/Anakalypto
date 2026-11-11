@@ -17390,7 +17390,7 @@ Chez le nouveau-né, les os du crâne ne sont pas encore soudés. Les espaces qu
 
 ## Du cartilage à l'os
 
-Chez le bébé, certains os sont entièrement faits de cartilage, une matière souple, et d'autres en contiennent en partie. Pendant l'enfance, le cartilage grandit et est remplacé peu à peu par de l'os, grâce au calcium. La croissance des os se termine, et la masse osseuse atteint son maximum, au début de l'âge adulte.
+Chez le bébé, certains os sont entièrement faits de cartilage, une matière souple, et d'autres en contiennent en partie. Pendant l'enfance, le cartilage grandit et est remplacé peu à peu par de l'os, grâce au calcium. L'os s'allonge pendant l'enfance, puis le corps continue de le renouveler toute la vie.
 
 ## Des plaques de croissance
 

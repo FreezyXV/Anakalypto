@@ -16585,6 +16585,13 @@ sources:
   - title: "Éthylène"
     url: "https://fr.wikipedia.org/wiki/%C3%89thyl%C3%A8ne"
     publisher: "Wikipédia"
+  - title: "Fiche technique : conservation des légumes"
+    url: "https://www.agrobio-bretagne.org/wp-content/uploads/2019/07/FICHE_TK_CONSERVATION_LÉGUMES_WEB.pdf"
+    publisher: "Agrobio Bretagne"
+  - title: "La conservation des légumes après récolte (dossier)"
+    url: "https://www.grab.fr/wp-content/uploads/2010/09/REF-BIO-OCT-nov-2010-dossier-conservation.pdf"
+    publisher: "GRAB"
+    date: "2010"
 quiz:
   - question: "Pourquoi garder les pommes de terre dans l'obscurité ?"
     options:

@@ -3581,6 +3581,12 @@ sources:
   - title: "Crystal radio"
     url: "https://en.wikipedia.org/wiki/Crystal_radio"
     publisher: "Wikipedia"
+  - title: "Crystal Receivers (Radio Encyclopedia)"
+    url: "https://www.museum.tv/radio-encyclopedia-3/crystal-receivers"
+    publisher: "Early Television Museum"
+  - title: "Cat's-whisker detector (PDF)"
+    url: "https://lso.fe.uni-lj.si/literatura/VajeVT/Schottky/priprava/Cat's-whisker_detector.pdf"
+    publisher: "Université de Ljubljana, Faculté d'électrotechnique"
 quiz:
   - question: "D'où vient l'énergie qui fait fonctionner un poste à galène ?"
     options:
@@ -13768,6 +13774,9 @@ sources:
   - title: "Vérification des faits"
     url: "https://fr.wikipedia.org/wiki/V%C3%A9rification_des_faits"
     publisher: "Wikipédia"
+  - title: "TinEye Reverse Image Search"
+    url: "https://cours.univ-paris1.fr/mod/url/view.php?id=1264603"
+    publisher: "Université Paris 1 Panthéon-Sorbonne"
 quiz:
   - question: "Que fait la recherche d'image inversée ?"
     options:
@@ -13923,25 +13932,25 @@ La vérification des faits, ou fact-checking, consiste à contrôler la véracit
 
 Face à un témoin ou à un informateur, le réflexe de base est de demander : comment le savez-vous ? Quelqu'un qui a vu la scène n'a pas le même poids que quelqu'un qui répète ce qu'on lui a raconté. On cherche ensuite une deuxième source indépendante, qui n'a pas simplement copié la première.
 
-Le Verification Handbook, un manuel destiné aux journalistes, présente la vérification comme un processus à préparer à l'avance, pas comme un réflexe isolé. Une rédaction qui s'est donné des règles réagit mieux quand l'actualité s'accélère.
+Le Verification Handbook, un manuel destiné aux journalistes, ne propose pas de recette unique mais des stratégies à adapter à chaque fait et à chaque rôle. Il insiste pour contrôler aussi les sources officielles, et pour chercher des documents plutôt que de se fier aux seuls témoignages.
 
 ## Vérifier une image ou une vidéo
 
-Pour un document venu des réseaux sociaux, trois questions reviennent : qui l'a publié en premier, quand et où a-t-il été filmé ou photographié ? Chaque réponse se recoupe. La recherche d'image inversée retrouve la première version en ligne. Le paysage, les enseignes ou les ombres se comparent à des images satellites ou à d'autres photos du lieu.
+Un document venu des réseaux sociaux se contrôle avant usage, surtout en urgence. Les questions utiles portent sur l'auteur de la première publication, la date et le lieu de la prise de vue. Chaque réponse se recoupe. La recherche d'image inversée retrouve la première version en ligne. Le paysage, les enseignes ou les ombres se comparent à des images satellites ou à d'autres photos du lieu.
 
 Un exemple fréquent : une vidéo présentée comme récente peut dater de plusieurs années, ou venir d'un autre pays. Si les éléments ne concordent pas, le journaliste ne publie pas, ou il indique clairement ce qui reste incertain.
 
 ## Des gestes précis
 
-La lecture latérale consiste à consulter plusieurs autres sources pour vérifier vite une information. Ils utilisent aussi la recherche d'image inversée, des services d'archives du web et des outils pour étudier les domaines et les réseaux sociaux.
+La lecture latérale consiste à consulter plusieurs autres sources pour se faire vite une idée d'une information, plutôt que de creuser une seule page.
 
 ## Qui vérifie ?
 
-En France, on peut citer Les Décodeurs du Monde, AFP Factuel et CheckNews de Libération. L'International Fact-Checking Network, hébergé par l'institut Poynter, publie un code de principes que les organisations de vérification s'engagent à respecter.
+En France, on peut citer Les Décodeurs du Monde, AFP Factuel et CheckNews de Libération. L'International Fact-Checking Network, hébergé par l'institut Poynter, propose un code de principes que les organisations de vérification aspirent à respecter.
 
 ## Des limites
 
-La vérification des faits a une efficacité limitée sur les publics très polarisés, et elle peut parfois répéter une fausse information en la corrigeant.
+La vérification des faits a une efficacité limitée sur les publics très polarisés, et, selon ses critiques, elle peut parfois répéter une fausse information en la corrigeant.
 
 ```schema
 type: etapes

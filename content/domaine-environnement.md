@@ -6821,6 +6821,9 @@ sources:
   - title: "Deinking"
     url: "https://en.wikipedia.org/wiki/Deinking"
     publisher: "Wikipedia"
+  - title: "Efficient paper recycling from first page to last"
+    url: "https://www.cordis.europa.eu/article/id/120328-efficient-paper-recycling-from-first-page-to-last/fr"
+    publisher: "CORDIS (Commission européenne)"
 quiz:
   - question: "Comment appelle-t-on l'étape où l'on retire l'encre du vieux papier ?"
     options:

@@ -1834,6 +1834,9 @@ sources:
   - title: "MOSFET"
     url: "https://en.wikipedia.org/wiki/MOSFET"
     publisher: "Wikipedia"
+  - title: "CHAP 4elec quere"
+    url: "https://brive.unilim.fr/wp-content/uploads/sites/6/2016/12/CHAP_4elec_quere.pdf"
+    publisher: "Université de Limoges"
 quiz:
   - question: "Que fait la tension sur la grille d'un MOSFET ?"
     options:
@@ -1938,6 +1941,12 @@ sources:
   - title: "Dennard scaling"
     url: "https://en.wikipedia.org/wiki/Dennard_scaling"
     publisher: "Wikipedia"
+  - title: "Loi de Moore"
+    url: "https://www.universalis.fr/encyclopedie/loi-de-moore/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "Loi de Moore : la loi de 1975"
+    url: "https://www.universalis.fr/encyclopedie/loi-de-moore/2-la-loi-de-1975/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Que prédit la loi de Moore, dans sa version de 1975 ?"
     options:
@@ -2074,6 +2083,9 @@ sources:
   - title: "AlexNet"
     url: "https://en.wikipedia.org/wiki/AlexNet"
     publisher: "Wikipedia"
+  - title: "Cours I03 GPU"
+    url: "https://perso.ensta-paris.fr/~tajchman/Seance05/Cours_I03_GPU.pdf"
+    publisher: "ENSTA Paris"
 quiz:
   - question: "Quelle est la grande différence entre un CPU et un GPU ?"
     options:
@@ -2218,6 +2230,12 @@ sources:
   - title: "Procédé de Czochralski"
     url: "https://fr.wikipedia.org/wiki/Proc%C3%A9d%C3%A9_de_Czochralski"
     publisher: "Wikipédia"
+  - title: "FeteScience09 FicheDemo08R"
+    url: "https://sites.laas.fr/laas/files/RE-COM/FeteScience09/FeteScience09_FicheDemo08R.pdf"
+    publisher: "LAAS-CNRS"
+  - title: "Cours 2 Phy568"
+    url: "https://www.enseignement.polytechnique.fr/profs/physique/Francois.Anceau/Phy568/Amphis/cours2.pdf"
+    publisher: "École polytechnique"
 quiz:
   - question: "Comment dessine-t-on les motifs des transistors sur le silicium ?"
     options:
@@ -4421,6 +4439,9 @@ sources:
   - title: "American Standard Code for Information Interchange"
     url: "https://fr.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange"
     publisher: "Wikipédia"
+  - title: "Représentation des données : code ASCII étendu et entiers naturels"
+    url: "https://ent2d.ac-bordeaux.fr/disciplines/sti-college/wp-content/uploads/sites/63/2024/06/SFC1l-Representation-des-donnees-_-representation-des-booleens-des-mots-code-ASCII-etendu-des-nombres-entiers-naturels-1.docx.pdf"
+    publisher: "Académie de Bordeaux"
 quiz:
   - question: "Combien vaut le nombre binaire 1101 en écriture décimale ?"
     options:
@@ -5456,6 +5477,10 @@ sources:
   - title: "Structured program theorem"
     url: "https://en.wikipedia.org/wiki/Structured_program_theorem"
     publisher: "Wikipedia"
+  - title: "Un modèle fonctionnel des structures de contrôle"
+    url: "https://www.numdam.org/item/ITA_1977__11_3_213_0"
+    publisher: "RAIRO - Informatique théorique"
+    date: "1977"
 quiz:
   - question: "À quoi sert une condition « si... alors... sinon » ?"
     options:
@@ -8180,6 +8205,9 @@ sources:
   - title: "Chiffrement par décalage"
     url: "https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage"
     publisher: "Wikipédia"
+  - title: "Vigenere cipher"
+    url: "https://britannica.com/topic/Vigenere-cipher"
+    publisher: "Encyclopaedia Britannica"
 quiz:
   - question: "De combien de rangs Jules César décalait-il les lettres ?"
     options:
@@ -10600,6 +10628,12 @@ sources:
   - title: "Tri fusion"
     url: "https://fr.wikipedia.org/wiki/Tri_fusion"
     publisher: "Wikipédia"
+  - title: "Tri Fusion"
+    url: "https://dept-info.labri.fr/ENSEIGNEMENT/algotab/cours/Tri-Fusion.pdf"
+    publisher: "LaBRI (Université de Bordeaux)"
+  - title: "trifusion"
+    url: "https://ufr-segmi.parisnanterre.fr/medias/fichier/trifusion__1190755500435.pdf"
+    publisher: "Université Paris Nanterre"
 quiz:
   - question: "À quoi ressemble le tri par insertion ?"
     options:
@@ -11639,6 +11673,9 @@ sources:
   - title: "Microkernel"
     url: "https://en.wikipedia.org/wiki/Microkernel"
     publisher: "Wikipedia"
+  - title: "Systèmes d'exploitation, informatique : structure d'un système d'exploitation"
+    url: "https://www.universalis.fr/encyclopedie/systemes-d-exploitation-informatique/1-structure-d-un-systeme-d-exploitation/"
+    publisher: "Encyclopædia Universalis"
 quiz:
   - question: "Quel est le rôle principal du noyau ?"
     options:
@@ -14159,6 +14196,9 @@ sources:
   - title: "Cryptographie asymétrique"
     url: "https://fr.wikipedia.org/wiki/Cryptographie_asym%C3%A9trique"
     publisher: "Wikipédia"
+  - title: "Cryptographie RSA et factorisation"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/archives-th12/archives-reseaux-et-telecommunications-tiate/archive-1/rsa-la-fin-des-cles-de-768-bits-in131/cryptographie-rsa-et-factorisation-in131niv10001.html"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Quelle clé peut-on diffuser librement ?"
     options:
@@ -14421,6 +14461,9 @@ sources:
   - title: "Raster graphics"
     url: "https://en.wikipedia.org/wiki/Raster_graphics"
     publisher: "Wikipedia"
+  - title: "Profondeur de couleur"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26507029/profondeur-de-couleur"
+    publisher: "Office québécois de la langue française"
 quiz:
   - question: "Que signifie pixel ?"
     options:
@@ -14643,6 +14686,12 @@ sources:
   - title: "Qubit"
     url: "https://en.wikipedia.org/wiki/Qubit"
     publisher: "Wikipedia"
+  - title: "Défis du CEA : infographie processeur quantique élémentaire"
+    url: "https://irig.cea.fr/multimedia/Documents/infographies/defis-du-cea-infographie-processeur-quantique-elementaire214.pdf"
+    publisher: "CEA"
+  - title: "Superconducting quantum computers"
+    url: "https://cordis.europa.eu/article/id/83207-superconducting-quantum-computers/fr"
+    publisher: "CORDIS (Commission européenne)"
 quiz:
   - question: "Qu'est-ce qu'un qubit ?"
     options:
