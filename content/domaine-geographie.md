@@ -1327,113 +1327,6 @@ status: planned
 
 ---
 type: article
-title: Lire une carte topographique
-slug: lire-carte-topographique
-categoryPath: geographie-et-territoires/geographie-physique/reliefs
-summary: >
-  Courbes de niveau, échelle, orientation : se repérer et comprendre le relief sur le papier.
-tags: [reliefs, cartographie, orientation, essentiel-reconstruction]
-relatedArticles: [naviguer-sans-gps]
-sources:
-  - title: "How to Read a Topographic Map"
-    url: "https://www.rei.com/learn/expert-advice/topo-maps-how-to-use.html"
-    publisher: "REI"
-    date: "2025"
-  - title: "What are Contour Lines?"
-    url: "https://www.greenbelly.co/pages/contour-lines"
-    publisher: "Greenbelly Meals"
-    date: "2025"
-quiz:
-  - question: "Que signifient des courbes de niveau très rapprochées les unes des autres sur une
-      carte topographique ?"
-    options:
-      - "Un terrain plat et facile à parcourir"
-      - "Une pente raide où l'altitude change rapidement sur une courte distance"
-      - "Une zone où il n'y a aucune information disponible"
-    answer: 2
-    explanation: >
-      Des courbes de niveau rapprochées indiquent que l'altitude varie beaucoup sur une distance
-      réduite, ce qui signale une pente raide, tandis que des courbes espacées indiquent un
-      terrain plus plat.
-  - question: "Que signifie une échelle de carte indiquée comme un pour vingt-quatre mille ?"
-    options:
-      - "Un centimètre sur la carte correspond à vingt-quatre mille centimètres sur le terrain"
-      - "La carte couvre vingt-quatre mille kilomètres carrés"
-      - "Il y a vingt-quatre mille courbes de niveau sur la carte"
-    answer: 1
-    explanation: >
-      Une échelle de un pour vingt-quatre mille signifie qu'une unité de mesure sur la carte, par
-      exemple un centimètre, correspond à vingt-quatre mille de cette même unité sur le terrain
-      réel.
-lastVerified: 2026-09-28
-status: published
----
-
-## En bref
-
-Une carte topographique représente en deux dimensions un terrain qui en compte trois, grâce à des
-lignes appelées courbes de niveau. Apprendre à lire ces courbes permet de visualiser mentalement
-le relief réel avant même de mettre les pieds sur le terrain.
-
-## Les courbes de niveau, le relief en lignes
-
-Chaque courbe de niveau relie tous les points situés à une même altitude. L'écart d'altitude entre
-deux courbes consécutives, appelé équidistance, reste constant sur une même carte et est indiqué
-dans sa légende.
-
-## Interpréter l'espacement des courbes
-
-Des courbes rapprochées signalent une pente raide, où l'altitude change rapidement sur une courte
-distance. Des courbes largement espacées indiquent au contraire un terrain relativement plat, où
-l'altitude évolue lentement.
-
-## Les courbes maîtresses, des repères facilités
-
-Pour faciliter la lecture, une courbe sur cinq environ, appelée courbe maîtresse, est tracée plus
-épaisse et porte une indication d'altitude directement écrite sur la ligne, ce qui évite de
-compter toutes les courbes intermédiaires une par une.
-
-## Comprendre l'échelle de la carte
-
-L'échelle indique le rapport entre une distance mesurée sur la carte et la distance réelle sur le
-terrain. Une échelle de un pour vingt-quatre mille signifie qu'un centimètre sur le papier
-correspond à vingt-quatre mille centimètres, soit deux cent quarante mètres, sur le terrain réel.
-
-## S'orienter avec la carte
-
-Aligner la carte avec le nord réel, à l'aide d'une boussole ou de repères naturels, permet de
-faire correspondre les éléments dessinés avec ce que l'on observe autour de soi, facilitant
-grandement le repérage sur le terrain.
-
-## À retenir
-
-- Les courbes de niveau relient les points de même altitude sur une carte topographique.
-- Des courbes rapprochées indiquent une pente raide, des courbes espacées un terrain plus plat.
-- Les courbes maîtresses, plus épaisses, portent une indication d'altitude pour faciliter la
-  lecture.
-- L'échelle indique le rapport entre une distance sur la carte et la distance réelle sur le
-  terrain.
-- Aligner la carte avec le nord réel facilite grandement le repérage sur le terrain.
-
-```schema
-type: comparaison
-titre: Lire les courbes de niveau
-colonnes:
-  - titre: Courbes rapprochées
-    points:
-      - Pente raide
-  - titre: Courbes espacées
-    points:
-      - Terrain plat ou doux
-  - titre: Courbes maîtresses
-    points:
-      - Plus épaisses, pour se repérer
-```
-
----
-
----
-type: article
 title: Les glaciers
 slug: glaciers
 categoryPath: geographie-et-territoires/geographie-physique/reliefs
@@ -2641,7 +2534,7 @@ categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
 summary: >
   Boussole, étoiles, carte et estime : les méthodes de navigation traditionnelles.
 tags: [routes-et-detroits, navigation, orientation, essentiel-reconstruction]
-relatedArticles: [reperer-grace-etoiles, lire-carte-topographique]
+relatedArticles: [reperer-grace-etoiles, lire-une-carte-topographique-principes-de-base]
 sources:
   - title: "How to Navigate Without GPS: Master Land Navigation Skills"
     url: "https://www.battlbox.com/blogs/outdoors/how-to-navigate-without-gps-mastering-the-art-of-classic-navigation"
@@ -6033,6 +5926,14 @@ sources:
   - title: "Orienteering"
     url: "https://en.wikipedia.org/wiki/Orienteering"
     publisher: "Wikipedia"
+  - title: "How to Read a Topographic Map"
+    url: "https://www.rei.com/learn/expert-advice/topo-maps-how-to-use.html"
+    publisher: "REI"
+    date: "2025"
+  - title: "What are Contour Lines?"
+    url: "https://www.greenbelly.co/pages/contour-lines"
+    publisher: "Greenbelly Meals"
+    date: "2025"
 quiz:
   - question: "Sur une carte au 1/25 000, à quelle distance réelle correspond 1 cm ?"
     options:
@@ -11277,101 +11178,6 @@ Il faut un terrain dégagé, deux piquets, et de quoi mesurer une longueur et un
 
 ---
 type: article
-title: La projection de Mercator et la déformation des cartes
-slug: la-projection-de-mercator-et-la-deformation-des-cartes
-categoryPath: geographie-et-territoires/geographie-physique/reliefs
-summary: >
-  La projection de Mercator, présentée en 1569, conserve les angles et rend les routes à cap
-  constant rectilignes, mais elle déforme les surfaces près des pôles.
-tags: [cartographie, projection, mercator]
-sources:
-  - title: "Mercator projection"
-    url: "https://en.wikipedia.org/wiki/Mercator_projection"
-    publisher: "Wikipedia"
-  - title: "Nautical Cartography"
-    url: "https://nauticalcharts.noaa.gov/learn/nautical-cartography.html"
-    publisher: "NOAA Office of Coast Survey"
-  - title: "Selecting a Map Projection"
-    url: "https://education.nationalgeographic.org/resource/selecting-map-projection/"
-    publisher: "National Geographic Education"
-quiz:
-  - question: "En quelle année Mercator présente-t-il sa projection ?"
-    options:
-      - "1369"
-      - "1569"
-      - "1769"
-    answer: 2
-    explanation: >
-      1569 : le géographe flamand Gerardus Mercator présente sa projection.
-  - question: "Que conserve la projection de Mercator ?"
-    options:
-      - "Les angles"
-      - "Les surfaces"
-      - "Les distances"
-    answer: 1
-    explanation: >
-      La projection de Mercator conserve les angles, mais déforme les surfaces.
-  - question: "Combien de fois la surface de l'Afrique est-elle plus grande que celle du Groenland ?"
-    options:
-      - "Environ 2 fois"
-      - "Environ 14 fois"
-      - "Environ 140 fois"
-    answer: 2
-    explanation: >
-      Le Groenland paraît aussi grand que l'Afrique, alors que la surface de l'Afrique est
-      environ 14 fois plus grande.
-  - question: "Pourquoi les marins utilisent-ils cette projection ?"
-    options:
-      - "Une ligne droite y est une route à cap constant"
-      - "Elle est en couleur"
-      - "Elle montre les vents"
-    answer: 1
-    explanation: >
-      Sur une carte de Mercator, toute ligne droite est une ligne de cap constant, ou
-      loxodromie.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La projection de Mercator, présentée en 1569, conserve les angles et rend les routes à cap constant rectilignes, mais elle déforme les surfaces près des pôles.
-
-## Une carte pour les marins
-
-En 1569, le géographe flamand Gerardus Mercator présente sa projection. Sur une carte de Mercator, toute ligne droite est une ligne de cap constant, ou loxodromie : un navire qui garde le même cap suit un segment de droite. La projection est devenue la référence des cartes marines.
-
-## Les angles, mais pas les surfaces
-
-La projection de Mercator conserve les angles, mais déforme les surfaces ; elle convient mal aux régions proches des pôles. L'échelle augmente avec la latitude : les objets éloignés de l'équateur paraissent plus grands.
-
-## Le Groenland et l'Afrique
-
-Sur une carte de Mercator, le Groenland paraît aussi grand que l'Afrique, alors que la surface de l'Afrique est environ 14 fois plus grande.
-
-```schema
-type: comparaison
-titre: La projection de Mercator, 1569
-colonnes:
-  - titre: Ce qu'elle conserve
-    points:
-      - Les angles
-      - Une ligne droite est un cap constant
-  - titre: Ce qu'elle déforme
-    points:
-      - Les surfaces, surtout près des pôles
-```
-
-## À retenir
-
-- En 1569, le géographe flamand Gerardus Mercator présente sa projection.
-- Sur ses cartes, toute ligne droite est une ligne de cap constant, ou loxodromie.
-- Elle conserve les angles, mais déforme les surfaces : l'échelle augmente avec la latitude.
-- Le Groenland y paraît aussi grand que l'Afrique, dont la surface est environ 14 fois plus grande.
-- Elle est devenue la référence des cartes marines.
-
----
-type: article
 title: L'organisation d'une ville, centre et périphéries
 slug: l-organisation-d-une-ville-centre-et-peripheries
 categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
@@ -11384,104 +11190,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-type: article
-title: Comment trace-t-on une frontière, et pourquoi certaines sont-elles contestées ?
-slug: comment-trace-t-on-une-frontiere-et-pourquoi-certaines-sont-elles-contestees
-categoryPath: geographie-et-territoires/geopolitique/frontieres
-summary: >
-  Une frontière peut suivre un fleuve, une montagne ou une ligne droite. Beaucoup ont été
-  tracées par des puissances coloniales sans consulter les peuples, ce qui nourrit des litiges.
-tags: [frontieres]
-sources:
-  - title: "Frontière"
-    url: "https://fr.wikipedia.org/wiki/Fronti%C3%A8re"
-    publisher: "Wikipédia"
-  - title: "Border"
-    url: "https://en.wikipedia.org/wiki/Border"
-    publisher: "Wikipedia"
-  - title: "Berlin Conference"
-    url: "https://en.wikipedia.org/wiki/Berlin_Conference"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Qu'est-ce que le thalweg ?"
-    options:
-      - "Un type de montagne"
-      - "Une ville frontière"
-      - "La ligne la plus profonde du lit d'un fleuve"
-    answer: 3
-    explanation: >
-      Quand une frontière suit un fleuve, c'est souvent le thalweg, la ligne la plus profonde du
-      lit, qui la marque.
-  - question: "Qu'est-ce qu'une frontière géométrique ?"
-    options:
-      - "Une frontière en forme de cercle seulement"
-      - "Une frontière dessinée par des enfants"
-      - "Une ligne droite qui suit un méridien ou un parallèle"
-    answer: 3
-    explanation: >
-      D'autres frontières sont géométriques : des lignes droites suivant des méridiens ou des
-      parallèles, surtout au Sahara et en Amérique du Nord.
-  - question: "Qui a tracé beaucoup de frontières africaines ?"
-    options:
-      - "Les Nations unies en 1900"
-      - "Des puissances coloniales européennes"
-      - "Les peuples africains seuls"
-    answer: 2
-    explanation: >
-      Beaucoup de frontières ont été tracées pendant la colonisation par des puissances
-      européennes, sans consulter les populations.
-  - question: "Pourquoi naissent des litiges frontaliers ?"
-    options:
-      - "Les cartes sont trop colorées"
-      - "Les fleuves sont trop longs"
-      - "Les États voient la frontière avec des intérêts incompatibles"
-    answer: 3
-    explanation: >
-      Un litige naît quand deux États voient la frontière avec des intérêts ou une identité
-      incompatibles, comme au Cachemire entre l'Inde et le Pakistan.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Une frontière peut suivre un fleuve, une montagne ou une ligne droite. Beaucoup ont été tracées par des puissances coloniales sans consulter les peuples, ce qui nourrit des litiges.
-
-## Ce qu'est une frontière
-
-Une frontière sépare deux territoires, en particulier deux États souverains ; ce peut être une ligne imaginaire ou un espace plus épais. L'idée d'une frontière précise est liée au développement de l'État moderne. Le tracé résulte des rapports de force, de la volonté des peuples ou de la géographie, qui offre des défenses naturelles.
-
-## Suivre la nature ou tirer une ligne
-
-Certaines frontières suivent la nature : fleuves, montagnes, mers, lacs. Quand une frontière suit un fleuve, c'est souvent le thalweg, la ligne la plus profonde du lit, qui la marque. D'autres frontières sont géométriques : des lignes droites suivant des méridiens ou des parallèles, surtout au Sahara et en Amérique du Nord. La frontière entre le Canada et les États-Unis suit le 49e parallèle sur une grande longueur. En mer, un État a une souveraineté complète sur ses eaux territoriales, puis des droits économiques dans sa zone économique exclusive.
-
-## L'héritage colonial
-
-Beaucoup de frontières ont été tracées pendant la colonisation par des puissances européennes, sans consulter les populations. La conférence de Berlin a réuni des puissances européennes, sans aucun pays africain invité. Elle a posé le principe de l'occupation effective pour reconnaître les prétentions coloniales. Les partages ignoraient souvent les frontières ethniques, linguistiques et culturelles.
-
-## Pourquoi des litiges ?
-
-Un litige naît quand deux États voient la frontière avec des intérêts ou une identité incompatibles, comme au Cachemire entre l'Inde et le Pakistan.
-
-```schema
-type: systeme
-titre: Les sources de litiges frontaliers
-centre: Frontière contestée
-parties:
-  - nom: Tracé naturel ou ligne
-  - nom: Héritage colonial
-  - nom: Ressources
-```
-
-## À retenir
-
-- Une frontière sépare deux territoires, en particulier deux États souverains ; ce peut être une ligne imaginaire ou un espace plus épais.
-- Certaines frontières suivent la nature : fleuves, montagnes, mers, lacs.
-- D'autres frontières sont géométriques : des lignes droites suivant des méridiens ou des parallèles, surtout au Sahara et en Amérique du Nord.
-- Beaucoup de frontières ont été tracées pendant la colonisation par des puissances européennes, sans consulter les populations.
-- Un litige naît quand deux États voient la frontière avec des intérêts ou une identité incompatibles, comme au Cachemire entre l'Inde et le Pakistan.
 
 ---
 type: article
@@ -11598,6 +11306,12 @@ sources:
   - title: "Map projection"
     url: "https://en.wikipedia.org/wiki/Map_projection"
     publisher: "Wikipedia"
+  - title: "Nautical Cartography"
+    url: "https://nauticalcharts.noaa.gov/learn/nautical-cartography.html"
+    publisher: "NOAA Office of Coast Survey"
+  - title: "Selecting a Map Projection"
+    url: "https://education.nationalgeographic.org/resource/selecting-map-projection/"
+    publisher: "National Geographic Education"
 quiz:
   - question: "Pour quel usage la projection de Mercator est-elle conçue ?"
     options:
@@ -11873,102 +11587,6 @@ chiffres:
 
 ---
 type: article
-title: Quelles régions de France attirent le plus de nouveaux habitants ?
-slug: quelles-regions-de-france-attirent-le-plus-de-nouveaux-habitants
-categoryPath: geographie-et-territoires/geographie-humaine/migrations
-summary: >
-  Les Français déménagent moins qu'avant. L'Ouest et le Sud-Ouest attirent, l'Île-de-France et
-  les centres denses perdent des habitants au profit des zones périurbaines.
-tags: [migrations]
-sources:
-  - title: "Moins de déménagements en dix ans, mais l'Ouest et le périurbain toujours attractifs"
-    url: "https://www.insee.fr/fr/statistiques/8648157"
-    publisher: "Insee Première"
-  - title: "Entre 2015 et 2021, la croissance démographique est deux fois plus élevée dans l'espace urbain que dans le rural"
-    url: "https://www.insee.fr/fr/statistiques/7726965"
-    publisher: "Insee Focus"
-  - title: "Du nord au sud, les mouvements naturels et migratoires opposent les départements"
-    url: "https://www.insee.fr/fr/statistiques/3288449"
-    publisher: "Insee Focus"
-quiz:
-  - question: "Les Français déménagent-ils plus ou moins qu'il y a dix ans ?"
-    options:
-      - "Moins"
-      - "Beaucoup plus"
-      - "Exactement autant"
-    answer: 1
-    explanation: >
-      Les Français déménagent moins qu'il y a dix ans.
-  - question: "Quelles régions attirent des habitants venus d'autres régions ?"
-    options:
-      - "Le Grand Est seulement"
-      - "La Bretagne, l'Occitanie et la Nouvelle-Aquitaine"
-      - "L'Île-de-France seulement"
-    answer: 2
-    explanation: >
-      L'Ouest et le Sud-Ouest attirent : la Bretagne, l'Occitanie et la Nouvelle-Aquitaine
-      gagnent des habitants grâce aux arrivées en provenance d'autres régions.
-  - question: "Que gagnent les espaces périurbains ?"
-    options:
-      - "Des volcans"
-      - "Des habitants grâce aux déménagements"
-      - "Des ports"
-    answer: 2
-    explanation: >
-      Les espaces périurbains gagnent des habitants grâce aux déménagements.
-  - question: "Que signifie solde migratoire ?"
-    options:
-      - "Les arrivées moins les départs"
-      - "Les naissances moins les décès"
-      - "Le nombre de maisons"
-    answer: 1
-    explanation: >
-      La croissance d'un territoire repose sur deux soldes : le solde naturel, naissances moins
-      décès, et le solde migratoire, arrivées moins départs.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Les Français déménagent moins qu'avant. L'Ouest et le Sud-Ouest attirent, l'Île-de-France et les centres denses perdent des habitants au profit des zones périurbaines.
-
-## Moins de déménagements
-
-Les Français déménagent moins qu'il y a dix ans. Les jeunes adultes sont les plus mobiles, notamment pour leurs études. Le vieillissement de la population explique une partie de la baisse des déménagements.
-
-## Où l'on va, où l'on part
-
-L'Ouest et le Sud-Ouest attirent : la Bretagne, l'Occitanie et la Nouvelle-Aquitaine gagnent des habitants grâce aux arrivées en provenance d'autres régions. L'Île-de-France perd des habitants dans ses échanges avec les autres régions, et cela dure. Les centres urbains denses perdent des habitants au profit des zones qui les entourent. Les espaces périurbains gagnent des habitants grâce aux déménagements.
-
-## La carte de la croissance
-
-La croissance d'un territoire repose sur deux soldes : le solde naturel, naissances moins décès, et le solde migratoire, arrivées moins départs. Le solde naturel a faibli, et la croissance démographique du pays a ralenti. La population a augmenté plus vite dans l'espace urbain que dans le rural. Les mouvements naturels et migratoires opposent les départements du nord et du sud : le Sud et l'Ouest attirent, le nord-est perd des habitants. De nombreux départements du nord-est, du centre et du Massif central perdent des habitants. La croissance est la plus forte autour de Paris, sur la façade atlantique, dans le Sud et dans la vallée du Rhône.
-
-```schema
-type: comparaison
-titre: Où vont les Français
-colonnes:
-  - titre: Régions attractives
-    points:
-      - Bretagne
-      - Occitanie
-      - Nouvelle-Aquitaine
-  - titre: Tendance générale
-    points:
-      - On déménage moins qu'il y a dix ans
-```
-
-## À retenir
-
-- Les Français déménagent moins qu'il y a dix ans.
-- L'Ouest et le Sud-Ouest attirent : Bretagne, Occitanie et Nouvelle-Aquitaine gagnent des habitants grâce aux arrivées d'autres régions.
-- L'Île-de-France perd des habitants dans ses échanges avec les autres régions, et cela dure.
-- Les espaces périurbains gagnent des habitants grâce aux déménagements.
-- Le Sud et l'Ouest attirent des habitants, le nord-est en perd.
-
----
-type: article
 title: Pourquoi les outre-mer donnent-ils à la France un territoire si dispersé ?
 slug: pourquoi-les-outre-mer-donnent-ils-a-la-france-un-territoire-si-disperse
 categoryPath: geographie-et-territoires/geographie-physique
@@ -12064,99 +11682,6 @@ parties:
 
 ---
 type: article
-title: Comment un conteneur traverse-t-il le monde par la mer ?
-slug: comment-un-conteneur-traverse-t-il-le-monde-par-la-mer
-categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
-summary: >
-  La grande majorité du commerce mondial de marchandises, en volume, passe par la mer. Le
-  conteneur standardisé, de grands ports et quelques passages obligés organisent ces flux.
-tags: [routes-et-detroits]
-sources:
-  - title: "Transport maritime"
-    url: "https://fr.wikipedia.org/wiki/Transport_maritime"
-    publisher: "Wikipédia"
-  - title: "Maritime transport"
-    url: "https://en.wikipedia.org/wiki/Maritime_transport"
-    publisher: "Wikipedia"
-  - title: "Containerization"
-    url: "https://en.wikipedia.org/wiki/Containerization"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Quelle voie transporte la plus grande part du commerce mondial en volume ?"
-    options:
-      - "Les airs"
-      - "Les chemins de fer"
-      - "La mer"
-    answer: 3
-    explanation: >
-      La grande majorité du commerce mondial de marchandises, en volume, passe par la mer.
-  - question: "Qu'est-ce qui a révolutionné le transport maritime ?"
-    options:
-      - "Le conteneur standardisé"
-      - "La voile"
-      - "Le téléphone"
-    answer: 1
-    explanation: >
-      Le conteneur, une boîte standardisée, a révolutionné le transport maritime.
-  - question: "Citez un passage obligé du commerce maritime."
-    options:
-      - "Le lac Léman"
-      - "Le canal de Suez"
-      - "La Seine"
-    answer: 2
-    explanation: >
-      Les flux passent par des points de passage obligés : les canaux de Suez et de Panama et le
-      détroit de Malacca.
-  - question: "Que signifie EVP ?"
-    options:
-      - "Équivalent vingt pieds, une unité de mesure des conteneurs"
-      - "Entrée vers le port"
-      - "Ensemble de voiles"
-    answer: 1
-    explanation: >
-      Des normes ISO fixent les tailles et les repères des conteneurs, mesurés en EVP,
-      équivalents vingt pieds.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La grande majorité du commerce mondial de marchandises, en volume, passe par la mer. Le conteneur standardisé, de grands ports et quelques passages obligés organisent ces flux.
-
-## La mer, première voie du commerce
-
-La grande majorité du commerce mondial de marchandises, en volume, passe par la mer. Des dizaines de milliers de navires marchands forment la flotte mondiale. Cette flotte comprend surtout des vraquiers, des porte-conteneurs et des cargos de marchandises générales. Les grands ports, comme Shanghai et Singapour, concentrent les flux. Les flux passent par des points de passage obligés : les canaux de Suez et de Panama et le détroit de Malacca.
-
-## Le conteneur, une révolution
-
-Le conteneur, une boîte standardisée, a révolutionné le transport maritime. Le transporteur américain Malcom McLean a lancé le conteneur moderne avec l'ingénieur Keith Tantlinger. Des normes ISO fixent les tailles et les repères des conteneurs, mesurés en EVP, équivalents vingt pieds. La conteneurisation a fortement réduit le coût de manutention et soutenu la mondialisation des échanges. Elle a fait décliner certains ports et fait émerger d'autres, comme Rotterdam et Felixstowe.
-
-## Un coût environnemental
-
-Le transport maritime représente une part notable des émissions de gaz à effet de serre et pollue l'air des zones côtières. La teneur maximale en soufre des carburants marins a été fortement réduite pour limiter cette pollution.
-
-```schema
-type: etapes
-titre: Le voyage d'un conteneur
-elements:
-  - titre: Chargement
-  - titre: Porte-conteneurs
-    icone: wave
-  - titre: Port d'arrivée
-  - titre: Train ou camion
-```
-
-## À retenir
-
-- La grande majorité du commerce mondial de marchandises, en volume, passe par la mer.
-- Le conteneur, une boîte standardisée, a révolutionné le transport maritime.
-- Des normes ISO fixent les tailles et les repères des conteneurs, mesurés en EVP, équivalents vingt pieds.
-- Les grands ports, comme Shanghai et Singapour, concentrent les flux.
-- Les flux passent par des points de passage obligés : les canaux de Suez et de Panama et le détroit de Malacca.
-
----
-type: article
 title: Pourquoi certains départements français gagnent-ils des habitants et d'autres en perdent-ils ?
 slug: pourquoi-certains-departements-francais-gagnent-ils-des-habitants-et-d-autres-en-perdent-ils
 categoryPath: geographie-et-territoires/geographie-humaine/demographie
@@ -12175,6 +11700,9 @@ sources:
   - title: "Démographie de la France"
     url: "https://fr.wikipedia.org/wiki/D%C3%A9mographie_de_la_France"
     publisher: "Wikipédia"
+  - title: "Moins de déménagements en dix ans, mais l'Ouest et le périurbain toujours attractifs"
+    url: "https://www.insee.fr/fr/statistiques/8648157"
+    publisher: "Insee Première"
 quiz:
   - question: "Qu'est-ce que le solde naturel ?"
     options:

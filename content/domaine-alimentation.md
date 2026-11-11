@@ -1229,7 +1229,7 @@ summary: >
   Les fibres traversent l'intestin sans être digérées. C'est exactement pour cela qu'elles sont
   utiles, et nous n'en mangeons pas assez.
 tags: [nutrition, fibres, microbiote, transit, cereales-completes]
-relatedArticles: [microbiote-intestinal, index-et-charge-glycemiques]
+relatedArticles: [microbiote-intestinal-physiologie, index-et-charge-glycemiques]
 sources:
   - title: "Healthy diet"
     url: "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
@@ -1326,121 +1326,6 @@ colonnes:
 
 ---
 type: article
-title: Le microbiote intestinal, notre deuxième cerveau
-slug: microbiote-intestinal
-categoryPath: alimentation-et-nutrition/nutriments/microbiote-et-probiotiques
-summary: >
-  Cent mille milliards de bactéries vivent dans nos intestins. Elles digèrent ce que nous ne
-  pouvons pas digérer, fabriquent des vitamines et dialoguent avec notre immunité.
-tags: [nutrition, microbiote, bacteries, intestin, immunite]
-relatedArticles: [fibres-alimentaires-roles-et-apports, probiotiques-et-prebiotiques]
-sources:
-  - title: "L'importance du microbiote intestinal"
-    url: "https://monacosante.mc/fr/actualites-sante/actualite/actualites/microbiote-intestinal"
-    publisher: "MonacoSanté"
-    date: "2025"
-  - title: "Dietary patterns influencing the human colonic microbiota"
-    url: "https://europepmc.org/article/MED/39277883"
-    publisher: "European Journal of Nutrition"
-    date: "2025"
-quiz:
-  - question: "Combien de micro-organismes vivent dans notre tube digestif ?"
-    options:
-      - "Quelques millions"
-      - "Environ 100 000 milliards"
-      - "Quelques milliards"
-    answer: 2
-    explanation: >
-      Le microbiote intestinal compte environ 100 000 milliards de micro-organismes, dont 800 à
-      1 000 espèces différentes de bactéries. Il pèse entre un et deux kilogrammes.
-  - question: "Que produit le microbiote à partir des fibres ?"
-    options:
-      - "Du glucose"
-      - "Du butyrate et d'autres acides gras à chaîne courte"
-      - "Des protéines"
-    answer: 2
-    explanation: >
-      En fermentant les fibres, les bactéries du côlon produisent du butyrate, qui nourrit les
-      cellules de la paroi intestinale, ainsi que d'autres composés bénéfiques.
-lastVerified: 2026-09-22
-status: published
----
-
-## En bref
-
-Notre corps n'est pas seulement humain. Il héberge environ 100 000 milliards de micro-organismes
-— bactéries, virus, champignons, parasites — qui vivent principalement dans notre gros intestin.
-
-Cet ensemble s'appelle le microbiote intestinal. Il pèse entre un et deux kilogrammes, soit à peu
-près le poids de notre cerveau.
-
-## Un écosystème unique
-
-Chaque personne a un microbiote qui lui est propre. On y trouve 800 à 1 000 espèces différentes
-de bactéries, dont la plupart sont bénéfiques.
-
-Cette composition dépend de nombreux facteurs : la naissance, l'allaitement, l'alimentation, les
-antibiotiques pris au cours de la vie, le stress, le sommeil, l'activité physique.
-
-Elle varie aussi d'un pays à l'autre, en fonction des habitudes alimentaires.
-
-## Ce qu'il fait pour nous
-
-Le microbiote remplit des fonctions que notre corps ne sait pas assurer seul.
-
-Il digère les fibres que nos enzymes ne peuvent pas décomposer. En les fermentant, il produit du
-butyrate et d'autres acides gras à chaîne courte, qui nourrissent les cellules de notre paroi
-intestinale.
-
-Il fabrique certaines vitamines, notamment la vitamine K et la vitamine B12.
-
-Il joue un rôle de barrière contre les microbes pathogènes : en occupant le terrain, il empêche
-les mauvaises bactéries de s'installer.
-
-Il participe au développement et à la régulation du système immunitaire. Près de 60 % de nos
-cellules immunitaires se trouvent dans l'intestin.
-
-Il influence même notre humeur : il produit des précurseurs de la sérotonine, l'hormone du
-bien-être. C'est pourquoi on parle parfois de « deuxième cerveau ».
-
-## Comment en prendre soin
-
-Ce qui nourrit le microbiote, ce sont les fibres. Fruits, légumes, légumineuses et céréales
-complètes lui fournissent les substrats dont il a besoin.
-
-La diversité compte autant que la quantité. Manger trente plantes différentes par semaine —
-fruits, légumes, céréales, noix, graines — est associé à un microbiote plus diversifié et plus
-résilient.
-
-Les aliments fermentés — yaourt, kéfir, choucroute, kimchi — apportent des bactéries vivantes
-supplémentaires.
-
-À l'inverse, les antibiotiques, une alimentation pauvre en fibres, le stress chronique et le
-manque de sommeil appauvrissent le microbiote.
-
-## À retenir
-
-- Le microbiote compte environ 100 000 milliards de micro-organismes.
-- Il digère les fibres et produit du butyrate pour notre paroi intestinale.
-- Il fabrique des vitamines et régule notre immunité.
-- La diversité végétale est la meilleure façon de le nourrir.
-
-```schema
-type: systeme
-titre: Le microbiote intestinal
-legende: Environ 100 000 milliards de micro-organismes.
-centre: Microbiote
-parties:
-  - nom: Digère les fibres
-  - nom: Produit du butyrate
-    role: Pour la paroi intestinale.
-  - nom: Protège contre les pathogènes
-```
-
----
-
----
-type: article
 title: Probiotiques et prébiotiques, quelle différence ?
 slug: probiotiques-et-prebiotiques
 categoryPath: alimentation-et-nutrition/nutriments/microbiote-et-probiotiques
@@ -1448,7 +1333,7 @@ summary: >
   Les probiotiques sont des microbes vivants. Les prébiotiques sont leur nourriture. Les deux
   n'ont pas le même effet, et les confondre est une erreur fréquente.
 tags: [nutrition, probiotiques, prebiotiques, microbiote, intestin]
-relatedArticles: [microbiote-intestinal, fibres-alimentaires-roles-et-apports]
+relatedArticles: [microbiote-intestinal-physiologie, fibres-alimentaires-roles-et-apports]
 sources:
   - title: "Probiotics and prebiotics"
     url: "https://www.sciencedirect.com/science/article/abs/pii/S0987798301800153"
@@ -1458,6 +1343,9 @@ sources:
     url: "https://www.britannica.com/science/probiotic"
     publisher: "Encyclopaedia Britannica"
     date: "2025"
+  - title: "Probiotics: Usefulness and Safety"
+    url: "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety"
+    publisher: "NCCIH (NIH)"
 quiz:
   - question: "Que sont les probiotiques ?"
     options:
@@ -2950,120 +2838,6 @@ parties:
 
 ---
 type: article
-title: Intolérance au lactose et maladie cœliaque
-slug: intolerance-au-lactose-et-maladie-coeliaque
-categoryPath: alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers
-summary: >
-  On les range souvent ensemble. Ce sont pourtant deux choses très différentes : l'une est un
-  simple inconfort dosable, l'autre une maladie qui abîme l'intestin.
-tags: [nutrition, lactose, gluten, coeliaque, intolerance]
-relatedArticles: [regimes-vegetariens-et-vegetaliens, digestion-et-absorption-des-nutriments]
-sources:
-  - title: "Celiac disease"
-    url: "https://www.britannica.com/science/celiac-disease"
-    publisher: "Encyclopaedia Britannica"
-    date: "2025"
-  - title: "Allergies et intolérances"
-    url: "https://www.inserm.fr/dossier/allergies/"
-    publisher: "Inserm"
-    date: "2025"
-quiz:
-  - question: "L'intolérance au lactose abîme-t-elle l'intestin ?"
-    options:
-      - "Oui, gravement"
-      - "Non, elle provoque un inconfort mais aucune lésion"
-      - "Oui, mais seulement chez l'enfant"
-    answer: 2
-    explanation: >
-      Le lactose non digéré fermente dans le côlon, ce qui donne des ballonnements et des
-      douleurs. Désagréable, mais sans dommage pour l'intestin. La maladie cœliaque, elle,
-      détruit la paroi intestinale.
-  - question: "Que faut-il faire avant de supprimer le gluten si l'on soupçonne une maladie cœliaque ?"
-    options:
-      - "Supprimer le gluten tout de suite pour voir"
-      - "Se faire diagnostiquer d'abord, sinon les tests deviennent faussement négatifs"
-      - "Attendre un an"
-    answer: 2
-    explanation: >
-      Les examens recherchent la réaction du corps au gluten. Sans gluten, il n'y a plus de
-      réaction à détecter, et le diagnostic devient impossible à établir.
-lastVerified: 2026-09-22
-status: published
----
-
-## En bref
-
-On entend souvent parler des deux dans la même phrase, comme deux façons de « mal supporter »
-un aliment. C'est une confusion.
-
-L'intolérance au lactose est un simple manque d'enzyme. Désagréable, dosable, sans gravité.
-
-La maladie cœliaque est une maladie où le système immunitaire attaque l'intestin. Elle impose
-une exclusion totale et définitive.
-
-## L'intolérance au lactose
-
-Le lactose est le sucre du lait. Pour le digérer, il faut une enzyme appelée lactase.
-
-Tous les bébés en produisent. Mais chez la majorité des humains, cette production diminue
-fortement après l'enfance. C'est le cas le plus répandu sur la planète.
-
-La capacité à digérer le lait à l'âge adulte est en réalité l'exception. Elle vient d'une
-mutation génétique apparue il y a quelques milliers d'années chez des populations d'éleveurs, et
-elle est fréquente en Europe du Nord.
-
-Quand le lactose n'est pas digéré, il arrive dans le gros intestin où les bactéries le
-fermentent : ballonnements, douleurs, diarrhée. Rien de plus. Aucune lésion.
-
-Et c'est une question de dose : un peu de lait passe souvent très bien, les fromages affinés
-n'en contiennent presque plus, et les yaourts sont mieux tolérés grâce à leurs ferments.
-
-## La maladie cœliaque
-
-Ici, le mécanisme est tout autre. Chez des personnes génétiquement prédisposées, le système
-immunitaire réagit contre une partie du gluten, une protéine du blé, du seigle et de l'orge.
-
-Cette réaction attaque la paroi de l'intestin grêle. Les petites villosités qui absorbent les
-nutriments s'aplatissent. Le corps n'absorbe plus correctement : anémie, fatigue, os fragiles,
-retard de croissance chez l'enfant.
-
-Le seul traitement connu est l'exclusion totale du gluten, à vie, y compris les traces.
-
-## Une erreur à ne pas commettre
-
-Si l'on soupçonne une maladie cœliaque, il ne faut surtout pas supprimer le gluten avant les
-examens.
-
-Les tests recherchent la réaction du corps au gluten. Sans gluten, plus de réaction, et le
-diagnostic devient impossible. Beaucoup de gens se retrouvent ainsi coincés : trop de symptômes
-pour manger normalement, plus assez pour être diagnostiqués.
-
-## À retenir
-
-- L'intolérance au lactose est un manque d'enzyme, sans lésion, et dose-dépendante.
-- Digérer le lait à l'âge adulte est minoritaire à l'échelle mondiale.
-- La maladie cœliaque est auto-immune et détruit la paroi de l'intestin.
-- Il faut se faire diagnostiquer avant de supprimer le gluten.
-
-```schema
-type: comparaison
-titre: Deux troubles à ne pas confondre
-colonnes:
-  - titre: Intolérance au lactose
-    points:
-      - Manque d'enzyme
-      - Sans lésion
-      - Dépend de la dose
-  - titre: Maladie cœliaque
-    points:
-      - Réaction au gluten
-      - Lésions de l'intestin
-```
-
----
-
----
-type: article
 title: Le régime méditerranéen
 slug: regime-mediterraneen
 categoryPath: alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers
@@ -3435,7 +3209,7 @@ summary: >
   Un régime d'éviction temporaire pour les personnes souffrant du syndrome de l'intestin
   irritable. Il ne s'improvise pas et ne doit pas durer.
 tags: [nutrition, FODMAP, intestin-irritable, ballonnements, elimination]
-relatedArticles: [fibres-alimentaires-roles-et-apports, microbiote-intestinal]
+relatedArticles: [fibres-alimentaires-roles-et-apports, microbiote-intestinal-physiologie]
 sources:
   - title: "The Low-FODMAP Diet in Clinical Practice"
     url: "https://www.ncbi.nlm.nih.gov/books/NBK562224/"
@@ -3785,7 +3559,7 @@ summary: >
   Une méta-analyse de 10 millions de personnes associe les aliments ultra-transformés à un
   risque de dépression accru de 22 %. La piste alimentaire en psychiatrie devient sérieuse.
 tags: [nutrition, sante-mentale, depression, psychonutrition, omega-3]
-relatedArticles: [alimentation-anti-inflammatoire, microbiote-intestinal]
+relatedArticles: [alimentation-anti-inflammatoire, microbiote-intestinal-physiologie]
 sources:
   - title: "Alimentation et dépression"
     url: "https://www.cmaj.ca"
@@ -4241,7 +4015,7 @@ summary: >
   L'allergie implique le système immunitaire et peut tuer en quelques minutes. L'intolérance
   est un problème de digestion. Les confondre peut être dangereux.
 tags: [nutrition, allergies, intolerances, immunite, digestion]
-relatedArticles: [intolerance-au-lactose-et-maladie-coeliaque, microbiote-intestinal]
+relatedArticles: [lactose-et-intolerance, microbiote-intestinal-physiologie]
 sources:
   - title: "Food allergy versus food intolerance"
     url: "https://www.aaaai.org"
@@ -4935,229 +4709,6 @@ parties:
 
 ---
 type: article
-title: La fermentation, des microbes au travail
-slug: techniques-fermentation-alimentaire
-categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
-summary: >
-  Pain, fromage, yaourt, bière, vin, chocolat, café, choucroute, sauce soja. Tous doivent leur
-  existence à des micro-organismes qu'on laisse volontairement travailler.
-tags: [fermentation, levures, bacteries-lactiques, Pasteur, aliments]
-relatedArticles: [levain-et-panification, microbiote-intestinal]
-sources:
-  - title: "Fermentation"
-    url: "https://www.britannica.com/science/fermentation"
-    publisher: "Encyclopaedia Britannica"
-    date: "2025"
-  - title: "Alimentation et santé"
-    url: "https://www.inrae.fr/alimentation-sante-globale"
-    publisher: "INRAE"
-    date: "2025"
-quiz:
-  - question: "Que produisent les levures en fermentant le sucre ?"
-    options:
-      - "De l'acide lactique"
-      - "De l'alcool et du dioxyde de carbone"
-      - "Du vinaigre"
-    answer: 2
-    explanation: >
-      C'est la fermentation alcoolique. Dans le vin et la bière on garde l'alcool ; dans le
-      pain, c'est le gaz qui fait lever la pâte, l'alcool s'évaporant à la cuisson.
-  - question: "Pourquoi un aliment fermenté se conserve-t-il mieux ?"
-    options:
-      - "Parce qu'il est cuit"
-      - "Parce que l'acide produit empêche les bactéries dangereuses de se développer"
-      - "Parce qu'il est plus sec"
-    answer: 2
-    explanation: >
-      Les bactéries lactiques acidifient le milieu. Cette acidité est un environnement dans
-      lequel la plupart des microbes dangereux ne survivent pas.
-lastVerified: 2026-09-22
-status: published
----
-
-## En bref
-
-Toutes les autres techniques de conservation cherchent à éliminer les micro-organismes. La
-fermentation fait l'inverse : elle en choisit certains et les laisse travailler.
-
-Le résultat est spectaculaire. Sans fermentation, pas de pain, pas de fromage, pas de yaourt,
-pas de vin ni de bière, pas de chocolat, pas de café, pas de sauce soja, pas de choucroute.
-
-## La fermentation alcoolique
-
-Des levures, des champignons microscopiques, mangent le sucre et rejettent deux choses : de
-l'alcool et du dioxyde de carbone.
-
-Selon ce que l'on veut garder, on obtient des produits très différents. Dans le vin et la bière,
-on conserve l'alcool et on laisse partir le gaz. Dans le pain, c'est l'inverse : le gaz forme
-les bulles qui font lever la pâte, et l'alcool s'évapore à la cuisson.
-
-C'est la même réaction chimique dans les deux cas.
-
-## La fermentation lactique
-
-Des bactéries transforment le sucre en acide lactique. Cet acide fait deux choses à la fois :
-il donne un goût caractéristique, et il rend le milieu hostile aux microbes dangereux.
-
-C'est le principe du yaourt, du fromage, de la choucroute, des cornichons au sel et du kimchi.
-Dans le lait, l'acide fait aussi coaguler les protéines, ce qui explique la texture du yaourt.
-
-## La fermentation acétique et l'histoire de Pasteur
-
-Des bactéries transforment l'alcool en acide acétique : c'est le vinaigre, littéralement du
-vin aigre.
-
-Ce phénomène a joué un rôle historique. Au milieu du XIXe siècle, les viticulteurs perdaient des
-récoltes entières sans comprendre pourquoi leur vin tournait. Louis Pasteur démontre que des
-micro-organismes en sont responsables, et propose un chauffage doux pour les détruire. Le procédé
-porte aujourd'hui son nom.
-
-## Pourquoi la fermentation revient à la mode
-
-Au-delà du goût, deux raisons.
-
-Elle rend certains aliments plus digestes : la fermentation dégrade une partie du lactose, ce qui
-explique que les yaourts soient mieux tolérés que le lait, et elle décompose des composés qui
-bloquent l'absorption des minéraux.
-
-Et elle apporte des bactéries vivantes, dont l'effet sur le microbiote intestinal fait l'objet de
-recherches actives.
-
-## À retenir
-
-- La fermentation utilise les micro-organismes au lieu de les éliminer.
-- Alcoolique : levures, sucre vers alcool et gaz carbonique.
-- Lactique : bactéries, sucre vers acide lactique.
-- L'acidité produite conserve l'aliment et le protège des microbes dangereux.
-
-```schema
-type: comparaison
-titre: Trois fermentations
-colonnes:
-  - titre: Alcoolique
-    points:
-      - Levures, sucre vers alcool et gaz carbonique
-  - titre: Lactique
-    points:
-      - Bactéries lactiques, sucre vers acide lactique
-  - titre: Acétique
-    points:
-      - Alcool vers vinaigre
-```
-
----
-
----
-type: article
-title: Le levain et le pain
-slug: levain-et-panification
-categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
-summary: >
-  Un levain est un écosystème vivant de farine et d'eau, entretenu parfois pendant des
-  générations. Il ne fait pas seulement lever le pain : il le transforme.
-tags: [fermentation, levain, pain, boulangerie, phytates]
-relatedArticles: [techniques-fermentation-alimentaire, fibres-alimentaires-roles-et-apports]
-sources:
-  - title: "Baking"
-    url: "https://www.britannica.com/topic/baking"
-    publisher: "Encyclopaedia Britannica"
-    date: "2025"
-  - title: "Alimentation et santé"
-    url: "https://www.inrae.fr/alimentation-sante-globale"
-    publisher: "INRAE"
-    date: "2025"
-quiz:
-  - question: "Quelle est la différence entre un levain et la levure de boulanger ?"
-    options:
-      - "Aucune, ce sont deux mots pour la même chose"
-      - "Le levain est un mélange vivant de levures sauvages et de bactéries ; la levure est une
-        seule espèce sélectionnée"
-      - "Le levain est chimique, la levure est naturelle"
-    answer: 2
-    explanation: >
-      Le levain héberge tout un écosystème, qui varie selon la farine, l'eau et le lieu. La
-      levure de boulanger est une souche unique, cultivée industriellement.
-  - question: "Pourquoi le pain au levain apporte-t-il mieux ses minéraux ?"
-    options:
-      - "Parce qu'il contient plus de farine"
-      - "Parce que l'acidité détruit une partie des phytates qui bloquent l'absorption"
-      - "Parce qu'il cuit plus longtemps"
-    answer: 2
-    explanation: >
-      Les phytates des céréales retiennent le fer, le zinc et le magnésium. L'acidité du levain
-      en dégrade une partie, ce qui libère ces minéraux.
-lastVerified: 2026-09-22
-status: published
----
-
-## En bref
-
-Un levain, c'est simplement de la farine et de l'eau qu'on laisse s'installer, puis qu'on
-entretient en le nourrissant régulièrement. En quelques jours, une population de
-micro-organismes s'y développe toute seule.
-
-Ce n'est pas une espèce unique, mais un écosystème : des levures sauvages et des bactéries
-lactiques qui cohabitent. Sa composition dépend de la farine, de l'eau, de la température et des
-mains du boulanger. Deux levains ne sont jamais identiques.
-
-## Deux fermentations en même temps
-
-Les levures produisent du gaz carbonique, qui fait lever la pâte. C'est le même travail que la
-levure de boulanger.
-
-Les bactéries lactiques, elles, produisent des acides. C'est ce que la levure industrielle ne
-fait pas, et c'est ce qui change tout.
-
-## Ce que l'acidité change
-
-Le goût, d'abord : cette légère pointe acide caractéristique du pain au levain.
-
-La conservation ensuite : un pain au levain moisit beaucoup plus tard qu'un pain à la levure.
-
-La texture aussi : l'acidité modifie le réseau de gluten, d'où une mie à grosses bulles
-irrégulières et une croûte plus épaisse.
-
-Et enfin la nutrition. Les céréales contiennent des phytates, des molécules qui retiennent le
-fer, le zinc et le magnésium et empêchent de les absorber. L'acidité du levain en détruit une
-partie. Un pain complet au levain apporte donc réellement plus de minéraux qu'un pain complet à
-la levure — l'effet est d'autant plus net que la farine est complète.
-
-## Le temps comme ingrédient
-
-Le levain travaille lentement. Une panification au levain s'étale sur de longues heures, souvent
-une nuit entière.
-
-Cette lenteur n'est pas un inconvénient : c'est pendant ce temps que des enzymes découpent
-l'amidon et les protéines en fragments plus petits, qui deviendront les arômes à la cuisson.
-
-La température oriente le résultat. Un levain conduit au chaud donne un goût plus doux, un levain
-conduit au frais une note plus vinaigrée.
-
-## À retenir
-
-- Un levain est un écosystème de levures sauvages et de bactéries lactiques.
-- Les levures font lever, les bactéries acidifient.
-- L'acidité améliore goût, conservation et absorption des minéraux.
-- La lenteur de la fermentation développe les arômes.
-
-```schema
-type: systeme
-titre: Le levain
-centre: Levain
-icone: wheat
-parties:
-  - nom: Levures sauvages
-    role: Elles font lever la pâte.
-  - nom: Bactéries lactiques
-    role: Elles acidifient.
-  - nom: Le temps
-    role: Un ingrédient à part entière.
-```
-
----
-
----
-type: article
 title: Les aliments fermentés
 slug: aliments-fermentes
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
@@ -5165,7 +4716,7 @@ summary: >
   Au-delà du yaourt et de la choucroute, une multitude d'aliments fermentés existent dans toutes
   les cultures. Leur point commun : des bactéries vivantes et des métabolites bénéfiques.
 tags: [fermentation, probiotiques, kéfir, kimchi, miso]
-relatedArticles: [techniques-fermentation-alimentaire, probiotiques-et-prebiotiques]
+relatedArticles: [fermentation-biotechnologie-ancienne, probiotiques-et-prebiotiques]
 sources:
   - title: "Fermented foods"
     url: "https://www.efsa.europa.eu/fr"
@@ -5634,7 +5185,7 @@ summary: >
   L'huile la plus utilisée au monde. Riche en graisses saturées, elle est aussi liée à la
   déforestation. Un cas d'école des tensions entre santé, économie et environnement.
 tags: [nutrition, huile-de-palme, graisses-saturees, deforestation, environnement]
-relatedArticles: [graisses-trans, deforestation-et-huile-de-palme]
+relatedArticles: [graisses-trans]
 sources:
   - title: "Tropical oils consumption and health"
     url: "https://www.e-cancer.fr"
@@ -5644,6 +5195,14 @@ sources:
     url: "https://www.assemblee-nationale.fr"
     publisher: "Assemblée nationale"
     date: "2025"
+  - title: "The environmental impacts of palm oil"
+    url: "https://www.fao.org"
+    publisher: "FAO"
+    date: "2026"
+  - title: "Declines in deforestation aren't driven by corporate pledges"
+    url: "https://www.eurekalert.org"
+    publisher: "EurekAlert"
+    date: "2026"
 quiz:
   - question: "Quelle est la teneur en acides gras saturés de l'huile de palme ?"
     options:
@@ -7514,122 +7073,6 @@ colonnes:
 
 ---
 type: article
-title: La déforestation et l'huile de palme
-slug: deforestation-et-huile-de-palme
-categoryPath: alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire
-summary: >
-  L'expansion des palmeraies a détruit des millions d'hectares de forêt tropicale. Les labels
-  peinent à enrayer le phénomène.
-tags: [environnement, deforestation, huile-de-palme, biodiversite, labels]
-relatedArticles: [huile-de-palme, empreinte-carbone-de-lalimentation]
-sources:
-  - title: "The environmental impacts of palm oil"
-    url: "https://www.fao.org"
-    publisher: "FAO"
-    date: "2026"
-  - title: "Declines in deforestation aren't driven by corporate pledges"
-    url: "https://www.eurekalert.org"
-    publisher: "EurekAlert"
-    date: "2026"
-quiz:
-  - question: "Quelle part de la déforestation l'huile de palme représente-t-elle en Malaisie et en Indonésie ?"
-    options:
-      - "Moins de 5 %"
-      - "Jusqu'à 50 % dans certaines régions"
-      - "90 %"
-    answer: 2
-    explanation: >
-      La contribution de l'huile de palme à la déforestation varie fortement selon les régions.
-      Elle peut atteindre 50 % à Bornéo, mais n'est que de 3 % en Afrique de l'Ouest.
-  - question: "Les labels de durabilité ont-ils enrayé la déforestation ?"
-    options:
-      - "Oui, complètement"
-      - "Non, des études montrent que la déforestation continue dans les chaînes certifiées"
-      - "Ils n'existent pas"
-    answer: 2
-    explanation: >
-      La Table ronde pour une huile de palme durable (RSPO) a établi des critères, mais des
-      études récentes montrent que la déforestation persiste dans certaines chaînes
-      d'approvisionnement certifiées, faute de traçabilité complète.
-lastVerified: 2026-09-22
-status: published
----
-
-## En bref
-
-L'huile de palme est produite à partir des fruits du palmier à huile, cultivé principalement en
-Indonésie et en Malaisie.
-
-Son expansion a été spectaculaire : la production mondiale a quadruplé en vingt ans. Et cette
-expansion s'est faite en grande partie au détriment des forêts tropicales.
-
-## L'ampleur du phénomène
-
-Les forêts de Sumatra et de Bornéo ont été détruites à plus de 90 % au cours des XIXe et XXe
-siècles. La déforestation massive continue pour laisser place à des palmeraies.
-
-La contribution de l'huile de palme à la déforestation régionale varie fortement : elle est
-estimée à environ 3 % en Afrique de l'Ouest, mais peut atteindre 50 % à Bornéo.
-
-L'huile de palme est aussi impliquée dans le drainage et le brûlage des tourbières en Asie du
-Sud-Est, qui libèrent d'énormes quantités de CO2.
-
-## Les conséquences
-
-La déforestation détruit des écosystèmes abritant une biodiversité exceptionnelle. Des espèces
-comme l'orang-outan, le tigre de Sumatra ou l'éléphant de Bornéo sont menacées.
-
-Elle contribue au changement climatique, à la fois par la libération du carbone stocké dans les
-arbres et les sols, et par la réduction de la capacité des forêts à absorber le CO2.
-
-Elle affecte aussi les populations locales, qui perdent leurs moyens de subsistance et leurs
-terres.
-
-## Les labels
-
-La Table ronde pour une huile de palme durable (RSPO) a été créée en 2004 pour promouvoir des
-pratiques durables. Elle certifie des producteurs qui s'engagent à ne pas déforester, à
-respecter les droits des communautés locales, et à protéger les zones à haute valeur de
-conservation.
-
-Mais son efficacité est discutée. Des études récentes montrent que la déforestation continue
-dans certaines chaînes d'approvisionnement certifiées. Le problème est la traçabilité : l'huile
-de palme est mélangée tout au long de la chaîne, et il est difficile de savoir d'où elle vient
-exactement.
-
-## Que faire
-
-La solution la plus efficace est de réduire la consommation de produits ultra-transformés, qui
-sont la principale source d'huile de palme dans l'alimentation.
-
-Pour ceux qui veulent agir, privilégier les produits avec d'autres huiles — olive, colza,
-tournesol — réduit la demande.
-
-Et soutenir les initiatives de traçabilité, malgré leurs limites actuelles.
-
-## À retenir
-
-- L'expansion des palmeraies est une cause majeure de déforestation en Asie du Sud-Est.
-- Elle menace des espèces emblématiques et libère du CO2.
-- Les labels de durabilité peinent à enrayer le phénomène.
-- Réduire les ultra-transformés réduit la demande d'huile de palme.
-
-```schema
-type: etapes
-titre: Palmeraies et déforestation
-elements:
-  - titre: Expansion des palmeraies
-    texte: En Asie du Sud-Est.
-  - titre: Forêts abattues
-    icone: tree
-  - titre: Espèces menacées
-  - titre: Carbone libéré
-```
-
----
-
----
-type: article
 title: La pêche durable
 slug: peche-durable
 categoryPath: alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire
@@ -7993,7 +7436,7 @@ summary: >
   Une alimentation suffisante et variée est la base d'un système immunitaire fonctionnel. Mais
   aucun aliment ne « booste » l'immunité.
 tags: [nutrition, immunite, vitamines, zinc, infections]
-relatedArticles: [vitamines-mineraux-essentiels, microbiote-intestinal]
+relatedArticles: [vitamines-mineraux-essentiels, microbiote-intestinal-physiologie]
 sources:
   - title: "Nutrition and immune function"
     url: "https://www.mayo.edu"
@@ -8720,117 +8163,6 @@ parties:
 
 ---
 type: article
-title: Les allergies alimentaires
-slug: allergies-alimentaires
-categoryPath: alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers
-summary: >
-  Le système immunitaire réagit à une protéine alimentaire. Peut être grave, parfois mortel.
-  Une prise en charge médicale est indispensable.
-tags: [nutrition, allergies, immunite, anaphylaxie, arachide]
-relatedArticles: [allergies-et-intolerances-alimentaires, microbiote-intestinal]
-sources:
-  - title: "Food allergy"
-    url: "https://www.aaaai.org"
-    publisher: "American Academy of Allergy, Asthma & Immunology"
-    date: "2025"
-  - title: "Allergies"
-    url: "https://www.inserm.fr/dossier/allergies/"
-    publisher: "Inserm"
-    date: "2025"
-quiz:
-  - question: "Quel est le mécanisme d'une allergie alimentaire ?"
-    options:
-      - "Une intolérance digestive"
-      - "Une réaction du système immunitaire aux IgE"
-      - "Un manque d'enzyme"
-    answer: 1
-    explanation: >
-      L'allergie alimentaire est une réaction immunitaire médiée par les anticorps IgE. Le
-      système immunitaire identifie à tort une protéine comme une menace et déclenche une
-      réaction inflammatoire.
-  - question: "Quels sont les allergènes les plus fréquents ?"
-    options:
-      - "Arachide, fruits à coque, œuf, lait, poisson, crustacés"
-      - "Riz, pommes de terre, carottes"
-      - "Huile d'olive, sel, poivre"
-    answer: 1
-    explanation: >
-      Les principaux allergènes alimentaires sont l'arachide, les fruits à coque, l'œuf, le
-      lait, le poisson, les crustacés, le blé et le soja. Ils doivent être déclarés sur les
-      étiquettes.
-lastVerified: 2026-09-22
-status: published
----
-
-## En bref
-
-Une allergie alimentaire est une réaction du système immunitaire à une protéine présente dans
-un aliment.
-
-Contrairement à l'intolérance, qui est un problème de digestion, l'allergie implique les
-anticorps IgE. Elle peut survenir à des doses infimes, et peut être mortelle.
-
-## Les mécanismes
-
-Lors d'une première exposition, le système immunitaire produit des anticorps IgE dirigés contre
-une protéine alimentaire.
-
-Lors d'une exposition ultérieure, ces anticorps déclenchent la libération d'histamine et d'autres
-médiateurs. Les symptômes apparaissent en quelques minutes à deux heures.
-
-Ils peuvent toucher la peau — urticaire, eczéma — le système digestif — vomissements, diarrhées
-— et le système respiratoire — difficultés à respirer, œdème de la gorge.
-
-Dans les cas graves, c'est l'anaphylaxie : chute de tension, détresse respiratoire, perte de
-conscience. C'est une urgence vitale qui nécessite l'injection d'adrénaline.
-
-## Les allergènes les plus fréquents
-
-L'arachide, les fruits à coque — noix, noisettes, amandes, noix de cajou — les œufs, le lait de
-vache, le poisson, les crustacés, le blé et le soja.
-
-En Europe, ces allergènes font l'objet d'une déclaration obligatoire sur les étiquettes. Ils
-sont souvent en gras dans la liste des ingrédients.
-
-## Le diagnostic
-
-Le diagnostic repose sur plusieurs éléments : l'histoire clinique, les tests cutanés (prick
-tests), le dosage des IgE spécifiques dans le sang.
-
-Mais ces tests peuvent donner des faux positifs. Le diagnostic définitif repose souvent sur un
-test de provocation orale, réalisé en milieu médical sécurisé.
-
-## La prise en charge
-
-Elle repose sur l'éviction de l'allergène, l'injection d'adrénaline en cas de réaction grave, et
-l'éducation du patient et de son entourage.
-
-Des protocoles de désensibilisation existent pour certains allergènes, notamment l'arachide.
-Ils consistent à administrer des doses infimes et croissantes pour habituer progressivement le
-système immunitaire.
-
-## À retenir
-
-- L'allergie alimentaire est une réaction immunitaire médiée par les IgE.
-- Elle peut être grave et mortelle.
-- Les allergènes majeurs sont l'arachide, les fruits à coque, l'œuf et le lait.
-- L'adrénaline est le seul traitement de l'anaphylaxie.
-
-```schema
-type: etapes
-titre: L'allergie alimentaire
-elements:
-  - titre: Allergène
-  - titre: Réaction des IgE
-  - titre: Symptômes
-    texte: Parfois graves, voire mortels.
-  - titre: Diagnostic et prise en charge
-```
-
----
-
----
-type: article
 title: Le gluten, entre mythe et réalité
 slug: gluten-mythes-et-realites
 categoryPath: alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers
@@ -8838,7 +8170,7 @@ summary: >
   La maladie cœliaque touche environ 1 % de la population. La sensibilité non cœliaque est plus
   discutée. Et l'éviction du gluten n'est pas anodine.
 tags: [nutrition, gluten, coeliaque, sensibilité, blé]
-relatedArticles: [intolerance-au-lactose-et-maladie-coeliaque, fibres-alimentaires-roles-et-apports]
+relatedArticles: [lactose-et-intolerance, fibres-alimentaires-roles-et-apports]
 sources:
   - title: "Celiac disease"
     url: "https://www.britannica.com/science/celiac-disease"
@@ -8964,7 +8296,7 @@ summary: >
   Digérer le lait à l'âge adulte est l'exception à l'échelle mondiale. L'intolérance au lactose
   est dose-dépendante, et les yaourts et fromages affinés passent souvent très bien.
 tags: [nutrition, lactose, intolerance, lactase, lait]
-relatedArticles: [intolerance-au-lactose-et-maladie-coeliaque, probiotiques-et-prebiotiques]
+relatedArticles: [probiotiques-et-prebiotiques]
 sources:
   - title: "Lactose intolerance"
     url: "https://www.britannica.com/science/lactose-intolerance"
@@ -8973,6 +8305,14 @@ sources:
   - title: "Alimentation humaine"
     url: "https://www.anses.fr/fr/thematique/alimentation-humaine"
     publisher: "ANSES"
+    date: "2025"
+  - title: "Celiac disease"
+    url: "https://www.britannica.com/science/celiac-disease"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+  - title: "Allergies et intolérances"
+    url: "https://www.inserm.fr/dossier/allergies/"
+    publisher: "Inserm"
     date: "2025"
 quiz:
   - question: "Pourquoi l'intolérance au lactose est-elle fréquente ?"
@@ -10112,6 +9452,12 @@ sources:
   - title: "Food preservation"
     url: "https://en.wikipedia.org/wiki/Food_preservation"
     publisher: "Wikipedia"
+  - title: "Comment garantir l'hygiène des aliments dans son réfrigérateur ?"
+    url: "https://www.anses.fr/fr/content/comment-garantir-lhygiene-des-aliments-dans-son-refrigerateur"
+    publisher: "ANSES"
+  - title: "Comment bien conserver ses aliments et ne pas interrompre la chaîne du froid ?"
+    url: "https://www.anses.fr/fr/content/comment-bien-conserver-ses-aliments-et-ne-pas-interrompre-la-chaine-du-froid"
+    publisher: "ANSES"
 quiz:
   - question: "Quelle température vise-t-on dans la zone la plus froide du réfrigérateur ?"
     options:
@@ -13368,112 +12714,6 @@ status: planned
 
 ---
 type: article
-title: Pourquoi les marins d'autrefois avaient-ils besoin de citrons ?
-slug: pourquoi-les-marins-d-autrefois-avaient-ils-besoin-de-citrons
-categoryPath: alimentation-et-nutrition/nutriments/micronutriments
-summary: >
-  Sans vitamine C, on attrape le scorbut, une maladie qui fait saigner les gencives et tomber
-  les dents. Pendant les grandes expéditions en mer, cette maladie a tué de très nombreux
-  marins. En 1747, le médecin James Lind a montré que les agrumes la guérissaient.
-tags: [micronutriments]
-sources:
-  - title: "Scorbut"
-    url: "https://fr.wikipedia.org/wiki/Scorbut"
-    publisher: "Wikipédia"
-  - title: "Vitamin C"
-    url: "https://en.wikipedia.org/wiki/Vitamin_C"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Quelle maladie provoque un manque de vitamine C ?"
-    options:
-      - "Le scorbut"
-      - "La grippe"
-      - "La varicelle"
-    answer: 1
-    explanation: >
-      Après 1 à 3 mois sans vitamine C, le scorbut apparaît.
-  - question: "Qu'a montré James Lind en 1747 ?"
-    options:
-      - "Que l'eau de mer guérit le scorbut"
-      - "Que les agrumes guérissent le scorbut"
-      - "Que le scorbut est contagieux"
-    answer: 2
-    explanation: >
-      Lind a comparé plusieurs traitements. Seuls les marins qui mangeaient des agrumes
-      ont vite guéri.
-  - question: "À quoi sert la vitamine C dans le corps ?"
-    options:
-      - "À voir dans le noir"
-      - "À digérer les graisses"
-      - "À fabriquer le collagène"
-    answer: 3
-    explanation: >
-      La vitamine C aide à fabriquer le collagène, une protéine qui rend solides la peau,
-      les vaisseaux sanguins et d'autres tissus.
-  - question: "Prendre de la vitamine C tous les jours empêche-t-il d'attraper un rhume ?"
-    options:
-      - "Oui, toujours"
-      - "Non, mais cela raccourcit un peu sa durée"
-      - "Oui, chez les enfants seulement"
-    answer: 2
-    explanation: >
-      Cela n'empêche pas d'attraper un rhume. Cela réduit sa durée d'environ 8 % chez les
-      adultes et 14 % chez les enfants.
-lastVerified: 2026-10-09
-status: published
----
-
-## En bref
-
-Sans vitamine C, on attrape le scorbut, une maladie qui fait saigner les gencives et tomber les dents. Pendant les grandes expéditions en mer, cette maladie a tué de très nombreux marins. En 1747, le médecin James Lind a montré que les agrumes la guérissaient.
-
-## Une maladie des grandes expéditions
-
-Lors des grands voyages en mer, le scorbut a tué énormément de marins. L'expédition de Vasco de Gama perd 120 de ses 160 marins en onze mois. Celle de Magellan perd 247 hommes sur 265 en trois ans. Le scorbut fait partie des grandes causes de ces morts.
-
-## Ce que fait le scorbut
-
-Le scorbut apparaît après 1 à 3 mois sans aucune vitamine C. D'abord, on se sent fatigué, on a moins faim et on a mal aux muscles. Puis les gencives gonflent, deviennent violettes et saignent. Les dents bougent et tombent. Des taches de sang apparaissent sous la peau, et les blessures ne cicatrisent plus.
-
-La vitamine C aide le corps à fabriquer le collagène. C'est une protéine qui rend solides la peau, les vaisseaux sanguins et de nombreux autres tissus. Sans vitamine C, le collagène est fragile, et tout le corps s'affaiblit.
-
-## Le premier essai clinique
-
-En 1747, le médecin James Lind fait une expérience sur des marins malades. Il les répartit en groupes et donne à chaque groupe un traitement différent. Ceux qui mangent des agrumes guérissent vite. Les autres ne vont pas mieux. On considère cette expérience comme le premier essai clinique, c'est-à-dire une comparaison organisée de traitements.
-
-En 1795, la marine britannique donne chaque jour aux marins une petite ration de jus d'agrumes, environ 21 millilitres. En deux ans, le scorbut disparaît de ses navires.
-
-## Ce que l'on sait aujourd'hui
-
-L'être humain a perdu les gènes qui permettent de fabriquer la vitamine C. C'est aussi le cas des grands singes, du cochon d'Inde et de certaines chauves-souris. Nous devons donc la trouver dans notre alimentation. En 1937, Albert Szent-Györgyi a reçu le prix Nobel, en partie pour la découverte de la vitamine C.
-
-Pour 100 grammes, le poivron rouge en contient environ 128 milligrammes, le kiwi 90 et l'orange 53. La cuisson peut faire perdre environ 60 % de la vitamine C des légumes.
-
-Et le rhume ? Prendre de la vitamine C tous les jours n'empêche pas de l'attraper. Cela réduit seulement sa durée d'environ 8 % chez les adultes et 14 % chez les enfants.
-
-```schema
-type: etapes
-titre: Le scorbut
-elements:
-  - titre: Pas de vitamine C
-    texte: Pendant 1 à 3 mois.
-  - titre: Gencives qui saignent
-  - titre: Plaies qui ne guérissent plus
-  - titre: Agrumes
-    texte: Ils guérissent.
-    icone: apple
-```
-
-## À retenir
-
-- Un manque total de vitamine C pendant 1 à 3 mois provoque le scorbut.
-- Le scorbut fait saigner les gencives, tomber les dents et empêche les plaies de guérir.
-- En 1747, James Lind a montré que les agrumes guérissent le scorbut.
-- La vitamine C sert à fabriquer le collagène, qui rend les tissus solides.
-- L'être humain ne sait pas fabriquer la vitamine C et doit la trouver dans son alimentation.
-
----
-type: article
 title: Les vitamines du groupe B et l'energie cellulaire
 slug: les-vitamines-du-groupe-b-et-l-energie-cellulaire
 categoryPath: alimentation-et-nutrition/nutriments/micronutriments
@@ -15165,6 +14405,13 @@ sources:
   - title: "Nicolas Appert"
     url: "https://fr.wikipedia.org/wiki/Nicolas_Appert"
     publisher: "Wikipédia"
+  - title: "Le botulisme : de quoi s'agit-il et comment s'en prémunir ?"
+    url: "https://www.anses.fr/fr/content/le-botulisme-comment-se-premunir"
+    publisher: "ANSES"
+  - title: "Conserves maison : comment éviter le botulisme ?"
+    url: "https://www.sante.fr/conserves-maison-comment-eviter-le-botulisme"
+    publisher: "Service public d'information en santé"
+    date: "2025"
 quiz:
   - question: "Pourquoi les légumes peu acides et la viande sont-ils les conserves les plus risquées ?"
     options:
@@ -16983,6 +16230,14 @@ sources:
   - title: "Domestication de la levure pour faire du pain"
     url: "https://www.inrae.fr/actualites/domestication-levure-faire-du-pain"
     publisher: "INRAE"
+  - title: "Baking"
+    url: "https://www.britannica.com/topic/baking"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+  - title: "Alimentation et santé"
+    url: "https://www.inrae.fr/alimentation-sante-globale"
+    publisher: "INRAE"
+    date: "2025"
 quiz:
   - question: "Quel gaz rejeté par les levures fait gonfler la pâte ?"
     options:
@@ -20577,6 +19832,9 @@ sources:
   - title: "Ail des ours"
     url: "https://fr.wikipedia.org/wiki/Ail_des_ours"
     publisher: "Wikipédia"
+  - title: "Confusion entre plantes toxiques et plantes comestibles"
+    url: "https://www.anses.fr/fr/content/confusion-entre-plantes-toxiques-et-plantes-comestibles"
+    publisher: "ANSES"
 quiz:
   - question: "Quelle est la règle absolue pour la cueillette sauvage ?"
     options:
@@ -21881,107 +21139,6 @@ status: planned
 
 ---
 type: article
-title: La réaction de Maillard, le secret du brunissement des aliments
-slug: la-reaction-de-maillard-le-secret-du-brunissement-des-aliments
-categoryPath: alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle
-summary: >
-  La réaction de Maillard unit des sucres et des acides aminés sous l'effet de la chaleur. Elle
-  donne aux aliments cuits leur couleur brune et leurs arômes.
-tags: [transformation-industrielle]
-sources:
-  - title: "Réaction de Maillard"
-    url: "https://fr.wikipedia.org/wiki/R%C3%A9action_de_Maillard"
-    publisher: "Wikipédia"
-  - title: "Maillard reaction"
-    url: "https://en.wikipedia.org/wiki/Maillard_reaction"
-    publisher: "Wikipedia"
-  - title: "Caramelization"
-    url: "https://en.wikipedia.org/wiki/Caramelization"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Quels ingrédients réagissent dans la réaction de Maillard ?"
-    options:
-      - "Des sucres réducteurs et des acides aminés"
-      - "Du sel et de l'eau"
-      - "Du vinaigre seul"
-    answer: 1
-    explanation: >
-      La réaction de Maillard est une réaction chimique entre des sucres réducteurs et des
-      composés qui portent un groupe amine, comme les acides aminés.
-  - question: "Que produit-elle dans un aliment cuit ?"
-    options:
-      - "Des pigments bruns et des arômes"
-      - "Du gel"
-      - "Du gaz hilarant"
-    answer: 1
-    explanation: >
-      Elle produit des composés bruns, les mélanoïdines, et de nombreux composés aromatiques,
-      qui donnent aux aliments cuits leur couleur et leur odeur.
-  - question: "Quelle différence avec la caramélisation ?"
-    options:
-      - "La caramélisation chauffe des sucres seuls, sans acides aminés"
-      - "Aucune"
-      - "Le caramel est une protéine"
-    answer: 1
-    explanation: >
-      La caramélisation est différente : elle chauffe des sucres seuls et ne fait pas intervenir
-      d'acides aminés.
-  - question: "Quel composé peut se former à haute température ?"
-    options:
-      - "L'acrylamide"
-      - "Le sel de table"
-      - "Le jus d'orange"
-    answer: 1
-    explanation: >
-      À haute température, la réaction peut former de l'acrylamide, un cancérogène probable ;
-      cuire à plus basse température permet d'en limiter la formation.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La réaction de Maillard unit des sucres et des acides aminés sous l'effet de la chaleur. Elle donne aux aliments cuits leur couleur brune et leurs arômes.
-
-## Une réaction de cuisine
-
-La réaction de Maillard est une réaction chimique entre des sucres réducteurs et des composés qui portent un groupe amine, comme les acides aminés. Elle produit des composés bruns, les mélanoïdines, et de nombreux composés aromatiques, qui donnent aux aliments cuits leur couleur et leur odeur.
-
-## Où la rencontre-t-on ?
-
-Viande grillée, pain grillé, café torréfié et sirop d'érable doivent une part de leur couleur et de leur goût à la réaction de Maillard. Le chimiste français Louis-Camille Maillard a décrit cette réaction au début du XXe siècle.
-
-## À ne pas confondre avec le caramel
-
-La caramélisation est différente : elle chauffe des sucres seuls et ne fait pas intervenir d'acides aminés. La caramélisation est un brunissement du sucre seul, qui donne une saveur de beurre et une couleur brune, par exemple dans la sauce caramel ou la crème brûlée. La réaction de Maillard demande de la chaleur : elle se produit à haute température.
-
-## Un revers
-
-À haute température, la réaction peut former de l'acrylamide, un cancérogène probable ; cuire à plus basse température permet d'en limiter la formation.
-
-```schema
-type: comparaison
-titre: Maillard ou caramel
-colonnes:
-  - titre: Réaction de Maillard
-    points:
-      - Sucres et acides aminés
-      - Pigments bruns et arômes
-  - titre: Caramélisation
-    points:
-      - Sucres seuls
-```
-
-## À retenir
-
-- La réaction de Maillard unit des sucres réducteurs et des acides aminés.
-- Elle crée les pigments bruns et les arômes des aliments cuits.
-- Viande grillée, pain grillé, café torréfié et sirop d'érable doivent une part de leur couleur et de leur goût à la réaction de Maillard.
-- La caramélisation chauffe des sucres seuls, sans acides aminés : ce n'est pas la même réaction.
-- À haute température, elle peut former de l'acrylamide, un cancérogène probable.
-
----
-type: article
 title: Le fer et la vitamine B12, leurs rôles dans le corps
 slug: le-fer-et-la-vitamine-b12-leurs-roles-dans-le-corps
 categoryPath: alimentation-et-nutrition/nutriments/micronutriments
@@ -21994,105 +21151,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-type: article
-title: Yaourt, choucroute, kéfir, que sont les probiotiques ?
-slug: yaourt-choucroute-kefir-que-sont-les-probiotiques
-categoryPath: alimentation-et-nutrition/nutriments/microbiote-et-probiotiques
-summary: >
-  La fermentation transforme les aliments grâce à des micro-organismes. Les probiotiques sont
-  des micro-organismes vivants, dont les bénéfices restent à préciser.
-tags: [microbiote-et-probiotiques]
-sources:
-  - title: "Aliment fermenté"
-    url: "https://fr.wikipedia.org/wiki/Aliment_ferment%C3%A9"
-    publisher: "Wikipédia"
-  - title: "Fermentation in food processing"
-    url: "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
-    publisher: "Wikipedia"
-  - title: "Probiotics: Usefulness and Safety"
-    url: "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety"
-    publisher: "NCCIH (NIH)"
-quiz:
-  - question: "Qui transforme un aliment lors de sa fermentation ?"
-    options:
-      - "Des micro-organismes, comme des bactéries et des levures"
-      - "De la chaleur seule"
-      - "Un congélateur"
-    answer: 1
-    explanation: >
-      Un aliment fermenté est un aliment transformé par des micro-organismes : bactéries,
-      levures ou moisissures.
-  - question: "Qu'est-ce qu'un probiotique ?"
-    options:
-      - "Un micro-organisme vivant dont on attend un bénéfice pour la santé"
-      - "Un sucre artificiel"
-      - "Un antibiotique"
-    answer: 1
-    explanation: >
-      Les probiotiques sont des micro-organismes vivants dont on attend un bénéfice pour la
-      santé quand on les consomme.
-  - question: "Le bénéfice d'une souche de probiotique garantit-il celui des autres ?"
-    options:
-      - "Non, les effets diffèrent selon le type"
-      - "Oui, toujours"
-      - "Seulement en hiver"
-    answer: 1
-    explanation: >
-      Les effets diffèrent selon le type de probiotique : le bénéfice d'une souche ne garantit
-      pas celui d'une autre.
-  - question: "Qui a montré le rôle des levures dans la fermentation alcoolique ?"
-    options:
-      - "Louis Pasteur"
-      - "Albert Einstein"
-      - "Marie Curie"
-    answer: 1
-    explanation: >
-      Louis Pasteur a fondé la science de la fermentation en montrant le rôle des levures dans
-      la fermentation alcoolique.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La fermentation transforme les aliments grâce à des micro-organismes. Les probiotiques sont des micro-organismes vivants, dont les bénéfices restent à préciser.
-
-## Des aliments transformés par des microbes
-
-Un aliment fermenté est un aliment transformé par des micro-organismes : bactéries, levures ou moisissures. Yaourt, fromage, kimchi, choucroute, pain, vin, bière et vinaigre sont des aliments fermentés. Louis Pasteur a fondé la science de la fermentation en montrant le rôle des levures dans la fermentation alcoolique.
-
-## Pourquoi fermenter
-
-La fermentation améliore la digestibilité, la valeur nutritive et le goût des aliments. La fermentation conserve les aliments sans réfrigération ni additifs de synthèse.
-
-## Que sont les probiotiques
-
-Les probiotiques sont des micro-organismes vivants dont on attend un bénéfice pour la santé quand on les consomme. Les probiotiques se trouvent dans le yaourt et d'autres aliments fermentés, ainsi que dans des compléments. La plupart des probiotiques contiennent des bactéries des groupes Lactobacillus et Bifidobacterium, ou des levures comme Saccharomyces boulardii.
-
-## Ce que l'on sait, et ce que l'on ignore
-
-Les recherches sont prometteuses pour certains problèmes de santé, mais il reste beaucoup à apprendre pour savoir si les probiotiques sont utiles et sûrs. Les effets diffèrent selon le type de probiotique : le bénéfice d'une souche ne garantit pas celui d'une autre. Les probiotiques ont une longue histoire d'usage apparemment sûr chez les personnes en bonne santé, mais des infections graves ont été signalées chez des bébés prématurés.
-
-```schema
-type: systeme
-titre: Les aliments fermentés
-centre: Micro-organismes
-parties:
-  - nom: Yaourt
-  - nom: Fromage
-  - nom: Kimchi et choucroute
-  - nom: Kéfir
-```
-
-## À retenir
-
-- Un aliment fermenté est un aliment transformé par des micro-organismes : bactéries, levures ou moisissures.
-- Yaourt, fromage, kimchi, choucroute, pain, vin, bière et vinaigre sont des aliments fermentés.
-- La fermentation améliore la digestibilité, la valeur nutritive et le goût des aliments.
-- Les probiotiques sont des micro-organismes vivants dont on attend un bénéfice pour la santé.
-- Les recherches sont prometteuses, mais il reste beaucoup à apprendre sur l'utilité et la sûreté des probiotiques.
 
 ---
 type: article
@@ -22309,106 +21367,6 @@ status: planned
 
 ---
 type: article
-title: Pourquoi chauffe-t-on le lait avant de le vendre ?
-slug: pourquoi-chauffe-t-on-le-lait-avant-de-le-vendre
-categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
-summary: >
-  La pasteurisation chauffe un aliment à une température modérée pour éliminer les germes
-  dangereux, sans le stériliser. Louis Pasteur l'a mise au point pour le vin.
-tags: [conservation]
-sources:
-  - title: "Pasteurisation"
-    url: "https://fr.wikipedia.org/wiki/Pasteurisation"
-    publisher: "Wikipédia"
-  - title: "Pasteurization"
-    url: "https://en.wikipedia.org/wiki/Pasteurization"
-    publisher: "Wikipedia"
-  - title: "Louis Pasteur"
-    url: "https://en.wikipedia.org/wiki/Louis_Pasteur"
-    publisher: "Wikipedia"
-quiz:
-  - question: "À quelle température la pasteurisation chauffe-t-elle en général ?"
-    options:
-      - "À moins de 100 °C"
-      - "À 1 000 °C"
-      - "À 500 °C"
-    answer: 1
-    explanation: >
-      La pasteurisation est un procédé de conservation où l'aliment est chauffé à une
-      température modérée, inférieure à 100 °C, pour éliminer les germes dangereux.
-  - question: "Pour quel produit Pasteur a-t-il d'abord mis au point le procédé ?"
-    options:
-      - "Le vin"
-      - "Le pain"
-      - "Le chocolat"
-    answer: 1
-    explanation: >
-      Louis Pasteur a fait breveter le procédé pour lutter contre les « maladies » du vin.
-  - question: "La pasteurisation détruit-elle les spores ?"
-    options:
-      - "Non"
-      - "Oui, tous"
-      - "Seulement dans le lait"
-    answer: 1
-    explanation: >
-      La pasteurisation n'est pas une stérilisation : elle ne détruit pas les spores.
-  - question: "Quel traitement stérilise le lait pour le garder plusieurs mois ?"
-    options:
-      - "Le traitement UHT"
-      - "La congélation rapide"
-      - "Le brassage"
-    answer: 1
-    explanation: >
-      Le traitement UHT stérilise le lait et permet de le conserver plusieurs mois sans
-      réfrigération.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La pasteurisation chauffe un aliment à une température modérée pour éliminer les germes dangereux, sans le stériliser. Louis Pasteur l'a mise au point pour le vin.
-
-## Chauffer sans cuire
-
-La pasteurisation est un procédé de conservation où l'aliment est chauffé à une température modérée, inférieure à 100 °C, pour éliminer les germes dangereux. La pasteurisation n'est pas une stérilisation : elle ne détruit pas les spores. On pasteurise le lait, les jus de fruits, la bière, le cidre, les œufs, le vinaigre et bien d'autres produits.
-
-## De Pasteur au lait d'aujourd'hui
-
-Elle porte le nom de Louis Pasteur, dont les recherches ont montré que la chaleur désactive les micro-organismes indésirables du vin. Louis Pasteur a fait breveter le procédé pour lutter contre les « maladies » du vin. Pasteur a démontré que les levures provoquent la fermentation qui transforme le sucre en alcool. Pour le lait, la méthode HTST chauffe le lait quelques secondes à haute température, puis le refroidit vite.
-
-## Ce que cela change
-
-Elle détruit des bactéries dangereuses comme Salmonella, Listeria et E. coli O157:H7 dans les produits laitiers. Elle modifie légèrement la teneur de certains aliments en vitamines. Le traitement UHT stérilise le lait et permet de le conserver plusieurs mois sans réfrigération.
-
-## Un institut
-
-Louis Pasteur a dirigé l'Institut Pasteur jusqu'à sa mort.
-
-```schema
-type: comparaison
-titre: Les traitements du lait
-colonnes:
-  - titre: Pasteurisation
-    points:
-      - Moins de 100 °C
-      - Élimine les germes dangereux
-  - titre: Stérilisation et UHT
-    points:
-      - Plus de 100 °C
-      - Conservation plus longue
-```
-
-## À retenir
-
-- La pasteurisation chauffe un aliment à moins de 100 °C pour éliminer les germes dangereux.
-- Elle porte le nom de Louis Pasteur, dont les recherches ont montré que la chaleur désactive les micro-organismes indésirables du vin.
-- Louis Pasteur a fait breveter le procédé pour lutter contre les « maladies » du vin.
-- La pasteurisation n'est pas une stérilisation : elle ne détruit pas les spores.
-- On pasteurise le lait, les jus de fruits, la bière, le cidre, les œufs, le vinaigre et bien d'autres produits.
-
----
-type: article
 title: Eau plate et eau gazeuse, quelles différences ?
 slug: eau-plate-et-eau-gazeuse-quelles-differences
 categoryPath: alimentation-et-nutrition/nutriments/eau-et-hydratation
@@ -22421,210 +21379,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-type: article
-title: Quelle quantité d'eau se cache dans notre assiette ?
-slug: quelle-quantite-d-eau-se-cache-dans-notre-assiette
-categoryPath: alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire
-summary: >
-  Produire un aliment demande de l'eau, souvent beaucoup plus que ce qu'on voit. L'empreinte eau
-  distingue l'eau bleue, verte et grise.
-tags: [empreinte-alimentaire]
-sources:
-  - title: "Eau virtuelle"
-    url: "https://fr.wikipedia.org/wiki/Eau_virtuelle"
-    publisher: "Wikipédia"
-  - title: "Empreinte eau"
-    url: "https://fr.wikipedia.org/wiki/Empreinte_eau"
-    publisher: "Wikipédia"
-  - title: "Water footprint"
-    url: "https://en.wikipedia.org/wiki/Water_footprint"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Quelle eau est l'eau de pluie stockée dans le sol ?"
-    options:
-      - "L'eau verte"
-      - "L'eau bleue"
-      - "L'eau grise"
-    answer: 1
-    explanation: >
-      On distingue l'eau bleue, prélevée dans les rivières et les nappes, l'eau verte, l'eau de
-      pluie stockée dans le sol, et l'eau grise, nécessaire pour diluer les polluants.
-  - question: "Quel produit demande le plus d'eau à produire : le bœuf ou le porc ?"
-    options:
-      - "Le bœuf"
-      - "Le porc"
-      - "Exactement autant"
-    answer: 1
-    explanation: >
-      Le bœuf a une empreinte eau bien plus élevée que le porc : il faut beaucoup plus d'eau
-      pour produire un kilo de bœuf.
-  - question: "Quel secteur utilise la plus grande partie de l'eau consommée ?"
-    options:
-      - "L'agriculture"
-      - "Les piscines"
-      - "Les fontaines"
-    answer: 1
-    explanation: >
-      L'agriculture utilise la plus grande partie de l'eau consommée par l'humanité.
-  - question: "À quoi correspond l'eau grise ?"
-    options:
-      - "À l'eau nécessaire pour diluer les polluants"
-      - "À l'eau de pluie"
-      - "À l'eau de mer"
-    answer: 1
-    explanation: >
-      On distingue l'eau bleue, prélevée dans les rivières et les nappes, l'eau verte, l'eau de
-      pluie stockée dans le sol, et l'eau grise, nécessaire pour diluer les polluants.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Produire un aliment demande de l'eau, souvent beaucoup plus que ce qu'on voit. L'empreinte eau distingue l'eau bleue, verte et grise.
-
-## Une eau qu'on ne voit pas
-
-L'empreinte eau est le volume total d'eau douce utilisé pour produire les biens et services consommés ; l'eau virtuelle est l'eau nécessaire pour fabriquer un bien de consommation. On distingue l'eau bleue, prélevée dans les rivières et les nappes, l'eau verte, l'eau de pluie stockée dans le sol, et l'eau grise, nécessaire pour diluer les polluants.
-
-## Des produits très gourmands
-
-Le bœuf a une empreinte eau bien plus élevée que le porc : il faut beaucoup plus d'eau pour produire un kilo de bœuf. Une tasse de café demande, pour sa production, bien plus d'eau que celle qu'elle contient. L'agriculture utilise la plus grande partie de l'eau consommée par l'humanité.
-
-## Un enjeu mondial
-
-Les pays qui manquent d'eau gèrent leurs exportations agricoles en tenant compte de l'eau qu'elles contiennent. La consommation d'eau virtuelle par habitant varie beaucoup selon les régions du monde : elle est plus élevée en Europe et en Amérique du Nord qu'en Asie.
-
-## Un concept récent
-
-Le concept d'empreinte eau a été introduit par Arjen Hoekstra au début des années 2000. Une norme internationale, l'ISO 14046, précise comment évaluer l'empreinte eau.
-
-```schema
-type: comparaison
-titre: Les couleurs de l'eau virtuelle
-colonnes:
-  - titre: Eau bleue
-    points:
-      - Rivières et nappes
-  - titre: Eau verte
-    points:
-      - Pluie stockée dans le sol
-  - titre: Eau grise
-    points:
-      - Nécessaire pour diluer la pollution
-```
-
-## À retenir
-
-- L'eau virtuelle est l'eau nécessaire pour fabriquer un bien ; l'empreinte eau en est le total.
-- L'eau bleue vient des rivières et des nappes, l'eau verte de la pluie stockée dans le sol, l'eau grise dilue les polluants.
-- Le bœuf a une empreinte eau bien plus élevée que le porc : il faut beaucoup plus d'eau pour produire un kilo de bœuf.
-- L'agriculture utilise la plus grande partie de l'eau consommée par l'humanité.
-- Une tasse de café demande, pour sa production, bien plus d'eau que celle qu'elle contient.
-
----
-type: article
-title: Un aliment ultra-transformé est-il mauvais par nature ?
-slug: un-aliment-ultra-transforme-est-il-mauvais-par-nature
-categoryPath: alimentation-et-nutrition/nutrition-et-sante
-summary: >
-  La classification NOVA range les aliments selon leur degré de transformation. Elle est utile
-  et critiquée : le débat porte sur le rôle de la transformation et de la qualité
-  nutritionnelle.
-tags: [nutrition-et-sante]
-sources:
-  - title: "Aliment ultra-transformé"
-    url: "https://fr.wikipedia.org/wiki/Aliment_ultra-transform%C3%A9"
-    publisher: "Wikipédia"
-  - title: "Ultra-processed food"
-    url: "https://en.wikipedia.org/wiki/Ultra-processed_food"
-    publisher: "Wikipedia"
-  - title: "Nova classification"
-    url: "https://en.wikipedia.org/wiki/Nova_classification"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Combien de groupes la classification NOVA compte-t-elle ?"
-    options:
-      - "Quatre"
-      - "Deux"
-      - "Dix"
-    answer: 1
-    explanation: >
-      La classification NOVA range les aliments en quatre groupes selon leur degré de
-      transformation : non transformés ou peu transformés, ingrédients culinaires transformés,
-      aliments transformés, aliments ultra-transformés.
-  - question: "Où la classification NOVA a-t-elle été proposée ?"
-    options:
-      - "À l'université de São Paulo, au Brésil"
-      - "À Paris"
-      - "À Tokyo"
-    answer: 1
-    explanation: >
-      Elle a été proposée par des chercheurs de l'université de São Paulo, au Brésil, autour de
-      Carlos Augusto Monteiro.
-  - question: "Les liens entre aliments ultra-transformés et maladies prouvent-ils une cause ?"
-    options:
-      - "Non, ce sont des associations"
-      - "Oui, toujours"
-      - "Personne n'a étudié"
-    answer: 1
-    explanation: >
-      Ces liens sont des associations : selon les sources, la causalité n'est pas établie, sauf
-      pour la prise de poids.
-  - question: "NOVA tient-elle compte de la composition nutritionnelle des aliments ?"
-    options:
-      - "Non"
-      - "Oui, uniquement"
-      - "Seulement pour le sel"
-    answer: 1
-    explanation: >
-      NOVA ne tient pas compte de la composition nutritionnelle des aliments et n'est pas conçue
-      pour évaluer leur profil nutritionnel.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La classification NOVA range les aliments selon leur degré de transformation. Elle est utile et critiquée : le débat porte sur le rôle de la transformation et de la qualité nutritionnelle.
-
-## Une classification en quatre groupes
-
-La classification NOVA range les aliments en quatre groupes selon leur degré de transformation : non transformés ou peu transformés, ingrédients culinaires transformés, aliments transformés, aliments ultra-transformés. Elle a été proposée par des chercheurs de l'université de São Paulo, au Brésil, autour de Carlos Augusto Monteiro. Un aliment ultra-transformé est fabriqué industriellement à partir de nombreux ingrédients, souvent avec des additifs, que l'on n'utilise pas dans une cuisine familiale.
-
-## Des exemples et des liens avec la santé
-
-Des sodas, des pizzas surgelées, des céréales de petit-déjeuner et des plats préparés industriels sont des exemples d'aliments ultra-transformés. Des études associent une forte consommation d'aliments ultra-transformés à davantage d'obésité, de diabète, de maladies cardiovasculaires et d'autres problèmes de santé. Ces liens sont des associations : selon les sources, la causalité n'est pas établie, sauf pour la prise de poids. Tous les aliments ultra-transformés ne se valent pas : ceux d'origine végétale présentent moins de risques que ceux d'origine animale, et certains pains ou céréales sont liés à un risque plus faible de diabète.
-
-## Les limites de NOVA
-
-NOVA ne tient pas compte de la composition nutritionnelle des aliments et n'est pas conçue pour évaluer leur profil nutritionnel. On reproche à NOVA d'être binaire et de sous-entendre que les aliments ultra-transformés sont tous nocifs, sans tenir compte de la nutrition ni de l'enrichissement.
-
-## Un débat ouvert
-
-Le débat porte sur ce qui compte le plus : le degré de transformation ou la qualité nutritionnelle de l'aliment.
-
-```schema
-type: comparaison
-titre: Ce que dit la classification NOVA
-colonnes:
-  - titre: Ce qu'elle mesure
-    points:
-      - Le degré de transformation
-  - titre: Ses limites
-    points:
-      - Elle ne regarde pas la composition nutritionnelle
-```
-
-## À retenir
-
-- Un aliment ultra-transformé est fabriqué industriellement, avec de nombreux ingrédients et additifs de cuisine non familiale.
-- NOVA range les aliments en quatre groupes selon leur degré de transformation.
-- Des études associent les aliments ultra-transformés à plus d'obésité, de diabète et de maladies cardiovasculaires.
-- Ces liens sont des associations : la causalité n'est pas établie, sauf pour la prise de poids.
-- Le débat porte sur ce qui compte le plus : le degré de transformation ou la qualité nutritionnelle de l'aliment.
 
 ---
 type: article

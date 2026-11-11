@@ -135,3 +135,12 @@ Anomalies relevees par la validation du corpus livre, et traitement retenu.
    `src/lib/markdown.ts`, et sa mise en forme vit dans la classe `figure-placeholder` de
    `globals.css`. Le resultat visuel et l'emplacement prevu pour le texte alternatif sont
    ceux decrits par la specification.
+
+## 2026-11-11 — Nettoyage qualite des lecons (branche claude/nettoyage-qualite-lecons)
+
+Corpus uniquement, aucune ecriture en base ni deploiement. 50 doublons supprimes (sources
+non-Wikipedia reportees sur la lecon conservee), 43 lecons de moins de 260 mots repassees en
+`planned`, sources institutionnelles ajoutees a 10 lecons sante, alimentation et droit.
+1 010 -> 917 lecons publiees. Detail et reste a faire : `docs/QUALITY_CLEANUP_2026-11-11.md`
+et `docs/QUALITY_BACKLOG.csv`. Verification : `tsx prisma/seed.ts --dry-run` (corpus valide),
+suites lesson-visuals et discovery vertes ; la suite d'integration (base Postgres) tourne en CI.
