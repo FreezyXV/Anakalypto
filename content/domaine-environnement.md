@@ -2721,108 +2721,6 @@ elements:
 
 ---
 type: article
-title: Le traitement des eaux usées
-slug: traitement-eaux-usees
-categoryPath: environnement-et-climat/pollution-et-ressources/eau
-summary: >
-  Comment une station d'épuration nettoie l'eau avant de la rendre à la rivière.
-tags: [eau, assainissement, essentiel-reconstruction]
-relatedArticles: [recuperer-eau-pluie]
-sources:
-  - title: "Primary, Secondary, and Tertiary Wastewater Treatment: How Do They Work?"
-    url: "https://www.organicawater.com/primary-secondary-tertiary-wastewater-treatment-work/"
-    publisher: "Organica Water"
-    date: "2025"
-  - title: "What are the Three Stages of Wastewater Treatment?"
-    url: "https://www.membracon.co.uk/blog/what-are-the-three-stages-of-wastewater-treatment/"
-    publisher: "Membracon"
-    date: "2025"
-quiz:
-  - question: "Comment le traitement secondaire élimine-t-il les matières organiques dissoutes
-      dans l'eau ?"
-    options:
-      - "Par filtration mécanique fine"
-      - "Grâce à des bactéries qui les digèrent"
-      - "Par simple évaporation"
-    answer: 2
-    explanation: >
-      Le traitement secondaire repose sur des colonies de bactéries qui se nourrissent des
-      matières organiques encore présentes dans l'eau, la purifiant biologiquement.
-  - question: "Que risque une rivière qui reçoit des eaux usées non traitées ?"
-    options:
-      - "Elle devient plus froide"
-      - "L'excès de matières organiques épuise l'oxygène disponible pour la vie aquatique"
-      - "Rien de particulier à court terme"
-    answer: 2
-    explanation: >
-      La digestion de matières organiques en excès consomme l'oxygène dissous dans l'eau, ce qui
-      peut asphyxier poissons et autres organismes aquatiques.
-lastVerified: 2026-09-25
-status: published
----
-
-## En bref
-
-Chaque jour, les eaux usées d'une ville transportent déchets, matières organiques et microbes.
-Avant de rejoindre une rivière, elles passent par plusieurs étapes de nettoyage dans une station
-d'épuration.
-
-## Le traitement primaire, un tri physique
-
-L'eau arrive d'abord dans des grilles qui retiennent les gros déchets, puis dans un bassin où
-elle ralentit. La gravité fait le reste : les matières lourdes tombent au fond en boues, les
-graisses et les huiles remontent à la surface, où elles sont écumées.
-
-## Le traitement secondaire, un travail de microbes
-
-L'eau passe ensuite dans des bassins où vivent des colonies de bactéries. Ces micro-organismes se
-nourrissent des matières organiques encore dissoutes dans l'eau, les mêmes sucres et graisses qui
-la rendaient polluante. En digérant ces déchets, les bactéries purifient l'eau presque
-naturellement.
-
-## Le traitement tertiaire, la finition
-
-Une dernière étape, pas toujours systématique, retire l'azote et le phosphore restants, filtre
-les dernières particules fines, puis désinfecte l'eau, par exemple avec des rayons ultraviolets
-ou du chlore, pour éliminer les microbes restants avant le rejet.
-
-## Que deviennent les boues
-
-Les matières solides récupérées lors du traitement primaire et secondaire, appelées boues, sont
-elles-mêmes traitées : séchées, parfois utilisées comme engrais après contrôle, ou incinérées.
-
-## Pourquoi c'est indispensable
-
-Sans ce traitement, les eaux usées rejetées directement dans une rivière y apporteraient des
-microbes pathogènes et un excès de matières organiques qui asphyxierait la vie aquatique en
-consommant tout l'oxygène disponible.
-
-## À retenir
-
-- Le traitement primaire retire les déchets solides par simple gravité.
-- Le traitement secondaire utilise des bactéries pour digérer les matières organiques dissoutes.
-- Le traitement tertiaire, quand il existe, retire azote, phosphore et derniers microbes.
-- Les boues récupérées sont elles-mêmes traitées, parfois valorisées comme engrais.
-- Sans traitement, l'eau rejetée étoufferait la vie aquatique en épuisant l'oxygène de la
-  rivière.
-
-```schema
-type: etapes
-titre: Les trois traitements des eaux usées
-elements:
-  - titre: Primaire
-    texte: Les solides se déposent par gravité.
-  - titre: Secondaire
-    texte: Des bactéries digèrent la matière organique.
-    icone: microscope
-  - titre: Tertiaire
-    texte: La finition, quand elle existe.
-```
-
----
-
----
-type: article
 title: Les nappes phréatiques
 slug: nappes-phreatiques
 categoryPath: environnement-et-climat/pollution-et-ressources/eau
@@ -2846,7 +2744,7 @@ categoryPath: environnement-et-climat/pollution-et-ressources/eau
 summary: >
   Collecte, stockage, usages possibles et précautions sanitaires.
 tags: [eau, recuperation, essentiel-reconstruction]
-relatedArticles: [traitement-eaux-usees]
+relatedArticles: [que-devient-l-eau-de-l-evier-et-des-toilettes-dans-une-station-d-epuration]
 sources:
   - title: "Rainwater Harvesting Systems Technology Review"
     url: "https://www.energy.gov/cmei/femp/rainwater-harvesting-systems-technology-review"
@@ -7573,6 +7471,14 @@ sources:
   - title: "Sewage treatment"
     url: "https://en.wikipedia.org/wiki/Sewage_treatment"
     publisher: "Wikipedia"
+  - title: "Primary, Secondary, and Tertiary Wastewater Treatment: How Do They Work?"
+    url: "https://www.organicawater.com/primary-secondary-tertiary-wastewater-treatment-work/"
+    publisher: "Organica Water"
+    date: "2025"
+  - title: "What are the Three Stages of Wastewater Treatment?"
+    url: "https://www.membracon.co.uk/blog/what-are-the-three-stages-of-wastewater-treatment/"
+    publisher: "Membracon"
+    date: "2025"
 quiz:
   - question: "Qui élimine la pollution dissoute dans une station d'épuration ?"
     options:

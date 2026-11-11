@@ -37,7 +37,6 @@ droit;droit-et-justice/droit-public/droit-constitutionnel;La séparation des pou
 droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;La liberté d'expression et ses limites;liberte-dexpression-et-ses-limites;;non;published
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le contrat de travail;contrat-de-travail-et-licenciement;;non;published
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le droit de grève;droit-de-greve;;non;published
-droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Rétractation et garanties;droit-de-retractation-et-garanties;;non;published
 energie;energie/energies-renouvelables/hydraulique;Le moulin à eau;moulin-eau;;non;published
 environnement;environnement-et-climat/pollution-et-ressources/eau;Rendre l'eau potable;rendre-eau-potable;;non;published
 espace;espace-et-astronomie/systeme-solaire/planetes;Les huit planètes du Système solaire;huit-planetes-systeme-solaire;;non;published
@@ -135,11 +134,9 @@ arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;Fabriquer du papi
 arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;L'encre et les outils d'écriture;encre-outils-ecriture;1;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Arrêter une hémorragie;arreter-hemorragie;1;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;Dégager les voies respiratoires;degager-voies-respiratoires;1;oui;published
-corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;La déshydratation et le soluté de réhydratation;deshydratation-solute-rehydratation;1;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Les vitamines et les carences;vitamines-carences;1;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Les besoins nutritionnels de base;besoins-nutritionnels-base;1;oui;published
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Le choléra et l'eau contaminée;cholera-eau-contaminee;1;oui;published
-corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Soigner une plaie;soigner-plaie;1;oui;published
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Les maladies transmises par l'eau et les aliments;maladies-transmises-eau-aliments;1;oui;published
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;Le stress post-traumatique;stress-post-traumatique;1;oui;published
 droit;droit-et-justice/droit-prive/droit-civil;La propriété et le cadastre;propriete-cadastre;1;oui;published
@@ -152,13 +149,11 @@ energie;energie/reseaux-et-stockage/hydrogene;L'électrolyse de l'eau;electrolys
 energie;energie/efficacite-et-sobriete/efficacite-energetique;Isoler un bâtiment;isoler-batiment;1;oui;published
 energie;energie/efficacite-et-sobriete/efficacite-energetique;La cogénération;cogeneration;1;oui;published
 energie;energie/efficacite-et-sobriete/usages-et-consommation;Le bois de chauffage;bois-chauffage;1;oui;published
-environnement;environnement-et-climat/pollution-et-ressources/eau;Le traitement des eaux usées;traitement-eaux-usees;1;oui;published
 environnement;environnement-et-climat/pollution-et-ressources/eau;Récupérer l'eau de pluie;recuperer-eau-pluie;1;oui;published
 environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Réparer plutôt que jeter;reparer-plutot-jeter;1;oui;published
 espace;espace-et-astronomie/systeme-solaire/lune;Le calendrier lunaire;calendrier-lunaire;1;oui;published
 espace;espace-et-astronomie/astrophysique/etoiles;Se repérer grâce aux étoiles;reperer-grace-etoiles;1;oui;published
 espace;espace-et-astronomie/observation-astronomique/telescopes;Fabriquer une lunette astronomique;fabriquer-lunette-astronomique;1;oui;published
-geographie;geographie-et-territoires/geographie-physique/reliefs;Lire une carte topographique;lire-carte-topographique;1;oui;published
 geographie;geographie-et-territoires/geographie-physique/climatologie;Prévoir le temps sans instruments;prevoir-temps-sans-instruments;1;oui;published
 geographie;geographie-et-territoires/geographie-physique/climatologie;Le calendrier des saisons et des cultures;calendrier-saisons-cultures;1;oui;published
 geographie;geographie-et-territoires/geographie-humaine/urbanisation;Organiser un village autonome;organiser-village-autonome;1;oui;published
@@ -166,7 +161,6 @@ geographie;geographie-et-territoires/geopolitique/ressources;Les ressources d'un
 geographie;geographie-et-territoires/geopolitique/routes-et-detroits;Naviguer sans GPS;naviguer-sans-gps;1;oui;published
 industries;industries/industrie-lourde/siderurgie;La forge et le travail du fer;forge-travail-fer;1;oui;published
 industries;industries/industrie-lourde/siderurgie;La trempe et le revenu;trempe-revenu;1;oui;published
-industries;industries/industrie-lourde/chimie-industrielle;Fabriquer du savon;fabriquer-savon;1;oui;published
 industries;industries/industrie-lourde/chimie-industrielle;La soude et la potasse;soude-potasse;1;oui;published
 industries;industries/industrie-manufacturiere/chaine-logistique;Stocker et conserver les marchandises;stocker-conserver-marchandises;1;oui;published
 industries;industries/industrie-manufacturiere/qualite-et-normalisation;Mesurer avec précision;mesurer-avec-precision;1;oui;published
@@ -1769,7 +1763,6 @@ alimentation;alimentation-et-nutrition/nutriments/microbiote-et-probiotiques;Le 
 alimentation;alimentation-et-nutrition/nutriments/microbiote-et-probiotiques;La fermentation spontanee contre la fermentation controlee;la-fermentation-spontanee-contre-la-fermentation-controlee;3;non;planned
 alimentation;alimentation-et-nutrition/nutriments/microbiote-et-probiotiques;Le role du microbiote dans la digestion du lactose;le-role-du-microbiote-dans-la-digestion-du-lactose;3;non;planned
 alimentation;alimentation-et-nutrition/nutriments/micronutriments;La vitamine D et son role au-dela des os;la-vitamine-d-et-son-role-au-dela-des-os;2;oui;planned
-alimentation;alimentation-et-nutrition/nutriments/micronutriments;Pourquoi les marins d'autrefois avaient-ils besoin de citrons ?;pourquoi-les-marins-d-autrefois-avaient-ils-besoin-de-citrons;2;oui;published
 alimentation;alimentation-et-nutrition/nutriments/micronutriments;Les vitamines du groupe B et l'energie cellulaire;les-vitamines-du-groupe-b-et-l-energie-cellulaire;2;oui;planned
 alimentation;alimentation-et-nutrition/nutriments/micronutriments;Pourquoi dit-on que les carottes font voir dans le noir ?;pourquoi-dit-on-que-les-carottes-font-voir-dans-le-noir;2;oui;published
 alimentation;alimentation-et-nutrition/nutriments/micronutriments;La vitamine E, un antioxydant liposoluble;la-vitamine-e-un-antioxydant-liposoluble;3;non;planned
@@ -3082,7 +3075,6 @@ corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La fievre jaun
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Le cycle de vie du parasite du paludisme;le-cycle-de-vie-du-parasite-du-paludisme;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La lepre, une maladie ancienne encore mal comprise;la-lepre-une-maladie-ancienne-encore-mal-comprise;3;non;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La quarantaine, une methode ancienne toujours utile;la-quarantaine-une-methode-ancienne-toujours-utile;2;oui;planned
-corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;L'hygiene des mains et la prevention des infections;l-hygiene-des-mains-et-la-prevention-des-infections;2;oui;published
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La resistance aux antiviraux, un enjeu croissant;la-resistance-aux-antiviraux-un-enjeu-croissant;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Les zoonoses, ces maladies transmises par les animaux;les-zoonoses-ces-maladies-transmises-par-les-animaux;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La grippe saisonniere et sa surveillance annuelle;la-grippe-saisonniere-et-sa-surveillance-annuelle;2;oui;planned
@@ -3678,7 +3670,6 @@ energie;energie/efficacite-et-sobriete/usages-et-consommation;La consommation d'
 energie;energie/efficacite-et-sobriete/usages-et-consommation;L'evolution historique de la consommation energetique mondiale;l-evolution-historique-de-la-consommation-energetique-mondiale;2;oui;planned
 energie;energie/energies-fossiles-et-nucleaire/charbon;Le charbon et la revolution industrielle;le-charbon-et-la-revolution-industrielle;2;oui;planned
 energie;energie/energies-fossiles-et-nucleaire/charbon;Les differents types de charbon selon leur qualite;les-differents-types-de-charbon-selon-leur-qualite;2;oui;planned
-energie;energie/energies-fossiles-et-nucleaire/charbon;Comment transforme-t-on du bois en charbon de bois ?;comment-transforme-t-on-du-bois-en-charbon-de-bois;2;oui;published
 energie;energie/energies-fossiles-et-nucleaire/charbon;La combustion du charbon, principe chimique de base;la-combustion-du-charbon-principe-chimique-de-base;2;oui;planned
 energie;energie/energies-fossiles-et-nucleaire/charbon;La centrale a charbon, fonctionnement general;la-centrale-a-charbon-fonctionnement-general;2;oui;planned
 energie;energie/energies-fossiles-et-nucleaire/charbon;Les risques sanitaires lies a l'extraction du charbon;les-risques-sanitaires-lies-a-l-extraction-du-charbon;2;oui;planned
@@ -3767,7 +3758,6 @@ energie;energie/energies-fossiles-et-nucleaire/nucleaire;Le radon, une radioacti
 energie;energie/energies-fossiles-et-nucleaire/nucleaire;La formation des dechets nucleaires de faible activite;la-formation-des-dechets-nucleaires-de-faible-activite;3;non;planned
 energie;energie/energies-fossiles-et-nucleaire/nucleaire;Les reacteurs a sels fondus, une technologie alternative;les-reacteurs-a-sels-fondus-une-technologie-alternative;3;non;planned
 energie;energie/energies-renouvelables/eolien;Le principe physique de la production eolienne;le-principe-physique-de-la-production-eolienne;2;oui;planned
-energie;energie/energies-renouvelables/eolien;Comment un moulin à vent transformait-il le vent en farine ?;comment-un-moulin-a-vent-transformait-il-le-vent-en-farine;2;oui;published
 energie;energie/energies-renouvelables/eolien;La construction d'une petite eolienne domestique;la-construction-d-une-petite-eolienne-domestique;2;oui;planned
 energie;energie/energies-renouvelables/eolien;Le rendement d'une eolienne selon la vitesse du vent;le-rendement-d-une-eolienne-selon-la-vitesse-du-vent;3;non;planned
 energie;energie/energies-renouvelables/eolien;La limite de Betz, le maximum theorique d'une eolienne;la-limite-de-betz-le-maximum-theorique-d-une-eolienne;3;non;planned
@@ -3840,7 +3830,6 @@ energie;energie/energies-renouvelables/solaire;Le recyclage des panneaux solaire
 energie;energie/energies-renouvelables/solaire;Le solaire flottant sur les plans d'eau;le-solaire-flottant-sur-les-plans-d-eau;3;non;planned
 energie;energie/energies-renouvelables/solaire;La production solaire domestique et l'autoconsommation;la-production-solaire-domestique-et-l-autoconsommation;2;oui;planned
 energie;energie/energies-renouvelables/solaire;Le kit solaire portable pour zones sans electricite;le-kit-solaire-portable-pour-zones-sans-electricite;2;oui;planned
-energie;energie/energies-renouvelables/solaire;Comment un four solaire peut-il cuire des aliments sans feu ?;comment-un-four-solaire-peut-il-cuire-des-aliments-sans-feu;2;oui;published
 energie;energie/energies-renouvelables/solaire;Le sechoir solaire pour la conservation des aliments;le-sechoir-solaire-pour-la-conservation-des-aliments;2;oui;planned
 energie;energie/energies-renouvelables/solaire;Le distillateur solaire pour purifier l'eau;le-distillateur-solaire-pour-purifier-l-eau;2;oui;planned
 energie;energie/energies-renouvelables/solaire;Le silicium, du sable brut au materiau semi-conducteur;le-silicium-du-sable-brut-au-materiau-semi-conducteur;3;non;planned
@@ -4857,7 +4846,6 @@ industries;industries/industrie-4-0/jumeaux-numeriques;Le jumeau numerique dans 
 industries;industries/industrie-4-0/jumeaux-numeriques;L'histoire de la premiere maquette numerique industrielle;l-histoire-de-la-premiere-maquette-numerique-industrielle;3;non;planned
 industries;industries/industrie-4-0/jumeaux-numeriques;Le jumeau numerique et la transition energetique des batiments;le-jumeau-numerique-et-la-transition-energetique-des-batiments;3;non;planned
 industries;industries/industrie-4-0/jumeaux-numeriques;Les competences necessaires pour concevoir un jumeau numerique;les-competences-necessaires-pour-concevoir-un-jumeau-numerique;3;non;planned
-industries;industries/industrie-lourde/chimie-industrielle;La fabrication traditionnelle du savon;la-fabrication-traditionnelle-du-savon;2;oui;published
 industries;industries/industrie-lourde/chimie-industrielle;Comment fabrique-t-on des engrais avec l'azote de l'air ?;comment-fabrique-t-on-des-engrais-avec-l-azote-de-l-air;2;oui;published
 industries;industries/industrie-lourde/chimie-industrielle;La fabrication de l'acide sulfurique;la-fabrication-de-l-acide-sulfurique;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La soude caustique, fabrication et usages;la-soude-caustique-fabrication-et-usages;2;oui;planned
@@ -4867,7 +4855,7 @@ industries;industries/industrie-lourde/chimie-industrielle;Les grands accidents 
 industries;industries/industrie-lourde/chimie-industrielle;La chimie verte, reduire l'impact des procedes industriels;la-chimie-verte-reduire-l-impact-des-procedes-industriels;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La fabrication artisanale de la chaux;la-fabrication-artisanale-de-la-chaux;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;L'ammoniac, un compose chimique cle de l'industrie;l-ammoniac-un-compose-chimique-cle-de-l-industrie;2;oui;planned
-industries;industries/industrie-lourde/chimie-industrielle;La fabrication du verre, procede de base;la-fabrication-du-verre-procede-de-base;2;oui;published
+industries;industries/industrie-lourde/chimie-industrielle;La fabrication du verre, procede de base;la-fabrication-du-verre-procede-de-base;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;Le procede de fabrication du ciment;le-procede-de-fabrication-du-ciment;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La fabrication de l'eau de Javel;la-fabrication-de-l-eau-de-javel;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La distillation, principe chimique de base;la-distillation-principe-chimique-de-base;2;oui;planned
@@ -5868,7 +5856,6 @@ sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-le
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;Le role du patient dans une decision medicale fondee sur les preuves;le-role-du-patient-dans-une-decision-medicale-fondee-sur-les-preuves;2;oui;planned
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;La decouverte accidentelle de la penicilline;la-decouverte-accidentelle-de-la-penicilline;2;oui;planned
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;Alexander Fleming et l'histoire de la penicilline;alexander-fleming-et-l-histoire-de-la-penicilline;2;non;planned
-sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;Comment l'écorce du saule a-t-elle donné l'aspirine ?;comment-l-ecorce-du-saule-a-t-elle-donne-l-aspirine;2;oui;published
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;La pharmacocinetique, ce que le corps fait au medicament;la-pharmacocinetique-ce-que-le-corps-fait-au-medicament;2;non;planned
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;La pharmacodynamie, ce que le medicament fait au corps;la-pharmacodynamie-ce-que-le-medicament-fait-au-corps;3;non;planned
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;Les essais cliniques, etapes obligatoires avant commercialisation;les-essais-cliniques-etapes-obligatoires-avant-commercialisation;2;oui;planned
@@ -8072,7 +8059,6 @@ automobile;automobile/motorisations/thermique;La reglementation sur la fin progr
 automobile;automobile/securite-et-conduite/aides-a-la-conduite;Le regulateur de vitesse adaptatif et son fonctionnement par radar;le-regulateur-de-vitesse-adaptatif-et-son-fonctionnement-par-radar;3;non;planned
 automobile;automobile/securite-et-conduite/aides-a-la-conduite;L'aide au maintien dans la voie de circulation;l-aide-au-maintien-dans-la-voie-de-circulation;3;non;planned
 automobile;automobile/securite-et-conduite/aides-a-la-conduite;La detection des angles morts par capteurs lateraux;la-detection-des-angles-morts-par-capteurs-lateraux;2;oui;planned
-automobile;automobile/securite-et-conduite/aides-a-la-conduite;Comment une voiture peut-elle freiner toute seule devant un obstacle ?;comment-une-voiture-peut-elle-freiner-toute-seule-devant-un-obstacle;2;oui;published
 automobile;automobile/securite-et-conduite/aides-a-la-conduite;La reconnaissance des panneaux de signalisation par camera embarquee;la-reconnaissance-des-panneaux-de-signalisation-par-camera-embarquee;3;non;planned
 automobile;automobile/securite-et-conduite/aides-a-la-conduite;L'aide au stationnement par capteurs ultrasoniques;l-aide-au-stationnement-par-capteurs-ultrasoniques;3;non;planned
 automobile;automobile/securite-et-conduite/aides-a-la-conduite;La surveillance de la somnolence du conducteur;la-surveillance-de-la-somnolence-du-conducteur;2;oui;planned
@@ -10335,7 +10321,6 @@ informatique;micro-informatique-et-informatique/materiel/processeurs;Les process
 informatique;micro-informatique-et-informatique/materiel/processeurs;Le role du cache du processeur dans l'acceleration de l'acces aux donnees frequentes;le-role-du-cache-du-processeur-dans-l-acceleration-de-l-acces-aux-donnees-frequentes;2;oui;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;La miniaturisation des transistors et son role dans l'evolution de la puissance des processeurs;la-miniaturisation-des-transistors-et-son-role-dans-l-evolution-de-la-puissance-des-processeurs;2;oui;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Pourquoi un ordinateur a-t-il besoin d'un ventilateur ?;pourquoi-un-ordinateur-a-t-il-besoin-d-un-ventilateur;2;oui;published
-informatique;micro-informatique-et-informatique/materiel/processeurs;Pourquoi une carte graphique calcule-t-elle si vite des millions de pixels ?;pourquoi-une-carte-graphique-calcule-t-elle-si-vite-des-millions-de-pixels;2;oui;published
 informatique;micro-informatique-et-informatique/materiel/processeurs;Le role du jeu d'instructions dans la conception et la compatibilite d'un processeur;le-role-du-jeu-d-instructions-dans-la-conception-et-la-compatibilite-d-un-processeur;3;non;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Les processeurs a faible consommation destines aux appareils portables;les-processeurs-a-faible-consommation-destines-aux-appareils-portables;2;oui;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Le role de la prediction de branchement dans l'optimisation de la vitesse d'execution d'un processeur;le-role-de-la-prediction-de-branchement-dans-l-optimisation-de-la-vitesse-d-execution-d-un-processeur;3;non;planned
@@ -11505,7 +11490,6 @@ sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-muscula
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Le rôle de l'altitude dans les adaptations energetiques musculaires du sportif;le-role-de-l-altitude-dans-les-adaptations-energetiques-musculaires-du-sportif;3;non;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;L'energetique musculaire et les differences observees entre hommes et femmes;l-energetique-musculaire-et-les-differences-observees-entre-hommes-et-femmes;3;non;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Le rôle du systeme nerveux dans le controle et la coordination de la contraction musculaire;le-role-du-systeme-nerveux-dans-le-controle-et-la-coordination-de-la-contraction-musculaire;2;oui;planned
-sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le principe de surcharge progressive dans la planification d'un entraînement sportif;le-principe-de-surcharge-progressive-dans-la-planification-d-un-entrainement-sportif;2;oui;published
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le rôle de la periodisation dans l'organisation d'une saison sportive complete;le-role-de-la-periodisation-dans-l-organisation-d-une-saison-sportive-complete;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;L'entrainement en force et ses principes fondamentaux pour ameliorer la puissance musculaire;l-entrainement-en-force-et-ses-principes-fondamentaux-pour-ameliorer-la-puissance-musculaire;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le rôle de la specificite dans la conception d'un programme d'entrainement sportif;le-role-de-la-specificite-dans-la-conception-d-un-programme-d-entrainement-sportif;2;oui;planned
@@ -11746,7 +11730,6 @@ technologies;technologies-et-ingenierie/nanotechnologies/applications;Les nanote
 technologies;technologies-et-ingenierie/nanotechnologies/applications;Le role des nanotechnologies dans l'amelioration des performances sportives des equipements;le-role-des-nanotechnologies-dans-l-amelioration-des-performances-sportives-des-equipements;3;non;planned
 technologies;technologies-et-ingenierie/nanotechnologies/applications;Les nanotechnologies et leur potentiel dans la lutte contre la resistance aux antibiotiques;les-nanotechnologies-et-leur-potentiel-dans-la-lutte-contre-la-resistance-aux-antibiotiques;2;oui;planned
 technologies;technologies-et-ingenierie/nanotechnologies/applications;Le role de la reglementation dans l'encadrement des usages commerciaux des nanotechnologies;le-role-de-la-reglementation-dans-l-encadrement-des-usages-commerciaux-des-nanotechnologies;3;non;planned
-technologies;technologies-et-ingenierie/nanotechnologies/nanomateriaux;Pourquoi le graphène, épais d'un seul atome, est-il si solide ?;pourquoi-le-graphene-epais-d-un-seul-atome-est-il-si-solide;2;oui;published
 technologies;technologies-et-ingenierie/nanotechnologies/nanomateriaux;Les nanotubes de carbone et leur resistance mecanique remarquable;les-nanotubes-de-carbone-et-leur-resistance-mecanique-remarquable;2;oui;planned
 technologies;technologies-et-ingenierie/nanotechnologies/nanomateriaux;Le role des nanoparticules d'or dans certaines applications medicales et technologiques;le-role-des-nanoparticules-d-or-dans-certaines-applications-medicales-et-technologiques;2;oui;planned
 technologies;technologies-et-ingenierie/nanotechnologies/nanomateriaux;Les nanocristaux et leurs applications dans l'affichage et l'eclairage modernes;les-nanocristaux-et-leurs-applications-dans-l-affichage-et-l-eclairage-modernes;2;oui;planned
@@ -11871,16 +11854,11 @@ aeronautique;aeronautique/navigation-aerienne/instruments-de-vol;Comment un pilo
 aeronautique;aeronautique/aerodynamique/trainee;Les winglets, petits ailerons contre la traînée;les-winglets-petits-ailerons-contre-la-trainee;0.82;non;published
 aeronautique;aeronautique/propulsion/propulsion-electrique-aeronautique;Que rejette un avion à hydrogène, et où loge-t-on le carburant ?;que-rejette-un-avion-a-hydrogene-et-ou-loge-t-on-le-carburant;0.8;non;published
 aeronautique;aeronautique/aviation-civile/decarbonation;Les concepts d'avion à hydrogène d'Airbus;les-concepts-d-avion-a-hydrogene-d-airbus;0.76;non;published
-alimentation;alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle;La réaction de Maillard, le secret du brunissement des aliments;la-reaction-de-maillard-le-secret-du-brunissement-des-aliments;0.89;non;published
 alimentation;alimentation-et-nutrition/nutriments/micronutriments;Le fer et la vitamine B12, leurs rôles dans le corps;le-fer-et-la-vitamine-b12-leurs-roles-dans-le-corps;0.89;non;planned
-alimentation;alimentation-et-nutrition/nutriments/microbiote-et-probiotiques;Yaourt, choucroute, kéfir, que sont les probiotiques ?;yaourt-choucroute-kefir-que-sont-les-probiotiques;0.89;non;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;Pourquoi le sel et le sucre conservent les aliments;pourquoi-le-sel-et-le-sucre-conservent-les-aliments;0.89;non;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;Comment des bactéries transforment-elles le lait en yaourt ?;comment-des-bacteries-transforment-elles-le-lait-en-yaourt;0.88;non;published
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les additifs alimentaires et leur réglementation;les-additifs-alimentaires-et-leur-reglementation;0.87;non;planned
-alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;Pourquoi chauffe-t-on le lait avant de le vendre ?;pourquoi-chauffe-t-on-le-lait-avant-de-le-vendre;0.86;non;published
 alimentation;alimentation-et-nutrition/nutriments/eau-et-hydratation;Eau plate et eau gazeuse, quelles différences ?;eau-plate-et-eau-gazeuse-quelles-differences;0.85;non;planned
-alimentation;alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire;Quelle quantité d'eau se cache dans notre assiette ?;quelle-quantite-d-eau-se-cache-dans-notre-assiette;0.85;non;published
-alimentation;alimentation-et-nutrition/nutrition-et-sante;Un aliment ultra-transformé est-il mauvais par nature ?;un-aliment-ultra-transforme-est-il-mauvais-par-nature;0.85;non;published
 alimentation;alimentation-et-nutrition/nutriments/macronutriments;Fructose et glucose, pourquoi le cerveau ne les traite pas de la même façon;fructose-et-glucose-pourquoi-le-cerveau-ne-les-traite-pas-de-la-meme-facon;0.83;non;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/reperes-nutritionnels;Le petit-déjeuner des adolescents et leurs apports en nutriments;le-petit-dejeuner-des-adolescents-et-leurs-apports-en-nutriments;0.83;non;published
 arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;Comment fabriquait-on un livre enluminé au Moyen Âge ?;comment-fabriquait-on-un-livre-enlumine-au-moyen-age;0.89;non;published
@@ -11891,7 +11869,6 @@ arts;arts-et-culture/patrimoine/musees-et-conservation;Pourquoi les princes coll
 arts;arts-et-culture/patrimoine/patrimoine-immateriel;Pourquoi un ministre du roi a-t-il transformé une teinturerie en manufacture de tapisseries ?;pourquoi-un-ministre-du-roi-a-t-il-transforme-une-teinturerie-en-manufacture-de-tapisseries;0.86;non;published
 arts;arts-et-culture/arts-du-spectacle/theatre-et-danse;D'où viennent les marionnettes et le théâtre d'ombres ?;d-ou-viennent-les-marionnettes-et-le-theatre-d-ombres;0.84;non;published
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;Pourquoi certains pigments des maîtres anciens étaient-ils dangereux ?;pourquoi-certains-pigments-des-maitres-anciens-etaient-ils-dangereux;0.84;non;published
-arts;arts-et-culture/arts-visuels/photographie-et-cinema;Comment les frères Lumière ont-ils inventé la projection de films ?;comment-les-freres-lumiere-ont-ils-invente-la-projection-de-films;0.84;non;published
 arts;arts-et-culture/patrimoine/musees-et-conservation;Comment décide-t-on de restaurer une œuvre sans la trahir ?;comment-decide-t-on-de-restaurer-une-uvre-sans-la-trahir;0.83;non;published
 arts;arts-et-culture/patrimoine/musees-et-conservation;Pourquoi fouille-t-on avant de construire une route ?;pourquoi-fouille-t-on-avant-de-construire-une-route;0.82;non;published
 arts;arts-et-culture/patrimoine/musees-et-conservation;Le Laboratoire du Louvre et l'étude des oeuvres;le-laboratoire-du-louvre-et-l-etude-des-oeuvres;0.79;non;planned
@@ -11899,10 +11876,7 @@ automobile;automobile/motorisations/thermique;Comment un turbocompresseur rend-i
 automobile;automobile/motorisations/electrique;Pourquoi une borne de recharge rapide charge-t-elle une voiture électrique bien plus vite ?;pourquoi-une-borne-de-recharge-rapide-charge-t-elle-une-voiture-electrique-bien-plus-vite;0.87;non;published
 automobile;automobile/securite-et-conduite/aides-a-la-conduite;Comment l'ABS permet-il de tourner le volant en freinant à fond ?;comment-l-abs-permet-il-de-tourner-le-volant-en-freinant-a-fond;0.87;non;published
 automobile;automobile/motorisations/motorisations-hybrides;Comment une voiture électrique récupère-t-elle de l'énergie en freinant ?;comment-une-voiture-electrique-recupere-t-elle-de-l-energie-en-freinant;0.86;non;published
-automobile;automobile/securite-et-conduite/conduite-autonome;Que signifient les niveaux de la conduite automatisée, de 0 à 5 ?;que-signifient-les-niveaux-de-la-conduite-automatisee-de-0-a-5;0.86;non;published
 automobile;automobile/motorisations/electrique;Pourquoi les moteurs de voitures électriques ont-ils besoin de terres rares ?;pourquoi-les-moteurs-de-voitures-electriques-ont-ils-besoin-de-terres-rares;0.85;non;published
-automobile;automobile/usages-et-mobilite/mobilite-partagee;Quelle différence entre autopartage et covoiturage, et que gagne-t-on vraiment ?;quelle-difference-entre-autopartage-et-covoiturage-et-que-gagne-t-on-vraiment;0.84;non;published
-automobile;automobile/motorisations/electrique;Pourquoi l'autonomie réelle d'une voiture électrique peut-elle être plus faible que l'autonomie annoncée ?;pourquoi-l-autonomie-reelle-d-une-voiture-electrique-peut-elle-etre-plus-faible-que-l-autonomie-annoncee;0.83;non;published
 automobile;automobile/industrie-automobile/production;Qu'est-ce qu'une voiture définie par logiciel, et en quoi change-t-elle tout ?;qu-est-ce-qu-une-voiture-definie-par-logiciel-et-en-quoi-change-t-elle-tout;0.83;non;published
 automobile;automobile/motorisations/electrique;Pourquoi les batteries à électrolyte solide font-elles tant rêver les constructeurs ?;pourquoi-les-batteries-a-electrolyte-solide-font-elles-tant-rever-les-constructeurs;0.83;non;published
 automobile;automobile/securite-et-conduite/securite-passive;Comment un airbag se gonfle-t-il plus vite qu'un clin d'œil ?;comment-un-airbag-se-gonfle-t-il-plus-vite-qu-un-clin-d-oeil;0.8;non;published
@@ -11919,7 +11893,6 @@ communication;communication-et-medias/medias-numeriques/plateformes-et-moderatio
 communication;communication-et-medias/information-et-verification/journalisme;Dans quels pays fait-on le plus confiance aux médias ?;dans-quels-pays-fait-on-le-plus-confiance-aux-medias;0.81;non;published
 communication;communication-et-medias/medias-numeriques/plateformes-et-moderation;Que fait l'Arcom face aux fausses informations ?;que-fait-l-arcom-face-aux-fausses-informations;0.81;non;published
 communication;communication-et-medias/information-et-verification/education-aux-medias;Pourquoi certaines personnes évitent-elles les actualités ?;pourquoi-certaines-personnes-evitent-elles-les-actualites;0.8;non;published
-corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Comment un vaccin à ARN messager apprend-il au corps à se défendre ?;comment-un-vaccin-a-arn-messager-apprend-il-au-corps-a-se-defendre;0.89;non;published
 corps-humain;corps-humain-et-sante/prevention-et-sante-publique/depistage;Comment fonctionne le dépistage organisé des cancers en France ?;comment-fonctionne-le-depistage-organise-des-cancers-en-france;0.87;non;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;Pourquoi manque-t-on de souffle en altitude alors que l'air reste le même ?;pourquoi-manque-t-on-de-souffle-en-altitude-alors-que-l-air-reste-le-meme;0.87;non;published
 corps-humain;corps-humain-et-sante/physiologie/immunite;Pourquoi parle-t-on d'inflammation de bas grade ?;pourquoi-parle-t-on-d-inflammation-de-bas-grade;0.86;non;published
@@ -11949,7 +11922,6 @@ energie;energie/energies-renouvelables/eolien;L'éolien en mer et les éoliennes
 energie;energie/efficacite-et-sobriete/usages-et-consommation;D'où vient l'électricité que l'on consomme en France ?;d-ou-vient-l-electricite-que-l-on-consomme-en-france;0.87;non;published
 energie;energie/energies-fossiles-et-nucleaire/nucleaire;La fusion nucléaire, où en sont les réacteurs expérimentaux;la-fusion-nucleaire-ou-en-sont-les-reacteurs-experimentaux;0.85;non;planned
 energie;energie/energies-renouvelables/solaire;Les cellules solaires en pérovskite;les-cellules-solaires-en-perovskite;0.85;non;planned
-energie;energie/reseaux-et-stockage/reseaux-electriques;Comment un réseau électrique intelligent adapte-t-il la consommation à la production ?;comment-un-reseau-electrique-intelligent-adapte-t-il-la-consommation-a-la-production;0.84;non;published
 energie;energie/energies-renouvelables/solaire;Peut-on produire de l'électricité et des cultures sur le même champ ?;peut-on-produire-de-l-electricite-et-des-cultures-sur-le-meme-champ;0.83;non;published
 energie;energie/reseaux-et-stockage/batteries;Comment stocker de l'électricité dans de l'air comprimé ?;comment-stocker-de-l-electricite-dans-de-l-air-comprime;0.83;non;published
 energie;energie/energies-renouvelables/solaire;Les cellules tandem silicium-pérovskite;les-cellules-tandem-silicium-perovskite;0.83;non;planned
@@ -11979,26 +11951,20 @@ espace;espace-et-astronomie/observation-astronomique/telescopes;Comment PLATO va
 espace;espace-et-astronomie/observation-astronomique/messagers-du-cosmos;Comment une étoile peut-elle servir de loupe pour trouver des planètes ?;comment-une-etoile-peut-elle-servir-de-loupe-pour-trouver-des-planetes;0.83;non;published
 espace;espace-et-astronomie/systeme-solaire/petits-corps;Pourquoi voit-on des pluies d'étoiles filantes en août et en décembre ?;pourquoi-voit-on-des-pluies-d-etoiles-filantes-en-aout-et-en-decembre;0.83;non;published
 espace;espace-et-astronomie/observation-astronomique/telescopes;À quoi sert le télescope spatial Roman pour chasser les exoplanètes ?;a-quoi-sert-le-telescope-spatial-roman-pour-chasser-les-exoplanetes;0.82;non;published
-geographie;geographie-et-territoires/geographie-physique/reliefs;La projection de Mercator et la déformation des cartes;la-projection-de-mercator-et-la-deformation-des-cartes;0.89;non;published
 geographie;geographie-et-territoires/geographie-humaine/urbanisation;L'organisation d'une ville, centre et périphéries;l-organisation-d-une-ville-centre-et-peripheries;0.87;non;planned
-geographie;geographie-et-territoires/geopolitique/frontieres;Comment trace-t-on une frontière, et pourquoi certaines sont-elles contestées ?;comment-trace-t-on-une-frontiere-et-pourquoi-certaines-sont-elles-contestees;0.87;non;published
 geographie;geographie-et-territoires/geographie-physique/hydrographie;Où va la pluie qui tombe de chaque côté d'une crête ?;ou-va-la-pluie-qui-tombe-de-chaque-cote-d-une-crete;0.87;non;published
 geographie;geographie-et-territoires/geographie-physique/reliefs;Pourquoi le Groenland paraît-il aussi grand que l'Afrique sur une carte ?;pourquoi-le-groenland-parait-il-aussi-grand-que-l-afrique-sur-une-carte;0.86;non;published
 geographie;geographie-et-territoires/geographie-physique/reliefs;Quel est le plus grand désert du monde, et est-ce vraiment le Sahara ?;quel-est-le-plus-grand-desert-du-monde-et-est-ce-vraiment-le-sahara;0.84;non;published
 geographie;geographie-et-territoires/geographie-physique/climatologie;Pourquoi la Terre est-elle découpée en 24 fuseaux horaires ?;pourquoi-la-terre-est-elle-decoupee-en-24-fuseaux-horaires;0.84;non;published
-geographie;geographie-et-territoires/geographie-humaine/migrations;Quelles régions de France attirent le plus de nouveaux habitants ?;quelles-regions-de-france-attirent-le-plus-de-nouveaux-habitants;0.84;non;published
 geographie;geographie-et-territoires/geographie-physique;Pourquoi les outre-mer donnent-ils à la France un territoire si dispersé ?;pourquoi-les-outre-mer-donnent-ils-a-la-france-un-territoire-si-disperse;0.84;non;published
-geographie;geographie-et-territoires/geopolitique/routes-et-detroits;Comment un conteneur traverse-t-il le monde par la mer ?;comment-un-conteneur-traverse-t-il-le-monde-par-la-mer;0.83;non;published
 geographie;geographie-et-territoires/geographie-humaine/demographie;Pourquoi certains départements français gagnent-ils des habitants et d'autres en perdent-ils ?;pourquoi-certains-departements-francais-gagnent-ils-des-habitants-et-d-autres-en-perdent-ils;0.82;non;published
 geographie;geographie-et-territoires/geographie-humaine;Pourquoi tant de monde vit-il sur un si petit bout de côte en France ?;pourquoi-tant-de-monde-vit-il-sur-un-si-petit-bout-de-cote-en-france;0.81;non;published
 industries;industries/industrie-lourde/chimie-industrielle;Comment fabrique-t-on un panneau solaire en silicium ?;comment-fabrique-t-on-un-panneau-solaire-en-silicium;0.87;non;published
-industries;industries/industrie-lourde/chimie-industrielle;Comment fabrique-t-on une puce électronique, de la tranche de silicium au boîtier ?;comment-fabrique-t-on-une-puce-electronique-de-la-tranche-de-silicium-au-boitier;0.87;non;published
 industries;industries/industrie-manufacturiere/chaine-logistique;Comment une simple boîte en acier a-t-elle changé la façon dont voyagent les objets ?;comment-une-simple-boite-en-acier-a-t-elle-change-la-facon-dont-voyagent-les-objets;0.87;non;published
 industries;industries/industrie-lourde/chimie-industrielle;Comment le bois devient-il une feuille de papier ?;comment-le-bois-devient-il-une-feuille-de-papier;0.86;non;published
 industries;industries/industrie-manufacturiere/qualite-et-normalisation;Pourquoi le monde a-t-il besoin de normes communes comme celles de l'ISO ?;pourquoi-le-monde-a-t-il-besoin-de-normes-communes-comme-celles-de-l-iso;0.83;non;published
 industries;industries/industrie-manufacturiere/automatisation;Pourquoi la France cherche-t-elle à réindustrialiser, et quel rôle jouent les robots ?;pourquoi-la-france-cherche-t-elle-a-reindustrialiser-et-quel-role-jouent-les-robots;0.83;non;published
 industries;industries/industrie-lourde/siderurgie;Comment fabrique-t-on de l'acier, avec un haut-fourneau ou un four électrique ?;comment-fabrique-t-on-de-l-acier-avec-un-haut-fourneau-ou-un-four-electrique;0.82;non;published
-industries;industries/industrie-lourde/siderurgie;Peut-on fabriquer de l'acier sans émettre de CO2, grâce à l'hydrogène ?;peut-on-fabriquer-de-l-acier-sans-emettre-de-co2-grace-a-l-hydrogene;0.81;non;published
 industries;industries/materiaux-et-procedes/mise-en-forme;Comment une imprimante 3D peut-elle fabriquer une pièce détachée sur place ?;comment-une-imprimante-3d-peut-elle-fabriquer-une-piece-detachee-sur-place;0.81;non;published
 industries;industries/materiaux-et-procedes/mise-en-forme;Peut-on recycler les aimants des éoliennes et des voitures électriques ?;peut-on-recycler-les-aimants-des-eoliennes-et-des-voitures-electriques;0.81;non;published
 industries;industries/industrie-manufacturiere/chaine-logistique;Pourquoi l'Europe construit-elle des usines géantes de batteries, et réussissent-elles ?;pourquoi-l-europe-construit-elle-des-usines-geantes-de-batteries-et-reussissent-elles;0.79;non;published
@@ -12027,8 +11993,6 @@ intelligence-artificielle;intelligence-artificielle/modeles-de-langage/transform
 intelligence-artificielle;intelligence-artificielle/ethique-et-societe/travail-et-usages;Que peut faire l'IA dans un tribunal, et qu'est-ce qui est interdit ?;que-peut-faire-l-ia-dans-un-tribunal-et-qu-est-ce-qui-est-interdit;0.83;non;published
 intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;Les tests de performance des IA et leurs limites;les-tests-de-performance-des-ia-et-leurs-limites;0.82;non;planned
 intelligence-artificielle;intelligence-artificielle/ethique-et-societe/regulation;Les pratiques interdites par le règlement européen sur l'IA;les-pratiques-interdites-par-le-reglement-europeen-sur-l-ia;0.81;non;planned
-sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;Comment un vaccin à ARN messager apprend-il à notre corps à reconnaître un virus ?;comment-un-vaccin-a-arn-messager-apprend-il-a-notre-corps-a-reconnaitre-un-virus;0.9;non;published
-sciences-du-vivant;sciences-du-vivant-appliquees/biotechnologies/genie-genetique;CRISPR, les ciseaux génétiques;crispr-les-ciseaux-genetiques;0.89;non;published
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/imagerie-medicale;Comment un aimant géant et des ondes radio fabriquent-ils une image de l'intérieur du corps ?;comment-un-aimant-geant-et-des-ondes-radio-fabriquent-ils-une-image-de-l-interieur-du-corps;0.88;non;published
 sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/sols-et-fertilite;Comment les microbes du sol aident-ils les plantes à pousser ?;comment-les-microbes-du-sol-aident-ils-les-plantes-a-pousser;0.87;non;published
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;L'essai clinique randomisé en double aveugle;l-essai-clinique-randomise-en-double-aveugle;0.86;non;planned
@@ -12041,18 +12005,15 @@ sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/selection-vegetale;Un
 sciences-du-vivant;sciences-du-vivant-appliquees/biotechnologies/genie-genetique;Les recombinases guidées par ARN;les-recombinases-guidees-par-arn;0.73;non;planned
 sciences-fondamentales;sciences-fondamentales/physique/mecanique;Pourquoi les objets tombent-ils, si la gravité n'est pas une force pour Einstein ?;pourquoi-les-objets-tombent-ils-si-la-gravite-n-est-pas-une-force-pour-einstein;0.92;non;published
 sciences-fondamentales;sciences-fondamentales/physique/mecanique;Quelles sont les quatre forces qui gouvernent tout l'Univers ?;quelles-sont-les-quatre-forces-qui-gouvernent-tout-l-univers;0.91;non;published
-sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Pourquoi la glace flotte sur l'eau;pourquoi-la-glace-flotte-sur-l-eau;0.91;non;published
 sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Pourquoi un lac gèle-t-il par la surface plutôt que par le fond ?;pourquoi-un-lac-gele-t-il-par-la-surface-plutot-que-par-le-fond;0.9;non;published
-sciences-fondamentales;sciences-fondamentales/physique/physique-quantique;Qu'est-ce qu'un qubit, et en quoi diffère-t-il d'un bit ordinaire ?;qu-est-ce-qu-un-qubit-et-en-quoi-differe-t-il-d-un-bit-ordinaire;0.88;non;published
 sciences-fondamentales;sciences-fondamentales/chimie/chimie-physique;Pourquoi la croûte du pain et la viande grillée ont-elles ce goût et cette couleur ?;pourquoi-la-croute-du-pain-et-la-viande-grillee-ont-elles-ce-gout-et-cette-couleur;0.87;non;published
 sciences-fondamentales;sciences-fondamentales/biologie/evolution;Comment les animaux des profondeurs survivent-ils à une pression écrasante ?;comment-les-animaux-des-profondeurs-survivent-ils-a-une-pression-ecrasante;0.87;non;published
 sciences-fondamentales;sciences-fondamentales/mathematiques/geometrie;Pourquoi aucune carte du monde à plat ne peut-elle être parfaitement fidèle ?;pourquoi-aucune-carte-du-monde-a-plat-ne-peut-elle-etre-parfaitement-fidele;0.86;non;published
-sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/oceanographie;Les fosses océaniques et la zone hadale;les-fosses-oceaniques-et-la-zone-hadale;0.85;non;published
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/oceanographie;Les fosses océaniques et la zone hadale;les-fosses-oceaniques-et-la-zone-hadale;0.85;non;planned
 sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;Un matériau peut-il être isolant à l'intérieur et conducteur en surface ?;un-materiau-peut-il-etre-isolant-a-l-interieur-et-conducteur-en-surface;0.76;non;published
 sciences-fondamentales;sciences-fondamentales/biologie/genetique;Que révèle le génome des derniers mammouths sur les dangers d'une toute petite population ?;que-revele-le-genome-des-derniers-mammouths-sur-les-dangers-d-une-toute-petite-population;0.74;non;published
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Pourquoi un motif de vannerie japonaise intrigue-t-il les physiciens des supraconducteurs ?;pourquoi-un-motif-de-vannerie-japonaise-intrigue-t-il-les-physiciens-des-supraconducteurs;0.74;non;published
 sciences-humaines;sciences-humaines-et-sociales/histoire/epoque-contemporaine;Pourquoi la révolution industrielle a-t-elle provoqué autant de révoltes et de lois sociales ?;pourquoi-la-revolution-industrielle-a-t-elle-provoque-autant-de-revoltes-et-de-lois-sociales;0.92;non;published
-sciences-humaines;sciences-humaines-et-sociales/psychologie/developpement;Comment pense un enfant, selon Piaget, et qu'en reste-t-il aujourd'hui ?;comment-pense-un-enfant-selon-piaget-et-qu-en-reste-t-il-aujourd-hui;0.91;non;published
 sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Pourquoi perdre une somme fait-il plus mal que gagner la même somme ne fait plaisir ?;pourquoi-perdre-une-somme-fait-il-plus-mal-que-gagner-la-meme-somme-ne-fait-plaisir;0.9;non;published
 sciences-humaines;sciences-humaines-et-sociales/sociologie/education-et-mobilite;L'école aide-t-elle vraiment à monter dans l'échelle sociale ?;l-ecole-aide-t-elle-vraiment-a-monter-dans-l-echelle-sociale;0.89;non;published
 sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;Pourquoi remet-on à demain ce qu'on sait devoir faire aujourd'hui ?;pourquoi-remet-on-a-demain-ce-qu-on-sait-devoir-faire-aujourd-hui;0.89;non;published
@@ -12072,7 +12033,7 @@ sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-muscula
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Faut-il manger tout de suite après l'entraînement pour mieux progresser ?;faut-il-manger-tout-de-suite-apres-l-entrainement-pour-mieux-progresser;0.82;non;published
 sport;sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante;Que mesure vraiment le capteur au dos d'une montre connectée, et peut-on s'y fier ?;que-mesure-vraiment-le-capteur-au-dos-d-une-montre-connectee-et-peut-on-s-y-fier;0.82;non;published
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Pourquoi les records du monde tombent-ils moins vite qu'avant ?;pourquoi-les-records-du-monde-tombent-ils-moins-vite-qu-avant;0.82;non;published
-sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Les records de 1968 à Mexico et l'altitude;les-records-de-1968-a-mexico-et-l-altitude;0.8;non;published
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Les records de 1968 à Mexico et l'altitude;les-records-de-1968-a-mexico-et-l-altitude;0.8;non;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Que mesure vraiment la variabilité cardiaque, ce chiffre qui promet de dire si vous êtes récupéré ?;que-mesure-vraiment-la-variabilite-cardiaque-ce-chiffre-qui-promet-de-dire-si-vous-etes-recupere;0.79;non;published
 sport;sport-et-sciences-du-mouvement/sport-et-societe/dopage;Des chaussures qui font courir plus vite, est-ce du dopage technologique ?;des-chaussures-qui-font-courir-plus-vite-est-ce-du-dopage-technologique;0.79;non;published
 technologies;technologies-et-ingenierie/nanotechnologies/applications;Comment construit-on des structures à l'échelle du milliardième de mètre ?;comment-construit-on-des-structures-a-l-echelle-du-milliardieme-de-metre;0.85;non;published
@@ -12094,7 +12055,6 @@ espace;espace-et-astronomie/systeme-solaire/planetes;Pourquoi y a-t-il des saiso
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Comment se forme un arc-en-ciel ?;comment-se-forme-un-arc-en-ciel;2;non;published
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Pourquoi le ciel est-il bleu et le soleil couchant rouge ?;pourquoi-le-ciel-est-il-bleu-et-le-soleil-couchant-rouge;2;non;published
 geographie;geographie-et-territoires/geographie-physique/climatologie;Comment naît un éclair pendant un orage ?;comment-nait-un-eclair-pendant-un-orage;2;non;published
-sciences-fondamentales;sciences-fondamentales/physique/mecanique;Quelles sont les trois lois de Newton qui régissent tout mouvement ?;quelles-sont-les-trois-lois-de-newton-qui-regissent-tout-mouvement;2;non;published
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Comment un four à micro-ondes chauffe-t-il les aliments ?;comment-un-four-a-micro-ondes-chauffe-t-il-les-aliments;2;non;published
 energie;energie/energies-fossiles-et-nucleaire/charbon;La machine à vapeur;machine-vapeur;;non;published
 energie;energie/energies-renouvelables/eolien;Les moulins à vent;moulins-vent;;non;published

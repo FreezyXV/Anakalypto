@@ -312,6 +312,9 @@ sources:
     url: "https://www.britannica.com/science/physics-science"
     publisher: "Encyclopaedia Britannica"
     date: "2025"
+  - title: "Newton's Laws of Motion"
+    url: "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/"
+    publisher: "NASA Glenn Research Center"
 quiz:
   - question: "Que dit le principe d'inertie ?"
     options:
@@ -7690,7 +7693,7 @@ summary: >
   ses liaisons hydrogène lui donnent des propriétés hors du commun. Elle dissout beaucoup de
   substances, stocke la chaleur, et sa glace flotte, ce qui a permis à la vie de se développer.
 tags: [chimie-inorganique]
-relatedArticles: [pourquoi-le-sel-disparait-il-dans-l-eau-alors-que-l-huile-reste-a-part, pourquoi-la-glace-flotte-sur-l-eau, temperature-et-chaleur, comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre]
+relatedArticles: [pourquoi-le-sel-disparait-il-dans-l-eau-alors-que-l-huile-reste-a-part, pourquoi-un-lac-gele-t-il-par-la-surface-plutot-que-par-le-fond, temperature-et-chaleur, comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre]
 sources:
   - title: "Eau"
     url: "https://fr.wikipedia.org/wiki/Eau"
@@ -8296,6 +8299,14 @@ sources:
   - title: "Recherches chimiques sur les corps gras d'origine animale (1823), notice"
     url: "https://wellcomecollection.org/works/u93ydsgv"
     publisher: "Wellcome Collection"
+  - title: "Saponification"
+    url: "https://www.ebsco.com/research-starters/chemistry/saponification"
+    publisher: "EBSCO Research Starters"
+    date: "2025"
+  - title: "The Chemistry of Soap Making"
+    url: "https://www.chagrinvalleysoapandsalve.com/blogs/idas-soap-box-blog/the-chemistry-of-soap-making"
+    publisher: "Chagrin Valley Soap & Salve"
+    date: "2025"
 quiz:
   - question: "Avec quoi mélange-t-on l'huile pour fabriquer du savon ?"
     options:
@@ -13055,7 +13066,7 @@ summary: >
   s'appuie sur l'eau, le Fahrenheit sur des repères historiques, le Kelvin part du zéro absolu,
   la température la plus basse possible. Savoir passer de l'une à l'autre évite bien des erreurs.
 tags: [thermodynamique]
-relatedArticles: [temperature-et-chaleur, les-deux-principes-de-la-thermodynamique, conduction-convection-rayonnement, pourquoi-la-glace-flotte-sur-l-eau]
+relatedArticles: [temperature-et-chaleur, les-deux-principes-de-la-thermodynamique, conduction-convection-rayonnement, pourquoi-un-lac-gele-t-il-par-la-surface-plutot-que-par-le-fond]
 sources:
   - title: "Échelle de température"
     url: "https://fr.wikipedia.org/wiki/%C3%89chelle_de_temp%C3%A9rature"
@@ -21181,101 +21192,6 @@ parties:
 
 ---
 type: article
-title: Pourquoi la glace flotte sur l'eau
-slug: pourquoi-la-glace-flotte-sur-l-eau
-categoryPath: sciences-fondamentales/physique/thermodynamique
-summary: >
-  L'eau devient environ 9 % moins dense en gelant : la glace flotte. Et l'eau est la plus dense
-  vers 4 °C, ce qui évite qu'un lac gèle du fond vers la surface.
-tags: [eau, glace, densite]
-sources:
-  - title: "Water Density"
-    url: "https://www.usgs.gov/water-science-school/science/water-density"
-    publisher: "U.S. Geological Survey"
-  - title: "Facts About Water"
-    url: "https://www.usgs.gov/water-science-school/science/facts-about-water"
-    publisher: "U.S. Geological Survey"
-  - title: "Properties of water"
-    url: "https://en.wikipedia.org/wiki/Properties_of_water"
-    publisher: "Wikipedia"
-quiz:
-  - question: "À quelle température l'eau liquide est-elle la plus dense ?"
-    options:
-      - "0 °C"
-      - "4 °C environ"
-      - "10 °C"
-    answer: 2
-    explanation: >
-      L'eau liquide est la plus dense à environ 4 °C.
-  - question: "De combien l'eau devient-elle moins dense en gelant ?"
-    options:
-      - "Environ 0,9 %"
-      - "Environ 9 %"
-      - "Environ 90 %"
-    answer: 2
-    explanation: >
-      En gelant, l'eau devient environ 9 % moins dense.
-  - question: "Pourquoi la glace flotte-t-elle ?"
-    options:
-      - "Elle est moins dense que l'eau liquide"
-      - "Elle est pleine de sel"
-      - "Elle est plus froide que l'air"
-    answer: 1
-    explanation: >
-      La glace est moins dense que l'eau liquide : c'est pourquoi elle flotte.
-  - question: "Si l'eau était la plus dense à son point de congélation, que pourrait-il arriver à un lac en hiver ?"
-    options:
-      - "Il pourrait geler du fond vers la surface"
-      - "Il ne gèlerait jamais"
-      - "Il deviendrait salé"
-    answer: 1
-    explanation: >
-      Si l'eau était la plus dense au point de congélation, l'eau très froide de la surface
-      coulerait en hiver et le lac pourrait geler du fond vers la surface.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-L'eau devient environ 9 % moins dense en gelant : la glace flotte. Et l'eau est la plus dense vers 4 °C, ce qui évite qu'un lac gèle du fond vers la surface.
-
-## Un glaçon qui flotte
-
-La glace est moins dense que l'eau liquide : c'est pourquoi elle flotte. En gelant, l'eau devient environ 9 % moins dense. Dans la glace, les molécules d'eau forment un réseau où elles sont plus espacées que dans le liquide.
-
-## La densité maximale à 4 °C
-
-L'eau liquide est la plus dense à environ 4 °C, et non à 0 °C. Dans un lac, l'eau la plus dense descend donc sous l'eau moins dense.
-
-## Et si ce n'était pas le cas ?
-
-Si l'eau était la plus dense au point de congélation, l'eau très froide de la surface coulerait en hiver et le lac pourrait geler du fond vers la surface.
-
-## Un couvercle isolant
-
-La glace flotte et isole l'eau qui se trouve dessous : même un grand lac comme le lac Baïkal ne gèle que sur une épaisseur limitée en hiver.
-
-```schema
-type: chiffres
-titre: Pourquoi la glace flotte
-chiffres:
-  - valeur: "-9 %"
-    texte: de densité en gelant, environ
-  - valeur: 4 °C
-    texte: la température où l'eau liquide est la plus dense
-```
-
-## À retenir
-
-- La glace est moins dense que l'eau liquide : c'est pourquoi elle flotte.
-- En gelant, l'eau devient environ 9 % moins dense.
-- Dans la glace, les molécules forment un réseau où elles sont plus espacées que dans le liquide.
-- L'eau liquide est la plus dense à environ 4 °C, et non à 0 °C.
-- Dans un lac, l'eau la plus dense descend donc sous l'eau moins dense.
-
----
-type: article
 title: Pourquoi un lac gèle-t-il par la surface plutôt que par le fond ?
 slug: pourquoi-un-lac-gele-t-il-par-la-surface-plutot-que-par-le-fond
 categoryPath: sciences-fondamentales/physique/thermodynamique
@@ -21294,6 +21210,9 @@ sources:
   - title: "Glace"
     url: "https://fr.wikipedia.org/wiki/Glace"
     publisher: "Wikipédia"
+  - title: "Facts About Water"
+    url: "https://www.usgs.gov/water-science-school/science/facts-about-water"
+    publisher: "U.S. Geological Survey"
 quiz:
   - question: "À quelle température environ l'eau liquide est-elle la plus dense ?"
     options:
@@ -21368,106 +21287,6 @@ elements:
 - Dans la glace, les molécules forment un réseau ouvert, tenu par des liaisons hydrogène, avec plus de vide entre elles.
 - En hiver, l'eau de surface refroidie coule, jusqu'à ce que tout le lac soit proche de sa densité maximale.
 - La glace de surface isole l'eau du dessous, qui reste liquide, et protège les animaux aquatiques.
-
----
-type: article
-title: Qu'est-ce qu'un qubit, et en quoi diffère-t-il d'un bit ordinaire ?
-slug: qu-est-ce-qu-un-qubit-et-en-quoi-differe-t-il-d-un-bit-ordinaire
-categoryPath: sciences-fondamentales/physique/physique-quantique
-summary: >
-  Un bit vaut 0 ou 1. Un qubit peut être en superposition de 0 et de 1 ; quand on le mesure, on
-  obtient 0 ou 1. Plusieurs qubits peuvent être intriqués, mais ils perdent vite leur état
-  quantique.
-tags: [physique-quantique]
-sources:
-  - title: "Qubit"
-    url: "https://en.wikipedia.org/wiki/Qubit"
-    publisher: "Wikipedia"
-  - title: "Ordinateur quantique"
-    url: "https://fr.wikipedia.org/wiki/Ordinateur_quantique"
-    publisher: "Wikipédia"
-  - title: "Superconducting quantum computing"
-    url: "https://en.wikipedia.org/wiki/Superconducting_quantum_computing"
-    publisher: "Wikipedia"
-  - title: "Shor's algorithm"
-    url: "https://en.wikipedia.org/wiki/Shor%27s_algorithm"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Qu'est-ce qui distingue un qubit d'un bit ?"
-    options:
-      - "Il peut être en superposition de 0 et de 1"
-      - "Il est plus gros"
-      - "Il n'a jamais de valeur"
-    answer: 1
-    explanation: >
-      Un bit classique vaut 0 ou 1, alors qu'un qubit peut se trouver dans une superposition
-      cohérente de plusieurs états à la fois.
-  - question: "Que donne la mesure d'un qubit ?"
-    options:
-      - "Toujours 0,5"
-      - "Une image"
-      - "0 ou 1, et elle détruit la superposition"
-    answer: 3
-    explanation: >
-      Quand on mesure un qubit, il donne 0 ou 1, et la mesure détruit sa superposition.
-  - question: "Qu'est-ce que la décohérence ?"
-    options:
-      - "La perte de l'état quantique du qubit"
-      - "Un défaut de couleur"
-      - "Un bruit de ventilateur"
-    answer: 1
-    explanation: >
-      Un qubit perd vite son état quantique : c'est la décohérence, qui produit des erreurs de
-      calcul.
-  - question: "Comment pilote-t-on un qubit supraconducteur ?"
-    options:
-      - "Avec un marteau"
-      - "Avec un aimant jouet"
-      - "Avec des impulsions micro-ondes"
-    answer: 3
-    explanation: >
-      Une impulsion micro-onde fait tourner l'état d'un qubit sur la sphère de Bloch.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Un bit vaut 0 ou 1. Un qubit peut être en superposition de 0 et de 1 ; quand on le mesure, on obtient 0 ou 1. Plusieurs qubits peuvent être intriqués, mais ils perdent vite leur état quantique.
-
-## Du bit au qubit
-
-Un qubit, ou bit quantique, est l'unité de base de l'information quantique : il peut être réalisé par un système quantique à deux niveaux. Un bit classique vaut 0 ou 1, alors qu'un qubit peut se trouver dans une superposition cohérente de plusieurs états à la fois. Quand on mesure un qubit, il donne 0 ou 1, et la mesure détruit sa superposition. Les chances d'obtenir 0 ou 1 dépendent des amplitudes qui décrivent l'état du qubit. Plusieurs qubits peuvent être intriqués : leurs mesures sont alors corrélées de façon impossible en physique classique.
-
-## Comment on fabrique un qubit
-
-On réalise des qubits avec des circuits supraconducteurs, des ions piégés, des photons, des atomes neutres ou des spins dans le silicium. Les qubits supraconducteurs sont des circuits refroidis très près du zéro absolu, et pilotés par des impulsions micro-ondes. Une impulsion micro-onde fait tourner l'état d'un qubit sur la sphère de Bloch.
-
-## Fragile mais prometteur
-
-Un qubit perd vite son état quantique : c'est la décohérence, qui produit des erreurs de calcul. Pour calculer de façon fiable, il faut des codes de correction d'erreurs quantiques, qui demandent beaucoup de qubits physiques. L'algorithme de Shor, conçu pour un ordinateur quantique, factorise de grands nombres en temps polynomial. Google a annoncé avoir atteint la suprématie quantique avec son processeur Sycamore.
-
-```schema
-type: comparaison
-titre: Bit ou qubit
-colonnes:
-  - titre: Bit
-    points:
-      - 0 ou 1
-  - titre: Qubit
-    points:
-      - Système quantique à deux niveaux
-      - Superposition de 0 et 1
-      - Fragile
-```
-
-## À retenir
-
-- Un qubit, ou bit quantique, est l'unité de base de l'information quantique : il peut être réalisé par un système quantique à deux niveaux.
-- Un bit classique vaut 0 ou 1, alors qu'un qubit peut se trouver dans une superposition cohérente de plusieurs états à la fois.
-- Quand on mesure un qubit, il donne 0 ou 1, et la mesure détruit sa superposition.
-- Plusieurs qubits peuvent être intriqués : leurs mesures sont alors corrélées de façon impossible en physique classique.
-- Un qubit perd vite son état quantique : c'est la décohérence, qui produit des erreurs de calcul.
 
 ---
 type: article
@@ -21777,94 +21596,12 @@ summary: >
   La zone hadale commence vers 6 000 mètres sous la surface et atteint 11 000 mètres. Dans ses
   fosses, sans lumière et sous une pression extrême, des animaux vivent.
 tags: [oceanographie, grands-fonds, fosses]
-sources:
-  - title: "The Hadal Zone: Aqua Incognita"
-    url: "https://oceanexplorer.noaa.gov/expedition-feature/okeanos-ex2102-features-hadalzone/"
-    publisher: "NOAA Ocean Exploration"
-  - title: "Hadal zone"
-    url: "https://en.wikipedia.org/wiki/Hadal_zone"
-    publisher: "Wikipedia"
-  - title: "Challenger Deep"
-    url: "https://en.wikipedia.org/wiki/Challenger_Deep"
-    publisher: "Wikipedia"
-quiz:
-  - question: "À partir de quelle profondeur commence la zone hadale ?"
-    options:
-      - "Environ 600 mètres"
-      - "Environ 6 000 mètres"
-      - "Environ 60 000 mètres"
-    answer: 2
-    explanation: >
-      La zone hadale s'étend d'environ 6 000 à 11 000 mètres sous la surface.
-  - question: "D'où vient le nom de la zone hadale ?"
-    options:
-      - "D'Hadès, dieu grec des enfers"
-      - "D'un explorateur nommé Hadal"
-      - "D'une île du Pacifique"
-    answer: 1
-    explanation: >
-      Son nom vient d'Hadès, le dieu grec des enfers.
-  - question: "À quelle surface les fosses hadales sont-elles comparables ?"
-    options:
-      - "À la moitié de l'Australie"
-      - "À la France"
-      - "À une piscine"
-    answer: 1
-    explanation: >
-      Les fosses et les grands creux hadaux occupent ensemble une surface à peu près égale à la
-      moitié de l'Australie.
-  - question: "Quel poisson vit dans la zone hadale ?"
-    options:
-      - "Le poisson-limace"
-      - "Le requin blanc"
-      - "Le thon rouge"
-    answer: 1
-    explanation: >
-      Des crustacés et des poissons comme les poissons-limaces vivent dans la zone hadale.
-lastVerified: 2026-09-30
-status: published
+priority: 2
+essentiel: false
+status: planned
 ---
 
-## En bref
-
-La zone hadale commence vers 6 000 mètres sous la surface et atteint 11 000 mètres. Dans ses fosses, sans lumière et sous une pression extrême, des animaux vivent.
-
-## Sous 6 000 mètres
-
-La zone hadale s'étend d'environ 6 000 à 11 000 mètres sous la surface. Son nom vient d'Hadès, le dieu grec des enfers.
-
-## Noir, froid, sous pression
-
-Il n'y a aucune lumière du soleil, l'eau est froide, les nutriments sont rares et la pression est extrêmement élevée.
-
-## Des fosses immenses
-
-Les fosses et les grands creux hadaux occupent ensemble une surface à peu près égale à la moitié de l'Australie.
-
-## Des animaux y vivent
-
-Des crustacés comme des amphipodes, des mysides et des isopodes y atteignent parfois de grandes tailles, et des poissons comme les poissons-limaces y vivent. La première descente habitée au fond du Challenger Deep a été réalisée à bord du Trieste, par Jacques Piccard et le lieutenant Don Walsh.
-
-```schema
-type: chiffres
-titre: La zone hadale
-chiffres:
-  - valeur: 6 000 à 11 000 m
-    texte: de profondeur
-  - valeur: Hadès
-    texte: le dieu grec qui lui donne son nom
-  - valeur: Noir total
-    texte: aucune lumière du Soleil n'y arrive
-```
-
-## À retenir
-
-- La zone hadale s'étend d'environ 6 000 à 11 000 mètres sous la surface.
-- Son nom vient d'Hadès, le dieu grec des enfers.
-- Il n'y a aucune lumière du soleil ; l'eau est froide, les nutriments rares et la pression extrême.
-- Ses fosses occupent ensemble une surface à peu près égale à la moitié de l'Australie.
-- Des crustacés et des poissons-limaces y vivent ; certains crustacés atteignent de grandes tailles.
-
+À rédiger.
 ---
 type: article
 title: Un matériau peut-il être isolant à l'intérieur et conducteur en surface ?
@@ -22546,103 +22283,6 @@ colonnes:
 - On voit donc du bleu en regardant loin du Soleil : c'est la lumière diffusée vers nos yeux par les molécules d'azote et d'oxygène.
 - Au lever et au coucher du Soleil, la lumière traverse beaucoup plus d'atmosphère qu'à midi.
 - Sur un long trajet, le bleu est diffusé hors du rayon : il reste l'orange et le rouge.
-
----
-type: article
-title: Quelles sont les trois lois de Newton qui régissent tout mouvement ?
-slug: quelles-sont-les-trois-lois-de-newton-qui-regissent-tout-mouvement
-categoryPath: sciences-fondamentales/physique/mecanique
-summary: >
-  Trois règles suffisent pour décrire le mouvement des objets de tous les jours : l'inertie, la
-  force qui accélère, et l'action qui provoque toujours une réaction.
-tags: [mecanique]
-sources:
-  - title: "Newton's Laws of Motion"
-    url: "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/"
-    publisher: "NASA Glenn Research Center"
-  - title: "Lois du mouvement de Newton"
-    url: "https://fr.wikipedia.org/wiki/Lois_du_mouvement_de_Newton"
-    publisher: "Wikipédia"
-  - title: "Newton's laws of motion"
-    url: "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Que dit la première loi de Newton ?"
-    options:
-      - "Sans force non équilibrée, un objet garde son mouvement"
-      - "Tout objet finit par s'arrêter seul"
-      - "Les objets lourds tombent plus vite"
-    answer: 1
-    explanation: >
-      Première loi : un objet au repos reste au repos, et un objet en mouvement garde sa vitesse
-      en ligne droite, sauf si une force non équilibrée agit sur lui.
-  - question: "Que vaut la force selon la deuxième loi ?"
-    options:
-      - "La masse multipliée par l'accélération"
-      - "La masse divisée par la vitesse"
-      - "La vitesse multipliée par le temps"
-    answer: 1
-    explanation: >
-      Deuxième loi : l'accélération d'un objet dépend de sa masse et de la force appliquée, ce
-      qu'on écrit F = m × a.
-  - question: "Sur quoi s'appliquent l'action et la réaction ?"
-    options:
-      - "Sur deux objets différents"
-      - "Sur le même objet"
-      - "Seulement sur les objets immobiles"
-    answer: 1
-    explanation: >
-      L'action et la réaction s'appliquent à des objets différents, jamais au même.
-  - question: "Quand les lois de Newton cessent-elles d'être valables ?"
-    options:
-      - "Dès qu'il pleut"
-      - "Près de la vitesse de la lumière ou à l'échelle des atomes"
-      - "Au-dessus de mille mètres d'altitude"
-    answer: 2
-    explanation: >
-      Ces lois décrivent très bien les objets de la vie courante, mais elles cessent d'être
-      valables près de la vitesse de la lumière et à l'échelle des atomes.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Trois règles suffisent pour décrire le mouvement des objets de tous les jours : l'inertie, la force qui accélère, et l'action qui provoque toujours une réaction.
-
-## Loi 1, l'inertie
-
-Première loi : un objet au repos reste au repos, et un objet en mouvement garde sa vitesse en ligne droite, sauf si une force non équilibrée agit sur lui. Cette tendance d'un objet à résister aux changements de son mouvement s'appelle l'inertie.
-
-## Loi 2, la force qui accélère
-
-Deuxième loi : l'accélération d'un objet dépend de sa masse et de la force appliquée, ce qu'on écrit F = m × a. La même force donne donc une accélération plus petite à un objet plus massif.
-
-## Loi 3, action et réaction
-
-Troisième loi : quand un objet exerce une force sur un autre, le second exerce sur le premier une force égale et opposée. L'action et la réaction s'appliquent à des objets différents, jamais au même. Dans un moteur à réaction, les gaz sont éjectés vers l'arrière et la poussée pousse l'avion vers l'avant ; une aile dévie l'air vers le bas et l'air pousse l'aile vers le haut.
-
-## Jusqu'où ça marche
-
-Ces lois décrivent très bien les objets de la vie courante, mais elles cessent d'être valables près de la vitesse de la lumière et à l'échelle des atomes.
-
-```schema
-type: etapes
-titre: Les trois lois du mouvement
-elements:
-  - titre: Inertie
-    texte: Sans force, le mouvement continue.
-  - titre: Force et accélération
-  - titre: Action et réaction
-```
-
-## À retenir
-
-- Première loi : sans force qui s'y oppose, un objet garde son repos ou sa vitesse en ligne droite.
-- Deuxième loi : l'accélération d'un objet dépend de sa masse et de la force appliquée, ce qu'on écrit F = m × a.
-- La même force donne donc une accélération plus petite à un objet plus massif.
-- Troisième loi : quand un objet exerce une force sur un autre, le second exerce sur le premier une force égale et opposée.
-- Ces lois valent pour la vie courante, mais pas près de la vitesse de la lumière ni à l'échelle des atomes.
 
 ---
 type: article

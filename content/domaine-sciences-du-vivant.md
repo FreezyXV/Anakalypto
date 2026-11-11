@@ -678,6 +678,12 @@ sources:
     url: "https://www.inserm.fr/dossiers/"
     publisher: "Inserm"
     date: "2025"
+  - title: "Nobel Prize 2020 in Chemistry honors CRISPR: a tool for rewriting the code of life"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7782372/"
+    publisher: "PubMed Central (NIH)"
+  - title: "CRISPR"
+    url: "https://www.genome.gov/genetics-glossary/CRISPR"
+    publisher: "National Human Genome Research Institute"
 quiz:
   - question: "D'où vient le mécanisme CRISPR ?"
     options:
@@ -794,7 +800,7 @@ summary: >
   Concevoir des fonctions biologiques comme on conçoit un circuit électronique, en assemblant
   des éléments standardisés et documentés.
 tags: [biologie-de-synthese, levures, production, ingenierie, biosecurite]
-relatedArticles: [crispr-comment-ca-marche, techniques-fermentation-alimentaire]
+relatedArticles: [crispr-comment-ca-marche, fermentation-biotechnologie-ancienne]
 sources:
   - title: "Synthetic biology"
     url: "https://www.britannica.com/science/synthetic-biology"
@@ -2164,6 +2170,12 @@ sources:
   - title: "World Hand Hygiene Day"
     url: "https://www.who.int/campaigns/world-hand-hygiene-day"
     publisher: "Organisation mondiale de la santé"
+  - title: "Ignaz Semmelweis"
+    url: "https://www.sciencehistory.org/education/scientific-biographies/ignaz-semmelweis/"
+    publisher: "Science History Institute"
+  - title: "About Handwashing"
+    url: "https://www.cdc.gov/clean-hands/about/index.html"
+    publisher: "CDC"
 quiz:
   - question: "Pourquoi les femmes mouraient-elles plus dans la clinique des médecins que dans celle des sages-femmes ?"
     options:
@@ -2721,6 +2733,14 @@ sources:
   - title: "Louis Pasteur"
     url: "https://fr.wikipedia.org/wiki/Louis_Pasteur"
     publisher: "Wikipédia"
+  - title: "Fermentation"
+    url: "https://www.britannica.com/science/fermentation"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+  - title: "Alimentation et santé"
+    url: "https://www.inrae.fr/alimentation-sante-globale"
+    publisher: "INRAE"
+    date: "2025"
 quiz:
   - question: "Que produisent les levures lorsqu'elles fermentent du sucre ?"
     options:
@@ -8442,117 +8462,6 @@ status: planned
 
 ---
 type: article
-title: Comment l'écorce du saule a-t-elle donné l'aspirine ?
-slug: comment-l-ecorce-du-saule-a-t-elle-donne-l-aspirine
-categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
-summary: >
-  Depuis l'Antiquité, on soigne la fièvre et la douleur avec de l'écorce de saule. Au 19e
-  siècle, des chimistes en ont extrait la substance active puis l'ont modifiée pour la rendre
-  moins irritante. En 1899, l'entreprise Bayer a commercialisé ce nouveau médicament sous le
-  nom d'Aspirin.
-tags: [pharmacologie]
-sources:
-  - title: "Acide acétylsalicylique"
-    url: "https://fr.wikipedia.org/wiki/Acide_ac%C3%A9tylsalicylique"
-    publisher: "Wikipédia"
-  - title: "Aspirin"
-    url: "https://en.wikipedia.org/wiki/Aspirin"
-    publisher: "Wikipedia"
-quiz:
-  - question: "D'où vient le nom « salicylique » ?"
-    options:
-      - "Du mot latin salix, qui veut dire saule"
-      - "Du mot « salive »"
-      - "Du nom d'un chimiste"
-    answer: 1
-    explanation: >
-      L'acide salicylique doit son nom au saule, salix en latin, dont l'écorce contient la
-      substance de départ.
-  - question: "Quelle entreprise a commercialisé l'aspirine en 1899 ?"
-    options:
-      - "Pasteur"
-      - "Bayer"
-      - "Michelin"
-    answer: 2
-    explanation: >
-      La société allemande Bayer a enregistré la marque Aspirin en 1899 et l'a vendue dans
-      le monde entier.
-  - question: "Comment agit l'aspirine dans le corps ?"
-    options:
-      - "Elle tue les bactéries"
-      - "Elle remplace le sang"
-      - "Elle bloque une enzyme qui fabrique des messagers de la douleur et de la fièvre"
-    answer: 3
-    explanation: >
-      L'aspirine bloque l'enzyme COX. Le corps fabrique alors moins de prostaglandines,
-      qui transmettent la douleur et règlent la fièvre.
-  - question: "Pourquoi ne donne-t-on pas d'aspirine à un enfant qui a une infection virale ?"
-    options:
-      - "À cause du risque de syndrome de Reye, une maladie grave"
-      - "Parce qu'elle a mauvais goût"
-      - "Parce qu'elle fait grandir trop vite"
-    answer: 1
-    explanation: >
-      Chez l'enfant et l'adolescent, l'aspirine prise pendant une infection virale peut
-      provoquer le syndrome de Reye, rare mais grave.
-lastVerified: 2026-10-09
-status: published
----
-
-## En bref
-
-Depuis l'Antiquité, on soigne la fièvre et la douleur avec de l'écorce de saule. Au 19e siècle, des chimistes en ont extrait la substance active puis l'ont modifiée pour la rendre moins irritante. En 1899, l'entreprise Bayer a commercialisé ce nouveau médicament sous le nom d'Aspirin.
-
-## Un remède très ancien
-
-Le saule est un arbre qui pousse souvent au bord de l'eau. Son écorce sert de remède depuis des millénaires. Des tablettes d'argile de l'ancienne Sumer mentionnent des remèdes à base de saule. Un papyrus égyptien d'environ 1550 avant notre ère, le papyrus Ebers, cite des préparations de feuilles de saule. Vers 400 avant notre ère, le médecin grec Hippocrate conseillait l'écorce de saule contre la douleur et la fièvre.
-
-## Des chimistes à la recherche de la substance active
-
-Au 19e siècle, les chimistes ont voulu isoler la substance qui agit. En 1828, l'Allemand Johann Andreas Buchner l'a extraite de l'écorce de saule. En 1829, le pharmacien français Pierre-Joseph Leroux en a obtenu des cristaux, qu'il a appelés salicyline, d'après salix, le nom latin du saule.
-
-Dans le corps, cette substance devient de l'acide salicylique. En 1839, on a aussi extrait de l'acide salicylique d'une autre plante, la reine-des-prés. L'acide salicylique soulageait bien, mais il irritait beaucoup l'estomac.
-
-## Une petite modification chimique
-
-En 1853, le chimiste français Charles Frédéric Gerhardt a fabriqué pour la première fois de l'acide acétylsalicylique. C'est de l'acide salicylique auquel on a accroché un petit groupe d'atomes, appelé acétyle.
-
-En 1897, les chercheurs de l'entreprise allemande Bayer ont étudié cette molécule comme remplaçant moins irritant. En 1899, Bayer l'a vendue dans le monde entier sous le nom d'Aspirin. Le « a » vient d'acétyle, et « spir » du nom allemand de la reine-des-prés.
-
-## Comment elle agit
-
-Pendant longtemps, on ne savait pas comment l'aspirine agissait. En 1971, le pharmacologue britannique John Vane l'a découvert. L'aspirine bloque une enzyme, la COX. Sans elle, le corps fabrique moins de prostaglandines. Ces messagers transmettent la douleur au cerveau, règlent le thermostat de la fièvre et participent à l'inflammation. Vane a reçu le prix Nobel de médecine en 1982.
-
-L'aspirine empêche aussi les plaquettes du sang de s'agglutiner. À petite dose, elle sert donc à prévenir certains caillots, après une crise cardiaque par exemple.
-
-## Un médicament à utiliser avec prudence
-
-On consomme environ 40 000 tonnes d'aspirine chaque année dans le monde. Elle figure sur la liste des médicaments essentiels de l'Organisation mondiale de la santé. Mais elle peut abîmer l'estomac et faire saigner. Et on ne la donne pas aux enfants qui ont une infection virale, à cause d'une maladie rare mais grave, le syndrome de Reye.
-
-```schema
-type: etapes
-titre: De l'écorce à l'aspirine
-elements:
-  - titre: Écorce de saule
-    texte: Utilisée depuis l'Antiquité.
-    icone: tree
-  - titre: Substance active
-    texte: Elle devient acide salicylique dans le corps.
-  - titre: Modification chimique
-    texte: L'acide acétylsalicylique, moins irritant.
-    icone: flask
-```
-
-## À retenir
-
-- L'écorce de saule soulage la douleur et la fièvre depuis l'Antiquité.
-- Au 19e siècle, les chimistes ont isolé sa substance active, qui devient de l'acide salicylique dans le corps.
-- L'acide acétylsalicylique, moins irritant, a été fabriqué en 1853 et vendu par Bayer sous le nom d'Aspirin en 1899.
-- L'aspirine bloque l'enzyme COX : le corps fabrique moins de messagers de la douleur, de la fièvre et de l'inflammation.
-- Elle peut irriter l'estomac et ne se donne pas aux enfants qui ont une infection virale.
-
----
-type: article
 title: La pharmacocinetique, ce que le corps fait au medicament
 slug: la-pharmacocinetique-ce-que-le-corps-fait-au-medicament
 categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
@@ -11762,205 +11671,6 @@ chiffres:
 - Il n'en reste pas assez d'ADN intact pour guider la fabrication d'un embryon de mammouth.
 - Dolly est la seule agnelle arrivée à l'âge adulte sur 277 tentatives.
 - Aucune méthode pour ressusciter le mammouth laineux n'est réalisable aujourd'hui.
-
----
-type: article
-title: Comment un vaccin à ARN messager apprend-il à notre corps à reconnaître un virus ?
-slug: comment-un-vaccin-a-arn-messager-apprend-il-a-notre-corps-a-reconnaitre-un-virus
-categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
-summary: >
-  Un vaccin à ARN messager donne aux cellules la recette d'un morceau inoffensif du virus. Le
-  système immunitaire le reconnaît et en garde la mémoire. L'ARN n'entre pas dans le noyau et
-  disparaît vite.
-tags: [pharmacologie]
-sources:
-  - title: "How COVID-19 Vaccines Work"
-    url: "https://www.cdc.gov/covid/vaccines/how-they-work.html"
-    publisher: "CDC, Centres américains de contrôle et de prévention des maladies"
-  - title: "MRNA vaccine"
-    url: "https://en.wikipedia.org/wiki/MRNA_vaccine"
-    publisher: "Wikipedia"
-  - title: "Vaccin à ARN messager"
-    url: "https://fr.wikipedia.org/wiki/Vaccin_%C3%A0_ARN_messager"
-    publisher: "Wikipédia"
-  - title: "Messenger RNA"
-    url: "https://en.wikipedia.org/wiki/Messenger_RNA"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Que donne un vaccin à ARN messager aux cellules ?"
-    options:
-      - "Un virus entier vivant"
-      - "Les instructions pour fabriquer un morceau inoffensif du virus"
-      - "Des anticorps tout faits"
-    answer: 2
-    explanation: >
-      Un vaccin à ARN messager donne aux cellules les instructions pour fabriquer un morceau
-      inoffensif d'une protéine du virus, la protéine spike dans le cas du Covid-19.
-  - question: "Pourquoi enferme-t-on l'ARN dans des nanoparticules de lipides ?"
-    options:
-      - "Pour le rendre invisible"
-      - "Pour le colorer"
-      - "Parce qu'il est fragile et doit entrer dans les cellules"
-    answer: 3
-    explanation: >
-      L'ARN est fragile : on l'enferme dans des nanoparticules de lipides, qui le protègent et
-      l'aident à entrer dans les cellules.
-  - question: "L'ARN du vaccin peut-il modifier nos gènes ?"
-    options:
-      - "Oui, toujours"
-      - "Seulement la nuit"
-      - "Non, il n'entre pas dans le noyau où se trouve l'ADN"
-    answer: 3
-    explanation: >
-      L'ARN ne pénètre pas dans le noyau de la cellule, où se trouve l'ADN : il ne peut donc pas
-      modifier nos gènes.
-  - question: "Que devient l'ARN après son travail ?"
-    options:
-      - "Il est dégradé et éliminé par les cellules"
-      - "Il reste toute la vie"
-      - "Il devient de l'ADN"
-    answer: 1
-    explanation: >
-      Une fois son travail fait, l'ARN est dégradé par les cellules et éliminé.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Un vaccin à ARN messager donne aux cellules la recette d'un morceau inoffensif du virus. Le système immunitaire le reconnaît et en garde la mémoire. L'ARN n'entre pas dans le noyau et disparaît vite.
-
-## Une recette plutôt qu'un virus
-
-Un vaccin à ARN messager donne aux cellules les instructions pour fabriquer un morceau inoffensif d'une protéine du virus, la protéine spike dans le cas du Covid-19. Le système immunitaire repère que cette protéine n'a rien à faire là et lance une réponse, avec des anticorps. Le corps garde ainsi un apprentissage qui l'aide à se protéger contre une future infection, sans avoir eu besoin d'être malade.
-
-## Protéger l'ARN, puis le faire disparaître
-
-L'ARN est fragile : on l'enferme dans des nanoparticules de lipides, qui le protègent et l'aident à entrer dans les cellules. L'ARN ne pénètre pas dans le noyau de la cellule, où se trouve l'ADN : il ne peut donc pas modifier nos gènes. Une fois son travail fait, l'ARN est dégradé par les cellules et éliminé. Certains vaccins demandent une conservation à très basse température, parce que l'ARN est fragile hors des cellules.
-
-## Une technologie mise au point au fil des années
-
-Katalin Karikó et Drew Weissman ont montré que modifier certains éléments de l'ARN réduit les réactions inflammatoires tout en gardant son efficacité, ce qui leur a valu le prix Nobel de médecine. Cette technologie permet de concevoir très vite un nouveau vaccin. Les premiers vaccins à ARN messager autorisés l'ont été pendant la pandémie de Covid-19.
-
-```schema
-type: etapes
-titre: Une recette plutôt qu'un virus
-elements:
-  - titre: ARN messager
-    texte: La recette d'un morceau de la protéine spike.
-  - titre: Fabrication
-    texte: Les cellules produisent ce morceau inoffensif.
-  - titre: Apprentissage
-    texte: Le corps garde une mémoire immunitaire.
-```
-
-## À retenir
-
-- Il donne aux cellules la recette d'un morceau inoffensif d'une protéine du virus, la spike pour le Covid-19.
-- Le corps garde ainsi un apprentissage qui l'aide à se protéger contre une future infection, sans avoir eu besoin d'être malade.
-- L'ARN est fragile : on l'enferme dans des nanoparticules de lipides, qui le protègent et l'aident à entrer dans les cellules.
-- L'ARN ne pénètre pas dans le noyau de la cellule, où se trouve l'ADN : il ne peut donc pas modifier nos gènes.
-- Une fois son travail fait, l'ARN est dégradé par les cellules et éliminé.
-
----
-type: article
-title: CRISPR, les ciseaux génétiques
-slug: crispr-les-ciseaux-genetiques
-categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
-summary: >
-  CRISPR est un système de défense des bactéries détourné pour modifier l'ADN. Il a valu le prix
-  Nobel de chimie 2020 à Emmanuelle Charpentier et Jennifer Doudna.
-tags: [crispr, genetique, nobel]
-sources:
-  - title: "CRISPR"
-    url: "https://en.wikipedia.org/wiki/CRISPR"
-    publisher: "Wikipedia"
-  - title: "Nobel Prize 2020 in Chemistry honors CRISPR: a tool for rewriting the code of life"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7782372/"
-    publisher: "PubMed Central (NIH)"
-  - title: "CRISPR"
-    url: "https://www.genome.gov/genetics-glossary/CRISPR"
-    publisher: "National Human Genome Research Institute"
-quiz:
-  - question: "Que fait Cas9 ?"
-    options:
-      - "Il coupe l'ADN à un endroit précis, guidé par un ARN"
-      - "Il copie l'ADN"
-      - "Il fabrique des protéines"
-    answer: 1
-    explanation: >
-      Cas9 est une enzyme qui, guidée par un ARN, reconnaît un endroit précis de l'ADN et le
-      coupe.
-  - question: "À quoi sert CRISPR dans la nature ?"
-    options:
-      - "À défendre les bactéries contre les virus"
-      - "À digérer le sucre"
-      - "À fabriquer des antibiotiques"
-    answer: 1
-    explanation: >
-      Dans la nature, CRISPR est un système de défense des bactéries : elles détectent et
-      détruisent l'ADN des virus qui les infectent.
-  - question: "En quelle année paraît l'article fondateur de Charpentier et Doudna ?"
-    options:
-      - "2012"
-      - "1982"
-      - "2022"
-    answer: 1
-    explanation: >
-      2012 : article fondateur de Charpentier et Doudna sur CRISPR-Cas9.
-  - question: "Quel prix récompense CRISPR-Cas9 en 2020 ?"
-    options:
-      - "Le prix Nobel de chimie"
-      - "Le prix Nobel de la paix"
-      - "La médaille Fields"
-    answer: 1
-    explanation: >
-      2020 : le prix Nobel de chimie récompense Emmanuelle Charpentier et Jennifer Doudna pour
-      CRISPR-Cas9.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-CRISPR est un système de défense des bactéries détourné pour modifier l'ADN. Il a valu le prix Nobel de chimie 2020 à Emmanuelle Charpentier et Jennifer Doudna.
-
-## Un système de défense des bactéries
-
-CRISPR est l'abréviation de « clustered regularly interspaced short palindromic repeats », des séquences répétées d'ADN régulièrement espacées. Dans la nature, c'est un système de défense des bactéries : elles détectent et détruisent l'ADN des virus, les bactériophages, qui les infectent.
-
-## Cas9, les ciseaux
-
-Cas9 est une enzyme qui, guidée par un ARN, reconnaît un endroit précis de l'ADN et le coupe. Fusionner deux ARN en un seul ARN guide a simplifié le ciblage de Cas9.
-
-## Un outil de laboratoire
-
-CRISPR est aussi une technologie que des chercheurs utilisent pour modifier l'ADN d'organismes vivants ; elle est adaptée de systèmes naturels de bactéries. En 2012, Charpentier et Doudna publient l'article fondateur de CRISPR-Cas9. En 2020, le prix Nobel de chimie les récompense.
-
-## Les essais
-
-Des essais cliniques testent CRISPR pour des maladies héréditaires comme la bêta-thalassémie et la drépanocytose. Cette fiche ne donne aucun conseil médical.
-
-```schema
-type: etapes
-titre: Cas9, les ciseaux de CRISPR
-elements:
-  - titre: Défense bactérienne
-    texte: À l'origine, contre les virus.
-  - titre: Guide
-    texte: Il conduit Cas9 vers la bonne séquence.
-  - titre: Coupe
-    texte: Cas9 coupe l'ADN.
-    icone: scissors
-```
-
-## À retenir
-
-- CRISPR est l'abréviation de « clustered regularly interspaced short palindromic repeats ».
-- Dans la nature, c'est un système de défense des bactéries contre les virus qui les infectent.
-- Cas9 est une enzyme qui, guidée par un ARN, reconnaît un endroit précis de l'ADN et le coupe.
-- En 2012, Charpentier et Doudna publient l'article fondateur de CRISPR-Cas9.
-- En 2020, le prix Nobel de chimie les récompense.
 
 ---
 type: article

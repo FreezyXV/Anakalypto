@@ -923,6 +923,14 @@ sources:
     url: "https://www.inserm.fr/dossier/microbiote-intestinal-et-sante/"
     publisher: "Inserm"
     date: "2025"
+  - title: "L'importance du microbiote intestinal"
+    url: "https://monacosante.mc/fr/actualites-sante/actualite/actualites/microbiote-intestinal"
+    publisher: "MonacoSanté"
+    date: "2025"
+  - title: "Dietary patterns influencing the human colonic microbiota"
+    url: "https://europepmc.org/article/MED/39277883"
+    publisher: "European Journal of Nutrition"
+    date: "2025"
 quiz:
   - question: "Que font les bactéries du microbiote que nous ne savons pas faire ?"
     options:
@@ -1249,7 +1257,7 @@ summary: >
   Le système immunitaire attaque une substance parfaitement inoffensive. Et la réaction qu'il
   déclenche peut être plus dangereuse que la substance elle-même.
 tags: [allergie, immunite, anaphylaxie, histamine, prevention]
-relatedArticles: [immunite-innee-et-adaptative, intolerance-au-lactose-et-maladie-coeliaque]
+relatedArticles: [immunite-innee-et-adaptative, lactose-et-intolerance]
 sources:
   - title: "Allergy"
     url: "https://www.britannica.com/science/allergy"
@@ -2186,6 +2194,9 @@ sources:
     url: "https://www.inserm.fr/dossier/vaccins/"
     publisher: "Inserm"
     date: "2025"
+  - title: "How COVID-19 mRNA vaccines work"
+    url: "https://www.cdc.gov/covid/vaccines/how-they-work.html"
+    publisher: "CDC, centres américains de contrôle et de prévention des maladies"
 quiz:
   - question: "Que contient un vaccin à ARN messager ?"
     options:
@@ -2630,7 +2641,7 @@ categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
 summary: >
   Compression, pansement compressif, garrot : les gestes qui empêchent de perdre trop de sang.
 tags: [systeme-cardiovasculaire, secourisme, hemorragie, essentiel-reconstruction]
-relatedArticles: [soigner-plaie]
+relatedArticles: [la-gestion-d-une-plaie-pour-eviter-une-infection]
 sources:
   - title: "Bleeding (Life-Threatening External)"
     url: "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external"
@@ -3187,108 +3198,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-
----
-type: article
-title: La déshydratation et le soluté de réhydratation
-slug: deshydratation-solute-rehydratation
-categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
-summary: >
-  Un mélange d'eau, de sel et de sucre qui a sauvé des millions de vies lors des diarrhées.
-tags: [systeme-digestif, secourisme, dehydratation, essentiel-reconstruction]
-relatedArticles: [cholera-eau-contaminee]
-sources:
-  - title: "Oral Rehydration Therapy"
-    url: "https://www.merckmanuals.com/professional/pediatrics/dehydration-and-fluid-therapy-in-children/oral-rehydration-therapy"
-    publisher: "Merck Manual Professional Edition"
-    date: "2025"
-  - title: "Diarrhoea Treatment Guidelines Including new recommendations"
-    url: "https://cdn.who.int/media/docs/default-source/2021-dha-docs/pnadk428.pdf"
-    publisher: "Organisation mondiale de la santé"
-    date: "2025"
-quiz:
-  - question: "Pourquoi le soluté de réhydratation orale contient-il du sucre en plus du sel ?"
-    options:
-      - "Pour améliorer le goût uniquement"
-      - "Le glucose aide l'intestin à mieux absorber le sodium et donc l'eau"
-      - "Pour donner de l'énergie rapidement au malade"
-    answer: 2
-    explanation: >
-      Le glucose facilite le transport actif du sodium à travers la paroi intestinale, ce qui
-      entraîne l'eau avec lui et permet une meilleure réhydratation.
-  - question: "Quelle proportion de malades sévèrement déshydratés le soluté de réhydratation
-      orale permet-il de traiter sans perfusion ?"
-    options:
-      - "Environ 10 %"
-      - "Environ 50 %"
-      - "Environ 90 %"
-    answer: 3
-    explanation: >
-      Selon les estimations médicales, le soluté de réhydratation orale peut à lui seul traiter
-      environ neuf malades sur dix qui, auparavant, auraient nécessité une perfusion.
-lastVerified: 2026-09-25
-status: published
----
-
-## En bref
-
-Une diarrhée importante fait perdre à la fois de l'eau et des sels minéraux essentiels. Boire de
-l'eau seule ne suffit pas toujours à compenser cette perte. Un mélange précis d'eau, de sel et de
-sucre, mis au point dans les années 1960, sauve chaque année des millions de vies.
-
-## Pourquoi l'eau seule ne suffit pas toujours
-
-Le corps a besoin de sodium et de potassium pour que l'eau reste bien absorbée par l'intestin et
-reste dans l'organisme. Lors d'une diarrhée sévère, ces sels sont perdus en même temps que l'eau.
-Boire de l'eau pure sans les remplacer peut même diluer davantage le sel restant dans le sang.
-
-## La formule qui a changé la médecine
-
-Le soluté de réhydratation orale recommandé par l'Organisation mondiale de la santé associe du
-glucose, du chlorure de sodium, du chlorure de potassium et du citrate de sodium, dilués dans un
-litre d'eau propre. Le glucose aide le corps à mieux absorber le sodium à travers la paroi
-intestinale.
-
-Cette découverte est considérée comme l'une des avancées médicales les plus importantes du
-vingtième siècle : elle peut à elle seule réhydrater environ neuf malades sur dix qui, avant son
-invention, auraient nécessité une perfusion.
-
-## Préparer un soluté de fortune
-
-À défaut de sachet tout prêt, un mélange approximatif peut se préparer avec un litre d'eau
-propre, six cuillères à café rases de sucre et une demi-cuillère à café rase de sel. Ce n'est pas
-aussi précis que la formule officielle, mais cela reste utile en attendant mieux.
-
-## Reconnaître une déshydratation
-
-Une bouche sèche, une soif intense, des urines rares et foncées, une grande fatigue ou des
-vertiges signalent une déshydratation. Chez un jeune enfant, l'absence de larmes en pleurant ou
-une fontanelle creusée sont des signes plus graves qui nécessitent une prise en charge rapide.
-
-## À retenir
-
-- La diarrhée fait perdre à la fois de l'eau et des sels minéraux essentiels.
-- Le soluté de réhydratation orale combine eau, sel, potassium et sucre dans des proportions
-  précises.
-- Le glucose aide le corps à mieux absorber le sodium et donc l'eau.
-- À défaut de sachet officiel, un litre d'eau, six cuillères à café de sucre et une demi-cuillère
-  de sel peuvent dépanner.
-- Bouche sèche, urines rares et fatigue intense sont les premiers signes à surveiller.
-
-```schema
-type: systeme
-titre: Le soluté de réhydratation orale
-centre: Soluté
-icone: droplet
-parties:
-  - nom: Eau
-  - nom: Sel
-  - nom: Potassium
-  - nom: Sucre
-    role: Le glucose aide à absorber le sodium, donc l'eau.
-```
 
 ---
 
@@ -4195,7 +4104,7 @@ categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
 summary: >
   John Snow et la pompe de Broad Street : l'enquête qui a fondé l'épidémiologie en 1854.
 tags: [maladies-infectieuses, eau, cholera, essentiel-reconstruction]
-relatedArticles: [deshydratation-solute-rehydratation]
+relatedArticles: [la-rehydratation-orale-en-cas-de-diarrhee-severe]
 sources:
   - title: "Cholera"
     url: "https://www.who.int/news-room/fact-sheets/detail/cholera"
@@ -4287,101 +4196,6 @@ evenements:
   - date: Aujourd'hui
     titre: Prévenir et soigner
     texte: Eau sûre et réhydratation.
-```
-
----
-
----
-type: article
-title: Soigner une plaie
-slug: soigner-plaie
-categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
-summary: >
-  Nettoyer, désinfecter, surveiller : éviter qu'une blessure ne s'infecte.
-tags: [maladies-infectieuses, secourisme, plaie, essentiel-reconstruction]
-relatedArticles: [arreter-hemorragie]
-sources:
-  - title: "Cuts and scrapes: First aid"
-    url: "https://www.mayoclinic.org/first-aid/first-aid-cuts/basics/art-20056711"
-    publisher: "Mayo Clinic"
-    date: "2025"
-  - title: "Prevention and management of wound infection"
-    url: "https://www.who.int/docs/default-source/documents/publications/prevention-and-management-of-wound-infection.pdf"
-    publisher: "Organisation mondiale de la santé"
-    date: "2025"
-quiz:
-  - question: "Pourquoi faut-il éviter de mettre du savon directement dans une plaie ouverte ?"
-    options:
-      - "Le savon irrite les tissus à vif et retarde la cicatrisation"
-      - "Le savon attire les microbes"
-      - "Le savon empêche le sang de coaguler"
-    answer: 1
-    explanation: >
-      Le savon sert à nettoyer la peau autour de la plaie, mais il irrite les tissus à
-      l'intérieur de la blessure elle-même.
-  - question: "Quel signe indique qu'une plaie s'infecte ?"
-    options:
-      - "Une légère douleur qui diminue chaque jour"
-      - "Une rougeur qui s'étend et du pus"
-      - "Une petite croûte qui se forme"
-    answer: 2
-    explanation: >
-      Une croûte est un signe normal de cicatrisation. Une rougeur qui s'étend et du pus
-      signalent au contraire une infection.
-lastVerified: 2026-09-25
-status: published
----
-
-## En bref
-
-Une plaie mal soignée s'infecte facilement : les microbes profitent de la peau ouverte pour
-entrer dans le corps. Quatre gestes simples, faits dans l'ordre, réduisent énormément ce risque.
-
-## Se laver les mains avant tout
-
-Avant de toucher la moindre plaie, se laver les mains à l'eau et au savon pendant au moins vingt
-secondes. Les mains sont l'une des principales sources de microbes transmis à une blessure
-ouverte.
-
-## Nettoyer la plaie à l'eau
-
-Rincer abondamment sous l'eau courante pour emporter la terre, les graviers ou les éclats. Laver
-la peau autour avec du savon, sans faire pénétrer de savon dans la plaie elle-même, ce qui irrite
-les tissus à vif.
-
-Retirer les débris visibles avec une pince propre, désinfectée à l'alcool si possible.
-
-## Protéger sans étouffer
-
-Appliquer une fine couche de pommade antibiotique ou de vaseline pour garder la plaie humide, ce
-qui favorise la cicatrisation, puis couvrir d'un pansement propre. Changer le pansement chaque
-jour, ou dès qu'il est mouillé ou sale.
-
-## Surveiller les signes d'infection
-
-Une rougeur qui s'étend, une chaleur locale, un gonflement, du pus ou une douleur qui augmente
-au lieu de diminuer sont des signes d'alerte. Une fièvre associée à ces symptômes impose de
-consulter rapidement.
-
-## À retenir
-
-- Se laver les mains avant de toucher une plaie, c'est le geste le plus important.
-- Rincer à l'eau claire, laver autour au savon, ne jamais mettre de savon dans la plaie.
-- Garder la plaie propre et humide sous un pansement changé chaque jour.
-- Rougeur qui s'étend, chaleur, pus ou fièvre sont les signaux d'une infection à surveiller.
-
-```schema
-type: etapes
-titre: Soigner une plaie
-elements:
-  - titre: Se laver les mains
-    texte: Le geste le plus important.
-  - titre: Rincer à l'eau claire
-    texte: Savon autour, jamais dans la plaie.
-  - titre: Protéger
-    texte: Un pansement changé chaque jour.
-  - titre: Surveiller
-    texte: Les signes d'infection.
 ```
 
 ---
@@ -6645,6 +6459,14 @@ sources:
   - title: "Soluté de réhydratation orale"
     url: "https://fr.wikipedia.org/wiki/Solut%C3%A9_de_r%C3%A9hydratation_orale"
     publisher: "Wikipédia"
+  - title: "Oral Rehydration Therapy"
+    url: "https://www.merckmanuals.com/professional/pediatrics/dehydration-and-fluid-therapy-in-children/oral-rehydration-therapy"
+    publisher: "Merck Manual Professional Edition"
+    date: "2025"
+  - title: "Diarrhoea Treatment Guidelines Including new recommendations"
+    url: "https://cdn.who.int/media/docs/default-source/2021-dha-docs/pnadk428.pdf"
+    publisher: "Organisation mondiale de la santé"
+    date: "2025"
 quiz:
   - question: "Pourquoi le sucre est-il important dans une solution de réhydratation ?"
     options:
@@ -9017,104 +8839,6 @@ status: planned
 
 ---
 type: article
-title: Se laver les mains, le geste qui a sauvé des mères
-slug: l-hygiene-des-mains-et-la-prevention-des-infections
-categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
-summary: >
-  Dans la première clinique obstétrique de Vienne, Semmelweis impose aux médecins de se laver
-  les mains : la mortalité de sa clinique tombe sous les 3 %.
-tags: [maladies-infectieuses, essentiel-reconstruction, reconstruction]
-sources:
-  - title: "Ignaz Semmelweis"
-    url: "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
-    publisher: "Wikipedia"
-  - title: "Ignaz Semmelweis"
-    url: "https://www.sciencehistory.org/education/scientific-biographies/ignaz-semmelweis/"
-    publisher: "Science History Institute"
-  - title: "About Handwashing"
-    url: "https://www.cdc.gov/clean-hands/about/index.html"
-    publisher: "CDC"
-quiz:
-  - question: "Dans la première clinique obstétrique de Vienne, quelle part des accouchées mourait avant la mesure ?"
-    options:
-      - "Environ 1 %"
-      - "Environ 18 %"
-      - "Environ 50 %"
-    answer: 2
-    explanation: >
-      Environ 18 % des accouchées mouraient dans la première clinique obstétrique de Vienne
-      avant l'obligation de se laver les mains.
-  - question: "Avec quoi Semmelweis fait-il laver les mains des médecins ?"
-    options:
-      - "Du vinaigre"
-      - "Une solution de chlorure de chaux"
-      - "De l'eau de mer"
-    answer: 2
-    explanation: >
-      Semmelweis impose aux médecins de se laver les mains avec une solution de chlorure de
-      chaux entre les autopsies et les examens.
-  - question: "Après la mesure, la mortalité de sa clinique tombe…"
-    options:
-      - "sous les 3 %"
-      - "à 10 %"
-      - "à 15 %"
-    answer: 1
-    explanation: >
-      Après la mesure de Semmelweis, la mortalité de sa clinique tombe sous les 3 %.
-  - question: "Combien de temps frotter ses mains au savon selon le CDC ?"
-    options:
-      - "5 secondes"
-      - "Au moins 20 secondes"
-      - "5 minutes"
-    answer: 2
-    explanation: >
-      Le CDC recommande de frotter ses mains avec du savon au moins 20 secondes.
-lastVerified: 2026-09-29
-status: published
----
-
-## En bref
-
-Dans la première clinique obstétrique de Vienne, environ 18 % des accouchées mouraient avant que Semmelweis n'impose aux médecins de se laver les mains. Après cette mesure, la mortalité de sa clinique tombe sous les 3 %. Aujourd'hui encore, se laver les mains au savon aide à prévenir des infections.
-
-## Un chiffre à Vienne
-
-Dans la première clinique obstétrique de Vienne, environ 18 % des accouchées mouraient avant l'obligation de se laver les mains.
-
-## La mesure de Semmelweis
-
-Semmelweis impose aux médecins de se laver les mains avec une solution de chlorure de chaux entre les autopsies et les examens. Après la mesure, la mortalité de sa clinique tombe sous les 3 %.
-
-## Aujourd'hui
-
-Le CDC recommande de frotter ses mains avec du savon au moins 20 secondes. Se laver les mains au savon aide à prévenir les infections respiratoires et diarrhéiques.
-
-## Avant de commencer
-
-Il faut de l'eau propre et du savon, ou une solution désinfectante. En cas de symptômes, consulter un professionnel de santé.
-
-```schema
-type: etapes
-titre: La mesure de Semmelweis
-elements:
-  - titre: Le constat
-    texte: Environ 18 % des accouchées mouraient dans la première clinique.
-  - titre: La mesure
-    texte: Lavage des mains au chlorure de chaux.
-  - titre: Le résultat
-    texte: La mortalité chute.
-```
-
-## À retenir
-
-- Environ 18 % des accouchées mouraient dans la première clinique obstétrique de Vienne avant la mesure de Semmelweis.
-- Semmelweis impose un lavage des mains au chlorure de chaux entre les autopsies et les examens.
-- Après la mesure, la mortalité de sa clinique tombe sous les 3 %.
-- Le CDC recommande de frotter ses mains avec du savon au moins 20 secondes.
-- Se laver les mains au savon aide à prévenir les infections respiratoires et diarrhéiques.
-
----
-type: article
 title: La resistance aux antiviraux, un enjeu croissant
 slug: la-resistance-aux-antiviraux-un-enjeu-croissant
 categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
@@ -9412,7 +9136,7 @@ summary: >
   retirer les saletés, protéger avec un pansement propre et surveiller les signes d'infection
   suffit dans la plupart des cas. Le vaccin contre le tétanos doit être à jour.
 tags: [maladies-infectieuses]
-relatedArticles: [le-garrot-comment-et-quand-l-utiliser, decouverte-penicilline, semmelweis-lavage-mains, la-fabrication-traditionnelle-du-savon]
+relatedArticles: [le-garrot-comment-et-quand-l-utiliser, decouverte-penicilline, semmelweis-lavage-mains, comment-fabrique-t-on-du-savon-avec-de-l-huile]
 sources:
   - title: "Plaie"
     url: "https://fr.wikipedia.org/wiki/Plaie"
@@ -9426,6 +9150,14 @@ sources:
   - title: "Tetanus"
     url: "https://www.who.int/news-room/fact-sheets/detail/tetanus"
     publisher: "Organisation mondiale de la santé"
+  - title: "Cuts and scrapes: First aid"
+    url: "https://www.mayoclinic.org/first-aid/first-aid-cuts/basics/art-20056711"
+    publisher: "Mayo Clinic"
+    date: "2025"
+  - title: "Prevention and management of wound infection"
+    url: "https://www.who.int/docs/default-source/documents/publications/prevention-and-management-of-wound-infection.pdf"
+    publisher: "Organisation mondiale de la santé"
+    date: "2025"
 quiz:
   - question: "Quel est le geste le plus important pour éviter qu'une plaie s'infecte ?"
     options:
@@ -16093,7 +15825,7 @@ summary: >
   vaccin et quand faire les rappels, du nourrisson à la personne âgée. En France, onze vaccins sont
   obligatoires chez le jeune enfant, et d'autres sont recommandés tout au long de la vie.
 tags: [vaccination]
-relatedArticles: [principe-de-la-vaccination-et-immunite-collective, comment-un-vaccin-a-arn-messager-apprend-il-au-corps-a-se-defendre, comment-la-variole-a-t-elle-disparu-de-la-planete, depistage-organise-des-cancers]
+relatedArticles: [principe-de-la-vaccination-et-immunite-collective, vaccins-a-arn-messager, comment-la-variole-a-t-elle-disparu-de-la-planete, depistage-organise-des-cancers]
 sources:
   - title: "Calendrier des vaccinations et recommandations vaccinales"
     url: "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/calendrier-vaccinal"
@@ -16636,108 +16368,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-type: article
-title: Comment un vaccin à ARN messager apprend-il au corps à se défendre ?
-slug: comment-un-vaccin-a-arn-messager-apprend-il-au-corps-a-se-defendre
-categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
-summary: >
-  Un vaccin à ARN messager donne aux cellules le plan d'un morceau inoffensif du virus. Le
-  système immunitaire apprend à le reconnaître, sans que l'ARN ne modifie les gènes.
-tags: [vaccination]
-sources:
-  - title: "Vaccin à ARN messager"
-    url: "https://fr.wikipedia.org/wiki/Vaccin_%C3%A0_ARN_messager"
-    publisher: "Wikipédia"
-  - title: "MRNA vaccine"
-    url: "https://en.wikipedia.org/wiki/MRNA_vaccine"
-    publisher: "Wikipedia"
-  - title: "How COVID-19 mRNA vaccines work"
-    url: "https://www.cdc.gov/covid/vaccines/how-they-work.html"
-    publisher: "CDC, centres américains de contrôle et de prévention des maladies"
-quiz:
-  - question: "Que contient un vaccin à ARN messager ?"
-    options:
-      - "Le virus entier"
-      - "De l'ADN humain"
-      - "Le plan d'une protéine du virus"
-    answer: 3
-    explanation: >
-      Un vaccin à ARN messager contient le plan d'une protéine du virus : les cellules s'en
-      servent pour fabriquer cette protéine, et le système immunitaire apprend à la reconnaître.
-  - question: "L'ARN d'un vaccin entre-t-il dans le noyau de la cellule ?"
-    options:
-      - "Oui, et il remplace l'ADN"
-      - "Non, il ne peut donc pas modifier les gènes"
-      - "Oui, pour fabriquer un nouveau noyau"
-    answer: 2
-    explanation: >
-      L'ARN reste dans le cytoplasme de la cellule ; il n'entre pas dans le noyau, où se trouve
-      l'ADN, et ne peut donc pas modifier les gènes.
-  - question: "Que deviennent l'ARN et le morceau de protéine après usage ?"
-    options:
-      - "Les cellules détruisent l'ARN et l'éliminent"
-      - "L'ARN reste toute la vie"
-      - "L'ARN devient de l'ADN"
-    answer: 1
-    explanation: >
-      Une fois le morceau de protéine fabriqué, les cellules détruisent l'ARN et l'éliminent
-      comme un déchet.
-  - question: "Dans quoi l'ARN du vaccin est-il enveloppé ?"
-    options:
-      - "Des bulles de savon"
-      - "Du plastique"
-      - "Des nanoparticules de lipides"
-    answer: 3
-    explanation: >
-      L'ARN est enveloppé dans des nanoparticules de lipides, qui le protègent de la dégradation
-      et l'aident à entrer dans les cellules.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Un vaccin à ARN messager donne aux cellules le plan d'un morceau inoffensif du virus. Le système immunitaire apprend à le reconnaître, sans que l'ARN ne modifie les gènes.
-
-## Un plan, pas le virus
-
-Un vaccin à ARN messager contient le plan d'une protéine du virus : les cellules s'en servent pour fabriquer cette protéine, et le système immunitaire apprend à la reconnaître. Les cellules ne fabriquent qu'un morceau inoffensif du virus, par exemple une partie de la protéine de pointe, la protéine spike, du coronavirus. Le corps montre ce morceau à la surface de ses cellules ; le système immunitaire le repère comme étranger, fabrique des anticorps et active d'autres cellules de défense.
-
-## Une enveloppe de lipides
-
-L'ARN est enveloppé dans des nanoparticules de lipides, qui le protègent de la dégradation et l'aident à entrer dans les cellules. L'ARN est fragile, c'est pourquoi certains de ces vaccins doivent être conservés à très basse température.
-
-## Pas de modification des gènes
-
-L'ARN reste dans le cytoplasme de la cellule ; il n'entre pas dans le noyau, où se trouve l'ADN, et ne peut donc pas modifier les gènes. Une fois le morceau de protéine fabriqué, les cellules détruisent l'ARN et l'éliminent comme un déchet.
-
-## Une idée récompensée
-
-Le premier vaccin à ARN messager autorisé dans le monde, celui de Pfizer-BioNTech, l'a été au Royaume-Uni. Katalin Karikó et Drew Weissman ont reçu le prix Nobel de médecine pour les découvertes qui ont rendu possibles des vaccins à ARN messager efficaces contre la Covid-19. Des vaccins à ARN messager sont aussi étudiés contre la grippe, la rage, certains cancers, le VIH et le virus Zika.
-
-```schema
-type: etapes
-titre: Ce que fait un vaccin à ARN messager
-elements:
-  - titre: Enveloppe de lipides
-    texte: Elle fait entrer l'ARN dans les cellules.
-  - titre: Le plan
-    texte: L'ARN donne la recette d'une protéine du virus.
-  - titre: Un morceau inoffensif
-    texte: Les cellules le fabriquent.
-  - titre: Apprentissage
-    texte: Le système immunitaire apprend à le reconnaître.
-```
-
-## À retenir
-
-- Un vaccin à ARN messager donne aux cellules le plan d'une protéine du virus, que le système immunitaire apprend à reconnaître.
-- Les cellules ne fabriquent qu'un morceau inoffensif du virus, par exemple une partie de la protéine de pointe, la protéine spike, du coronavirus.
-- L'ARN n'entre pas dans le noyau de la cellule, où se trouve l'ADN : il ne peut pas modifier les gènes.
-- Une fois le morceau de protéine fabriqué, les cellules détruisent l'ARN et l'éliminent comme un déchet.
-- Katalin Karikó et Drew Weissman ont reçu le prix Nobel de médecine pour leurs découvertes sur ces vaccins.
 
 ---
 type: article

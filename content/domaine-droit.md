@@ -1376,7 +1376,7 @@ summary: >
   Un contrat n'a pas besoin d'être écrit pour exister. Acheter une baguette est un contrat,
   conclu en trois secondes.
 tags: [contrat, consentement, droit-civil, obligation, vente]
-relatedArticles: [code-civil-des-francais-1804, droit-de-retractation-et-garanties]
+relatedArticles: [code-civil-des-francais-1804, la-garantie-legale-de-conformite]
 sources:
   - title: "Code civil, des contrats"
     url: "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/"
@@ -2325,122 +2325,6 @@ parties:
   - nom: Revendications professionnelles
   - nom: Effet
     role: Le contrat est suspendu, sans faute.
-```
-
----
-
----
-type: article
-title: Rétractation et garanties
-slug: droit-de-retractation-et-garanties
-categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
-summary: >
-  Quatorze jours pour changer d'avis après un achat en ligne, et deux ans de garantie légale
-  que le vendeur ne peut pas réduire.
-tags: [consommation, retractation, garantie, achat-en-ligne, protection]
-relatedArticles: [contrat-conditions-de-validite, responsabilite-civile-et-reparation]
-sources:
-  - title: "Code de la consommation"
-    url: "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006069565/"
-    publisher: "Légifrance"
-    date: "2025"
-  - title: "Droits des consommateurs"
-    url: "https://www.economie.gouv.fr/dgccrf"
-    publisher: "DGCCRF"
-    date: "2025"
-quiz:
-  - question: "Pourquoi un délai de rétractation existe-t-il pour les achats à distance ?"
-    options:
-      - "Parce que la livraison peut être en retard"
-      - "Parce qu'on n'a pas pu voir ni essayer le produit avant d'acheter"
-      - "Parce que les prix changent souvent"
-    answer: 2
-    explanation: >
-      En magasin, on manipule l'objet avant de décider. À distance, on ne dispose que d'une
-      photo et d'une description. Le délai rétablit cette possibilité d'examen.
-  - question: "Qui doit prouver le défaut d'un produit dans les deux premières années ?"
-    options:
-      - "L'acheteur"
-      - "Personne : le défaut est présumé exister depuis l'achat, c'est au vendeur de prouver
-        le contraire"
-      - "Un expert indépendant"
-    answer: 2
-    explanation: >
-      C'est un renversement décisif. Sans lui, il faudrait démontrer techniquement qu'un
-      appareil était déjà défectueux à la livraison, ce qui est souvent impossible.
-lastVerified: 2026-09-23
-status: published
----
-
-## En bref
-
-Quand vous achetez à un professionnel, la loi vous accorde des protections que vous n'avez pas
-entre particuliers.
-
-La raison est le déséquilibre d'information : le vendeur connaît son produit, rédige le contrat,
-et conclut des milliers de ventes. L'acheteur, lui, découvre.
-
-## Le droit de rétractation
-
-Pour un achat à distance — en ligne, par téléphone — ou hors établissement commercial, vous
-disposez de quatorze jours pour changer d'avis, sans avoir à vous justifier.
-
-La logique est claire : en magasin, on voit, on touche, on essaie avant de décider. À distance,
-on n'a qu'une photo. Le délai restitue cette possibilité d'examen.
-
-Le délai court à partir de la réception du produit. Le remboursement doit intervenir rapidement,
-et il inclut les frais de livraison initiaux.
-
-Des exceptions existent : produits personnalisés, denrées périssables, contenus numériques
-téléchargés, produits d'hygiène descellés.
-
-Attention à une confusion fréquente : ce droit ne s'applique pas aux achats en magasin. Les
-retours acceptés par les enseignes y sont commerciaux, pas légaux.
-
-## La garantie légale de conformité
-
-Elle est due par le vendeur, elle dure deux ans, et elle est gratuite.
-
-Un produit doit correspondre à sa description, être propre à l'usage attendu, et fonctionner
-normalement.
-
-Le point décisif est le renversement de la charge de la preuve : pendant ces deux ans, un défaut
-qui apparaît est présumé exister depuis la livraison. C'est au vendeur de prouver le contraire.
-
-Sans cette règle, il faudrait démontrer techniquement qu'un appareil était déjà défectueux au
-départ, ce qu'aucun consommateur ne peut faire.
-
-Le vendeur doit alors réparer ou remplacer le produit. Si aucune des deux solutions n'est
-possible, l'acheteur peut demander une réduction du prix ou le remboursement.
-
-## Ne pas confondre avec la garantie commerciale
-
-La garantie proposée par le vendeur ou le fabricant, parfois payante, s'ajoute à la garantie
-légale. Elle ne la remplace jamais et ne peut pas la réduire.
-
-Une phrase comme « garantie un an » ne supprime donc pas vos deux ans légaux. C'est une source
-fréquente de malentendus, parfois entretenus.
-
-## À retenir
-
-- Quatorze jours de rétractation pour les achats à distance, sans justification.
-- Ce droit ne s'applique pas aux achats en magasin.
-- La garantie légale dure deux ans et est gratuite.
-- Pendant ces deux ans, le défaut est présumé antérieur à la livraison.
-
-```schema
-type: comparaison
-titre: Rétractation et garantie
-colonnes:
-  - titre: Rétractation
-    points:
-      - 14 jours pour les achats à distance
-      - Sans justification
-      - Pas en magasin
-  - titre: Garantie légale de conformité
-    points:
-      - Deux ans
-      - Ne pas confondre avec la garantie commerciale
 ```
 
 ---
@@ -3879,7 +3763,7 @@ summary: >
   comparer les offres, la loi accorde quatorze jours pour se rétracter, et le crédit renouvelable
   est le plus dangereux. Avant de signer, il faut savoir ce que l'on paiera au total.
 tags: [droit-de-la-consommation]
-relatedArticles: [interets-composes, tenir-son-budget-personnel, epargne-de-precaution, droit-de-retractation-et-garanties]
+relatedArticles: [interets-composes, tenir-son-budget-personnel, epargne-de-precaution, la-garantie-legale-de-conformite]
 sources:
   - title: "Crédit à la consommation"
     url: "https://fr.wikipedia.org/wiki/Cr%C3%A9dit_%C3%A0_la_consommation"
@@ -9371,7 +9255,7 @@ summary: >
   réparé ou remplacé par le vendeur, gratuitement, pendant au moins deux ans en France et dans
   l'Union européenne. Cette garantie est gratuite, automatique et ne peut pas être écartée.
 tags: [droit-de-la-consommation]
-relatedArticles: [droit-de-retractation-et-garanties, peut-on-changer-d-avis-apres-un-achat-en-ligne, pourquoi-une-publicite-n-a-t-elle-pas-le-droit-de-tromper, reparer-plutot-jeter]
+relatedArticles: [peut-on-changer-d-avis-apres-un-achat-en-ligne, pourquoi-une-publicite-n-a-t-elle-pas-le-droit-de-tromper, reparer-plutot-jeter]
 sources:
   - title: "Garantie légale de conformité pour un bien (contrat depuis le 1er janvier 2022)"
     url: "https://www.service-public.fr/particuliers/vosdroits/F11094"
@@ -9385,6 +9269,14 @@ sources:
   - title: "Code de la consommation, articles L217-1 et suivants"
     url: "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000044142422/"
     publisher: "Légifrance"
+  - title: "Code de la consommation"
+    url: "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006069565/"
+    publisher: "Légifrance"
+    date: "2025"
+  - title: "Droits des consommateurs"
+    url: "https://www.economie.gouv.fr/dgccrf"
+    publisher: "DGCCRF"
+    date: "2025"
 quiz:
   - question: "Combien de temps dure la garantie légale de conformité pour un bien neuf en France ?"
     options:
