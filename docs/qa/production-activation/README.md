@@ -36,3 +36,19 @@ Ordre d'installation pour cette première activation : synchronisation des conte
 Les journaux d'essai et de production complètent ce rapport après chaque étape réussie. `content:verify-published` est en lecture seule : il compare le catalogue, les textes, sources, quiz, chemins, compteurs de schémas, empreintes de validation et références des dessins.
 
 Les 191 dessins déjà conservés restent à revérifier ; leur présence ne constitue pas une nouvelle validation qualitative. Aucun test utilisateur ni nouvelle revue visuelle de l'ensemble des dessins n'est inclus dans cette activation technique.
+
+## Résultat de l'activation en production
+
+L'import et les migrations ont réussi ; le contrôle complet en lecture seule est passé le **12 novembre 2026 à 09:57:51 UTC**.
+
+- 948 leçons publiées conformes au corpus, sources et quiz compris.
+- 965 schémas éditoriaux dans 948 leçons, avec leurs 948 validations reprises.
+- 241 associations de dessins : 50 READY, 191 REVIEW_REQUIRED conservés ; 707 leçons sans dessin spécifique mais avec schéma éditorial ; zéro leçon sans aucun visuel.
+- Zéro leçon publiée sans indicateur, zéro réservation active.
+- 915 anciens textes conservés dans `Revision`, 33 publications du corpus ajoutées à la base et 79 publications du corpus auparavant en brouillon activées.
+- 60 anciennes publications retirées du corpus archivées en brouillons ; aucun article, catégorie ou tag supprimé.
+- 11 540 articles hors sélection intacts : empreinte identique avant/après et identique à celle de la copie d'essai.
+
+Preuves : [plan](production-plan.log), [import](production-sync.log), [migrations](production-migrations.log), [reprise](production-bootstrap.log), [vérification intégrale](production-verification.log). Les [60 décisions de retrait](retired-editorial-decisions.log) ont chacune été retrouvées dans les rapports éditoriaux de Claude. La copie d'essai est suspendue ; la sauvegarde sans compute est conservée.
+
+La CI de la première version du correctif a réussi avec les deux jobs : [run 43195538090](https://github.com/FreezyXV/Anakalypto/actions/runs/43195538090). Le redéploiement du site suit la fusion du correctif. Le script `scripts/check-public-illustrations.mjs`, avec l'URL HTTPS explicite du site, vérifie les dix pages de l'API (948 références uniques) et la présence de schémas dans le HTML public de trois articles après déploiement.
