@@ -1,0 +1,209 @@
+[
+  {
+    "key": "foodweb",
+    "status": 200,
+    "url": "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems",
+    "title": "46.2 Energy Flow through Ecosystems - Biology 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "selectionbeetles",
+    "status": 200,
+    "url": "https://openstax.org/books/biology-2e/pages/18-1-understanding-evolution",
+    "title": "18.1 Understanding Evolution - Biology 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "cellmap",
+    "status": 200,
+    "url": "https://openstax.org/books/biology-2e/pages/4-2-prokaryotic-cells",
+    "title": "4.2 Prokaryotic Cells - Biology 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "resistantpopulation",
+    "status": 200,
+    "url": "https://www.cdc.gov/antimicrobial-resistance/about/index.html",
+    "title": "About Antimicrobial Resistance | Antimicrobial Resistance | CDC",
+    "notfound": false
+  },
+  {
+    "key": "abomarkers",
+    "status": 200,
+    "url": "https://www.blood.co.uk/why-give-blood/blood-types/",
+    "title": "Blood types - NHS Blood Donation",
+    "notfound": false
+  },
+  {
+    "key": "phscale",
+    "status": 200,
+    "url": "https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+    "title": "14.2 pH and pOH - Chemistry 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "waterbonds",
+    "status": 200,
+    "url": "https://openstax.org/books/biology-2e/pages/2-2-water",
+    "title": "2.2 Water - Biology 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "redoxpair",
+    "status": 200,
+    "url": "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions",
+    "title": "4.2 Classifying Chemical Reactions - Chemistry 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "periodicmap",
+    "status": 200,
+    "url": "https://openstax.org/books/chemistry-2e/pages/2-5-the-periodic-table",
+    "title": "2.5 The Periodic Table - Chemistry 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "carbonbonds",
+    "status": 200,
+    "url": "https://openstax.org/books/chemistry-2e/pages/20-1-hydrocarbons",
+    "title": "20.1 Hydrocarbons - Chemistry 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "methaneflame",
+    "status": 200,
+    "url": "https://openstax.org/books/chemistry-2e/pages/4-1-writing-and-balancing-chemical-equations",
+    "title": "4.1 Writing and Balancing Chemical Equations - Chemistry 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "dynamicbalance",
+    "status": 200,
+    "url": "https://openstax.org/books/chemistry-2e/pages/13-1-chemical-equilibria",
+    "title": "13.1 Chemical Equilibria - Chemistry 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "eratosthenes",
+    "status": 200,
+    "url": "https://openstax.org/books/astronomy-2e/pages/2-2-ancient-astronomy",
+    "title": "2.2 Ancient Astronomy - Astronomy 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "mapprojection",
+    "status": 403,
+    "url": "https://www.usgs.gov/faqs/how-are-different-map-projections-used",
+    "title": "ERROR: The request could not be satisfied",
+    "notfound": false
+  },
+  {
+    "key": "maillardfood",
+    "status": 200,
+    "url": "https://cen.acs.org/articles/89/i47/Maillard-Reaction.html",
+    "title": "Maillard Reaction",
+    "notfound": false
+  },
+  {
+    "key": "circlepi",
+    "status": 200,
+    "url": "https://openstax.org/books/prealgebra-2e/pages/9-5-solve-geometry-applications-circles-and-irregular-figures",
+    "title": "9.5 Solve Geometry Applications: Circles and Irregular Figures - Prealgebra 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "meanmedian",
+    "status": 200,
+    "url": "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data",
+    "title": "2.5 Measures of the Center of the Data - Introductory Statistics 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "laserbeam",
+    "status": 200,
+    "url": "https://openstax.org/books/university-physics-volume-3/pages/8-6-lasers",
+    "title": "8.6 Lasers - University Physics Volume 3 | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "samplingmeans",
+    "status": 200,
+    "url": "https://openstax.org/books/introductory-statistics-2e/pages/4-2-mean-or-expected-value-and-standard-deviation",
+    "title": "4.2 Mean or Expected Value and Standard Deviation - Introductory Statistics 2e | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "moonweight",
+    "status": 200,
+    "url": "https://science.nasa.gov/moon/facts/",
+    "title": "Moon Facts - NASA Science",
+    "notfound": false
+  },
+  {
+    "key": "thermalcontact",
+    "status": 200,
+    "url": "https://openstax.org/books/university-physics-volume-2/pages/1-4-heat-transfer-specific-heat-and-calorimetry",
+    "title": "1.4 Heat Transfer, Specific Heat, and Calorimetry - University Physics Volume 2 | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "fridgecycle",
+    "status": 200,
+    "url": "https://openstax.org/books/university-physics-volume-2/pages/4-3-refrigerators-and-heat-pumps",
+    "title": "4.3 Refrigerators and Heat Pumps - University Physics Volume 2 | OpenStax",
+    "notfound": false
+  },
+  {
+    "key": "hotspring",
+    "status": 200,
+    "url": "https://www.nps.gov/articles/geothermal-systems-and-monitoring-hydrothermal-features.htm",
+    "title": "Monitoring Geothermal Systems and Hydrothermal Features (U.S. National Park Service)",
+    "notfound": false
+  },
+  {
+    "key": "oceancirculation",
+    "status": 200,
+    "url": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor1.html",
+    "title": "Thermohaline Circulation - Currents: NOAA's National Ocean Service Education",
+    "notfound": false
+  },
+  {
+    "key": "gravitydam",
+    "status": 200,
+    "url": "https://www.usbr.gov/library/glossary/",
+    "title": "Library | Bureau of Reclamation",
+    "notfound": false
+  },
+  {
+    "key": "passivelayer",
+    "status": 200,
+    "url": "https://worldstainless.org/about-stainless/properties/corrosion-properties/",
+    "title": "Corrosion properties - worldstainless",
+    "notfound": false
+  },
+  {
+    "key": "compositeply",
+    "status": 200,
+    "url": "https://spinoff.nasa.gov/node/9821",
+    "title": "Composite Materials | NASA Spinoff",
+    "notfound": false
+  },
+  {
+    "key": "graphenelattice",
+    "status": 200,
+    "url": "https://www.nobelprize.org/uploads/2018/06/popular-physicsprize2010-1.pdf",
+    "notfound": false
+  },
+  {
+    "key": "healingcapsule",
+    "status": 200,
+    "url": "https://www.repository.cam.ac.uk/items/9a2535a5-abd7-4fc7-a1cc-b8b098c863ce",
+    "title": "First UK field application and performance of microcapsule-based self-healing concrete",
+    "notfound": false
+  },
+  {
+    "key": "memoryalloy",
+    "error": "The operation was aborted due to timeout",
+    "url": "https://ntrs.nasa.gov/api/citations/20120016705/downloads/20120016705.pdf"
+  }
+]

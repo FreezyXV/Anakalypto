@@ -2,7 +2,7 @@
 
 ## Périmètre
 
-Objectif de lancement : environ **1 000 leçons publiées**. État du 12 novembre 2026 : **948 publiées, 965 schémas éditoriaux dans ces 948 leçons, 253 leçons avec un dessin spécifique**, dont 12 dessins ajoutés dans le dernier lot. Les brouillons restent exclus de la file ; aucun n’est créé, publié ou supprimé pour une illustration.
+Objectif de lancement : environ **1 000 leçons publiées**. État du 12 novembre 2026 : **948 publiées, 965 schémas éditoriaux dans ces 948 leçons, 283 leçons avec un dessin spécifique**, dont 30 dessins ajoutés dans le dernier lot. Les brouillons restent exclus de la file ; aucun n’est créé, publié ou supprimé pour une illustration.
 
 Une validation visuelle ne certifie pas à nouveau l’ensemble du contenu éditorial. Les dates de vérification des articles ne sont pas mises à jour par ce travail.
 
@@ -21,7 +21,7 @@ Table PostgreSQL/Prisma `ArticleIllustration`, une ligne unique par article, cr�
 
 L’API, les listes CLI et l’export calculent aussi `hasVisual`, `hasDrawing`, `hasInlineSchema`. **`hasVisual=true` si un schéma éditorial ou un dessin existe.** `WAITING_FOR_ILLUSTRATION` signifie ici « en attente de dessin spécifique » : ce n’est pas synonyme de leçon sans aucun visuel.
 
-Au dernier export : 948 schémas éditoriaux validés, 253 leçons avec dessin spécifique validé, aucun dessin restant à vérifier, 695 leçons sans dessin spécifique, **zéro leçon publiée sans aucun visuel**. Les 695 ne constituent donc pas une demande automatique de produire 695 images. La [revue des 191 associations existantes](../qa/existing-drawings/README.md) conserve 169 unités visuelles et corrige quatre schémas ; ses décisions sont enregistrées en base et exportées. Le [lot de douze sujets du corps humain](../qa/organs12/README.md) ajoute 36 vues commentées, relues à 1280 et 320 px, sans modifier les dessins précédents.
+Au dernier export : 948 schémas éditoriaux validés, 283 leçons avec dessin spécifique validé, aucun dessin restant à vérifier, 665 leçons sans dessin spécifique, **zéro leçon publiée sans aucun visuel**. Les 665 ne constituent donc pas une demande automatique de produire 665 images. La [revue des 191 associations existantes](../qa/existing-drawings/README.md) conserve 169 unités visuelles et corrige quatre schémas ; ses décisions sont enregistrées en base et exportées. Le [lot de douze sujets du corps humain](../qa/organs12/README.md) ajoute 36 vues commentées, relues à 1280 et 320 px, sans modifier les dessins précédents. Le [lot de trente sujets scientifiques](../qa/sciences30/README.md) ajoute ensuite 90 vues, avec recette complète aux deux formats et 132 tests isolés réussis.
 
 Conserver tout bon visuel existant. Avant un ajout, lire `show`, examiner le schéma présent et ne créer qu’un complément pédagogique utile. Une modification du texte, résumé, titre ou chemin conserve les références mais rouvre les validations ; une réservation fondée sur l’ancien texte ne peut plus être terminée. Les articles redevenus brouillons conservent leur historique et disparaissent des files actives.
 

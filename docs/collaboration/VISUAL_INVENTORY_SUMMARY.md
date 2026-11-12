@@ -7,10 +7,10 @@ Photographie du backend local exportée le 2026-11-12, sans audit du corpus. Auc
 | Leçons publiées                            |    948 |
 | Leçons avec schéma éditorial               |    948 |
 | Nombre de schémas éditoriaux               |    965 |
-| Leçons avec dessin ou atelier              |    253 |
+| Leçons avec dessin ou atelier              |    283 |
 | Sans aucun visuel                          |      0 |
-| Illustration incluse et vérifiée           |    253 |
-| En attente de dessin spécifique            |    695 |
+| Illustration incluse et vérifiée           |    283 |
+| En attente de dessin spécifique            |    665 |
 | À vérifier                                 |      0 |
 | À améliorer, défaut enregistré             |      0 |
 | Réservées, sous-ensemble non additionnable |      0 |
@@ -28,14 +28,14 @@ Photographie du backend local exportée le 2026-11-12, sans audit du corpus. Auc
 | environnement-et-climat            |       40 |     14 |           0 |          0 |          26 |
 | espace-et-astronomie               |       37 |     37 |           0 |          0 |           0 |
 | geographie-et-territoires          |       37 |      1 |           0 |          0 |          36 |
-| industries                         |       41 |     10 |           0 |          0 |          31 |
+| industries                         |       41 |     11 |           0 |          0 |          30 |
 | intelligence-artificielle          |       23 |     23 |           0 |          0 |           0 |
 | micro-informatique-et-informatique |       43 |      6 |           0 |          0 |          37 |
 | sciences-du-vivant-appliquees      |       46 |     11 |           0 |          0 |          35 |
-| sciences-fondamentales             |       67 |     25 |           0 |          0 |          42 |
+| sciences-fondamentales             |       67 |     49 |           0 |          0 |          18 |
 | sciences-humaines-et-sociales      |       58 |      1 |           0 |          0 |          57 |
 | sport-et-sciences-du-mouvement     |       36 |      0 |           0 |          0 |          36 |
-| technologies-et-ingenierie         |       44 |     15 |           0 |          0 |          29 |
+| technologies-et-ingenierie         |       44 |     20 |           0 |          0 |          24 |
 
 [Références complètes](VISUAL_INVENTORY.csv) · [Travail restant](VISUAL_BACKLOG.csv) · [États backend JSON](ILLUSTRATION_STATUS.json) · [Guide des agents](ILLUSTRATION_BACKEND.md).
 

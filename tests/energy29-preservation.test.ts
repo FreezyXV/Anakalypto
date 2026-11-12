@@ -1,3 +1,4 @@
+import { SCIENCES30_DIAGRAMS } from "../src/lib/lesson-visuals/sciences30";
 import { ORGANS_DIAGRAMS } from "../src/lib/lesson-visuals/organs";
 import { createElement } from "react";
 import { renderToStaticMarkup } from "react-dom/server";
@@ -10,7 +11,9 @@ import { PreviousLessonDiagramCanvas } from "./fixtures/PreviousLessonDiagramCan
 
 it("preserves the exact markup of every previously delivered diagram in all three states", () => {
   const added = new Set<string>(
-    [...ENERGY29_DIAGRAMS, ...BATCH50_DIAGRAMS, ...ORGANS_DIAGRAMS].map((s) => s.id),
+    [...ENERGY29_DIAGRAMS, ...BATCH50_DIAGRAMS, ...ORGANS_DIAGRAMS, ...SCIENCES30_DIAGRAMS].map(
+      (s) => s.id,
+    ),
   );
   const previous = LESSON_DIAGRAMS.filter((s) => !added.has(s.id));
   expect(previous.length).toBeGreaterThan(100);
