@@ -5,23 +5,29 @@ export function EngineeringDrawing({ kind, step, id }: Props) {
   if (kind === "lift")
     return (
       <>
-        {[65, 100, 143].map((y, i) => (
+        {[
+          `M20 61H78Q140 ${33 - step * 2} 210 ${65 + step * 3}T340 ${95 + step * 5}`,
+          step === 2
+            ? "M20 100H66Q96 90 117 65C155 33 211 60 235 83C270 110 310 104 340 112"
+            : step === 1
+              ? "M20 100H64Q92 97 110 82C156 55 213 86 252 125Q292 159 340 163"
+              : "M20 100H70Q95 100 110 92C145 75 207 85 240 107Q292 142 340 145",
+          `M20 153H96Q160 ${158 + step * 2} 260 ${159 + step * 4}T340 ${168 + step * 4}`,
+        ].map((d, i) => (
           <path
-            key={y}
-            d={
-              step === 2
-                ? `M20 ${y}H98Q124 ${y - 12} 150 ${y - 30}Q187 ${y - 38} 211 ${y - 11}T340 ${y + 18}`
-                : `M20 ${y}H98Q160 ${y - 34 - step * 7} 219 ${y - 2}T340 ${y + 36}`
-            }
+            key={i}
+            d={d}
             fill="none"
             stroke={blue}
             strokeWidth={i === 1 ? 3 : 2}
             opacity={i === 1 ? 1 : 0.55}
           />
         ))}
+        {/* Air flows right: SVG clockwise rotation raises the leading edge. */}
         <path
+          data-airfoil="lift"
           d="M98 130Q140 91 192 110L276 135Q178 147 98 130Z"
-          transform={`rotate(${-step * 7} 180 125)`}
+          transform={`rotate(${step * 7} 180 125)`}
           fill={`url(#${id}-metal)`}
           stroke={ink}
           strokeWidth="2"
@@ -36,7 +42,13 @@ export function EngineeringDrawing({ kind, step, id }: Props) {
               strokeWidth="2"
             />
           ))}
-        <Arrow x1={185} y1={93} x2={185} y2={step === 2 ? 70 : 42} color={green} />
+        <Arrow
+          x1={185}
+          y1={93}
+          x2={185}
+          y2={step === 2 ? 70 : step === 1 ? 34 : 42}
+          color={green}
+        />
         <Label x={183} y={28} color={green}>
           Portance
         </Label>
@@ -193,7 +205,14 @@ export function EngineeringDrawing({ kind, step, id }: Props) {
     return (
       <>
         <rect x="17" y="79" width="89" height="98" fill={`url(#${id}-water)`} />
-        <rect x="106" y={level} width="148" height={177 - level} fill={`url(#${id}-water)`} />
+        <rect
+          data-lock-water="chamber"
+          x="106"
+          y={level}
+          width="148"
+          height={177 - level}
+          fill={`url(#${id}-water)`}
+        />
         <rect x="254" y="139" width="89" height="38" fill={`url(#${id}-water)`} />
         <path d="M17 177H343" stroke="#929eab" strokeWidth="10" fill="none" />
         <path
@@ -203,7 +222,8 @@ export function EngineeringDrawing({ kind, step, id }: Props) {
           strokeDasharray={step === 2 ? "4 5" : undefined}
         />
         <path
-          d="M254 139V169"
+          data-lock-gate="downstream"
+          d="M254 79V169"
           stroke={step === 0 ? "#c7dce8" : ink}
           strokeWidth={step === 0 ? 2 : 7}
           strokeDasharray={step === 0 ? "4 5" : undefined}
@@ -400,9 +420,13 @@ export function EngineeringDrawing({ kind, step, id }: Props) {
         <Label x={61} y={30}>
           Mélange
         </Label>
-        <Label x={283} y={56}>
-          Eau séparée
+        <Label x={283} y={45}>
+          Eau de
         </Label>
+        <Label x={283} y={66}>
+          refroidissement
+        </Label>
+        <path d="M283 74L239 120" stroke={blue} strokeWidth="1" />
         <Label x={264} y={199}>
           {step === 2 ? "Distillat enrichi" : "Condenseur"}
         </Label>

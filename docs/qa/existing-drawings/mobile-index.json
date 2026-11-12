@@ -1,0 +1,292 @@
+[
+  {
+    "page": 0,
+    "file": "mobile-00.jpg",
+    "units": ["schema:windtunnel", "schema:boundary", "schema:sonicboom", "schema:glide"]
+  },
+  {
+    "page": 1,
+    "file": "mobile-01.jpg",
+    "units": ["schema:transonic", "schema:helicopter", "schema:lift", "schema:flaps"]
+  },
+  {
+    "page": 2,
+    "file": "mobile-02.jpg",
+    "units": ["schema:winglet", "schema:icing", "schema:drag", "schema:certification"]
+  },
+  {
+    "page": 3,
+    "file": "mobile-03.jpg",
+    "units": ["schema:saf", "schema:zeroe", "schema:tcas", "schema:investigation"]
+  },
+  {
+    "page": 4,
+    "file": "mobile-04.jpg",
+    "units": ["schema:recorders", "schema:turbulence", "schema:airrates", "schema:adsb"]
+  },
+  {
+    "page": 5,
+    "file": "mobile-05.jpg",
+    "units": [
+      "schema:aircontrol",
+      "atelier:le-pilote-qui-corrige",
+      "schema:reckoning",
+      "schema:attitude"
+    ]
+  },
+  {
+    "page": 6,
+    "file": "mobile-06.jpg",
+    "units": ["schema:sixpack", "schema:inertial", "schema:aeroengine", "schema:magnetos"]
+  },
+  {
+    "page": 7,
+    "file": "mobile-07.jpg",
+    "units": ["schema:electricair", "schema:hydrogenair", "schema:scooper", "schema:turboprop"]
+  },
+  {
+    "page": 8,
+    "file": "mobile-08.jpg",
+    "units": ["schema:landingbrakes", "schema:jet", "atelier:le-pain-qui-gonfle", "schema:timbre"]
+  },
+  {
+    "page": 9,
+    "file": "mobile-09.jpg",
+    "units": [
+      "schema:engraving",
+      "atelier:la-couleur-dans-le-mur",
+      "schema:perspective",
+      "schema:camera"
+    ]
+  },
+  {
+    "page": 10,
+    "file": "mobile-10.jpg",
+    "units": ["schema:printing", "schema:battery", "atelier:les-quatre-temps", "atelier:le-turbo"]
+  },
+  {
+    "page": 11,
+    "file": "mobile-11.jpg",
+    "units": ["schema:colourtv", "schema:wirelessmorse", "schema:crystalradio", "schema:broadcast"]
+  },
+  {
+    "page": 12,
+    "file": "mobile-12.jpg",
+    "units": ["schema:shortwave", "schema:fibre", "atelier:la-voix-dans-le-fil", "schema:neuron"]
+  },
+  {
+    "page": 13,
+    "file": "mobile-13.jpg",
+    "units": ["schema:alveoli", "schema:cogeneration", "schema:glazing", "schema:led"]
+  },
+  {
+    "page": 14,
+    "file": "mobile-14.jpg",
+    "units": ["schema:heatpump", "schema:rebound", "schema:insulation", "schema:thermalmass"]
+  },
+  {
+    "page": 15,
+    "file": "mobile-15.jpg",
+    "units": ["schema:firewood", "schema:energychain", "schema:standby", "schema:pyrolysis"]
+  },
+  {
+    "page": 16,
+    "file": "mobile-16.jpg",
+    "units": ["schema:refinery", "schema:fission", "schema:nuclearwaste", "schema:fusion"]
+  },
+  {
+    "page": 17,
+    "file": "mobile-17.jpg",
+    "units": ["schema:wind", "schema:windmill", "schema:hydro", "schema:watermill"]
+  },
+  {
+    "page": 18,
+    "file": "mobile-18.jpg",
+    "units": ["schema:solar", "schema:solaroven", "schema:agrivoltaic", "schema:csp"]
+  },
+  {
+    "page": 19,
+    "file": "mobile-19.jpg",
+    "units": ["schema:leadacid", "schema:compressedair", "schema:flowbattery", "schema:gridbattery"]
+  },
+  {
+    "page": 20,
+    "file": "mobile-20.jpg",
+    "units": [
+      "schema:voltapile",
+      "schema:fuelcell",
+      "schema:electrolyser",
+      "atelier:le-voyage-de-l-electricite"
+    ]
+  },
+  {
+    "page": 21,
+    "file": "mobile-21.jpg",
+    "units": ["schema:duckcurve", "schema:gridcascade", "schema:demandshift", "schema:greenhouse"]
+  },
+  {
+    "page": 22,
+    "file": "mobile-22.jpg",
+    "units": [
+      "atelier:la-bouteille-qui-revient",
+      "schema:groundwater",
+      "schema:expansion",
+      "schema:lensing"
+    ]
+  },
+  {
+    "page": 23,
+    "file": "mobile-23.jpg",
+    "units": ["schema:interferometer", "schema:starbirth", "schema:aurora", "schema:starlife"]
+  },
+  {
+    "page": 24,
+    "file": "mobile-24.jpg",
+    "units": ["schema:polaris", "schema:blackhole", "schema:gps", "schema:orbit"]
+  },
+  {
+    "page": 25,
+    "file": "mobile-25.jpg",
+    "units": ["schema:heliosphere", "schema:webb", "schema:moonflight", "schema:isslife"]
+  },
+  {
+    "page": 26,
+    "file": "mobile-26.jpg",
+    "units": ["schema:readaptation", "schema:microlensing", "schema:infrared", "schema:sundial"]
+  },
+  {
+    "page": 27,
+    "file": "mobile-27.jpg",
+    "units": ["schema:transmission", "schema:transit", "schema:lens", "schema:skyglow"]
+  },
+  {
+    "page": 28,
+    "file": "mobile-28.jpg",
+    "units": [
+      "schema:adaptiveoptics",
+      "schema:lunation",
+      "schema:tides",
+      "atelier:la-lune-et-nos-points-de-vue"
+    ]
+  },
+  {
+    "page": 29,
+    "file": "mobile-29.jpg",
+    "units": ["schema:eclipse", "schema:smallbodies", "schema:comet", "schema:meteors"]
+  },
+  {
+    "page": 30,
+    "file": "mobile-30.jpg",
+    "units": [
+      "schema:planets",
+      "schema:saturnrings",
+      "atelier:un-axe-deux-saisons",
+      "schema:habitable"
+    ]
+  },
+  {
+    "page": 31,
+    "file": "mobile-31.jpg",
+    "units": [
+      "atelier:naissance-d-un-cyclone",
+      "atelier:de-la-pate-a-la-feuille",
+      "schema:barcode",
+      "schema:golearning"
+    ]
+  },
+  {
+    "page": 32,
+    "file": "mobile-32.jpg",
+    "units": [
+      "schema:arcadelearning",
+      "schema:exploration",
+      "schema:convolution",
+      "schema:recurrent"
+    ]
+  },
+  {
+    "page": 33,
+    "file": "mobile-33.jpg",
+    "units": ["schema:gradient", "schema:expertinference", "schema:overfitting", "schema:biasloop"]
+  },
+  {
+    "page": 34,
+    "file": "mobile-34.jpg",
+    "units": ["schema:facematching", "schema:aiact", "schema:assistive", "schema:robotaction"]
+  },
+  {
+    "page": 35,
+    "file": "mobile-35.jpg",
+    "units": ["schema:worktasks", "schema:justiceai", "schema:syntheticmedia", "schema:diffusion"]
+  },
+  {
+    "page": 36,
+    "file": "mobile-36.jpg",
+    "units": [
+      "schema:multimodal",
+      "schema:hallucination",
+      "schema:retrieval",
+      "schema:visionlanguage"
+    ]
+  },
+  {
+    "page": 37,
+    "file": "mobile-37.jpg",
+    "units": ["schema:localmodel", "schema:attention", "schema:binary", "schema:pixels"]
+  },
+  {
+    "page": 38,
+    "file": "mobile-38.jpg",
+    "units": [
+      "schema:sorting",
+      "schema:cpu",
+      "atelier:les-donnees-dans-l-air",
+      "atelier:naissance-d-un-sol"
+    ]
+  },
+  {
+    "page": 39,
+    "file": "mobile-39.jpg",
+    "units": [
+      "atelier:feuille-et-lumiere",
+      "schema:dna",
+      "schema:saponification",
+      "atelier:savon-et-graisse"
+    ]
+  },
+  {
+    "page": 40,
+    "file": "mobile-40.jpg",
+    "units": [
+      "schema:distillation",
+      "schema:probability",
+      "schema:induction",
+      "atelier:allumer-une-lampe"
+    ]
+  },
+  {
+    "page": 41,
+    "file": "mobile-41.jpg",
+    "units": [
+      "schema:pendulum",
+      "atelier:le-bateau-et-l-eau-deplacee",
+      "schema:tectonics",
+      "schema:radiocarbon"
+    ]
+  },
+  {
+    "page": 42,
+    "file": "mobile-42.jpg",
+    "units": [
+      "schema:lock",
+      "schema:arch",
+      "atelier:un-petit-effort-un-grand-levier",
+      "schema:hydraulic"
+    ]
+  },
+  {
+    "page": 43,
+    "file": "mobile-43.jpg",
+    "units": ["atelier:deux-roues-deux-vitesses"]
+  }
+]

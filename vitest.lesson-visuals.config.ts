@@ -16,6 +16,7 @@ export default defineConfig({
       "tests/batch50.test.ts",
       "tests/schemas.test.ts",
       "tests/energy29-preservation.test.ts",
+      "tests/existing-drawings-review.test.ts",
     ],
   },
   resolve: { alias: { "@": fileURLToPath(new URL("./src", import.meta.url)) } },

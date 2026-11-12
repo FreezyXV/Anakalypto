@@ -1,0 +1,1563 @@
+[
+  {
+    "key": "schema:windtunnel",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-00.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-00.jpg"
+  },
+  {
+    "key": "schema:boundary",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-00.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-00.jpg"
+  },
+  {
+    "key": "schema:sonicboom",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-00.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-00.jpg"
+  },
+  {
+    "key": "schema:glide",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-00.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-00.jpg"
+  },
+  {
+    "key": "schema:transonic",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-01.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-01.jpg"
+  },
+  {
+    "key": "schema:helicopter",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-01.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-01.jpg"
+  },
+  {
+    "key": "schema:flaps",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-01.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-01.jpg"
+  },
+  {
+    "key": "schema:winglet",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-02.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-01.jpg"
+  },
+  {
+    "key": "schema:icing",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-02.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-02.jpg"
+  },
+  {
+    "key": "schema:drag",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-02.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-02.jpg"
+  },
+  {
+    "key": "schema:certification",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-02.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-02.jpg"
+  },
+  {
+    "key": "schema:saf",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-03.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-02.jpg"
+  },
+  {
+    "key": "schema:zeroe",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-03.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-03.jpg"
+  },
+  {
+    "key": "schema:tcas",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-03.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-03.jpg"
+  },
+  {
+    "key": "schema:investigation",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-03.jpg",
+    "notes": "Correspondance au sujet et aux légendes contrôlée dans les trois états ; aucune incohérence visuelle observée.",
+    "mobileSheet": "mobile-03.jpg"
+  },
+  {
+    "key": "schema:lift",
+    "decision": "fixed",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-01.jpg",
+    "notes": "Incidence accrue dessinée dans le mauvais sens : rotation négative avec un air relatif allant vers la droite. Corriger le profil et son écoulement, puis recapturer. Correction réalisée ; trois états revus sur ordinateur et à 320 px, commandes réessayées au clavier.",
+    "mobileSheet": "mobile-03.jpg",
+    "afterDesktopSheet": "desktop-after-lift.jpg"
+  },
+  {
+    "key": "schema:recorders",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-04.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-04.jpg"
+  },
+  {
+    "key": "schema:turbulence",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-04.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-04.jpg"
+  },
+  {
+    "key": "schema:airrates",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-04.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-04.jpg"
+  },
+  {
+    "key": "schema:adsb",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-04.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-04.jpg"
+  },
+  {
+    "key": "schema:aircontrol",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-05.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-05.jpg"
+  },
+  {
+    "key": "atelier:le-pilote-qui-corrige",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-05.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-05.jpg"
+  },
+  {
+    "key": "schema:reckoning",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-05.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-05.jpg"
+  },
+  {
+    "key": "schema:attitude",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-05.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-05.jpg"
+  },
+  {
+    "key": "schema:sixpack",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-06.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-06.jpg"
+  },
+  {
+    "key": "schema:inertial",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-06.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-06.jpg"
+  },
+  {
+    "key": "schema:aeroengine",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-06.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-06.jpg"
+  },
+  {
+    "key": "schema:magnetos",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-06.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-06.jpg"
+  },
+  {
+    "key": "schema:electricair",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-07.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-07.jpg"
+  },
+  {
+    "key": "schema:hydrogenair",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-07.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-07.jpg"
+  },
+  {
+    "key": "schema:scooper",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-07.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-07.jpg"
+  },
+  {
+    "key": "schema:turboprop",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-07.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-07.jpg"
+  },
+  {
+    "key": "schema:landingbrakes",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-08.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-08.jpg"
+  },
+  {
+    "key": "schema:jet",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-08.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-08.jpg"
+  },
+  {
+    "key": "atelier:le-pain-qui-gonfle",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-08.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-08.jpg"
+  },
+  {
+    "key": "schema:timbre",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-08.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-08.jpg"
+  },
+  {
+    "key": "schema:engraving",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-09.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-09.jpg"
+  },
+  {
+    "key": "atelier:la-couleur-dans-le-mur",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-09.jpg",
+    "notes": "Dessin correct : CO2 entrant, carbonation puis pigments fixés. Le résumé de l’article a réintroduit « En séchant » : copie éditoriale à clarifier, sans refaire le dessin.",
+    "mobileSheet": "mobile-09.jpg"
+  },
+  {
+    "key": "schema:perspective",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-09.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-09.jpg"
+  },
+  {
+    "key": "schema:camera",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-09.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-09.jpg"
+  },
+  {
+    "key": "schema:printing",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-10.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-10.jpg"
+  },
+  {
+    "key": "schema:battery",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-10.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-10.jpg"
+  },
+  {
+    "key": "atelier:les-quatre-temps",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-10.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-10.jpg"
+  },
+  {
+    "key": "atelier:le-turbo",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-10.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-10.jpg"
+  },
+  {
+    "key": "schema:colourtv",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-11.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-11.jpg"
+  },
+  {
+    "key": "schema:wirelessmorse",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-11.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-11.jpg"
+  },
+  {
+    "key": "schema:crystalradio",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-11.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-11.jpg"
+  },
+  {
+    "key": "schema:broadcast",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-11.jpg",
+    "notes": "Trois états (ou toutes les phases/variantes de l’atelier) examinés ; mécanisme et légendes cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-11.jpg"
+  },
+  {
+    "key": "schema:shortwave",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-12.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-12.jpg"
+  },
+  {
+    "key": "schema:fibre",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-12.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-12.jpg"
+  },
+  {
+    "key": "atelier:la-voix-dans-le-fil",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-12.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-12.jpg"
+  },
+  {
+    "key": "schema:neuron",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-12.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-12.jpg"
+  },
+  {
+    "key": "schema:alveoli",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-13.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-13.jpg"
+  },
+  {
+    "key": "schema:cogeneration",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-13.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-13.jpg"
+  },
+  {
+    "key": "schema:glazing",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-13.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-13.jpg"
+  },
+  {
+    "key": "schema:led",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-13.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-13.jpg"
+  },
+  {
+    "key": "schema:heatpump",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-14.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-14.jpg"
+  },
+  {
+    "key": "schema:rebound",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-14.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-14.jpg"
+  },
+  {
+    "key": "schema:insulation",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-14.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-14.jpg"
+  },
+  {
+    "key": "schema:thermalmass",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-14.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-14.jpg"
+  },
+  {
+    "key": "schema:firewood",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-15.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-15.jpg"
+  },
+  {
+    "key": "schema:energychain",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-15.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-15.jpg"
+  },
+  {
+    "key": "schema:standby",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-15.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-15.jpg"
+  },
+  {
+    "key": "schema:pyrolysis",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-15.jpg",
+    "notes": "Trajets, échanges et légendes examinés dans les trois états. Les exemples chiffrés restent explicitement fictifs ; pas de défaut observé.",
+    "mobileSheet": "mobile-15.jpg"
+  },
+  {
+    "key": "schema:refinery",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-16.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-16.jpg"
+  },
+  {
+    "key": "schema:fission",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-16.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-16.jpg"
+  },
+  {
+    "key": "schema:nuclearwaste",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-16.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-16.jpg"
+  },
+  {
+    "key": "schema:fusion",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-16.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-16.jpg"
+  },
+  {
+    "key": "schema:wind",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-17.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-17.jpg"
+  },
+  {
+    "key": "schema:windmill",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-17.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-17.jpg"
+  },
+  {
+    "key": "schema:hydro",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-17.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-17.jpg"
+  },
+  {
+    "key": "schema:watermill",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-17.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-17.jpg"
+  },
+  {
+    "key": "schema:solar",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-18.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-18.jpg"
+  },
+  {
+    "key": "schema:solaroven",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-18.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-18.jpg"
+  },
+  {
+    "key": "schema:agrivoltaic",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-18.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-18.jpg"
+  },
+  {
+    "key": "schema:csp",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-18.jpg",
+    "notes": "Vérification du modèle mirrorEndpoints : les miroirs ont déjà des orientations distinctes calculées par réflexion vers le récepteur. Loi de réflexion couverte par le test indépendant energy29-models ; aucune retouche nécessaire.",
+    "mobileSheet": "mobile-18.jpg"
+  },
+  {
+    "key": "schema:leadacid",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-19.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-19.jpg"
+  },
+  {
+    "key": "schema:compressedair",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-19.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-19.jpg"
+  },
+  {
+    "key": "schema:flowbattery",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-19.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-19.jpg"
+  },
+  {
+    "key": "schema:gridbattery",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-19.jpg",
+    "notes": "Tous les états examinés ; conversions, boucles et proportions pédagogiques cohérentes, sans défaut observé.",
+    "mobileSheet": "mobile-19.jpg"
+  },
+  {
+    "key": "schema:voltapile",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-20.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-20.jpg"
+  },
+  {
+    "key": "schema:fuelcell",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-20.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-20.jpg"
+  },
+  {
+    "key": "schema:electrolyser",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-20.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-20.jpg"
+  },
+  {
+    "key": "atelier:le-voyage-de-l-electricite",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-20.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-20.jpg"
+  },
+  {
+    "key": "schema:duckcurve",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-21.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-21.jpg"
+  },
+  {
+    "key": "schema:gridcascade",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-21.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-21.jpg"
+  },
+  {
+    "key": "schema:demandshift",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-21.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-21.jpg"
+  },
+  {
+    "key": "schema:greenhouse",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-21.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-21.jpg"
+  },
+  {
+    "key": "atelier:la-bouteille-qui-revient",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-22.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-22.jpg"
+  },
+  {
+    "key": "schema:groundwater",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-22.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-22.jpg"
+  },
+  {
+    "key": "schema:expansion",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-22.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-22.jpg"
+  },
+  {
+    "key": "schema:lensing",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-22.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-22.jpg"
+  },
+  {
+    "key": "schema:interferometer",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-23.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-23.jpg"
+  },
+  {
+    "key": "schema:starbirth",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-23.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-23.jpg"
+  },
+  {
+    "key": "schema:aurora",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-23.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-23.jpg"
+  },
+  {
+    "key": "schema:starlife",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-23.jpg",
+    "notes": "Trajets, signes, rapports et légendes examinés dans tous les états affichés ; correspondance aux leçons associées conservée.",
+    "mobileSheet": "mobile-23.jpg"
+  },
+  {
+    "key": "schema:polaris",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-24.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-24.jpg"
+  },
+  {
+    "key": "schema:blackhole",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-24.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-24.jpg"
+  },
+  {
+    "key": "schema:gps",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-24.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-24.jpg"
+  },
+  {
+    "key": "schema:orbit",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-24.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-24.jpg"
+  },
+  {
+    "key": "schema:heliosphere",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-25.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-25.jpg"
+  },
+  {
+    "key": "schema:webb",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-25.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-25.jpg"
+  },
+  {
+    "key": "schema:moonflight",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-25.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-25.jpg"
+  },
+  {
+    "key": "schema:isslife",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-25.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-25.jpg"
+  },
+  {
+    "key": "schema:readaptation",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-26.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-26.jpg"
+  },
+  {
+    "key": "schema:microlensing",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-26.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-26.jpg"
+  },
+  {
+    "key": "schema:infrared",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-26.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-26.jpg"
+  },
+  {
+    "key": "schema:sundial",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-26.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-26.jpg"
+  },
+  {
+    "key": "schema:transmission",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-27.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-27.jpg"
+  },
+  {
+    "key": "schema:transit",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-27.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-27.jpg"
+  },
+  {
+    "key": "schema:lens",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-27.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-27.jpg"
+  },
+  {
+    "key": "schema:skyglow",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-27.jpg",
+    "notes": "Les trois vues et leur correspondance au sujet sont contrôlées : directions, repères et limites pédagogiques cohérents. Aucun dessin refait.",
+    "mobileSheet": "mobile-27.jpg"
+  },
+  {
+    "key": "schema:adaptiveoptics",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-28.jpg",
+    "notes": "Sujet général du diamètre/résolution : la section « Corriger l’atmosphère » de l’article décrit bien cette boucle. Dessin conservé, fronts d’onde distincts des rayons lumineux.",
+    "mobileSheet": "mobile-28.jpg"
+  },
+  {
+    "key": "schema:lunation",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-28.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-28.jpg"
+  },
+  {
+    "key": "schema:tides",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-28.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-28.jpg"
+  },
+  {
+    "key": "atelier:la-lune-et-nos-points-de-vue",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-28.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-28.jpg"
+  },
+  {
+    "key": "schema:eclipse",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-29.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-29.jpg"
+  },
+  {
+    "key": "schema:smallbodies",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-29.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-29.jpg"
+  },
+  {
+    "key": "schema:comet",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-29.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-29.jpg"
+  },
+  {
+    "key": "schema:meteors",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-29.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-29.jpg"
+  },
+  {
+    "key": "schema:planets",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-30.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-30.jpg"
+  },
+  {
+    "key": "schema:saturnrings",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-30.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-30.jpg"
+  },
+  {
+    "key": "atelier:un-axe-deux-saisons",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-30.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-30.jpg"
+  },
+  {
+    "key": "schema:habitable",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-30.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-30.jpg"
+  },
+  {
+    "key": "atelier:naissance-d-un-cyclone",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-31.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-31.jpg"
+  },
+  {
+    "key": "atelier:de-la-pate-a-la-feuille",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-31.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-31.jpg"
+  },
+  {
+    "key": "schema:barcode",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-31.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-31.jpg"
+  },
+  {
+    "key": "schema:golearning",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-31.jpg",
+    "notes": "États, phases ou variantes examinés ; repères, sens et limites de la représentation cohérents avec les leçons associées.",
+    "mobileSheet": "mobile-31.jpg"
+  },
+  {
+    "key": "schema:arcadelearning",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-32.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-32.jpg"
+  },
+  {
+    "key": "schema:exploration",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-32.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-32.jpg"
+  },
+  {
+    "key": "schema:convolution",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-32.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-32.jpg"
+  },
+  {
+    "key": "schema:recurrent",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-32.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-32.jpg"
+  },
+  {
+    "key": "schema:gradient",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-33.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-33.jpg"
+  },
+  {
+    "key": "schema:expertinference",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-33.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-33.jpg"
+  },
+  {
+    "key": "schema:overfitting",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-33.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-33.jpg"
+  },
+  {
+    "key": "schema:biasloop",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-33.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-33.jpg"
+  },
+  {
+    "key": "schema:facematching",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-34.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-34.jpg"
+  },
+  {
+    "key": "schema:aiact",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-34.jpg",
+    "notes": "Repères légaux confirmés sur le service officiel de la Commission (articles 5, 6, 14, 50, annexe III), version consolidée 2026 : notation sociale conditionnelle, recrutement encadré, transparence ciblée. Dessin conservé.",
+    "mobileSheet": "mobile-34.jpg"
+  },
+  {
+    "key": "schema:assistive",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-34.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-34.jpg"
+  },
+  {
+    "key": "schema:robotaction",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-34.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-34.jpg"
+  },
+  {
+    "key": "schema:worktasks",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-35.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-35.jpg"
+  },
+  {
+    "key": "schema:justiceai",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-35.jpg",
+    "notes": "Article L111-13 en vigueur sur Légifrance relu : interdiction ciblée de réutilisation des identités des magistrats et membres du greffe pour profiler leurs pratiques. Dessin conservé.",
+    "mobileSheet": "mobile-35.jpg"
+  },
+  {
+    "key": "schema:syntheticmedia",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-35.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-35.jpg"
+  },
+  {
+    "key": "schema:diffusion",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-35.jpg",
+    "notes": "Images, nombres fictifs et flux de données examinés ; distinctions correctement représentées dans les trois états.",
+    "mobileSheet": "mobile-35.jpg"
+  },
+  {
+    "key": "schema:multimodal",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-36.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-36.jpg"
+  },
+  {
+    "key": "schema:hallucination",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-36.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-36.jpg"
+  },
+  {
+    "key": "schema:retrieval",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-36.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-36.jpg"
+  },
+  {
+    "key": "schema:visionlanguage",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-36.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-36.jpg"
+  },
+  {
+    "key": "schema:localmodel",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-37.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-37.jpg"
+  },
+  {
+    "key": "schema:attention",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-37.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-37.jpg"
+  },
+  {
+    "key": "schema:binary",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-37.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-37.jpg"
+  },
+  {
+    "key": "schema:pixels",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-37.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-37.jpg"
+  },
+  {
+    "key": "schema:sorting",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-38.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-38.jpg"
+  },
+  {
+    "key": "schema:cpu",
+    "decision": "fixed",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-38.jpg",
+    "notes": "Les deux opérandes sont écrits « 2 · 3 » mais l’ALU additionne et donne 5. Remplacer le séparateur ambigu par « 2 et 3 » ; conserver la chaîne lire/décoder/calculer/ranger. Correction réalisée ; trois états revus sur ordinateur et à 320 px, commandes réessayées au clavier.",
+    "mobileSheet": "mobile-38.jpg",
+    "afterDesktopSheet": "desktop-after-38.jpg"
+  },
+  {
+    "key": "atelier:les-donnees-dans-l-air",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-38.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-38.jpg"
+  },
+  {
+    "key": "atelier:naissance-d-un-sol",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-38.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-38.jpg"
+  },
+  {
+    "key": "atelier:feuille-et-lumiere",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-39.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-39.jpg"
+  },
+  {
+    "key": "schema:dna",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-39.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-39.jpg"
+  },
+  {
+    "key": "schema:saponification",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-39.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-39.jpg"
+  },
+  {
+    "key": "atelier:savon-et-graisse",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-39.jpg",
+    "notes": "Trois états ou toutes les variantes examinés ; correspondance, directions et quantités cohérentes, dessin conservé.",
+    "mobileSheet": "mobile-39.jpg"
+  },
+  {
+    "key": "schema:distillation",
+    "decision": "fixed",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-40.jpg",
+    "notes": "Remplacer « Eau séparée » par « Eau de refroidissement », avec un repère vers la chemise du condenseur ; le distillat reste identifié dans son récipient. Correction réalisée ; trois états revus sur ordinateur et à 320 px, commandes réessayées au clavier.",
+    "mobileSheet": "mobile-40.jpg",
+    "afterDesktopSheet": "desktop-after-40.jpg"
+  },
+  {
+    "key": "schema:probability",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-40.jpg",
+    "notes": "Toutes les vues examinées : quantités, directions et états cohérents ; dessin conservé.",
+    "mobileSheet": "mobile-40.jpg"
+  },
+  {
+    "key": "schema:induction",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-40.jpg",
+    "notes": "Toutes les vues examinées : quantités, directions et états cohérents ; dessin conservé.",
+    "mobileSheet": "mobile-40.jpg"
+  },
+  {
+    "key": "atelier:allumer-une-lampe",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-40.jpg",
+    "notes": "Toutes les vues examinées : quantités, directions et états cohérents ; dessin conservé.",
+    "mobileSheet": "mobile-40.jpg"
+  },
+  {
+    "key": "schema:pendulum",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-41.jpg",
+    "notes": "Toutes les vues examinées : quantités, directions et états cohérents ; dessin conservé.",
+    "mobileSheet": "mobile-41.jpg"
+  },
+  {
+    "key": "atelier:le-bateau-et-l-eau-deplacee",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-41.jpg",
+    "notes": "Toutes les vues examinées : quantités, directions et états cohérents ; dessin conservé.",
+    "mobileSheet": "mobile-41.jpg"
+  },
+  {
+    "key": "schema:tectonics",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-41.jpg",
+    "notes": "Toutes les vues examinées : quantités, directions et états cohérents ; dessin conservé.",
+    "mobileSheet": "mobile-41.jpg"
+  },
+  {
+    "key": "schema:radiocarbon",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-41.jpg",
+    "notes": "Toutes les vues examinées : quantités, directions et états cohérents ; dessin conservé.",
+    "mobileSheet": "mobile-41.jpg"
+  },
+  {
+    "key": "schema:lock",
+    "decision": "fixed",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-42.jpg",
+    "notes": "La porte aval fermée s’arrête au niveau aval (y=138), sous le niveau du sas rempli (y=78/108). Rehausser la porte fermée jusqu’au niveau amont pour retenir l’eau. Correction réalisée ; trois états revus sur ordinateur et à 320 px, commandes réessayées au clavier.",
+    "mobileSheet": "mobile-42.jpg",
+    "afterDesktopSheet": "desktop-after-42.jpg"
+  },
+  {
+    "key": "schema:arch",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-42.jpg",
+    "notes": "Toutes les vues examinées : quantités, directions et états cohérents ; dessin conservé.",
+    "mobileSheet": "mobile-42.jpg"
+  },
+  {
+    "key": "atelier:un-petit-effort-un-grand-levier",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-42.jpg",
+    "notes": "Toutes les vues examinées : quantités, directions et états cohérents ; dessin conservé.",
+    "mobileSheet": "mobile-42.jpg"
+  },
+  {
+    "key": "schema:hydraulic",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-42.jpg",
+    "notes": "Toutes les vues examinées : quantités, directions et états cohérents ; dessin conservé.",
+    "mobileSheet": "mobile-42.jpg"
+  },
+  {
+    "key": "atelier:deux-roues-deux-vitesses",
+    "decision": "keep",
+    "desktopReviewed": true,
+    "mobileReviewed": true,
+    "desktopSheet": "desktop-43.jpg",
+    "notes": "Toutes les vues examinées : quantités, directions et états cohérents ; dessin conservé.",
+    "mobileSheet": "mobile-43.jpg"
+  }
+]

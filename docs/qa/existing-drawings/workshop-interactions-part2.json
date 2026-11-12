@@ -1,0 +1,122 @@
+[
+  {
+    "index": 124,
+    "kind": "toggle",
+    "first": "La mer froide s’évapore aussi, mais fournit moins d’énergie. Le dessin ne représente pas de cyclone alimenté dans cet état.",
+    "last": "L’air humide monte autour de l’œil. La condensation libère de la chaleur. L’œil est une colonne dégagée avec de l’air descendant ; à gauche, la rotation est vue du dessus dans l’hémisphère nord. D’autres conditions sont nécessaires.",
+    "referenceStable": true,
+    "scenes": 2,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 125,
+    "kind": "range",
+    "first": "Des fibres sont dispersées dans beaucoup d’eau.",
+    "last": "La feuille presque sèche est enroulée en bobine.",
+    "referenceStable": true,
+    "scenes": 0,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 154,
+    "kind": "toggle",
+    "first": "La box contient des données, mais son émetteur Wi-Fi est éteint. Aucune onde radio n’est représentée vers le téléphone.",
+    "last": "La box émet une onde radio porteuse de données ; l’antenne du téléphone la reçoit. Le téléphone peut répondre. Les arcs ne montrent pas une fréquence mesurée.",
+    "referenceStable": true,
+    "scenes": 2,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 155,
+    "kind": "range",
+    "first": "Roche nue : aucun horizon de sol n’est encore dessiné.",
+    "last": "Des horizons se développent au-dessus de la roche-mère. La surface mêle matière organique et minéraux. Les processus se chevauchent ; le curseur n’est pas une horloge réelle.",
+    "referenceStable": true,
+    "scenes": 2,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 156,
+    "kind": "toggle",
+    "first": "Sans lumière, l’apport d’énergie lumineuse s’arrête. Eau et CO₂ restent des ingrédients ; les réserves d’énergie peuvent encore servir brièvement.",
+    "last": "La lumière fournit l’énergie. L’eau libère l’O₂ ; le carbone du CO₂ sert au sucre. Les deux trajets sont distincts.",
+    "referenceStable": true,
+    "scenes": 0,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 159,
+    "kind": "toggle",
+    "first": "Une goutte de graisse reste séparée de l’eau. Aucune molécule de savon n’est représentée dans cet état.",
+    "last": "Les molécules de savon entourent la graisse : les têtes bleues sont vers l’eau, les queues orange vers la graisse. La graisse reste présente ; le groupe peut être dispersé puis emporté au rinçage.",
+    "referenceStable": true,
+    "scenes": 0,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 163,
+    "kind": "toggle",
+    "first": "L’interrupteur sépare les contacts : le trajet est ouvert. Aucun courant ne circule dans ce circuit ; la lampe reste éteinte.",
+    "last": "L’interrupteur ferme le trajet entre les deux bornes de la pile, à travers la lampe. Le courant circule dans la boucle et la lampe s’allume ; les flèches donnent son sens conventionnel.",
+    "referenceStable": true,
+    "scenes": 0,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 165,
+    "kind": "range",
+    "first": "400 kg au total ; 400 L déplacés. La coque flotte : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+    "last": "1200 kg au total ; 1000 L déplacés. Même immergée, la coque ne déplace pas assez d’eau : elle s’enfonce. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+    "referenceStable": true,
+    "scenes": 0,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 170,
+    "kind": "range",
+    "first": "Charge : 120 N à 30 cm de l’appui. Effort d’équilibre : 360 N à 10 cm. Les moments se compensent. Barre idéale, sans poids ni frottement.",
+    "last": "Charge : 120 N à 10 cm de l’appui. Effort d’équilibre : 40 N à 30 cm. Les moments se compensent. Barre idéale, sans poids ni frottement.",
+    "referenceStable": true,
+    "scenes": 0,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 172,
+    "kind": "range",
+    "first": "La roue de 12 dents tourne de 0° ; celle de 18 dents de 0° dans le sens opposé. Le rapport est 12/18 : un tour entraîne deux tiers de tour. Profils des dents symboliques.",
+    "last": "La roue de 12 dents tourne de 360° ; celle de 18 dents de 240° dans le sens opposé. Le rapport est 12/18 : un tour entraîne deux tiers de tour. Profils des dents symboliques.",
+    "referenceStable": true,
+    "scenes": 0,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  }
+]

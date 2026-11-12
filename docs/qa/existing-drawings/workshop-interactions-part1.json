@@ -1,0 +1,122 @@
+[
+  {
+    "index": 21,
+    "kind": "toggle",
+    "first": "Consigne et capteurs restent disponibles. La commande automatique des gouvernes est interrompue ; les pilotes tiennent les commandes.",
+    "last": "La consigne des pilotes reste choisie. Les capteurs mesurent l’état réel ; le calculateur compare et les servomoteurs commandent les gouvernes. La mesure revient dans la boucle.",
+    "referenceStable": true,
+    "scenes": 2,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 34,
+    "kind": "toggle",
+    "first": "Pâte avant fermentation : aucune bulle de levée n’est représentée. Le levain n’a pas encore été ajouté dans cette expérience.",
+    "last": "La pâte gonfle avec des bulles de CO₂. Les levures produisent surtout le gaz, les bactéries surtout les acides. Le dessin compare des états, sans mesurer le temps.",
+    "referenceStable": true,
+    "scenes": 2,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 37,
+    "kind": "range",
+    "first": "Enduit de chaux encore frais, avant la couleur.",
+    "last": "Les pigments sont fixés dans l’enduit durci. Le dessin distingue carbonatation et simple perte d’eau.",
+    "referenceStable": true,
+    "scenes": 2,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 42,
+    "kind": "range",
+    "first": "Admission : le piston descend, la soupape d’admission est ouverte. Le mélange entre.",
+    "last": "Deux tours terminés : le cycle revient à l’admission.",
+    "referenceStable": true,
+    "scenes": 0,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 43,
+    "kind": "range",
+    "first": "Aucun flux dans ce modèle : les roues sont arrêtées.",
+    "last": "Les gaz entrent dans la turbine puis sortent ; l’air entre dans le compresseur puis va au moteur. Les deux roues tournent rapidement, avec un même axe. La vitesse illustrée est qualitative.",
+    "referenceStable": true,
+    "scenes": 0,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 50,
+    "kind": "toggle",
+    "first": "Silence : pas de vibration de voix représentée, ni de variation du signal liée à cette voix. La ligne plate ne signifie pas qu’aucun courant électrique ne peut exister.",
+    "last": "Le son fait vibrer la membrane du micro. Le courant varie selon la voix ; l’écouteur recrée des vibrations de l’air. Les courbes sont symboliques.",
+    "referenceStable": true,
+    "scenes": 0,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 83,
+    "kind": "range",
+    "first": "Une centrale produit de l’électricité.",
+    "last": "La prise domestique représentée est à 230 volts en France. Le curseur suit des étapes, pas le déplacement d’un électron.",
+    "referenceStable": true,
+    "scenes": 2,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 88,
+    "kind": "toggle",
+    "first": "Une tasse en céramique est mêlée aux bouteilles. Le lot doit être trié avant d’aller au broyage et au four.",
+    "last": "Les intrus sont écartés. Le verre d’emballage devient du calcin, est refondu et prend la forme d’une nouvelle bouteille.",
+    "referenceStable": true,
+    "scenes": 0,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 115,
+    "kind": "range",
+    "first": "Nouvelle Lune : environ 0 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+    "last": "Dernier croissant : environ 15 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+    "referenceStable": true,
+    "scenes": 0,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 122,
+    "kind": "toggle",
+    "first": "Solstice de décembre : le sud penche vers le Soleil, le nord à l’opposé. Hiver au nord, été au sud. L’axe garde sa direction ; l’inclinaison change la durée du jour et l’angle des rayons. Tailles et distances simplifiées.",
+    "last": "Solstice de juin : le nord penche vers le Soleil, le sud à l’opposé. Été au nord, hiver au sud. L’axe garde sa direction ; l’inclinaison change la durée du jour et l’angle des rayons. Tailles et distances simplifiées.",
+    "referenceStable": true,
+    "scenes": 0,
+    "layout": {
+      "scroll": 320,
+      "width": 320
+    }
+  }
+]

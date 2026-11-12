@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T08:44:02.722Z",
+  "generatedAt": "2026-11-12T13:51:36.565Z",
   "scope": "PUBLISHED_ONLY",
   "counts": {
     "published": 948,
@@ -8,9 +8,9 @@
     "inlineSchemas": 965,
     "withDrawing": 241,
     "withoutVisual": 0,
-    "ready": 50,
+    "ready": 241,
     "waiting": 707,
-    "review": 191,
+    "review": 0,
     "improve": 0,
     "claimed": 0
   },
@@ -19,7 +19,7 @@
       "ref": "LEC-0047C98BA43C",
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
       "title": "Comment une soufflerie permet-elle de tester un avion sans le faire voler ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:windtunnel"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -28,14 +28,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.459Z"
     },
     {
       "ref": "LEC-7725E1B057C6",
       "path": "/aeronautique/aerodynamique/ecoulements/couche-limite-transition-laminaire-turbulent",
       "title": "La couche limite, la peau d'air invisible",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:boundary"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -44,14 +44,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.557Z"
     },
     {
       "ref": "LEC-400E76EF53DA",
       "path": "/aeronautique/aerodynamique/ecoulements/le-mur-du-son-et-le-bang-supersonique",
       "title": "Le mur du son et le bang supersonique",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:sonicboom"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -60,14 +60,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.643Z"
     },
     {
       "ref": "LEC-2E0DBB790BD6",
       "path": "/aeronautique/aerodynamique/ecoulements/le-planeur-voler-sans-moteur",
       "title": "Le planeur, voler sans moteur",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:glide"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -76,14 +76,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.722Z"
     },
     {
       "ref": "LEC-7BEE0D298DE0",
       "path": "/aeronautique/aerodynamique/ecoulements/vol-transsonique-onde-de-choc",
       "title": "Le mur du son et l'onde de choc",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:transonic"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -92,14 +92,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.793Z"
     },
     {
       "ref": "LEC-75F4C1F8A08B",
       "path": "/aeronautique/aerodynamique/portance/comment-les-pales-d-un-helicoptere-creent-la-portance",
       "title": "Comment les pales d'un hélicoptère créent la portance",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:helicopter"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -108,14 +108,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.881Z"
     },
     {
       "ref": "LEC-38AABE6F2161",
       "path": "/aeronautique/aerodynamique/portance/comment-un-avion-de-ligne-peut-il-planer-quand-ses-moteurs-s-arretent",
       "title": "Comment un avion de ligne peut-il planer quand ses moteurs s'arrêtent ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:glide"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -124,14 +124,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.973Z"
     },
     {
       "ref": "LEC-D30C4A205DD4",
       "path": "/aeronautique/aerodynamique/portance/decrochage-aerodynamique",
       "title": "Le décrochage aérodynamique",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:lift"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -140,14 +140,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.055Z"
     },
     {
       "ref": "LEC-CFF66E0B44CE",
       "path": "/aeronautique/aerodynamique/portance/pourquoi-les-ailes-d-un-avion-changent-elles-de-forme-au-decollage-et-a-l-atterrissage",
       "title": "Pourquoi les ailes d'un avion changent-elles de forme au décollage et à l'atterrissage ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:flaps"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -156,14 +156,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.164Z"
     },
     {
       "ref": "LEC-BF0D20E9B8E7",
       "path": "/aeronautique/aerodynamique/portance/pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air",
       "title": "Pourquoi un avion vole, portance et écoulement de l'air",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:lift"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -172,14 +172,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.244Z"
     },
     {
       "ref": "LEC-614911E00F36",
       "path": "/aeronautique/aerodynamique/trainee/les-winglets-petits-ailerons-contre-la-trainee",
       "title": "Les winglets, petits ailerons contre la traînée",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:winglet"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -188,14 +188,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.324Z"
     },
     {
       "ref": "LEC-68F4AE34C548",
       "path": "/aeronautique/aerodynamique/trainee/pourquoi-le-givre-est-il-dangereux-pour-les-ailes-d-un-avion",
       "title": "Pourquoi le givre est-il dangereux pour les ailes d'un avion ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:icing"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -204,14 +204,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.406Z"
     },
     {
       "ref": "LEC-486BC98F43EC",
       "path": "/aeronautique/aerodynamique/trainee/trainee-aerodynamique-reduction",
       "title": "Tout ce qui freine un avion",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:drag"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -220,14 +220,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.489Z"
     },
     {
       "ref": "LEC-E1CB5DFE6FBA",
       "path": "/aeronautique/aviation-civile/certification-aeronautique/certification-avion-de-transport",
       "title": "Comment un avion est autorisé à voler",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:certification"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -236,14 +236,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.568Z"
     },
     {
       "ref": "LEC-7008E1840428",
       "path": "/aeronautique/aviation-civile/decarbonation/carburants-aviation-durables-saf",
       "title": "Les carburants d'aviation durables",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:saf"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -252,14 +252,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.655Z"
     },
     {
       "ref": "LEC-D6FDF5654800",
       "path": "/aeronautique/aviation-civile/decarbonation/les-concepts-d-avion-a-hydrogene-d-airbus",
       "title": "Les concepts d'avion à hydrogène d'Airbus",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:zeroe"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -268,14 +268,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.743Z"
     },
     {
       "ref": "LEC-E331BB1DE4B1",
       "path": "/aeronautique/aviation-civile/securite/comment-deux-avions-evitent-ils-de-se-rentrer-dedans-en-plein-ciel",
       "title": "Comment deux avions évitent-ils de se rentrer dedans en plein ciel ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:tcas"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -284,14 +284,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.831Z"
     },
     {
       "ref": "LEC-6EACF2EBE5FA",
       "path": "/aeronautique/aviation-civile/securite/enquetes-de-securite-apres-accident",
       "title": "Les enquêtes après un accident d'avion",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:investigation"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -300,14 +300,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.905Z"
     },
     {
       "ref": "LEC-BEFBADFB91B2",
       "path": "/aeronautique/aviation-civile/securite/la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident",
       "title": "La boîte noire, deux enregistreurs pour comprendre un accident",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:recorders"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -316,14 +316,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.014Z"
     },
     {
       "ref": "LEC-4F97DF21D027",
       "path": "/aeronautique/aviation-civile/securite/les-turbulences-pourquoi-l-avion-est-secoue",
       "title": "Les turbulences, pourquoi l'avion est secoué",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:turbulence"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -332,14 +332,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.086Z"
     },
     {
       "ref": "LEC-C53056DE3675",
       "path": "/aeronautique/aviation-civile/securite/statistiques-mondiales-securite-aerienne",
       "title": "Pourquoi l'avion est le transport le plus sûr",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:airrates"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -348,14 +348,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.164Z"
     },
     {
       "ref": "LEC-FC1AC0BB9D80",
       "path": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/comment-peut-on-suivre-sur-internet-les-avions-en-plein-vol",
       "title": "Comment peut-on suivre sur Internet les avions en plein vol ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:adsb"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -364,14 +364,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.236Z"
     },
     {
       "ref": "LEC-D450110F2AAD",
       "path": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/controle-du-trafic-aerien-principes",
       "title": "Comment on range les avions dans le ciel",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:aircontrol"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -380,14 +380,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.309Z"
     },
     {
       "ref": "LEC-5372F8D0D18F",
       "path": "/aeronautique/navigation-aerienne/instruments-de-vol/comment-le-pilote-automatique-tient-il-un-avion-sur-sa-route",
       "title": "Comment le pilote automatique tient-il un avion sur sa route ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:le-pilote-qui-corrige"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -396,14 +396,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.414Z"
     },
     {
       "ref": "LEC-FF44179B2EE7",
       "path": "/aeronautique/navigation-aerienne/instruments-de-vol/comment-un-pilote-peut-il-trouver-sa-route-sans-gps",
       "title": "Comment un pilote peut-il trouver sa route sans GPS ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:reckoning"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -412,14 +412,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.497Z"
     },
     {
       "ref": "LEC-071F615CFF62",
       "path": "/aeronautique/navigation-aerienne/instruments-de-vol/comment-un-pilote-sait-il-ou-est-le-haut-dans-les-nuages",
       "title": "Comment un pilote sait-il où est le haut dans les nuages ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:attitude"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -428,14 +428,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.615Z"
     },
     {
       "ref": "LEC-A0EC27B72B73",
       "path": "/aeronautique/navigation-aerienne/instruments-de-vol/instruments-de-vol-primaires",
       "title": "Les six instruments qui permettent de voler dans les nuages",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:sixpack"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -444,14 +444,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.696Z"
     },
     {
       "ref": "LEC-6CDEF103804B",
       "path": "/aeronautique/navigation-aerienne/instruments-de-vol/systemes-de-navigation-inertielle-et-satellitaire",
       "title": "Deux façons de savoir où l'on est en vol",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:inertial"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -460,14 +460,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.806Z"
     },
     {
       "ref": "LEC-E383C8539EAE",
       "path": "/aeronautique/propulsion/moteurs-a-piston/fonctionnement-moteurs-a-piston-aeronautiques",
       "title": "Les moteurs à piston des petits avions",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:aeroengine"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -476,14 +476,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.899Z"
     },
     {
       "ref": "LEC-CBFD3502EC2B",
       "path": "/aeronautique/propulsion/moteurs-a-piston/pourquoi-le-moteur-d-un-petit-avion-a-t-il-deux-allumages",
       "title": "Pourquoi le moteur d'un petit avion a-t-il deux allumages ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:magnetos"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -492,14 +492,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.993Z"
     },
     {
       "ref": "LEC-78436191FC21",
       "path": "/aeronautique/propulsion/propulsion-electrique-aeronautique/propulsion-electrique-hybride-aeronautique",
       "title": "L'avion électrique et le poids des batteries",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:electricair"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -508,14 +508,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.109Z"
     },
     {
       "ref": "LEC-FF11EEF9DD4B",
       "path": "/aeronautique/propulsion/propulsion-electrique-aeronautique/que-rejette-un-avion-a-hydrogene-et-ou-loge-t-on-le-carburant",
       "title": "Que rejette un avion à hydrogène, et où loge-t-on le carburant ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:hydrogenair"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -524,14 +524,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.209Z"
     },
     {
       "ref": "LEC-1439572BBA79",
       "path": "/aeronautique/propulsion/turbopropulseurs/comment-un-avion-bombardier-d-eau-remplit-il-ses-reservoirs-sans-s-arreter",
       "title": "Comment un avion bombardier d'eau remplit-il ses réservoirs sans s'arrêter ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:scooper"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -540,14 +540,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.324Z"
     },
     {
       "ref": "LEC-F8323901E4C4",
       "path": "/aeronautique/propulsion/turbopropulseurs/turbopropulseur-principe-domaine-emploi",
       "title": "Le turbopropulseur, la turbine qui fait tourner une hélice",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:turboprop"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -556,14 +556,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.421Z"
     },
     {
       "ref": "LEC-B047C834CC5C",
       "path": "/aeronautique/propulsion/turboreacteurs/comment-un-avion-de-ligne-freine-t-il-apres-l-atterrissage",
       "title": "Comment un avion de ligne freine-t-il après l'atterrissage ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:landingbrakes"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -572,14 +572,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.515Z"
     },
     {
       "ref": "LEC-DA4C83943215",
       "path": "/aeronautique/propulsion/turboreacteurs/fonctionnement-turboreacteur",
       "title": "Comment fonctionne un réacteur d'avion",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:jet"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -588,14 +588,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.596Z"
     },
     {
       "ref": "LEC-8FF03FAC3A59",
       "path": "/aeronautique/propulsion/turboreacteurs/taux-de-dilution-turboreacteurs",
       "title": "Pourquoi les réacteurs sont devenus énormes",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:jet"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -604,8 +604,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.688Z"
     },
     {
       "ref": "LEC-0ECA8AA741E1",
@@ -1795,7 +1795,7 @@
       "ref": "LEC-720A3F362CD7",
       "path": "/alimentation-et-nutrition/technologies-alimentaires/fermentation/comment-le-levain-fait-il-gonfler-la-pate-a-pain",
       "title": "Comment le levain fait-il gonfler la pâte à pain ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:le-pain-qui-gonfle"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -1804,8 +1804,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.808Z"
     },
     {
       "ref": "LEC-69BF11C5B60A",
@@ -2163,7 +2163,7 @@
       "ref": "LEC-57318F3CEBE0",
       "path": "/arts-et-culture/arts-du-spectacle/musique/pourquoi-deux-instruments-ne-sonnent-ils-pas-pareil-sur-la-meme-note",
       "title": "Pourquoi deux instruments ne sonnent-ils pas pareil sur la même note ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:timbre"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -2172,8 +2172,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.923Z"
     },
     {
       "ref": "LEC-67B0D253E10F",
@@ -2275,7 +2275,7 @@
       "ref": "LEC-E8B58BA328EB",
       "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/comment-une-gravure-permet-elle-d-imprimer-la-meme-image-des-dizaines-de-fois",
       "title": "Comment une gravure permet-elle d'imprimer la même image des dizaines de fois ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:engraving"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -2284,8 +2284,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.057Z"
     },
     {
       "ref": "LEC-2CBDAA42FE74",
@@ -2323,23 +2323,23 @@
       "ref": "LEC-D41606E5FFA1",
       "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/comment-une-fresque-reste-t-elle-accrochee-au-mur-pendant-des-siecles",
       "title": "Comment une fresque reste-t-elle accrochée au mur pendant des siècles ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:la-couleur-dans-le-mur"],
       "hasVisual": true,
       "hasDrawing": true,
       "hasInlineSchema": true,
       "inlineSchemaCount": 1,
       "inlineStatus": "READY",
-      "inlineEvidence": "docs/qa/inline-schemas/README.md",
+      "inlineEvidence": "docs/qa/existing-drawings/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.205Z"
     },
     {
       "ref": "LEC-C348C68C59B3",
       "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/perspective-lineaire-renaissance",
       "title": "La perspective, une invention du XVe siècle",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:perspective"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -2348,8 +2348,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.281Z"
     },
     {
       "ref": "LEC-35F7ABD77EBF",
@@ -2435,7 +2435,7 @@
       "ref": "LEC-3671F14D3D03",
       "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/invention-de-la-photographie",
       "title": "L'invention de la photographie",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:camera"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -2444,8 +2444,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.366Z"
     },
     {
       "ref": "LEC-97D96F55D39D",
@@ -2547,7 +2547,7 @@
       "ref": "LEC-41D6FCE26309",
       "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/invention-de-limprimerie-a-caracteres-mobiles",
       "title": "L'imprimerie de Gutenberg",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:printing"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -2556,8 +2556,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.489Z"
     },
     {
       "ref": "LEC-87A24594C2C7",
@@ -3139,7 +3139,7 @@
       "ref": "LEC-644FFD9A2CAC",
       "path": "/automobile/motorisations/electrique/chimies-batteries-lithium-ion-automobile",
       "title": "Les batteries lithium-ion et leurs chimies",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:battery"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -3148,8 +3148,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.573Z"
     },
     {
       "ref": "LEC-9839A47BA625",
@@ -3363,7 +3363,7 @@
       "ref": "LEC-963FCCC6C8BF",
       "path": "/automobile/motorisations/thermique/comment-un-moteur-a-quatre-temps-transforme-t-il-l-essence-en-mouvement",
       "title": "Comment un moteur à quatre temps transforme-t-il l'essence en mouvement ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:les-quatre-temps"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -3372,8 +3372,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.673Z"
     },
     {
       "ref": "LEC-810FB82798CB",
@@ -3395,7 +3395,7 @@
       "ref": "LEC-AAD4FCA9FF69",
       "path": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant",
       "title": "Comment un turbocompresseur rend-il un moteur plus puissant ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:le-turbo"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -3404,8 +3404,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.758Z"
     },
     {
       "ref": "LEC-C0E0EDE2F3A8",
@@ -4259,7 +4259,7 @@
       "ref": "LEC-D7658239E10E",
       "path": "/communication-et-medias/histoire-des-medias/radio-et-television/comment-la-television-est-elle-passee-du-noir-et-blanc-a-la-couleur",
       "title": "Comment la télévision est-elle passée du noir et blanc à la couleur ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:colourtv"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -4268,14 +4268,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-radio/README.md",
-      "reviewedAt": "2026-11-11"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.880Z"
     },
     {
       "ref": "LEC-8FCA8C673DC7",
       "path": "/communication-et-medias/histoire-des-medias/radio-et-television/comment-la-tsf-a-t-elle-permis-d-envoyer-des-messages-sans-fil",
       "title": "Comment la TSF a-t-elle permis d'envoyer des messages sans fil ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:wirelessmorse"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -4284,14 +4284,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-radio/README.md",
-      "reviewedAt": "2026-11-11"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.973Z"
     },
     {
       "ref": "LEC-2B7173097A62",
       "path": "/communication-et-medias/histoire-des-medias/radio-et-television/comment-un-poste-a-galene-capte-t-il-la-radio-sans-pile-ni-prise",
       "title": "Comment un poste à galène capte-t-il la radio sans pile ni prise ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:crystalradio"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -4300,8 +4300,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-radio/README.md",
-      "reviewedAt": "2026-11-11"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.065Z"
     },
     {
       "ref": "LEC-E6306232F082",
@@ -4323,7 +4323,7 @@
       "ref": "LEC-8CA3B8565FA5",
       "path": "/communication-et-medias/histoire-des-medias/radio-et-television/naissance-de-la-radiodiffusion",
       "title": "Quand la radio a inventé le direct",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:broadcast"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -4332,14 +4332,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-radio/README.md",
-      "reviewedAt": "2026-11-11"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.147Z"
     },
     {
       "ref": "LEC-9CD231046049",
       "path": "/communication-et-medias/histoire-des-medias/radio-et-television/pourquoi-les-ondes-courtes-peuvent-elles-porter-la-radio-a-l-autre-bout-du-monde",
       "title": "Pourquoi les ondes courtes peuvent-elles porter la radio à l'autre bout du monde ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:shortwave"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -4348,8 +4348,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-radio/README.md",
-      "reviewedAt": "2026-11-11"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.272Z"
     },
     {
       "ref": "LEC-592D41BA0DEB",
@@ -4739,7 +4739,7 @@
       "ref": "LEC-7E2641DFA800",
       "path": "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/comment-la-lumiere-reste-t-elle-prisonniere-d-une-fibre-optique",
       "title": "Comment la lumière reste-t-elle prisonnière d'une fibre optique ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:fibre"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -4748,14 +4748,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.366Z"
     },
     {
       "ref": "LEC-997C5952E7F9",
       "path": "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/comment-le-telephone-fixe-transportait-il-la-voix-par-un-fil",
       "title": "Comment le téléphone fixe transportait-il la voix par un fil ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:la-voix-dans-le-fil"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -4764,14 +4764,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.487Z"
     },
     {
       "ref": "LEC-CC245047ED86",
       "path": "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/fibre-optique-et-reseaux-dacces",
       "title": "La fibre optique",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:fibre"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -4780,8 +4780,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.573Z"
     },
     {
       "ref": "LEC-2A52341A491E",
@@ -5219,7 +5219,7 @@
       "ref": "LEC-3907572A5D69",
       "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/comment-un-neurone-envoie-t-il-un-message-a-un-autre-neurone",
       "title": "Comment un neurone envoie-t-il un message à un autre neurone ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:neuron"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -5228,8 +5228,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.681Z"
     },
     {
       "ref": "LEC-C11ACCF5E0E0",
@@ -5283,7 +5283,7 @@
       "ref": "LEC-442797CF07B9",
       "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/systeme-nerveux-structure-fonctionnement",
       "title": "Le système nerveux",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:neuron"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -5292,8 +5292,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.765Z"
     },
     {
       "ref": "LEC-F74E5D08C71E",
@@ -5315,7 +5315,7 @@
       "ref": "LEC-4999C3A4767D",
       "path": "/corps-humain-et-sante/anatomie/systeme-respiratoire/comment-les-poumons-font-ils-passer-l-oxygene-de-l-air-dans-le-sang",
       "title": "Comment les poumons font-ils passer l'oxygène de l'air dans le sang ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:alveoli"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -5324,8 +5324,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.857Z"
     },
     {
       "ref": "LEC-8BE840AB14A9",
@@ -5347,7 +5347,7 @@
       "ref": "LEC-ACB2E5B1DFEF",
       "path": "/corps-humain-et-sante/anatomie/systeme-respiratoire/echanges-gazeux-et-respiration",
       "title": "Comment on respire",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:alveoli"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -5356,8 +5356,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.949Z"
     },
     {
       "ref": "LEC-BC5A8E448A08",
@@ -6675,7 +6675,7 @@
       "ref": "LEC-A122B9AAE1DA",
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/cogeneration",
       "title": "La cogénération",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:cogeneration"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -6684,14 +6684,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:26.306Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.028Z"
     },
     {
       "ref": "LEC-BA1CDF1AB463",
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/comment-un-double-vitrage-garde-t-il-la-chaleur-dans-la-maison",
       "title": "Comment un double vitrage garde-t-il la chaleur dans la maison ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:glazing"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -6700,14 +6700,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:26.926Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.135Z"
     },
     {
       "ref": "LEC-9CB76F443212",
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/comment-une-led-fabrique-t-elle-de-la-lumiere-sans-chauffer-de-filament",
       "title": "Comment une LED fabrique-t-elle de la lumière sans chauffer de filament ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:led"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -6716,14 +6716,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:26.013Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.254Z"
     },
     {
       "ref": "LEC-18226ED00A76",
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/comment-une-pompe-a-chaleur-chauffe-t-elle-avec-l-air-froid-du-dehors",
       "title": "Comment une pompe à chaleur chauffe-t-elle avec l'air froid du dehors ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:heatpump"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -6732,14 +6732,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.444Z"
     },
     {
       "ref": "LEC-F788D203EF2D",
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/efficacite-energetique-et-effet-rebond",
       "title": "L'efficacité énergétique et l'effet rebond",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:rebound"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -6748,14 +6748,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:22.722Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.523Z"
     },
     {
       "ref": "LEC-CC56946C1DF5",
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/isoler-batiment",
       "title": "Isoler un bâtiment",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:insulation"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -6764,14 +6764,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:25.720Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.600Z"
     },
     {
       "ref": "LEC-FA6DCA20A885",
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/pourquoi-une-maison-aux-murs-epais-de-pierre-ou-de-terre-reste-t-elle-fraiche-en-ete",
       "title": "Pourquoi une maison aux murs épais de pierre ou de terre reste-t-elle fraîche en été ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:thermalmass"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -6780,14 +6780,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:27.225Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.687Z"
     },
     {
       "ref": "LEC-056F72B602DA",
       "path": "/energie/efficacite-et-sobriete/usages-et-consommation/bois-chauffage",
       "title": "Le bois de chauffage",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:firewood"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -6796,8 +6796,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:26.607Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.773Z"
     },
     {
       "ref": "LEC-6861ACBA3127",
@@ -6819,7 +6819,7 @@
       "ref": "LEC-92C12B180D54",
       "path": "/energie/efficacite-et-sobriete/usages-et-consommation/energie-primaire-et-energie-finale",
       "title": "Énergie primaire et énergie finale",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:energychain"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -6828,8 +6828,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:24.527Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.866Z"
     },
     {
       "ref": "LEC-09F15B5EC1AB",
@@ -6867,7 +6867,7 @@
       "ref": "LEC-042806B5CF04",
       "path": "/energie/efficacite-et-sobriete/usages-et-consommation/pourquoi-un-appareil-en-veille-consomme-t-il-encore-de-l-electricite",
       "title": "Pourquoi un appareil en veille consomme-t-il encore de l'électricité ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:standby"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -6876,14 +6876,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:27.524Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.989Z"
     },
     {
       "ref": "LEC-1524E0333950",
       "path": "/energie/energies-fossiles-et-nucleaire/charbon/charbon-bois",
       "title": "Le charbon de bois",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:pyrolysis"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -6892,8 +6892,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "",
-      "reviewedAt": ""
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.064Z"
     },
     {
       "ref": "LEC-D52DED1AA899",
@@ -6979,7 +6979,7 @@
       "ref": "LEC-78AC0B04F9E0",
       "path": "/energie/energies-fossiles-et-nucleaire/hydrocarbures/raffinage-du-petrole",
       "title": "Le raffinage du pétrole",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:refinery"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -6988,14 +6988,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:23.027Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.154Z"
     },
     {
       "ref": "LEC-98CFDA35E5AE",
       "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/comment-un-atome-qui-se-casse-peut-il-allumer-une-ampoule",
       "title": "Comment un atome qui se casse peut-il allumer une ampoule ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:fission"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7004,14 +7004,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:29.624Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.271Z"
     },
     {
       "ref": "LEC-8D0218E442E0",
       "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/dechets-radioactifs-et-stockage",
       "title": "Les déchets radioactifs",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:nuclearwaste"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7020,8 +7020,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:23.323Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.614Z"
     },
     {
       "ref": "LEC-50B0BD6E583E",
@@ -7043,7 +7043,7 @@
       "ref": "LEC-EC8F673B8447",
       "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/fusion-nucleaire-etat-des-recherches",
       "title": "La fusion nucléaire",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:fusion"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7052,8 +7052,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:23.624Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.699Z"
     },
     {
       "ref": "LEC-BA0160AA9CE2",
@@ -7091,7 +7091,7 @@
       "ref": "LEC-8BED11E4076B",
       "path": "/energie/energies-renouvelables/eolien/comment-fonctionne-une-eolienne",
       "title": "Comment fonctionne une éolienne",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:wind"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7100,8 +7100,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.780Z"
     },
     {
       "ref": "LEC-88FED6DA467B",
@@ -7123,7 +7123,7 @@
       "ref": "LEC-D42DFA4102F4",
       "path": "/energie/energies-renouvelables/eolien/moulins-vent",
       "title": "Les moulins à vent",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:windmill"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7132,14 +7132,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "",
-      "reviewedAt": ""
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.866Z"
     },
     {
       "ref": "LEC-649033EF8DF5",
       "path": "/energie/energies-renouvelables/eolien/record-mondial-installations-eoliennes-2024",
       "title": "L'éolien, année record en 2024",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:wind"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7148,8 +7148,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.943Z"
     },
     {
       "ref": "LEC-9514752EEB2B",
@@ -7171,7 +7171,7 @@
       "ref": "LEC-461055011802",
       "path": "/energie/energies-renouvelables/hydraulique/comment-un-barrage-transforme-t-il-l-eau-d-une-riviere-en-electricite",
       "title": "Comment un barrage transforme-t-il l'eau d'une rivière en électricité ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:hydro"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7180,8 +7180,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.065Z"
     },
     {
       "ref": "LEC-94E54B9E69B7",
@@ -7219,7 +7219,7 @@
       "ref": "LEC-D75311B80120",
       "path": "/energie/energies-renouvelables/hydraulique/microcentrale-hydroelectrique",
       "title": "La microcentrale hydroélectrique",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:hydro"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7228,14 +7228,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.149Z"
     },
     {
       "ref": "LEC-46232B9F5B8F",
       "path": "/energie/energies-renouvelables/hydraulique/moulin-eau",
       "title": "Le moulin à eau",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:watermill"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7244,14 +7244,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:24.829Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.224Z"
     },
     {
       "ref": "LEC-6FAD32C350CA",
       "path": "/energie/energies-renouvelables/solaire/comment-fonctionne-une-cellule-photovoltaique",
       "title": "Comment un panneau solaire produit de l'électricité",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:solar"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7260,8 +7260,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.295Z"
     },
     {
       "ref": "LEC-E1F366FD803C",
@@ -7283,7 +7283,7 @@
       "ref": "LEC-6D65993219E1",
       "path": "/energie/energies-renouvelables/solaire/four-chauffe-eau-solaires",
       "title": "Le four et le chauffe-eau solaires",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:solaroven"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7292,8 +7292,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "",
-      "reviewedAt": ""
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.372Z"
     },
     {
       "ref": "LEC-0B9C47E9C0E9",
@@ -7315,7 +7315,7 @@
       "ref": "LEC-45AAB7D8BE0C",
       "path": "/energie/energies-renouvelables/solaire/peut-on-produire-de-l-electricite-et-des-cultures-sur-le-meme-champ",
       "title": "Peut-on produire de l'électricité et des cultures sur le même champ ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:agrivoltaic"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7324,14 +7324,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:30.221Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.449Z"
     },
     {
       "ref": "LEC-33076CB397C1",
       "path": "/energie/energies-renouvelables/solaire/solaire-thermique-et-concentration",
       "title": "Le solaire thermique et les centrales à concentration",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:csp"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7340,14 +7340,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:23.926Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.542Z"
     },
     {
       "ref": "LEC-9E305D047C46",
       "path": "/energie/reseaux-et-stockage/batteries/batterie-plomb",
       "title": "La batterie au plomb",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:leadacid"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7356,8 +7356,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:25.127Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.630Z"
     },
     {
       "ref": "LEC-BAA3B14FD049",
@@ -7379,7 +7379,7 @@
       "ref": "LEC-5F91C02EBCD3",
       "path": "/energie/reseaux-et-stockage/batteries/comment-fonctionne-une-batterie-lithium-ion",
       "title": "Comment fonctionne une batterie lithium-ion",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:battery"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7388,14 +7388,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.723Z"
     },
     {
       "ref": "LEC-E3DFB0303D33",
       "path": "/energie/reseaux-et-stockage/batteries/comment-stocker-de-l-electricite-dans-de-l-air-comprime",
       "title": "Comment stocker de l'électricité dans de l'air comprimé ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:compressedair"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7404,14 +7404,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:30.522Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.814Z"
     },
     {
       "ref": "LEC-33078A068CEF",
       "path": "/energie/reseaux-et-stockage/batteries/comment-une-batterie-peut-elle-stocker-de-l-energie-dans-des-reservoirs-de-liquide",
       "title": "Comment une batterie peut-elle stocker de l'énergie dans des réservoirs de liquide ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:flowbattery"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7420,14 +7420,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:47:17.305Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.915Z"
     },
     {
       "ref": "LEC-52F84AC36AC8",
       "path": "/energie/reseaux-et-stockage/batteries/comment-une-mega-batterie-aide-t-elle-a-stabiliser-le-reseau-electrique",
       "title": "Comment une méga-batterie aide-t-elle à stabiliser le réseau électrique ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:gridbattery"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7436,14 +7436,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:30.818Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.022Z"
     },
     {
       "ref": "LEC-1848677BEF9D",
       "path": "/energie/reseaux-et-stockage/batteries/comment-volta-a-t-il-invente-la-premiere-pile-electrique",
       "title": "Comment Volta a-t-il inventé la première pile électrique ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:voltapile"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7452,8 +7452,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:28.727Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.107Z"
     },
     {
       "ref": "LEC-350E81D777C7",
@@ -7507,7 +7507,7 @@
       "ref": "LEC-E9F434B833FE",
       "path": "/energie/reseaux-et-stockage/hydrogene/comment-une-pile-a-hydrogene-produit-elle-de-l-electricite-sans-rien-bruler",
       "title": "Comment une pile à hydrogène produit-elle de l'électricité sans rien brûler ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:fuelcell"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7516,14 +7516,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:29.024Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.211Z"
     },
     {
       "ref": "LEC-6BFC0D567E90",
       "path": "/energie/reseaux-et-stockage/hydrogene/electrolyse-eau",
       "title": "L'électrolyse de l'eau",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:electrolyser"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7532,8 +7532,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:25.423Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.284Z"
     },
     {
       "ref": "LEC-AE6A51E7769E",
@@ -7571,7 +7571,7 @@
       "ref": "LEC-32AFAF771F51",
       "path": "/energie/reseaux-et-stockage/reseaux-electriques/comment-l-electricite-voyage-t-elle-de-la-centrale-jusqu-a-votre-prise",
       "title": "Comment l'électricité voyage-t-elle de la centrale jusqu'à votre prise ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:le-voyage-de-l-electricite"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7580,14 +7580,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.398Z"
     },
     {
       "ref": "LEC-669C05672517",
       "path": "/energie/reseaux-et-stockage/reseaux-electriques/mix-electrique-et-intermittence",
       "title": "Le mix électrique et l'intermittence",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:duckcurve"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7596,14 +7596,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:24.224Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.470Z"
     },
     {
       "ref": "LEC-36A2133DEAF9",
       "path": "/energie/reseaux-et-stockage/reseaux-electriques/pourquoi-un-pays-entier-peut-il-se-retrouver-d-un-coup-sans-electricite",
       "title": "Pourquoi un pays entier peut-il se retrouver d'un coup sans électricité ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:gridcascade"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7612,14 +7612,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:29.326Z"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.589Z"
     },
     {
       "ref": "LEC-0C55D5ACC989",
       "path": "/energie/reseaux-et-stockage/reseaux-electriques/reseaux-electriques-intelligents-smart-grids",
       "title": "Les réseaux électriques intelligents",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:demandshift"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7628,8 +7628,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "",
-      "reviewedAt": ""
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.672Z"
     },
     {
       "ref": "LEC-027FE0393F3A",
@@ -7859,7 +7859,7 @@
       "ref": "LEC-22C140DCB04F",
       "path": "/environnement-et-climat/changement-climatique/gaz-a-effet-de-serre/concentration-record-de-co2-dans-latmosphere",
       "title": "L'effet de serre, comment ça marche",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:greenhouse"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7868,14 +7868,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.791Z"
     },
     {
       "ref": "LEC-2F74FC59C080",
       "path": "/environnement-et-climat/changement-climatique/gaz-a-effet-de-serre/pourquoi-le-methane-est-il-un-gaz-a-effet-de-serre-si-puissant",
       "title": "Pourquoi le méthane est-il un gaz à effet de serre si puissant ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:greenhouse"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -7884,8 +7884,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.896Z"
     },
     {
       "ref": "LEC-0830CD946693",
@@ -8051,7 +8051,7 @@
       "ref": "LEC-56A67B4177D5",
       "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/comment-une-bouteille-en-verre-usagee-redevient-elle-une-bouteille-neuve",
       "title": "Comment une bouteille en verre usagée redevient-elle une bouteille neuve ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:la-bouteille-qui-revient"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8060,8 +8060,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.016Z"
     },
     {
       "ref": "LEC-F58E0492BA5C",
@@ -8115,7 +8115,7 @@
       "ref": "LEC-D856D357364D",
       "path": "/environnement-et-climat/pollution-et-ressources/eau/comment-se-forme-une-nappe-d-eau-sous-nos-pieds",
       "title": "Comment se forme une nappe d'eau sous nos pieds ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:groundwater"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8124,8 +8124,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.115Z"
     },
     {
       "ref": "LEC-E17F8A1C316A",
@@ -8275,7 +8275,7 @@
       "ref": "LEC-BDC65BA70B0A",
       "path": "/espace-et-astronomie/astrophysique/cosmologie/comment-sait-on-que-l-univers-grandit",
       "title": "Comment sait-on que l'Univers grandit ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:expansion"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8284,14 +8284,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.204Z"
     },
     {
       "ref": "LEC-509DD57E2237",
       "path": "/espace-et-astronomie/astrophysique/cosmologie/comment-un-amas-de-galaxies-peut-il-agir-comme-une-loupe-cosmique",
       "title": "Comment un amas de galaxies peut-il agir comme une loupe cosmique ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:lensing"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8300,14 +8300,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.308Z"
     },
     {
       "ref": "LEC-BCE437F4AED9",
       "path": "/espace-et-astronomie/astrophysique/cosmologie/gwtc-5-catalogue-ondes-gravitationnelles",
       "title": "Les ondes gravitationnelles",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:interferometer"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8316,14 +8316,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.412Z"
     },
     {
       "ref": "LEC-4B90F06EA143",
       "path": "/espace-et-astronomie/astrophysique/etoiles/comment-nait-une-etoile-a-partir-d-un-nuage-de-gaz",
       "title": "Comment naît une étoile à partir d'un nuage de gaz ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:starbirth"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8332,14 +8332,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.487Z"
     },
     {
       "ref": "LEC-7D9F323974D2",
       "path": "/espace-et-astronomie/astrophysique/etoiles/comment-une-tempete-solaire-peut-elle-allumer-des-aurores-et-couper-le-courant",
       "title": "Comment une tempête solaire peut-elle allumer des aurores et couper le courant ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:aurora"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8348,14 +8348,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.587Z"
     },
     {
       "ref": "LEC-201E30E32677",
       "path": "/espace-et-astronomie/astrophysique/etoiles/formation-stellaire-galaxies-lointaines-jwst",
       "title": "Comment naissent et meurent les étoiles",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:starlife"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8364,14 +8364,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.679Z"
     },
     {
       "ref": "LEC-5ACFD0B653B1",
       "path": "/espace-et-astronomie/astrophysique/etoiles/l-etoile-polaire-et-son-role-dans-l-orientation",
       "title": "L'étoile Polaire et l'orientation sans boussole",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:polaris"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8380,14 +8380,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "",
-      "reviewedAt": ""
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.760Z"
     },
     {
       "ref": "LEC-27E4C6FD1905",
       "path": "/espace-et-astronomie/astrophysique/trous-noirs/trous-noirs-ce-quon-en-sait",
       "title": "Les trous noirs",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:blackhole"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8396,14 +8396,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.845Z"
     },
     {
       "ref": "LEC-4E444FBEBF51",
       "path": "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/comment-le-gps-sait-il-exactement-ou-vous-etes",
       "title": "Comment le GPS sait-il exactement où vous êtes ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:gps"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8412,14 +8412,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.954Z"
     },
     {
       "ref": "LEC-2E1EC77732B6",
       "path": "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/comment-une-fusee-fait-elle-pour-rester-en-orbite-autour-de-la-terre",
       "title": "Comment une fusée fait-elle pour rester en orbite autour de la Terre ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:orbit"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8428,14 +8428,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.031Z"
     },
     {
       "ref": "LEC-BC3F3689382F",
       "path": "/espace-et-astronomie/exploration-spatiale/sondes/comment-les-sondes-voyager-ont-elles-atteint-l-espace-entre-les-etoiles",
       "title": "Comment les sondes Voyager ont-elles atteint l'espace entre les étoiles ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:heliosphere"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8444,14 +8444,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.130Z"
     },
     {
       "ref": "LEC-9BDE87B5F82F",
       "path": "/espace-et-astronomie/exploration-spatiale/sondes/telescope-spatial-james-webb",
       "title": "Le télescope spatial James Webb",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:webb"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8460,14 +8460,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.210Z"
     },
     {
       "ref": "LEC-FA93248B1261",
       "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/artemis-ii-retour-vers-la-lune",
       "title": "Artemis II, le retour vers la Lune",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:moonflight"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8476,14 +8476,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.302Z"
     },
     {
       "ref": "LEC-8678A466AA24",
       "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/comment-les-astronautes-ont-ils-toujours-de-l-eau-et-de-l-air-dans-la-station-spatiale",
       "title": "Comment les astronautes ont-ils toujours de l'eau et de l'air dans la station spatiale ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:isslife"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8492,14 +8492,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.385Z"
     },
     {
       "ref": "LEC-40C7DD6FC45F",
       "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/pourquoi-les-astronautes-flottent-ils-dans-la-station-spatiale",
       "title": "Pourquoi les astronautes flottent-ils dans la station spatiale ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:orbit"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8508,14 +8508,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.476Z"
     },
     {
       "ref": "LEC-1C3134C17E90",
       "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/pourquoi-les-astronautes-ont-ils-du-mal-a-marcher-en-revenant-sur-terre",
       "title": "Pourquoi les astronautes ont-ils du mal à marcher en revenant sur Terre ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:readaptation"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8524,14 +8524,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.571Z"
     },
     {
       "ref": "LEC-4BCE25B60DB1",
       "path": "/espace-et-astronomie/observation-astronomique/messagers-du-cosmos/comment-une-etoile-peut-elle-servir-de-loupe-pour-trouver-des-planetes",
       "title": "Comment une étoile peut-elle servir de loupe pour trouver des planètes ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:microlensing"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8540,14 +8540,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.690Z"
     },
     {
       "ref": "LEC-D1F274D4649C",
       "path": "/espace-et-astronomie/observation-astronomique/messagers-du-cosmos/pourquoi-observer-dans-linfrarouge",
       "title": "Pourquoi observer dans l'infrarouge",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:infrared"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8556,14 +8556,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.772Z"
     },
     {
       "ref": "LEC-DC87486BEBFB",
       "path": "/espace-et-astronomie/observation-astronomique/retrouver-l-heure-avec-le-soleil",
       "title": "Retrouver l'heure avec le Soleil",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:sundial"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8572,14 +8572,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.869Z"
     },
     {
       "ref": "LEC-D070C015D4F3",
       "path": "/espace-et-astronomie/observation-astronomique/telescopes/a-quoi-sert-le-telescope-spatial-roman-pour-chasser-les-exoplanetes",
       "title": "À quoi sert le télescope spatial Roman pour chasser les exoplanètes ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:microlensing"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8588,14 +8588,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.992Z"
     },
     {
       "ref": "LEC-41FDA73FD98E",
       "path": "/espace-et-astronomie/observation-astronomique/telescopes/comment-le-telescope-webb-lit-il-la-composition-de-l-air-d-une-planete-lointaine",
       "title": "Comment le télescope Webb lit-il la composition de l'air d'une planète lointaine ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:transmission"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8604,14 +8604,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:01.090Z"
     },
     {
       "ref": "LEC-605CBCAE51A1",
       "path": "/espace-et-astronomie/observation-astronomique/telescopes/comment-plato-va-t-il-chercher-des-planetes-comme-la-terre",
       "title": "Comment PLATO va-t-il chercher des planètes comme la Terre ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:transit"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8620,14 +8620,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:01.573Z"
     },
     {
       "ref": "LEC-F56D795FC5A4",
       "path": "/espace-et-astronomie/observation-astronomique/telescopes/fabriquer-lunette-astronomique",
       "title": "Fabriquer une lunette astronomique",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:lens"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8636,14 +8636,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:01.664Z"
     },
     {
       "ref": "LEC-8032AC547234",
       "path": "/espace-et-astronomie/observation-astronomique/telescopes/pourquoi-voit-on-beaucoup-moins-d-etoiles-en-ville-qu-a-la-campagne",
       "title": "Pourquoi voit-on beaucoup moins d'étoiles en ville qu'à la campagne ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:skyglow"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8652,14 +8652,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:01.784Z"
     },
     {
       "ref": "LEC-1D9860F901EF",
       "path": "/espace-et-astronomie/observation-astronomique/telescopes/taille-des-telescopes-et-resolution",
       "title": "À quoi sert la taille d'un télescope",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:adaptiveoptics"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8668,14 +8668,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:01.873Z"
     },
     {
       "ref": "LEC-5B77DE7FFEB9",
       "path": "/espace-et-astronomie/systeme-solaire/lune/calendrier-lunaire",
       "title": "Le calendrier lunaire",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:lunation"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8684,14 +8684,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:01.967Z"
     },
     {
       "ref": "LEC-AC95B325F580",
       "path": "/espace-et-astronomie/systeme-solaire/lune/la-lune-formation-et-marees",
       "title": "La Lune, sa formation et les marées",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:tides"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8700,14 +8700,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.055Z"
     },
     {
       "ref": "LEC-EDD8ADCB4F69",
       "path": "/espace-et-astronomie/systeme-solaire/lune/pourquoi-la-lune-change-t-elle-de-forme-au-fil-du-mois",
       "title": "Pourquoi la Lune change-t-elle de forme au fil du mois ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:la-lune-et-nos-points-de-vue"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8716,14 +8716,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.139Z"
     },
     {
       "ref": "LEC-9F1CDE6C703C",
       "path": "/espace-et-astronomie/systeme-solaire/lune/pourquoi-n-y-a-t-il-pas-une-eclipse-a-chaque-nouvelle-lune",
       "title": "Pourquoi n'y a-t-il pas une éclipse à chaque nouvelle Lune ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:eclipse"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8732,14 +8732,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.221Z"
     },
     {
       "ref": "LEC-506D5478104A",
       "path": "/espace-et-astronomie/systeme-solaire/petits-corps/asteroides-cometes-et-meteorites",
       "title": "Astéroïdes, comètes et météorites",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:smallbodies"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8748,14 +8748,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.304Z"
     },
     {
       "ref": "LEC-0097C5EFE55B",
       "path": "/espace-et-astronomie/systeme-solaire/petits-corps/pourquoi-la-queue-d-une-comete-pointe-t-elle-toujours-a-l-oppose-du-soleil",
       "title": "Pourquoi la queue d'une comète pointe-t-elle toujours à l'opposé du Soleil ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:comet"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8764,14 +8764,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.414Z"
     },
     {
       "ref": "LEC-6C7A01178B87",
       "path": "/espace-et-astronomie/systeme-solaire/petits-corps/pourquoi-voit-on-des-pluies-d-etoiles-filantes-en-aout-et-en-decembre",
       "title": "Pourquoi voit-on des pluies d'étoiles filantes en août et en décembre ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:meteors"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8780,14 +8780,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.527Z"
     },
     {
       "ref": "LEC-A7E96DD0959E",
       "path": "/espace-et-astronomie/systeme-solaire/planetes/huit-planetes-systeme-solaire",
       "title": "Les huit planètes du Système solaire",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:planets"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8796,14 +8796,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.614Z"
     },
     {
       "ref": "LEC-CFDE9CEFCE42",
       "path": "/espace-et-astronomie/systeme-solaire/planetes/pourquoi-saturne-est-elle-entouree-d-anneaux",
       "title": "Pourquoi Saturne est-elle entourée d'anneaux ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:saturnrings"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8812,14 +8812,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.697Z"
     },
     {
       "ref": "LEC-B9068F81743F",
       "path": "/espace-et-astronomie/systeme-solaire/planetes/pourquoi-venus-est-elle-la-planete-la-plus-chaude-du-systeme-solaire",
       "title": "Pourquoi Vénus est-elle la planète la plus chaude du Système solaire ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:greenhouse"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8828,14 +8828,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.789Z"
     },
     {
       "ref": "LEC-1DBD90BC97B3",
       "path": "/espace-et-astronomie/systeme-solaire/planetes/pourquoi-y-a-t-il-des-saisons-sur-terre",
       "title": "Pourquoi y a-t-il des saisons sur Terre ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:un-axe-deux-saisons"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8844,14 +8844,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.872Z"
     },
     {
       "ref": "LEC-79431A748ED4",
       "path": "/espace-et-astronomie/systeme-solaire/planetes/que-veut-dire-zone-habitable-pour-une-exoplanete",
       "title": "Que veut dire zone habitable pour une exoplanète ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:habitable"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -8860,8 +8860,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.964Z"
     },
     {
       "ref": "LEC-686336EE61B6",
@@ -9059,7 +9059,7 @@
       "ref": "LEC-6396B8B36718",
       "path": "/geographie-et-territoires/geographie-physique/climatologie/comment-un-cyclone-tropical-nait-il-au-dessus-d-une-mer-chaude",
       "title": "Comment un cyclone tropical naît-il au-dessus d'une mer chaude ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:naissance-d-un-cyclone"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -9068,8 +9068,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.045Z"
     },
     {
       "ref": "LEC-8EFA7FDFF634",
@@ -9539,7 +9539,7 @@
       "ref": "LEC-DB82E70927B9",
       "path": "/industries/industrie-lourde/chimie-industrielle/comment-le-bois-devient-il-une-feuille-de-papier",
       "title": "Comment le bois devient-il une feuille de papier ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:de-la-pate-a-la-feuille"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -9548,8 +9548,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.122Z"
     },
     {
       "ref": "LEC-D6A5A0713C29",
@@ -9795,7 +9795,7 @@
       "ref": "LEC-4751CD3A227C",
       "path": "/industries/industrie-manufacturiere/chaine-logistique/comment-une-caisse-lit-elle-un-code-barres",
       "title": "Comment une caisse lit-elle un code-barres ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:barcode"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -9804,8 +9804,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.229Z"
     },
     {
       "ref": "LEC-E64DC17D5B6E",
@@ -10115,7 +10115,7 @@
       "ref": "LEC-794C2223724F",
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/apprentissage-par-renforcement-alphago",
       "title": "Apprendre en jouant des millions de parties",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:golearning"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10124,14 +10124,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.339Z"
     },
     {
       "ref": "LEC-E8ED9D1C8A00",
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/comment-une-ia-a-t-elle-appris-seule-a-jouer-a-des-jeux-video-atari",
       "title": "Comment une IA a-t-elle appris seule à jouer à des jeux vidéo Atari ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:arcadelearning"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10140,14 +10140,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.452Z"
     },
     {
       "ref": "LEC-92A85DA145A4",
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/pourquoi-une-ia-doit-elle-parfois-tenter-des-choix-au-hasard-pour-mieux-apprendre",
       "title": "Pourquoi une IA doit-elle parfois tenter des choix au hasard pour mieux apprendre ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:exploration"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10156,14 +10156,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.562Z"
     },
     {
       "ref": "LEC-8DB5008AA153",
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-profond/comment-un-reseau-de-neurones-convolutif-repere-t-il-les-formes-dans-une-image",
       "title": "Comment un réseau de neurones convolutif repère-t-il les formes dans une image ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:convolution"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10172,14 +10172,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.638Z"
     },
     {
       "ref": "LEC-BBC5189C444A",
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-profond/comment-un-reseau-de-neurones-recurrent-se-souvient-il-du-debut-d-une-phrase",
       "title": "Comment un réseau de neurones récurrent se souvient-il du début d'une phrase ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:recurrent"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10188,14 +10188,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.747Z"
     },
     {
       "ref": "LEC-302A5FA58BA8",
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-profond/principes-apprentissage-profond",
       "title": "Comment une machine apprend",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:gradient"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10204,14 +10204,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.855Z"
     },
     {
       "ref": "LEC-9F1C8D707F7C",
       "path": "/intelligence-artificielle/apprentissage-automatique/comment-fonctionnaient-les-systemes-experts-ces-ia-faites-de-regles",
       "title": "Comment fonctionnaient les systèmes experts, ces IA faites de règles ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:expertinference"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10220,14 +10220,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.946Z"
     },
     {
       "ref": "LEC-A02BB8E6C714",
       "path": "/intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement/donnees-dentrainement-et-surapprentissage",
       "title": "Les données d'entraînement",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:overfitting"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10236,14 +10236,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.071Z"
     },
     {
       "ref": "LEC-6266AA8B0997",
       "path": "/intelligence-artificielle/ethique-et-societe/biais/biais-algorithmiques-exemples-documentes",
       "title": "Les biais des algorithmes",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:biasloop"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10252,14 +10252,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.145Z"
     },
     {
       "ref": "LEC-AA0E40CD2E88",
       "path": "/intelligence-artificielle/ethique-et-societe/biais/pourquoi-certains-logiciels-de-reconnaissance-faciale-se-trompent-ils-plus-sur-certains-visages",
       "title": "Pourquoi certains logiciels de reconnaissance faciale se trompent-ils plus sur certains visages ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:facematching"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10268,14 +10268,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.228Z"
     },
     {
       "ref": "LEC-E0BF8BB5930D",
       "path": "/intelligence-artificielle/ethique-et-societe/regulation/reglement-europeen-sur-lia-ai-act",
       "title": "Le règlement européen sur l'IA",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:aiact"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10284,14 +10284,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.298Z"
     },
     {
       "ref": "LEC-97143F23273B",
       "path": "/intelligence-artificielle/ethique-et-societe/travail-et-usages/comment-l-intelligence-artificielle-aide-t-elle-les-personnes-aveugles-ou-sourdes",
       "title": "Comment l'intelligence artificielle aide-t-elle les personnes aveugles ou sourdes ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:assistive"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10300,14 +10300,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.373Z"
     },
     {
       "ref": "LEC-3EF780DA9082",
       "path": "/intelligence-artificielle/ethique-et-societe/travail-et-usages/comment-un-robot-peut-il-apprendre-a-agir-dans-des-situations-qu-il-n-a-jamais-vues",
       "title": "Comment un robot peut-il apprendre à agir dans des situations qu'il n'a jamais vues ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:robotaction"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10316,14 +10316,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.444Z"
     },
     {
       "ref": "LEC-26F92C2DA080",
       "path": "/intelligence-artificielle/ethique-et-societe/travail-et-usages/ia-et-transformation-du-travail",
       "title": "Ce que l'IA change dans le travail",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:worktasks"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10332,14 +10332,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.522Z"
     },
     {
       "ref": "LEC-B2D409533735",
       "path": "/intelligence-artificielle/ethique-et-societe/travail-et-usages/que-peut-faire-l-ia-dans-un-tribunal-et-qu-est-ce-qui-est-interdit",
       "title": "Que peut faire l'IA dans un tribunal, et qu'est-ce qui est interdit ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:justiceai"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10348,14 +10348,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.651Z"
     },
     {
       "ref": "LEC-844B736AF5D2",
       "path": "/intelligence-artificielle/modeles-de-langage/ia-generative/comment-fabrique-t-on-un-deepfake-et-pourquoi-faut-il-s-en-mefier",
       "title": "Comment fabrique-t-on un deepfake, et pourquoi faut-il s'en méfier ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:syntheticmedia"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10364,14 +10364,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.770Z"
     },
     {
       "ref": "LEC-21071EF3D5BB",
       "path": "/intelligence-artificielle/modeles-de-langage/ia-generative/comment-une-ia-fabrique-t-elle-une-image-a-partir-d-une-simple-phrase",
       "title": "Comment une IA fabrique-t-elle une image à partir d'une simple phrase ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:diffusion"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10380,14 +10380,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.839Z"
     },
     {
       "ref": "LEC-12C3DBF1EECE",
       "path": "/intelligence-artificielle/modeles-de-langage/ia-generative/gpt-4o-ia-generative-multimodale",
       "title": "L'IA générative multimodale",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:multimodal"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10396,14 +10396,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.909Z"
     },
     {
       "ref": "LEC-3A6A7CB393D2",
       "path": "/intelligence-artificielle/modeles-de-langage/limites-et-erreurs/limites-des-modeles-de-langage",
       "title": "Pourquoi une IA invente des choses fausses",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:hallucination"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10412,14 +10412,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.984Z"
     },
     {
       "ref": "LEC-4C0AF65826C5",
       "path": "/intelligence-artificielle/modeles-de-langage/limites-et-erreurs/pourquoi-une-ia-conversationnelle-ne-connait-elle-pas-les-dernieres-nouvelles",
       "title": "Pourquoi une IA conversationnelle ne connaît-elle pas les dernières nouvelles ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:retrieval"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10428,14 +10428,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.105Z"
     },
     {
       "ref": "LEC-25FF43F52380",
       "path": "/intelligence-artificielle/modeles-de-langage/transformeurs/comment-une-ia-peut-elle-comprendre-a-la-fois-une-image-et-une-phrase",
       "title": "Comment une IA peut-elle comprendre à la fois une image et une phrase ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:visionlanguage"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10444,14 +10444,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.199Z"
     },
     {
       "ref": "LEC-6631BD3EA7FD",
       "path": "/intelligence-artificielle/modeles-de-langage/transformeurs/faire-tourner-ia-ordinateur",
       "title": "Faire tourner une IA sur son ordinateur",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:localmodel"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10460,14 +10460,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.300Z"
     },
     {
       "ref": "LEC-9BC756CB0E7E",
       "path": "/intelligence-artificielle/modeles-de-langage/transformeurs/transformeurs-architecture-ia",
       "title": "Les transformeurs",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:attention"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10476,8 +10476,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.392Z"
     },
     {
       "ref": "LEC-C40D5C10C147",
@@ -10499,7 +10499,7 @@
       "ref": "LEC-784516E9E775",
       "path": "/micro-informatique-et-informatique/donnees/representation-et-compression/comment-un-ordinateur-peut-il-tout-ecrire-avec-seulement-des-0-et-des-1",
       "title": "Comment un ordinateur peut-il tout écrire avec seulement des 0 et des 1 ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:binary"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10508,14 +10508,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.496Z"
     },
     {
       "ref": "LEC-AFBD38EFE77C",
       "path": "/micro-informatique-et-informatique/donnees/representation-et-compression/qu-est-ce-qu-un-pixel-et-comment-une-image-est-elle-faite-de-pixels",
       "title": "Qu'est-ce qu'un pixel, et comment une image est-elle faite de pixels ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:pixels"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10524,8 +10524,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.573Z"
     },
     {
       "ref": "LEC-B86B79207727",
@@ -10563,7 +10563,7 @@
       "ref": "LEC-5AA377C65CBB",
       "path": "/micro-informatique-et-informatique/logiciel/algorithmes/comment-un-ordinateur-range-t-il-une-liste-dans-l-ordre",
       "title": "Comment un ordinateur range-t-il une liste dans l'ordre ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:sorting"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10572,8 +10572,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.650Z"
     },
     {
       "ref": "LEC-C47F31457539",
@@ -10739,7 +10739,7 @@
       "ref": "LEC-2D7FCB04BCC6",
       "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-un-ecran-affiche-une-image",
       "title": "Comment un écran affiche une image",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:pixels"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10748,8 +10748,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.746Z"
     },
     {
       "ref": "LEC-F22835C08DE1",
@@ -10819,7 +10819,7 @@
       "ref": "LEC-B472826E061D",
       "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-fonctionne-un-processeur",
       "title": "Comment fonctionne un processeur",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:cpu"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -10828,8 +10828,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.830Z"
     },
     {
       "ref": "LEC-7659AA58CC8B",
@@ -11123,7 +11123,7 @@
       "ref": "LEC-EEEF554B42ED",
       "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-le-wi-fi-fait-il-voyager-des-donnees-a-travers-l-air",
       "title": "Comment le Wi-Fi fait-il voyager des données à travers l'air ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:les-donnees-dans-l-air"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -11132,8 +11132,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.913Z"
     },
     {
       "ref": "LEC-D28735C347AD",
@@ -11459,7 +11459,7 @@
       "ref": "LEC-BE94A35A77FE",
       "path": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/comment-une-roche-se-transforme-t-elle-peu-a-peu-en-sol",
       "title": "Comment une roche se transforme-t-elle peu à peu en sol ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:naissance-d-un-sol"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -11468,8 +11468,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.008Z"
     },
     {
       "ref": "LEC-C7F58A418282",
@@ -11907,7 +11907,7 @@
       "ref": "LEC-90D2C47CF44E",
       "path": "/sciences-fondamentales/biologie/cellule/comment-une-feuille-fabrique-t-elle-du-sucre-avec-de-la-lumiere",
       "title": "Comment une feuille fabrique-t-elle du sucre avec de la lumière ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:feuille-et-lumiere"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -11916,8 +11916,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.088Z"
     },
     {
       "ref": "LEC-BD8A6750BAD9",
@@ -12003,7 +12003,7 @@
       "ref": "LEC-4FD30017A6DF",
       "path": "/sciences-fondamentales/biologie/genetique/decouverte-structure-adn",
       "title": "La découverte de la structure de l'ADN",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:dna"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -12012,8 +12012,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.163Z"
     },
     {
       "ref": "LEC-B94BE1EE513E",
@@ -12147,8 +12147,8 @@
       "ref": "LEC-A2831C0B1F61",
       "path": "/sciences-fondamentales/chimie/chimie-organique/comment-fabrique-t-on-du-savon-avec-de-l-huile",
       "title": "Comment fabrique-t-on du savon avec de l'huile ?",
-      "status": "REVIEW_REQUIRED",
-      "visualRefs": ["atelier:savon-et-graisse", "schema:saponification"],
+      "status": "READY",
+      "visualRefs": ["schema:saponification", "atelier:savon-et-graisse"],
       "hasVisual": true,
       "hasDrawing": true,
       "hasInlineSchema": true,
@@ -12156,14 +12156,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.247Z"
     },
     {
       "ref": "LEC-2BA57D6D817C",
       "path": "/sciences-fondamentales/chimie/chimie-organique/distillation",
       "title": "La distillation",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:distillation"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -12172,8 +12172,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.330Z"
     },
     {
       "ref": "LEC-543DEF1CB011",
@@ -12275,7 +12275,7 @@
       "ref": "LEC-ECB7D1BADD00",
       "path": "/sciences-fondamentales/mathematiques/algebre/numeration-position-zero",
       "title": "La numération de position et le zéro",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:binary"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -12284,8 +12284,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.411Z"
     },
     {
       "ref": "LEC-EFC34CDD9AC4",
@@ -12419,7 +12419,7 @@
       "ref": "LEC-EEEB01E99A49",
       "path": "/sciences-fondamentales/mathematiques/probabilites-et-statistiques/le-hasard-et-les-probabilites",
       "title": "Le hasard et les probabilités",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:probability"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -12428,8 +12428,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.538Z"
     },
     {
       "ref": "LEC-8927182D1EAC",
@@ -12483,7 +12483,7 @@
       "ref": "LEC-1CC8DA9C87FB",
       "path": "/sciences-fondamentales/physique/electromagnetisme/comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite",
       "title": "Comment une dynamo de vélo fabrique-t-elle de l'électricité ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:induction"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -12492,8 +12492,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.622Z"
     },
     {
       "ref": "LEC-D3F721AD3555",
@@ -12515,7 +12515,7 @@
       "ref": "LEC-B40D32439244",
       "path": "/sciences-fondamentales/physique/electromagnetisme/lentilles-optique",
       "title": "Les lentilles et l'optique",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:lens"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -12524,8 +12524,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.703Z"
     },
     {
       "ref": "LEC-33EB12F4F5DC",
@@ -12579,7 +12579,7 @@
       "ref": "LEC-08148A8FC345",
       "path": "/sciences-fondamentales/physique/electromagnetisme/tension-courant-resistance",
       "title": "Tension, courant et résistance",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:allumer-une-lampe"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -12588,8 +12588,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.772Z"
     },
     {
       "ref": "LEC-16E541445C21",
@@ -12627,7 +12627,7 @@
       "ref": "LEC-BD3F1EEE8860",
       "path": "/sciences-fondamentales/physique/mecanique/pendule-mesure-temps",
       "title": "Le pendule et la mesure du temps",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:pendulum"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -12636,8 +12636,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.845Z"
     },
     {
       "ref": "LEC-23EE8AD844D4",
@@ -12675,7 +12675,7 @@
       "ref": "LEC-0CA01323140F",
       "path": "/sciences-fondamentales/physique/mecanique/pourquoi-un-bateau-en-acier-flotte-t-il",
       "title": "Pourquoi un bateau en acier flotte-t-il ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:le-bateau-et-l-eau-deplacee"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -12684,8 +12684,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.916Z"
     },
     {
       "ref": "LEC-B79236AAB569",
@@ -12851,7 +12851,7 @@
       "ref": "LEC-298D1EED0918",
       "path": "/sciences-fondamentales/sciences-de-la-terre/geologie/tectonique-des-plaques",
       "title": "La tectonique des plaques",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:tectonics"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -12860,14 +12860,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.995Z"
     },
     {
       "ref": "LEC-640025F3A5FF",
       "path": "/sciences-fondamentales/sciences-de-la-terre/geologie/trouver-eau-souterraine",
       "title": "Trouver l'eau souterraine",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:groundwater"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -12876,8 +12876,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.079Z"
     },
     {
       "ref": "LEC-1E6A433C5897",
@@ -12899,7 +12899,7 @@
       "ref": "LEC-5A5F6DD22CDC",
       "path": "/sciences-fondamentales/sciences-de-la-terre/oceanographie/comment-la-lune-fait-elle-monter-et-descendre-la-mer",
       "title": "Comment la Lune fait-elle monter et descendre la mer ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:tides"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -12908,8 +12908,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.155Z"
     },
     {
       "ref": "LEC-E12CAA472289",
@@ -12963,7 +12963,7 @@
       "ref": "LEC-BF3771F937AA",
       "path": "/sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes/volcans-et-tremblements-de-terre",
       "title": "Volcans et tremblements de terre",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:tectonics"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -12972,8 +12972,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.237Z"
     },
     {
       "ref": "LEC-588E545077DA",
@@ -13315,7 +13315,7 @@
       "ref": "LEC-6C276509D42D",
       "path": "/sciences-humaines-et-sociales/histoire/methode-historique/comment-le-carbone-14-permet-il-de-dater-un-os-ou-un-morceau-de-bois",
       "title": "Comment le carbone 14 permet-il de dater un os ou un morceau de bois ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:radiocarbon"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -13324,8 +13324,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.322Z"
     },
     {
       "ref": "LEC-C79C0DFDDEF6",
@@ -14771,7 +14771,7 @@
       "ref": "LEC-A41E7CADB76E",
       "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/comment-une-ecluse-fait-elle-monter-un-bateau-sans-aucune-pompe",
       "title": "Comment une écluse fait-elle monter un bateau sans aucune pompe ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:lock"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -14780,8 +14780,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.424Z"
     },
     {
       "ref": "LEC-5DF9575987A1",
@@ -14835,7 +14835,7 @@
       "ref": "LEC-A5FA676E543A",
       "path": "/technologies-et-ingenierie/genie-civil/structures/arc-voute",
       "title": "L'arc et la voûte",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:arch"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -14844,8 +14844,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "",
-      "reviewedAt": ""
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.508Z"
     },
     {
       "ref": "LEC-21C2DD8340A7",
@@ -14947,7 +14947,7 @@
       "ref": "LEC-BCBC8F9EB4D2",
       "path": "/technologies-et-ingenierie/genie-civil/structures/levier-poulie-plan-incline",
       "title": "Le levier, la poulie et le plan incliné",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:un-petit-effort-un-grand-levier"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -14956,8 +14956,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "",
-      "reviewedAt": ""
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.584Z"
     },
     {
       "ref": "LEC-540468E98AC5",
@@ -15059,7 +15059,7 @@
       "ref": "LEC-CC0B2D0F021A",
       "path": "/technologies-et-ingenierie/robotique/actionneurs/comment-un-verin-hydraulique-donne-t-il-une-force-enorme-a-une-machine",
       "title": "Comment un vérin hydraulique donne-t-il une force énorme à une machine ?",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["schema:hydraulic"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -15068,14 +15068,14 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.705Z"
     },
     {
       "ref": "LEC-37B0011F267F",
       "path": "/technologies-et-ingenierie/robotique/actionneurs/engrenages-courroies-transmissions",
       "title": "Engrenages, courroies et transmissions",
-      "status": "REVIEW_REQUIRED",
+      "status": "READY",
       "visualRefs": ["atelier:deux-roues-deux-vitesses"],
       "hasVisual": true,
       "hasDrawing": true,
@@ -15084,8 +15084,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.799Z"
     },
     {
       "ref": "LEC-E634695715A4",
