@@ -7423,9 +7423,9 @@ title: Comment une fresque reste-t-elle accrochée au mur pendant des siècles ?
 slug: comment-une-fresque-reste-t-elle-accrochee-au-mur-pendant-des-siecles
 categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
 summary: >
-  Le peintre pose ses couleurs sur un enduit de chaux encore frais. En séchant, la chaux
-  réagit avec le gaz carbonique de l'air et forme une fine pierre qui emprisonne les pigments.
-  La peinture fait alors partie du mur.
+  Le peintre pose ses couleurs sur un enduit de chaux encore frais. Au contact du dioxyde
+  de carbone de l'air, la chaux se transforme en carbonate de calcium : cette carbonatation
+  fixe les pigments dans la surface de l'enduit.
 tags: [peinture-et-sculpture]
 sources:
   - title: "Fresque"
@@ -7456,7 +7456,7 @@ quiz:
     explanation: >
       Le mot fresque vient de l'italien « a fresco », « dans le frais » : on peint sur un
       enduit encore humide.
-  - question: "Que forme la chaux en séchant au contact de l'air ?"
+  - question: "Que forme la chaux en réagissant avec le dioxyde de carbone de l'air ?"
     options:
       - "Du sable mouillé"
       - "Du carbonate de calcium, une sorte de pierre"
@@ -7489,7 +7489,7 @@ status: published
 
 ## En bref
 
-Le peintre pose ses couleurs sur un enduit de chaux encore frais. En séchant, la chaux réagit avec le gaz carbonique de l'air et forme une fine pierre qui emprisonne les pigments. La peinture fait alors partie du mur.
+Le peintre pose ses couleurs sur un enduit de chaux encore frais. Au contact du dioxyde de carbone de l'air, la chaux se transforme en carbonate de calcium : cette carbonatation fixe les pigments dans la surface de l'enduit.
 
 ## Peindre dans le frais
 
@@ -7497,7 +7497,7 @@ Le mot fresque vient de l'italien « a fresco », qui veut dire « dans le frais
 
 ## La chaux se change en pierre
 
-En séchant, la chaux de l'enduit réagit avec le dioxyde de carbone de l'air. Elle se transforme peu à peu en carbonate de calcium, la matière du calcaire. De minuscules cristaux se forment et emprisonnent les grains de pigment. La couleur n'est donc pas posée sur le mur comme une peinture ordinaire : elle fait partie de sa surface. C'est pour cela que certaines fresques ont traversé les siècles.
+La chaux de l'enduit réagit avec le dioxyde de carbone de l'air. Cette réaction, appelée carbonatation, la transforme peu à peu en carbonate de calcium, la matière du calcaire. Ce durcissement chimique est distinct de la simple évaporation de l'eau. De minuscules cristaux se forment et emprisonnent les grains de pigment. La couleur n'est donc pas posée sur le mur comme une peinture ordinaire : elle fait partie de sa surface. C'est pour cela que certaines fresques ont traversé les siècles.
 
 ## Une course contre la montre
 
@@ -7521,7 +7521,7 @@ elements:
 ## À retenir
 
 - Une fresque est peinte avec des pigments et de l'eau sur un enduit de chaux encore frais.
-- En séchant, la chaux réagit avec le gaz carbonique de l'air et devient du carbonate de calcium.
+- La chaux réagit avec le dioxyde de carbone de l'air : cette carbonatation produit du carbonate de calcium.
 - Les cristaux formés emprisonnent les pigments : la couleur fait partie du mur.
 - Le peintre travaille par « giornata », la surface qu'il peut peindre avant que l'enduit sèche.
 - Michel-Ange a peint à fresque le plafond de la chapelle Sixtine de 1508 à 1512.

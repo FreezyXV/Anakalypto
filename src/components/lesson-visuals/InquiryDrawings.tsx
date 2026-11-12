@@ -228,7 +228,7 @@ export function InquiryDrawing({ kind, step, id }: Props) {
         </Label>
         <rect x="133" y="114" width="89" height="43" rx="6" fill="#e4edf5" stroke={blue} />
         <Label x={177} y={143}>
-          {step === 2 ? "5" : "2 · 3"}
+          {step === 2 ? "5" : "2 et 3"}
         </Label>
         <path
           d="M246 114H313L296 157H261Z"

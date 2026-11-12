@@ -1,0 +1,45 @@
+# Revue des dessins existants — 12 novembre 2026
+
+191 leçons publiées de la file `REVIEW_REQUIRED` ont été rapprochées de leur titre, de leur résumé et du mécanisme illustré. Le dédoublonnage donne **153 schémas distincts et 20 ateliers**, soit 173 unités visuelles. Un schéma peut servir plusieurs leçons compatibles ; la leçon sur le savon possède un schéma et un atelier. Aucun nouveau sujet ni doublon de dessin n’est créé.
+
+**Bilan de recette : 169 unités conservées, 4 schémas corrigés, concernant 5 leçons.** Le texte et une question de quiz de la fresque sont également clarifiés ; son dessin est conservé. Les 50 associations déjà validées du lot précédent sont préservées.
+
+## Corrections confirmées
+
+| Référence visuelle    | Défaut observé                                                                                  | Correction et preuve après modification                                                                                                                                                                                                                                     |
+| --------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `schema:lift`         | L’incidence augmentait dans le mauvais sens par rapport à l’air incident allant vers la droite. | Rotation corrigée, filets redessinés autour du profil, portance accrue puis résiduelle au décrochage. [Ordinateur](desktop-after-lift.jpg), [mobile](mobile-01.jpg), commandes dans [la recette](corrected-controls.json). Deux leçons concernées : portance et décrochage. |
+| `schema:cpu`          | « 2 · 3 » pouvait être lu comme une multiplication alors que l’unité de calcul donne 5.         | « 2 et 3 » ; chaîne lire, décoder, calculer et ranger conservée. [Ordinateur](desktop-after-38.jpg), [mobile](mobile-38.jpg).                                                                                                                                               |
+| `schema:distillation` | « Eau séparée » ne permettait pas de distinguer l’eau de refroidissement du distillat.          | Légende « Eau de refroidissement » et trait de repère vers la chemise du réfrigérant. [Ordinateur](desktop-after-40.jpg), [mobile](mobile-40.jpg).                                                                                                                          |
+| `schema:lock`         | La porte aval fermée était plus basse que l’eau du sas rempli.                                  | Porte fermée rehaussée pour contenir l’eau. [Ordinateur](desktop-after-42.jpg), [mobile](mobile-42.jpg).                                                                                                                                                                    |
+
+La fresque distingue maintenant explicitement **carbonatation et évaporation** dans son résumé, son explication, son rappel et la deuxième question du quiz. Dire qu’une réaction accompagne le séchage n’était pas en soi une impossibilité chimique ; la nouvelle formulation précise le mécanisme enseigné. Le schéma éditorial et l’atelier, déjà explicites sur le CO₂ et le carbonate de calcium, restent inchangés. `lastVerified` est conservé : cette intervention ne constitue pas une revérification intégrale de l’article.
+
+Appuis primaires consultés : [NASA — Inclination Effects on Lift](https://www.grc.nasa.gov/WWW/k-12/VirtualAero/BottleRocket/airplane/incline.html) pour l’incidence et la séparation ; [Getty AAT — buon fresco, 300403944](https://www.getty.edu/vow/AATFullDisplay?find=300214627%5C&logic=null&note=%5C&page=1&subjectid=300403944) pour la réaction de la chaux avec le CO₂ formant du carbonate de calcium. Les sources déjà attachées à l’article restent conservées.
+
+## Recette visuelle
+
+- **Ordinateur, 1280 px :** les 44 planches `desktop-00.jpg` à `desktop-43.jpg` ont toutes été regardées. Elles montrent les trois états de chaque schéma, les deux états des interrupteurs, les curseurs à 0/25/50/75/100 et chaque situation alternative d’atelier. Les quatre schémas modifiés ont été regardés de nouveau après correction.
+- **Mobile, viewport 320 px :** les 44 planches `mobile-00.jpg` à `mobile-43.jpg` ont toutes été regardées. Ce sont des montages de captures du navigateur, sans agrandissement : chaque schéma est rendu à 251 px et chaque atelier à 276 px, les largeurs utiles des véritables composants mobiles. Le montage côte à côte permet de comparer les états ; il ne représente pas une page avec trois colonnes sur téléphone. Les commandes réelles et les captures de page complètent ces planches.
+- **Mesures DOM des 173 unités :** aucun texte SVG hors cadre, aucun chevauchement de deux textes dépassant 3 px sur les deux axes. Caractères SVG au moins 12,27 px dans ces conditions mobiles. Voir [ordinateur](desktop-measurements.json) et [mobile](mobile-measurements.json). Ces mesures ne remplacent pas la lecture des images : elles ne détectent ni les contresens ni tous les croisements de traits.
+- **20 ateliers :** les commandes réelles ont été utilisées à 320 px avec Entrée pour les interrupteurs et Début/Fin pour les curseurs. Chaque commande change la légende. Toutes les variantes ont été ouvertes ; l’état mémorisé reste stable après changement de commande ou de situation. Aucun débordement horizontal observé dans ces essais. [Première moitié](workshop-interactions-part1.json), [seconde moitié](workshop-interactions-part2.json).
+- **4 schémas corrigés :** les trois boutons ont été réessayés avec Entrée sur mobile ; dessin visible, légende et explication correspondent à l’état choisi. Le focus possède un contour de 3 px et la page mesure 320 px sans débordement. Voir [les résultats](corrected-controls.json) et les captures `mobile-interactive-6/153/160/168.jpg`.
+- **Fresque :** le vrai article, son schéma éditorial et son atelier ont été contrôlés après la mise à jour ciblée sur la branche de préproduction. La formulation du résumé et du quiz sert bien la carbonatation.
+
+Un style parasite introduit uniquement dans la planche de contrôle mobile a été repéré puis supprimé : il assombrissait à tort les légendes sur fond sombre. Toutes les planches mobiles ont été recapturées et relues après suppression. Aucune modification de contraste n’a été conservée dans l’application.
+
+## Traçabilité et absence de doublons
+
+[review-decisions.json](review-decisions.json) contient les 173 décisions et leurs planches. [lesson-checklist.json](lesson-checklist.json) relie les **191 références stables `LEC-…`** aux chemins exacts, références visuelles et empreintes du contenu réellement examiné. [mobile-index.json](mobile-index.json) donne la correspondance planche/unités.
+
+[before-render-hashes.json](before-render-hashes.json) a été capturé **avant les modifications**, sur le commit `7a03141b7b06aeb8f9abb6d527eadb2675b8b976`. Le test `tests/existing-drawings-review.test.ts` compare les sorties réelles du moteur actuel à ces empreintes : les 199 autres schémas du registre et tous les états/situations des 20 ateliers doivent rester identiques. Les quatre changements autorisés doivent effectivement modifier leur dessin. Deux tests géométriques supplémentaires vérifient le sens de l’incidence et la hauteur de la porte fermée par rapport à l’eau.
+
+La réservation et la validation utilisent la file PostgreSQL. Le script de traitement vérifie la publication, le propriétaire de réservation, l’empreinte du texte et la couverture de recette avant `complete`. Le rapport [backend-receipts.json](backend-receipts.json), puis l’export standard, enregistrent les décisions terminées. La fresque est seule à recevoir une mise à jour de texte : version précédente archivée dans `Revision`, sources, liens, autres réponses de quiz et dates conservés ; réservation renouvelée sur le nouveau hash avant validation indépendante du schéma éditorial.
+
+## Limites
+
+Il s’agit d’une revue pédagogique et visuelle de ces 191 associations, pas d’un nouvel audit scientifique intégral des 948 textes ni d’une nouvelle revue des 965 schémas éditoriaux. Les contrôles interactifs détaillés portent sur les 20 ateliers et les 4 schémas corrigés ; les autres schémas utilisent le même composant de commande inchangé. Aucun test avec participants ni lecteur d’écran réel n’a été effectué. Les animations n’ont pas fait l’objet d’une nouvelle mesure temporelle : leur moteur et tous les rendus d’atelier sont inchangés.
+
+## Vérifications techniques
+
+Les 120 tests isolés de contenu, SVG et suivi passent, dont les trois nouveaux tests de préservation et de géométrie. La validation du corpus passe sans écriture en base. Les résultats de compilation, CI et vérification publique sont complétés dans [release.md](release.md).

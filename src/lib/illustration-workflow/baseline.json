@@ -1,339 +1,339 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "76cf0c1f6399b56ea36913e0e4c9a18b4c33dbda81f5a3acf8262c613333c067",
+  "sourceDigest": "81198fe1068d4f692a40eead4b303532a3e7342cd935f8ea0b1f1279e064cc83",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
       "visualRefs": ["schema:windtunnel"],
-      "fingerprint": "de6ef6d45fee44c00d7df3feef7360268ff919e9a466613194071f69acfeda5f",
+      "fingerprint": "4b6beeb80a53404faf8ad738281b999b84a6af3f2eb2d0372ae451a36270a835",
       "contentHash": "8fc97307976906363ccf68512431a2c25c60e6416cc2e4560698528fe56f55ed",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.459Z"
     },
     {
       "path": "/aeronautique/aerodynamique/ecoulements/couche-limite-transition-laminaire-turbulent",
       "visualRefs": ["schema:boundary"],
-      "fingerprint": "810b82c5b1a297988af6d6774608c130c71ce5ce6fc9afc2ba638ff16ef904a9",
+      "fingerprint": "0d9bc53a90813a31eec86dafad063a0bf9c3fe071fd35412b7f494fd0e191b04",
       "contentHash": "c4beecf3031246593184734a8d66dd24f0aac3d0f12f7677cf6404f4567154fb",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.557Z"
     },
     {
       "path": "/aeronautique/aerodynamique/ecoulements/le-mur-du-son-et-le-bang-supersonique",
       "visualRefs": ["schema:sonicboom"],
-      "fingerprint": "e1b127629b382f095984c50f692d1d5be8c45dff727e83cb2ce348dea715ad83",
+      "fingerprint": "5a8f291d70926a4de385ed0c55525fcfe2a3b2025964737bc00f5259922af3ad",
       "contentHash": "c5dfc142f555770fdaf6b49cd5338e55d0e145303512171b6e80763af172324d",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.643Z"
     },
     {
       "path": "/aeronautique/aerodynamique/ecoulements/le-planeur-voler-sans-moteur",
       "visualRefs": ["schema:glide"],
-      "fingerprint": "f880b0b75ab4cc9de9a558f7369369add62190f42a2bb282a032e072af871829",
+      "fingerprint": "98da7007ee6d49c4b68e6fdfe4bcd6f23d27b8ae637a2a41f5f27c7361779010",
       "contentHash": "1e4a6a7df2879bf84a4371567c6da2c1fdf187efd3b40530e89d1f780f7d667a",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.722Z"
     },
     {
       "path": "/aeronautique/aerodynamique/ecoulements/vol-transsonique-onde-de-choc",
       "visualRefs": ["schema:transonic"],
-      "fingerprint": "06d46df6986d2197d379d92b4ffaa9f1422390fca6a8b6b136fa902fb46b783f",
+      "fingerprint": "cb95fe50aa7b4db15709a74a02027c185fcdf691deb816e4cfc9ebf58c84592a",
       "contentHash": "bb49faceb93302f91f357cc0dd5e93df84d3e251e60521901c7200f9a0e97d61",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.793Z"
     },
     {
       "path": "/aeronautique/aerodynamique/portance/comment-les-pales-d-un-helicoptere-creent-la-portance",
       "visualRefs": ["schema:helicopter"],
-      "fingerprint": "c87208a5d58e684b90cef688e79a5b532dff4422e49bee141a69f292d19c9ebb",
+      "fingerprint": "87a81d4ea84c24d18121a5d61bc5a270959b06d6532aaa5cabc1a6bbb4b75628",
       "contentHash": "c8efb965ddfce31c44c2fd9f54d2c2137e3aa35c110d4a61e415b5dcf99d9e0e",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.881Z"
     },
     {
       "path": "/aeronautique/aerodynamique/portance/comment-un-avion-de-ligne-peut-il-planer-quand-ses-moteurs-s-arretent",
       "visualRefs": ["schema:glide"],
-      "fingerprint": "8911394a3a4d2521c828436835b072e19f8cdf6ba82f1ba723dd9214b66679ec",
+      "fingerprint": "98da7007ee6d49c4b68e6fdfe4bcd6f23d27b8ae637a2a41f5f27c7361779010",
       "contentHash": "9c292691cd46242533b0f4fcc13e284569e191038a5592001b362dd8a7704774",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:49.973Z"
     },
     {
       "path": "/aeronautique/aerodynamique/portance/decrochage-aerodynamique",
       "visualRefs": ["schema:lift"],
-      "fingerprint": "219b1d24781869334390ccdf36408fff8f19980c89a0af33a6ba373ae1d4dc5a",
+      "fingerprint": "cb2f3b1643dd6ba275cc07601bce3fa4bdfc3af6cc6843d9439cb528c4783205",
       "contentHash": "eed3f596f98b0086e4ac5f6ad96bdbf3b52167e41d89e3f47f091110ebc7a267",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.055Z"
     },
     {
       "path": "/aeronautique/aerodynamique/portance/pourquoi-les-ailes-d-un-avion-changent-elles-de-forme-au-decollage-et-a-l-atterrissage",
       "visualRefs": ["schema:flaps"],
-      "fingerprint": "133365fb1bc51579c566fcd2b0882906741e85c3bf48267bc735139e97f237b5",
+      "fingerprint": "2259c45f984f8af278f24ab1aaa5d67267a1e817e92c97aa4732a03b64b2438e",
       "contentHash": "53dcbf9bdf757c3209add1513de10bdc3355331634b6cf691eac21d9e66f3d76",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.164Z"
     },
     {
       "path": "/aeronautique/aerodynamique/portance/pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air",
       "visualRefs": ["schema:lift"],
-      "fingerprint": "a9d1ac495760a221e51fe97330ddccd21323cc0cc5e08f9072f02dfa18dee3c9",
+      "fingerprint": "cb2f3b1643dd6ba275cc07601bce3fa4bdfc3af6cc6843d9439cb528c4783205",
       "contentHash": "a5519f8771327f9a6a1dbc1d87e04d655697c43e4e283837dc90abe85bb8e933",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.244Z"
     },
     {
       "path": "/aeronautique/aerodynamique/trainee/les-winglets-petits-ailerons-contre-la-trainee",
       "visualRefs": ["schema:winglet"],
-      "fingerprint": "12bf02c565ff71eb900812030acef10280fa270839df0bdacc046bb8f010bb38",
+      "fingerprint": "9249bac64200e487d9e3f72ac31bc6c77b877738730cb8315dd480ad4363bb08",
       "contentHash": "9fca44adebf513b39bfbefac2cb0189a151b236159638d40cc0ddb27b151e04b",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.324Z"
     },
     {
       "path": "/aeronautique/aerodynamique/trainee/pourquoi-le-givre-est-il-dangereux-pour-les-ailes-d-un-avion",
       "visualRefs": ["schema:icing"],
-      "fingerprint": "543b95eb85966bcc6abefcd6bc210d3b90fc9877b3de2199f35ab4017d3d3937",
+      "fingerprint": "2b08adaec4925b8ad23b62a27166976d30584605f097106b3742d412394a7dc6",
       "contentHash": "be68c892d366ee41e21baff9c7da1ac1cfb0e6383f13ef5561ae41061846ccac",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.406Z"
     },
     {
       "path": "/aeronautique/aerodynamique/trainee/trainee-aerodynamique-reduction",
       "visualRefs": ["schema:drag"],
-      "fingerprint": "df5b993dae47f2db2d3997540c7a3a90f2fb841326adfa281424885809579618",
+      "fingerprint": "72929fbfbcc59a2d72ac3a376ade2d5773e941367ffbe4cb2387b9a422df6baf",
       "contentHash": "9b720b4fd11563b790efff46f8947e372e3f952fe027f288d4acb47c8f7bc51a",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.489Z"
     },
     {
       "path": "/aeronautique/aviation-civile/certification-aeronautique/certification-avion-de-transport",
       "visualRefs": ["schema:certification"],
-      "fingerprint": "b8131ddb9626d8284af615868a35604240769fc76f19b46c792fee8c929b93af",
+      "fingerprint": "a4e97b0c9e001684c366c956bbea510c25e782106aa51965a05a84cd7ea5dca5",
       "contentHash": "66f2fb537c5e30ccb1bc316cbd033b5d064e5458644cbda1eb262175ee19d266",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.568Z"
     },
     {
       "path": "/aeronautique/aviation-civile/decarbonation/carburants-aviation-durables-saf",
       "visualRefs": ["schema:saf"],
-      "fingerprint": "4d1fd6fcb7c608956d50bf0025dd56b0cd8b5c4c2f87bb4e3d4634c319d1d0a4",
+      "fingerprint": "8e7416aa7f0aa0c0b0f35f31ca8a952d2826c5348d6eec6154214313063fbda2",
       "contentHash": "cc5ab81bd03ea8464d05f46c02ce2cb5ec12ab4fb0d68a4c450ebc41732157aa",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.655Z"
     },
     {
       "path": "/aeronautique/aviation-civile/decarbonation/les-concepts-d-avion-a-hydrogene-d-airbus",
       "visualRefs": ["schema:zeroe"],
-      "fingerprint": "4cbc692e921e038d8c82b81df83ba2e4cbd47df7ef2b2d3694f384918c2276ec",
+      "fingerprint": "5483dbe1eb276194c87fdcf2a7da296c803e50650c9d5c192e73f240fc921dee",
       "contentHash": "4b238f15701eb3299247c346e7125d8e4bcbf6494bf9bf9923edceff823acf3f",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.743Z"
     },
     {
       "path": "/aeronautique/aviation-civile/securite/comment-deux-avions-evitent-ils-de-se-rentrer-dedans-en-plein-ciel",
       "visualRefs": ["schema:tcas"],
-      "fingerprint": "1a08d7b7f350836883ce2e7dc65899a4a8a990caa2a5e2799f077b0f8793e7cb",
+      "fingerprint": "db072d0ae6eeb5914c31c36d62898b2142d72c39f1533cfc6a2e0e8c0f7d198b",
       "contentHash": "2fa089c72199195ed1da66b7ef0e54d49386eb4bfaaeb83da21349866afb1e51",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.831Z"
     },
     {
       "path": "/aeronautique/aviation-civile/securite/enquetes-de-securite-apres-accident",
       "visualRefs": ["schema:investigation"],
-      "fingerprint": "9de0f05070e318e832011570be34735af8c3dabe817153c252f6cba406b3a948",
+      "fingerprint": "17381ea35e5719726dfaf155e0fddee0c312c73924ee6d4583f7a10da5aa470a",
       "contentHash": "4acc7783ca344f27ebc2bc5fb5d2b7737f567e369765c72419c0ea13a6570534",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:50.905Z"
     },
     {
       "path": "/aeronautique/aviation-civile/securite/la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident",
       "visualRefs": ["schema:recorders"],
-      "fingerprint": "82aedaeebd01a8edb8d6b3452e7b812b3826ddd54094d2ddcac66699cfacb0f2",
+      "fingerprint": "dcb9607a321a4464c0ba84ed5b4f7a57bc1c7772115d80a4536aa23ed873ffa9",
       "contentHash": "13aa4f2f73073161f245b6ec0550f92f31bc887a42ad397e3cddeeb4f6350f00",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.014Z"
     },
     {
       "path": "/aeronautique/aviation-civile/securite/les-turbulences-pourquoi-l-avion-est-secoue",
       "visualRefs": ["schema:turbulence"],
-      "fingerprint": "c1c394c2e6fe815cdf65e2d571968f8c9a9ef93cfd0945a4d1305c8f1dfad4e7",
+      "fingerprint": "149116ed00fa62e8cfc3076910c1d836e1a73c154a31becbf84f55e5693c4bba",
       "contentHash": "1f00ef9fc91ff4ae7a12f092b2a066ed495575619b6d20ad1aac0bee647510bc",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.086Z"
     },
     {
       "path": "/aeronautique/aviation-civile/securite/statistiques-mondiales-securite-aerienne",
       "visualRefs": ["schema:airrates"],
-      "fingerprint": "b5fa05dc262d65c905d1ad4409dd6e76d3ad0a89001ed7ea3ce7e575c51e8cfd",
+      "fingerprint": "1c25246d3bec53cb190630321842bb46431fab8dd3d48aea4cab11bd0b9d64c4",
       "contentHash": "3a56e8b92d72336df4251add6b593c75c08531887a4beef9b124fd7400a8b087",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.164Z"
     },
     {
       "path": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/comment-peut-on-suivre-sur-internet-les-avions-en-plein-vol",
       "visualRefs": ["schema:adsb"],
-      "fingerprint": "fc165dccd1b7061d680b384a1066835c00627d8ce59eb30b0c69d18c789f6974",
+      "fingerprint": "102174923bad90f970828bbc3edfe71884585bf35aad702a4d50d357278d2bb2",
       "contentHash": "4b7e3fa884d62cbfc3f02ee515005c4c4883ba76a9132efa95792440d4b488d1",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.236Z"
     },
     {
       "path": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/controle-du-trafic-aerien-principes",
       "visualRefs": ["schema:aircontrol"],
-      "fingerprint": "98dedc83fac4d94556e2abccb14f04b5b40904bc7e564d960d621b5981f3c4aa",
+      "fingerprint": "7fa63a6fad30e9f94d5c172c281ba07c8a09eb04f7e2f7a9f19ae18797261e2b",
       "contentHash": "457f5c6aeeae1d3a250570c59435eea48d0757eccc1606a2483b91194827f927",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.309Z"
     },
     {
       "path": "/aeronautique/navigation-aerienne/instruments-de-vol/comment-le-pilote-automatique-tient-il-un-avion-sur-sa-route",
       "visualRefs": ["atelier:le-pilote-qui-corrige"],
-      "fingerprint": "453f0a754ce7f37f8726fbc045e50325d376e02fa2a5a8cf4cf59a34201cd8c9",
+      "fingerprint": "f612de7c4f32c43a76df9340d4c7dc82da157afda7e02f8a60600de7b4db3076",
       "contentHash": "5ae7b02de84bc4e72bf95f81deb1da050e25e02909b3cc9816c1c029e9af28dd",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.414Z"
     },
     {
       "path": "/aeronautique/navigation-aerienne/instruments-de-vol/comment-un-pilote-peut-il-trouver-sa-route-sans-gps",
       "visualRefs": ["schema:reckoning"],
-      "fingerprint": "1496e46add00ab0325638a25760f39109d6f6f9f02ce1f5ad557a3ce1bfacadc",
+      "fingerprint": "6eea6239176b244f92c9b378dee690aa87aed203e4f110e86b84dbddfba80aeb",
       "contentHash": "b9b4bb59c445c0be4a996bcf211d9d6d5e28cdb6cb66a44c7e38ee2da2a2824d",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.497Z"
     },
     {
       "path": "/aeronautique/navigation-aerienne/instruments-de-vol/comment-un-pilote-sait-il-ou-est-le-haut-dans-les-nuages",
       "visualRefs": ["schema:attitude"],
-      "fingerprint": "7d8e01597527a552f16e5c5606adf9f322318af31841059c713511a79eec43ce",
+      "fingerprint": "925565d96c085682f8fea1813228a3af98a190a5bbab1b20952472ee3e4ea055",
       "contentHash": "8793721798cb6d4474d2adc302c25ed409ee88d5092dafc992cce588cc00b0e4",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.615Z"
     },
     {
       "path": "/aeronautique/navigation-aerienne/instruments-de-vol/instruments-de-vol-primaires",
       "visualRefs": ["schema:sixpack"],
-      "fingerprint": "0770af12d79b73c2464ed604cfc97f93795734079e8de363818fd51e3692b7b5",
+      "fingerprint": "2d3ca9914a91281c669f5db3a5e6852f334f2de4813aec0376888b9ce4e8b642",
       "contentHash": "240b3909c601270d19b09bbb076b57cf7b3d41aedf925fbcd4498e9d3f0d73c6",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.696Z"
     },
     {
       "path": "/aeronautique/navigation-aerienne/instruments-de-vol/systemes-de-navigation-inertielle-et-satellitaire",
       "visualRefs": ["schema:inertial"],
-      "fingerprint": "be6c6f6a6ffca06fa1e837c2569f5d1c37fc129c9fe64cd424efbae9c20839f6",
+      "fingerprint": "ec4147202971b2a57fab877b04f8d0b993be2e77a9e4bad10ad0d291a8dd2b08",
       "contentHash": "918902b032af1f8a42bf3d6289cc3601acc16afa46efac636ef5013612373230",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.806Z"
     },
     {
       "path": "/aeronautique/propulsion/moteurs-a-piston/fonctionnement-moteurs-a-piston-aeronautiques",
       "visualRefs": ["schema:aeroengine"],
-      "fingerprint": "42e6b30ee3e13cffffa18efe1b55856b6857c5b5001ffa1794938f8bc40c0d8e",
+      "fingerprint": "b9a05a48660516cd4ac98b97b448c6d2e6fa8d6a0439093d5ad9b208c631494c",
       "contentHash": "124f9324218a3b9071f1cf78c03b2ecaf162130cbd30daa40bec5e76aa14f60c",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.899Z"
     },
     {
       "path": "/aeronautique/propulsion/moteurs-a-piston/pourquoi-le-moteur-d-un-petit-avion-a-t-il-deux-allumages",
       "visualRefs": ["schema:magnetos"],
-      "fingerprint": "351372e7d0e19b2de2a9c6a72d0a9177f262abf3d98da3293f4ee24edd814c99",
+      "fingerprint": "a4ec36a0c8e05d754d70bd74ab13580b231b71ac45afad06810f6e18c145f48a",
       "contentHash": "d672134fae0a77b176ebbd461202457e021edf8a9c8cc37cce52e52ed48fd02f",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:51.993Z"
     },
     {
       "path": "/aeronautique/propulsion/propulsion-electrique-aeronautique/propulsion-electrique-hybride-aeronautique",
       "visualRefs": ["schema:electricair"],
-      "fingerprint": "fbf611683bac3e8edbc5d5a0d2f40cda411cca908aa4a9135fb27763fed16ea7",
+      "fingerprint": "eccf02bc4ebe892107b447ff08a6dabd9b2fd4b1db95a028b927f627e19b3e81",
       "contentHash": "6da1ca7160301056270ad4dfde4a5f7a34eaa03784fec0411243081f4562b174",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.109Z"
     },
     {
       "path": "/aeronautique/propulsion/propulsion-electrique-aeronautique/que-rejette-un-avion-a-hydrogene-et-ou-loge-t-on-le-carburant",
       "visualRefs": ["schema:hydrogenair"],
-      "fingerprint": "80294618da34b0675723fe742d87685c092cbaad119119072b911dc38ab38058",
+      "fingerprint": "d6797cb9f666a0341a7206f0489755f9719a08401c2dd1494661592a77034240",
       "contentHash": "c8d321acb2609644b36569203faf13fa19ebe7e32fe0d2b449d36649d8973cb1",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.209Z"
     },
     {
       "path": "/aeronautique/propulsion/turbopropulseurs/comment-un-avion-bombardier-d-eau-remplit-il-ses-reservoirs-sans-s-arreter",
       "visualRefs": ["schema:scooper"],
-      "fingerprint": "1ab45a6d8ad44155c90f5f98a68191b11eb95a111f1eb24e2a7d47cf31fdd18e",
+      "fingerprint": "957175b99a0aed83a7d44bd004390f87a618d1bcefe6aacb7cf2c76c30982de7",
       "contentHash": "4a855abc4f26454075cdba4f9959aece03b19527ceb48276f102abf96525baa0",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.324Z"
     },
     {
       "path": "/aeronautique/propulsion/turbopropulseurs/turbopropulseur-principe-domaine-emploi",
       "visualRefs": ["schema:turboprop"],
-      "fingerprint": "3f56417a9595e51fff8ce8560dcb2b075bbad6dce2bbcb66da4bde6dfc61e834",
+      "fingerprint": "9dcc526434c7acc7513d6c04067001b6674467aa780387536d5c1816376d4288",
       "contentHash": "a1d9df3cc3c2271054d1a62e7bda7b41112aa45d533614878145733fa30c1fec",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.421Z"
     },
     {
       "path": "/aeronautique/propulsion/turboreacteurs/comment-un-avion-de-ligne-freine-t-il-apres-l-atterrissage",
       "visualRefs": ["schema:landingbrakes"],
-      "fingerprint": "a628ee05cd6efc5c22f78c1bf424f93ba00087f486b195d0b396052431117fa8",
+      "fingerprint": "f79a506b3a077710ceb2d1c597b4aed57720b6bebdca3f3459b1811d4e477e6b",
       "contentHash": "a3c7e1c60f53ac659bd69949679abd4656fedb54dc5d2529d5f4dd4129b1e8d7",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.515Z"
     },
     {
       "path": "/aeronautique/propulsion/turboreacteurs/fonctionnement-turboreacteur",
       "visualRefs": ["schema:jet"],
-      "fingerprint": "0c62f12cca2f4f3b6f9043280a42e6c7f513bd407924a49b6afa45fef105d302",
+      "fingerprint": "8c1bf544328930c901f2ceacff86a645170a6ac467dc6513dcbaf02eba5cd124",
       "contentHash": "8eb19d4e5dfdf23374e6b70b41a1c88b012113ed2579d02cf1eddf26b8c40ec8",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.596Z"
     },
     {
       "path": "/aeronautique/propulsion/turboreacteurs/taux-de-dilution-turboreacteurs",
       "visualRefs": ["schema:jet"],
-      "fingerprint": "52d8a25d98a29addb130bc77687a3cc26b7857ad1d816fd9b682d27f681d06a5",
+      "fingerprint": "8c1bf544328930c901f2ceacff86a645170a6ac467dc6513dcbaf02eba5cd124",
       "contentHash": "e0b35aa67f60dac89698d5d37af467b764a0a20ddf0a08c189db6cd5c841f70a",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.688Z"
     },
     {
       "path": "/alimentation-et-nutrition/technologies-alimentaires/fermentation/comment-des-bacteries-transforment-elles-le-lait-en-yaourt",
@@ -347,11 +347,11 @@
     {
       "path": "/alimentation-et-nutrition/technologies-alimentaires/fermentation/comment-le-levain-fait-il-gonfler-la-pate-a-pain",
       "visualRefs": ["atelier:le-pain-qui-gonfle"],
-      "fingerprint": "a709a2955103c6e488992e9c52f1eb8be6a3f470f2a43ca6c4d73b5dd15be166",
+      "fingerprint": "eff3941ce99039428caff240348c673d5bf8d2f2c936d1d71144711a6b8a8984",
       "contentHash": "bd3c0f6e435a0d87b3db8d10eb6fd6eab9f964c5fed147d19091ea5ad8c48f07",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.808Z"
     },
     {
       "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/comment-un-grain-de-ble-devient-il-de-la-farine",
@@ -365,524 +365,524 @@
     {
       "path": "/arts-et-culture/arts-du-spectacle/musique/pourquoi-deux-instruments-ne-sonnent-ils-pas-pareil-sur-la-meme-note",
       "visualRefs": ["schema:timbre"],
-      "fingerprint": "152b9c2783e702fa522a95ce8e4940411f61f7f6532392ba0838d7ef105eba53",
+      "fingerprint": "51a843dbf4afc58314c1e336a1e1dc4b0b8624d419425767bffc2ead204daebd",
       "contentHash": "282e4905ed509573b863a1e154aba87842398d07df8ce9adf8c56179bb5245a3",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:52.923Z"
     },
     {
       "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/comment-une-gravure-permet-elle-d-imprimer-la-meme-image-des-dizaines-de-fois",
       "visualRefs": ["schema:engraving"],
-      "fingerprint": "b796143a32317fe6388133240de9033f025ef08ef60fb9425c08b6d42ea253f8",
+      "fingerprint": "9a459cd734f4e93212cccff89c01a0f0f9e03fc5b812592c1decf3c8c81b6065",
       "contentHash": "32a1889de967facd8af46e7b22b9acd7492e7cb8cc6790f81e6d8cc91c852cf9",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.057Z"
     },
     {
       "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/comment-une-fresque-reste-t-elle-accrochee-au-mur-pendant-des-siecles",
       "visualRefs": ["atelier:la-couleur-dans-le-mur"],
-      "fingerprint": "8a9d8809f6627ec8024a68b687626b147ff2532d503f9e73104b1dd3b32bea9f",
-      "contentHash": "4682128cf2876121e2875929f4c7e610a51a44641b401a9fc569028ec1d8ddc7",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "fingerprint": "de8b297fd95dec83fd91a322a1d84b502382a51f6bca78edf5419852680eaf2e",
+      "contentHash": "887f33fe0aec3010e2fdb1d61cde5074122c4c70b50fa0b0f1061e62af9fa3c7",
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.205Z"
     },
     {
       "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/perspective-lineaire-renaissance",
       "visualRefs": ["schema:perspective"],
-      "fingerprint": "3bd9a5fdff690d91077b0fe01e81f5233583eba9ac544f036d08bdc3d878d47d",
+      "fingerprint": "6517a1b8da0b0eff4913e70f582384e60945474ec2816400ac815c0ac420d028",
       "contentHash": "e2737b93b9f0c19fe054ac81fecc05aa77fe6a13bff58075e84d77e4a1c2984c",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.281Z"
     },
     {
       "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/invention-de-la-photographie",
       "visualRefs": ["schema:camera"],
-      "fingerprint": "823d717ae423e7b4a4e1c78abefe37877db31a8e0b9485de5371a5620df6bccd",
+      "fingerprint": "d3cb09b956d3489599e18fd87541e3adf33cb39d94479a9f9966bee0cb6bfb4a",
       "contentHash": "6db8202bab8046560f35da51b07306e49ba744a072119623ac47ee9504300ae0",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.366Z"
     },
     {
       "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/invention-de-limprimerie-a-caracteres-mobiles",
       "visualRefs": ["schema:printing"],
-      "fingerprint": "4c09948b5106b5a389f5fd49abfdccbd1a1cc642e1a0a14f7ba8ac326190be36",
+      "fingerprint": "069dabc2f051ca92a257c9da9e3f8c32f2ce3f4a98251a652dcbd12f2df9aba0",
       "contentHash": "5d28cfb0400173fc7845d13b81e40b28961ca09f1c7f021dea75cf29e7eea359",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.489Z"
     },
     {
       "path": "/automobile/motorisations/electrique/chimies-batteries-lithium-ion-automobile",
       "visualRefs": ["schema:battery"],
-      "fingerprint": "5abc5567547191120f3c4caf1b74b6a7736bf3881233ef157834d391450ce8c9",
+      "fingerprint": "4b6c9c0ce8f598929d75aff2e7f2c46144055620ceaf054b0fc2767821a5f1dd",
       "contentHash": "1ba9b95ec3a12f1897936076af057539d6b69bd55709976a9ca9a70a58d11fdb",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.573Z"
     },
     {
       "path": "/automobile/motorisations/thermique/comment-un-moteur-a-quatre-temps-transforme-t-il-l-essence-en-mouvement",
       "visualRefs": ["atelier:les-quatre-temps"],
-      "fingerprint": "78d6147eb6ecbede80906f9ef8e674b00b471f178861f39b85c603aa3f117a04",
+      "fingerprint": "9b2288181bedd8f41aa597151539f31df240e71b62f93ae280a58241ecaab32c",
       "contentHash": "0bb976144e0c17c9fe8f4a965bad073f33a4ceaf02e2da49d8e53bdf3b755126",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.673Z"
     },
     {
       "path": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant",
       "visualRefs": ["atelier:le-turbo"],
-      "fingerprint": "b9fe40889fd9b428adbe0bc0d7fba6bea439f2efd29d55e9f00deaaf7e345a70",
+      "fingerprint": "0bfa7e70e25527beac578b6466eefaece15aadd3d885b9c211726f5ee2283326",
       "contentHash": "4088cdf829ee539fa79253eb4064b424275086e6412b7fd518b735f1d331e1d5",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.758Z"
     },
     {
       "path": "/communication-et-medias/histoire-des-medias/radio-et-television/comment-la-television-est-elle-passee-du-noir-et-blanc-a-la-couleur",
       "visualRefs": ["schema:colourtv"],
-      "fingerprint": "bd129dc160245b059e020fdaa49d7471d5b74b64aaf51cfba1b00bd4e556ba11",
+      "fingerprint": "166114bb2e5805bd43160b68011a04162011d792c0d214b9c04c88db0a49fe4c",
       "contentHash": "8572fa986da23b9d19521259bdbe89b027c51326c8a6242ab27e7188267857a6",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-radio/README.md",
-      "reviewedAt": "2026-11-11"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.880Z"
     },
     {
       "path": "/communication-et-medias/histoire-des-medias/radio-et-television/comment-la-tsf-a-t-elle-permis-d-envoyer-des-messages-sans-fil",
       "visualRefs": ["schema:wirelessmorse"],
-      "fingerprint": "66b8e3d1b9db71a12a0a225a58c337e4a36b0dec620af2a2bef29e9277dcadbf",
+      "fingerprint": "4f287c70d401b54ff2d4970bde91c23348c9e9bceeff0107fe5374d738a0a0d9",
       "contentHash": "c18259e2437b1ccdebfcbb870aaf9a60f69871bf5f56f8d4dd8021c2c9786ee1",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-radio/README.md",
-      "reviewedAt": "2026-11-11"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:53.973Z"
     },
     {
       "path": "/communication-et-medias/histoire-des-medias/radio-et-television/comment-un-poste-a-galene-capte-t-il-la-radio-sans-pile-ni-prise",
       "visualRefs": ["schema:crystalradio"],
-      "fingerprint": "048bd776e9e471a2b880661fb1a8493a2cf417deb3217ebca5b2820c35b1afdf",
+      "fingerprint": "27e78ef0d4c5dd4b28b547c4cb851c705e8e0cf3385c67693a5deb0835caa71a",
       "contentHash": "ed21ff5feccded72e96d468aa78702cb35b1bde5d08d8661e0354f10ec9074ed",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-radio/README.md",
-      "reviewedAt": "2026-11-11"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.065Z"
     },
     {
       "path": "/communication-et-medias/histoire-des-medias/radio-et-television/naissance-de-la-radiodiffusion",
       "visualRefs": ["schema:broadcast"],
-      "fingerprint": "28ce9783f8a2421e37e633ff26093d62b6b8eecd766cddf1c0a7736b6efd1565",
+      "fingerprint": "2dd515679d143277004bde130a88d262a7415753b65c5daefce689ef94bb0f74",
       "contentHash": "839a1f8cb9dca8b824dbf0daf4c13129dc9b07e1170ad07b70f352d8a96ed755",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-radio/README.md",
-      "reviewedAt": "2026-11-11"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.147Z"
     },
     {
       "path": "/communication-et-medias/histoire-des-medias/radio-et-television/pourquoi-les-ondes-courtes-peuvent-elles-porter-la-radio-a-l-autre-bout-du-monde",
       "visualRefs": ["schema:shortwave"],
-      "fingerprint": "c456c27499b540a6d4291d28a108fd61baf3eb463b21507fceca27c4c6e221ab",
+      "fingerprint": "81c0c75a74844eb171c6b8ce1e3b87bda468427f7c7eb496b75da3740c0c6bc2",
       "contentHash": "b8f84d81d4a0bd95e57cffad6e8bfcf64e53eaefd56e510362ff0b31193a471a",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-radio/README.md",
-      "reviewedAt": "2026-11-11"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.272Z"
     },
     {
       "path": "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/comment-la-lumiere-reste-t-elle-prisonniere-d-une-fibre-optique",
       "visualRefs": ["schema:fibre"],
-      "fingerprint": "92bc1e5492e6b351ebdea5c2f83cf32c4de6b3642b5d1a5afd0dc225cd1113ee",
+      "fingerprint": "fd199a759fa2d97f742d5fe60551f47c86cb9675bbaebe7962b8192dfe48afa1",
       "contentHash": "2e3b6670d219c4a87c66a278957e4c56615e96cf4695481247fb86d9f826f61d",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.366Z"
     },
     {
       "path": "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/comment-le-telephone-fixe-transportait-il-la-voix-par-un-fil",
       "visualRefs": ["atelier:la-voix-dans-le-fil"],
-      "fingerprint": "438855536e99ca1e19f51ce6d8ba5118621d17fd763ff85f60c7675df7aaf46a",
+      "fingerprint": "bbdbb8ec6eb6bddd5d6b14defcaf9c5e4978ec380defad89f60383042b6c32be",
       "contentHash": "28ac46ca9dfd7d96c83255f541650e9783d7862326101175bce97e9e1db3ae59",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.487Z"
     },
     {
       "path": "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/fibre-optique-et-reseaux-dacces",
       "visualRefs": ["schema:fibre"],
-      "fingerprint": "093c0203533dd43aa05f1fff5d1512ae61e39f948995d4960cd2449e3c485a55",
+      "fingerprint": "fd199a759fa2d97f742d5fe60551f47c86cb9675bbaebe7962b8192dfe48afa1",
       "contentHash": "3f33cc0754eafb19bb2cb835e8f5f0e08fe368a3f7e183cfbbfeb2faa08995c1",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.573Z"
     },
     {
       "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/comment-un-neurone-envoie-t-il-un-message-a-un-autre-neurone",
       "visualRefs": ["schema:neuron"],
-      "fingerprint": "0bc9026746491b3bc9fa3d84fdd2cab75054982a7ed15c78dcff9678d6488c08",
+      "fingerprint": "1b4095e49d4c4f6a19ff083215c7bd3129924e0bfcd27f72cc476b4fff2cff60",
       "contentHash": "5974e616916a3e774331512af8d2b71d4ec3d90058174beca62fce28792db73b",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.681Z"
     },
     {
       "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/systeme-nerveux-structure-fonctionnement",
       "visualRefs": ["schema:neuron"],
-      "fingerprint": "e2e8fe1d578f4659d1ee645b769a2df7d53960cc9f482eb0b857b7fec0b0615b",
+      "fingerprint": "1b4095e49d4c4f6a19ff083215c7bd3129924e0bfcd27f72cc476b4fff2cff60",
       "contentHash": "798ef81906ef023965bc0bcb101001cc9b1dab26a681cf3184f433b42aafc80e",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.765Z"
     },
     {
       "path": "/corps-humain-et-sante/anatomie/systeme-respiratoire/comment-les-poumons-font-ils-passer-l-oxygene-de-l-air-dans-le-sang",
       "visualRefs": ["schema:alveoli"],
-      "fingerprint": "0aec6c47c6d65dece4fbe676f8ccf1b48cdbcd249527c4151af6c6a3190cf3ce",
+      "fingerprint": "799b94480939508654b02ce4d8c1c76af7c9f2d624fc36a3cebe323f138b0100",
       "contentHash": "68381577bd3b3b8094a31525bebde8f2e594fcd5520a97582994de722651e9dd",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.857Z"
     },
     {
       "path": "/corps-humain-et-sante/anatomie/systeme-respiratoire/echanges-gazeux-et-respiration",
       "visualRefs": ["schema:alveoli"],
-      "fingerprint": "008c41ee535867d2c2a0c79dd376f81663c21587ed7e0b7259e63a38a0cadf2e",
+      "fingerprint": "799b94480939508654b02ce4d8c1c76af7c9f2d624fc36a3cebe323f138b0100",
       "contentHash": "18a9e46f48e112c311809ed46730b33f3a34f64b733313e153db8b64628d9846",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:54.949Z"
     },
     {
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/cogeneration",
       "visualRefs": ["schema:cogeneration"],
-      "fingerprint": "5129a13e9dec72f4d6c4a9e417a21ea8401f97252d0671b3d565996150854dab",
+      "fingerprint": "09955e07cfdd949d102e903e79f956e18c799468cc63520df2f4975136e222e0",
       "contentHash": "6024e70f882e494fb59056035737b0cebf61ffa817ff886b0e2a352cd81fb710",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:26.306Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.028Z"
     },
     {
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/comment-un-double-vitrage-garde-t-il-la-chaleur-dans-la-maison",
       "visualRefs": ["schema:glazing"],
-      "fingerprint": "84ae51113608bad943a2669994d9f8bad28cb8c6094c467a50c970ea53ee2b9b",
+      "fingerprint": "65001b8ef8b78af756212a26278dace5fc8f080b00716ce356e9dac136931d5f",
       "contentHash": "961186465e4b9cf68eab7e591ec9275f999608c64e2fe41ab7ef568ab766efce",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:26.926Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.135Z"
     },
     {
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/comment-une-led-fabrique-t-elle-de-la-lumiere-sans-chauffer-de-filament",
       "visualRefs": ["schema:led"],
-      "fingerprint": "a6cfc7b047a4b6a2b5603394bf7159e9792f566081604c86dc4ead9f10b58c78",
+      "fingerprint": "e239d0329309f458ceaeb8940c8526ba01c735cc2dbed02595e8811c4129dfe7",
       "contentHash": "7fcea08c28de644ff32e828d1f13b93a1c5e926ca227aa85c1c0928c79cacdcf",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:26.013Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.254Z"
     },
     {
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/comment-une-pompe-a-chaleur-chauffe-t-elle-avec-l-air-froid-du-dehors",
       "visualRefs": ["schema:heatpump"],
-      "fingerprint": "e21d4273b95a8c7f39ea23df894010f0beb59781c9507839382ac548dc78333d",
+      "fingerprint": "c4ed2e7464c87a019937db770a475a486a5dcc4a4320e10ace71a8f88bb78fab",
       "contentHash": "d8b88862098a1782fe622f2cf54eb10db86888b1f11b3bddbda4b8c1d1ca5c7f",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.444Z"
     },
     {
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/efficacite-energetique-et-effet-rebond",
       "visualRefs": ["schema:rebound"],
-      "fingerprint": "3b8fbe65b35b9741f645e4fa15fa7f5aaf4ca0fe7082d8b17359ac5e61c13976",
+      "fingerprint": "f23764d15cf232c0b8203943541ddf6dd25d0c918b36b5589cf907db28d0f875",
       "contentHash": "1cd0c9c2d5a43c954f2343840245f1288aab22afd1c90c5dc3f7fcca70f4a2ce",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:22.722Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.523Z"
     },
     {
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/isoler-batiment",
       "visualRefs": ["schema:insulation"],
-      "fingerprint": "6e82a5ba61f6473bd1bc82d7ce6f652c7f57b96d06995dbd2c0b03ed76dd9980",
+      "fingerprint": "6ee4eef7b6a80ec523fce0f9a6abad320ec06e995a83e49b02bfc6956a33fdf4",
       "contentHash": "bcef83054af407c43e76fa1ba8e02e3df8535d8c42b6bfceb41952c4044a8f8f",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:25.720Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.600Z"
     },
     {
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/pourquoi-une-maison-aux-murs-epais-de-pierre-ou-de-terre-reste-t-elle-fraiche-en-ete",
       "visualRefs": ["schema:thermalmass"],
-      "fingerprint": "8a424eecdefb74324a96ab33006adad719785cc034d3df7f90ce1e6272657d70",
+      "fingerprint": "02539fbbc1dc6b243066b853256b317868fd20ffc41943427ec0d4f9b1724123",
       "contentHash": "3da8ecf080eef53f95ac1e9d6ccc8e130696d2d04c6ba428052bcb3569771b49",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:27.225Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.687Z"
     },
     {
       "path": "/energie/efficacite-et-sobriete/usages-et-consommation/bois-chauffage",
       "visualRefs": ["schema:firewood"],
-      "fingerprint": "62a0e735d872012f1ee7e6633e06c66d8252b2bfa025c86dbbcaa7e16df79d11",
+      "fingerprint": "b85a4b8aeae8e345ee6fa5e7296cc942106a2610c6ca0748a1807c640e60e0d1",
       "contentHash": "9e6b3dc91866d024798055b2d9398d85af7a9fce7e736f6e79f62257aaa57d57",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:26.607Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.773Z"
     },
     {
       "path": "/energie/efficacite-et-sobriete/usages-et-consommation/energie-primaire-et-energie-finale",
       "visualRefs": ["schema:energychain"],
-      "fingerprint": "702245f4c87870e697836f9ba323253b4ee010f2088ce4ce4dd0ebeaddc4f7f4",
+      "fingerprint": "46bf69be72e64c2aee5d7c154d2fc8e34817e201cf58aa42a4dd48b165d8182e",
       "contentHash": "aaeb9990ac3bf45ef430910fb96daa0ce769be1b1be6f9ee698979c9cc681c67",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:24.527Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.866Z"
     },
     {
       "path": "/energie/efficacite-et-sobriete/usages-et-consommation/pourquoi-un-appareil-en-veille-consomme-t-il-encore-de-l-electricite",
       "visualRefs": ["schema:standby"],
-      "fingerprint": "38acd02eb68716a304d35a9c31d6c6b23fb628b01b49f98ef9c357604f03d944",
+      "fingerprint": "7eaca63b59d9619acdb9eb73ce84b97bd9ed18afcdd066b6df5be9486d1fd55b",
       "contentHash": "6539691c18a869ce3aba3236b19ab6a23906c60918022c1ade027593c0320567",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:27.524Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:55.989Z"
     },
     {
       "path": "/energie/energies-fossiles-et-nucleaire/charbon/charbon-bois",
       "visualRefs": ["schema:pyrolysis"],
-      "fingerprint": "",
+      "fingerprint": "c926b2b6b3c34831b563e3c428b28759ea3e9f4b86d46b405043bc8124989dca",
       "contentHash": "93cd9d76e41cc22208497a4272bff330d68604b352d3b422bed6dc4410a7acc6",
-      "quality": "a_verifier",
-      "evidence": null,
-      "reviewedAt": null
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.064Z"
     },
     {
       "path": "/energie/energies-fossiles-et-nucleaire/hydrocarbures/raffinage-du-petrole",
       "visualRefs": ["schema:refinery"],
-      "fingerprint": "c0cad0809662390cefb9bacae7dead2e2ba85711569a6308b8476d1389e0257c",
+      "fingerprint": "3b862658b16a7d4c4b92bf01a57f7e25f9f58f8ffcee40d90437e376474bfad4",
       "contentHash": "185263b5e188e209161ab30c3ad49a41bf76c4b723a6f954adf89312c58bc2d9",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:23.027Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.154Z"
     },
     {
       "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/comment-un-atome-qui-se-casse-peut-il-allumer-une-ampoule",
       "visualRefs": ["schema:fission"],
-      "fingerprint": "f0a13f035281e21815df3a2801e77d253b084a2bd89fbd29c59af10e85925a36",
+      "fingerprint": "9329c1c97ac4e9a1256f1d17ca81edd2f43d6b6a4209dc41606aa2484d887418",
       "contentHash": "9efc674903455325e6c734b8e98c45c7b660b4500fc0593519433e19f4a49d6e",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:29.624Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.271Z"
     },
     {
       "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/dechets-radioactifs-et-stockage",
       "visualRefs": ["schema:nuclearwaste"],
-      "fingerprint": "4076743613b7548bd489b751afa83441ce5f3b15c810cea1ea42966ea4b80c0b",
+      "fingerprint": "9d45fe8650ededf7b15bb0e56670d946d7ffadd4b100ed981c191e355eaa7aa8",
       "contentHash": "4294813e494b01e9ed2901146e14cd665dbbb33dd2e89fb4ad8eca7bfde34c90",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:23.323Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.614Z"
     },
     {
       "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/fusion-nucleaire-etat-des-recherches",
       "visualRefs": ["schema:fusion"],
-      "fingerprint": "f2a00a06b6baae05c7b34a6e92102ad4b6d9a56780269ce0f1b4bae789d99dbc",
+      "fingerprint": "52020b979ce09102b219ca9ccd65fc20b1ef95b079bc3b3825dea1af5f56e3f1",
       "contentHash": "88aa289c1d52386902cfd8e44bf582a605a42c724e850aa8d261241a4b184ad5",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:23.624Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.699Z"
     },
     {
       "path": "/energie/energies-renouvelables/eolien/comment-fonctionne-une-eolienne",
       "visualRefs": ["schema:wind"],
-      "fingerprint": "be1eb57718e7152210acbfd85afe7bfabe968957c7e6f214c40d18ca46ffccaa",
+      "fingerprint": "1e096e7792cc2e891cba407ff084326d7167cc1d276a9795b9a2ac6957f6ec9a",
       "contentHash": "4624b6be9384d15c423165d82435848591de61c447a533d4bc72dad2f0795cf5",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.780Z"
     },
     {
       "path": "/energie/energies-renouvelables/eolien/moulins-vent",
       "visualRefs": ["schema:windmill"],
-      "fingerprint": "",
+      "fingerprint": "e62a4fbb259465b2445e547a510feb8277295ac487b9c6bddd9bf08fd32b8ba4",
       "contentHash": "1be54653c44b02885ea390ffa57e671aa70c3847b19e576312b41433d9d3e104",
-      "quality": "a_verifier",
-      "evidence": null,
-      "reviewedAt": null
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.866Z"
     },
     {
       "path": "/energie/energies-renouvelables/eolien/record-mondial-installations-eoliennes-2024",
       "visualRefs": ["schema:wind"],
-      "fingerprint": "db24c889cbafcdfa821b5d09cf974378bb29716987033d6d86c5f5ebaa78b59c",
+      "fingerprint": "1e096e7792cc2e891cba407ff084326d7167cc1d276a9795b9a2ac6957f6ec9a",
       "contentHash": "221bb9c461da63ac3bd5ad32a8ec01a1f2a909aaf94c50ec832d8c8650429976",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:56.943Z"
     },
     {
       "path": "/energie/energies-renouvelables/hydraulique/comment-un-barrage-transforme-t-il-l-eau-d-une-riviere-en-electricite",
       "visualRefs": ["schema:hydro"],
-      "fingerprint": "d09fc023da8778354f4de7db49987d51c75235e82f796420c596a87db536f8ee",
+      "fingerprint": "db486b9ecdcdeb337de0e1b85af55b4c461910329506bcf96c5e02bf31ccea15",
       "contentHash": "a589d3349c15621a9eb9c94f103903eb58a976fe13799e848f7c50a0a74c9e62",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.065Z"
     },
     {
       "path": "/energie/energies-renouvelables/hydraulique/microcentrale-hydroelectrique",
       "visualRefs": ["schema:hydro"],
-      "fingerprint": "cbb34a7205bdcd4cc51989d3d962a27c6667cee5722c3c141e0e5efa0f46e495",
+      "fingerprint": "db486b9ecdcdeb337de0e1b85af55b4c461910329506bcf96c5e02bf31ccea15",
       "contentHash": "afde4e3f0d63de944b04c76bf5380ed7d6a5efb1738da365c04da3264fb60c0e",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.149Z"
     },
     {
       "path": "/energie/energies-renouvelables/hydraulique/moulin-eau",
       "visualRefs": ["schema:watermill"],
-      "fingerprint": "852a0cb3b87682d8ef9b904a15bc59998c024218db70b3b85c96235d2fa02ab1",
+      "fingerprint": "bbc6460e4033182d6da6a2488b8aead8c30f4aa635eedb9a5ee1bf8a3b9246d7",
       "contentHash": "11129bbef663c357d298b4c915ca483ea75eac998850e2962cd4cb413854839b",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:24.829Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.224Z"
     },
     {
       "path": "/energie/energies-renouvelables/solaire/comment-fonctionne-une-cellule-photovoltaique",
       "visualRefs": ["schema:solar"],
-      "fingerprint": "7a34a918567e26bbcdb1227010c8bbcbe1dc6e496fa4e9b2cd3d53fbbc0c217d",
+      "fingerprint": "d9b0787ff5041e7c4e61080671e6716f4eeac7cbf0963c0bb38cc00a0c7a37e9",
       "contentHash": "4d620d61d367e3dafddcde7f0be485210d2625e7c1d0998a3456bca9612f8a45",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.295Z"
     },
     {
       "path": "/energie/energies-renouvelables/solaire/four-chauffe-eau-solaires",
       "visualRefs": ["schema:solaroven"],
-      "fingerprint": "",
+      "fingerprint": "7328c71c48425095c1c62d314c676e8d0181e7229a8bf1418435bcc1eaa48986",
       "contentHash": "025cad9df25f183578fbc57a5a6bc4ee35cf27663937968f153b866798017a47",
-      "quality": "a_verifier",
-      "evidence": null,
-      "reviewedAt": null
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.372Z"
     },
     {
       "path": "/energie/energies-renouvelables/solaire/peut-on-produire-de-l-electricite-et-des-cultures-sur-le-meme-champ",
       "visualRefs": ["schema:agrivoltaic"],
-      "fingerprint": "4793e163c6a2880441b941b04f2be7be5935f0275208f898f07673b16c5ebf65",
+      "fingerprint": "1a174cd75e689eb111c75fdbd796731a86c9836823b35a837aab525fd86e0fc6",
       "contentHash": "7054049bd4a022314ca9e7444b1ed2030c38d3ce415f02a000d0903cfc166030",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:30.221Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.449Z"
     },
     {
       "path": "/energie/energies-renouvelables/solaire/solaire-thermique-et-concentration",
       "visualRefs": ["schema:csp"],
-      "fingerprint": "2018dae85c68adf279ffd0020aec430ddd818fb5eba02b7da8ba2f95d5ed51c0",
+      "fingerprint": "12aaafa846ea497e167ac0bb12e72e4a63f8caebeb6d81f6c444e6b6c5a368b7",
       "contentHash": "5309ecefdca7153b57d2d931e31308f4dfd0a63b4f37ec69033c51db36509757",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:23.926Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.542Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/batteries/batterie-plomb",
       "visualRefs": ["schema:leadacid"],
-      "fingerprint": "dfcfaafa8e92337bde23c13f2cc244a24273b7dedc1a58b8109b4ded633da624",
+      "fingerprint": "7c286289b80ba4f4c25a756de2112762724fd7479f786a692aca5ded22d1a6d5",
       "contentHash": "ae3887e7e12bc4ae69bc81352d42e60d85c0d4b44b1e56d1fa081f61526ccb72",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:25.127Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.630Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/batteries/comment-fonctionne-une-batterie-lithium-ion",
       "visualRefs": ["schema:battery"],
-      "fingerprint": "925109c0e205d7b67ed4e9da66a463769c218eea672c34fe4c7022e17a303dec",
+      "fingerprint": "4b6c9c0ce8f598929d75aff2e7f2c46144055620ceaf054b0fc2767821a5f1dd",
       "contentHash": "7afaeee8ff4a990485a5163f0c140dcd4b0b100354fdcc63f356ecc67fa597e4",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.723Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/batteries/comment-stocker-de-l-electricite-dans-de-l-air-comprime",
       "visualRefs": ["schema:compressedair"],
-      "fingerprint": "a6e54515562dd71ae4a5ee8be7489b13eb4b77014cb3fae0f13f32dc4a25f1d9",
+      "fingerprint": "d0b54f5689384672a7013c25318b47cd8f1acc2a4401c31aba9a808d3efa1d92",
       "contentHash": "7c8b6b1988c7324699d81a11c1f67d40aa909152f89158015f73488c732b523d",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:30.522Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.814Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/batteries/comment-une-batterie-peut-elle-stocker-de-l-energie-dans-des-reservoirs-de-liquide",
       "visualRefs": ["schema:flowbattery"],
-      "fingerprint": "59bd487b89faa2d79f95db24ce57ef51a722e05d53f9276c5a3b60d0dc4a4611",
+      "fingerprint": "b5752a3ee5e708f9ec67b2b7ce6c3f9a2d1e442043abe157496c41e653ef8b16",
       "contentHash": "2d2fd5e48a4b209d4b57b6a82a890752004d541cfd699c433ee367625593e3e6",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:47:17.305Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:57.915Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/batteries/comment-une-mega-batterie-aide-t-elle-a-stabiliser-le-reseau-electrique",
       "visualRefs": ["schema:gridbattery"],
-      "fingerprint": "121958b77fcad3de450f7e1315bc2cd0f5f74c639c55ae0c6db58e537007b986",
+      "fingerprint": "32518a32a48f09ce1f3edd6a921a7f8fff2fe60b11b38ebc4747e615d27e7f3a",
       "contentHash": "08655c8e7448f1dd2410a024ab6041604af9c3bca5c98c77ff11128aac284c9c",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:30.818Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.022Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/batteries/comment-volta-a-t-il-invente-la-premiere-pile-electrique",
       "visualRefs": ["schema:voltapile"],
-      "fingerprint": "03c3534075e3eee00bae4d2866ded98a361f96733306bfd989bd0d70ecee661a",
+      "fingerprint": "60c2e0f51650e3dd6612710eb41738b80a18805752d0c73ea5b7b48257ac2cfb",
       "contentHash": "f81c6b4ac62d30caa4bf9c22a122f5ab9d07d065328f386f71db1b2910d4d787",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:28.727Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.107Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/hydrogene/comment-une-pile-a-hydrogene-produit-elle-de-l-electricite-sans-rien-bruler",
       "visualRefs": ["schema:fuelcell"],
-      "fingerprint": "6935441dd27ff852aca204a662de4558b44d254a949b0d9f302b29fbcfc3e60e",
+      "fingerprint": "bce21bf1d9f92313d8aaa21cd948f0dbf078564e345709c09d9b114059fd3a20",
       "contentHash": "6b9fd3c682b6331d3c7c46a82d99596a064e981ecfd7f64ed2541243de9b707a",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:29.024Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.211Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/hydrogene/electrolyse-eau",
       "visualRefs": ["schema:electrolyser"],
-      "fingerprint": "4cdf00ff236e29d8b60bff3e7c168dd67c8b882a2241d40b2fd24aa781fd814f",
+      "fingerprint": "2ae1893979778d0fdb0e1fb0905a273d9453f330324b600bc0dead42c7e47f45",
       "contentHash": "607bcede1b944a75c8ba56bd51d50d1a14eed4e017c1066ca7348b10ae03e313",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:25.423Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.284Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/reseaux-electriques/comment-l-electricite-voyage-t-elle-de-la-centrale-jusqu-a-votre-prise",
       "visualRefs": ["atelier:le-voyage-de-l-electricite"],
-      "fingerprint": "df8985ed5cb849ba77765fb0cb5b7076ec186e79f50c322c3204bb3f2979e298",
+      "fingerprint": "2d250988eb71fa68b238f77de41b815f34aae0f0a406ba90f10240ac61cd932d",
       "contentHash": "62c1a073221d30d4dfec529a0c3274c86aeb228d5754276107cecbd4326aa745",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.398Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/reseaux-electriques/mix-electrique-et-intermittence",
       "visualRefs": ["schema:duckcurve"],
-      "fingerprint": "3e687ae8f96ab56f7216f8356335e2dd405e0ecaf99f628984dc63031ac56834",
+      "fingerprint": "658d0498cf29a55f2dabd7a8535b41d70c74059c17d852921438053c59696117",
       "contentHash": "4118c745914846a703a07693abf292bdaaa86306660e4525e3618222f0384b5a",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:24.224Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.470Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/reseaux-electriques/pourquoi-un-pays-entier-peut-il-se-retrouver-d-un-coup-sans-electricite",
       "visualRefs": ["schema:gridcascade"],
-      "fingerprint": "aa62a5192a6272e6a271cb7c24023df6a9285a2317c681cd56700db7796f065a",
+      "fingerprint": "9654d609ef6ad52db41eb63748543163d884e99054e2c7a5d2d43c7b73f7d11e",
       "contentHash": "bc5a2e37510e5f2c431be1e3985160f546fd65f979c41da90080a6a7fa5a293d",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-energy29/README.md",
-      "reviewedAt": "2026-11-11T18:39:29.326Z"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.589Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/reseaux-electriques/reseaux-electriques-intelligents-smart-grids",
       "visualRefs": ["schema:demandshift"],
-      "fingerprint": "",
+      "fingerprint": "8a1f3ffa541eb77d0d96b23525cf506f9ab87da8f2e72e319b6cd6154562d8eb",
       "contentHash": "f6e365d0f46f04e174f7480415a3eedfc92db4f20e4e204d7012df066c192187",
-      "quality": "a_verifier",
-      "evidence": null,
-      "reviewedAt": null
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.672Z"
     },
     {
       "path": "/environnement-et-climat/biodiversite/ecosystemes/comment-les-mangroves-protegent-elles-les-cotes-des-vagues",
@@ -914,20 +914,20 @@
     {
       "path": "/environnement-et-climat/changement-climatique/gaz-a-effet-de-serre/concentration-record-de-co2-dans-latmosphere",
       "visualRefs": ["schema:greenhouse"],
-      "fingerprint": "e4388b83701dc48735e1248fc6b88f9bf96f3b63ee24fd9811031d52e35af08f",
+      "fingerprint": "8c7a20ab55f1a8911f8a5730918070cf1b82dfa69b2f26567d70b17916e54003",
       "contentHash": "4bb22d92ae89f952918e73dfbd4be88238893ef4450ea3bb925e4bc21325e5af",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.791Z"
     },
     {
       "path": "/environnement-et-climat/changement-climatique/gaz-a-effet-de-serre/pourquoi-le-methane-est-il-un-gaz-a-effet-de-serre-si-puissant",
       "visualRefs": ["schema:greenhouse"],
-      "fingerprint": "0b58ae438a1d7172b3f6f1caaedb49271136e6bf7262befcd1e9f06c9166de22",
+      "fingerprint": "8c7a20ab55f1a8911f8a5730918070cf1b82dfa69b2f26567d70b17916e54003",
       "contentHash": "3d41e233a26f31392c0fe8b753716ab7131cb3aa343b127619ab6b661b948962",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:58.896Z"
     },
     {
       "path": "/environnement-et-climat/changement-climatique/gaz-a-effet-de-serre/pourquoi-un-trou-s-est-il-forme-dans-la-couche-d-ozone",
@@ -968,20 +968,20 @@
     {
       "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/comment-une-bouteille-en-verre-usagee-redevient-elle-une-bouteille-neuve",
       "visualRefs": ["atelier:la-bouteille-qui-revient"],
-      "fingerprint": "6a106da2971bde926c0b9c64d647db46b625ab40a4eabc2a6eba517c9e20491e",
+      "fingerprint": "05b6d4579b53cd9e9324f4984eb04e88311e888ea7b10e9b3ba5255275779c92",
       "contentHash": "d72822ca063acb211c81214652bd6b1c135f519a48e972dd0010e96d1a351517",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.016Z"
     },
     {
       "path": "/environnement-et-climat/pollution-et-ressources/eau/comment-se-forme-une-nappe-d-eau-sous-nos-pieds",
       "visualRefs": ["schema:groundwater"],
-      "fingerprint": "1c618ddc30ff2a0db8a7eecf8f43ae03c5abbe5d6885fe4ad57e0d1c2e4c7f92",
+      "fingerprint": "928b7fff4f79efa3294b8a9d39eeeeb85163f6a0c245165acbd006c4fa2b4e83",
       "contentHash": "ff035a8076bc4597dbee91e7bd0652f4b2415e03645efdf33e615d0f33dff701",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.115Z"
     },
     {
       "path": "/environnement-et-climat/pollution-et-ressources/eau/comment-transforme-t-on-l-eau-de-mer-en-eau-douce",
@@ -1013,353 +1013,353 @@
     {
       "path": "/espace-et-astronomie/astrophysique/cosmologie/comment-sait-on-que-l-univers-grandit",
       "visualRefs": ["schema:expansion"],
-      "fingerprint": "924ec1192313b9f40016489987fefabb9ce2ca23af7d9499a21b6b26f09cea5d",
+      "fingerprint": "30f1c1f83aa7726eb284e89bd8db1863cfe1f01911c7597475883c70aa20891d",
       "contentHash": "9d1ad36107b7af18eaca803bd6046a15c4dd84268aa11f090daa62ea2a0b806b",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.204Z"
     },
     {
       "path": "/espace-et-astronomie/astrophysique/cosmologie/comment-un-amas-de-galaxies-peut-il-agir-comme-une-loupe-cosmique",
       "visualRefs": ["schema:lensing"],
-      "fingerprint": "dba8725e9c16dda41cfc056c98f946c13c6e3b654a72a7a5105b86db21ca4466",
+      "fingerprint": "458000766d9875ff0c416bc4703d4a183db22073dcad0538b26ad70e39e1c076",
       "contentHash": "be3ab66d4e4db8e252081d8c1a7649554b17b1dadd72f9739ed85f33693719f0",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.308Z"
     },
     {
       "path": "/espace-et-astronomie/astrophysique/cosmologie/gwtc-5-catalogue-ondes-gravitationnelles",
       "visualRefs": ["schema:interferometer"],
-      "fingerprint": "8b45bc9a3b66ef9d79105b9af7a5e4a9f8a04f6d765e94026adff8de2cd88785",
+      "fingerprint": "2cbf76181975a3201015ff55439eca39a6914fa8da15f6593e3efff1d3587af2",
       "contentHash": "bf6ad18a96a17355cbe4383249a36130c86c1c427b401b1f14886d48b6e28dcc",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.412Z"
     },
     {
       "path": "/espace-et-astronomie/astrophysique/etoiles/comment-nait-une-etoile-a-partir-d-un-nuage-de-gaz",
       "visualRefs": ["schema:starbirth"],
-      "fingerprint": "06285c632718c559bd0a444b00be3fcfe2b0e649ebba40c7bedc26d04bf8cd4a",
+      "fingerprint": "31d3e645a1f68f4018d2aee1ae2fb2918910506db206ac27066a4adc17ec0fd2",
       "contentHash": "d901e38db795294457999cc6aa6bb82eaf237794b9c224bbad7258a8f1265f86",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.487Z"
     },
     {
       "path": "/espace-et-astronomie/astrophysique/etoiles/comment-une-tempete-solaire-peut-elle-allumer-des-aurores-et-couper-le-courant",
       "visualRefs": ["schema:aurora"],
-      "fingerprint": "84f3540426fcade32e4a6f880585fa807c0535e7598ce9f6a982ba55a1840674",
+      "fingerprint": "0df11698a3549872cd4b993ef503fc081129c9390aabf38fe1a8ddf27cec6580",
       "contentHash": "2b8a86fced96da308e15a4a4b977f76e0fb4fd86c6449dc496713edfec101a97",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.587Z"
     },
     {
       "path": "/espace-et-astronomie/astrophysique/etoiles/formation-stellaire-galaxies-lointaines-jwst",
       "visualRefs": ["schema:starlife"],
-      "fingerprint": "2463509fd10b4511edf3abba3dea720239a01d2c157fd6c9f2c79d64f6e4a424",
+      "fingerprint": "4fa20d7950d93607cb3895b44e293665f2b9f3ce320a6801d699051b88996dba",
       "contentHash": "c927ff30eb08b232fc753df8198b2cc39a25a45bd1aadab3dd54e1f496dff70f",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.679Z"
     },
     {
       "path": "/espace-et-astronomie/astrophysique/etoiles/l-etoile-polaire-et-son-role-dans-l-orientation",
       "visualRefs": ["schema:polaris"],
-      "fingerprint": "",
+      "fingerprint": "d2aebde29634e91cbac48e247b538552264cd925f1f5f8029959ea7796966380",
       "contentHash": "0447f9f9d94020717ea8585764c4a4b05ba3c009697daf40164404951482772e",
-      "quality": "a_verifier",
-      "evidence": null,
-      "reviewedAt": null
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.760Z"
     },
     {
       "path": "/espace-et-astronomie/astrophysique/trous-noirs/trous-noirs-ce-quon-en-sait",
       "visualRefs": ["schema:blackhole"],
-      "fingerprint": "4ff0bcad305daf39f8d785b9a0ee026d14bc5d2323f93f5fc21be1099cb42799",
+      "fingerprint": "f9afd73329a38e3ee61ad61dc06b501d30fde75dc593c9c9c5ab0a7471525774",
       "contentHash": "f5719025044894651c5c6631f38cee9b6337dd434c795e7a78f0ff5d0597a2d5",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.845Z"
     },
     {
       "path": "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/comment-le-gps-sait-il-exactement-ou-vous-etes",
       "visualRefs": ["schema:gps"],
-      "fingerprint": "2f1e41c6cedc9e8c9b0b8cb187a4734a6b45efb0b3c0fcdeaede10b32392bfd9",
+      "fingerprint": "6125f80392500d98cb810c7dcf61da8bcc9626a66903a818562bc547ed8dcf8c",
       "contentHash": "7ddea6de39ad34eadf9e828d8a7f60008d1c31ccd73b550c51d7ca23ca2b86c9",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:50:59.954Z"
     },
     {
       "path": "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/comment-une-fusee-fait-elle-pour-rester-en-orbite-autour-de-la-terre",
       "visualRefs": ["schema:orbit"],
-      "fingerprint": "9b49927b34b0a9c90f01261dbc134d0bed0d6ba969bf1b1f405d8ac37c4d09c7",
+      "fingerprint": "57b3b13380f296e831cc0be8c95302cbae33e13bbee6adf708dccb461723e6f9",
       "contentHash": "5de0dfe44a87b534550806bdd47bd30dbbd6aa6c8eac24dfa072acc62d64044d",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.031Z"
     },
     {
       "path": "/espace-et-astronomie/exploration-spatiale/sondes/comment-les-sondes-voyager-ont-elles-atteint-l-espace-entre-les-etoiles",
       "visualRefs": ["schema:heliosphere"],
-      "fingerprint": "ced9018a6f0a560bfb29912491d73c66d20ef1f46ca7d1e0f0e9d23d4126f11e",
+      "fingerprint": "3f352cc38125a8e195db047809f3dd0be4cefd84283b0756f964b4210e3096ae",
       "contentHash": "df44dc62d7c8534805fa31e18c250a79221ba67316a9b8d74fd20e2a2c3d76fc",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.130Z"
     },
     {
       "path": "/espace-et-astronomie/exploration-spatiale/sondes/telescope-spatial-james-webb",
       "visualRefs": ["schema:webb"],
-      "fingerprint": "7a2b4834e8032b3965874e963918ad11b884aef9a1964130a90c88ee64f424de",
+      "fingerprint": "62f786a788067a1f233b74f5c55f790a96c004ee570d06636ac640dc4329c54e",
       "contentHash": "ba6847ca87bac06f64116e4b5f4691c07813f0aed86316bd7e1dfc65c67beb0c",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.210Z"
     },
     {
       "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/artemis-ii-retour-vers-la-lune",
       "visualRefs": ["schema:moonflight"],
-      "fingerprint": "b0283f69b94d23cdc8c0313ab0fc18af59891358d1f7bb84b42e1a8f47bcc201",
+      "fingerprint": "24abe5d8190dfa8575d02982c65698b06b3978f524b9fef6db87524baf1af205",
       "contentHash": "338e042d1cb356911ca257a92e6b73c6a982c599ce513ff7bdeb1e2def3a8b23",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.302Z"
     },
     {
       "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/comment-les-astronautes-ont-ils-toujours-de-l-eau-et-de-l-air-dans-la-station-spatiale",
       "visualRefs": ["schema:isslife"],
-      "fingerprint": "1bf8009507ff60d3ad23d86007840acd52a0ff171d40bd31f37e8ed4d10a92fb",
+      "fingerprint": "13598c9af86ff5c2516bd26b3feb4bc2564af60dc0135c141f1548d30f816381",
       "contentHash": "4d354728ec08bf7f82c411cbb31f369adccc69b76d2cb41fafcae5f047597269",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.385Z"
     },
     {
       "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/pourquoi-les-astronautes-flottent-ils-dans-la-station-spatiale",
       "visualRefs": ["schema:orbit"],
-      "fingerprint": "709e8ce6b86122db4949bc993cd08204b7a47dfb3c23f95b6935888df9e8dcc9",
+      "fingerprint": "57b3b13380f296e831cc0be8c95302cbae33e13bbee6adf708dccb461723e6f9",
       "contentHash": "ae404acb295be70e8dcef7c88908a3be52b253068e69c95f09f688df2021bf49",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.476Z"
     },
     {
       "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/pourquoi-les-astronautes-ont-ils-du-mal-a-marcher-en-revenant-sur-terre",
       "visualRefs": ["schema:readaptation"],
-      "fingerprint": "9982b2a9e2b246d101150f396f083e7358e5ed860c4759c09edca3569e124c9d",
+      "fingerprint": "bd26d1c354a4a4d8940bdcf7244576b6688a9accb8ea408c46f17796baf4741e",
       "contentHash": "c25419544a41e41a2273d9ceb0aac55f7046b29bd6b836d061f2efb60ff82858",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.571Z"
     },
     {
       "path": "/espace-et-astronomie/observation-astronomique/messagers-du-cosmos/comment-une-etoile-peut-elle-servir-de-loupe-pour-trouver-des-planetes",
       "visualRefs": ["schema:microlensing"],
-      "fingerprint": "8090571a13cf2e854ef9bfc5dbaa3dc695ebb9c0c03a818a40dc70ebc5d15b34",
+      "fingerprint": "dbdea0dec68fe4edb603e27ec4943348b340414981de0e72af243f66290c3153",
       "contentHash": "5adcd1910025d551783c9338e8e0dda7faf900de9913840f44c6cdc66a1ebaa2",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.690Z"
     },
     {
       "path": "/espace-et-astronomie/observation-astronomique/messagers-du-cosmos/pourquoi-observer-dans-linfrarouge",
       "visualRefs": ["schema:infrared"],
-      "fingerprint": "08dd5cdaed4a44fe02648a357d921357043a9e280eeaf4046bbce9a986f889a2",
+      "fingerprint": "f4e520cf70dd55d86af23a265cd8eb23dda1cd13787a544a4622929cc1f45514",
       "contentHash": "04be39c9c278198f95a96026c87e05c226b828dab310ab79e2dfa7eabb9c9847",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.772Z"
     },
     {
       "path": "/espace-et-astronomie/observation-astronomique/retrouver-l-heure-avec-le-soleil",
       "visualRefs": ["schema:sundial"],
-      "fingerprint": "f6406b6ab7a237bb8c92123b6a92cd186f780855a2560ff4aa467d85bbdbe071",
+      "fingerprint": "ca4de827eb00d2cdb99eaab8213a129e9c5f494ccf6c0b7e7894a3e035a4dd70",
       "contentHash": "23260f0afc1224bab0675feeea0988ec379872c22c6a60c4cb374023e254119b",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.869Z"
     },
     {
       "path": "/espace-et-astronomie/observation-astronomique/telescopes/a-quoi-sert-le-telescope-spatial-roman-pour-chasser-les-exoplanetes",
       "visualRefs": ["schema:microlensing"],
-      "fingerprint": "2f6d9c5ce8fb36ecaf3fa30a7f1b38444c8e733bc5c70ef5a6f58dd5ea6a3a6a",
+      "fingerprint": "dbdea0dec68fe4edb603e27ec4943348b340414981de0e72af243f66290c3153",
       "contentHash": "f0dd748835b03021682f248dcbd633d7c3eb5e4e1f744544b054fd35ff653a68",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:00.992Z"
     },
     {
       "path": "/espace-et-astronomie/observation-astronomique/telescopes/comment-le-telescope-webb-lit-il-la-composition-de-l-air-d-une-planete-lointaine",
       "visualRefs": ["schema:transmission"],
-      "fingerprint": "7388b0cfd65fcf5684a18300e94f2d6dc966a72ecf615983ad42172bb0a58eed",
+      "fingerprint": "c36b5f4ec52cd49556468078588c367e476b39b8682df147f83d167b6b7cfdf8",
       "contentHash": "197518e5dd8ef8a46ecf3b3375fcc1fe611a69234ac5c32e4473fc0a97d927de",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:01.090Z"
     },
     {
       "path": "/espace-et-astronomie/observation-astronomique/telescopes/comment-plato-va-t-il-chercher-des-planetes-comme-la-terre",
       "visualRefs": ["schema:transit"],
-      "fingerprint": "f440a1ecb19015ffb6fd29b48f7c6055eead028ea2efdb2c046530c606d4afbe",
+      "fingerprint": "38fe280fac0236af3b41bcb5cde77eb0b6cb4814a951ec28fafcf4cd84654427",
       "contentHash": "e7719b251499bd124eb6b1f2c3229c3fa52dbe4ac26b23d7b4f4ee79ca2f48e0",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:01.573Z"
     },
     {
       "path": "/espace-et-astronomie/observation-astronomique/telescopes/fabriquer-lunette-astronomique",
       "visualRefs": ["schema:lens"],
-      "fingerprint": "1beaf84d5aae0649807d052b258fb5dde2d0766afa35d7af896d6f89fbc977fe",
+      "fingerprint": "4ad94217baf9b235238976bf4290eba6765fd8665f7f5b9d2e01ece5c819473b",
       "contentHash": "0924ab79604f6e17c153806d7da173071b8acc47d875f82c899d55cf33d1f3d7",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:01.664Z"
     },
     {
       "path": "/espace-et-astronomie/observation-astronomique/telescopes/pourquoi-voit-on-beaucoup-moins-d-etoiles-en-ville-qu-a-la-campagne",
       "visualRefs": ["schema:skyglow"],
-      "fingerprint": "d284166d869d8a2027a093647807215c404c0c9c1f834fc87f4cc1df515af983",
+      "fingerprint": "ec823a046b670c17714e3ea22cc5e5752094571a6971892c85aef37c27452739",
       "contentHash": "d1f3d0b28148b6bee00b55257238510fe049d96acc99839c5e1d61b87d127f96",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:01.784Z"
     },
     {
       "path": "/espace-et-astronomie/observation-astronomique/telescopes/taille-des-telescopes-et-resolution",
       "visualRefs": ["schema:adaptiveoptics"],
-      "fingerprint": "44fef47fcd780b1db8362c5eabce932e15e675351e05fb1d9b359f9affa70b27",
+      "fingerprint": "2212eee63b330c5ef7cd8b3ef46647ff3607d2cd20ec21e26028bf57428c793b",
       "contentHash": "b8e38cb95199360d394fc9616d1e041866a7f860125f17b9dcf3160abb658e10",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:01.873Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/lune/calendrier-lunaire",
       "visualRefs": ["schema:lunation"],
-      "fingerprint": "d06026e43d9598e50b6f3095bdb1004a72abc585db09ed2ec69d1b0703ca5ff5",
+      "fingerprint": "3a1e7538226e8146e1a09ebfeeb51b704c04f04f4a1f84fd4d4abb23a2515512",
       "contentHash": "8486916e4ea5c8b07ce714a54929181394b0a12075d6072f7c0f415ea1415056",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-observation/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:01.967Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/lune/la-lune-formation-et-marees",
       "visualRefs": ["schema:tides"],
-      "fingerprint": "bc8f7dec3fe7294537b2ee67ebc68ac295a1b946b8d5afdd225e83ff463e04d9",
+      "fingerprint": "467b1fb301f5e238169b7f9ffe489e8505c01eebe5149f20b945af4f20393dec",
       "contentHash": "88af9c37e7f460299961aa25c38a0b1a029599ce473aadd3a106e17b191aa71b",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.055Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/lune/pourquoi-la-lune-change-t-elle-de-forme-au-fil-du-mois",
       "visualRefs": ["atelier:la-lune-et-nos-points-de-vue"],
-      "fingerprint": "4c0cfcb409e9cf03898d78cf2cfc974ca37b0d04fd5afe4e6f059d29fc517200",
+      "fingerprint": "f99ae4b7ddeb569ac15b03f0268aa402a5c3f082fd10a235f9f7a235dca31637",
       "contentHash": "9fea2873a289961e5a7b14b0ede514d6e171e44e97f693b10b2031cc86259175",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.139Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/lune/pourquoi-n-y-a-t-il-pas-une-eclipse-a-chaque-nouvelle-lune",
       "visualRefs": ["schema:eclipse"],
-      "fingerprint": "7cab2b122ff02d7f2a2256956b233cc67cdc36d937ee02a95ce154fe434be8fd",
+      "fingerprint": "13e8172205148c07adac3b61354e98ace205aba529b781bc8d76d347eb67c3ce",
       "contentHash": "80b7709eb3e511cabcdac8ce33609d7cfc7e4e7f12bd044eca74f89bad13fc33",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.221Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/petits-corps/asteroides-cometes-et-meteorites",
       "visualRefs": ["schema:smallbodies"],
-      "fingerprint": "2d308d0f887b0c4309085f7294f5bfbc7f449a44a2f9c553a70873d1b53b7089",
+      "fingerprint": "c2fe601e4b5149ea264d3f7c90034aac74856fb0ce0e60fbf4ca7376671a7d91",
       "contentHash": "6b3f83f03fd0854f048aa5c44f0c40104a29fbf83e80f926167be8493b69f10a",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.304Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/petits-corps/pourquoi-la-queue-d-une-comete-pointe-t-elle-toujours-a-l-oppose-du-soleil",
       "visualRefs": ["schema:comet"],
-      "fingerprint": "46b0e25e693b4496d87d2d77bd8d2f097920d9df17fc9d19baa3c423299dfe5f",
+      "fingerprint": "1a00971f6953ac3b2646e42e4134b379a9b0e8894cf80cd3f92616807cc2dccf",
       "contentHash": "eb8c1d186de02393179b7e50fdfce7500db00f27e15059b3c0f18ac7e957ea9b",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.414Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/petits-corps/pourquoi-voit-on-des-pluies-d-etoiles-filantes-en-aout-et-en-decembre",
       "visualRefs": ["schema:meteors"],
-      "fingerprint": "f9cf3059e74de4bd56b00069e5c0a52a8cd1d56138494ebfc64fd795f1ac4ca3",
+      "fingerprint": "21e262e70085d8caa79ea2eb45b1353c079e266f99d962bb9b143a67a9c6c3c0",
       "contentHash": "6201f242a9efd05c01e389982eef9f83fd2fabe88b1c65b396b4fc2dcd8e0886",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.527Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/planetes/huit-planetes-systeme-solaire",
       "visualRefs": ["schema:planets"],
-      "fingerprint": "1ab7c18e5ba7e1b5535ccbee86890d21bba71c3cc2bd7ad877b71d47a9b752ac",
+      "fingerprint": "23d1a42d0ced18741558aec6e9f1791f094b7b5621185706ecdaf3c642a2210b",
       "contentHash": "be5cce12c09513ce39573b50d9b566e91c721bb42719801540cbfbb3ce7e101f",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.614Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/planetes/pourquoi-saturne-est-elle-entouree-d-anneaux",
       "visualRefs": ["schema:saturnrings"],
-      "fingerprint": "07e1b37b5066ca8576d9ca717b51266140747e352d4109b20952bf7e84a95204",
+      "fingerprint": "14fc677bfdc4e868a2aa45c67e076419d4463d9e70340544a82167e7ba2dc8d4",
       "contentHash": "da452003251ba2ccb6993536f53dcb8aa0071910cf98124fbeeb8a0875505033",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.697Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/planetes/pourquoi-venus-est-elle-la-planete-la-plus-chaude-du-systeme-solaire",
       "visualRefs": ["schema:greenhouse"],
-      "fingerprint": "2ba87423b0d3a5642e36e169324a6c523ab1e4db586735e16dcd22bef1cd191a",
+      "fingerprint": "8c7a20ab55f1a8911f8a5730918070cf1b82dfa69b2f26567d70b17916e54003",
       "contentHash": "1f121c8e8a7f63e4a1d425217b8daf0194f2230b796b2f55da750ff7fb373db9",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.789Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/planetes/pourquoi-y-a-t-il-des-saisons-sur-terre",
       "visualRefs": ["atelier:un-axe-deux-saisons"],
-      "fingerprint": "6029ef2fc0ae549bec8f1fe315b5f2b8c92d1118765fc71d1213453b737b8b58",
+      "fingerprint": "2275f6ddfc1347d026b61dbee67d7bbd0d26ab598464c18b2cdc647aeb6fa8b8",
       "contentHash": "c64640ec76b7f98e3def9a75818e6d8e1bb116898733fdb33e993e6cbf7b22dc",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.872Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/planetes/que-veut-dire-zone-habitable-pour-une-exoplanete",
       "visualRefs": ["schema:habitable"],
-      "fingerprint": "9e37ecd77d5f70246351d8cda510365e93fe7623b58baa5ce7b0a25b8c493048",
+      "fingerprint": "d75c0880fabe7e20c31c647d7c9761b7219288ec909c87aea9f48ee4e4810fe7",
       "contentHash": "13c970fbcc148102aa798d69007f112c00a5ed8f6388b7e43e575c48c07d0bb6",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-space-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:02.964Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/climatologie/comment-un-cyclone-tropical-nait-il-au-dessus-d-une-mer-chaude",
       "visualRefs": ["atelier:naissance-d-un-cyclone"],
-      "fingerprint": "5a59477772310bfb33b080bfcee5653d879fe2de0402af7f56cada9ab8c03569",
+      "fingerprint": "1806bd7c335c7c309ced1ea1db57afcdf6d9adffc1aa5d8a9e52f4e284113946",
       "contentHash": "835acfbdd25360f4fa573de2fd3568af4532a3bde0481ef8a5879ae91df534b7",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.045Z"
     },
     {
       "path": "/industries/industrie-lourde/chimie-industrielle/comment-le-bois-devient-il-une-feuille-de-papier",
       "visualRefs": ["atelier:de-la-pate-a-la-feuille"],
-      "fingerprint": "705ecbc5b982971045bf77dd01fadeb6a098a279a7b6626328c6fd1ccd3f5483",
+      "fingerprint": "102867193508efe3054935dc3a99442d9664d3695ae18746bf57aa52a67d88e3",
       "contentHash": "18dea0396b2ee60fab60146fd408cbdfb2922afad1ef328ae567b8c937719b6b",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.122Z"
     },
     {
       "path": "/industries/industrie-lourde/chimie-industrielle/les-catalyseurs-accelerer-une-reaction-chimique",
@@ -1382,11 +1382,11 @@
     {
       "path": "/industries/industrie-manufacturiere/chaine-logistique/comment-une-caisse-lit-elle-un-code-barres",
       "visualRefs": ["schema:barcode"],
-      "fingerprint": "44920433c9937917a676d3d7a7233b53c64c97ef0155f8677721810ec013dffa",
+      "fingerprint": "2f4d425de80dc66651e543ebf4fd972db21705696bae303ad5af975317f94a66",
       "contentHash": "bd0ef24511d9919b50828018ba79dab85d5949b2dc4f36e2f3c6066f9bfdfa29",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.229Z"
     },
     {
       "path": "/industries/materiaux-et-procedes/composites-et-polymeres/comment-le-soufre-a-t-il-rendu-le-caoutchouc-solide-et-elastique",
@@ -1445,263 +1445,263 @@
     {
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/apprentissage-par-renforcement-alphago",
       "visualRefs": ["schema:golearning"],
-      "fingerprint": "5653a2d15fab0f9bd98a76ba49eebc0e3db06b0144da9d94be17bdc87379e025",
+      "fingerprint": "d83d3917cb1a828e7f1f332aad2053d62b8acb967f7da42c5d329c1446576ef3",
       "contentHash": "1d2bced7f19385283d9f854bd62fcb16b0c6b4e58afb0c67beea6b06ae5ef733",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.339Z"
     },
     {
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/comment-une-ia-a-t-elle-appris-seule-a-jouer-a-des-jeux-video-atari",
       "visualRefs": ["schema:arcadelearning"],
-      "fingerprint": "4ffbb43c0b4eb13e7aabb5c0d90c0c24d9a465e14583824fffe84e354c38e611",
+      "fingerprint": "6c4e13f3f3d7fc362131f7a2357bd2b71d5d2c2ceeca023cc4b402e6020745ff",
       "contentHash": "8b87f6e87b03aeed348d8818a15729b6854116eecd5042b70d59845edfa9f781",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.452Z"
     },
     {
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/pourquoi-une-ia-doit-elle-parfois-tenter-des-choix-au-hasard-pour-mieux-apprendre",
       "visualRefs": ["schema:exploration"],
-      "fingerprint": "47aaa64703a1aec6f8a64709fd00ca632c79d8756f6522a9446f16f4e288da90",
+      "fingerprint": "4a946774fb183350c77b1434748a2bb3ade9e48e80a857be96d1bb9183c47742",
       "contentHash": "ae202fd67fb097e84720b857bbc983c2b18a98e9d159bd05981542e7d68036de",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.562Z"
     },
     {
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-profond/comment-un-reseau-de-neurones-convolutif-repere-t-il-les-formes-dans-une-image",
       "visualRefs": ["schema:convolution"],
-      "fingerprint": "41a24d308f13c1dcff0a55dd089cbf3e2b04f01f591a96a6f22f17856e254da6",
+      "fingerprint": "0da20991143c4f88e176d8fca6c984abea997f12cf005095c792ff8925f8d223",
       "contentHash": "48985026f29b081f68dc067f1a5a944cc46a0cb09ecb8899b9c699e994758ab4",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.638Z"
     },
     {
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-profond/comment-un-reseau-de-neurones-recurrent-se-souvient-il-du-debut-d-une-phrase",
       "visualRefs": ["schema:recurrent"],
-      "fingerprint": "a0fbb599c701eefc19e079e6f72ffc843fa89fe09ff3fd8aee75b7e155b4fac4",
+      "fingerprint": "900865eb3b540fd415d187efbd5e98faa90bfe73a5b1d7a4cae6fc8cb485100c",
       "contentHash": "0e25a0625701488ffc657075cc0cb71a3c67511bd644d7afef8977741252933e",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.747Z"
     },
     {
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-profond/principes-apprentissage-profond",
       "visualRefs": ["schema:gradient"],
-      "fingerprint": "c6130cdb7d405411eafd982a145e2f0d191b28bed10b2949814bbd885180e0a7",
+      "fingerprint": "594fb6016ac622f38e4f655042338410f9f8d473cde86cc049efd2ecb29b8f73",
       "contentHash": "826060f7f723d2a9ab6efdfdea635b0487026c3a5476c35290aa84a4b25b909c",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.855Z"
     },
     {
       "path": "/intelligence-artificielle/apprentissage-automatique/comment-fonctionnaient-les-systemes-experts-ces-ia-faites-de-regles",
       "visualRefs": ["schema:expertinference"],
-      "fingerprint": "44aded8e5de4abd9a718d9262ee8415943e606958b4a9c7397e83294a8d26eeb",
+      "fingerprint": "843255ab5bfca7b07992daf15ae590f3bf9db16dbe1d35752c06f60d4d4a020c",
       "contentHash": "0afb133f0241e6e91f17d6a469569a5da1618c499638ae97b1fe0d643898cecb",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:03.946Z"
     },
     {
       "path": "/intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement/donnees-dentrainement-et-surapprentissage",
       "visualRefs": ["schema:overfitting"],
-      "fingerprint": "4303ff849a3dd788ad7d2ad9c3813647f7ce57b9e3d6c13af016670bf0fb4524",
+      "fingerprint": "dd1b5f0946c44016eb8e6cca2735dc32a33dcda12fbc5f0633680a2bc730f120",
       "contentHash": "d09ac1def29012845bb6a317b7351afa27f87e2064886c64e7786556cf97c02d",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.071Z"
     },
     {
       "path": "/intelligence-artificielle/ethique-et-societe/biais/biais-algorithmiques-exemples-documentes",
       "visualRefs": ["schema:biasloop"],
-      "fingerprint": "0ab0cfa4fd32668de348b111f79e362d7a4a8f771b4c8c481831dceb011431b4",
+      "fingerprint": "eaecd77304df06afadb7b6ee6cc30dd63e9bd5efd949d9a2fd255b580261f910",
       "contentHash": "14bf7327ff055f26c3c1a39a75154f2264ce6e973149fb4d3a5b868575b3404d",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.145Z"
     },
     {
       "path": "/intelligence-artificielle/ethique-et-societe/biais/pourquoi-certains-logiciels-de-reconnaissance-faciale-se-trompent-ils-plus-sur-certains-visages",
       "visualRefs": ["schema:facematching"],
-      "fingerprint": "cb5d1406df505404ea2408d78e2c8de5c1a0bb139cb7b62177a3bf4d32a1bd8e",
+      "fingerprint": "0054710b741fc2a34742c5d5f6d69730858ffb948dff11b4068f4a8186d6fb02",
       "contentHash": "70d0fd0b1f2361c0a4c324d2b570a5e751add2b505470b9457516cc8f45644a8",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.228Z"
     },
     {
       "path": "/intelligence-artificielle/ethique-et-societe/regulation/reglement-europeen-sur-lia-ai-act",
       "visualRefs": ["schema:aiact"],
-      "fingerprint": "d7ef6de5e8f6237bec2e743d23c570913f111416c41224c9df71d2480d828068",
+      "fingerprint": "9019dac370cceb1d89fb647d5a4fe23069eba8f891b9ab7e21edd5faacc18eac",
       "contentHash": "6ee2c3e58f92a3a864d26a79a6ab9690be4bc57cde4ed156833678d828e12438",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.298Z"
     },
     {
       "path": "/intelligence-artificielle/ethique-et-societe/travail-et-usages/comment-l-intelligence-artificielle-aide-t-elle-les-personnes-aveugles-ou-sourdes",
       "visualRefs": ["schema:assistive"],
-      "fingerprint": "1573439ccd9a47af91c8b6bcfe7f5774d3182a49a097d094022adc577ba18a99",
+      "fingerprint": "94a9a7fc90aa00812e8a015ab33ca896b2366984df21cc6cc7198373d43a6863",
       "contentHash": "ff356592b68a6cb9fedad1a0d9b2c9973bcc367513fd29f989469ed9d81cc6c6",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.373Z"
     },
     {
       "path": "/intelligence-artificielle/ethique-et-societe/travail-et-usages/comment-un-robot-peut-il-apprendre-a-agir-dans-des-situations-qu-il-n-a-jamais-vues",
       "visualRefs": ["schema:robotaction"],
-      "fingerprint": "6a4e9a06c747809d1db0ac6155d663d94d2ff60f6de472add5062ef904e4cf0c",
+      "fingerprint": "5d55095be2ce1709c0724a5ac4a0f64f6ff9a902fb87297c36f26942a2d1a7c1",
       "contentHash": "4689598c65a5d447e11438efeb7d3c1f251052521cacc2277e78bc948660c3fb",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.444Z"
     },
     {
       "path": "/intelligence-artificielle/ethique-et-societe/travail-et-usages/ia-et-transformation-du-travail",
       "visualRefs": ["schema:worktasks"],
-      "fingerprint": "ecc452a43aa7992a77171c1273fda869c1e9698c5c9ebc7d6b7fc3a12956198c",
+      "fingerprint": "e7238715815934eeeecde400bdba73dd3425b69a68cf1e1280e0e6a784b3212c",
       "contentHash": "19dc1218b55f6a7e950a729cfdf8acee0f886b7a5b7cca8b20965a05b47ae9c4",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.522Z"
     },
     {
       "path": "/intelligence-artificielle/ethique-et-societe/travail-et-usages/que-peut-faire-l-ia-dans-un-tribunal-et-qu-est-ce-qui-est-interdit",
       "visualRefs": ["schema:justiceai"],
-      "fingerprint": "dd33cbb117b2a75df32bbf03b7416a950843974f55c65739fae356bc655cfe09",
+      "fingerprint": "03264f26a056c098204c5fe9447001779ff1ddf1f15ccda80e1aa7720f4f89a5",
       "contentHash": "4e6996ab571aafba8c7b30912ea27bef9f8fecf56df91a017dec8c9df956dd26",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.651Z"
     },
     {
       "path": "/intelligence-artificielle/modeles-de-langage/ia-generative/comment-fabrique-t-on-un-deepfake-et-pourquoi-faut-il-s-en-mefier",
       "visualRefs": ["schema:syntheticmedia"],
-      "fingerprint": "bf700d175697165d6d214bf23233373aaec6f36bf4cd072e568ae2af99771dd6",
+      "fingerprint": "6d1614a40bd9e86920ba23e49e8f0f8b0a386fa3bb3a5a1dc7094eb38230405c",
       "contentHash": "b9273d8124bfc5cec75dc6a03f1e2cf0f6eb74054bf79d687fcef8af4f2acbb9",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.770Z"
     },
     {
       "path": "/intelligence-artificielle/modeles-de-langage/ia-generative/comment-une-ia-fabrique-t-elle-une-image-a-partir-d-une-simple-phrase",
       "visualRefs": ["schema:diffusion"],
-      "fingerprint": "557bfa5f8fcd38140ed244203f9e4b76df728fc7d72ee48d890e8922e9694acd",
+      "fingerprint": "44b1c488fe1a177dae2ee32fbcff06e9cc31a09efdabd0582db8f015c573b5cd",
       "contentHash": "cdc6dbdc5f6cd22de5a207c1198704d404f77b3b47b65679a05d5df6674dc082",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.839Z"
     },
     {
       "path": "/intelligence-artificielle/modeles-de-langage/ia-generative/gpt-4o-ia-generative-multimodale",
       "visualRefs": ["schema:multimodal"],
-      "fingerprint": "ce24d87f6e81c9c262436a50649fd771fa98d5e750bb43f9bd2f5e979b4dd08e",
+      "fingerprint": "b7c08eda47bf8331fa899061bf479f2a294385e4296b439bfcf5718b4306c4e0",
       "contentHash": "6cca0a468684b6648fb23c72bf91c466fe83d1fe0b19501372990a7fd3007f43",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.909Z"
     },
     {
       "path": "/intelligence-artificielle/modeles-de-langage/limites-et-erreurs/limites-des-modeles-de-langage",
       "visualRefs": ["schema:hallucination"],
-      "fingerprint": "798f1fa11bedb1c87d440fb71ab2358e58e99e7a3cde76c6f5ab31298c603fa5",
+      "fingerprint": "262a2dec5c6c7193330b106b4dd2106128ba66e212b10d55f6f0a571acc5df1e",
       "contentHash": "9373c351f0aa1ab6b58e16a9188c4d8ca5b2aeef1cfef6b3c465bd6bd48503ff",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:04.984Z"
     },
     {
       "path": "/intelligence-artificielle/modeles-de-langage/limites-et-erreurs/pourquoi-une-ia-conversationnelle-ne-connait-elle-pas-les-dernieres-nouvelles",
       "visualRefs": ["schema:retrieval"],
-      "fingerprint": "5f624be6a823e20dd8a2d4923ea8c2481801423ba06e2463899253c68b4e64c4",
+      "fingerprint": "a2dbfc13e97fd6c9e5e6a5a67edfceadd6aeb59d89ae7bf854506a0db94fcbc0",
       "contentHash": "e0cff25bb336c13c3e5f952fb0961344b5acf1db55659afadfcaf33d1c3f5f3c",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.105Z"
     },
     {
       "path": "/intelligence-artificielle/modeles-de-langage/transformeurs/comment-une-ia-peut-elle-comprendre-a-la-fois-une-image-et-une-phrase",
       "visualRefs": ["schema:visionlanguage"],
-      "fingerprint": "3c84bb97a9f26427e795bb4cf8fdf43d25e1dc80fa2c187c8bc0f072d5f73da2",
+      "fingerprint": "bd1025fc97237d52a969b0c668431667102d84cd0d746da16e5c67d62070a17d",
       "contentHash": "6e5e8615dbdf52269c6839e69806f6ea41aa72404ae5b6d2993b96534bb06ef5",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.199Z"
     },
     {
       "path": "/intelligence-artificielle/modeles-de-langage/transformeurs/faire-tourner-ia-ordinateur",
       "visualRefs": ["schema:localmodel"],
-      "fingerprint": "2a6388edef1ed7e3b4a91330da1fb8006f616f06f9fad66e52437ded24e36004",
+      "fingerprint": "41818a2aa636c8ea1ed6acc7289586c6ab88e0a7babd71c99f9452d59f216429",
       "contentHash": "c76e9b37e2fb648a3a5029773d1809062c2f7906117dc9aa6cbb83a8f14b59f2",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.300Z"
     },
     {
       "path": "/intelligence-artificielle/modeles-de-langage/transformeurs/transformeurs-architecture-ia",
       "visualRefs": ["schema:attention"],
-      "fingerprint": "0fb2edd4f4a7649d8d731a62667fd2f7d58a81e3574088810b9a67f2d94d092f",
+      "fingerprint": "835ee932328d1331acdac78ae635aeb9a751e6d6a7a97b42ac5645c70ed5b163",
       "contentHash": "b744d7eeb065c1e13f8039070a66c5a6fa22db3fb787aeb29c1cba028dd713a3",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-learning/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.392Z"
     },
     {
       "path": "/micro-informatique-et-informatique/donnees/representation-et-compression/comment-un-ordinateur-peut-il-tout-ecrire-avec-seulement-des-0-et-des-1",
       "visualRefs": ["schema:binary"],
-      "fingerprint": "46e4e0639146fb9bebf1cbaa4074469ae7ec9cf598e9f80a57a0545636223298",
+      "fingerprint": "bd5a13bd9a06b91b7d7a6c969dc2598c28006b45d879323e17784d6df3df9d19",
       "contentHash": "8362f77da1dda7d1668b70c5c7da0d95d003372b92fa85e09983497bf6d79cb7",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.496Z"
     },
     {
       "path": "/micro-informatique-et-informatique/donnees/representation-et-compression/qu-est-ce-qu-un-pixel-et-comment-une-image-est-elle-faite-de-pixels",
       "visualRefs": ["schema:pixels"],
-      "fingerprint": "d8f502b73d770aaec2f27d6ecfa188a04e4907e863a623ac0c1414c44d2cdebe",
+      "fingerprint": "e1549ea32b9bae73fb20f6e398fd03f0e94c0bd489e0d71c5b3ae11aad1af74b",
       "contentHash": "5e6af32ac7cad35801e0a9632700ea692c8e3451854be601dbe3b278191aff5d",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.573Z"
     },
     {
       "path": "/micro-informatique-et-informatique/logiciel/algorithmes/comment-un-ordinateur-range-t-il-une-liste-dans-l-ordre",
       "visualRefs": ["schema:sorting"],
-      "fingerprint": "11386ea0cf99ef14363d0423a4787415adef06ea0e9ecc2dc560d6625b49c23e",
+      "fingerprint": "f863252f339b38d0dfe70acaf1a5d18a7dc0197fc9e0bf171236ee763a3e0e98",
       "contentHash": "3f728512fe02a9422412c3ad69546c8292b2ae29faafb83de0c462280ae62a4c",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.650Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-un-ecran-affiche-une-image",
       "visualRefs": ["schema:pixels"],
-      "fingerprint": "80f930e127441de7e1898254eb6234f23c70139178ff6d4742c55450d855ecbc",
+      "fingerprint": "e1549ea32b9bae73fb20f6e398fd03f0e94c0bd489e0d71c5b3ae11aad1af74b",
       "contentHash": "268ff9484763ecacfff53aa7d069a9cb37ec041b07db79e5584614ede98a63ed",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.746Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-fonctionne-un-processeur",
       "visualRefs": ["schema:cpu"],
-      "fingerprint": "408255991900086927fabd68e5ff0d878d9a87a0f5df930ddc08235b83d66a4e",
+      "fingerprint": "37f4cf03f2501860b5e044b51c6f8e55efacb5e29b7f2749c8a1fd8dfdaaced7",
       "contentHash": "142394e30e088857462203960417226dd6620cf01d3cfce445a6022d14b9dfe4",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.830Z"
     },
     {
       "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-le-wi-fi-fait-il-voyager-des-donnees-a-travers-l-air",
       "visualRefs": ["atelier:les-donnees-dans-l-air"],
-      "fingerprint": "e2eeb603d55629e5a2de69b77cdf926c0fe04aa0eb384f1e3234bd3024aa4b88",
+      "fingerprint": "a660a52617700f5aab663e5e49e13641f6091fb0688b54938ea3945eb4923384",
       "contentHash": "e1ba24b2f36d1d3040a0bfde0e46043e72e42e62750933d17afcfd8981804fe7",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:05.913Z"
     },
     {
       "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/comment-une-couche-de-paille-protege-t-elle-le-sol-d-un-potager",
@@ -1769,11 +1769,11 @@
     {
       "path": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/comment-une-roche-se-transforme-t-elle-peu-a-peu-en-sol",
       "visualRefs": ["atelier:naissance-d-un-sol"],
-      "fingerprint": "a867424be600eac67863b63041f4a6246c8e65ec87a347c927f0621384e50ddc",
+      "fingerprint": "f4beef53cb56fa003de38f80a5b39304ad185d0328e475e8659f7d6c4813b5e9",
       "contentHash": "54a6359c277a7482001f840b4952b7148fec119b559444f43a6c056f8482317e",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.008Z"
     },
     {
       "path": "/sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese/comment-des-bacteries-fabriquent-elles-l-insuline-des-diabetiques",
@@ -1805,38 +1805,38 @@
     {
       "path": "/sciences-fondamentales/biologie/cellule/comment-une-feuille-fabrique-t-elle-du-sucre-avec-de-la-lumiere",
       "visualRefs": ["atelier:feuille-et-lumiere"],
-      "fingerprint": "5c2fc9836a6944073ff161b7d675baaa9eed10060d7dbbdae2c7f4ad63331e2b",
+      "fingerprint": "65dd11bb7c891ae28952dc2bb97c71c8d91900d96feaf4fef266450a8a7a0177",
       "contentHash": "9e98ff325da2d4d545df634a1153ae97d00f89a12e6698882405b81da38b262a",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.088Z"
     },
     {
       "path": "/sciences-fondamentales/biologie/genetique/decouverte-structure-adn",
       "visualRefs": ["schema:dna"],
-      "fingerprint": "e26744499d8822201b59469c93056ced76672fe61036abea4b503f6314cdb44f",
+      "fingerprint": "2e3ec07deb9a5267428a9c04238051fe2e60e8895ff1baaa6d28c0a9b1ff6d1a",
       "contentHash": "d2e8b38d0fada6ef8540582711114b6e7287e8026bcb49bea23041582f71b126",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.163Z"
     },
     {
       "path": "/sciences-fondamentales/chimie/chimie-organique/comment-fabrique-t-on-du-savon-avec-de-l-huile",
-      "visualRefs": ["atelier:savon-et-graisse", "schema:saponification"],
-      "fingerprint": "1f780e7b92d8fa2c9c2a5bc189847e992d4f5387c2c33d84bd68848a7b12444f",
+      "visualRefs": ["schema:saponification", "atelier:savon-et-graisse"],
+      "fingerprint": "679acc67052a0ec34f9d5d72b23671b2449f11506bd72d05696af66ac5a1e379",
       "contentHash": "ba3911d32ecca5eaab85b5244826aab6f875d7e14b35399fb0a12310f6ac2266",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.247Z"
     },
     {
       "path": "/sciences-fondamentales/chimie/chimie-organique/distillation",
       "visualRefs": ["schema:distillation"],
-      "fingerprint": "365846fe58ea811d6be51c428440cf2037d7b58f1bb142f39345956dc86bce8a",
+      "fingerprint": "eee52718e791b114ab178bd8b8fcd9f468f70fa1ff2edcd778dec7d08e4f9a91",
       "contentHash": "e6d78addd53f052ab369d57cd06830a9215f26d0da1a46445296b16cbfc7f502",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.330Z"
     },
     {
       "path": "/sciences-fondamentales/chimie/chimie-physique/pourquoi-le-sel-disparait-il-dans-l-eau-alors-que-l-huile-reste-a-part",
@@ -1850,20 +1850,20 @@
     {
       "path": "/sciences-fondamentales/mathematiques/algebre/numeration-position-zero",
       "visualRefs": ["schema:binary"],
-      "fingerprint": "b2660bf43e50d30055fbb8311bc0196ff4a7d6e9b25063dfe4eceb755c638920",
+      "fingerprint": "bd5a13bd9a06b91b7d7a6c969dc2598c28006b45d879323e17784d6df3df9d19",
       "contentHash": "9dca04ddacaff930851db13b9bf3bd74fa4cf797b146feeb914f766ef2af117a",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.411Z"
     },
     {
       "path": "/sciences-fondamentales/mathematiques/probabilites-et-statistiques/le-hasard-et-les-probabilites",
       "visualRefs": ["schema:probability"],
-      "fingerprint": "10665e9836c9aa14b094d1b58347810c9659f36d4cb5892c95697df07c568b39",
+      "fingerprint": "ef7ce39c4bb191e706346d05f9200bcfb2b4046ae214ce6c0223fa490a6e890d",
       "contentHash": "3bd88052f72bb8ff18df50304b8210d743eca0d2d68092964a473e11241b6977",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.538Z"
     },
     {
       "path": "/sciences-fondamentales/physique/electromagnetisme/comment-fonctionne-un-aimant",
@@ -1895,20 +1895,20 @@
     {
       "path": "/sciences-fondamentales/physique/electromagnetisme/comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite",
       "visualRefs": ["schema:induction"],
-      "fingerprint": "8a63c43e7611177df6f4e0d958060f2d37c8e4eb457dfa8db971df96b7e360d9",
+      "fingerprint": "ace0f64805ec681099acb554dae18a6c1e9867357fba2fff70f19369c85554bc",
       "contentHash": "5fb93bd8f7ff6304eac015a030887f3b7e1ec18386f0465dc3ee32f4195b5a42",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.622Z"
     },
     {
       "path": "/sciences-fondamentales/physique/electromagnetisme/lentilles-optique",
       "visualRefs": ["schema:lens"],
-      "fingerprint": "65760aec8a42562313bc52c992c4308276f0e8c62260eb2fa8de1d7968332c4b",
+      "fingerprint": "4ad94217baf9b235238976bf4290eba6765fd8665f7f5b9d2e01ece5c819473b",
       "contentHash": "c9cdcc3a8686cf6c349fb8d81542a20bb0709d30d14c9bd61c6405f2bca83ee0",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.703Z"
     },
     {
       "path": "/sciences-fondamentales/physique/electromagnetisme/les-transformateurs-electriques-et-leur-role-dans-l-ajustement-de-la-tension",
@@ -1931,11 +1931,11 @@
     {
       "path": "/sciences-fondamentales/physique/electromagnetisme/tension-courant-resistance",
       "visualRefs": ["atelier:allumer-une-lampe"],
-      "fingerprint": "4174298f1364c3f0175a5dad5ed7e54c4e486f49dc8b8b98bcbd8edadd55d457",
+      "fingerprint": "4b88d527e2da4f1e9863c6ed3569601117718d2d7650a738630ba3f5cface205",
       "contentHash": "1ffa5e3db6ef24f148fc79aa73a351a98f3c611ca3a4af8fe7e9caa2ff9f27f3",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.772Z"
     },
     {
       "path": "/sciences-fondamentales/physique/mecanique/energie-et-conservation",
@@ -1958,20 +1958,20 @@
     {
       "path": "/sciences-fondamentales/physique/mecanique/pendule-mesure-temps",
       "visualRefs": ["schema:pendulum"],
-      "fingerprint": "4ac99be07b7b97b3923c775af77899c7dba4c157e4173270250eb700b7b8e755",
+      "fingerprint": "8beb066d1ac9dbb81d46b22030f2c4fd531ebcdb1bbfdc5ff7f594b8e5c46102",
       "contentHash": "40b8f1250fbb26485f02dfcfdcf563a870d1e5a160245cdd18d9dd37d4063633",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.845Z"
     },
     {
       "path": "/sciences-fondamentales/physique/mecanique/pourquoi-un-bateau-en-acier-flotte-t-il",
       "visualRefs": ["atelier:le-bateau-et-l-eau-deplacee"],
-      "fingerprint": "7f17a6ab45380ee39882a25f0794afd3e7bc58861ccde500ca5b2d529618e4d3",
+      "fingerprint": "ae6d7cdc324d08816abebcdcad6a005bd278bc046531f6d1a72b55f2547b2c35",
       "contentHash": "33d387f4b9622add4030dd064631f30d0d502f7ca1dd037b45e99ea6677efd4b",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.916Z"
     },
     {
       "path": "/sciences-fondamentales/physique/thermodynamique/conduction-convection-rayonnement",
@@ -1994,47 +1994,47 @@
     {
       "path": "/sciences-fondamentales/sciences-de-la-terre/geologie/tectonique-des-plaques",
       "visualRefs": ["schema:tectonics"],
-      "fingerprint": "e48b0ec9a61e1114454e07c37f936260309f2ba76f1d540b8b0de245ee35f2a6",
+      "fingerprint": "3e9f7d1b7afcbd1adb3f99608c60908f3c720b60f881248d0aed07539792beb6",
       "contentHash": "5dc21cb91481015baa0fcd5e42dc51c3ede09451734d8bad94529f2cd49124af",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:06.995Z"
     },
     {
       "path": "/sciences-fondamentales/sciences-de-la-terre/geologie/trouver-eau-souterraine",
       "visualRefs": ["schema:groundwater"],
-      "fingerprint": "b852cf4dd2788b12dd947af1a5dfc0d2c03e2f420a1f07579d9fcb86bb04841b",
+      "fingerprint": "928b7fff4f79efa3294b8a9d39eeeeb85163f6a0c245165acbd006c4fa2b4e83",
       "contentHash": "c3c238de784398db6687292c233a4cfd811376f90007f788f42c1e036eb66443",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.079Z"
     },
     {
       "path": "/sciences-fondamentales/sciences-de-la-terre/oceanographie/comment-la-lune-fait-elle-monter-et-descendre-la-mer",
       "visualRefs": ["schema:tides"],
-      "fingerprint": "7c90a929c6e349855ee54866624d8a55b347ee01a29bbc09844572a39ac79ea0",
+      "fingerprint": "467b1fb301f5e238169b7f9ffe489e8505c01eebe5149f20b945af4f20393dec",
       "contentHash": "d60fcfe351e107d1d81559e5f2fe365573cd1edaa45d997f808140a891d497e4",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.155Z"
     },
     {
       "path": "/sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes/volcans-et-tremblements-de-terre",
       "visualRefs": ["schema:tectonics"],
-      "fingerprint": "30c2e090492a389f1ad022ff4935e5616b90b8e235f3c4f14d95ada0db04a9ec",
+      "fingerprint": "3e9f7d1b7afcbd1adb3f99608c60908f3c720b60f881248d0aed07539792beb6",
       "contentHash": "d2670f6308a6c975a7a94a166c25ee29f05c3cd6ceb7e8045885c88aa29fba41",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.237Z"
     },
     {
       "path": "/sciences-humaines-et-sociales/histoire/methode-historique/comment-le-carbone-14-permet-il-de-dater-un-os-ou-un-morceau-de-bois",
       "visualRefs": ["schema:radiocarbon"],
-      "fingerprint": "db57119f8422e754e415df8157822cfbd45aa144d5016dad3c9f4365228bb848",
+      "fingerprint": "b057b02720740fc31a6c7c6fcbcb941c04565ad64b45ddbb0cf153a3738e3d62",
       "contentHash": "32566ad08cb8b3824d657ec79432d42610cd165eae2e6cf5459c1a1f350818d2",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.322Z"
     },
     {
       "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/l-elasticite-et-la-plasticite-des-materiaux",
@@ -2084,20 +2084,20 @@
     {
       "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/comment-une-ecluse-fait-elle-monter-un-bateau-sans-aucune-pompe",
       "visualRefs": ["schema:lock"],
-      "fingerprint": "05cf9e1e812e571fb7b2c6d601411eb0d6c07e901d1fa26af75d8b808940e8f8",
+      "fingerprint": "fb4b94670b3e54fb4ec9d65f97f2db1323d3a144e9372e9cad778fa4cd6abab0",
       "contentHash": "33e5ee28cdb1068d811802a37db64f14ab9177511128302c82f52f06c42860a9",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.424Z"
     },
     {
       "path": "/technologies-et-ingenierie/genie-civil/structures/arc-voute",
       "visualRefs": ["schema:arch"],
-      "fingerprint": "",
+      "fingerprint": "00e63d3ccebc05d18ac82c422ae54f0b862823b4f856391e7c364f91c944031d",
       "contentHash": "ed9843a5dce4d6d0e28d8a9fc8b6b18bf28f4e6babdc5f8609d206e364c0286d",
-      "quality": "a_verifier",
-      "evidence": null,
-      "reviewedAt": null
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.508Z"
     },
     {
       "path": "/technologies-et-ingenierie/genie-civil/structures/charpente-bois",
@@ -2120,11 +2120,11 @@
     {
       "path": "/technologies-et-ingenierie/genie-civil/structures/levier-poulie-plan-incline",
       "visualRefs": ["atelier:un-petit-effort-un-grand-levier"],
-      "fingerprint": "",
+      "fingerprint": "1f1807cc39c8e30c3f73aa795af01fb11069d3a8ee92d6e9739ed5ec66460256",
       "contentHash": "f844849c84ea1f4d6c167070c3c00189b7319511f080c7cf5017216a01b204a1",
-      "quality": "a_verifier",
-      "evidence": null,
-      "reviewedAt": null
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.584Z"
     },
     {
       "path": "/technologies-et-ingenierie/robotique/actionneurs/comment-un-moteur-electrique-transforme-t-il-le-courant-en-mouvement",
@@ -2138,20 +2138,20 @@
     {
       "path": "/technologies-et-ingenierie/robotique/actionneurs/comment-un-verin-hydraulique-donne-t-il-une-force-enorme-a-une-machine",
       "visualRefs": ["schema:hydraulic"],
-      "fingerprint": "1b11840bf63f087c36b9bccbf96c0c758be50972120f592b69e537b99fe1a98c",
+      "fingerprint": "3bcdd74cf0904a70f501c9238dfd7efc3767e0db54a2eb7032538f19d1431dad",
       "contentHash": "9f0476d8575281668190fd254624ce036f2762ef7e9da2e24059fe596ed27d86",
-      "quality": "a_verifier",
-      "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
-      "reviewedAt": "au plus tard le 2026-11-09"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.705Z"
     },
     {
       "path": "/technologies-et-ingenierie/robotique/actionneurs/engrenages-courroies-transmissions",
       "visualRefs": ["atelier:deux-roues-deux-vitesses"],
-      "fingerprint": "398be830596fdd37c5fd3092087205e1e57640e160a07fa76f939090e138bf2a",
+      "fingerprint": "bd0b11b0be0563bd9c9049f5dfb8f3bb0fff6ec9e944043e05321f7cb6531144",
       "contentHash": "bdab04a1d9975235548d5bf1172db5c62223fd14458f03596e679581a3c2d330",
-      "quality": "a_verifier",
-      "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
-      "reviewedAt": "2026-11-07"
+      "quality": "validee",
+      "evidence": "docs/qa/existing-drawings/README.md",
+      "reviewedAt": "2026-11-12T13:51:07.799Z"
     },
     {
       "path": "/technologies-et-ingenierie/robotique/perception/comment-un-lidar-permet-il-a-un-robot-de-dessiner-une-carte-de-ce-qui-l-entoure",
@@ -2895,8 +2895,8 @@
     },
     {
       "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/comment-une-fresque-reste-t-elle-accrochee-au-mur-pendant-des-siecles",
-      "contentHash": "4682128cf2876121e2875929f4c7e610a51a44641b401a9fc569028ec1d8ddc7",
-      "evidence": "docs/qa/inline-schemas/README.md"
+      "contentHash": "887f33fe0aec3010e2fdb1d61cde5074122c4c70b50fa0b0f1061e62af9fa3c7",
+      "evidence": "docs/qa/existing-drawings/README.md"
     },
     {
       "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/perspective-lineaire-renaissance",

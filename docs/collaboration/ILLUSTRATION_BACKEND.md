@@ -21,7 +21,7 @@ Table PostgreSQL/Prisma `ArticleIllustration`, une ligne unique par article, cr�
 
 L’API, les listes CLI et l’export calculent aussi `hasVisual`, `hasDrawing`, `hasInlineSchema`. **`hasVisual=true` si un schéma éditorial ou un dessin existe.** `WAITING_FOR_ILLUSTRATION` signifie ici « en attente de dessin spécifique » : ce n’est pas synonyme de leçon sans aucun visuel.
 
-Au dernier export : 948 schémas éditoriaux validés, 50 nouveaux dessins validés, 191 dessins conservés avec correspondance au texte à revérifier, 707 leçons sans dessin spécifique, **zéro leçon publiée sans aucun visuel**. Les 707 ne constituent donc pas une demande automatique de produire 707 images.
+Au dernier export : 948 schémas éditoriaux validés, 241 leçons avec dessin spécifique validé, aucun dessin restant à vérifier, 707 leçons sans dessin spécifique, **zéro leçon publiée sans aucun visuel**. Les 707 ne constituent donc pas une demande automatique de produire 707 images. La [revue des 191 associations existantes](../qa/existing-drawings/README.md) conserve 169 unités visuelles et corrige quatre schémas ; ses décisions sont enregistrées en base et exportées.
 
 Conserver tout bon visuel existant. Avant un ajout, lire `show`, examiner le schéma présent et ne créer qu’un complément pédagogique utile. Une modification du texte, résumé, titre ou chemin conserve les références mais rouvre les validations ; une réservation fondée sur l’ancien texte ne peut plus être terminée. Les articles redevenus brouillons conservent leur historique et disparaissent des files actives.
 

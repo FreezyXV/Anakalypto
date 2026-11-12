@@ -9,33 +9,33 @@ Photographie du backend local exportée le 2026-11-12, sans audit du corpus. Auc
 | Nombre de schémas éditoriaux               |    965 |
 | Leçons avec dessin ou atelier              |    241 |
 | Sans aucun visuel                          |      0 |
-| Illustration incluse et vérifiée           |     50 |
+| Illustration incluse et vérifiée           |    241 |
 | En attente de dessin spécifique            |    707 |
-| À vérifier                                 |    191 |
+| À vérifier                                 |      0 |
 | À améliorer, défaut enregistré             |      0 |
 | Réservées, sous-ensemble non additionnable |      0 |
 
 | Domaine                            | Publiées | Prêtes | À améliorer | À vérifier | Sans dessin |
 | ---------------------------------- | -------: | -----: | ----------: | ---------: | ----------: |
-| aeronautique                       |       37 |      0 |           0 |         37 |           0 |
-| alimentation-et-nutrition          |       92 |      2 |           0 |          1 |          89 |
-| arts-et-culture                    |       43 |      0 |           0 |          6 |          37 |
-| automobile                         |       90 |      0 |           0 |          3 |          87 |
-| communication-et-medias            |       45 |      0 |           0 |          8 |          37 |
-| corps-humain-et-sante              |       65 |      0 |           0 |          4 |          61 |
+| aeronautique                       |       37 |     37 |           0 |          0 |           0 |
+| alimentation-et-nutrition          |       92 |      3 |           0 |          0 |          89 |
+| arts-et-culture                    |       43 |      6 |           0 |          0 |          37 |
+| automobile                         |       90 |      3 |           0 |          0 |          87 |
+| communication-et-medias            |       45 |      8 |           0 |          0 |          37 |
+| corps-humain-et-sante              |       65 |      4 |           0 |          0 |          61 |
 | droit-et-justice                   |       44 |      0 |           0 |          0 |          44 |
-| energie                            |       60 |      0 |           0 |         37 |          23 |
-| environnement-et-climat            |       40 |     10 |           0 |          4 |          26 |
-| espace-et-astronomie               |       37 |      0 |           0 |         37 |           0 |
-| geographie-et-territoires          |       37 |      0 |           0 |          1 |          36 |
-| industries                         |       41 |      8 |           0 |          2 |          31 |
-| intelligence-artificielle          |       23 |      0 |           0 |         23 |           0 |
-| micro-informatique-et-informatique |       43 |      0 |           0 |          6 |          37 |
-| sciences-du-vivant-appliquees      |       46 |     10 |           0 |          1 |          35 |
-| sciences-fondamentales             |       67 |     10 |           0 |         15 |          42 |
-| sciences-humaines-et-sociales      |       58 |      0 |           0 |          1 |          57 |
+| energie                            |       60 |     37 |           0 |          0 |          23 |
+| environnement-et-climat            |       40 |     14 |           0 |          0 |          26 |
+| espace-et-astronomie               |       37 |     37 |           0 |          0 |           0 |
+| geographie-et-territoires          |       37 |      1 |           0 |          0 |          36 |
+| industries                         |       41 |     10 |           0 |          0 |          31 |
+| intelligence-artificielle          |       23 |     23 |           0 |          0 |           0 |
+| micro-informatique-et-informatique |       43 |      6 |           0 |          0 |          37 |
+| sciences-du-vivant-appliquees      |       46 |     11 |           0 |          0 |          35 |
+| sciences-fondamentales             |       67 |     25 |           0 |          0 |          42 |
+| sciences-humaines-et-sociales      |       58 |      1 |           0 |          0 |          57 |
 | sport-et-sciences-du-mouvement     |       36 |      0 |           0 |          0 |          36 |
-| technologies-et-ingenierie         |       44 |     10 |           0 |          5 |          29 |
+| technologies-et-ingenierie         |       44 |     15 |           0 |          0 |          29 |
 
 [Références complètes](VISUAL_INVENTORY.csv) · [Travail restant](VISUAL_BACKLOG.csv) · [États backend JSON](ILLUSTRATION_STATUS.json) · [Guide des agents](ILLUSTRATION_BACKEND.md).
 

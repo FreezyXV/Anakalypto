@@ -1,0 +1,54 @@
+[
+  {
+    "index": 6,
+    "states": [
+      "L’air suit le profil de l’aile et est dévié vers le bas.",
+      "L’aile s’incline davantage par rapport à l’air incident.",
+      "L’écoulement se sépare et la portance diminue fortement."
+    ],
+    "layout": {
+      "focusOutline": "3px",
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 153,
+    "states": [
+      "Le processeur reçoit une instruction depuis la mémoire.",
+      "La commande reconnaît l’opération et sélectionne les données.",
+      "L’unité de calcul produit 5, puis le résultat est rangé dans un registre."
+    ],
+    "layout": {
+      "focusOutline": "3px",
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 160,
+    "states": [
+      "La vapeur est plus riche en composé le plus volatil.",
+      "Un réfrigérant enlève de la chaleur et condense la vapeur.",
+      "Le liquide condensé arrive dans un autre récipient."
+    ],
+    "layout": {
+      "focusOutline": "3px",
+      "scroll": 320,
+      "width": 320
+    }
+  },
+  {
+    "index": 168,
+    "states": [
+      "Le sas et l’aval sont au même niveau ; le bateau entre.",
+      "Les portes sont fermées ; une vanne laisse entrer l’eau d’amont.",
+      "Quand les niveaux sont égaux, la porte amont peut s’ouvrir."
+    ],
+    "layout": {
+      "focusOutline": "3px",
+      "scroll": 320,
+      "width": 320
+    }
+  }
+]
