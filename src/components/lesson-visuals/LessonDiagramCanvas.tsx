@@ -1,3 +1,7 @@
+import { CardioOrgansDrawing } from "./CardioOrgansDrawings";
+import { DigestiveOrgansDrawing } from "./DigestiveOrgansDrawings";
+import { NeuroOrgansDrawing } from "./NeuroOrgansDrawings";
+import { RenalImmuneOrgansDrawing } from "./RenalImmuneOrgansDrawings";
 import { Physics50Drawing } from "./Physics50Drawings";
 import { Environment50Drawing } from "./Environment50Drawings";
 import { Agriculture50Drawing } from "./Agriculture50Drawings";
@@ -60,6 +64,10 @@ export function LessonDiagramCanvas({
         style={{ fontFamily: "var(--font-sans), system-ui, sans-serif" } as CSSProperties}
       >
         <DiagramSurface id={id} tint="#eef3f8" />
+        <CardioOrgansDrawing {...props} />
+        <DigestiveOrgansDrawing {...props} />
+        <NeuroOrgansDrawing {...props} />
+        <RenalImmuneOrgansDrawing {...props} />
         <Physics50Drawing {...props} />
         <Environment50Drawing {...props} />
         <Agriculture50Drawing {...props} />

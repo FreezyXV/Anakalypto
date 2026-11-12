@@ -1,0 +1,146 @@
+[
+  {
+    "ref": "LEC-DFD0A1D193E2",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-EBC1A6DCF75C",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-035506F93DA3",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-C2D1D9B21F1A",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-E3060B5D8C45",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-4A8EC7DD9282",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-29C515454520",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-F7BF291591D1",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-74ADE757D315",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-AAFFCB7E6A31",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-F43F0364C64E",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-BE91BD505D46",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-DFD0A1D193E2",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-EBC1A6DCF75C",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-035506F93DA3",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-C2D1D9B21F1A",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-E3060B5D8C45",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-4A8EC7DD9282",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-29C515454520",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-F7BF291591D1",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-74ADE757D315",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-AAFFCB7E6A31",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-F43F0364C64E",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  },
+  {
+    "ref": "LEC-BE91BD505D46",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "overflow": 0
+  }
+]
