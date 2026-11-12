@@ -1,0 +1,47 @@
+Target: production
+{
+  "checkedAt": "2026-11-12T09:57:51.558Z",
+  "editorialMatches": 948,
+  "inlineSchemas": 965,
+  "drawingAssociationsMatch": 241,
+  "sourceDigestMatches": true,
+  "migrations": [
+    "20260922131329_init",
+    "20260922131500_add_french_search",
+    "20260922134500_normalize_search_title",
+    "20260922200000_add_quiz",
+    "20261111120000_illustration_workflow",
+    "20261112010000_inline_visual_presence",
+    "20261112020000_inline_category_review"
+  ],
+  "summary": {
+    "scope": "PUBLISHED_ONLY",
+    "target": 1000,
+    "published": 948,
+    "untracked": 0,
+    "claimed": 0,
+    "visualPresence": {
+      "withInlineSchema": 948,
+      "withDrawing": 241,
+      "withoutVisual": 0
+    },
+    "counts": {
+      "WAITING_FOR_ILLUSTRATION": {
+        "label": "En attente d’illustration dessinée",
+        "count": 707
+      },
+      "REVIEW_REQUIRED": {
+        "label": "Illustration à vérifier",
+        "count": 191
+      },
+      "READY": {
+        "label": "Prête, illustration incluse et vérifiée",
+        "count": 50
+      },
+      "NEEDS_IMPROVEMENT": {
+        "label": "Illustration à améliorer",
+        "count": 0
+      }
+    }
+  }
+}

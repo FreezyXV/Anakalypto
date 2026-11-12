@@ -60,3 +60,42 @@ jobs:
 
       - name: Build
         run: npm run build
+
+  illustration-workflow:
+    name: File des illustrations (base isolée)
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: anakalypto
+          POSTGRES_PASSWORD: anakalypto
+          POSTGRES_DB: anakalypto_preview
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      DATABASE_URL: postgresql://anakalypto:anakalypto@127.0.0.1:5432/anakalypto_preview
+      DIRECT_URL: postgresql://anakalypto:anakalypto@127.0.0.1:5432/anakalypto_preview
+      CONTENT_DATABASE_URL: postgresql://anakalypto:anakalypto@127.0.0.1:5432/anakalypto_preview
+      ILLUSTRATION_DATABASE_URL: postgresql://anakalypto:anakalypto@127.0.0.1:5432/anakalypto_preview
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Installer les dépendances
+        run: npm ci
+      - name: Installer le schéma de la base dédiée
+        run: npm run prisma:deploy
+      - name: Charger les leçons publiées sans supprimer les autres données
+        run: npm run content:sync-published -- --apply
+      - name: Reprendre le manifeste des illustrations
+        run: npm run illustrations:work -- bootstrap
+      - name: Tester les réservations et validations
+        run: npx vitest run --config vitest.illustration-workflow.config.ts

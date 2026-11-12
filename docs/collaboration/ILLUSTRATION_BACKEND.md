@@ -88,7 +88,22 @@ La migration renseigne la présence des schémas pour les articles déjà suivis
 
 L’import habituel appelle aussi `bootstrap`, mais **aucun seed n’est nécessaire pour installer le suivi**. Un seed importe les contenus dans la base cible : ne pas le confondre avec une simple lecture de la file. `.env.local` du dépôt peut viser la production.
 
-Toutes les migrations et recettes de cette livraison ont été exécutées sur PostgreSQL local jetable. Commit et push transportent le code et le manifeste ; ils ne prouvent pas qu’une migration a été appliquée en production. Aucune activation de production n’est effectuée ici.
+Les migrations et recettes de la livraison initiale ont été exécutées sur PostgreSQL local jetable. Commit et push transportent le code et le manifeste ; ils ne prouvent pas qu’une migration a été appliquée en production. L’activation ultérieure est documentée ci-dessous.
+
+### Synchroniser les contenus publiés
+
+La correction de l’activation en production est suivie dans [ce rapport](../qa/production-activation/README.md). Pour les imports partiels, utiliser une connexion `CONTENT_DATABASE_URL` explicite : cette commande ne lit aucun fichier `.env` et ne supprime ni article, ni catégorie, ni étiquette.
+
+```sh
+npm run content:sync-published          # plan sans écriture
+npm run content:sync-published -- --apply
+npm run illustrations:work -- bootstrap
+npm run content:verify-published        # contrôle en lecture seule du corpus et du suivi
+```
+
+Seules les publications déjà décidées dans les fichiers du corpus sont importées. Les brouillons hors sélection restent intacts, et les anciens textes remplacés sont archivés dans `Revision`. Si des publiés de la base sont absents de la sélection, l’import refuse d’écrire. Après une décision éditoriale de retrait, `--archive-retired` permet de conserver en brouillons les anciennes publications absentes du **corpus complet**, sans effacer leur contenu. Cette option refuse les divergences de statut d’un article encore présent dans les fichiers.
+
+Avant une première activation sur une base sans `ArticleIllustration`, synchroniser les contenus, appliquer les migrations, puis reprendre le manifeste. Ainsi les empreintes des contenus validés correspondent dès l’initialisation. Sur une base déjà équipée, les triggers rouvrent normalement les validations des leçons modifiées ; `bootstrap` ne remplace aucune décision ultérieure. Toujours vérifier l’essai sur une branche de la base avant la production.
 
 ## Sauvegarder les décisions
 

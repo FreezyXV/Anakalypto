@@ -1,0 +1,20 @@
+Target: production
+Datasource "db": PostgreSQL database "neondb", schema "public" at "ep-icy-poetry-zaw0widg.c-2.eu-west-2.aws.neon.tech"
+
+7 migrations found in prisma/migrations
+
+Applying migration `20261111120000_illustration_workflow`
+Applying migration `20261112010000_inline_visual_presence`
+Applying migration `20261112020000_inline_category_review`
+
+The following migration(s) have been applied:
+
+migrations/
+  └─ 20261111120000_illustration_workflow/
+    └─ migration.sql
+  └─ 20261112010000_inline_visual_presence/
+    └─ migration.sql
+  └─ 20261112020000_inline_category_review/
+    └─ migration.sql
+
+All migrations have been successfully applied.

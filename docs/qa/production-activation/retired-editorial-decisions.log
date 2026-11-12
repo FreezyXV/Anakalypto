@@ -1,0 +1,495 @@
+Target: trial
+[
+  {
+    "slug": "droit-de-retractation-et-garanties",
+    "title": "Rétractation et garanties",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "physique-portance-aerodynamique",
+    "title": "Pourquoi une aile porte",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md",
+      "docs/QUALITY_ENRICHMENT_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "techniques-fermentation-alimentaire",
+    "title": "La fermentation, des microbes au travail",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "fonctionnement-moteur-combustion-interne",
+    "title": "Comment fonctionne un moteur à explosion",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "winglets-trainee-induite",
+    "title": "Les ailettes au bout des ailes",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md",
+      "docs/QUALITY_ENRICHMENT_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "intolerance-au-lactose-et-maladie-coeliaque",
+    "title": "Intolérance au lactose et maladie cœliaque",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "mettre-un-objet-en-orbite",
+    "title": "Comment on met un objet en orbite",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md",
+      "docs/QUALITY_ENRICHMENT_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "avion-a-hydrogene-etat-des-projets",
+    "title": "L'avion à hydrogène",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md",
+      "docs/QUALITY_ENRICHMENT_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "quelle-quantite-d-eau-se-cache-dans-notre-assiette",
+    "title": "Quelle quantité d'eau se cache dans notre assiette ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-les-freres-lumiere-ont-ils-invente-la-projection-de-films",
+    "title": "Comment les frères Lumière ont-ils inventé la projection de films ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "fonctionnement-freinage-abs",
+    "title": "Comment fonctionne le freinage d'une voiture",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "voiture-definie-par-logiciel",
+    "title": "La voiture définie par logiciel",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "freinage-regeneratif-explication",
+    "title": "Le freinage régénératif expliqué",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "que-signifient-les-niveaux-de-la-conduite-automatisee-de-0-a-5",
+    "title": "Que signifient les niveaux de la conduite automatisée, de 0 à 5 ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "quelle-difference-entre-autopartage-et-covoiturage-et-que-gagne-t-on-vraiment",
+    "title": "Quelle différence entre autopartage et covoiturage, et que gagne-t-on vraiment ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "deshydratation-solute-rehydratation",
+    "title": "La déshydratation et le soluté de réhydratation",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "soigner-plaie",
+    "title": "Soigner une plaie",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-un-vaccin-a-arn-messager-apprend-il-au-corps-a-se-defendre",
+    "title": "Comment un vaccin à ARN messager apprend-il au corps à se défendre ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "produire-electricite-avec-aimant",
+    "title": "Produire de l'électricité avec un aimant",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md",
+      "docs/QUALITY_ENRICHMENT_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-un-reseau-electrique-intelligent-adapte-t-il-la-consommation-a-la-production",
+    "title": "Comment un réseau électrique intelligent adapte-t-il la consommation à la production ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "traitement-eaux-usees",
+    "title": "Le traitement des eaux usées",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "reperer-grace-etoiles",
+    "title": "Se repérer grâce aux étoiles",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md",
+      "docs/QUALITY_ENRICHMENT_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "les-marees-et-l-effet-de-la-lune-sur-les-oceans",
+    "title": "Les marées et l'effet de la Lune sur les océans",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md",
+      "docs/QUALITY_ENRICHMENT_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "lire-carte-topographique",
+    "title": "Lire une carte topographique",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "la-projection-de-mercator-et-la-deformation-des-cartes",
+    "title": "La projection de Mercator et la déformation des cartes",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "quelles-regions-de-france-attirent-le-plus-de-nouveaux-habitants",
+    "title": "Quelles régions de France attirent le plus de nouveaux habitants ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-un-conteneur-traverse-t-il-le-monde-par-la-mer",
+    "title": "Comment un conteneur traverse-t-il le monde par la mer ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-fabrique-t-on-une-puce-electronique-de-la-tranche-de-silicium-au-boitier",
+    "title": "Comment fabrique-t-on une puce électronique, de la tranche de silicium au boîtier ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "peut-on-fabriquer-de-l-acier-sans-emettre-de-co2-grace-a-l-hydrogene",
+    "title": "Peut-on fabriquer de l'acier sans émettre de CO2, grâce à l'hydrogène ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "pourquoi-la-glace-flotte-sur-l-eau",
+    "title": "Pourquoi la glace flotte sur l'eau",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "qu-est-ce-qu-un-qubit-et-en-quoi-differe-t-il-d-un-bit-ordinaire",
+    "title": "Qu'est-ce qu'un qubit, et en quoi diffère-t-il d'un bit ordinaire ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-une-voiture-peut-elle-freiner-toute-seule-devant-un-obstacle",
+    "title": "Comment une voiture peut-elle freiner toute seule devant un obstacle ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "pourquoi-les-marins-d-autrefois-avaient-ils-besoin-de-citrons",
+    "title": "Pourquoi les marins d'autrefois avaient-ils besoin de citrons ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-un-arc-en-pierre-tient-il-debout-grace-a-son-propre-poids",
+    "title": "Comment un arc en pierre tient-il debout grâce à son propre poids ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md",
+      "docs/QUALITY_ENRICHMENT_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-transforme-t-on-du-bois-en-charbon-de-bois",
+    "title": "Comment transforme-t-on du bois en charbon de bois ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-un-moulin-a-vent-transformait-il-le-vent-en-farine",
+    "title": "Comment un moulin à vent transformait-il le vent en farine ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "pourquoi-la-mer-monte-t-elle-et-descend-elle-deux-fois-par-jour",
+    "title": "Pourquoi la mer monte-t-elle et descend-elle deux fois par jour ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md",
+      "docs/QUALITY_ENRICHMENT_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "pourquoi-une-carte-graphique-calcule-t-elle-si-vite-des-millions-de-pixels",
+    "title": "Pourquoi une carte graphique calcule-t-elle si vite des millions de pixels ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-l-ecorce-du-saule-a-t-elle-donne-l-aspirine",
+    "title": "Comment l'écorce du saule a-t-elle donné l'aspirine ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "quelles-sont-les-trois-lois-de-newton-qui-regissent-tout-mouvement",
+    "title": "Quelles sont les trois lois de Newton qui régissent tout mouvement ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "pourquoi-le-graphene-epais-d-un-seul-atome-est-il-si-solide",
+    "title": "Pourquoi le graphène, épais d'un seul atome, est-il si solide ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "microbiote-intestinal",
+    "title": "Le microbiote intestinal, notre deuxième cerveau",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "levain-et-panification",
+    "title": "Le levain et le pain",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "deforestation-et-huile-de-palme",
+    "title": "La déforestation et l'huile de palme",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "le-turboreacteur-a-double-flux-principe-de-fonctionnement",
+    "title": "Le turboréacteur à double flux, principe de fonctionnement",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md",
+      "docs/QUALITY_ENRICHMENT_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-le-controle-aerien-gere-des-milliers-de-vols",
+    "title": "Comment le contrôle aérien gère des milliers de vols",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md",
+      "docs/QUALITY_ENRICHMENT_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "allergies-alimentaires",
+    "title": "Les allergies alimentaires",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "la-reaction-de-maillard-le-secret-du-brunissement-des-aliments",
+    "title": "La réaction de Maillard, le secret du brunissement des aliments",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "yaourt-choucroute-kefir-que-sont-les-probiotiques",
+    "title": "Yaourt, choucroute, kéfir, que sont les probiotiques ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "pourquoi-chauffe-t-on-le-lait-avant-de-le-vendre",
+    "title": "Pourquoi chauffe-t-on le lait avant de le vendre ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "un-aliment-ultra-transforme-est-il-mauvais-par-nature",
+    "title": "Un aliment ultra-transformé est-il mauvais par nature ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "pourquoi-l-autonomie-reelle-d-une-voiture-electrique-peut-elle-etre-plus-faible-que-l-autonomie-annoncee",
+    "title": "Pourquoi l'autonomie réelle d'une voiture électrique peut-elle être plus faible que l'autonomie annoncée ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "l-hygiene-des-mains-et-la-prevention-des-infections",
+    "title": "Se laver les mains, le geste qui a sauvé des mères",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-trace-t-on-une-frontiere-et-pourquoi-certaines-sont-elles-contestees",
+    "title": "Comment trace-t-on une frontière, et pourquoi certaines sont-elles contestées ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "fabriquer-savon",
+    "title": "Fabriquer du savon",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-un-vaccin-a-arn-messager-apprend-il-a-notre-corps-a-reconnaitre-un-virus",
+    "title": "Comment un vaccin à ARN messager apprend-il à notre corps à reconnaître un virus ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "crispr-les-ciseaux-genetiques",
+    "title": "CRISPR, les ciseaux génétiques",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-pense-un-enfant-selon-piaget-et-qu-en-reste-t-il-aujourd-hui",
+    "title": "Comment pense un enfant, selon Piaget, et qu'en reste-t-il aujourd'hui ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "le-levier-la-poulie-et-le-plan-incline-en-construction",
+    "title": "Le levier, la poulie et la roue, la mécanique de base",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md",
+      "docs/QUALITY_ENRICHMENT_2026-11-11.md"
+    ]
+  },
+  {
+    "slug": "comment-un-four-solaire-peut-il-cuire-des-aliments-sans-feu",
+    "title": "Comment un four solaire peut-il cuire des aliments sans feu ?",
+    "status": "DRAFT",
+    "editorialRecords": [
+      "docs/QUALITY_CLEANUP_2026-11-11.md"
+    ]
+  }
+]

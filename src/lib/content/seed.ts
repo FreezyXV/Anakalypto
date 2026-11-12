@@ -46,6 +46,7 @@ function sameSet(a: readonly string[], b: readonly string[]): boolean {
 export async function seedCorpus(
   prisma: PrismaClient,
   corpus: ValidationResult,
+  options: { prune?: boolean } = {},
 ): Promise<SeedSummary> {
   const summary: SeedSummary = {
     categories: emptyCounts(),
@@ -259,7 +260,7 @@ export async function seedCorpus(
   // disparaitre de la base, sinon la page correspondante reste servie alors qu'aucun fichier
   // ne la decrit plus.
   const keptArticleSlugs = corpus.articles.map((article) => article.slug);
-  if (keptArticleSlugs.length > 0) {
+  if (options.prune !== false && keptArticleSlugs.length > 0) {
     const removedArticles = await prisma.article.deleteMany({
       where: { slug: { notIn: keptArticleSlugs } },
     });
@@ -270,7 +271,7 @@ export async function seedCorpus(
   // sinon des articles toujours presents dans le corpus. Les branches se vident donc de bas en
   // haut, sur plusieurs imports si necessaire.
   const keptCategorySlugs = corpus.categories.map((category) => category.slug);
-  if (keptCategorySlugs.length > 0) {
+  if (options.prune !== false && keptCategorySlugs.length > 0) {
     const removedCategories = await prisma.category.deleteMany({
       where: {
         slug: { notIn: keptCategorySlugs },
@@ -282,16 +283,24 @@ export async function seedCorpus(
   }
 
   // Une etiquette n'existe que par ses articles.
-  const removedTags = await prisma.tag.deleteMany({ where: { articles: { none: {} } } });
-  summary.removed.tags = removedTags.count;
+  if (options.prune !== false) {
+    const removedTags = await prisma.tag.deleteMany({ where: { articles: { none: {} } } });
+    summary.removed.tags = removedTags.count;
+  }
 
   // 6. Filet de securite: le trigger PostgreSQL maintient searchVector a chaque ecriture,
   // mais une ligne importee avant la migration de recherche resterait sans vecteur.
-  summary.searchVectorsRefreshed = await prisma.$executeRawUnsafe(
-    `UPDATE "Article"
+  if (options.prune !== false || keptArticleSlugs.length > 0) {
+    const scope = options.prune === false
+      ? ` AND slug IN (${keptArticleSlugs.map((_, index) => `$${index + 1}`).join(", ")})`
+      : "";
+    summary.searchVectorsRefreshed = await prisma.$executeRawUnsafe(
+      `UPDATE "Article"
        SET "searchVector" = article_search_vector(title, summary, content)
-     WHERE "searchVector" IS NULL`,
-  );
+     WHERE "searchVector" IS NULL${scope}`,
+      ...(options.prune === false ? keptArticleSlugs : []),
+    );
+  }
 
   return summary;
 }
