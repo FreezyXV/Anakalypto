@@ -7,10 +7,10 @@ Photographie du backend local exportée le 2026-11-12, sans audit du corpus. Auc
 | Leçons publiées                            |    948 |
 | Leçons avec schéma éditorial               |    948 |
 | Nombre de schémas éditoriaux               |    965 |
-| Leçons avec dessin ou atelier              |    241 |
+| Leçons avec dessin ou atelier              |    253 |
 | Sans aucun visuel                          |      0 |
-| Illustration incluse et vérifiée           |    241 |
-| En attente de dessin spécifique            |    707 |
+| Illustration incluse et vérifiée           |    253 |
+| En attente de dessin spécifique            |    695 |
 | À vérifier                                 |      0 |
 | À améliorer, défaut enregistré             |      0 |
 | Réservées, sous-ensemble non additionnable |      0 |
@@ -22,7 +22,7 @@ Photographie du backend local exportée le 2026-11-12, sans audit du corpus. Auc
 | arts-et-culture                    |       43 |      6 |           0 |          0 |          37 |
 | automobile                         |       90 |      3 |           0 |          0 |          87 |
 | communication-et-medias            |       45 |      8 |           0 |          0 |          37 |
-| corps-humain-et-sante              |       65 |      4 |           0 |          0 |          61 |
+| corps-humain-et-sante              |       65 |     16 |           0 |          0 |          49 |
 | droit-et-justice                   |       44 |      0 |           0 |          0 |          44 |
 | energie                            |       60 |     37 |           0 |          0 |          23 |
 | environnement-et-climat            |       40 |     14 |           0 |          0 |          26 |

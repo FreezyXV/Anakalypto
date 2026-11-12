@@ -1,3 +1,4 @@
+import { ORGANS_DIAGRAMS } from "../src/lib/lesson-visuals/organs";
 import { createElement } from "react";
 import { renderToStaticMarkup } from "react-dom/server";
 import { expect, it } from "vitest";
@@ -12,7 +13,7 @@ import {
   weaveOver,
 } from "../src/lib/lesson-visuals/batch50-models";
 it("preserves all 153 previously delivered drawings in all three views", () => {
-  const added = new Set<string>(BATCH50_DIAGRAMS.map((s) => s.id));
+  const added = new Set<string>([...BATCH50_DIAGRAMS, ...ORGANS_DIAGRAMS].map((s) => s.id));
   const previous = LESSON_DIAGRAMS.filter((s) => !added.has(s.id));
   expect(previous).toHaveLength(153);
   for (const spec of previous)

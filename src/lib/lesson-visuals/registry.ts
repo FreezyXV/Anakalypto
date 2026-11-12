@@ -1,3 +1,4 @@
+import { ORGANS_DIAGRAMS } from "./organs";
 import { BATCH50_DIAGRAMS } from "./batch50";
 import { ENERGY29_DIAGRAMS } from "./energy29";
 import { RADIO_DIAGRAMS } from "./radio";
@@ -13,6 +14,18 @@ import { ASTRONOMY_DIAGRAMS } from "./astronomy";
 
 /** Associations éditoriales explicites. Aucune recherche de mots-clés au rendu. */
 export type LessonDiagramKind =
+  | "heartloop"
+  | "clotmesh"
+  | "pulsewave"
+  | "gutabsorption"
+  | "gastricbarrier"
+  | "liverlobule"
+  | "thermostatbody"
+  | "withdrawalreflex"
+  | "dialyser"
+  | "antibodyfit"
+  | "bodyclock"
+  | "sleepnight"
   | "lift"
   | "jet"
   | "hydraulic"
@@ -1431,6 +1444,7 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
   ...AI_USAGE_DIAGRAMS,
   ...AI_CONTEXT_DIAGRAMS,
   ...RADIO_DIAGRAMS,
+  ...ORGANS_DIAGRAMS,
   ...BATCH50_DIAGRAMS,
   ...ENERGY29_DIAGRAMS,
 ];
@@ -1465,6 +1479,13 @@ export function lessonPosterFrame(spec: LessonDiagramSpec): 0 | 1 | 2 {
     probability: 2,
     sorting: 1,
     cpu: 2,
+    gutabsorption: 0,
+    gastricbarrier: 0,
+    liverlobule: 0,
+    thermostatbody: 1,
+    dialyser: 1,
+    antibodyfit: 1,
+    bodyclock: 0,
     barcode: 1,
     transit: 1,
     expansion: 1,

@@ -17,6 +17,7 @@ export default defineConfig({
       "tests/schemas.test.ts",
       "tests/energy29-preservation.test.ts",
       "tests/existing-drawings-review.test.ts",
+      "tests/organs12.test.ts",
     ],
   },
   resolve: { alias: { "@": fileURLToPath(new URL("./src", import.meta.url)) } },

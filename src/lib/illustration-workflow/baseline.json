@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "81198fe1068d4f692a40eead4b303532a3e7342cd935f8ea0b1f1279e064cc83",
+  "sourceDigest": "da5c207f2878a24dc471ee6a1f219a7ab19f31efc14b66f63bb6661cb7685416",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -516,6 +516,69 @@
       "reviewedAt": "2026-11-12T13:50:54.573Z"
     },
     {
+      "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/coeur-circulation-sanguine",
+      "visualRefs": ["schema:heartloop"],
+      "fingerprint": "dd4bf54c8f0bfe901d2fd050f80cca3bd4693a6b9b05b6efae145d5b5a24f539",
+      "contentHash": "504506cbb046e58ecc87636632c2eba9efbed6850ecc26379f8477e4442ace01",
+      "quality": "validee",
+      "evidence": "docs/qa/organs12/README.md",
+      "reviewedAt": "2026-11-12T18:20:31.291Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/comment-le-sang-s-arrete-t-il-de-couler-tout-seul-apres-une-coupure",
+      "visualRefs": ["schema:clotmesh"],
+      "fingerprint": "d43078439f5fb34d4ec16e602cb49658ac13e8b8877b13466b46b9b7a8e45430",
+      "contentHash": "ee0ae500e00a6d1e3bc4202465bd94ac45d7ab9c48a71d6632b935f8e7b8e232",
+      "quality": "validee",
+      "evidence": "docs/qa/organs12/README.md",
+      "reviewedAt": "2026-11-12T18:20:30.893Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/pourquoi-sent-on-son-coeur-battre-au-poignet",
+      "visualRefs": ["schema:pulsewave"],
+      "fingerprint": "673b5d7502b015e364f35ee253be08fbf7502c1b8d9be5e697493140eba4bce8",
+      "contentHash": "b48a9f38fa82565512a2384f60e217c61114a0569c711648583f9fca1bac7a3c",
+      "quality": "validee",
+      "evidence": "docs/qa/organs12/README.md",
+      "reviewedAt": "2026-11-12T18:20:31.490Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/anatomie/systeme-digestif/digestion-et-absorption-des-nutriments",
+      "visualRefs": ["schema:gutabsorption"],
+      "fingerprint": "6f747e6839ebbf49cccc1ea1b08a5daadda4053735abdebcd7eb807de2012c4d",
+      "contentHash": "856652db34250b07e0133e60d870a00d48c5971e3c0aa72e8f38aabc8a711a19",
+      "quality": "validee",
+      "evidence": "docs/qa/organs12/README.md",
+      "reviewedAt": "2026-11-12T18:20:31.366Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/anatomie/systeme-digestif/pourquoi-l-estomac-ne-se-digere-t-il-pas-lui-meme",
+      "visualRefs": ["schema:gastricbarrier"],
+      "fingerprint": "e3543007a3f54ceede73712a98e97540ee055317dd110488ff02fe6891871871",
+      "contentHash": "2bb5d59c562a734e1a198457c47cead8194dfe9086c4f5eec8143d0d631de4d2",
+      "quality": "validee",
+      "evidence": "docs/qa/organs12/README.md",
+      "reviewedAt": "2026-11-12T18:20:31.555Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/anatomie/systeme-digestif/que-fait-le-foie-l-usine-chimique-du-corps",
+      "visualRefs": ["schema:liverlobule"],
+      "fingerprint": "e4a4b8285c9f1417b71517acce60b4f81a4c7fa273f4af31991fdbb4d5036720",
+      "contentHash": "9e61c92d30bcc176efc7234dc0bd80fa4ca6e0b826d1a59974b512cae42cbde9",
+      "quality": "validee",
+      "evidence": "docs/qa/organs12/README.md",
+      "reviewedAt": "2026-11-12T18:20:30.619Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/comment-le-corps-garde-t-il-une-temperature-proche-de-37-c",
+      "visualRefs": ["schema:thermostatbody"],
+      "fingerprint": "2705293c26a0d2b175cabecbc3efac2b991459d34aca2284327b59853e42989a",
+      "contentHash": "05751ceb13e21a0940a29b2aec8f0750dceacbbaf7fef7921cebc1e85ad01dde",
+      "quality": "validee",
+      "evidence": "docs/qa/organs12/README.md",
+      "reviewedAt": "2026-11-12T18:20:31.645Z"
+    },
+    {
       "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/comment-un-neurone-envoie-t-il-un-message-a-un-autre-neurone",
       "visualRefs": ["schema:neuron"],
       "fingerprint": "1b4095e49d4c4f6a19ff083215c7bd3129924e0bfcd27f72cc476b4fff2cff60",
@@ -523,6 +586,15 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:50:54.681Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/pourquoi-la-main-se-retire-t-elle-toute-seule-d-une-surface-brulante",
+      "visualRefs": ["schema:withdrawalreflex"],
+      "fingerprint": "e76d80844296f70b3b9f03189a3cdc743c863c0ca8a2321d53ba95a18698eeb7",
+      "contentHash": "ae3716a17cd6a1b03c46b9efbae53afd3b499b9f5e54382bcf2074ea5f6c862e",
+      "quality": "validee",
+      "evidence": "docs/qa/organs12/README.md",
+      "reviewedAt": "2026-11-12T18:20:30.769Z"
     },
     {
       "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/systeme-nerveux-structure-fonctionnement",
@@ -550,6 +622,42 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:50:54.949Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/maladies/maladies-chroniques/comment-une-machine-peut-elle-faire-le-travail-des-reins",
+      "visualRefs": ["schema:dialyser"],
+      "fingerprint": "94f5e965291310095313d944f40e16ae7aa49ec7b49f3862d2bc655d44c0f238",
+      "contentHash": "720f6273d64f1983447fd0b56ba3b5368de5d613d8568523edc8b29023bbc7aa",
+      "quality": "validee",
+      "evidence": "docs/qa/organs12/README.md",
+      "reviewedAt": "2026-11-12T18:20:31.052Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/physiologie/immunite/comment-un-anticorps-reconnait-il-un-microbe",
+      "visualRefs": ["schema:antibodyfit"],
+      "fingerprint": "37147e93f4f6b9899b6fae94f0d6b90b03a54f8d3cd9e4cc675dde33d81b9bf8",
+      "contentHash": "4e3bd509d3fc81abd7bc7cd465bd4169c43b501461af923617c6a161986c34b6",
+      "quality": "validee",
+      "evidence": "docs/qa/organs12/README.md",
+      "reviewedAt": "2026-11-12T18:20:31.775Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/physiologie/sommeil/comment-le-corps-sait-il-l-heure-sans-regarder-une-montre",
+      "visualRefs": ["schema:bodyclock"],
+      "fingerprint": "d2d1fd34da29c08cd556b0aa5fba7b3e7eccef8157d90668ecf649b70f37b340",
+      "contentHash": "c2929170571112c5b1fd46aa000992afb7c836e761f1ab0adc939ff08861dfc4",
+      "quality": "validee",
+      "evidence": "docs/qa/organs12/README.md",
+      "reviewedAt": "2026-11-12T18:20:31.169Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/physiologie/sommeil/cycles-du-sommeil-et-fonction-reparatrice",
+      "visualRefs": ["schema:sleepnight"],
+      "fingerprint": "04731c9cf106cd063ec7945f8d84ff3cfa04d8afc77e5911b083bf6b6550f03b",
+      "contentHash": "65a5b6d9e26f7c6c7e0c9e08251aac9fdcbc6ac5b70313d0517c94b0b37bb464",
+      "quality": "validee",
+      "evidence": "docs/qa/organs12/README.md",
+      "reviewedAt": "2026-11-12T18:20:31.424Z"
     },
     {
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/cogeneration",
