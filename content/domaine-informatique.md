@@ -318,12 +318,12 @@ les circuits pour certaines tâches, rapprocher la mémoire du calcul.
 - Les transistors sont désormais entourés par leur commande pour éviter les fuites.
 
 ```schema
-type: etapes
 titre: Comment les transistors ont changé de forme
-legende: Pour limiter les fuites, la commande entoure de plus en plus le canal.
+legende: 'La grille est séparée du canal par un isolant : elle agit par un champ électrique.'
+type: etapes
 elements:
   - titre: Transistor plan
-    texte: La commande ne touche le canal que par-dessus.
+    texte: Commande électrostatique depuis une face du canal.
   - titre: Ailettes
     texte: Le canal se dresse et la commande l'entoure sur trois côtés.
   - titre: Nanofeuilles
@@ -709,9 +709,9 @@ le mouvement paraît plus fluide, ce qui compte surtout pour les jeux.
 - La densité de pixels compte plus que la définition brute, selon la distance de vision.
 
 ```schema
+titre: Un pixel RVB à trois composantes
+legende: Exemple d’écran RVB ; les couleurs affichables restent limitées.
 type: systeme
-titre: Un pixel, trois sous-pixels
-legende: Toutes les autres couleurs naissent du mélange dans l'œil.
 centre: Pixel
 icone: monitor
 parties:
@@ -972,17 +972,17 @@ Apprendre un deuxième langage demande beaucoup moins d'efforts que le premier.
 - Chaque langage fait un compromis différent entre contrôle, sécurité et rapidité d'écriture.
 
 ```schema
-type: comparaison
 titre: Deux façons de traduire un programme
+legende: Approches simplifiées ; elles peuvent être combinées, notamment avec la compilation à la volée.
+type: comparaison
 colonnes:
   - titre: Compilation
     points:
-      - Tout le code est traduit avant l'exécution
-      - On obtient du code machine prêt à lancer
+      - Traduit le code vers une autre représentation.
+      - Peut produire du code machine ou intermédiaire.
   - titre: Interprétation
     points:
-      - Le code est traduit pendant l'exécution
-      - Instruction par instruction
+      - Un moteur exécute le code ou une représentation intermédiaire.
 ```
 
 ---
@@ -1239,8 +1239,11 @@ toucher au web, et inventer une nouvelle application sans modifier le réseau.
 - L'organisation en couches permet de faire évoluer chaque niveau indépendamment.
 
 ```schema
-type: etapes
 titre: Le voyage d'une information sur internet
+legende: >-
+  Exemple simplifié de transport ordonné, comme TCP ; tous les protocoles n’offrent pas les mêmes
+  garanties.
+type: etapes
 elements:
   - titre: Nom de domaine
     texte: L'annuaire le traduit en adresse numérique.
@@ -1664,8 +1667,8 @@ explique les baisses de qualité visibles lors des mouvements rapides en diffusi
 - La vidéo se compresse en ne codant que ce qui change d'une image à l'autre.
 
 ```schema
-type: comparaison
 titre: Deux façons de compresser
+type: comparaison
 colonnes:
   - titre: Sans perte
     points:
@@ -1673,7 +1676,9 @@ colonnes:
       - Utile pour les textes et les programmes
   - titre: Avec perte
     points:
-      - Supprime ce que l'œil ou l'oreille ne perçoit pas
+      - >-
+        Supprime ou approxime des détails jugés moins perceptibles, avec des pertes parfois visibles
+        ou audibles.
       - Images, sons et vidéos bien plus légers
 ```
 
@@ -2313,9 +2318,9 @@ Une puce est construite couche par couche. Pour chaque couche, on répète à pe
    suivante.
 
 ```schema
+titre: Des opérations répétées pendant la fabrication
+legende: Ordre et répétition varient selon la couche ; tous ces traitements ne s’appliquent pas à chacune.
 type: etapes
-titre: Le cycle répété pour chaque couche
-legende: Une puce avancée enchaîne ce cycle des dizaines de fois.
 elements:
   - titre: Dépôt
     texte: Une fine couche d'isolant, de métal ou de silicium.
@@ -3548,18 +3553,18 @@ néanmoins précieux pour maintenir une communication de proximité en toutes ci
   habituelles.
 
 ```schema
-type: comparaison
 titre: Réseau avec point central ou réseau maillé
+type: comparaison
 colonnes:
   - titre: Autour d'un routeur
     points:
       - Un routeur allumé suffit, sans fournisseur d'accès
-      - Si le routeur tombe, le réseau tombe
+      - Une panne du point central peut couper les échanges qui en dépendent.
   - titre: Maillé
     icone: network
     points:
-      - Chaque appareil relaie les autres
-      - La panne d'un nœud n'arrête pas le reste
+      - Des nœuds peuvent relayer les données.
+      - Des chemins alternatifs peuvent maintenir les échanges après une panne.
 ```
 
 ---
@@ -4509,16 +4514,16 @@ Pour écrire du texte, on donne un numéro à chaque caractère. Le code ASCII, 
 Des formes proches du binaire apparaissent très tôt, par exemple dans les hexagrammes du Yi Jing, un livre chinois très ancien. En 1703, le savant allemand Gottfried Wilhelm Leibniz a publié une étude du calcul binaire. En 1847, le mathématicien anglais George Boole a inventé une algèbre qui n'accepte que deux valeurs, 0 et 1. Ces idées sont devenues la base des ordinateurs du 20e siècle.
 
 ```schema
-type: chiffres
 titre: Les repères du binaire
+type: chiffres
 chiffres:
   - valeur: 2 chiffres
-    texte: 0 et 1, absence ou présence de tension
+    texte: 0 et 1, représentés par deux états physiques distinguables
   - valeur: 8 bits
     texte: forment un octet
-  - valeur: 256
+  - valeur: '256'
     texte: valeurs possibles pour un octet
-  - valeur: 65
+  - valeur: '65'
     texte: le code de la lettre A en ASCII
 ```
 
@@ -7274,8 +7279,8 @@ L'encre est une poudre appelée toner, faite de particules très fines de plasti
 Gary Starkweather, chez Xerox, a construit le premier prototype en 1971. La première imprimante laser commerciale, l'IBM 3800, est sortie en 1976. En 1984, la LaserJet de Hewlett-Packard a été la première destinée au grand public.
 
 ```schema
-type: comparaison
 titre: Jet d'encre ou laser
+type: comparaison
 colonnes:
   - titre: Jet d'encre
     points:
@@ -7284,7 +7289,7 @@ colonnes:
   - titre: Laser
     points:
       - Image dessinée en charges sur un tambour
-      - Poudre de toner fixée par des rouleaux à 180 °C au moins
+      - Poudre de toner fixée par chaleur et pression, selon le procédé de l’imprimante.
 ```
 
 ## À retenir
@@ -8466,8 +8471,8 @@ Chaque bloc contient l'empreinte du bloc précédent, un horodatage et les donn�
 La preuve de travail consomme beaucoup d'énergie, alors que la preuve d'enjeu en consomme bien moins. La première chaîne de blocs décentralisée, conçue par Satoshi Nakamoto, a servi de base au Bitcoin. Les usages dépassent les cryptomonnaies : chaîne d'approvisionnement, droits musicaux, données de santé. L'impossibilité d'effacer une donnée pose des questions de protection des données, comme le droit à l'oubli du RGPD.
 
 ```schema
+titre: Pourquoi modifier un ancien bloc est détectable
 type: etapes
-titre: Pourquoi on ne peut pas réécrire le passé
 elements:
   - titre: Une empreinte par bloc
     texte: Elle change complètement si une lettre change.
@@ -8475,8 +8480,8 @@ elements:
     texte: Chaque bloc contient l'empreinte du précédent.
   - titre: Modifier un ancien bloc
     texte: Change son empreinte.
-  - titre: Tout se casse
-    texte: Tous les blocs suivants deviennent invalides.
+  - titre: Chaîne à recalculer
+    texte: Les empreintes suivantes doivent être recalculées ; le consensus protège l’historique partagé.
 ```
 
 ## À retenir
@@ -9839,8 +9844,9 @@ Comme ces satellites sont proches, le signal fait un trajet bien plus court. La 
 La pluie et l'humidité perturbent les ondes, surtout sur les fréquences les plus hautes. Les grandes constellations posent aussi des problèmes. Les astronomes s'inquiètent de la pollution lumineuse qu'elles créent. Et plus il y a de satellites, plus le risque de collisions et de débris dans l'espace augmente.
 
 ```schema
-type: barres
 titre: Altitude des satellites internet
+legende: 'Altitudes illustratives : les constellations en orbite basse utilisent plusieurs altitudes.'
+type: barres
 unite: km
 valeurs:
   - label: Orbite basse, Starlink
@@ -11196,24 +11202,22 @@ Ruby ou les scripts shell sont traditionnellement interprétés.
   atteinte.
 
 ```schema
-type: comparaison
 titre: Compiler ou interpréter
-legende: Les deux approches traduisent le même code ; elles diffèrent par le moment de la traduction.
+legende: Les approches peuvent se combiner ; la compilation à la volée en est un exemple.
+type: comparaison
 colonnes:
   - titre: Compilé
     icone: gear
     points:
-      - Traduit tout avant l'exécution
-      - Programme rapide
-      - Exécutable propre à chaque système
-      - Ex. C, C++, Rust, Go
+      - Traduction préalable en code machine ou en représentation intermédiaire.
+      - L’exécutable dépend de la cible choisie.
+      - C, C++, Rust et Go sont couramment compilés.
   - titre: Interprété
     icone: book
     points:
-      - Traduit pendant l'exécution
-      - Essais immédiats
-      - Même code sur tous les systèmes
-      - Ex. Python, Ruby, shell
+      - Exécution par un moteur adapté.
+      - Peut aussi passer par un code intermédiaire compilé.
+      - Python, Ruby et les shells utilisent couramment ces mécanismes.
 ```
 
 ## Les solutions intermédiaires
@@ -14520,8 +14524,11 @@ La profondeur de couleur dit combien de bits décrivent chaque pixel : 1 bit pou
 Une image matricielle perd en qualité quand on l'agrandit : les pixels deviennent visibles. Une image vectorielle, elle, est décrite par des formules mathématiques et peut être agrandie sans perte. On réduit la taille des fichiers par compression : sans perte, comme PNG, ou avec perte, comme JPEG. Sur le web, le pixel CSS est séparé des pixels physiques de l'écran, pour que l'affichage reste cohérent sur tous les appareils.
 
 ```schema
-type: chiffres
 titre: Les repères du pixel
+legende: >-
+  Exemple courant d’affichage RVB ; la disposition des sous-pixels et la profondeur de couleur
+  peuvent varier.
+type: chiffres
 chiffres:
   - valeur: 3 sous-pixels
     texte: rouge, vert et bleu sur un écran
@@ -14749,13 +14756,13 @@ Un qubit supraconducteur est un circuit électronique supraconducteur, avec des 
 Les qubits perdent leur état quantique rapidement : c'est la décohérence, et les opérations produisent des erreurs. Pour obtenir des calculs fiables, il faut des codes de correction d'erreurs quantiques, qui demandent beaucoup de qubits physiques par qubit utile. Google a annoncé avoir atteint la suprématie quantique avec son processeur Sycamore, à qubits supraconducteurs. Les processeurs supraconducteurs ont déjà atteint un très grand nombre de qubits physiques, comme le Condor d'IBM.
 
 ```schema
-type: systeme
 titre: Un processeur quantique supraconducteur
+type: systeme
 centre: Qubit supraconducteur
 icone: atom
 parties:
   - nom: Superposition
-    role: Un état à la fois 0 et 1, jusqu'à la mesure.
+    role: Combinaison quantique des états 0 et 1 ; la mesure dans cette base donne l’un des deux.
   - nom: Jonctions Josephson
     role: Circuits supraconducteurs gravés sur une puce.
   - nom: Réfrigérateur à dilution
@@ -14860,14 +14867,14 @@ Mais chaque passe supplémentaire coûte du temps et augmente les risques de dé
 fois plus courte, permet de dessiner les motifs les plus fins en une seule fois.
 
 ```schema
-type: barres
 titre: Des lumières de plus en plus courtes
 legende: Longueurs d'onde successives de la lithographie, en nanomètres.
+type: barres
 unite: nm
 valeurs:
-  - label: Ultraviolet ancien
+  - label: Violet, raie g
     valeur: 436
-  - label: Ultraviolet
+  - label: Proche ultraviolet, raie i
     valeur: 365
   - label: Laser ultraviolet
     valeur: 248

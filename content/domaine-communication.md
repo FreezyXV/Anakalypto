@@ -693,14 +693,14 @@ conception relève d'une décision privée.
 - Les régulations récentes visent le mécanisme plutôt que les contenus.
 
 ```schema
-type: cycle
-titre: La boucle du fil classé
+titre: Modèle économique et classement du fil
+type: etapes
 elements:
   - titre: Le service est gratuit
   - titre: La publicité le finance
   - titre: Le temps d'attention compte
   - titre: Le fil est classé pour retenir
-    texte: Sans critère d'exactitude.
+    texte: La pertinence pour l’utilisateur ne garantit pas à elle seule l’exactitude.
 ```
 
 ---
@@ -1695,18 +1695,20 @@ locaux sans fil de nos maisons.
 - Les obligations attachées aux licences servent l'aménagement du territoire.
 
 ```schema
-type: comparaison
 titre: Basses ou hautes fréquences
+legende: >-
+  Tendances de propagation ; portée et débit dépendent aussi de la bande passante, des antennes, de
+  la puissance et du milieu.
+type: comparaison
 colonnes:
   - titre: Basses fréquences
     points:
-      - Portée longue
-      - Traversent bien les murs
-      - Moins de débit
+      - Propagation souvent plus favorable à grande distance.
+      - Bandes disponibles généralement plus étroites.
   - titre: Hautes fréquences
     points:
-      - Portée courte
-      - Beaucoup de débit
+      - Propagation souvent plus sensible aux obstacles.
+      - Bandes disponibles pouvant être plus larges.
 ```
 
 ---
@@ -2329,13 +2331,14 @@ parfois avec peu de vérification complémentaire, est devenue un objet d'analys
 - Les agences exercent un pouvoir de sélection sur ce qui existe dans l'actualité.
 
 ```schema
-type: pyramide
 titre: La pyramide inversée de la dépêche
+type: pyramide
 niveaux:
   - titre: L'essentiel
     texte: Qui, quoi, où, quand.
   - titre: Les détails importants
   - titre: Le contexte
+orientation: inversee
 ```
 
 ---
@@ -3784,16 +3787,16 @@ sur téléphone.
   courtes**, réfléchies par l'ionosphère, peuvent traverser des continents.
 
 ```schema
-type: systeme
 titre: Les canaux d'alerte en France
+type: systeme
 centre: Alerte des populations
 parties:
   - nom: Sirènes
-    role: Testées le premier mercredi du mois à midi.
+    role: Essais périodiques à des horaires dépendant de la zone.
   - nom: FR-Alert
-    role: Notification sur tous les téléphones de la zone, depuis 2022.
+    role: Messages reçus par des téléphones compatibles dans la zone couverte.
   - nom: Radio
-    role: Consignes des autorités, même sans électricité.
+    role: Consignes reçues sur une radio alimentée par piles, batterie ou manivelle.
     icone: wave
 ```
 
@@ -7131,14 +7134,15 @@ Beaucoup d'opérateurs pensaient que les gens préféreraient appeler. Mais le S
 En France, chaque personne envoyait en moyenne 219 SMS par mois. Ce nombre a été divisé par deux en 2016. Les applications de messagerie par Internet, sans limite de caractères, ont pris le relais.
 
 ```schema
-type: chiffres
 titre: Le calcul des 160 caractères
+legende: Cas de l’alphabet GSM à 7 bits ; caractères étendus et autres encodages réduisent cette capacité.
+type: chiffres
 chiffres:
   - valeur: 140 octets
     texte: soit 1 120 bits
   - valeur: 7 bits
     texte: par caractère
-  - valeur: 160
+  - valeur: '160'
     texte: caractères
 ```
 
@@ -11422,13 +11426,17 @@ L'ingénieur Lou Montulli, de l'entreprise Netscape, a eu l'idée des cookies po
 En Europe, une directive de 2002, modifiée en 2009, impose de demander l'accord de l'internaute avant de déposer la plupart des cookies. Seuls ceux strictement nécessaires au service demandé, comme le panier, en sont dispensés. C'est pourquoi tant de sites affichent un bandeau à l'arrivée. En France, la CNIL rappelle que cet accord doit être libre et éclairé, et qu'on doit pouvoir le retirer aussi simplement qu'on l'a donné.
 
 ```schema
-type: etapes
 titre: Le cookie
+type: etapes
 elements:
   - titre: Le site dépose une petite donnée
   - titre: Le navigateur la garde
-  - titre: Il la renvoie à chaque page
-  - titre: Le site vous reconnaît
+  - titre: Requêtes concernées
+    texte: Le navigateur le renvoie selon le domaine, le chemin et ses autres attributs.
+  - titre: Relier les requêtes
+    texte: >-
+      Le serveur peut les rattacher à une session, sans connaître forcément l’identité de la
+      personne.
 ```
 
 ## À retenir
@@ -12528,16 +12536,16 @@ Dans une voiture ou un train, on traverse plusieurs cellules pendant un appel. L
 L'idée d'un réseau téléphonique en cellules a été proposée le 11 décembre 1947 par Douglas Ring, un ingénieur du laboratoire américain Bell Labs. En France, les premières antennes du premier réseau mobile, Radiocom 2000, ont été installées en 1985. En 2006, l'Organisation mondiale de la santé comptait 1,4 million de stations de base dans le monde. En France, un décret de 2002 limite l'exposition du public aux ondes émises par ces antennes.
 
 ```schema
-type: etapes
 titre: Téléphoner en se déplaçant
+type: etapes
 elements:
   - titre: Cellules
     texte: Le territoire est découpé.
   - titre: Antenne relais
-    texte: Une par cellule.
+    texte: Une station peut desservir plusieurs cellules.
   - titre: Réseau
   - titre: Passage d'une antenne à l'autre
-    texte: Sans couper l'appel.
+    texte: Le réseau organise ce transfert pour maintenir la continuité de l’appel.
 ```
 
 ## À retenir
@@ -13835,12 +13843,13 @@ On s'en sert pour retrouver la source d'origine d'une image, une version plus gr
 Exif est un format de métadonnées intégrées au fichier d'une image numérique : date et heure de la prise de vue, appareil, réglages et parfois coordonnées GPS. Ces métadonnées ne prouvent pas l'origine d'une photo : on peut les effacer ou les modifier avec des outils, et certains logiciels les suppriment.
 
 ```schema
-type: etapes
 titre: Retrouver la source d'une image
+legende: La plus ancienne page retrouvée n’est pas forcément la source originale.
+type: etapes
 elements:
   - titre: Recherche d'image inversée
   - titre: Comparer les apparitions
-  - titre: Trouver la plus ancienne
+  - titre: Repérer les premières occurrences
   - titre: Métadonnées
     texte: Un indice fragile.
 ```

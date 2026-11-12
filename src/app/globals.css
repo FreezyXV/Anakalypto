@@ -918,6 +918,7 @@ header[data-discovery="true"] .header-mobile {
   .schema-node {
     position: relative;
     display: flex;
+    flex-wrap: wrap;
     align-items: flex-start;
     gap: 0.65rem;
     border: 2px solid var(--line);
@@ -931,6 +932,8 @@ header[data-discovery="true"] .header-mobile {
     flex-direction: column;
     gap: 0.15rem;
     min-width: 0;
+    flex: 1 1 8rem;
+    overflow-wrap: anywhere;
   }
 
   .schema-node__title {
@@ -1078,7 +1081,7 @@ header[data-discovery="true"] .header-mobile {
       position: absolute;
       left: var(--x);
       top: var(--y);
-      width: 31%;
+      width: 30%;
       transform: translate(-50%, -50%);
       flex-direction: column;
       align-items: center;
@@ -1088,6 +1091,10 @@ header[data-discovery="true"] .header-mobile {
 
     .schema-cycle:is([data-count="5"], [data-count="6"]) .schema-cycle__node {
       width: 27%;
+    }
+
+    .schema-cycle__node .schema-node__text {
+      flex: 0 1 auto;
     }
 
     .schema-cycle:is([data-count="3"], [data-count="4"], [data-count="5"], [data-count="6"])
@@ -1115,9 +1122,15 @@ header[data-discovery="true"] .header-mobile {
   }
 
   .schema-pyramid__level {
-    width: min(100%, max(var(--w), 17rem));
+    width: var(--w);
     justify-content: center;
     text-align: center;
+  }
+
+  @container (max-width: 30rem) {
+    .schema-pyramid__level {
+      width: calc(60% + var(--w) * 0.4);
+    }
   }
 
   .schema-pyramid__level .schema-node__text {
@@ -1227,7 +1240,7 @@ header[data-discovery="true"] .header-mobile {
 
   .schema-system__parts {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(13.5rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 13.5rem), 1fr));
     gap: 0.7rem;
     border-top: 3px solid var(--line);
     padding-top: 0.9rem !important;
@@ -1236,7 +1249,7 @@ header[data-discovery="true"] .header-mobile {
   /* Comparaison */
   .schema-compare {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
     gap: 0.8rem;
   }
 
@@ -1255,6 +1268,16 @@ header[data-discovery="true"] .header-mobile {
     --tone-b: var(--pop-green);
   }
 
+  .schema-compare__col[data-color="vert"] {
+    --tone-b: var(--pop-green);
+  }
+  .schema-compare__col[data-color="jaune"] {
+    --tone-b: var(--pop-yellow);
+  }
+  .schema-compare__col[data-color="rouge"] {
+    --tone-b: var(--pop-red);
+  }
+
   .schema-compare__title {
     display: flex;
     align-items: center;
@@ -1267,6 +1290,10 @@ header[data-discovery="true"] .header-mobile {
     font-family: var(--font-stack-sans);
     font-size: 1rem !important;
     font-weight: 800;
+  }
+
+  .schema-compare__col:is([data-tone="1"], [data-tone="2"], [data-color]) .schema-compare__title {
+    color: #15142b;
   }
 
   .schema-compare__col ul {
@@ -1303,8 +1330,8 @@ header[data-discovery="true"] .header-mobile {
 
   .schema-bars__row {
     display: grid;
-    grid-template-columns: 1fr auto;
-    grid-template-areas: "label value" "track track";
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "label" "value" "track";
     gap: 0.25rem 0.75rem;
     align-items: center;
   }
@@ -1321,7 +1348,7 @@ header[data-discovery="true"] .header-mobile {
     font-family: var(--font-stack-sans);
     font-weight: 800;
     font-size: 0.95rem;
-    text-align: right;
+    text-align: left;
   }
 
   .schema-bars__note {
@@ -1345,6 +1372,16 @@ header[data-discovery="true"] .header-mobile {
     background: var(--tone-a);
   }
 
+  @container (min-width: 24rem) {
+    .schema-bars__row {
+      grid-template-columns: minmax(0, 1fr) minmax(0, auto);
+      grid-template-areas: "label value" "track track";
+    }
+    .schema-bars__value {
+      text-align: right;
+    }
+  }
+
   @container (min-width: 36rem) {
     .schema-bars__row {
       grid-template-columns: minmax(8rem, 30%) 1fr auto;
@@ -1355,7 +1392,7 @@ header[data-discovery="true"] .header-mobile {
   /* Chiffres cles */
   .schema-figures {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 10.5rem), 1fr));
     gap: 0.7rem;
   }
 
@@ -1496,4 +1533,30 @@ header[data-discovery="true"] .header-mobile {
   .hljs-section {
     font-weight: 700;
   }
+}
+
+/* Long textual repères and units must remain readable in a 320 px viewport. */
+.schema-figures__value {
+  overflow-wrap: anywhere;
+  min-width: 0;
+}
+.schema-figures__value[data-kind="text"] {
+  font-size: 1.25rem;
+  line-height: 1.3;
+}
+.schema-scale__ends {
+  gap: 1rem;
+}
+.schema-scale__ends > span {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.schema-scale__range {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+/* Long labels remain readable inside narrow article cards. */
+.schema {
+  overflow-wrap: anywhere;
 }

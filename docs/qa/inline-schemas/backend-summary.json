@@ -1,0 +1,35 @@
+{
+  "inlineReviewed": 948,
+  "newDrawingsReviewed": 50,
+  "sourceDigest": "76cf0c1f6399b56ea36913e0e4c9a18b4c33dbda81f5a3acf8262c613333c067",
+  "summary": {
+    "scope": "PUBLISHED_ONLY",
+    "target": 1000,
+    "published": 948,
+    "untracked": 0,
+    "claimed": 0,
+    "visualPresence": {
+      "withInlineSchema": 948,
+      "withDrawing": 241,
+      "withoutVisual": 0
+    },
+    "counts": {
+      "WAITING_FOR_ILLUSTRATION": {
+        "label": "En attente d’illustration dessinée",
+        "count": 707
+      },
+      "REVIEW_REQUIRED": {
+        "label": "Illustration à vérifier",
+        "count": 191
+      },
+      "READY": {
+        "label": "Prête, illustration incluse et vérifiée",
+        "count": 50
+      },
+      "NEEDS_IMPROVEMENT": {
+        "label": "Illustration à améliorer",
+        "count": 0
+      }
+    }
+  }
+}

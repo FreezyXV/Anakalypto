@@ -1,0 +1,62 @@
+[
+  {
+    "id": "flowbattery",
+    "state": 0,
+    "bottomOfLabelSvg": 201.58353889130976,
+    "caption": "Deux circuits de liquide distincts traversent les deux côtés d’un empilement électrochimique.",
+    "frame": "0",
+    "labelClearanceSvg": 5.220989090512944,
+    "scroll": 320,
+    "width": 320
+  },
+  {
+    "id": "flowbattery",
+    "state": 1,
+    "bottomOfLabelSvg": 201.58353889130976,
+    "caption": "À chimie comparable, davantage de liquide actif permet de stocker davantage d’énergie.",
+    "frame": "1",
+    "labelClearanceSvg": 5.220989090512944,
+    "scroll": 320,
+    "width": 320
+  },
+  {
+    "id": "flowbattery",
+    "state": 2,
+    "bottomOfLabelSvg": 201.58353889130976,
+    "caption": "La taille et le nombre de cellules influencent la puissance disponible.",
+    "frame": "2",
+    "labelClearanceSvg": 5.220989090512944,
+    "scroll": 320,
+    "width": 320
+  },
+  {
+    "id": "flowbattery",
+    "state": 0,
+    "bottomOfLabelSvg": 201.80641280718035,
+    "caption": "Deux circuits de liquide distincts traversent les deux côtés d’un empilement électrochimique.",
+    "frame": "0",
+    "labelClearanceSvg": 5.181449357352619,
+    "scroll": 1280,
+    "width": 1280
+  },
+  {
+    "id": "flowbattery",
+    "state": 1,
+    "bottomOfLabelSvg": 201.80641280718035,
+    "caption": "À chimie comparable, davantage de liquide actif permet de stocker davantage d’énergie.",
+    "frame": "1",
+    "labelClearanceSvg": 5.181449357352619,
+    "scroll": 1280,
+    "width": 1280
+  },
+  {
+    "id": "flowbattery",
+    "state": 2,
+    "bottomOfLabelSvg": 201.80641280718035,
+    "caption": "La taille et le nombre de cellules influencent la puissance disponible.",
+    "frame": "2",
+    "labelClearanceSvg": 5.181449357352619,
+    "scroll": 1280,
+    "width": 1280
+  }
+]

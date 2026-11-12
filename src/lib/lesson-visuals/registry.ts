@@ -1,3 +1,6 @@
+import { BATCH50_DIAGRAMS } from "./batch50";
+import { ENERGY29_DIAGRAMS } from "./energy29";
+import { RADIO_DIAGRAMS } from "./radio";
 import { AI_CONTEXT_DIAGRAMS } from "./ai-context";
 import { AI_USAGE_DIAGRAMS } from "./ai-usage";
 import { LEARNING_DIAGRAMS } from "./learning";
@@ -128,9 +131,95 @@ export type LessonDiagramKind =
   | "convolution"
   | "recurrent"
   | "expertinference"
-  | "diffusion";
+  | "diffusion"
+  | "broadcast"
+  | "shortwave"
+  | "crystalradio"
+  | "wirelessmorse"
+  | "colourtv"
+  | "rebound"
+  | "refinery"
+  | "nuclearwaste"
+  | "fusion"
+  | "csp"
+  | "duckcurve"
+  | "energychain"
+  | "watermill"
+  | "leadacid"
+  | "electrolyser"
+  | "insulation"
+  | "led"
+  | "cogeneration"
+  | "firewood"
+  | "glazing"
+  | "thermalmass"
+  | "standby"
+  | "pyrolysis"
+  | "windmill"
+  | "solaroven"
+  | "voltapile"
+  | "fuelcell"
+  | "gridcascade"
+  | "fission"
+  | "demandshift"
+  | "agrivoltaic"
+  | "compressedair"
+  | "gridbattery"
+  | "flowbattery"
+  | "newtonmotion"
+  | "energyball"
+  | "heatpaths"
+  | "magnetdomains"
+  | "transformercoil"
+  | "rainbowdrop"
+  | "skyscatter"
+  | "microwavefood"
+  | "lakeice"
+  | "saltdissolve"
+  | "desalination"
+  | "compostlife"
+  | "paperloop"
+  | "mangroveroots"
+  | "citycanopy"
+  | "ozonecycle"
+  | "algaebloom"
+  | "rainharvest"
+  | "hedgerows"
+  | "wormsoil"
+  | "graftunion"
+  | "croprotation"
+  | "rootnodules"
+  | "biocontrol"
+  | "dripwater"
+  | "mulchsoil"
+  | "seedvault"
+  | "insulinmicrobe"
+  | "washenzyme"
+  | "quorumlight"
+  | "weaveloom"
+  | "foundrycast"
+  | "steeltemper"
+  | "catalystpath"
+  | "rubberlinks"
+  | "thermoplastic"
+  | "lathemill"
+  | "printlayers"
+  | "rebarbeam"
+  | "fatiguecrack"
+  | "rooftruss"
+  | "claybrick"
+  | "aqueductslope"
+  | "baseisolation"
+  | "quadcopter"
+  | "lidarmap"
+  | "motortorque"
+  | "elasticplastic"
+  | "wheatflour"
+  | "yogurtculture";
 export type LessonDiagramStep = { label: string; caption: string; detail: string };
 export type LessonDiagramSpec = {
+  /** Taller scenes keep their labels full size on narrow screens. */
+  canvasHeight?: 230;
   id: LessonDiagramKind;
   title: string;
   paths: string[];
@@ -1341,6 +1430,9 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
   ...LEARNING_DIAGRAMS,
   ...AI_USAGE_DIAGRAMS,
   ...AI_CONTEXT_DIAGRAMS,
+  ...RADIO_DIAGRAMS,
+  ...BATCH50_DIAGRAMS,
+  ...ENERGY29_DIAGRAMS,
 ];
 const BY_PATH = new Map(
   LESSON_DIAGRAMS.flatMap((spec) => spec.paths.map((path) => [path, spec] as const)),

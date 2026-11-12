@@ -1238,16 +1238,18 @@ longtemps.
 - Diversification, recyclage et substitution sont les réponses disponibles.
 
 ```schema
-type: systeme
 titre: Ce qui rend une ressource stratégique
+type: systeme
 centre: Ressource stratégique
 parties:
   - nom: Concentration
-    role: Pas la rareté.
+    role: Disponibilité, dépendances et possibilités de substitution comptent ensemble.
   - nom: Raffinage
     role: Souvent concentré lui aussi.
   - nom: Terres rares
     role: Pas rares, mais difficiles à séparer.
+  - nom: Usage essentiel
+    role: Des fonctions économiques ou industrielles difficiles à remplacer.
 ```
 
 ---
@@ -1783,11 +1785,11 @@ moyenne générale calculée pour toute une région.
 - Tenir un calendrier personnalisé au fil des années affine la précision pour son propre terrain.
 
 ```schema
-type: etapes
 titre: Construire son calendrier de cultures
+type: etapes
 elements:
   - titre: Latitude
-    texte: Elle fixe la durée des saisons.
+    texte: Elle influence l’ensoleillement et les cycles climatiques.
   - titre: Dernières gelées
     texte: Ne pas semer trop tôt.
     icone: snowflake
@@ -2815,15 +2817,15 @@ aident à confirmer une direction déjà estimée par d'autres méthodes.
   méthodes.
 
 ```schema
-type: systeme
 titre: Naviguer sans GPS
+type: systeme
 centre: Position
 icone: map
 parties:
   - nom: Estime
     role: Départ, direction, vitesse, temps.
   - nom: Soleil
-    role: L'ombre d'un bâton donne l'axe est-ouest.
+    role: Des relevés d’ombre donnent des repères approximatifs.
   - nom: Étoiles
   - nom: Carte et boussole
 ```
@@ -4761,8 +4763,11 @@ La rotation de la Terre fait tourner l'air qui converge vers le centre : c'est l
 On parle de cyclone tropical quand les vents dépassent environ 118 km/h. Le nom change selon l'océan : ouragan dans l'Atlantique nord et le nord-est du Pacifique, typhon dans le nord-ouest du Pacifique, cyclone ailleurs. Pour les ouragans de l'Atlantique et du nord-est du Pacifique, l'échelle de Saffir-Simpson les classe de 1 à 5, d'après la vitesse maximale du vent. Sur terre ou au-dessus d'une mer plus froide, le cyclone est coupé de l'air chaud et humide qui le nourrit : il s'affaiblit peu à peu.
 
 ```schema
-type: etapes
 titre: La naissance d'un cyclone
+legende: >-
+  Conditions favorables, sans garantie : cisaillement, humidité et organisation de la circulation
+  comptent aussi.
+type: etapes
 elements:
   - titre: Mer chaude
     texte: Plus de 26,5 °C, loin de l'équateur.
@@ -4771,7 +4776,7 @@ elements:
   - titre: Condensation
     texte: Elle libère de la chaleur, le moteur du cyclone.
   - titre: Rotation
-    texte: Un œil et un mur se forment.
+    texte: Une circulation peut s’organiser ; certains cyclones développent un œil.
 ```
 
 ## À retenir
@@ -4912,18 +4917,19 @@ lors du passage d'un **front**.
 ## Les familles de nuages
 
 ```schema
-type: pyramide
 titre: Les nuages selon leur altitude
-legende: Les cumulonimbus traversent tous les étages, du bas jusqu'au sommet de la troposphère.
-niveaux:
-  - titre: Étage supérieur, au-dessus de 6 km
-    texte: Cirrus, cirrocumulus, cirrostratus, faits de cristaux de glace.
-  - titre: Étage moyen, 2 à 6 km
-    texte: Altocumulus, altostratus.
-  - titre: Étage inférieur, sous 2 km
-    texte: Stratus, stratocumulus, nimbostratus.
-  - titre: Développement vertical
-    texte: Cumulus et cumulonimbus, de la base jusqu'en altitude.
+legende: Repères simplifiés pour des latitudes tempérées ; certains nuages s’étendent sur plusieurs étages.
+type: systeme
+centre: Genres de nuages
+parties:
+  - nom: Étage supérieur, au-dessus de 6 km
+    role: Cirrus, cirrocumulus, cirrostratus, faits de cristaux de glace.
+  - nom: Étage moyen, 2 à 6 km
+    role: Altocumulus, altostratus.
+  - nom: Étage inférieur, sous 2 km
+    role: Stratus, stratocumulus, nimbostratus.
+  - nom: Développement vertical
+    role: Cumulus et cumulonimbus, de la base jusqu'en altitude.
 ```
 
 Les noms combinent quelques racines latines : **cirrus**, « boucle de cheveux », pour les nuages fins et
@@ -5058,20 +5064,22 @@ Les vents ne vont pas en ligne droite vers le centre d'une dépression. La rotat
 La pression la plus haute jamais mesurée est de 1 086,8 hPa, en Mongolie, en 2010. La plus basse est de 870 hPa, près du typhon Tip, en 1979.
 
 ```schema
-type: comparaison
 titre: Hautes et basses pressions
-legende: Au niveau de la mer, la pression normale vaut 1 013,25 hectopascals.
+legende: >-
+  1 013,25 hPa est une référence d’atmosphère standard au niveau de la mer, pas la pression réelle
+  en tout lieu.
+type: comparaison
 colonnes:
   - titre: Hautes pressions
     icone: sun
     points:
       - L'air descend
-      - Beau temps
+      - Temps souvent stable, parfois brouillard ou nuages bas.
   - titre: Basses pressions
     icone: cloud
     points:
       - L'air monte
-      - Nuages et pluie
+      - Nuages et précipitations favorisés si l’humidité est suffisante.
 ```
 
 ## À retenir
@@ -5618,15 +5626,16 @@ Les deltas sont fragiles. Les barrages construits sur les fleuves retiennent une
 Le pompage de l'eau souterraine et l'extraction de sable font aussi s'enfoncer le sol. Avec la montée du niveau de la mer, l'eau salée envahit des champs. Les deltas sont aussi exposés aux cyclones et aux inondations.
 
 ```schema
-type: etapes
 titre: La formation d'un delta
+legende: Un delta s’accumule lorsque les dépôts ne sont pas entièrement repris par les vagues et courants.
+type: etapes
 elements:
   - titre: Le fleuve ralentit
     texte: En arrivant dans la mer.
   - titre: Il dépose ses sédiments
   - titre: Il se divise en bras
     texte: En éventail.
-  - titre: Des terres fertiles
+  - titre: Nouvelles terres émergées
 ```
 
 ## À retenir
@@ -6231,8 +6240,11 @@ cartes au 1/25 000.
 - Courbes fermées concentriques : un sommet.
 
 ```schema
-type: chiffres
 titre: Repères de lecture d'une carte au 1/25 000
+legende: >-
+  Ordres de grandeur pour planifier ; terrain, météo, charge et condition des personnes modifient
+  les temps.
+type: chiffres
 chiffres:
   - valeur: 1 cm = 250 m
     texte: sur le terrain
@@ -10426,9 +10438,11 @@ Parfois, deux côtes sont trop proches pour que chaque pays ait ses 200 milles. 
 Grâce à ces règles, un pays avec beaucoup d'îles peut contrôler une très grande surface de mer. La plus grande zone économique exclusive est celle des États-Unis, avec environ 11,4 millions de km². La France arrive juste derrière, avec environ 10,2 millions de km². Elle le doit surtout à ses territoires d'outre-mer, dispersés dans les océans Pacifique, Indien et Atlantique, comme la Polynésie française ou les îles Kerguelen.
 
 ```schema
-type: barres
 titre: Les zones maritimes depuis la côte
-legende: Convention de Montego Bay, 1982.
+legende: >-
+  Distances maximales depuis les lignes de base ; les délimitations entre voisins peuvent réduire
+  l’étendue effective.
+type: barres
 unite: milles marins
 valeurs:
   - label: Mer territoriale
@@ -11523,15 +11537,18 @@ La ligne de partage des eaux est la limite entre deux bassins voisins : en monta
 L'eau est gérée par bassin : les agences de l'eau ont été créées pour cela. L'eau, les sédiments et les polluants circulent à l'intérieur d'un bassin : ce qui se passe en amont touche l'aval. Les lignes de partage ont parfois servi de frontières, et l'on a creusé des canaux ou des portages pour franchir ces barrières naturelles.
 
 ```schema
-type: etapes
 titre: Le bassin versant
+type: etapes
 elements:
   - titre: Pluie sur une crête
     icone: mountain
   - titre: Ligne de partage des eaux
     texte: Elle sépare deux bassins.
   - titre: Ruissellement
-  - titre: Même cours d'eau, même mer
+  - titre: Exutoire commun
+    texte: >-
+      Dans un même bassin, les écoulements rejoignent une sortie commune, vers un cours d’eau, un
+      lac ou la mer.
 ```
 
 ## À retenir
@@ -11828,8 +11845,11 @@ Une conférence internationale à Washington a choisi Greenwich comme méridien 
 Certains pays utilisent des décalages de 30 ou 45 minutes, comme l'Inde et le Népal. La Chine utilise un seul fuseau horaire pour tout son territoire, alors qu'il en couvre théoriquement plusieurs. La France métropolitaine suit l'heure UTC+1, et UTC+2 en été ; avec ses territoires d'outre-mer, elle couvre de nombreux fuseaux horaires. La ligne de changement de date marque l'endroit où l'on change de jour calendaire. Dans beaucoup de pays, on avance l'horloge d'une heure au printemps et en été.
 
 ```schema
-type: chiffres
 titre: Les fuseaux horaires
+legende: >-
+  Modèle théorique de 24 heures ; les décalages civils suivent aussi les frontières et comportent
+  des demi-heures ou quarts d’heure.
+type: chiffres
 chiffres:
   - valeur: 24 h
     texte: pour un tour de la Terre
@@ -11927,15 +11947,15 @@ Leur surface de terres émergées est petite, mais ils s'étendent sur de très 
 Le domaine maritime français, essentiellement fait de ZEE, est le deuxième du monde. La quasi-totalité se situe outre-mer. Ces territoires dépendent encore beaucoup de la métropole pour le commerce et le soutien financier.
 
 ```schema
-type: systeme
 titre: Les outre-mer français
+type: systeme
 centre: Outre-mer
 icone: globe
 parties:
   - nom: Plusieurs océans
     role: Atlantique, Pacifique, Indien, Antarctique.
   - nom: Statuts différents
-  - nom: Deuxième zone économique exclusive du monde
+  - nom: Un vaste espace maritime réparti entre plusieurs océans
 ```
 
 ## Des chiffres à l'échelle de la mer

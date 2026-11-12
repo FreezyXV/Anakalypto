@@ -417,18 +417,22 @@ Newton restent d'une précision suffisante.
 - Ces lois cessent d'être exactes près de la vitesse de la lumière et à l'échelle atomique.
 
 ```schema
-type: comparaison
 titre: Les trois lois de Newton
+type: comparaison
 colonnes:
   - titre: Inertie
     points:
-      - Sans force, un objet garde son mouvement
+      - >-
+        Si la résultante des forces est nulle, le mouvement rectiligne uniforme ou le repos est
+        conservé.
   - titre: Force et accélération
     points:
-      - Une force produit une accélération, pas une vitesse
+      - La résultante des forces est liée à l’accélération ; pour une masse constante, F = m × a.
   - titre: Action et réaction
     points:
-      - Toute action entraîne une réaction égale et opposée
+      - >-
+        Deux corps exercent l’un sur l’autre des forces égales et opposées, appliquées à des corps
+        différents.
 ```
 
 ---
@@ -832,8 +836,8 @@ sous-estimés.
 - Le seuil de correction d'erreurs est l'étape décisive vers un calcul utile.
 
 ```schema
-type: comparaison
 titre: Bit et qubit
+type: comparaison
 colonnes:
   - titre: Bit
     points:
@@ -841,7 +845,7 @@ colonnes:
   - titre: Qubit
     icone: atom
     points:
-      - Superpose 0 et 1 tant qu'il n'est pas mesuré
+      - Peut être dans une superposition des états 0 et 1 ; la mesure dans cette base donne 0 ou 1.
       - Très sensible aux erreurs
 ```
 
@@ -970,8 +974,8 @@ production des premières ondes radio.
 - Les équations de Maxwell ont révélé que la lumière est une onde électromagnétique.
 
 ```schema
-type: comparaison
 titre: Deux découvertes symétriques
+type: comparaison
 colonnes:
   - titre: Courant vers aimant
     points:
@@ -979,8 +983,8 @@ colonnes:
   - titre: Aimant vers courant
     icone: magnet
     points:
-      - Un aimant en mouvement crée un courant
-      - C'est l'induction
+      - Une variation du flux magnétique induit une tension.
+      - 'Un courant peut alors circuler dans un circuit fermé : c’est l’induction.'
 ```
 
 ---
@@ -1112,13 +1116,13 @@ puisque c'est vers lui que pointe le nord d'une boussole.
 - On ne peut pas isoler un pôle magnétique, contrairement à une charge électrique.
 
 ```schema
-type: etapes
 titre: D'où vient le magnétisme
+type: etapes
 elements:
   - titre: Électrons
     texte: Une propriété des électrons des atomes.
   - titre: Domaines
-    texte: Des zones où les atomes sont alignés.
+    texte: Des zones où les moments magnétiques sont orientés ensemble.
   - titre: Aimant
     texte: Quand les domaines s'alignent ensemble.
     icone: magnet
@@ -1254,16 +1258,16 @@ Le bilan global augmente toujours.
 - Le second principe est la seule loi qui distingue le passé du futur.
 
 ```schema
-type: comparaison
 titre: Les deux principes
+type: comparaison
 colonnes:
   - titre: Premier principe
     points:
       - L'énergie se conserve
   - titre: Second principe
     points:
-      - Le désordre d'un système isolé augmente
-      - La chaleur va du chaud vers le froid
+      - L’entropie d’un système isolé ne diminue pas.
+      - La chaleur se transfère spontanément du chaud vers le froid.
 ```
 
 ---
@@ -1391,8 +1395,8 @@ ralentit sa fuite.
 - On ressent la vitesse de perte de chaleur, pas la température elle-même.
 
 ```schema
-type: comparaison
 titre: Température ou chaleur
+type: comparaison
 colonnes:
   - titre: Température
     icone: thermometer
@@ -1400,8 +1404,8 @@ colonnes:
       - Mesure l'agitation des particules
   - titre: Chaleur
     points:
-      - Une énergie transférée
-      - L'eau en stocke beaucoup
+      - Énergie transférée à cause d’une différence de température.
+      - L’eau possède une grande capacité thermique.
 ```
 
 ---
@@ -2221,10 +2225,11 @@ professionnels.
   fiabilité.
 
 ```schema
-type: chiffres
 titre: Les surprises du hasard
+legende: 'Pour les anniversaires : modèle de 365 dates équiprobables et naissances indépendantes.'
+type: chiffres
 chiffres:
-  - valeur: 23
+  - valeur: '23'
     texte: personnes suffisent pour plus d'une chance sur deux d'un anniversaire commun
   - valeur: Sans mémoire
     texte: une pièce ne se souvient pas des lancers précédents
@@ -2497,16 +2502,16 @@ d'insectes aux insecticides, changements mesurés chez des espèces suivies sur 
 - L'évolution bricole à partir de l'existant, ce qui explique de nombreuses imperfections.
 
 ```schema
-type: etapes
-titre: Les trois conditions de la sélection naturelle
-elements:
-  - titre: Variation
-    texte: Les individus diffèrent.
-  - titre: Hérédité
-    texte: Ces différences se transmettent.
-  - titre: Reproduction inégale
-    texte: Certains laissent plus de descendants.
-    icone: dna
+titre: Les conditions de la sélection naturelle
+type: systeme
+centre: Sélection naturelle
+parties:
+  - nom: Variation
+    role: Les individus diffèrent.
+  - nom: Hérédité
+    role: Ces différences se transmettent.
+  - nom: Reproduction inégale
+    role: Certains laissent plus de descendants.
 ```
 
 ---
@@ -2783,14 +2788,14 @@ atteindre un mètre de long.
 - Les mitochondries descendent probablement de bactéries absorbées puis conservées.
 
 ```schema
-type: comparaison
 titre: Deux grandes catégories de cellules
 legende: Toute cellule vient d'une cellule.
+type: comparaison
 colonnes:
   - titre: Procaryotes
     points:
       - Sans noyau
-      - Bactéries
+      - Bactéries et archées
   - titre: Eucaryotes
     icone: microscope
     points:
@@ -2927,9 +2932,11 @@ une autre. Un réseau simplifié, à l'inverse, est beaucoup plus fragile.
 - Une espèce peu abondante peut structurer tout un écosystème.
 
 ```schema
-type: pyramide
 titre: La pyramide de l'énergie
-legende: Environ 90 % de l'énergie est perdue à chaque niveau.
+legende: >-
+  Seule une fraction de l’énergie passe au niveau suivant, souvent de l’ordre de 10 % ; le reste
+  sert au métabolisme ou rejoint d’autres voies.
+type: pyramide
 niveaux:
   - titre: Superprédateurs
   - titre: Carnivores
@@ -3814,8 +3821,9 @@ impossibles avec une seule lentille.
   grossissements.
 
 ```schema
-type: comparaison
 titre: Deux familles de lentilles
+legende: Pour des lentilles simples en verre ou matériau similaire dans l’air.
+type: comparaison
 colonnes:
   - titre: Convexe
     points:
@@ -4282,12 +4290,12 @@ meilleurs systèmes de refroidissement de la vapeur.
 - La distillation est utilisée depuis l'Antiquité, notamment pour les parfums et les remèdes.
 
 ```schema
-type: etapes
 titre: La distillation
+type: etapes
 elements:
   - titre: Chauffer le mélange
     icone: fire
-  - titre: Le plus volatil s'évapore
+  - titre: Une vapeur enrichie en composé plus volatil
   - titre: Refroidir la vapeur
   - titre: Recueillir le liquide
 ```
@@ -4413,25 +4421,19 @@ projection dangereuse.
 - Toujours diluer un produit concentré dans l'eau, jamais l'inverse, pour limiter les risques.
 
 ```schema
-type: echelle
-titre: L'échelle de pH
-legende: Une solution est acide en dessous de 7, basique au-dessus ; l'eau pure est neutre, à 7.
-unite: ""
-min: 0
-max: 14
-zones:
-  - de: 0
-    a: 6.5
-    label: Acide, comme le citron ou le vinaigre
-    ton: danger
-  - de: 6.5
-    a: 7.5
-    label: Proche de la neutralité, autour de 7
-    ton: normal
-  - de: 7.5
-    a: 14
-    label: Basique, comme le savon ou la soude
-    ton: info
+type: comparaison
+titre: Acide, neutre ou basique
+legende: Repères en solution aqueuse à 25 °C ; le pH seul ne mesure pas tout le danger d’un produit.
+colonnes:
+  - titre: pH inférieur à 7
+    points:
+      - Solution acide.
+  - titre: pH égal à 7
+    points:
+      - Neutralité à 25 °C, comme l’eau pure.
+  - titre: pH supérieur à 7
+    points:
+      - Solution basique.
 ```
 
 ---
@@ -4725,13 +4727,15 @@ fumée, de la suie et du monoxyde de carbone, un gaz dangereux et invisible.
   elle-même.
 
 ```schema
-type: cycle
+type: systeme
 titre: Le triangle du feu
-elements:
-  - titre: Combustible
-  - titre: Comburant
-    texte: L'oxygène de l'air.
-  - titre: Chaleur
+legende: Trois conditions réunies, pas trois étapes successives.
+centre: Combustion
+parties:
+  - nom: Combustible
+  - nom: Comburant
+    role: L'oxygène de l'air.
+  - nom: Chaleur
     icone: fire
 ```
 
@@ -7262,12 +7266,12 @@ Plus on utilise d'antibiotiques, plus on favorise les bactéries résistantes. L
 Les conséquences sont graves. Une étude publiée en 2022 a compté 1,27 million de décès dans le monde directement dus à l'antibiorésistance en 2019. Pour ralentir cette course, les médecins demandent de ne prendre des antibiotiques que lorsqu'ils sont nécessaires, et de mieux prévenir les infections.
 
 ```schema
-type: etapes
 titre: Comment naît la résistance
+type: etapes
 elements:
-  - titre: Mutation au hasard
+  - titre: Variation génétique ou acquisition de gènes
   - titre: Antibiotique
-    texte: Les bactéries sensibles meurent.
+    texte: L’antibiotique sélectionne les bactéries dont la résistance permet la survie.
   - titre: Les résistantes survivent
   - titre: Partage des gènes
 ```
@@ -8253,9 +8257,9 @@ faut beaucoup d'énergie pour les séparer : c'est pourquoi l'eau bout à 100 °
 d'hydrogène, une molécule voisine, est un gaz bien en dessous de 0 °C.
 
 ```schema
-type: systeme
 titre: Ce que les liaisons hydrogène donnent à l'eau
 legende: La forme coudée de la molécule et sa polarité expliquent la plupart de ses propriétés.
+type: systeme
 centre: Molécule d'eau
 icone: droplet
 parties:
@@ -8269,7 +8273,7 @@ parties:
     role: Solide moins dense que le liquide
     icone: snowflake
   - nom: Tension de surface
-    role: Une peau fine à la surface
+    role: Une cohésion de surface qui résiste à son étirement, sans former une véritable peau.
     icone: bubbles
   - nom: Capillarité
     role: Monte dans les tubes fins
@@ -11398,9 +11402,11 @@ Les écarts en nombre absolu peuvent grandir, mais l'écart **en proportion** se
 négligeable par rapport au total.
 
 ```schema
-type: etapes
 titre: Plus on répète, plus la fréquence se stabilise
-legende: La proportion de 6 obtenue avec un dé se rapproche de un sur six à mesure que les lancers s'accumulent.
+legende: >-
+  Pour des lancers indépendants d’un dé équilibré, la fréquence se rapproche de 1/6 sans garantie
+  pour un nombre fixé de lancers.
+type: etapes
 elements:
   - titre: 6 lancers
     texte: Aucun 6 ou trois 6, tout est possible.
@@ -13691,9 +13697,11 @@ l'agitation moyenne, ce qui n'a pas de sens en Celsius : 20 °C n'est pas « deu
 10 °C.
 
 ```schema
-type: comparaison
 titre: Trois échelles, mêmes phénomènes
-legende: Celsius et kelvin ont des degrés de même taille ; le Fahrenheit a des degrés 1,8 fois plus petits.
+legende: >-
+  Repères pour l’eau pure à pression atmosphérique usuelle. Celsius et kelvin ont le même intervalle
+  ; 1 °C correspond à 1,8 °F.
+type: comparaison
 colonnes:
   - titre: Celsius (°C)
     icone: thermometer
@@ -15328,12 +15336,12 @@ L'eau chaude dissout mieux les roches que l'eau froide. Les sources chaudes sont
 Des microbes appelés thermophiles vivent dans ces eaux, entre 45 et 80 °C. Depuis des milliers d'années, les humains s'y baignent et s'y soignent. En France, à Chaudes-Aigues, dans le Cantal, la source du Par sort à 82 °C. Ces bains étaient déjà connus à l'époque romaine.
 
 ```schema
-type: etapes
 titre: Le voyage d'une eau thermale
+type: etapes
 elements:
   - titre: Infiltration
   - titre: Descente en profondeur
-    texte: Environ 3 °C de plus tous les 100 m.
+    texte: Un gradient souvent de l’ordre de 3 °C par 100 m, variable selon le lieu.
   - titre: Réchauffement
   - titre: Remontée
     texte: Chargée de minéraux.
@@ -19453,9 +19461,11 @@ Les deux bobines ne se touchent pas : l'énergie passe uniquement par le champ m
 séparation électrique sert aussi à la sécurité, par exemple dans les chargeurs.
 
 ```schema
-type: etapes
 titre: Le chemin de l'énergie dans un transformateur
-legende: Aucun fil ne relie les deux bobines ; l'énergie passe par un champ magnétique qui varie.
+legende: >-
+  Exemple de transformateur à deux bobines électriquement séparées ; un champ magnétique variable
+  transmet l’énergie.
+type: etapes
 elements:
   - titre: Primaire
     texte: Le courant alternatif traverse la première bobine.
@@ -21846,8 +21856,11 @@ En hiver, l'eau de surface se refroidit, devient plus dense et coule, jusqu'à c
 Les matières dissoutes augmentent la densité de l'eau, comme le sel dans l'eau de mer. Même un lac très profond comme le Baïkal ne gèle que sur une épaisseur limitée, et ses eaux profondes restent froides, près de la température de densité maximale.
 
 ```schema
-type: etapes
 titre: Comment un lac se refroidit
+legende: >-
+  Modèle simplifié d’un lac d’eau douce : la densité maximale est proche de 4 °C ; le vent et les
+  conditions locales modifient le brassage.
+type: etapes
 elements:
   - titre: L'eau de surface refroidit
   - titre: À 4 °C, elle coule au fond
@@ -21943,14 +21956,15 @@ Elle progresse vite à haute température ; une chaleur trop forte mène à la c
 À haute température, elle peut former de l'acrylamide, à partir d'un acide aminé, l'asparagine, et de sucres. Dans des expériences sur des animaux, de fortes doses d'acrylamide ont provoqué des cancers, mais ces doses étaient bien plus grandes que celles de l'alimentation. On peut réduire la formation d'acrylamide avec des cuissons à plus basse température ou des traitements par enzymes. En médecine, l'hémoglobine glyquée, issue d'une réaction proche, sert de marqueur du diabète à long terme.
 
 ```schema
-type: etapes
 titre: La réaction de Maillard
-elements:
-  - titre: Acides aminés
-  - titre: Sucres réducteurs
-  - titre: Chaleur
-    icone: fire
-  - titre: Pigments bruns et arômes
+type: systeme
+centre: Brunissement et arômes
+parties:
+  - nom: Groupes aminés
+    role: Notamment dans les acides aminés et protéines.
+  - nom: Sucres réducteurs
+  - nom: Chauffage
+    role: Accélère un ensemble de réactions, selon les conditions.
 ```
 
 ## À retenir
@@ -22460,8 +22474,11 @@ Le génome de l'île montre un excès de mutations nuisibles : suppressions d'AD
 L'extinction des mammouths est attribuée à plusieurs facteurs, comme le climat et la chasse, et pas à une cause unique. Les auteurs avertissent que protéger un petit groupe isolé ne suffit pas à éviter l'effondrement génomique, ce qui concerne aussi des espèces menacées aujourd'hui.
 
 ```schema
-type: etapes
 titre: Les derniers mammouths de l'île Wrangel
+legende: >-
+  Résultats génétiques de l’étude citée ; cette chaîne ne démontre pas à elle seule la cause de
+  l’extinction.
+type: etapes
 elements:
   - titre: Une petite population isolée
   - titre: Mutations accumulées
@@ -22958,18 +22975,18 @@ Au lever et au coucher du Soleil, la lumière traverse beaucoup plus d'atmosphè
 La couleur du ciel dépend de la composition de l'atmosphère : sur Mars, le ciel de jour paraît orangé et devient bleu-gris autour du Soleil au crépuscule.
 
 ```schema
-type: comparaison
 titre: Le bleu du jour, le rouge du soir
+type: comparaison
 colonnes:
   - titre: En journée
     icone: sun
     points:
-      - Le bleu est le plus diffusé par l'air
+      - Les courtes longueurs d’onde sont davantage diffusées que les rouges.
       - Le ciel paraît bleu
   - titre: Au coucher
     points:
       - La lumière traverse beaucoup d'air
-      - Le bleu est perdu, le rouge reste
+      - Les bleus sont davantage retirés du faisceau direct ; les rouges dominent.
 ```
 
 ## À retenir
@@ -23061,13 +23078,13 @@ L'eau, les graisses et les sucres absorbent les micro-ondes ; les aliments riche
 L'enceinte métallique agit comme une cage de Faraday : les trous de la grille de la porte sont bien plus petits que la longueur d'onde, donc les micro-ondes ne passent pas, alors que la lumière visible passe. Aux États-Unis, la réglementation impose deux systèmes de verrouillage indépendants qui coupent les micro-ondes dès que la porte s'ouvre. L'énergie des micro-ondes se change en chaleur dans l'aliment, qui ne devient pas radioactif. L'effet a été découvert par hasard par Percy Spencer, ingénieur chez Raytheon : près d'un radar en marche, une barre chocolatée a fondu dans sa poche.
 
 ```schema
-type: etapes
 titre: Le four à micro-ondes
+type: etapes
 elements:
   - titre: Champ électrique alternatif
   - titre: Les molécules d'eau tournent
     texte: Pour s'aligner sans cesse.
-  - titre: Frottements
+  - titre: Pertes diélectriques et agitation moléculaire
   - titre: Chaleur
     icone: fire
 ```
@@ -23182,17 +23199,18 @@ on éloigne le combustible.
    tombe.
 
 ```schema
-type: cycle
+type: systeme
 titre: Le triangle du feu
-legende: Retirer un seul des trois éléments éteint le feu.
-elements:
-  - titre: Combustible
-    texte: Du bois sec, du plus fin au plus gros.
+legende: Trois conditions réunies, pas trois étapes successives.
+centre: Combustion
+parties:
+  - nom: Combustible
+    role: Du bois sec, du plus fin au plus gros.
     icone: tree
-  - titre: Oxygène
-    texte: L'air doit circuler entre les morceaux.
-  - titre: Chaleur
-    texte: Une flamme ou une étincelle, puis le feu lui-même.
+  - nom: Oxygène
+    role: L'air doit circuler entre les morceaux.
+  - nom: Chaleur
+    role: Une flamme ou une étincelle, puis le feu lui-même.
     icone: fire
 ```
 

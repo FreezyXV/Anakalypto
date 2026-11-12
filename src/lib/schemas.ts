@@ -61,6 +61,7 @@ const pyramide = z.object({
   type: z.literal("pyramide"),
   /** Du sommet vers la base. */
   niveaux: z.array(step).min(2).max(7),
+  orientation: z.enum(["normale", "inversee"]).optional(),
 });
 
 const frise = z.object({
@@ -93,7 +94,14 @@ const comparaison = z.object({
   ...common,
   type: z.literal("comparaison"),
   colonnes: z
-    .array(z.object({ titre: short(60), icone: icon, points: z.array(short(160)).min(1).max(8) }))
+    .array(
+      z.object({
+        titre: short(60),
+        icone: icon,
+        couleur: z.enum(["vert", "jaune", "rouge"]).optional(),
+        points: z.array(short(160)).min(1).max(8),
+      }),
+    )
     .min(2)
     .max(3),
 });
@@ -218,10 +226,10 @@ export function findSchemaBlocks(markdown: string): { line: number; source: stri
   const blocks: { line: number; source: string }[] = [];
   const lines = markdown.split("\n");
   for (let i = 0; i < lines.length; i++) {
-    if (!/^```schema\s*$/.test(lines[i] ?? "")) continue;
+    if (!/^ {0,3}```schema[ \t]*$/.test(lines[i] ?? "")) continue;
     const start = i + 1;
     let end = start;
-    while (end < lines.length && !/^```\s*$/.test(lines[end] ?? "")) end++;
+    while (end < lines.length && !/^ {0,3}```[ \t]*$/.test(lines[end] ?? "")) end++;
     blocks.push({ line: start + 1, source: lines.slice(start, end).join("\n") });
     i = end;
   }
@@ -350,7 +358,8 @@ function renderBody(spec: SchemaSpec): string {
         `<ol class="schema-pyramid">` +
         spec.niveaux
           .map((item, i) => {
-            const width = n === 1 ? 100 : Math.round(52 + (48 * i) / (n - 1));
+            const level = spec.orientation === "inversee" ? n - 1 - i : i;
+            const width = n === 1 ? 100 : Math.round(52 + (48 * level) / (n - 1));
             return `<li class="schema-node schema-pyramid__level" style="--w:${width}%">${stepContent(
               item,
             )}</li>`;
@@ -398,7 +407,7 @@ function renderBody(spec: SchemaSpec): string {
         spec.colonnes
           .map(
             (col, i) =>
-              `<section class="schema-compare__col" data-tone="${i}">` +
+              `<section class="schema-compare__col" data-tone="${i}"${col.couleur ? ` data-color="${col.couleur}"` : ""}>` +
               `<h3 class="schema-compare__title">${glyph(col.icone)}<span>${t(col.titre)}</span></h3>` +
               `<ul>${col.points.map((point) => `<li>${t(point)}</li>`).join("")}</ul></section>`,
           )
@@ -413,7 +422,7 @@ function renderBody(spec: SchemaSpec): string {
         `<ul class="schema-bars">` +
         spec.valeurs
           .map((item) => {
-            const width = Math.max(2, Math.round((item.valeur / max) * 100));
+            const width = (item.valeur / max) * 100;
             return (
               `<li class="schema-bars__row"><span class="schema-bars__label">${t(item.label)}</span>` +
               `<span class="schema-bars__track"><span class="schema-bars__bar" style="--w:${width}%"></span></span>` +
@@ -433,7 +442,7 @@ function renderBody(spec: SchemaSpec): string {
         spec.chiffres
           .map(
             (item) =>
-              `<li class="schema-figures__item"><strong class="schema-figures__value">${t(
+              `<li class="schema-figures__item"><strong class="schema-figures__value" data-kind="${/\d/.test(item.valeur) ? "number" : "text"}">${t(
                 item.valeur,
               )}</strong><span class="schema-figures__text">${t(item.texte)}</span></li>`,
           )

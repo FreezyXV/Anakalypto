@@ -2,7 +2,13 @@ import { describe, expect, it } from "vitest";
 
 import { validateCorpus } from "../src/lib/content/validate";
 import { renderMarkdown } from "../src/lib/markdown";
-import { findSchemaBlocks, parseSchema, renderSchema, SCHEMA_TYPES } from "../src/lib/schemas";
+import {
+  findSchemaBlocks,
+  parseSchema,
+  renderSchema,
+  renderSchemaSource,
+  SCHEMA_TYPES,
+} from "../src/lib/schemas";
 
 const fence = (yaml: string) => ["```schema", yaml, "```"].join("\n");
 
@@ -135,6 +141,17 @@ zones:
     expect(blocks[0]?.line).toBe(6);
   });
 
+  it("reconnaît les clôtures indentées de trois espaces comme le compteur backend", async () => {
+    const body = `   \`\`\`schema\n${EXAMPLES.etapes
+      .split("\n")
+      .map((line) => "   " + line)
+      .join("\n")}\n   \`\`\``;
+    expect(findSchemaBlocks(body)).toHaveLength(1);
+    const { html } = await renderMarkdown(body);
+    expect(html).toContain('class="schema schema--etapes"');
+    expect(findSchemaBlocks("    ```schema\ntype: etapes\n    ```")).toHaveLength(0);
+  });
+
   it("transforme un bloc schema en figure dans le rendu Markdown", async () => {
     const { html } = await renderMarkdown(`## Partie\n\nTexte.\n\n${fence(EXAMPLES.etapes)}\n`);
     expect(html).toContain('class="schema schema--etapes"');
@@ -172,4 +189,18 @@ zones:
     const { issues } = validateCorpus(blocks);
     expect(issues.some((issue) => issue.field.startsWith("schema[1]"))).toBe(true);
   });
+});
+
+it("does not draw a positive bar for zero and preserves large value ratios", () => {
+  const html = renderSchemaSource(
+    "type: barres\ntitre: Valeurs\nunite: W\nvaleurs:\n - label: Nul\n   valeur: 0\n - label: Petit\n   valeur: 1\n - label: Grand\n   valeur: 1000",
+  );
+  expect(html).toContain("--w:0%");
+  expect(html).toContain("--w:0.1%");
+});
+it("renders an inverted editorial pyramid with the broadest first level", () => {
+  const html = renderSchemaSource(
+    "type: pyramide\ntitre: Informations\norientation: inversee\nniveaux:\n - titre: Essentiel\n - titre: Contexte",
+  );
+  expect(html).toMatch(/--w:100%[\s\S]*Essentiel[\s\S]*--w:52%[\s\S]*Contexte/);
 });

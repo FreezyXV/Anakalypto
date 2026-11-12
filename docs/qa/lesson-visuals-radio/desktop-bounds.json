@@ -1,0 +1,80 @@
+{
+  "frames": [
+    {
+      "bad": [],
+      "frame": "0",
+      "kind": "broadcast"
+    },
+    {
+      "bad": [],
+      "frame": "1",
+      "kind": "broadcast"
+    },
+    {
+      "bad": [],
+      "frame": "2",
+      "kind": "broadcast"
+    },
+    {
+      "bad": [],
+      "frame": "0",
+      "kind": "shortwave"
+    },
+    {
+      "bad": [],
+      "frame": "1",
+      "kind": "shortwave"
+    },
+    {
+      "bad": [],
+      "frame": "2",
+      "kind": "shortwave"
+    },
+    {
+      "bad": [],
+      "frame": "0",
+      "kind": "crystalradio"
+    },
+    {
+      "bad": [],
+      "frame": "1",
+      "kind": "crystalradio"
+    },
+    {
+      "bad": [],
+      "frame": "2",
+      "kind": "crystalradio"
+    },
+    {
+      "bad": [],
+      "frame": "0",
+      "kind": "wirelessmorse"
+    },
+    {
+      "bad": [],
+      "frame": "1",
+      "kind": "wirelessmorse"
+    },
+    {
+      "bad": [],
+      "frame": "2",
+      "kind": "wirelessmorse"
+    },
+    {
+      "bad": [],
+      "frame": "0",
+      "kind": "colourtv"
+    },
+    {
+      "bad": [],
+      "frame": "1",
+      "kind": "colourtv"
+    },
+    {
+      "bad": [],
+      "frame": "2",
+      "kind": "colourtv"
+    }
+  ],
+  "width": 1280
+}

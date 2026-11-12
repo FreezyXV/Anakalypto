@@ -1,0 +1,80 @@
+[
+  {
+    "caption": "Une bobine mobile est placée dans le champ d’un stator.",
+    "detail": "En coupe, le point représente un courant sortant du plan et la croix un courant entrant ; les forces opposées créent un couple.",
+    "focusOutline": "3px",
+    "frame": "0",
+    "id": "motortorque",
+    "minFont": 30.726171875,
+    "outside": [],
+    "overflow": false,
+    "step": 0,
+    "visible": 1,
+    "width": 1280
+  },
+  {
+    "caption": "Les forces sur les deux côtés opposés de la bobine créent un couple.",
+    "detail": "Quand la bobine tourne, le sens du courant et l’orientation dans le champ déterminent ensemble le sens des forces.",
+    "focusOutline": "3px",
+    "frame": "1",
+    "id": "motortorque",
+    "minFont": 30.726171875,
+    "outside": [],
+    "overflow": false,
+    "step": 1,
+    "visible": 1,
+    "width": 1280
+  },
+  {
+    "caption": "L’inversion du courant au bon moment entretient la rotation dans le même sens.",
+    "detail": "Le collecteur inverse le courant au bon passage pour entretenir le couple ; l’exemple simplifie un moteur à courant continu.",
+    "focusOutline": "3px",
+    "frame": "2",
+    "id": "motortorque",
+    "minFont": 30.726171875,
+    "outside": [],
+    "overflow": false,
+    "step": 2,
+    "visible": 1,
+    "width": 1280
+  },
+  {
+    "caption": "Une bobine mobile est placée dans le champ d’un stator.",
+    "detail": "En coupe, le point représente un courant sortant du plan et la croix un courant entrant ; les forces opposées créent un couple.",
+    "focusOutline": "3px",
+    "frame": "0",
+    "id": "motortorque",
+    "minFont": 12.55,
+    "outside": [],
+    "overflow": false,
+    "step": 0,
+    "visible": 1,
+    "width": 320
+  },
+  {
+    "caption": "Les forces sur les deux côtés opposés de la bobine créent un couple.",
+    "detail": "Quand la bobine tourne, le sens du courant et l’orientation dans le champ déterminent ensemble le sens des forces.",
+    "focusOutline": "3px",
+    "frame": "1",
+    "id": "motortorque",
+    "minFont": 12.55,
+    "outside": [],
+    "overflow": false,
+    "step": 1,
+    "visible": 1,
+    "width": 320
+  },
+  {
+    "caption": "L’inversion du courant au bon moment entretient la rotation dans le même sens.",
+    "detail": "Le collecteur inverse le courant au bon passage pour entretenir le couple ; l’exemple simplifie un moteur à courant continu.",
+    "focusOutline": "3px",
+    "frame": "2",
+    "id": "motortorque",
+    "minFont": 12.55,
+    "outside": [],
+    "overflow": false,
+    "step": 2,
+    "visible": 1,
+    "width": 320
+  }
+]

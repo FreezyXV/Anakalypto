@@ -1,3 +1,4 @@
+import { morseTimeline, amSample, analogueLuma } from "../src/lib/lesson-visuals/radio-models";
 import {
   planarArmPose,
   toyQuantization,
@@ -47,6 +48,43 @@ const art = (html: string) =>
     ?.replaceAll(/lesson-art-[^\s"<)]+/g, "ID");
 
 describe("lesson-specific illustrations", () => {
+  it("keeps Morse dots, dashes and both spacing scales consistent", () => {
+    expect(morseTimeline("S")).toEqual({
+      duration: 5,
+      pulses: [
+        { start: 0, duration: 1, character: "S" },
+        { start: 2, duration: 1, character: "S" },
+        { start: 4, duration: 1, character: "S" },
+      ],
+    });
+    expect(morseTimeline("O").pulses.map((p) => [p.start, p.duration])).toEqual([
+      [0, 3],
+      [4, 3],
+      [8, 3],
+    ]);
+    expect(morseTimeline("EE").pulses[1]!.start).toBe(4);
+    expect(morseTimeline("E E").pulses[1]!.start).toBe(8);
+    expect(morseTimeline("A").duration).toBe(5);
+    expect(() => morseTimeline("!")).toThrow();
+  });
+  it("keeps the AM carrier inside its envelope and rectification nonnegative", () => {
+    for (let n = 0; n <= 1000; n++) {
+      const v = amSample(n / 1000);
+      expect(Math.abs(v.carrier)).toBeLessThanOrEqual(v.envelope + 1e-12);
+      expect(v.envelope).toBeGreaterThan(0);
+      expect(v.rectified).toBe(Math.max(0, v.carrier));
+    }
+    expect(amSample(0.25).envelope).toBeCloseTo(1.65);
+    expect(amSample(0.75).envelope).toBeCloseTo(0.35);
+    expect(() => amSample(0, 1)).toThrow();
+  });
+  it("computes analogue luma from gamma-encoded channels rather than an equal average", () => {
+    expect(analogueLuma([255, 255, 255])).toBeCloseTo(255);
+    expect(analogueLuma([0, 0, 0])).toBe(0);
+    expect(analogueLuma([255, 0, 0])).toBeCloseTo(76.245);
+    expect(analogueLuma([0, 255, 0])).toBeGreaterThan(analogueLuma([255, 0, 0]));
+    expect(() => analogueLuma([256, 0, 0])).toThrow();
+  });
   it("keeps both robot link lengths across the authored grasp and lift", () => {
     for (const tip of [
       { x: 150, y: 105 },

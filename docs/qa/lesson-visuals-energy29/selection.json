@@ -1,0 +1,205 @@
+[
+  {
+    "ref": "LEC-F788D203EF2D",
+    "path": "/energie/efficacite-et-sobriete/efficacite-energetique/efficacite-energetique-et-effet-rebond",
+    "title": "L'efficacité énergétique et l'effet rebond",
+    "source": "content/domaine-energie.md:1144",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-78AC0B04F9E0",
+    "path": "/energie/energies-fossiles-et-nucleaire/hydrocarbures/raffinage-du-petrole",
+    "title": "Le raffinage du pétrole",
+    "source": "content/domaine-energie.md:1346",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-8D0218E442E0",
+    "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/dechets-radioactifs-et-stockage",
+    "title": "Les déchets radioactifs",
+    "source": "content/domaine-energie.md:1443",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-EC8F673B8447",
+    "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/fusion-nucleaire-etat-des-recherches",
+    "title": "La fusion nucléaire",
+    "source": "content/domaine-energie.md:1546",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-33076CB397C1",
+    "path": "/energie/energies-renouvelables/solaire/solaire-thermique-et-concentration",
+    "title": "Le solaire thermique et les centrales à concentration",
+    "source": "content/domaine-energie.md:1756",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-669C05672517",
+    "path": "/energie/reseaux-et-stockage/reseaux-electriques/mix-electrique-et-intermittence",
+    "title": "Le mix électrique et l'intermittence",
+    "source": "content/domaine-energie.md:1863",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-92C12B180D54",
+    "path": "/energie/efficacite-et-sobriete/usages-et-consommation/energie-primaire-et-energie-finale",
+    "title": "Énergie primaire et énergie finale",
+    "source": "content/domaine-energie.md:2081",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-46232B9F5B8F",
+    "path": "/energie/energies-renouvelables/hydraulique/moulin-eau",
+    "title": "Le moulin à eau",
+    "source": "content/domaine-energie.md:2711",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-9E305D047C46",
+    "path": "/energie/reseaux-et-stockage/batteries/batterie-plomb",
+    "title": "La batterie au plomb",
+    "source": "content/domaine-energie.md:3161",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-6BFC0D567E90",
+    "path": "/energie/reseaux-et-stockage/hydrogene/electrolyse-eau",
+    "title": "L'électrolyse de l'eau",
+    "source": "content/domaine-energie.md:3358",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-CC56946C1DF5",
+    "path": "/energie/efficacite-et-sobriete/efficacite-energetique/isoler-batiment",
+    "title": "Isoler un bâtiment",
+    "source": "content/domaine-energie.md:3594",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-9CB76F443212",
+    "path": "/energie/efficacite-et-sobriete/efficacite-energetique/comment-une-led-fabrique-t-elle-de-la-lumiere-sans-chauffer-de-filament",
+    "title": "Comment une LED fabrique-t-elle de la lumière sans chauffer de filament ?",
+    "source": "content/domaine-energie.md:3686",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-A122B9AAE1DA",
+    "path": "/energie/efficacite-et-sobriete/efficacite-energetique/cogeneration",
+    "title": "La cogénération",
+    "source": "content/domaine-energie.md:3789",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-056F72B602DA",
+    "path": "/energie/efficacite-et-sobriete/usages-et-consommation/bois-chauffage",
+    "title": "Le bois de chauffage",
+    "source": "content/domaine-energie.md:3884",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-BA1CDF1AB463",
+    "path": "/energie/efficacite-et-sobriete/efficacite-energetique/comment-un-double-vitrage-garde-t-il-la-chaleur-dans-la-maison",
+    "title": "Comment un double vitrage garde-t-il la chaleur dans la maison ?",
+    "source": "content/domaine-energie.md:4080",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-FA6DCA20A885",
+    "path": "/energie/efficacite-et-sobriete/efficacite-energetique/pourquoi-une-maison-aux-murs-epais-de-pierre-ou-de-terre-reste-t-elle-fraiche-en-ete",
+    "title": "Pourquoi une maison aux murs épais de pierre ou de terre reste-t-elle fraîche en été ?",
+    "source": "content/domaine-energie.md:4189",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-042806B5CF04",
+    "path": "/energie/efficacite-et-sobriete/usages-et-consommation/pourquoi-un-appareil-en-veille-consomme-t-il-encore-de-l-electricite",
+    "title": "Pourquoi un appareil en veille consomme-t-il encore de l'électricité ?",
+    "source": "content/domaine-energie.md:4736",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-487BA9F097CC",
+    "path": "/energie/energies-fossiles-et-nucleaire/charbon/comment-transforme-t-on-du-bois-en-charbon-de-bois",
+    "title": "Comment transforme-t-on du bois en charbon de bois ?",
+    "source": "content/domaine-energie.md:5238",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-469A6E5B1A1E",
+    "path": "/energie/energies-renouvelables/eolien/comment-un-moulin-a-vent-transformait-il-le-vent-en-farine",
+    "title": "Comment un moulin à vent transformait-il le vent en farine ?",
+    "source": "content/domaine-energie.md:6811",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-B46AD3C66DCC",
+    "path": "/energie/energies-renouvelables/solaire/comment-un-four-solaire-peut-il-cuire-des-aliments-sans-feu",
+    "title": "Comment un four solaire peut-il cuire des aliments sans feu ?",
+    "source": "content/domaine-energie.md:8052",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-1848677BEF9D",
+    "path": "/energie/reseaux-et-stockage/batteries/comment-volta-a-t-il-invente-la-premiere-pile-electrique",
+    "title": "Comment Volta a-t-il inventé la première pile électrique ?",
+    "source": "content/domaine-energie.md:8384",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-E9F434B833FE",
+    "path": "/energie/reseaux-et-stockage/hydrogene/comment-une-pile-a-hydrogene-produit-elle-de-l-electricite-sans-rien-bruler",
+    "title": "Comment une pile à hydrogène produit-elle de l'électricité sans rien brûler ?",
+    "source": "content/domaine-energie.md:8999",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-36A2133DEAF9",
+    "path": "/energie/reseaux-et-stockage/reseaux-electriques/pourquoi-un-pays-entier-peut-il-se-retrouver-d-un-coup-sans-electricite",
+    "title": "Pourquoi un pays entier peut-il se retrouver d'un coup sans électricité ?",
+    "source": "content/domaine-energie.md:9466",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-98CFDA35E5AE",
+    "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/comment-un-atome-qui-se-casse-peut-il-allumer-une-ampoule",
+    "title": "Comment un atome qui se casse peut-il allumer une ampoule ?",
+    "source": "content/domaine-energie.md:13785",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-558CE11FB232",
+    "path": "/energie/reseaux-et-stockage/reseaux-electriques/comment-un-reseau-electrique-intelligent-adapte-t-il-la-consommation-a-la-production",
+    "title": "Comment un réseau électrique intelligent adapte-t-il la consommation à la production ?",
+    "source": "content/domaine-energie.md:13997",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-45AAB7D8BE0C",
+    "path": "/energie/energies-renouvelables/solaire/peut-on-produire-de-l-electricite-et-des-cultures-sur-le-meme-champ",
+    "title": "Peut-on produire de l'électricité et des cultures sur le même champ ?",
+    "source": "content/domaine-energie.md:14085",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-E3DFB0303D33",
+    "path": "/energie/reseaux-et-stockage/batteries/comment-stocker-de-l-electricite-dans-de-l-air-comprime",
+    "title": "Comment stocker de l'électricité dans de l'air comprimé ?",
+    "source": "content/domaine-energie.md:14180",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-52F84AC36AC8",
+    "path": "/energie/reseaux-et-stockage/batteries/comment-une-mega-batterie-aide-t-elle-a-stabiliser-le-reseau-electrique",
+    "title": "Comment une méga-batterie aide-t-elle à stabiliser le réseau électrique ?",
+    "source": "content/domaine-energie.md:14280",
+    "owner": "Codex"
+  },
+  {
+    "ref": "LEC-33078A068CEF",
+    "path": "/energie/reseaux-et-stockage/batteries/comment-une-batterie-peut-elle-stocker-de-l-energie-dans-des-reservoirs-de-liquide",
+    "title": "Comment une batterie peut-elle stocker de l'énergie dans des réservoirs de liquide ?",
+    "source": "content/domaine-energie.md:14371",
+    "owner": "Codex"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "unitAndContentTests": 117,
+  "isolatedPostgresTests": 13,
+  "typecheck": "passed",
+  "lint": "passed",
+  "compiledBuild": "passed",
+  "publishedLessons": 948,
+  "editorialSchemasReviewed": 965,
+  "editorialSchemasUnchanged": 666,
+  "editorialSchemasCorrected": 299,
+  "correctionOperations": 300,
+  "affectedLessons": 296,
+  "newDrawings": 50,
+  "authoredDrawingStates": 150,
+  "compiledStatesVerified": 300,
+  "mobileMinSvgTextPx": 12.55,
+  "previousKindsMarkupPreserved": 153,
+  "freshDatabaseReplay": "passed",
+  "productionDatabaseWrites": false,
+  "productionDeploy": false
+}

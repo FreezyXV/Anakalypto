@@ -1,0 +1,1199 @@
+{
+  "/aeronautique/aerodynamique/portance/decrochage-aerodynamique": {
+    "quality": "validee",
+    "fingerprint": "219b1d24781869334390ccdf36408fff8f19980c89a0af33a6ba373ae1d4dc5a",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/trainee/winglets-trainee-induite": {
+    "quality": "validee",
+    "fingerprint": "6662c5042ef7094d63e88227c2f65e49fff62bbee25d4db6f26f5e4622daae74",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/ecoulements/couche-limite-transition-laminaire-turbulent": {
+    "quality": "validee",
+    "fingerprint": "810b82c5b1a297988af6d6774608c130c71ce5ce6fc9afc2ba638ff16ef904a9",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/ecoulements/vol-transsonique-onde-de-choc": {
+    "quality": "validee",
+    "fingerprint": "06d46df6986d2197d379d92b4ffaa9f1422390fca6a8b6b136fa902fb46b783f",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aviation-civile/decarbonation/avion-a-hydrogene-etat-des-projets": {
+    "quality": "validee",
+    "fingerprint": "a3c695e93d518c27df2f1b4aad4142575d055f34b8c2417344abbe39cee77baa",
+    "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aviation-civile/securite/enquetes-de-securite-apres-accident": {
+    "quality": "validee",
+    "fingerprint": "9de0f05070e318e832011570be34735af8c3dabe817153c252f6cba406b3a948",
+    "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aviation-civile/certification-aeronautique/certification-avion-de-transport": {
+    "quality": "validee",
+    "fingerprint": "b8131ddb9626d8284af615868a35604240769fc76f19b46c792fee8c929b93af",
+    "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/propulsion/turboreacteurs/taux-de-dilution-turboreacteurs": {
+    "quality": "validee",
+    "fingerprint": "52d8a25d98a29addb130bc77687a3cc26b7857ad1d816fd9b682d27f681d06a5",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/propulsion/turbopropulseurs/turbopropulseur-principe-domaine-emploi": {
+    "quality": "validee",
+    "fingerprint": "3f56417a9595e51fff8ce8560dcb2b075bbad6dce2bbcb66da4bde6dfc61e834",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/propulsion/propulsion-electrique-aeronautique/propulsion-electrique-hybride-aeronautique": {
+    "quality": "validee",
+    "fingerprint": "fbf611683bac3e8edbc5d5a0d2f40cda411cca908aa4a9135fb27763fed16ea7",
+    "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/navigation-aerienne/instruments-de-vol/instruments-de-vol-primaires": {
+    "quality": "validee",
+    "fingerprint": "0770af12d79b73c2464ed604cfc97f93795734079e8de363818fd51e3692b7b5",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/navigation-aerienne/instruments-de-vol/systemes-de-navigation-inertielle-et-satellitaire": {
+    "quality": "validee",
+    "fingerprint": "be6c6f6a6ffca06fa1e837c2569f5d1c37fc129c9fe64cd424efbae9c20839f6",
+    "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/controle-du-trafic-aerien-principes": {
+    "quality": "validee",
+    "fingerprint": "98dedc83fac4d94556e2abccb14f04b5b40904bc7e564d960d621b5981f3c4aa",
+    "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/portance/physique-portance-aerodynamique": {
+    "quality": "validee",
+    "fingerprint": "a0394c66fb681c28caa8708315b315ebbec9487bbba3bd30b6d318f936616546",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/trainee/trainee-aerodynamique-reduction": {
+    "quality": "validee",
+    "fingerprint": "df5b993dae47f2db2d3997540c7a3a90f2fb841326adfa281424885809579618",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aviation-civile/securite/statistiques-mondiales-securite-aerienne": {
+    "quality": "validee",
+    "fingerprint": "b5fa05dc262d65c905d1ad4409dd6e76d3ad0a89001ed7ea3ce7e575c51e8cfd",
+    "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/propulsion/turboreacteurs/fonctionnement-turboreacteur": {
+    "quality": "validee",
+    "fingerprint": "0c62f12cca2f4f3b6f9043280a42e6c7f513bd407924a49b6afa45fef105d302",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/propulsion/moteurs-a-piston/fonctionnement-moteurs-a-piston-aeronautiques": {
+    "quality": "validee",
+    "fingerprint": "42e6b30ee3e13cffffa18efe1b55856b6857c5b5001ffa1794938f8bc40c0d8e",
+    "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aviation-civile/decarbonation/carburants-aviation-durables-saf": {
+    "quality": "validee",
+    "fingerprint": "4d1fd6fcb7c608956d50bf0025dd56b0cd8b5c4c2f87bb4e3d4634c319d1d0a4",
+    "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler": {
+    "quality": "validee",
+    "fingerprint": "de6ef6d45fee44c00d7df3feef7360268ff919e9a466613194071f69acfeda5f",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/portance/pourquoi-les-ailes-d-un-avion-changent-elles-de-forme-au-decollage-et-a-l-atterrissage": {
+    "quality": "validee",
+    "fingerprint": "133365fb1bc51579c566fcd2b0882906741e85c3bf48267bc735139e97f237b5",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/portance/comment-un-avion-de-ligne-peut-il-planer-quand-ses-moteurs-s-arretent": {
+    "quality": "validee",
+    "fingerprint": "8911394a3a4d2521c828436835b072e19f8cdf6ba82f1ba723dd9214b66679ec",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/trainee/pourquoi-le-givre-est-il-dangereux-pour-les-ailes-d-un-avion": {
+    "quality": "validee",
+    "fingerprint": "543b95eb85966bcc6abefcd6bc210d3b90fc9877b3de2199f35ab4017d3d3937",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aviation-civile/securite/comment-deux-avions-evitent-ils-de-se-rentrer-dedans-en-plein-ciel": {
+    "quality": "validee",
+    "fingerprint": "1a08d7b7f350836883ce2e7dc65899a4a8a990caa2a5e2799f077b0f8793e7cb",
+    "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/comment-peut-on-suivre-sur-internet-les-avions-en-plein-vol": {
+    "quality": "validee",
+    "fingerprint": "fc165dccd1b7061d680b384a1066835c00627d8ce59eb30b0c69d18c789f6974",
+    "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/navigation-aerienne/instruments-de-vol/comment-le-pilote-automatique-tient-il-un-avion-sur-sa-route": {
+    "quality": "validee",
+    "fingerprint": "453f0a754ce7f37f8726fbc045e50325d376e02fa2a5a8cf4cf59a34201cd8c9",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/navigation-aerienne/instruments-de-vol/comment-un-pilote-peut-il-trouver-sa-route-sans-gps": {
+    "quality": "validee",
+    "fingerprint": "1496e46add00ab0325638a25760f39109d6f6f9f02ce1f5ad557a3ce1bfacadc",
+    "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/propulsion/turboreacteurs/comment-un-avion-de-ligne-freine-t-il-apres-l-atterrissage": {
+    "quality": "validee",
+    "fingerprint": "a628ee05cd6efc5c22f78c1bf424f93ba00087f486b195d0b396052431117fa8",
+    "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/propulsion/moteurs-a-piston/pourquoi-le-moteur-d-un-petit-avion-a-t-il-deux-allumages": {
+    "quality": "validee",
+    "fingerprint": "351372e7d0e19b2de2a9c6a72d0a9177f262abf3d98da3293f4ee24edd814c99",
+    "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/propulsion/turbopropulseurs/comment-un-avion-bombardier-d-eau-remplit-il-ses-reservoirs-sans-s-arreter": {
+    "quality": "validee",
+    "fingerprint": "1ab45a6d8ad44155c90f5f98a68191b11eb95a111f1eb24e2a7d47cf31fdd18e",
+    "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/portance/pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air": {
+    "quality": "validee",
+    "fingerprint": "a9d1ac495760a221e51fe97330ddccd21323cc0cc5e08f9072f02dfa18dee3c9",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/propulsion/turboreacteurs/le-turboreacteur-a-double-flux-principe-de-fonctionnement": {
+    "quality": "validee",
+    "fingerprint": "70e4e82457d7aabdc57351ed30dc9ddb87599b474be25414c45b54acbc2e10ea",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/comment-le-controle-aerien-gere-des-milliers-de-vols": {
+    "quality": "validee",
+    "fingerprint": "9478516c23608271ae4f3cd467c1eaccc0ee3641f7a4e8b7814153a253b4ad25",
+    "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/portance/comment-les-pales-d-un-helicoptere-creent-la-portance": {
+    "quality": "validee",
+    "fingerprint": "c87208a5d58e684b90cef688e79a5b532dff4422e49bee141a69f292d19c9ebb",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aviation-civile/securite/les-turbulences-pourquoi-l-avion-est-secoue": {
+    "quality": "validee",
+    "fingerprint": "c1c394c2e6fe815cdf65e2d571968f8c9a9ef93cfd0945a4d1305c8f1dfad4e7",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/ecoulements/le-mur-du-son-et-le-bang-supersonique": {
+    "quality": "validee",
+    "fingerprint": "e1b127629b382f095984c50f692d1d5be8c45dff727e83cb2ce348dea715ad83",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aviation-civile/securite/la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident": {
+    "quality": "validee",
+    "fingerprint": "82aedaeebd01a8edb8d6b3452e7b812b3826ddd54094d2ddcac66699cfacb0f2",
+    "evidence": "docs/qa/lesson-visuals-flight-systems/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/ecoulements/le-planeur-voler-sans-moteur": {
+    "quality": "validee",
+    "fingerprint": "f880b0b75ab4cc9de9a558f7369369add62190f42a2bb282a032e072af871829",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/navigation-aerienne/instruments-de-vol/comment-un-pilote-sait-il-ou-est-le-haut-dans-les-nuages": {
+    "quality": "validee",
+    "fingerprint": "7d8e01597527a552f16e5c5606adf9f322318af31841059c713511a79eec43ce",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aerodynamique/trainee/les-winglets-petits-ailerons-contre-la-trainee": {
+    "quality": "validee",
+    "fingerprint": "12bf02c565ff71eb900812030acef10280fa270839df0bdacc046bb8f010bb38",
+    "evidence": "docs/qa/lesson-visuals-aeronautics/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/propulsion/propulsion-electrique-aeronautique/que-rejette-un-avion-a-hydrogene-et-ou-loge-t-on-le-carburant": {
+    "quality": "validee",
+    "fingerprint": "80294618da34b0675723fe742d87685c092cbaad119119072b911dc38ab38058",
+    "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/aeronautique/aviation-civile/decarbonation/les-concepts-d-avion-a-hydrogene-d-airbus": {
+    "quality": "validee",
+    "fingerprint": "4cbc692e921e038d8c82b81df83ba2e4cbd47df7ef2b2d3694f384918c2276ec",
+    "evidence": "docs/qa/lesson-visuals-aircraft-propulsion/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/alimentation-et-nutrition/technologies-alimentaires/fermentation/comment-le-levain-fait-il-gonfler-la-pate-a-pain": {
+    "quality": "validee",
+    "fingerprint": "a709a2955103c6e488992e9c52f1eb8be6a3f470f2a43ca6c4d73b5dd15be166",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/arts-et-culture/arts-visuels/peinture-et-sculpture/perspective-lineaire-renaissance": {
+    "quality": "validee",
+    "fingerprint": "3bd9a5fdff690d91077b0fe01e81f5233583eba9ac544f036d08bdc3d878d47d",
+    "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/arts-et-culture/arts-visuels/photographie-et-cinema/invention-de-la-photographie": {
+    "quality": "validee",
+    "fingerprint": "823d717ae423e7b4a4e1c78abefe37877db31a8e0b9485de5371a5620df6bccd",
+    "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/invention-de-limprimerie-a-caracteres-mobiles": {
+    "quality": "validee",
+    "fingerprint": "4c09948b5106b5a389f5fd49abfdccbd1a1cc642e1a0a14f7ba8ac326190be36",
+    "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/arts-et-culture/arts-visuels/arts-graphiques-et-design/comment-une-gravure-permet-elle-d-imprimer-la-meme-image-des-dizaines-de-fois": {
+    "quality": "validee",
+    "fingerprint": "b796143a32317fe6388133240de9033f025ef08ef60fb9425c08b6d42ea253f8",
+    "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/arts-et-culture/arts-visuels/peinture-et-sculpture/comment-une-fresque-reste-t-elle-accrochee-au-mur-pendant-des-siecles": {
+    "quality": "validee",
+    "fingerprint": "8a9d8809f6627ec8024a68b687626b147ff2532d503f9e73104b1dd3b32bea9f",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/arts-et-culture/patrimoine/architecture/comment-un-arc-en-pierre-tient-il-debout-grace-a-son-propre-poids": {
+    "quality": "validee",
+    "fingerprint": "9260fa1d311238d1fdd1c19ff81232f96f9607d689c47c671a44ceae2286fb66",
+    "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/arts-et-culture/arts-du-spectacle/musique/pourquoi-deux-instruments-ne-sonnent-ils-pas-pareil-sur-la-meme-note": {
+    "quality": "validee",
+    "fingerprint": "152b9c2783e702fa522a95ce8e4940411f61f7f6532392ba0838d7ef105eba53",
+    "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/automobile/motorisations/electrique/chimies-batteries-lithium-ion-automobile": {
+    "quality": "validee",
+    "fingerprint": "5abc5567547191120f3c4caf1b74b6a7736bf3881233ef157834d391450ce8c9",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/automobile/motorisations/thermique/comment-un-moteur-a-quatre-temps-transforme-t-il-l-essence-en-mouvement": {
+    "quality": "validee",
+    "fingerprint": "78d6147eb6ecbede80906f9ef8e674b00b471f178861f39b85c603aa3f117a04",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant": {
+    "quality": "validee",
+    "fingerprint": "b9fe40889fd9b428adbe0bc0d7fba6bea439f2efd29d55e9f00deaaf7e345a70",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/fibre-optique-et-reseaux-dacces": {
+    "quality": "validee",
+    "fingerprint": "093c0203533dd43aa05f1fff5d1512ae61e39f948995d4960cd2449e3c485a55",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/comment-la-lumiere-reste-t-elle-prisonniere-d-une-fibre-optique": {
+    "quality": "validee",
+    "fingerprint": "92bc1e5492e6b351ebdea5c2f83cf32c4de6b3642b5d1a5afd0dc225cd1113ee",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/comment-le-telephone-fixe-transportait-il-la-voix-par-un-fil": {
+    "quality": "validee",
+    "fingerprint": "438855536e99ca1e19f51ce6d8ba5118621d17fd763ff85f60c7675df7aaf46a",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/corps-humain-et-sante/anatomie/systeme-nerveux/systeme-nerveux-structure-fonctionnement": {
+    "quality": "validee",
+    "fingerprint": "e2e8fe1d578f4659d1ee645b769a2df7d53960cc9f482eb0b857b7fec0b0615b",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/corps-humain-et-sante/anatomie/systeme-respiratoire/echanges-gazeux-et-respiration": {
+    "quality": "validee",
+    "fingerprint": "008c41ee535867d2c2a0c79dd376f81663c21587ed7e0b7259e63a38a0cadf2e",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/corps-humain-et-sante/anatomie/systeme-nerveux/comment-un-neurone-envoie-t-il-un-message-a-un-autre-neurone": {
+    "quality": "validee",
+    "fingerprint": "0bc9026746491b3bc9fa3d84fdd2cab75054982a7ed15c78dcff9678d6488c08",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/corps-humain-et-sante/anatomie/systeme-respiratoire/comment-les-poumons-font-ils-passer-l-oxygene-de-l-air-dans-le-sang": {
+    "quality": "validee",
+    "fingerprint": "0aec6c47c6d65dece4fbe676f8ccf1b48cdbcd249527c4151af6c6a3190cf3ce",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/energie/energies-renouvelables/eolien/record-mondial-installations-eoliennes-2024": {
+    "quality": "validee",
+    "fingerprint": "db24c889cbafcdfa821b5d09cf974378bb29716987033d6d86c5f5ebaa78b59c",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/energie/energies-renouvelables/solaire/comment-fonctionne-une-cellule-photovoltaique": {
+    "quality": "validee",
+    "fingerprint": "7a34a918567e26bbcdb1227010c8bbcbe1dc6e496fa4e9b2cd3d53fbbc0c217d",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/energie/reseaux-et-stockage/batteries/comment-fonctionne-une-batterie-lithium-ion": {
+    "quality": "validee",
+    "fingerprint": "925109c0e205d7b67ed4e9da66a463769c218eea672c34fe4c7022e17a303dec",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/energie/energies-renouvelables/hydraulique/microcentrale-hydroelectrique": {
+    "quality": "validee",
+    "fingerprint": "cbb34a7205bdcd4cc51989d3d962a27c6667cee5722c3c141e0e5efa0f46e495",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/energie/reseaux-et-stockage/reseaux-electriques/produire-electricite-avec-aimant": {
+    "quality": "validee",
+    "fingerprint": "e7949c492f51c1d6718e391e8e49154153aecb830cc736dde2dcf55ecd56c01d",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/energie/efficacite-et-sobriete/efficacite-energetique/comment-une-pompe-a-chaleur-chauffe-t-elle-avec-l-air-froid-du-dehors": {
+    "quality": "validee",
+    "fingerprint": "e21d4273b95a8c7f39ea23df894010f0beb59781c9507839382ac548dc78333d",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/energie/energies-renouvelables/hydraulique/comment-un-barrage-transforme-t-il-l-eau-d-une-riviere-en-electricite": {
+    "quality": "validee",
+    "fingerprint": "d09fc023da8778354f4de7db49987d51c75235e82f796420c596a87db536f8ee",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/energie/reseaux-et-stockage/reseaux-electriques/comment-l-electricite-voyage-t-elle-de-la-centrale-jusqu-a-votre-prise": {
+    "quality": "validee",
+    "fingerprint": "df8985ed5cb849ba77765fb0cb5b7076ec186e79f50c322c3204bb3f2979e298",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/energie/energies-renouvelables/eolien/comment-fonctionne-une-eolienne": {
+    "quality": "validee",
+    "fingerprint": "be1eb57718e7152210acbfd85afe7bfabe968957c7e6f214c40d18ca46ffccaa",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/environnement-et-climat/changement-climatique/gaz-a-effet-de-serre/concentration-record-de-co2-dans-latmosphere": {
+    "quality": "validee",
+    "fingerprint": "e4388b83701dc48735e1248fc6b88f9bf96f3b63ee24fd9811031d52e35af08f",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/comment-une-bouteille-en-verre-usagee-redevient-elle-une-bouteille-neuve": {
+    "quality": "validee",
+    "fingerprint": "6a106da2971bde926c0b9c64d647db46b625ab40a4eabc2a6eba517c9e20491e",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/environnement-et-climat/pollution-et-ressources/eau/comment-se-forme-une-nappe-d-eau-sous-nos-pieds": {
+    "quality": "validee",
+    "fingerprint": "1c618ddc30ff2a0db8a7eecf8f43ae03c5abbe5d6885fe4ad57e0d1c2e4c7f92",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/environnement-et-climat/changement-climatique/gaz-a-effet-de-serre/pourquoi-le-methane-est-il-un-gaz-a-effet-de-serre-si-puissant": {
+    "quality": "validee",
+    "fingerprint": "0b58ae438a1d7172b3f6f1caaedb49271136e6bf7262befcd1e9f06c9166de22",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/planetes/huit-planetes-systeme-solaire": {
+    "quality": "validee",
+    "fingerprint": "1ab7c18e5ba7e1b5535ccbee86890d21bba71c3cc2bd7ad877b71d47a9b752ac",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/lune/la-lune-formation-et-marees": {
+    "quality": "validee",
+    "fingerprint": "bc8f7dec3fe7294537b2ee67ebc68ac295a1b946b8d5afdd225e83ff463e04d9",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/petits-corps/asteroides-cometes-et-meteorites": {
+    "quality": "validee",
+    "fingerprint": "2d308d0f887b0c4309085f7294f5bfbc7f449a44a2f9c553a70873d1b53b7089",
+    "evidence": "docs/qa/lesson-visuals-space-context/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/astrophysique/etoiles/formation-stellaire-galaxies-lointaines-jwst": {
+    "quality": "validee",
+    "fingerprint": "2463509fd10b4511edf3abba3dea720239a01d2c157fd6c9f2c79d64f6e4a424",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/astrophysique/cosmologie/gwtc-5-catalogue-ondes-gravitationnelles": {
+    "quality": "validee",
+    "fingerprint": "8b45bc9a3b66ef9d79105b9af7a5e4a9f8a04f6d765e94026adff8de2cd88785",
+    "evidence": "docs/qa/lesson-visuals-observation/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/astrophysique/trous-noirs/trous-noirs-ce-quon-en-sait": {
+    "quality": "validee",
+    "fingerprint": "4ff0bcad305daf39f8d785b9a0ee026d14bc5d2323f93f5fc21be1099cb42799",
+    "evidence": "docs/qa/lesson-visuals-observation/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/exploration-spatiale/sondes/telescope-spatial-james-webb": {
+    "quality": "validee",
+    "fingerprint": "7a2b4834e8032b3965874e963918ad11b884aef9a1964130a90c88ee64f424de",
+    "evidence": "docs/qa/lesson-visuals-observation/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/observation-astronomique/messagers-du-cosmos/pourquoi-observer-dans-linfrarouge": {
+    "quality": "validee",
+    "fingerprint": "08dd5cdaed4a44fe02648a357d921357043a9e280eeaf4046bbce9a986f889a2",
+    "evidence": "docs/qa/lesson-visuals-observation/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/observation-astronomique/telescopes/taille-des-telescopes-et-resolution": {
+    "quality": "validee",
+    "fingerprint": "44fef47fcd780b1db8362c5eabce932e15e675351e05fb1d9b359f9affa70b27",
+    "evidence": "docs/qa/lesson-visuals-observation/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/exploration-spatiale/vols-habites/artemis-ii-retour-vers-la-lune": {
+    "quality": "validee",
+    "fingerprint": "b0283f69b94d23cdc8c0313ab0fc18af59891358d1f7bb84b42e1a8f47bcc201",
+    "evidence": "docs/qa/lesson-visuals-observation/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/mettre-un-objet-en-orbite": {
+    "quality": "validee",
+    "fingerprint": "ecb9201d3321166a070a760de7e196b3caf50d004af2958109790153c3fd9c7b",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/lune/calendrier-lunaire": {
+    "quality": "validee",
+    "fingerprint": "d06026e43d9598e50b6f3095bdb1004a72abc585db09ed2ec69d1b0703ca5ff5",
+    "evidence": "docs/qa/lesson-visuals-observation/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/astrophysique/etoiles/reperer-grace-etoiles": {
+    "quality": "validee",
+    "fingerprint": "40c0d47bf39914582cbd1787fbb2a5cb1de7c4d5be91e06c067f589b315c9fd0",
+    "evidence": "docs/qa/lesson-visuals-observation/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/observation-astronomique/telescopes/fabriquer-lunette-astronomique": {
+    "quality": "validee",
+    "fingerprint": "1beaf84d5aae0649807d052b258fb5dde2d0766afa35d7af896d6f89fbc977fe",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/astrophysique/etoiles/comment-une-tempete-solaire-peut-elle-allumer-des-aurores-et-couper-le-courant": {
+    "quality": "validee",
+    "fingerprint": "84f3540426fcade32e4a6f880585fa807c0535e7598ce9f6a982ba55a1840674",
+    "evidence": "docs/qa/lesson-visuals-observation/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/comment-le-gps-sait-il-exactement-ou-vous-etes": {
+    "quality": "validee",
+    "fingerprint": "2f1e41c6cedc9e8c9b0b8cb187a4734a6b45efb0b3c0fcdeaede10b32392bfd9",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/exploration-spatiale/vols-habites/comment-les-astronautes-ont-ils-toujours-de-l-eau-et-de-l-air-dans-la-station-spatiale": {
+    "quality": "validee",
+    "fingerprint": "1bf8009507ff60d3ad23d86007840acd52a0ff171d40bd31f37e8ed4d10a92fb",
+    "evidence": "docs/qa/lesson-visuals-space-context/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/exploration-spatiale/vols-habites/pourquoi-les-astronautes-ont-ils-du-mal-a-marcher-en-revenant-sur-terre": {
+    "quality": "validee",
+    "fingerprint": "9982b2a9e2b246d101150f396f083e7358e5ed860c4759c09edca3569e124c9d",
+    "evidence": "docs/qa/lesson-visuals-space-context/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/observation-astronomique/telescopes/pourquoi-voit-on-beaucoup-moins-d-etoiles-en-ville-qu-a-la-campagne": {
+    "quality": "validee",
+    "fingerprint": "d284166d869d8a2027a093647807215c404c0c9c1f834fc87f4cc1df515af983",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/lune/pourquoi-la-lune-change-t-elle-de-forme-au-fil-du-mois": {
+    "quality": "validee",
+    "fingerprint": "4c0cfcb409e9cf03898d78cf2cfc974ca37b0d04fd5afe4e6f059d29fc517200",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/lune/pourquoi-la-mer-monte-t-elle-et-descend-elle-deux-fois-par-jour": {
+    "quality": "validee",
+    "fingerprint": "3ac741d96cba345696b4cc7fe22e879b8cb8e47d3271f9ef210799dc9ba84c26",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/astrophysique/cosmologie/comment-sait-on-que-l-univers-grandit": {
+    "quality": "validee",
+    "fingerprint": "924ec1192313b9f40016489987fefabb9ce2ca23af7d9499a21b6b26f09cea5d",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/exploration-spatiale/sondes/comment-les-sondes-voyager-ont-elles-atteint-l-espace-entre-les-etoiles": {
+    "quality": "validee",
+    "fingerprint": "ced9018a6f0a560bfb29912491d73c66d20ef1f46ca7d1e0f0e9d23d4126f11e",
+    "evidence": "docs/qa/lesson-visuals-space-context/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/petits-corps/pourquoi-la-queue-d-une-comete-pointe-t-elle-toujours-a-l-oppose-du-soleil": {
+    "quality": "validee",
+    "fingerprint": "46b0e25e693b4496d87d2d77bd8d2f097920d9df17fc9d19baa3c423299dfe5f",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/planetes/pourquoi-venus-est-elle-la-planete-la-plus-chaude-du-systeme-solaire": {
+    "quality": "validee",
+    "fingerprint": "2ba87423b0d3a5642e36e169324a6c523ab1e4db586735e16dcd22bef1cd191a",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/planetes/pourquoi-saturne-est-elle-entouree-d-anneaux": {
+    "quality": "validee",
+    "fingerprint": "07e1b37b5066ca8576d9ca717b51266140747e352d4109b20952bf7e84a95204",
+    "evidence": "docs/qa/lesson-visuals-space-context/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/observation-astronomique/retrouver-l-heure-avec-le-soleil": {
+    "quality": "validee",
+    "fingerprint": "f6406b6ab7a237bb8c92123b6a92cd186f780855a2560ff4aa467d85bbdbe071",
+    "evidence": "docs/qa/lesson-visuals-space-context/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/lune/les-marees-et-l-effet-de-la-lune-sur-les-oceans": {
+    "quality": "validee",
+    "fingerprint": "ca7b18930cbb179a0295ec985c95189cd072017242f247734822f295c60bf55c",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/comment-une-fusee-fait-elle-pour-rester-en-orbite-autour-de-la-terre": {
+    "quality": "validee",
+    "fingerprint": "9b49927b34b0a9c90f01261dbc134d0bed0d6ba969bf1b1f405d8ac37c4d09c7",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/astrophysique/etoiles/comment-nait-une-etoile-a-partir-d-un-nuage-de-gaz": {
+    "quality": "validee",
+    "fingerprint": "06285c632718c559bd0a444b00be3fcfe2b0e649ebba40c7bedc26d04bf8cd4a",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/lune/pourquoi-n-y-a-t-il-pas-une-eclipse-a-chaque-nouvelle-lune": {
+    "quality": "validee",
+    "fingerprint": "7cab2b122ff02d7f2a2256956b233cc67cdc36d937ee02a95ce154fe434be8fd",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/exploration-spatiale/vols-habites/pourquoi-les-astronautes-flottent-ils-dans-la-station-spatiale": {
+    "quality": "validee",
+    "fingerprint": "709e8ce6b86122db4949bc993cd08204b7a47dfb3c23f95b6935888df9e8dcc9",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/planetes/que-veut-dire-zone-habitable-pour-une-exoplanete": {
+    "quality": "validee",
+    "fingerprint": "9e37ecd77d5f70246351d8cda510365e93fe7623b58baa5ce7b0a25b8c493048",
+    "evidence": "docs/qa/lesson-visuals-space-context/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/astrophysique/cosmologie/comment-un-amas-de-galaxies-peut-il-agir-comme-une-loupe-cosmique": {
+    "quality": "validee",
+    "fingerprint": "dba8725e9c16dda41cfc056c98f946c13c6e3b654a72a7a5105b86db21ca4466",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/observation-astronomique/telescopes/comment-le-telescope-webb-lit-il-la-composition-de-l-air-d-une-planete-lointaine": {
+    "quality": "validee",
+    "fingerprint": "7388b0cfd65fcf5684a18300e94f2d6dc966a72ecf615983ad42172bb0a58eed",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/observation-astronomique/telescopes/comment-plato-va-t-il-chercher-des-planetes-comme-la-terre": {
+    "quality": "validee",
+    "fingerprint": "f440a1ecb19015ffb6fd29b48f7c6055eead028ea2efdb2c046530c606d4afbe",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/observation-astronomique/messagers-du-cosmos/comment-une-etoile-peut-elle-servir-de-loupe-pour-trouver-des-planetes": {
+    "quality": "validee",
+    "fingerprint": "8090571a13cf2e854ef9bfc5dbaa3dc695ebb9c0c03a818a40dc70ebc5d15b34",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/petits-corps/pourquoi-voit-on-des-pluies-d-etoiles-filantes-en-aout-et-en-decembre": {
+    "quality": "validee",
+    "fingerprint": "f9cf3059e74de4bd56b00069e5c0a52a8cd1d56138494ebfc64fd795f1ac4ca3",
+    "evidence": "docs/qa/lesson-visuals-space-context/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/observation-astronomique/telescopes/a-quoi-sert-le-telescope-spatial-roman-pour-chasser-les-exoplanetes": {
+    "quality": "validee",
+    "fingerprint": "2f6d9c5ce8fb36ecaf3fa30a7f1b38444c8e733bc5c70ef5a6f58dd5ea6a3a6a",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/espace-et-astronomie/systeme-solaire/planetes/pourquoi-y-a-t-il-des-saisons-sur-terre": {
+    "quality": "validee",
+    "fingerprint": "6029ef2fc0ae549bec8f1fe315b5f2b8c92d1118765fc71d1213453b737b8b58",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/geographie-et-territoires/geographie-physique/climatologie/comment-un-cyclone-tropical-nait-il-au-dessus-d-une-mer-chaude": {
+    "quality": "validee",
+    "fingerprint": "5a59477772310bfb33b080bfcee5653d879fe2de0402af7f56cada9ab8c03569",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/industries/industrie-manufacturiere/chaine-logistique/comment-une-caisse-lit-elle-un-code-barres": {
+    "quality": "validee",
+    "fingerprint": "44920433c9937917a676d3d7a7233b53c64c97ef0155f8677721810ec013dffa",
+    "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/industries/industrie-lourde/chimie-industrielle/comment-le-bois-devient-il-une-feuille-de-papier": {
+    "quality": "validee",
+    "fingerprint": "705ecbc5b982971045bf77dd01fadeb6a098a279a7b6626328c6fd1ccd3f5483",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/micro-informatique-et-informatique/materiel/processeurs/comment-fonctionne-un-processeur": {
+    "quality": "validee",
+    "fingerprint": "408255991900086927fabd68e5ff0d878d9a87a0f5df930ddc08235b83d66a4e",
+    "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-un-ecran-affiche-une-image": {
+    "quality": "validee",
+    "fingerprint": "80f930e127441de7e1898254eb6234f23c70139178ff6d4742c55450d855ecbc",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/micro-informatique-et-informatique/donnees/representation-et-compression/comment-un-ordinateur-peut-il-tout-ecrire-avec-seulement-des-0-et-des-1": {
+    "quality": "validee",
+    "fingerprint": "46e4e0639146fb9bebf1cbaa4074469ae7ec9cf598e9f80a57a0545636223298",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-le-wi-fi-fait-il-voyager-des-donnees-a-travers-l-air": {
+    "quality": "validee",
+    "fingerprint": "e2eeb603d55629e5a2de69b77cdf926c0fe04aa0eb384f1e3234bd3024aa4b88",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/micro-informatique-et-informatique/logiciel/algorithmes/comment-un-ordinateur-range-t-il-une-liste-dans-l-ordre": {
+    "quality": "validee",
+    "fingerprint": "11386ea0cf99ef14363d0423a4787415adef06ea0e9ecc2dc560d6625b49c23e",
+    "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/micro-informatique-et-informatique/donnees/representation-et-compression/qu-est-ce-qu-un-pixel-et-comment-une-image-est-elle-faite-de-pixels": {
+    "quality": "validee",
+    "fingerprint": "d8f502b73d770aaec2f27d6ecfa188a04e4907e863a623ac0c1414c44d2cdebe",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/apprentissage-automatique/apprentissage-profond/principes-apprentissage-profond": {
+    "quality": "validee",
+    "fingerprint": "c6130cdb7d405411eafd982a145e2f0d191b28bed10b2949814bbd885180e0a7",
+    "evidence": "docs/qa/lesson-visuals-learning/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/apprentissage-par-renforcement-alphago": {
+    "quality": "validee",
+    "fingerprint": "5653a2d15fab0f9bd98a76ba49eebc0e3db06b0144da9d94be17bdc87379e025",
+    "evidence": "docs/qa/lesson-visuals-learning/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement/donnees-dentrainement-et-surapprentissage": {
+    "quality": "validee",
+    "fingerprint": "4303ff849a3dd788ad7d2ad9c3813647f7ce57b9e3d6c13af016670bf0fb4524",
+    "evidence": "docs/qa/lesson-visuals-learning/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/modeles-de-langage/transformeurs/transformeurs-architecture-ia": {
+    "quality": "validee",
+    "fingerprint": "0fb2edd4f4a7649d8d731a62667fd2f7d58a81e3574088810b9a67f2d94d092f",
+    "evidence": "docs/qa/lesson-visuals-learning/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/modeles-de-langage/ia-generative/gpt-4o-ia-generative-multimodale": {
+    "quality": "validee",
+    "fingerprint": "ce24d87f6e81c9c262436a50649fd771fa98d5e750bb43f9bd2f5e979b4dd08e",
+    "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/modeles-de-langage/limites-et-erreurs/limites-des-modeles-de-langage": {
+    "quality": "validee",
+    "fingerprint": "798f1fa11bedb1c87d440fb71ab2358e58e99e7a3cde76c6f5ab31298c603fa5",
+    "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/ethique-et-societe/biais/biais-algorithmiques-exemples-documentes": {
+    "quality": "validee",
+    "fingerprint": "0ab0cfa4fd32668de348b111f79e362d7a4a8f771b4c8c481831dceb011431b4",
+    "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/ethique-et-societe/regulation/reglement-europeen-sur-lia-ai-act": {
+    "quality": "validee",
+    "fingerprint": "d7ef6de5e8f6237bec2e743d23c570913f111416c41224c9df71d2480d828068",
+    "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/ethique-et-societe/travail-et-usages/ia-et-transformation-du-travail": {
+    "quality": "validee",
+    "fingerprint": "ecc452a43aa7992a77171c1273fda869c1e9698c5c9ebc7d6b7fc3a12956198c",
+    "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/modeles-de-langage/transformeurs/faire-tourner-ia-ordinateur": {
+    "quality": "validee",
+    "fingerprint": "2a6388edef1ed7e3b4a91330da1fb8006f616f06f9fad66e52437ded24e36004",
+    "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/comment-une-ia-a-t-elle-appris-seule-a-jouer-a-des-jeux-video-atari": {
+    "quality": "validee",
+    "fingerprint": "4ffbb43c0b4eb13e7aabb5c0d90c0c24d9a465e14583824fffe84e354c38e611",
+    "evidence": "docs/qa/lesson-visuals-learning/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/pourquoi-une-ia-doit-elle-parfois-tenter-des-choix-au-hasard-pour-mieux-apprendre": {
+    "quality": "validee",
+    "fingerprint": "47aaa64703a1aec6f8a64709fd00ca632c79d8756f6522a9446f16f4e288da90",
+    "evidence": "docs/qa/lesson-visuals-learning/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/apprentissage-automatique/apprentissage-profond/comment-un-reseau-de-neurones-convolutif-repere-t-il-les-formes-dans-une-image": {
+    "quality": "validee",
+    "fingerprint": "41a24d308f13c1dcff0a55dd089cbf3e2b04f01f591a96a6f22f17856e254da6",
+    "evidence": "docs/qa/lesson-visuals-learning/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/apprentissage-automatique/apprentissage-profond/comment-un-reseau-de-neurones-recurrent-se-souvient-il-du-debut-d-une-phrase": {
+    "quality": "validee",
+    "fingerprint": "a0fbb599c701eefc19e079e6f72ffc843fa89fe09ff3fd8aee75b7e155b4fac4",
+    "evidence": "docs/qa/lesson-visuals-learning/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/ethique-et-societe/biais/pourquoi-certains-logiciels-de-reconnaissance-faciale-se-trompent-ils-plus-sur-certains-visages": {
+    "quality": "validee",
+    "fingerprint": "cb5d1406df505404ea2408d78e2c8de5c1a0bb139cb7b62177a3bf4d32a1bd8e",
+    "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/ethique-et-societe/travail-et-usages/comment-l-intelligence-artificielle-aide-t-elle-les-personnes-aveugles-ou-sourdes": {
+    "quality": "validee",
+    "fingerprint": "1573439ccd9a47af91c8b6bcfe7f5774d3182a49a097d094022adc577ba18a99",
+    "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/modeles-de-langage/ia-generative/comment-une-ia-fabrique-t-elle-une-image-a-partir-d-une-simple-phrase": {
+    "quality": "validee",
+    "fingerprint": "557bfa5f8fcd38140ed244203f9e4b76df728fc7d72ee48d890e8922e9694acd",
+    "evidence": "docs/qa/lesson-visuals-learning/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/modeles-de-langage/ia-generative/comment-fabrique-t-on-un-deepfake-et-pourquoi-faut-il-s-en-mefier": {
+    "quality": "validee",
+    "fingerprint": "bf700d175697165d6d214bf23233373aaec6f36bf4cd072e568ae2af99771dd6",
+    "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/modeles-de-langage/limites-et-erreurs/pourquoi-une-ia-conversationnelle-ne-connait-elle-pas-les-dernieres-nouvelles": {
+    "quality": "validee",
+    "fingerprint": "5f624be6a823e20dd8a2d4923ea8c2481801423ba06e2463899253c68b4e64c4",
+    "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/apprentissage-automatique/comment-fonctionnaient-les-systemes-experts-ces-ia-faites-de-regles": {
+    "quality": "validee",
+    "fingerprint": "44aded8e5de4abd9a718d9262ee8415943e606958b4a9c7397e83294a8d26eeb",
+    "evidence": "docs/qa/lesson-visuals-learning/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/ethique-et-societe/travail-et-usages/comment-un-robot-peut-il-apprendre-a-agir-dans-des-situations-qu-il-n-a-jamais-vues": {
+    "quality": "validee",
+    "fingerprint": "6a4e9a06c747809d1db0ac6155d663d94d2ff60f6de472add5062ef904e4cf0c",
+    "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/modeles-de-langage/transformeurs/comment-une-ia-peut-elle-comprendre-a-la-fois-une-image-et-une-phrase": {
+    "quality": "validee",
+    "fingerprint": "3c84bb97a9f26427e795bb4cf8fdf43d25e1dc80fa2c187c8bc0f072d5f73da2",
+    "evidence": "docs/qa/lesson-visuals-ai-usage/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/intelligence-artificielle/ethique-et-societe/travail-et-usages/que-peut-faire-l-ia-dans-un-tribunal-et-qu-est-ce-qui-est-interdit": {
+    "quality": "validee",
+    "fingerprint": "dd33cbb117b2a75df32bbf03b7416a950843974f55c65739fae356bc655cfe09",
+    "evidence": "docs/qa/lesson-visuals-ai-context/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/comment-une-roche-se-transforme-t-elle-peu-a-peu-en-sol": {
+    "quality": "validee",
+    "fingerprint": "a867424be600eac67863b63041f4a6246c8e65ec87a347c927f0621384e50ddc",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/mathematiques/probabilites-et-statistiques/le-hasard-et-les-probabilites": {
+    "quality": "validee",
+    "fingerprint": "10665e9836c9aa14b094d1b58347810c9659f36d4cb5892c95697df07c568b39",
+    "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/biologie/genetique/decouverte-structure-adn": {
+    "quality": "validee",
+    "fingerprint": "e26744499d8822201b59469c93056ced76672fe61036abea4b503f6314cdb44f",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/sciences-de-la-terre/geologie/tectonique-des-plaques": {
+    "quality": "validee",
+    "fingerprint": "e48b0ec9a61e1114454e07c37f936260309f2ba76f1d540b8b0de245ee35f2a6",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes/volcans-et-tremblements-de-terre": {
+    "quality": "validee",
+    "fingerprint": "30c2e090492a389f1ad022ff4935e5616b90b8e235f3c4f14d95ada0db04a9ec",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/physique/mecanique/pendule-mesure-temps": {
+    "quality": "validee",
+    "fingerprint": "4ac99be07b7b97b3923c775af77899c7dba4c157e4173270250eb700b7b8e755",
+    "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/physique/electromagnetisme/tension-courant-resistance": {
+    "quality": "validee",
+    "fingerprint": "4174298f1364c3f0175a5dad5ed7e54c4e486f49dc8b8b98bcbd8edadd55d457",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/physique/electromagnetisme/lentilles-optique": {
+    "quality": "validee",
+    "fingerprint": "65760aec8a42562313bc52c992c4308276f0e8c62260eb2fa8de1d7968332c4b",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/chimie/chimie-organique/distillation": {
+    "quality": "validee",
+    "fingerprint": "365846fe58ea811d6be51c428440cf2037d7b58f1bb142f39345956dc86bce8a",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/mathematiques/algebre/numeration-position-zero": {
+    "quality": "validee",
+    "fingerprint": "b2660bf43e50d30055fbb8311bc0196ff4a7d6e9b25063dfe4eceb755c638920",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/sciences-de-la-terre/geologie/trouver-eau-souterraine": {
+    "quality": "validee",
+    "fingerprint": "b852cf4dd2788b12dd947af1a5dfc0d2c03e2f420a1f07579d9fcb86bb04841b",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/biologie/cellule/comment-une-feuille-fabrique-t-elle-du-sucre-avec-de-la-lumiere": {
+    "quality": "validee",
+    "fingerprint": "5c2fc9836a6944073ff161b7d675baaa9eed10060d7dbbdae2c7f4ad63331e2b",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/chimie/chimie-organique/comment-fabrique-t-on-du-savon-avec-de-l-huile": {
+    "quality": "validee",
+    "fingerprint": "1f780e7b92d8fa2c9c2a5bc189847e992d4f5387c2c33d84bd68848a7b12444f",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/physique/electromagnetisme/comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite": {
+    "quality": "validee",
+    "fingerprint": "8a63c43e7611177df6f4e0d958060f2d37c8e4eb457dfa8db971df96b7e360d9",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/sciences-de-la-terre/oceanographie/comment-la-lune-fait-elle-monter-et-descendre-la-mer": {
+    "quality": "validee",
+    "fingerprint": "7c90a929c6e349855ee54866624d8a55b347ee01a29bbc09844572a39ac79ea0",
+    "evidence": "docs/qa/lesson-visuals-astronomy/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-fondamentales/physique/mecanique/pourquoi-un-bateau-en-acier-flotte-t-il": {
+    "quality": "validee",
+    "fingerprint": "7f17a6ab45380ee39882a25f0794afd3e7bc58861ccde500ca5b2d529618e4d3",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/sciences-humaines-et-sociales/histoire/methode-historique/comment-le-carbone-14-permet-il-de-dater-un-os-ou-un-morceau-de-bois": {
+    "quality": "validee",
+    "fingerprint": "db57119f8422e754e415df8157822cfbd45aa144d5016dad3c9f4365228bb848",
+    "evidence": "docs/qa/lesson-visuals-2026-11-08/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/technologies-et-ingenierie/robotique/actionneurs/engrenages-courroies-transmissions": {
+    "quality": "validee",
+    "fingerprint": "398be830596fdd37c5fd3092087205e1e57640e160a07fa76f939090e138bf2a",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/technologies-et-ingenierie/genie-civil/ouvrages-dart/comment-une-ecluse-fait-elle-monter-un-bateau-sans-aucune-pompe": {
+    "quality": "validee",
+    "fingerprint": "05cf9e1e812e571fb7b2c6d601411eb0d6c07e901d1fa26af75d8b808940e8f8",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/technologies-et-ingenierie/genie-civil/structures/le-levier-la-poulie-et-le-plan-incline-en-construction": {
+    "quality": "validee",
+    "fingerprint": "b632d406ee164e5a2533213ed42e2242b39ac834adf694fd9c9a8106d048ed58",
+    "evidence": "docs/collaboration/VISUAL_QUALITY_REVIEW_2026-11-07.md",
+    "reviewedAt": "2026-11-07",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/technologies-et-ingenierie/robotique/actionneurs/comment-un-verin-hydraulique-donne-t-il-une-force-enorme-a-une-machine": {
+    "quality": "validee",
+    "fingerprint": "1b11840bf63f087c36b9bccbf96c0c758be50972120f592b69e537b99fe1a98c",
+    "evidence": "docs/qa/lesson-visuals-2026-11-07/README.md",
+    "reviewedAt": "au plus tard le 2026-11-09",
+    "reason": "Reprise des recettes documentées antérieures ; pas une nouvelle inspection visuelle aujourd’hui."
+  },
+  "/communication-et-medias/histoire-des-medias/radio-et-television/naissance-de-la-radiodiffusion": {
+    "quality": "validee",
+    "fingerprint": "28ce9783f8a2421e37e633ff26093d62b6b8eecd766cddf1c0a7736b6efd1565",
+    "evidence": "docs/qa/lesson-visuals-radio/README.md",
+    "reviewedAt": "2026-11-11",
+    "reason": "Recette visuelle et fonctionnelle documentée."
+  },
+  "/communication-et-medias/histoire-des-medias/radio-et-television/pourquoi-les-ondes-courtes-peuvent-elles-porter-la-radio-a-l-autre-bout-du-monde": {
+    "quality": "validee",
+    "fingerprint": "c456c27499b540a6d4291d28a108fd61baf3eb463b21507fceca27c4c6e221ab",
+    "evidence": "docs/qa/lesson-visuals-radio/README.md",
+    "reviewedAt": "2026-11-11",
+    "reason": "Recette visuelle et fonctionnelle documentée."
+  },
+  "/communication-et-medias/histoire-des-medias/radio-et-television/comment-un-poste-a-galene-capte-t-il-la-radio-sans-pile-ni-prise": {
+    "quality": "validee",
+    "fingerprint": "048bd776e9e471a2b880661fb1a8493a2cf417deb3217ebca5b2820c35b1afdf",
+    "evidence": "docs/qa/lesson-visuals-radio/README.md",
+    "reviewedAt": "2026-11-11",
+    "reason": "Recette visuelle et fonctionnelle documentée."
+  },
+  "/communication-et-medias/histoire-des-medias/radio-et-television/comment-la-tsf-a-t-elle-permis-d-envoyer-des-messages-sans-fil": {
+    "quality": "validee",
+    "fingerprint": "66b8e3d1b9db71a12a0a225a58c337e4a36b0dec620af2a2bef29e9277dcadbf",
+    "evidence": "docs/qa/lesson-visuals-radio/README.md",
+    "reviewedAt": "2026-11-11",
+    "reason": "Recette visuelle et fonctionnelle documentée."
+  },
+  "/communication-et-medias/histoire-des-medias/radio-et-television/comment-la-television-est-elle-passee-du-noir-et-blanc-a-la-couleur": {
+    "quality": "validee",
+    "fingerprint": "bd129dc160245b059e020fdaa49d7471d5b74b64aaf51cfba1b00bd4e556ba11",
+    "evidence": "docs/qa/lesson-visuals-radio/README.md",
+    "reviewedAt": "2026-11-11",
+    "reason": "Recette visuelle et fonctionnelle documentée."
+  }
+}

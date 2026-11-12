@@ -6,7 +6,11 @@ Continuer jusqu’à ce que toutes les leçons visibles dans l’application dis
 
 ## État structurel actuel
 
-**166 articles distincts ont un dessin spécifique ; 730 restent à concevoir.** Cela correspond à 119 nouveaux dessins pour 147 chemins d’articles, auxquels s’ajoutent les vingt anciens ateliers (un article a un ancien atelier et un complément nouveau).
+Le suivi quotidien est désormais la [file backend persistante](ILLUSTRATION_BACKEND.md), limitée aux leçons publiées, avec un objectif de lancement d’environ 1 000 leçons. Claude crée les sujets ; Codex réalise et vérifie leurs illustrations. Les CSV sont des exports, pas une seconde file de réservation.
+
+Photographie des références : [inventaire](VISUAL_INVENTORY.csv) et [synthèse](VISUAL_INVENTORY_SUMMARY.md).
+
+**200 articles distincts ont un dessin spécifique ; 696 restent à concevoir.** Cela correspond à 153 nouveaux dessins pour 181 chemins d’articles, auxquels s’ajoutent les vingt anciens ateliers (un article a un ancien atelier et un complément nouveau).
 
 Cet état n’est pas une affirmation que tous les sous-sujets d’un article sont illustrés. Une association est décidée après lecture de la leçon et de son objectif, jamais par simple correspondance automatique de mots-clés.
 
@@ -46,6 +50,14 @@ Poursuivre les autres domaines, en commençant par les communications et médias
 
 Les fichiers de suivi des preuves restent distincts des documents de Claude. Les contenus éditoriaux, dates de vérification et secrets restent inchangés. La base de travail est locale et isolée ; aucune commande de seed ou de test global destructif n’est utilisée.
 
-## Point de reprise après sauvegarde Git
+## Mise à jour du 11 novembre 2026
 
-À la demande de l’utilisateur du 9 novembre 2026, création interrompue pour commit et push. Aucun schéma supplémentaire n’est commencé dans le code. Le domaine communication et médias compte 39 associations encore à concevoir : les cinq articles radio/TSF/télévision couleur ont été lus, mais aucun nouveau dessin ni modèle n’a été intégré pour eux. Le catalogue complet reste à terminer.
+Les cinq illustrations radio/TV sont terminées et vérifiées : radiodiffusion, ondes courtes, galène, TSF/Morse et télévision couleur. Quinze états testés dans la version compilée, à côté des contrôles mobiles et de la relecture visuelle. [Rapport et captures](../qa/lesson-visuals-radio/README.md).
+
+Le backend dispose de statuts, preuves et réservations atomiques. Une publication rejoint automatiquement la file ; un texte modifié fait repasser le visuel en revue. Aucun brouillon n’entre dans le travail d’illustration. Les données de production n’ont pas été modifiées ; la migration et l’initialisation sont testées uniquement dans la base locale isolée.
+
+## Lot énergie — 29 illustrations supplémentaires
+
+29 dessins spécifiques associés à 29 leçons publiées : bâtiments et chaleur, conversion mécanique, électrochimie, réseaux et stockage, nucléaire, bilans énergétiques. 87 états vérifiés sur téléphone et dans la version compilée. Les 124 dessins antérieurs, dans leurs 372 états, conservent exactement leur balisage. [Rapport, références et captures](../qa/lesson-visuals-energy29/README.md).
+
+Les 29 validations ont été enregistrées dans le backend local puis exportées avec les 171 précédentes. Total : 200 prêtes, 696 en attente, aucune réservation résiduelle. Aucun audit global relancé pour ce lot, aucun sujet créé, aucun déploiement ni import en production.

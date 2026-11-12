@@ -312,8 +312,11 @@ Ces usages sont beaucoup plus difficiles à remplacer que la combustion, et ils 
 - Plastiques, engrais et médicaments dépendent aussi du pétrole.
 
 ```schema
-type: chiffres
 titre: Pourquoi le pétrole est si difficile à remplacer
+legende: >-
+  Ordre de grandeur d’énergie stockée, sans tenir compte des rendements d’utilisation ni de
+  l’autonomie.
+type: chiffres
 chiffres:
   - valeur: 1 litre
     texte: d'essence contient autant d'énergie que 40 kg de batteries
@@ -711,14 +714,16 @@ transition, souvent absente des comparaisons de prix par kilowattheure.
 - Le coût du solaire a chuté de plus de 90 % en quinze ans.
 
 ```schema
-type: chiffres
 titre: Les repères des renouvelables
+type: chiffres
 chiffres:
   - valeur: 600 GW
     texte: de solaire installés dans le monde en 2025, environ
   - valeur: 32 % → 43 %
-    texte: part des renouvelables dans l'électricité d'ici 2030
-  - valeur: "-90 %"
+    texte: >-
+      Projection de la part des renouvelables dans l’électricité à l’horizon 2030, selon le scénario
+      cité.
+  - valeur: '-90 %'
     texte: baisse du coût du solaire en quinze ans
 ```
 
@@ -838,15 +843,15 @@ d'atténuation, comme l'arrêt temporaire des machines lors des périodes de mig
 - Le recyclage des pales composites reste une difficulté.
 
 ```schema
-type: chiffres
 titre: L'éolien en 2024
+type: chiffres
 chiffres:
   - valeur: 117 GW
     texte: installés dans l'année
   - valeur: 1 136 GW
     texte: de parc mondial
   - valeur: Cube
-    texte: la puissance varie comme le cube de la vitesse du vent
+    texte: Puissance disponible dans le vent à surface constante ; la machine a ses limites propres.
 ```
 
 ---
@@ -1487,13 +1492,13 @@ surestiment systématiquement leurs résultats, parce qu'elles raisonnent à usa
 - Les prévisions à usage constant surestiment les économies réelles.
 
 ```schema
-type: comparaison
 titre: Efficacité ou sobriété
+type: comparaison
 colonnes:
   - titre: Efficacité
     points:
       - Le même service avec moins d'énergie
-      - Une pompe à chaleur rend trois à quatre fois l'électricité consommée
+      - Une pompe à chaleur transfère aussi de la chaleur prélevée dans l’environnement.
   - titre: Sobriété
     points:
       - On réduit le service lui-même
@@ -1614,18 +1619,18 @@ hiérarchiser, et ne pas s'épuiser sur un poste marginal en ayant le sentiment 
 - Éteindre les veilles est utile mais marginal au regard des autres postes.
 
 ```schema
-type: etapes
-titre: Les leviers par ordre d'efficacité
-elements:
-  - titre: Le chauffage
-    texte: Il domine largement la consommation d'un logement.
-    icone: fire
-  - titre: Isoler les combles
-    texte: Souvent le meilleur rapport coût-économie.
-  - titre: Pompe à chaleur
-    texte: Elle divise par trois ou quatre la consommation de chauffage.
-  - titre: Les veilles
-    texte: Utile, mais marginal.
+titre: Des leviers à adapter au logement
+type: systeme
+centre: Consommation du logement
+parties:
+  - nom: Chauffage
+    role: Un poste important dans de nombreux logements.
+  - nom: Isolation
+    role: Priorités à déterminer selon le bâti.
+  - nom: Pompe à chaleur
+    role: Gain dépendant du climat, de l’installation et du système remplacé.
+  - nom: Usages permanents
+    role: Réduire les consommations inutiles.
 ```
 
 ---
@@ -1864,18 +1869,15 @@ faut-il pouvoir récupérer les déchets plus tard, si une meilleure solution ap
 - Le stockage géologique profond vise une barrière passive, sans surveillance perpétuelle.
 
 ```schema
-type: comparaison
 titre: Activité et durée de vie, deux critères
+type: comparaison
 colonnes:
-  - titre: Très actifs
+  - titre: Activité
     points:
-      - Faible volume
-      - Concentrent l'essentiel de la radioactivité
-      - Stockage géologique profond envisagé
-  - titre: Peu actifs
+      - Intensité de la radioactivité à une date donnée.
+  - titre: Durée de vie
     points:
-      - Grand volume
-      - Faible radioactivité
+      - La demi-vie décrit le temps pour diviser par deux l’activité d’un radionucléide isolé.
 ```
 
 ---
@@ -1999,8 +2001,8 @@ solution pour la décennie en cours.
 - La production d'électricité sur le réseau reste une échéance lointaine.
 
 ```schema
-type: comparaison
 titre: Fission ou fusion
+type: comparaison
 colonnes:
   - titre: Fission
     icone: atom
@@ -2011,8 +2013,8 @@ colonnes:
     icone: sun
     points:
       - Assemble des noyaux légers
-      - Plus de cent millions de degrés
-      - Plasma confiné par un champ magnétique
+      - Des conditions de température et de confinement très exigeantes.
+      - Confinement magnétique dans les tokamaks, par exemple.
 ```
 
 ---
@@ -2128,16 +2130,16 @@ panneau préfère une journée froide et lumineuse à une canicule.
 - Le rendement diminue quand la température monte.
 
 ```schema
-type: etapes
 titre: De la lumière au courant
+type: etapes
 elements:
   - titre: Lumière
     texte: Elle frappe le silicium.
     icone: sun
-  - titre: Électrons libérés
-    texte: La lumière arrache des électrons.
+  - titre: Charges mobiles
+    texte: Les photons peuvent créer des paires électron-trou dans le matériau.
   - titre: Champ interne
-    texte: Il oriente les électrons dans un sens.
+    texte: Il contribue à séparer ces charges.
   - titre: Courant
     texte: Environ 20 à 22 % de la lumière convertie.
     icone: bolt
@@ -2262,8 +2264,11 @@ largement concurrencées.
 - La chaleur stockée dans des sels fondus permet de produire après le coucher du soleil.
 
 ```schema
-type: etapes
 titre: Une centrale solaire à concentration
+legende: >-
+  Exemple avec stockage par sels fondus ; l’installation et la réserve de chaleur conditionnent la
+  production après le coucher du soleil.
+type: etapes
 elements:
   - titre: Miroirs mobiles
     texte: Ils concentrent le rayonnement.
@@ -2662,13 +2667,13 @@ malentendus dans le débat public.
 - Comparer des chiffres d'énergie sans préciser lesquels conduit à des erreurs.
 
 ```schema
+titre: De l’énergie primaire à l’énergie finale
 type: etapes
-titre: De l'énergie primaire à l'énergie utile
 elements:
   - titre: Énergie primaire
     texte: Celle disponible dans la nature.
   - titre: Transformation
-    texte: Une centrale thermique ne convertit qu'environ un tiers du combustible.
+    texte: Une partie de l’énergie est convertie ; une autre est dissipée ou valorisée ailleurs.
     icone: factory
   - titre: Énergie finale
     texte: Celle livrée à l'usager.
@@ -2876,9 +2881,9 @@ Un méthaniseur, ou digesteur, est une cuve étanche. On y introduit la matière
 usage. La matière digérée ressort de l'autre côté.
 
 ```schema
-type: etapes
 titre: Du fumier au méthane
-legende: Trois groupes de microbes travaillent à la suite, sans oxygène.
+legende: Plusieurs groupes microbiens coopèrent, sans oxygène, dans un procédé simplifié ici.
+type: etapes
 elements:
   - titre: Découper
     texte: Cellulose, graisses et protéines deviennent des molécules simples.
@@ -3138,9 +3143,9 @@ légère, elle indique que la carbonisation est terminée. Il étouffe alors la 
 refroidir avant d'ouvrir, sinon le charbon s'enflamme au contact de l'air.
 
 ```schema
-type: echelle
 titre: Ce qui se passe quand on carbonise du bois
-legende: Températures indicatives de la pyrolyse.
+legende: Chauffage à apport d’oxygène limité ; températures indicatives, pas un protocole.
+type: echelle
 unite: °C
 min: 0
 max: 500
@@ -3155,7 +3160,7 @@ zones:
     ton: attention
   - de: 400
     a: 500
-    label: Il ne reste presque que du carbone, le charbon de bois
+    label: Résidu riche en carbone, avec cendres et composés résiduels
     ton: normal
 ```
 
@@ -3350,9 +3355,11 @@ La machine a donc trois parties essentielles :
 - un **mécanisme**, comme une bielle et une manivelle, qui transforme le va-et-vient en rotation.
 
 ```schema
+titre: Une machine à vapeur à piston
+legende: >-
+  Exemple à piston et bielle-manivelle ; les turbines convertissent autrement l’énergie de la
+  vapeur.
 type: etapes
-titre: De la chaleur au mouvement
-legende: Le principe commun à toutes les machines à vapeur, des pompes de mine aux turbines.
 elements:
   - titre: Chauffer
     texte: Le foyer brûle du bois ou du charbon sous la chaudière.
@@ -3381,24 +3388,24 @@ machines fonctionnent, mais elles gaspillent énormément : moins de 1 % de l'é
 devient du travail utile.
 
 ```schema
-type: frise
 titre: Trois siècles de vapeur
+type: frise
 evenements:
   - date: Ier siècle
     titre: L'éolipile de Héron
     texte: Une sphère qui tourne sous des jets de vapeur.
-  - date: 1712
+  - date: '1712'
     titre: Machine de Newcomen
     texte: Elle pompe l'eau des mines anglaises.
-  - date: 1769
+  - date: '1769'
     titre: Condenseur séparé de Watt
     texte: Environ trois fois moins de charbon consommé.
-  - date: 1829
+  - date: '1829'
     titre: La Rocket des Stephenson
     texte: La locomotive dépasse 40 km/h.
-  - date: 1884
+  - date: '1884'
     titre: Turbine de Parsons
-    texte: Elle produit encore l'électricité des centrales.
+    texte: Le principe des turbines à vapeur est encore utilisé dans des centrales.
 ```
 
 ## L'amélioration de James Watt
@@ -4372,8 +4379,8 @@ de conditions météorologiques changeantes.
 - Contrairement au solaire ou à l'éolien, elles produisent en continu tant que l'eau coule.
 
 ```schema
-type: etapes
 titre: Une microcentrale au fil de l'eau
+type: etapes
 elements:
   - titre: Prise d'eau
     texte: Une partie du cours d'eau est détournée.
@@ -4381,7 +4388,7 @@ elements:
   - titre: Chute
     texte: Hauteur et débit fixent la puissance.
   - titre: Turbine
-    texte: Elle tourne en continu.
+    texte: Elle fonctionne lorsque débit et conditions d’exploitation le permettent.
     icone: turbine
   - titre: Générateur
     texte: Il alimente quelques habitations.
@@ -4719,8 +4726,11 @@ son ion est plus gros et plus lourd, ce qui impose d'autres matériaux :
   plancher, d'autant que le prix du lithium a beaucoup baissé depuis 2023.
 
 ```schema
-type: comparaison
 titre: Sodium-ion ou lithium-ion
+legende: >-
+  Caractéristiques de chimies courantes, pas de toutes les cellules ; les performances dépendent de
+  la conception.
+type: comparaison
 colonnes:
   - titre: Sodium-ion
     points:
@@ -4930,8 +4940,11 @@ simple du principe de l'électrolyse.
 - Une expérience simple avec de l'eau salée et un courant faible illustre ce principe.
 
 ```schema
-type: systeme
 titre: Un électrolyseur
+legende: >-
+  Principe de l’électrolyse de l’eau en conditions contrôlées ; volumes de gaz comparés aux mêmes
+  température et pression.
+type: systeme
 centre: Courant électrique dans l'eau
 icone: bolt
 parties:
@@ -5204,17 +5217,18 @@ chaleur. La qualité de la pose compte autant que la qualité du matériau lui-m
 - Une isolation mal posée ou humide perd une grande partie de son efficacité.
 
 ```schema
-type: etapes
-titre: Isoler dans le bon ordre
-elements:
-  - titre: Le toit
-    texte: L'air chaud s'y accumule et s'échappe en premier.
-    icone: house
-  - titre: Les murs
-  - titre: Les fenêtres
-    texte: Le double vitrage réduit fortement les pertes.
-  - titre: Les ponts thermiques
-    texte: Les points faibles cachés.
+titre: Les parties de l’enveloppe à traiter
+legende: La priorité des travaux dépend du diagnostic du bâtiment.
+type: systeme
+centre: Enveloppe du bâtiment
+parties:
+  - nom: Le toit
+    role: Limite des transferts par la partie supérieure de l’enveloppe.
+  - nom: Les murs
+  - nom: Les fenêtres
+    role: Le double vitrage réduit fortement les pertes.
+  - nom: Les ponts thermiques
+    role: Les points faibles cachés.
 ```
 
 ---
@@ -5448,8 +5462,8 @@ installations industrielles de grande capacité.
 - Elle s'adapte à de nombreuses échelles, d'un immeuble à une installation industrielle.
 
 ```schema
-type: comparaison
 titre: Centrale classique ou cogénération
+type: comparaison
 colonnes:
   - titre: Centrale classique
     points:
@@ -5458,7 +5472,7 @@ colonnes:
   - titre: Cogénération
     points:
       - Électricité et chaleur utile ensemble
-      - Rendement global proche de 90 %
+      - La chaleur récupérée est utile lorsqu’un besoin existe.
 ```
 
 ---
@@ -5774,16 +5788,16 @@ Le savant français Joseph Fourier a décrit le principe en 1822. Aux États-Uni
 Attention : seulement 10 à 15 % de la chaleur d'un logement part par les fenêtres. Le double vitrage aide, mais isoler les murs et le toit compte aussi. Il apporte d'autres avantages : moins de bruit et moins de buée sur les vitres.
 
 ```schema
-type: systeme
 titre: Ce qui isole dans un double vitrage
+type: systeme
 centre: Double vitrage
 parties:
   - nom: Deux vitres
     role: Séparées par une lame de gaz.
   - nom: Gaz immobile
     role: Air, argon ou krypton, qui conduisent mal la chaleur.
-  - nom: Couche métallique invisible
-    role: Elle renvoie la chaleur vers la pièce.
+  - nom: Couche faible émissivité, si présente
+    role: Limite une partie des échanges par rayonnement.
   - nom: Coefficient U
     role: Plus il est petit, mieux la fenêtre isole.
 ```
@@ -5907,8 +5921,9 @@ L'inertie thermique est très utile là où il fait chaud le jour et frais la nu
 Elle est moins utile dans une pièce occupée seulement de temps en temps. Les murs lourds mettent du temps à se réchauffer, et le chauffage doit d'abord les chauffer eux.
 
 ```schema
-type: cycle
 titre: L'inertie thermique au fil d'une journée d'été
+legende: L’aération nocturne évacue de la chaleur lorsque l’air extérieur est plus frais.
+type: cycle
 elements:
   - titre: Jour
     texte: Le mur épais absorbe la chaleur.
@@ -6467,17 +6482,18 @@ Une veille de 0,5 watt consomme peu. Mais une maison contient beaucoup d'apparei
 On peut débrancher les petits appareils qui ne servent pas souvent : machine à café, bouilloire, imprimante, enceintes, chargeurs. Une multiprise à interrupteur permet de couper plusieurs appareils d'un seul geste. En revanche, il vaut mieux laisser branchés le réfrigérateur et le four. Le lave-linge et le lave-vaisselle peuvent aussi rester branchés, car certains surveillent les fuites d'eau.
 
 ```schema
-type: barres
-titre: Consommation maximale en veille
-unite: W
-valeurs:
-  - label: Autrefois
-    valeur: 15
-    note: 10 à 15 W
-  - label: Europe depuis 2010
-    valeur: 1
-  - label: Europe depuis 2013
-    valeur: 0.5
+type: comparaison
+titre: En marche ou en veille
+legende: >-
+  La consommation dépend de l’appareil et de ses fonctions ; pas de seuil réglementaire universel
+  illustré ici.
+colonnes:
+  - titre: En marche
+    points:
+      - L’appareil assure sa fonction principale.
+  - titre: En veille
+    points:
+      - Des circuits restent alimentés, par exemple pour une commande ou une connexion.
 ```
 
 ## À retenir
@@ -7442,8 +7458,8 @@ Les dérivés du pétrole sont partout :
 Selon l'Agence internationale de l'énergie, la pétrochimie pourrait représenter près de la moitié de la hausse de la demande de pétrole d'ici 2050. La raison principale est l'augmentation de la consommation de plastique dans les pays émergents. Certaines briques de base peuvent aussi être fabriquées à partir de plantes, comme le maïs ou la canne à sucre.
 
 ```schema
+titre: Du pétrole et du gaz aux polymères
 type: etapes
-titre: Du pétrole aux plastiques
 elements:
   - titre: Pétrole et gaz
   - titre: Vapocraquage
@@ -7451,7 +7467,7 @@ elements:
   - titre: Polymérisation
     texte: Les petites molécules s'assemblent en longues chaînes.
   - titre: Produits
-    texte: Plastiques, textiles, médicaments.
+    texte: Plastiques et fibres textiles ; les médicaments suivent d’autres voies de synthèse.
 ```
 
 ## À retenir
@@ -10842,9 +10858,11 @@ des fusées, où chaque kilogramme compte. Les deux façons d'en tirer de l'éne
   l'électricité, avec un meilleur rendement.
 
 ```schema
-type: barres
 titre: L'énergie contenue dans un kilogramme de carburant
-legende: Valeurs approximatives ; par litre, l'hydrogène gazeux est au contraire très peu énergétique.
+legende: >-
+  Pouvoirs calorifiques inférieurs approximatifs ; par litre, le classement change fortement pour
+  l’hydrogène gazeux.
+type: barres
 unite: MJ/kg
 valeurs:
   - label: Hydrogène
@@ -11063,11 +11081,11 @@ Avec de l'hydrogène pur, la pile n'émet que de la chaleur et de l'eau, sans po
 La NASA a utilisé des piles à combustible alcalines pour alimenter des engins spatiaux, dont les missions Apollo. Les premières piles de laboratoire ont été réalisées par William Grove au XIXe siècle.
 
 ```schema
+titre: Dans une pile à membrane échangeuse de protons
 type: etapes
-titre: Dans une pile à hydrogène
 elements:
-  - titre: Hydrogène
-    texte: Il arrive d'un côté de la membrane.
+  - titre: Hydrogène et oxygène
+    texte: Ils alimentent deux électrodes séparées.
   - titre: Membrane
     texte: Elle laisse passer les protons, pas les électrons.
   - titre: Circuit extérieur
@@ -11358,13 +11376,13 @@ En France, le réseau de transport, géré par RTE, fonctionne entre 63 000 et 4
 La production et la consommation doivent s'équilibrer à chaque instant, car l'électricité est consommée au moment où elle est produite. Sur un même grand réseau, tous les alternateurs produisent un courant à la même fréquence, différente en Europe et en Amérique du Nord, et un écart de fréquence sert de signal pour ajuster la production. Relier de grandes régions permet de mutualiser la production, de baisser les coûts et de s'entraider.
 
 ```schema
-type: etapes
 titre: De la centrale à la prise
+type: etapes
 elements:
   - titre: Centrale
     icone: factory
   - titre: Élever la tension
-    texte: Moins de courant, donc moins de pertes.
+    texte: 'À puissance transportée donnée : moins de courant, donc moins de pertes résistives.'
   - titre: Lignes à haute tension
     texte: Sur de longues distances.
   - titre: Postes
@@ -11578,8 +11596,11 @@ Le 28 avril 2025, à 12 h 33, l'Espagne et le Portugal ont perdu presque toute l
 Pour éviter l'effondrement, on pratique le délestage : on coupe volontairement l'électricité de certains clients. En Europe, des coupures automatiques se déclenchent quand la fréquence descend entre 49 et 47,5 hertz. Le 4 novembre 2006, ce délestage automatique a sans doute évité une panne de tout le réseau européen. Les gestionnaires gardent aussi des centrales en réserve, relient leurs réseaux à ceux des pays voisins et enterrent certaines lignes.
 
 ```schema
-type: etapes
 titre: L'effet domino d'un black-out
+legende: >-
+  Cascade possible si les autres moyens ne stabilisent pas le réseau ; les protections visent aussi
+  à isoler les défauts.
+type: etapes
 elements:
   - titre: Un petit incident
     texte: Une ligne ou une centrale décroche.
@@ -15807,8 +15828,8 @@ status: published
 Les pales tournent grâce à la portance, des engrenages accélèrent le rotor et la génératrice produit le courant. La limite de Betz plafonne le rendement à 59,3 %.
 
 ```schema
-type: etapes
 titre: Du vent au courant électrique
+type: etapes
 elements:
   - titre: Le vent
     texte: Son énergie cinétique fait tourner les pales.
@@ -15816,7 +15837,7 @@ elements:
     texte: La portance tire chaque pale.
     icone: turbine
   - titre: Les engrenages
-    texte: Ils accélèrent la rotation du rotor.
+    texte: Sur les modèles à multiplicateur, ils accélèrent l’axe de la génératrice.
     icone: gear
   - titre: La génératrice
     texte: Elle produit le courant.
@@ -16053,17 +16074,17 @@ Plus de 95 % de l'électricité produite est décarbonée : elle vient du nuclé
 La France a exporté 92,3 TWh de plus qu'elle n'en a importé, un record. La France est le premier exportateur net d'électricité au monde. Ces ventes nettes ont rapporté environ 5,4 milliards d'euros.
 
 ```schema
+titre: Deux composantes de la production française en 2025
+legende: >-
+  Production, pas consommation ; comparaison partielle, sans l’éolien, le solaire ni les autres
+  sources.
 type: barres
-titre: Production d'électricité en France par source
-legende: Chiffres de l'article, en térawattheures.
 unite: TWh
 valeurs:
   - label: Nucléaire
     valeur: 373
   - label: Hydraulique
     valeur: 62.4
-  - label: Solaire
-    valeur: 32.9
 ```
 
 ## Produire n'est pas consommer
@@ -16660,8 +16681,9 @@ la **géothermie**, la chaleur interne de la Terre.
 - **La biomasse** libère par combustion ou fermentation l'énergie stockée par les plantes.
 
 ```schema
+titre: Une chaîne possible d’énergie renouvelable
+legende: Conversions et stockage varient selon la source et l’usage ; le stockage est facultatif.
 type: etapes
-titre: La chaîne de toute énergie renouvelable
 elements:
   - titre: Capter
     texte: Panneau, capteur, éolienne, turbine, pompe à chaleur.
@@ -17029,9 +17051,9 @@ elements:
    hydraulique pour les semaines grises, plutôt que des panneaux et des batteries surdimensionnés.
 
 ```schema
-type: barres
-titre: Production quotidienne d'un panneau, été contre hiver
+titre: Durée équivalente de plein soleil, été contre hiver
 legende: Heures équivalentes de plein soleil par jour dans le nord de la France, ordres de grandeur.
+type: barres
 unite: h
 valeurs:
   - label: Juillet

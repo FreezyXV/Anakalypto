@@ -727,14 +727,17 @@ en club, et pas seulement l'exercice individuel.
 - L'accessibilité matérielle explique la diffusion mondiale du football.
 
 ```schema
-type: chiffres
 titre: Le football dans le monde
+legende: >-
+  Ordres de grandeur du recensement cité dans la leçon ; ce ne sont pas des effectifs actualisés en
+  temps réel.
+type: chiffres
 chiffres:
   - valeur: 265 millions
     texte: de pratiquants environ
   - valeur: 10 %
     texte: de femmes environ
-  - valeur: "> 38 millions"
+  - valeur: '> 38 millions'
     texte: de licenciés
 ```
 
@@ -1145,8 +1148,11 @@ sur les institutions chargées des contrôles.
 - Le passeport biologique détecte les effets plutôt que les substances.
 
 ```schema
-type: chiffres
 titre: Le dopage en 2023
+legende: >-
+  Indicateurs différents ; un résultat anormal n’est pas automatiquement une sanction et ces nombres
+  ne mesurent pas la prévalence du dopage.
+type: chiffres
 chiffres:
   - valeur: 2 301
     texte: résultats anormaux
@@ -1779,16 +1785,19 @@ Une fois la douleur aiguë passée, des exercices progressifs de mobilité et de
 - Une douleur qui s'aggrave ou l'impossibilité de marcher justifient de consulter.
 
 ```schema
+titre: Premiers soins après une entorse de cheville
+legende: >-
+  Arrêter l’activité et faire évaluer la blessure ; ces mesures ne remplacent pas le diagnostic ni
+  la rééducation adaptée.
 type: etapes
-titre: La méthode RICE
 elements:
   - titre: Repos
     texte: Pour ne pas aggraver la lésion.
   - titre: Glace
-    texte: Pour limiter l'enflure.
+    texte: Froid protégé par un linge, jamais directement sur la peau.
     icone: snowflake
   - titre: Compression
-    texte: Pour stabiliser.
+    texte: Compression douce, sans gêner la circulation.
   - titre: Élévation
     texte: Pour drainer.
 ```
@@ -2425,8 +2434,9 @@ calmement, puis reprendre progressivement la nage ou attendre de l'aide.
 - En cas de panique, flotter calmement sur le dos permet de reprendre le contrôle avant d'agir.
 
 ```schema
-type: etapes
 titre: Les étapes pour apprendre à nager
+legende: Apprentissage encadré ; rester accompagné et dans une zone adaptée pendant toute la séance.
+type: etapes
 elements:
   - titre: Flotter sur le dos
     texte: La compétence de base.
@@ -3033,12 +3043,15 @@ mêmes risques.
 - Reposer une charge nécessite les mêmes précautions que la soulever.
 
 ```schema
-type: etapes
 titre: Soulever sans se blesser
+legende: >-
+  Évaluer le poids et privilégier une aide si nécessaire ; aucun geste ne garantit à lui seul
+  l’absence de blessure.
+type: etapes
 elements:
   - titre: Position stable
   - titre: Plier les genoux
-    texte: Pas le dos.
+    texte: Adapter la prise à la charge, en évitant une flexion excessive sous charge.
   - titre: Charge près du corps
   - titre: Pousser avec les jambes
   - titre: Ne pas tourner le buste
@@ -4115,20 +4128,14 @@ Le papillon, lui, est né d'une façon de nager la brasse avec les deux bras ram
 Dans le 4 nages individuel, le nageur enchaîne papillon, dos, brasse et crawl.
 
 ```schema
-type: barres
+type: etapes
 titre: Les quatre nages, de la plus rapide à la plus lente
-unite: ""
-valeurs:
-  - label: Crawl
-    valeur: 4
-    note: la plus rapide
-  - label: Papillon
-    valeur: 3
-  - label: Dos
-    valeur: 2
-  - label: Brasse
-    valeur: 1
-    note: la plus lente
+legende: Classement qualitatif des quatre nages ; les écarts de vitesse ne sont pas chiffrés.
+elements:
+  - titre: Crawl
+  - titre: Papillon
+  - titre: Dos
+  - titre: Brasse
 ```
 
 ## À retenir
@@ -4774,8 +4781,8 @@ Après un ou deux jours de repos, le retour se fait par étapes. On commence par
 Un repos trop long n'est pas conseillé, car il peut gêner la guérison. La plupart des personnes guérissent en moins de quatre semaines. Chez les enfants, la guérison prend souvent plus de temps que chez les adultes.
 
 ```schema
-type: etapes
 titre: Face à une commotion cérébrale
+type: etapes
 elements:
   - titre: Choc
     texte: Le cerveau est secoué dans le crâne.
@@ -4783,7 +4790,9 @@ elements:
   - titre: Signes discrets
     texte: Moins d'une commotion sur dix fait perdre connaissance.
   - titre: Dans le doute, on sort
+    texte: Arrêter le jeu et obtenir une évaluation médicale.
   - titre: Reprise progressive
+    texte: Selon une prise en charge adaptée, sans retour immédiat au jeu.
 ```
 
 ## À retenir
@@ -5534,16 +5543,15 @@ Si l'on s'expose plusieurs fois à la chaleur, le corps s'adapte : c'est l'accli
 Pour faire du sport quand il fait très chaud, les médecins conseillent d'éviter les heures les plus chaudes. Ils recommandent de boire en se guidant sur sa soif, de porter des vêtements clairs et légers, et d'augmenter l'effort petit à petit.
 
 ```schema
-type: etapes
 titre: La sueur, climatiseur naturel
+legende: 'Un air humide freine l’évaporation : transpirer ne garantit pas un refroidissement suffisant.'
+type: etapes
 elements:
   - titre: Effort
     texte: Le corps produit de la chaleur.
   - titre: Sueur
   - titre: Évaporation
     texte: Elle refroidit la peau.
-  - titre: Air humide
-    texte: La sueur s'évapore mal.
 ```
 
 ## À retenir
@@ -11087,10 +11095,10 @@ La méthode vivre haut, s'entraîner bas consiste à dormir en altitude mais à 
 Les résultats des études sont variés, selon de nombreux facteurs. Les chercheurs ne s'accordent pas sur le mécanisme : certains citent l'augmentation des globules rouges, d'autres une utilisation plus efficace de l'oxygène par les muscles. Les critiques notent que la concentration de globules rouges revient vite à la normale, et que l'intensité d'entraînement peut baisser en altitude. Comme l'altitude fait monter l'EPO naturelle, ses effets sur le sang ressemblent à ceux d'un dopage à l'EPO, ce qui complique les contrôles.
 
 ```schema
-type: etapes
 titre: L'entraînement en altitude
+type: etapes
 elements:
-  - titre: Air plus pauvre en oxygène
+  - titre: Pression partielle d’oxygène plus faible
     icone: mountain
   - titre: Plus de globules rouges
   - titre: Retour en plaine
@@ -11870,16 +11878,18 @@ Les montres s'appuient sur un capteur optique : une diode éclaire la peau, et c
 Les trackers suivent aussi le sommeil, qui joue sur la récupération. Certains appareils tentent de suivre le stress ou la santé mentale à partir de ces signaux. Le score affiché peut motiver, mais le risque est de banaliser des objectifs de santé. Ces données personnelles posent des questions de vie privée.
 
 ```schema
-type: etapes
 titre: De la mesure au score de récupération
+type: etapes
 elements:
   - titre: Temps entre deux battements
     texte: Il varie sans cesse.
     icone: heart
   - titre: Système nerveux
-    texte: La variabilité reflète ses deux branches.
+    texte: >-
+      Certains indices reflètent notamment la modulation parasympathique, selon les conditions de
+      mesure.
   - titre: Score
-    texte: Calculé par la montre.
+    texte: Estimation algorithmique, à interpréter dans son contexte et sans diagnostic à elle seule.
 ```
 
 ## À retenir

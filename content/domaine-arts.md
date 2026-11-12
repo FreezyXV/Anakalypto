@@ -1080,16 +1080,16 @@ ruptures.
 - Le système suppose un observateur unique, immobile et monoculaire.
 
 ```schema
-type: comparaison
 titre: Avant et après la perspective
+type: comparaison
 colonnes:
   - titre: Avant
     points:
-      - La taille indique l'importance
+      - Dans certaines conventions, la taille exprime l’importance.
   - titre: Perspective linéaire
     icone: eye
     points:
-      - Les parallèles convergent vers un point de fuite
+      - Des parallèles qui s’éloignent dans une même direction partagent un point de fuite.
       - La taille indique la distance
 ```
 
@@ -1200,14 +1200,14 @@ Cette incertitude n'a pas empêché la vente. Elle rappelle que le prix d'une œ
 - L'attribution et l'ampleur de la restauration restent discutées.
 
 ```schema
-type: barres
+type: chiffres
 titre: Le prix du Salvator Mundi
-unite: ""
-valeurs:
-  - label: 1958, en livres
-    valeur: 45
-  - label: 2017, en millions de dollars
-    valeur: 450.3
+legende: "Monnaies et années différentes : ces montants ne sont pas directement comparables."
+chiffres:
+  - valeur: 45 livres
+    texte: Prix de vente en 1958.
+  - valeur: 450,3 M$
+    texte: Prix de vente en 2017.
 ```
 
 ---
@@ -4316,9 +4316,8 @@ diffusion des connaissances et de l'écrit.
 - Cette invention s'est diffusée du monde chinois vers le Moyen-Orient puis l'Europe.
 
 ```schema
-type: etapes
 titre: Fabriquer du papier
-legende: Procédé mis au point par Cai Lun vers l'an 105.
+type: etapes
 elements:
   - titre: Pâte de fibres
   - titre: Tamis
@@ -7509,12 +7508,12 @@ L'enduit sèche en quelques heures. Le peintre n'en étale donc chaque jour que 
 En Italie, entre 1303 et 1305, Giotto couvre de fresques la chapelle des Scrovegni, à Padoue. Entre 1508 et 1512, Michel-Ange peint à fresque le plafond de la chapelle Sixtine, à Rome, à la demande du pape Jules II.
 
 ```schema
-type: etapes
 titre: La fresque
+type: etapes
 elements:
   - titre: Enduit de chaux frais
   - titre: Pigments et eau
-  - titre: Séchage
+  - titre: Carbonatation
     texte: La chaux réagit avec le gaz carbonique.
   - titre: Pigments pris dans la pierre
 ```
@@ -14117,8 +14116,8 @@ Un musicien peut changer le timbre par sa technique : un violoniste qui joue pr�
 Deux notes dont les fréquences sont dans des rapports simples, comme 2/1, 3/2 ou 5/4, sonnent de façon harmonieuse. Un intervalle légèrement désaccordé produit des battements : le son pulse, ce que l'on perçoit comme une dissonance. Une part du timbre est psychologique : elle est perçue par le cerveau et ne se mesure pas directement avec la physique.
 
 ```schema
-type: comparaison
 titre: Ce qui fait le timbre
+type: comparaison
 colonnes:
   - titre: Fondamentale
     points:
@@ -14127,6 +14126,9 @@ colonnes:
     points:
       - Leur mélange donne le timbre
       - Il distingue les instruments
+  - titre: Évolution du son
+    points:
+      - Attaque, décroissance et autres variations participent au timbre.
 ```
 
 ## À retenir

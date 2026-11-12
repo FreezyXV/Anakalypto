@@ -591,17 +591,17 @@ propriétés. L'huile de colza se garde pour l'assaisonnement, pas pour la fritu
 - Deux portions de poisson par semaine, dont un gras, couvrent les besoins.
 
 ```schema
-type: comparaison
 titre: Les acides gras essentiels
-legende: Le corps ne sait pas les fabriquer.
+legende: Les acides linoléique et alpha-linolénique doivent être apportés par l’alimentation.
+type: comparaison
 colonnes:
   - titre: Oméga-6
     points:
-      - Huiles végétales
+      - Acide linoléique, présent dans des huiles végétales.
   - titre: Oméga-3
     points:
-      - ALA végétal
-      - EPA et DHA des poissons gras
+      - Acide alpha-linolénique (ALA), d’origine végétale.
+      - 'EPA et DHA : autres oméga-3, notamment présents dans les poissons gras.'
 ```
 
 ---
@@ -714,11 +714,12 @@ une partie du cholestérol dans l'intestin.
 - Graisses saturées et trans influencent plus le LDL que le cholestérol alimentaire.
 
 ```schema
-type: barres
 titre: D'où vient notre cholestérol
-unite: "%"
+legende: Répartition indicative et variable selon les apports et la régulation de la synthèse.
+type: barres
+unite: '%'
 valeurs:
-  - label: Fabriqué par le foie
+  - label: Fabriqué par l’organisme
     valeur: 70
     note: environ
   - label: Apporté par l'alimentation
@@ -958,16 +959,17 @@ produits de base comme la farine, et traiter les parasites intestinaux qui aggra
 - La carence retentit sur le développement du cerveau chez le jeune enfant.
 
 ```schema
-type: comparaison
 titre: Les deux formes de fer
+type: comparaison
 colonnes:
-  - titre: Fer animal
+  - titre: Fer héminique
     points:
-      - Environ dix fois mieux absorbé
-  - titre: Fer végétal
+      - Présent dans la viande et le poisson.
+      - Généralement mieux absorbé.
+  - titre: Fer non héminique
     points:
-      - Mieux absorbé avec de la vitamine C
-      - Gêné par le thé ou le café
+      - Présent dans les végétaux et aussi dans des aliments animaux.
+      - Absorption influencée par les autres aliments, notamment la vitamine C.
 ```
 
 ---
@@ -1218,8 +1220,8 @@ Et la cuisson, évidemment, détruit les lectines.
 - Trempage, germination et fermentation réduisent les phytates.
 
 ```schema
-type: comparaison
 titre: Phytates et lectines
+type: comparaison
 colonnes:
   - titre: Phytates
     points:
@@ -1227,7 +1229,7 @@ colonnes:
       - Réduits par trempage et fermentation
   - titre: Lectines
     points:
-      - Détruites par la cuisson
+      - Une cuisson adaptée en réduit l’activité.
 ```
 
 ---
@@ -1827,25 +1829,22 @@ recettes pour gagner une lettre.
 - Son affichage est volontaire, ce qui favorise les produits bien notés.
 
 ```schema
-type: echelle
 titre: Le Nutri-Score
 legende: Il compare des produits d'une même famille, pour 100 grammes.
-unite: ""
-min: 0
-max: 5
-zones:
-  - de: 0
-    a: 2
-    label: A et B, meilleure qualité nutritionnelle
-    ton: normal
-  - de: 2
-    a: 3
-    label: C
-    ton: attention
-  - de: 3
-    a: 5
-    label: D et E, moins bonne qualité
-    ton: danger
+type: comparaison
+colonnes:
+  - titre: A et B
+    points:
+      - meilleure qualité nutritionnelle
+    couleur: vert
+  - titre: C
+    points:
+      - Qualité nutritionnelle intermédiaire.
+    couleur: jaune
+  - titre: D et E
+    points:
+      - moins bonne qualité
+    couleur: rouge
 ```
 
 ---
@@ -2227,25 +2226,23 @@ moyen de transport des microbes dans une cuisine.
 - Listeria se multiplie même dans un réfrigérateur.
 
 ```schema
-type: echelle
-titre: La zone de danger des aliments
-legende: Une population de bactéries peut doubler toutes les vingt minutes.
-unite: °C
-min: -20
-max: 75
-zones:
-  - de: -20
-    a: 4
-    label: Froid, les bactéries ralentissent
-    ton: info
-  - de: 4
-    a: 60
-    label: Zone de danger
-    ton: danger
-  - de: 60
-    a: 75
-    label: Chaud, les bactéries sont détruites
-    ton: normal
+type: comparaison
+titre: Froid, attente et cuisson
+legende: >-
+  Le temps et le micro-organisme comptent ; réchauffer ne garantit pas la sécurité d’un aliment mal
+  conservé.
+colonnes:
+  - titre: Au froid
+    points:
+      - La croissance ralentit sans disparition des microbes.
+      - Certains, comme Listeria, peuvent encore se multiplier.
+  - titre: À température favorable
+    points:
+      - Des microbes peuvent se multiplier rapidement.
+  - titre: À la cuisson
+    points:
+      - Un traitement adapté détruit de nombreux microbes.
+      - Certaines toxines peuvent résister à la chaleur.
 ```
 
 ---
@@ -3549,14 +3546,15 @@ premières et en augmentant les seconds, est probablement l'action la plus effic
 - Le régime méditerranéen est le modèle le mieux validé.
 
 ```schema
+titre: Des profils alimentaires étudiés
+legende: Tendances générales ; un aliment isolé ne traite pas à lui seul une inflammation.
 type: comparaison
-titre: Ce qui attise ou calme l'inflammation
 colonnes:
-  - titre: Attisent
+  - titre: Profil moins favorable
     points:
       - Graisses saturées et trans
       - Sucres rapides
-  - titre: Calment
+  - titre: Profil plus favorable
     points:
       - Fruits et légumes
       - Oméga-3
@@ -3941,12 +3939,14 @@ Et surtout, régularité : manger à heures fixes aide à synchroniser l'horloge
 - Dîner léger et tôt, et garder des horaires réguliers.
 
 ```schema
-type: comparaison
 titre: Ce qui aide ou perturbe le sommeil
+type: comparaison
 colonnes:
-  - titre: Aide
+  - titre: Lien biologique
     points:
-      - Le tryptophane, précurseur de la mélatonine
+      - >-
+        Le tryptophane intervient dans la synthèse de la mélatonine, sans garantir un effet d’un
+        aliment sur le sommeil.
   - titre: Perturbe
     points:
       - Repas gras
@@ -4076,10 +4076,11 @@ alimentation qu'on ne suit pas n'a aucun effet.
 - Les oméga-3, à dose suffisante, ont le meilleur niveau de preuve.
 
 ```schema
-type: chiffres
 titre: Alimentation et santé mentale
+legende: Association rapportée dans l’étude citée, sans démontrer à elle seule une causalité.
+type: chiffres
 chiffres:
-  - valeur: "+22 %"
+  - valeur: +22 %
     texte: de risque de dépression associé aux ultra-transformés
 ```
 
@@ -4196,12 +4197,12 @@ Et le fer peut manquer, surtout si l'alimentation est peu variée.
 - Vitamine B12, vitamine D et calcium sont les carences les plus fréquentes.
 
 ```schema
-type: systeme
 titre: Bien vieillir à table
+type: systeme
 centre: Vieillissement
 parties:
   - nom: Végétaux
-    role: Ils ralentissent les maladies chroniques.
+    role: Associés à un moindre risque de certaines maladies chroniques.
   - nom: Protéines
     role: Souvent insuffisantes.
   - nom: Carences à surveiller
@@ -4324,8 +4325,9 @@ Et limiter les grands prédateurs marins — thon, espadon, requin — à cause 
 - Bien cuire la viande pour éviter la toxoplasmose.
 
 ```schema
-type: barres
 titre: Calories supplémentaires pendant la grossesse
+legende: Repères américains cités dans la leçon ; les besoins individuels dépendent de la situation.
+type: barres
 unite: kcal/jour
 valeurs:
   - label: Premier trimestre
@@ -4845,13 +4847,13 @@ le produit. Le conditionnement doit alors se faire dans un environnement stéril
 - L'UHT chauffe très fort mais très brièvement.
 
 ```schema
-type: comparaison
 titre: Aliments acides et peu acides
-legende: Appert invente la conserve vers 1795.
+legende: Dans les deux cas, un procédé validé pour le produit est indispensable.
+type: comparaison
 colonnes:
   - titre: Acides
     points:
-      - Traitement plus doux suffisant
+      - L’acidité permet des traitements moins sévères dans un procédé validé.
   - titre: Peu acides
     points:
       - Barème de stérilisation strict
@@ -4976,17 +4978,19 @@ disparaître des maladies comme la tuberculose bovine et la brucellose transmise
 - Ces traitements dégradent certaines vitamines mais assurent une sécurité sanitaire majeure.
 
 ```schema
-type: comparaison
 titre: Pasteurisation ou stérilisation
+legende: >-
+  Le produit et la durée du traitement comptent autant que la température ; ce schéma ne donne pas
+  un protocole.
+type: comparaison
 colonnes:
   - titre: Pasteurisation
     points:
-      - Environ 72 °C
-      - Détruit les bactéries, pas les spores
+      - Traitement modéré qui réduit de nombreux microbes.
+      - Ne détruit pas toutes les spores.
   - titre: Stérilisation
     points:
-      - 121 °C
-      - Détruit aussi les spores
+      - Traitement plus sévère, adapté pour maîtriser aussi les spores.
 ```
 
 ---
@@ -5766,14 +5770,14 @@ recourir à des substituts qui entretiennent le goût pour le sucré.
 - Réduire le sucre vaut mieux que le remplacer par des édulcorants.
 
 ```schema
-type: systeme
 titre: Les édulcorants
+type: systeme
 centre: Édulcorants
 parties:
   - nom: Poids
-    role: Pas de perte de poids dans les essais contrôlés.
+    role: L’intérêt durable pour contrôler le poids reste limité et discuté.
   - nom: Aspartame
-    role: Classé peut-être cancérigène.
+    role: Classement de danger « peut-être cancérigène », distinct du risque lié à une dose donnée.
 ```
 
 ---
@@ -6431,10 +6435,13 @@ naturels.
 - Ne pas prendre de compléments sans raison médicale.
 
 ```schema
-type: comparaison
 titre: Les compléments alimentaires
+legende: >-
+  Utilité selon la situation et les apports, pas une supplémentation systématique pour tout le
+  monde.
+type: comparaison
 colonnes:
-  - titre: Souvent utiles
+  - titre: Indications particulières
     points:
       - Vitamine D
       - Vitamine B12
@@ -6565,13 +6572,13 @@ soja importé.
 - L'obstacle culturel reste majeur, mais les farines et produits transformés le réduisent.
 
 ```schema
-type: chiffres
 titre: Les insectes comestibles
+type: chiffres
 chiffres:
   - valeur: 2 milliards
     texte: de personnes en mangent déjà
-  - valeur: 12 à 25 fois
-    texte: plus efficaces pour produire des protéines, selon l'article
+  - valeur: Variable
+    texte: L’efficience dépend de l’espèce et des conditions d’élevage.
 ```
 
 ---
@@ -6821,13 +6828,13 @@ marché.
 - Attention à la teneur en iode de certaines espèces.
 
 ```schema
-type: systeme
 titre: Les atouts des algues
+type: systeme
 centre: Algues
 icone: wave
 parties:
   - nom: Protéines
-    role: La spiruline en contient plus de 60 %.
+    role: La spiruline séchée peut en contenir plus de 60 % de sa masse.
   - nom: Minéraux et oméga-3
   - nom: Culture sobre
     role: Sans terre agricole.
@@ -6953,13 +6960,13 @@ une alternative rapide aux pâtes de blé.
 - Elles sont bon marché et faciles à intégrer.
 
 ```schema
-type: systeme
 titre: Les atouts des légumineuses
+type: systeme
 centre: Légumineuses
 icone: leaf
 parties:
   - nom: Protéines
-    role: 20 à 40 %.
+    role: Environ 20 à 40 % dans les graines sèches, selon l’espèce.
   - nom: Azote
     role: Elles enrichissent les sols.
   - nom: Climat
@@ -7095,10 +7102,10 @@ Et ne pas préparer les légumes à l'avance : les vitamines s'oxydent au contac
 - Cuire court, avec peu d'eau, et réutiliser l'eau de cuisson.
 
 ```schema
-type: comparaison
 titre: Ce que la cuisson fait aux nutriments
+type: comparaison
 colonnes:
-  - titre: Détruits
+  - titre: Sensibles à la chaleur
     points:
       - Vitamine C
       - Folates
@@ -7355,8 +7362,11 @@ Changer de régime alimentaire peut réduire l'empreinte hydrique de 20 à 30 %.
 - Le contenu de l'assiette pèse plus que les gestes domestiques.
 
 ```schema
-type: barres
 titre: L'eau virtuelle d'un kilo d'aliment
+legende: >-
+  Ordres de grandeur moyens incluant l’eau de pluie ; ce n’est pas uniquement de l’eau d’irrigation
+  prélevée.
+type: barres
 unite: L
 valeurs:
   - label: Bœuf
@@ -7482,16 +7492,17 @@ animaux, bio ou non.
 - Le bio est utile pour certains fruits et légumes, mais ce n'est pas le principal levier.
 
 ```schema
-type: comparaison
 titre: L'agriculture biologique
+legende: Les résultats dépendent des cultures, des régions et des pratiques.
+type: comparaison
 colonnes:
   - titre: Avantages
     points:
-      - Pas de pesticides de synthèse
+      - Restrictions importantes sur les produits de synthèse.
       - Biodiversité mieux préservée
   - titre: Limites
     points:
-      - Rendements inférieurs d'environ 25 %
+      - Rendements souvent plus faibles, avec un écart variable.
 ```
 
 ---
@@ -7620,16 +7631,16 @@ sociaux.
 - Réduire la viande est plus efficace que manger local.
 
 ```schema
-type: barres
-titre: D'où viennent les émissions d'un aliment moyen
-unite: "%"
-valeurs:
-  - label: Production agricole
-    valeur: 85
-    note: 80 à 90 %
-  - label: Transport
-    valeur: 5
-    note: moins de
+type: comparaison
+titre: Deux postes d’émissions à distinguer
+legende: La distance seule ne décrit pas toute l’empreinte d’un aliment.
+colonnes:
+  - titre: Production
+    points:
+      - Mode de culture ou d’élevage, intrants et énergie.
+  - titre: Transport
+    points:
+      - Distance, moyen de transport et organisation des trajets.
 ```
 
 ---
@@ -7752,16 +7763,16 @@ plus acheter de fraises en décembre. Et découvrir de nouveaux légumes.
 - Se concentrer sur quelques produits clés, comme la tomate en hiver.
 
 ```schema
-type: comparaison
 titre: De saison ou hors saison
+type: comparaison
 colonnes:
   - titre: De saison
     points:
-      - Plus de goût
-      - Plus de nutriments
+      - Peut limiter le besoin de serre chauffée.
+      - Récolte à maturité plus facile selon le circuit.
   - titre: Hors saison
     points:
-      - Serre chauffée ou importation
+      - Peut impliquer une serre chauffée ou une importation.
 ```
 
 ---
@@ -8555,15 +8566,17 @@ Et limiter les sucres rapides et les laitages si l'on a de l'acné.
 - La glycation des protéines par le sucre accélère le vieillissement de la peau.
 
 ```schema
-type: systeme
 titre: La peau et l'alimentation
+type: systeme
 centre: Peau
 parties:
   - nom: Vitamine C
   - nom: Zinc
   - nom: Oméga-3
   - nom: Acné
-    role: Aggravée par les sucres rapides et les laitages.
+    role: >-
+      Des associations sont étudiées avec certains profils alimentaires, sans effet identique chez
+      chacun.
 ```
 
 ---
@@ -8684,15 +8697,15 @@ la tension et de la glycémie.
 - Le tabac et les UV sont des facteurs de risque majeurs.
 
 ```schema
-type: systeme
 titre: Les nutriments de la vue
+type: systeme
 centre: Œil
 icone: eye
 parties:
   - nom: Lutéine et zéaxanthine
     role: Le pigment maculaire protecteur.
   - nom: Oméga-3
-    role: Moins de risque de DMLA.
+    role: Leur rôle est étudié ; un apport supplémentaire ne garantit pas une prévention de la DMLA.
   - nom: Légumes verts
 ```
 
@@ -9387,13 +9400,13 @@ sardines.
 - Yaourts et fromages affinés sont souvent bien tolérés.
 
 ```schema
-type: chiffres
 titre: L'intolérance au lactose
+type: chiffres
 chiffres:
-  - valeur: 70 %
-    texte: de la population mondiale environ
+  - valeur: Digestion variable
+    texte: Une malabsorption ne provoque pas toujours de symptômes.
   - valeur: Lactase
-    texte: l'enzyme qui diminue après l'enfance
+    texte: Son activité diminue après l’enfance chez une grande partie de la population.
 ```
 
 ---
@@ -10502,20 +10515,22 @@ souvent plus froid, sauf le bac à légumes, protégé. Chaque modèle est diff�
 la zone la plus froide par un symbole.
 
 ```schema
-type: echelle
 titre: Où ranger quoi selon la température
-legende: Repères pour un réfrigérateur classique ; la zone la plus froide varie selon les modèles.
+legende: >-
+  Vérifier la notice et les étiquettes ; les plats préparés fragiles vont dans la zone froide, à 4
+  °C au plus.
+type: echelle
 unite: °C
 min: 0
 max: 10
 zones:
   - de: 0
     a: 4
-    label: Viandes, poissons, plats entamés
+    label: Viandes, poissons, plats et produits frais fragiles
     ton: info
   - de: 4
     a: 6
-    label: Laitages, œufs, restes
+    label: Laitages selon leur étiquette ; pas les restes de plats
     ton: normal
   - de: 6
     a: 10
@@ -10525,7 +10540,7 @@ zones:
 
 - **Zone la plus froide, 0 à 4 °C** : viandes et poissons crus, charcuterie, plats cuisinés, produits
   frais entamés, crème et fromages frais.
-- **Zone intermédiaire, 4 à 6 °C** : yaourts, fromages affinés, restes de repas, œufs si on les met au
+- **Zone intermédiaire, 4 à 6 °C** : yaourts, fromages affinés, œufs si on les met au
   frais.
 - **Bac à légumes** : fruits et légumes, à l'abri du dessèchement.
 - **Porte, la zone la moins froide** : beurre, boissons, sauces et condiments, qui supportent les
@@ -11514,14 +11529,14 @@ Quand on boit, l'eau met du temps à passer dans le sang. Pourtant, la soif disp
 Les signes d'un manque d'eau sont la soif, le mal de tête, la fatigue, des urines plus rares et plus foncées, et parfois des vertiges. Boire beaucoup trop sans avoir soif n'est pas utile non plus. Un excès d'eau peut perturber l'équilibre du sel dans le sang.
 
 ```schema
-type: etapes
 titre: Le signal de la soif
+type: etapes
 elements:
   - titre: Le sang se concentre
   - titre: L'hypothalamus le détecte
     icone: brain
   - titre: La soif apparaît
-    texte: Un signal un peu tardif.
+    texte: Une réponse à la régulation de l’équilibre hydrique.
   - titre: Boire
     icone: droplet
 ```
@@ -15494,18 +15509,20 @@ peuvent germer et produire la toxine, souvent sans odeur ni goût suspect.
   pression, ou de suivre des recettes et barèmes validés.
 
 ```schema
-type: comparaison
 titre: Quelle stérilisation selon l'aliment
+legende: >-
+  Comparaison de principes ; seul un procédé validé pour l’aliment, le bocal et l’équipement précise
+  un traitement sûr.
+type: comparaison
 colonnes:
   - titre: Aliments acides
     points:
       - Fruits, confitures, tomates acidifiées, cornichons au vinaigre
-      - Bain-marie à 100 °C
+      - Bain-marie selon un procédé validé.
   - titre: Aliments peu acides
     points:
-      - Légumes verts, champignons, viandes, poissons
-      - Au-dessus de 100 °C, entre 115 et 121 °C
-      - Autoclave ou barèmes validés
+      - Légumes verts, champignons, viandes, poissons.
+      - Stérilisation sous pression avec équipement et procédé validés.
 ```
 
 ## Les règles de base
@@ -16871,13 +16888,13 @@ Le miel attire l'humidité de l'air : il faut bien refermer le pot. S'il durcit 
 On raconte souvent qu'on a mangé du miel retrouvé dans des tombes égyptiennes. C'est une légende : aucun miel mangeable n'y a été découvert, seulement des traces chimiques.
 
 ```schema
-type: chiffres
 titre: Le miel
+type: chiffres
 chiffres:
   - valeur: 15,5 à 18 %
     texte: d'eau seulement
-  - valeur: Trop de sucre
-    texte: pour que les microbes se développent
+  - valeur: Peu d’eau disponible
+    texte: Freine de nombreux microbes sans garantir une absence de spores ou de fermentation.
 ```
 
 ## À retenir
@@ -17103,8 +17120,9 @@ Selon le type, un vinaigre contient de 4 à 18 % d'acide acétique. En France, u
 Les Babyloniens fabriquaient déjà du vinaigre il y a plusieurs milliers d'années. Ils s'en servaient pour assaisonner et conserver les aliments. Aujourd'hui, le vinaigre sert toujours en cuisine, dans les sauces et les marinades. Il sert aussi à préparer des conserves au vinaigre et à nettoyer le calcaire dans la maison.
 
 ```schema
-type: etapes
 titre: Du raisin au vinaigre
+legende: L’acétification par les bactéries acétiques nécessite de l’oxygène.
+type: etapes
 elements:
   - titre: Sucre
   - titre: Levures
@@ -17506,21 +17524,20 @@ Dans les deux cas, on maintient les légumes **sous le liquide** avec un poids :
 petit bocal rempli d'eau, une pierre propre.
 
 ```schema
-type: frise
-titre: Le déroulement d'une lactofermentation
-evenements:
-  - date: Jour 0
-    titre: Saler et tasser
-    texte: Environ 2 % de sel, légumes sous le liquide.
-  - date: Premiers jours
-    titre: Démarrage, entre 18 et 22 °C
-    texte: Bulles, liquide trouble, odeur acidulée.
-  - date: 1 à 3 semaines
-    titre: Assez acide
-    texte: On peut goûter.
-  - date: Ensuite
-    titre: Au frais
-    texte: Les bocaux se gardent des mois.
+titre: La transformation par lactofermentation
+legende: >-
+  Mécanisme général, pas une recette : salage, acidification et conservation doivent suivre un
+  procédé fiable.
+type: etapes
+elements:
+  - titre: Préparer
+    texte: Légumes et saumure selon un procédé adapté.
+  - titre: Fermenter
+    texte: L’activité des bactéries lactiques produit des acides.
+  - titre: Acidifier
+    texte: L’acidité croissante freine certains microbes.
+  - titre: Conserver
+    texte: Les conditions dépendent du produit et du procédé.
 ```
 
 ## La fermentation, étape par étape
@@ -17760,9 +17777,11 @@ Un manioc mal préparé peut provoquer le konzo. Dans la langue yaka, parlée au
 Une méthode simple aide à la prévenir. On mouille la farine de manioc, on la laisse sécher un peu pour que le gaz toxique s'échappe, puis on la cuit normalement.
 
 ```schema
+titre: Réduire les composés cyanogènes du manioc
+legende: >-
+  Traitements à adapter à la variété et à un procédé sûr ; cet enchaînement n’est pas un protocole
+  garantissant l’innocuité.
 type: etapes
-titre: Rendre le manioc sûr
-legende: Le manioc nourrit plus de 500 millions de personnes.
 elements:
   - titre: Racine toxique crue
   - titre: Tremper
@@ -20991,9 +21010,11 @@ intoxication est bien plus dangereuse que la faim.
   amers.
 
 ```schema
-type: comparaison
 titre: Les sosies dangereux
-legende: En cas de doute, on ne mange pas.
+legende: >-
+  Exemples de confusions possibles, pas une clé d’identification ; un nom, une odeur ou un seul
+  détail ne suffisent pas.
+type: comparaison
 colonnes:
   - titre: Comestible
     icone: leaf
@@ -22336,12 +22357,12 @@ Baisser l'activité de l'eau ne tue pas les microbes déjà présents : des cell
 Le séchage, la plus ancienne forme de conservation, retire l'eau dont les microbes ont besoin. Le fumage combine déshydratation et composés antimicrobiens déposés par la fumée. Le froid ralentit la croissance des micro-organismes sans les éliminer. La fermentation conserve en produisant des acides qui créent un milieu hostile aux microbes nuisibles.
 
 ```schema
-type: etapes
 titre: Comment le sel et le sucre conservent
+type: etapes
 elements:
   - titre: Les microbes ont besoin d'eau
   - titre: Sel ou sucre
-    texte: Ils attirent l'eau par osmose.
+    texte: Ils réduisent l’activité de l’eau, donc sa disponibilité pour les microbes.
   - titre: Moins d'eau disponible
   - titre: Les microbes se développent mal
 ```
@@ -22451,14 +22472,14 @@ Choux pour la choucroute, concombres, carottes, betteraves et d'autres légumes 
 Les cellules musculaires font aussi de la fermentation lactique lors d'un effort intense, mais c'est un phénomène distinct de la fermentation des aliments.
 
 ```schema
-type: etapes
 titre: Du lait au yaourt
+type: etapes
 elements:
   - titre: Lait
   - titre: Bactéries lactiques
-    texte: Sans oxygène.
+    texte: Elles transforment une partie du lactose.
   - titre: Acide lactique
-    texte: Il épaissit le lait et empêche les microbes.
+    texte: L’acidification favorise un gel de caséines et freine certains microbes.
   - titre: Yaourt
 ```
 

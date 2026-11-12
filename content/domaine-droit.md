@@ -1195,13 +1195,13 @@ professionnels. C'est aussi une façon de rappeler que la justice est rendue au 
 - Des citoyens tirés au sort jugent les crimes les plus graves.
 
 ```schema
-type: pyramide
 titre: Les étages de la justice judiciaire
+type: pyramide
 niveaux:
   - titre: Cour de cassation
     texte: Vérifie seulement l'application du droit.
   - titre: Cour d'appel
-    texte: Rejuge entièrement l'affaire.
+    texte: Réexamine en fait et en droit les points dont elle est saisie.
   - titre: Tribunaux de première instance
 ```
 
@@ -1454,9 +1454,9 @@ mariage.
 - Le greffier donne son existence juridique à l'audience.
 
 ```schema
-type: systeme
 titre: Qui fait quoi dans un tribunal
-centre: Procès
+type: systeme
+centre: Procès pénal
 icone: scales
 parties:
   - nom: Juge
@@ -1626,14 +1626,14 @@ pas la guérison. Cette distinction change entièrement ce qu'il faut prouver en
 - Obligation de moyens et de résultat n'engagent pas de la même façon.
 
 ```schema
-type: systeme
 titre: Les trois conditions d'un contrat valable
+type: systeme
 centre: Contrat
 parties:
   - nom: Consentement
     role: Sans erreur, dol ni violence.
   - nom: Capacité
-  - nom: Contenu licite
+  - nom: Contenu licite et certain
 ```
 
 ---
@@ -2719,8 +2719,9 @@ d'anciennes cartes conservées ailleurs.
   durables.
 
 ```schema
-type: systeme
 titre: Ce que contient le cadastre
+legende: Document à vocation fiscale ; il ne constitue pas à lui seul un titre de propriété.
+type: systeme
 centre: Parcelle
 icone: map
 parties:
@@ -2862,8 +2863,11 @@ location.
   de bonne tenue de compte, chèque de réservation.
 
 ```schema
-type: comparaison
 titre: Location vide ou meublée
+legende: >-
+  Repères pour la résidence principale, hors baux et situations particuliers ; les règles dépendent
+  aussi du bailleur.
+type: comparaison
 colonnes:
   - titre: Vide
     icone: house
@@ -4157,15 +4161,18 @@ Un TAEG ne peut pas dépasser le **taux d'usure**, plafond fixé chaque trimestr
 France selon le type et le montant du prêt.
 
 ```schema
-type: chiffres
 titre: Les repères du crédit à la consommation
+legende: >-
+  Le cadre évolue notamment à compter du 20 novembre 2026 ; consulter les règles applicables à la
+  date du contrat.
+type: chiffres
 chiffres:
   - valeur: TAEG
-    texte: le seul taux qui permet de comparer deux offres
+    texte: Indicateur du coût global, à comparer pour un même montant et une même durée.
   - valeur: 14 jours
     texte: pour renoncer après avoir accepté l'offre
-  - valeur: 200 à 75 000 €
-    texte: les montants concernés par ces règles
+  - valeur: Champ encadré
+    texte: Montants et règles dépendent du type de crédit et des textes en vigueur.
 ```
 
 ## Les protections de l'emprunteur
@@ -4384,8 +4391,8 @@ L'émancipation permet à un mineur d'être traité presque comme un adulte. Il 
 Le mineur émancipé peut signer un contrat de travail ou choisir où il habite. Certaines limites restent : il ne peut voter qu'à 18 ans et conduire qu'à partir de 17 ans.
 
 ```schema
-type: comparaison
 titre: Avoir des droits et pouvoir les exercer
+type: comparaison
 colonnes:
   - titre: Mineur
     points:
@@ -4395,7 +4402,7 @@ colonnes:
   - titre: Majeur
     points:
       - À 18 ans
-      - Peut signer seul
+      - Peut en principe signer seul, sous réserve d’une éventuelle mesure de protection.
 ```
 
 ## À retenir
@@ -4532,9 +4539,9 @@ autre : ils ne sont pas possesseurs, mais **détenteurs**. Un voleur, à l'inver
 mais il est de **mauvaise foi**.
 
 ```schema
-type: comparaison
 titre: Propriété, possession et détention
 legende: Les trois situations coïncident souvent, mais le droit les distingue.
+type: comparaison
 colonnes:
   - titre: Propriétaire
     icone: house
@@ -4546,13 +4553,13 @@ colonnes:
     icone: shield
     points:
       - Agit comme propriétaire
-      - Protégé s'il est paisible
+      - Exerce une maîtrise de fait en se comportant comme propriétaire.
       - Ex. l'occupant d'un terrain depuis des années
   - titre: Détenteur
     icone: lock
     points:
       - Tient la chose pour autrui
-      - Ne peut pas en devenir propriétaire
+      - Reconnaît, en cette qualité, le droit d’autrui sur la chose.
       - Ex. le locataire, l'emprunteur
 ```
 
@@ -6062,12 +6069,12 @@ La demande se fait en ligne ou avec un formulaire. Elle est envoyée au bureau d
 Le bénéficiaire choisit librement son avocat. S'il n'en a pas trouvé, il peut demander au bâtonnier, le responsable de l'ordre des avocats, d'en désigner un.
 
 ```schema
-type: etapes
 titre: Obtenir l'aide juridictionnelle
+type: etapes
 elements:
   - titre: Revenus modestes
   - titre: Demande
-  - titre: Frais pris en charge par l'État
+  - titre: Prise en charge partielle ou totale si les conditions sont remplies
     icone: scales
 ```
 
@@ -9101,8 +9108,9 @@ S'il l'est, une mise à l'épreuve éducative peut commencer. Elle dure entre si
 Le casier judiciaire d'un mineur est effacé au bout de trois ans.
 
 ```schema
-type: etapes
 titre: Le procès d'un mineur en deux temps
+legende: Schéma de la procédure en deux temps ; des exceptions et d’autres modalités existent.
+type: etapes
 elements:
   - titre: Juger la culpabilité
   - titre: Période de mise à l'épreuve
@@ -14573,8 +14581,8 @@ Le règlement européen sur les services numériques, le DSA, renforce ce cadre 
 Chaque pays désigne une autorité indépendante chargée de faire respecter le règlement ; en France, c'est l'Arcom. Une plateforme qui ne respecte pas les règles risque de lourdes amendes, calculées sur son chiffre d'affaires mondial.
 
 ```schema
-type: comparaison
 titre: Éditeur ou hébergeur
+type: comparaison
 colonnes:
   - titre: Éditeur
     points:
@@ -14583,7 +14591,9 @@ colonnes:
   - titre: Hébergeur
     points:
       - Stocke ce que publient les utilisateurs
-      - Doit retirer un contenu illicite signalé
+      - >-
+        Doit agir promptement lorsqu’il a effectivement connaissance d’un contenu illicite, selon le
+        cadre applicable.
 ```
 
 ## À retenir
@@ -14791,8 +14801,11 @@ On l'exerce en prévenant le vendeur avant la fin du délai, avec le formulaire 
 Le droit ne s'applique pas à tous les achats : biens personnalisés, biens périssables, contenus numériques déjà téléchargés, services déjà exécutés avec l'accord du client, billets de transport ou de spectacle, services financiers. Ce droit vaut pour les achats auprès de vendeurs professionnels, pas pour les ventes entre particuliers.
 
 ```schema
-type: etapes
 titre: Exercer son droit de rétractation
+legende: >-
+  Achat à distance par un consommateur auprès d’un professionnel, sous réserve des exceptions et du
+  point de départ légal du délai.
+type: etapes
 elements:
   - titre: Achat à distance
   - titre: Délai de 14 jours

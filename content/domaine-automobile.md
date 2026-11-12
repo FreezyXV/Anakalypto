@@ -576,20 +576,22 @@ pas possible, et c'est aujourd'hui le principal frein à l'adoption.
 - Le raccordement au réseau, pas la borne, conditionne le déploiement.
 
 ```schema
-type: echelle
 titre: La puissance de recharge selon le niveau de la batterie
-legende: Au-delà de 80 %, la puissance chute fortement.
-unite: "%"
+legende: >-
+  Profil indicatif : la courbe et le début de sa diminution varient selon batterie, température et
+  chargeur.
+type: echelle
+unite: '%'
 min: 0
 max: 100
 zones:
   - de: 0
     a: 80
-    label: Recharge rapide possible
+    label: Première partie de charge
     ton: normal
   - de: 80
     a: 100
-    label: Puissance fortement réduite
+    label: En fin de charge, puissance habituellement réduite
     ton: attention
 ```
 
@@ -722,8 +724,8 @@ une estimation bien plus fiable qu'un simple pourcentage de batterie.
 - La pompe à chaleur consomme environ trois fois moins qu'une résistance.
 
 ```schema
-type: systeme
 titre: Ce qui réduit l'autonomie réelle
+type: systeme
 centre: Autonomie réelle
 icone: battery
 parties:
@@ -732,7 +734,9 @@ parties:
   - nom: Le froid
     role: Il dégrade la batterie et mobilise le chauffage.
   - nom: Le chauffage
-    role: Une pompe à chaleur consomme environ trois fois moins qu'une résistance.
+    role: >-
+      Une pompe à chaleur peut limiter cette consommation, avec une efficacité variable selon les
+      conditions.
 ```
 
 ---
@@ -989,8 +993,8 @@ qui continuera de rouler pendant des décennies.
 - Leur rendement global les réserve aux usages difficiles à électrifier.
 
 ```schema
-type: comparaison
 titre: Les carburants liquides alternatifs
+type: comparaison
 colonnes:
   - titre: Première génération
     points:
@@ -1002,7 +1006,7 @@ colonnes:
   - titre: Carburants de synthèse
     points:
       - Fabriqués avec de l'électricité
-      - Neutres seulement si l'électricité l'est
+      - Le bilan dépend de l’électricité, de l’origine du CO₂ et du procédé.
 ```
 
 ---
@@ -1125,9 +1129,10 @@ maintient le conducteur impliqué.
 - La confiance excessive dans l'assistance réduit le bénéfice réel.
 
 ```schema
-type: barres
 titre: Collisions évitées par le freinage automatique
-unite: "%"
+legende: Réductions rapportées par les études citées, selon les situations et systèmes évalués.
+type: barres
+unite: '%'
 valeurs:
   - label: Collisions par l'arrière
     valeur: 50
@@ -1254,8 +1259,11 @@ la vitesse de 50 à 30 km/h avant le choc divise l'énergie par près de trois.
 - Même quand le choc a lieu, la réduction de vitesse diminue fortement la gravité.
 
 ```schema
-type: etapes
 titre: Une intervention graduée
+legende: >-
+  Fonctionnement de principe ; détection, limites et succession des interventions dépendent du
+  système et de la situation.
+type: etapes
 elements:
   - titre: Détecter
     texte: Le radar mesure les distances, la caméra identifie.
@@ -1515,16 +1523,16 @@ Le chiffre seul ne dit rien. Il faut toujours demander : dans quelles conditions
 - Le domaine d'emploi compte davantage que le numéro du niveau.
 
 ```schema
-type: pyramide
 titre: Les six niveaux de conduite automatisée
-legende: La frontière se situe entre les niveaux 2 et 3.
+legende: Classification des tâches de conduite, pas attribution automatique des responsabilités juridiques.
+type: pyramide
 niveaux:
   - titre: Niveau 5
     texte: Automatisation complète, partout.
   - titre: Niveau 4
     texte: Sans conducteur, dans un domaine limité.
   - titre: Niveau 3
-    texte: La responsabilité passe au constructeur dans son domaine.
+    texte: Le système conduit dans son domaine ; reprise humaine sur demande.
   - titre: Niveau 2
     texte: Le conducteur surveille en permanence et reste responsable.
   - titre: Niveau 1
@@ -1653,16 +1661,16 @@ réglementation : une mauvaise note se voit immédiatement dans les ventes.
 - Le coussin gonflable complète la ceinture et ne la remplace jamais.
 
 ```schema
-type: systeme
 titre: La sécurité passive en cas de choc
 legende: Ce qui blesse, c'est la brutalité de l'arrêt.
+type: systeme
 centre: Occupants
 icone: shield
 parties:
   - nom: Zones déformables
     role: Elles allongent la durée du choc.
   - nom: Habitacle rigide
-    role: Il doit rester indéformable.
+    role: Limiter l’intrusion dans l’espace des occupants.
   - nom: Ceinture
     role: Elle retient les occupants.
   - nom: Coussin gonflable
@@ -2280,13 +2288,13 @@ Les normes les plus récentes commencent à intégrer ces émissions hors échap
 - Freins et pneus émettent des particules indépendamment de la motorisation.
 
 ```schema
-type: chiffres
 titre: Les normes Euro
+type: chiffres
 chiffres:
   - valeur: Depuis 1992
     texte: les seuils se durcissent par paliers
-  - valeur: "÷ 10"
-    texte: seuils divisés par environ dix
+  - valeur: Seuils distincts
+    texte: Ils dépendent du polluant, du moteur et de l’étape réglementaire.
   - valeur: Conduite réelle
     texte: essais ajoutés au cycle de laboratoire
 ```
@@ -2528,16 +2536,16 @@ rentabilité dépend des volumes, encore faibles, et du cours des métaux.
 - Les batteries peuvent servir en stockage fixe avant d'être recyclées.
 
 ```schema
-type: comparaison
 titre: Où se font les émissions
+type: comparaison
 colonnes:
   - titre: Voiture thermique
     points:
       - L'usage domine le bilan
   - titre: Voiture électrique
     points:
-      - La fabrication domine le bilan
-      - Rattrapage en dizaines de milliers de kilomètres
+      - La fabrication peut peser fortement, surtout avec une électricité d’usage bas carbone.
+      - Le bilan dépend du véhicule, du kilométrage et de l’électricité.
 ```
 
 ---
@@ -3168,15 +3176,17 @@ Une batterie usagée n'est pas un déchet ordinaire : elle reste dangereuse si o
 - La rentabilité de la seconde vie et du recyclage reste fragile aujourd'hui.
 
 ```schema
-type: etapes
-titre: Les vies d'une batterie
-elements:
-  - titre: Voiture
+titre: Des usages et voies possibles pour une batterie
+legende: Selon son état et les filières disponibles ; toutes les batteries ne suivent pas le même parcours.
+type: systeme
+centre: Batterie
+parties:
+  - nom: Voiture
     icone: car
-  - titre: Réparation
-  - titre: Réemploi stationnaire
+  - nom: Réparation
+  - nom: Réemploi stationnaire
     icone: house
-  - titre: Recyclage des matériaux
+  - nom: Recyclage des matériaux
     icone: recycle
 ```
 
@@ -3274,13 +3284,13 @@ Le risque ne se limite pas au pirate qui prendrait le contrôle à distance. Le 
 - Le conducteur protège aussi son véhicule : Bluetooth, comptes et données à la revente.
 
 ```schema
-type: systeme
 titre: Les fronts de la cybersécurité automobile
+type: systeme
 centre: Voiture connectée
 icone: lock
 parties:
   - nom: Le véhicule
-    role: Fonctions critiques isolées du confort.
+    role: Isolation à assurer entre fonctions critiques et fonctions de confort.
   - nom: Le cloud
     role: Les serveurs du constructeur.
   - nom: Le smartphone
@@ -5299,12 +5309,14 @@ Une voiture A coûte moins cher à l'achat mais se revend mal ; une voiture B co
 - Comparer par kilomètre évite les fausses bonnes affaires.
 
 ```schema
-type: systeme
 titre: Le coût total d'une voiture
+legende: >-
+  La décote est la différence entre achat et revente sur la période, à laquelle s’ajoutent les
+  autres coûts.
+type: systeme
 centre: Coût par kilomètre
 icone: coin
 parties:
-  - nom: Prix d'achat
   - nom: Décote
   - nom: Énergie
   - nom: Assurance
@@ -6082,8 +6094,8 @@ Sur une voiture thermique, la climatisation augmente aussi la consommation. Biso
 - Préchauffer ou prérefroidir la voiture branchée préserve l'autonomie.
 
 ```schema
-type: comparaison
 titre: Chauffer une voiture électrique
+type: comparaison
 colonnes:
   - titre: Résistance
     points:
@@ -6093,7 +6105,7 @@ colonnes:
       - Plus efficace dans certaines conditions
   - titre: Préconditionnement branché
     points:
-      - Préserve la batterie de traction
+      - Permet de préparer la température en utilisant l’électricité du réseau.
 ```
 
 ---
@@ -9632,8 +9644,8 @@ chaque cylindre. Aujourd'hui, chaque bougie a souvent sa propre **bobine crayon*
 dessus.
 
 ```schema
-type: etapes
 titre: De la batterie à l'étincelle
+type: etapes
 elements:
   - titre: Batterie
     texte: Elle fournit 12 volts.
@@ -9647,7 +9659,7 @@ elements:
   - titre: Bougie
     texte: L'étincelle jaillit entre ses électrodes.
   - titre: Combustion
-    texte: Le mélange s'enflamme juste avant le point mort haut.
+    texte: L’étincelle déclenche la combustion au moment piloté par le calculateur.
     icone: fire
 ```
 
@@ -9965,8 +9977,11 @@ vanne EGR côté admission. Ensemble, ces systèmes éliminent la plus grande pa
 Des **sondes** de température, de pression et de NOx informent le calculateur à chaque étape.
 
 ```schema
-type: etapes
 titre: La ligne d'échappement d'un diesel Euro 6
+legende: >-
+  Exemple de ligne de dépollution ; disposition, équipements et conditions de régénération varient
+  selon le véhicule.
+type: etapes
 elements:
   - titre: Catalyseur d'oxydation
     texte: Il traite monoxyde de carbone et imbrûlés.
@@ -10212,13 +10227,13 @@ modernes en ont huit à dix.
 embrayages au bon moment.
 
 ```schema
-type: comparaison
 titre: Trois familles de boîtes automatiques
+type: comparaison
 colonnes:
   - titre: Convertisseur de couple
     points:
       - Lien par l'huile entre moteur et boîte
-      - Trains épicycloïdaux, huit à dix rapports
+      - Trains épicycloïdaux et plusieurs rapports.
       - Très douce
   - titre: Double embrayage
     points:
@@ -10229,7 +10244,7 @@ colonnes:
     points:
       - Courroie entre deux poulies variables
       - Aucun rapport fixe
-      - Régime moteur constant
+      - Le régime moteur est moins directement lié à la vitesse.
 ```
 
 ## La boîte à double embrayage
@@ -10763,8 +10778,11 @@ L'équipementier allemand Bosch a développé l'ESP avec Mercedes-Benz. Il est a
 Une étude américaine de 2006 estime que l'ESP réduit de 43 % le risque d'accident mortel. L'Union européenne l'impose sur toutes les voitures neuves immatriculées depuis le 1er novembre 2014.
 
 ```schema
-type: etapes
 titre: Comment l'ESP corrige un dérapage
+legende: >-
+  Correction possible dans les limites de l’adhérence et du système, sans garantie de rattraper tout
+  dérapage.
+type: etapes
 elements:
   - titre: Mesurer
     texte: Angle du volant, vitesse des roues, rotation de la voiture.
@@ -14542,14 +14560,14 @@ L'hybridation légère coûte moins cher qu'un système hybride complet. Elle pr
 Certains journalistes critiquent le mot « hybride » pour ces voitures. Elles ne roulent jamais à l'électricité seule. Leur baisse de pollution est faible, et la présenter comme un grand progrès pour l'environnement peut tromper les acheteurs.
 
 ```schema
-type: systeme
 titre: L'hybride légère
+type: systeme
 centre: Alterno-démarreur
 parties:
   - nom: Démarrer le moteur
   - nom: Produire de l'électricité
   - nom: Aider le moteur thermique
-    role: Sans jamais faire rouler la voiture seul.
+    role: Habituellement sans assurer seul une propulsion électrique prolongée.
 ```
 
 ## À retenir
@@ -18459,8 +18477,8 @@ Le système de gestion de la batterie limite la puissance pour protéger la batt
 Plusieurs standards de prises coexistent : le CCS, très répandu en Europe et en Amérique du Nord, le CHAdeMO, d'origine japonaise, le GB/T chinois et la prise de Tesla.
 
 ```schema
-type: comparaison
 titre: Recharge en courant alternatif ou continu
+type: comparaison
 colonnes:
   - titre: Courant alternatif
     points:
@@ -18469,7 +18487,7 @@ colonnes:
   - titre: Courant continu
     points:
       - La borne envoie le courant directement à la batterie
-      - Recharge rapide
+      - Recharge rapide si la borne et le véhicule le permettent.
 ```
 
 ## À retenir
@@ -18558,8 +18576,8 @@ Une roue bloquée ne dirige plus la voiture ; grâce à l'ABS, le conducteur peu
 L'idée vient de l'aviation : des systèmes antidérapants ont d'abord équipé de gros avions, avant les voitures. En 1978, Mercedes-Benz lance les premières voitures de série dotées d'un ABS électronique sur les quatre roues, mis au point avec Bosch. Dans l'Union européenne, l'ABS est obligatoire sur les voitures neuves.
 
 ```schema
-type: cycle
 titre: La boucle de l'ABS
+type: cycle
 elements:
   - titre: Freinage fort
   - titre: Roue près du blocage
@@ -18567,7 +18585,7 @@ elements:
   - titre: Pression réduite
     texte: Un instant, sur cette roue.
   - titre: La roue retourne
-    texte: Le conducteur garde la direction.
+    texte: Le système aide à conserver une capacité de direction, dans les limites de l’adhérence.
 ```
 
 ## À retenir
@@ -18779,13 +18797,16 @@ En 2020, la Chine assurait environ 58 % de l'extraction mondiale, contre plus de
 Remplacer ces aimants est difficile. Les fabricants réduisent surtout la quantité de dysprosium, par exemple en la concentrant là où elle est utile dans l'aimant. Les aimants samarium-cobalt supportent mieux la chaleur, mais servent plutôt là où le poids compte peu. Toyota a mis au point un aimant sans terre rare lourde, moins performant, qu'il n'utilise pas dans ses hybrides.
 
 ```schema
-type: etapes
 titre: Le moteur à aimants
+legende: >-
+  Exemple d’un moteur à aimants permanents ; d’autres architectures fonctionnent sans aimants aux
+  terres rares.
+type: etapes
 elements:
   - titre: Stator
     texte: Le courant triphasé crée un champ tournant.
   - titre: Aimants au néodyme
-    texte: Les plus puissants du commerce.
+    texte: Forte aimantation dans un volume réduit.
     icone: magnet
   - titre: Rotor
     texte: Il suit le champ et fait tourner les roues.
@@ -19353,9 +19374,9 @@ colonnes:
 8. **Pilotage** : le calculateur moteur et des dizaines de capteurs.
 
 ```schema
-type: systeme
 titre: Les systèmes qui entourent le moteur
-legende: Chaque système dépend des autres. Une panne dans l'un se répercute souvent ailleurs.
+legende: 'Exemples de systèmes : équipement et réglages varient selon le moteur.'
+type: systeme
 centre: Moteur thermique
 icone: car
 parties:
@@ -19368,7 +19389,7 @@ parties:
   - nom: Lubrification
     role: La pompe à huile sépare les pièces métalliques par un film d'huile.
   - nom: Refroidissement
-    role: Pompe à eau, thermostat et radiateur gardent le moteur vers 90 °C.
+    role: Pompe, thermostat et radiateur régulent la température du moteur.
   - nom: Échappement et dépollution
     role: Catalyseur, FAP, EGR et SCR nettoient les gaz.
   - nom: Électricité
@@ -19811,8 +19832,9 @@ cylindres. Une fuite, un filtre bouché ou un capteur défaillant, et le moteur 
 7. **Le collecteur d'admission** répartit l'air entre les cylindres, où il entre par les soupapes.
 
 ```schema
-type: etapes
 titre: Le parcours de l'air
+legende: Exemple d’admission d’un moteur suralimenté ; les composants et leur ordre peuvent varier.
+type: etapes
 elements:
   - titre: Filtre à air
     texte: Il arrête les poussières.
@@ -20409,8 +20431,11 @@ plus de 300 ampères, plus encore pour un diesel par grand froid.
   moment où le moteur demande le plus de courant.
 
 ```schema
-type: echelle
 titre: Tension d'une batterie 12 volts au repos
+legende: >-
+  Repères pour une batterie au plomb après repos ; température, charge récente et état influencent
+  la mesure.
+type: echelle
 unite: V
 min: 11.5
 max: 13
@@ -20445,20 +20470,24 @@ de la batterie, pour la recharger sans la surcharger. Sur les voitures récentes
 pilote l'alternateur pour charger surtout au freinage et économiser du carburant.
 
 ```schema
-type: cycle
-titre: Le circuit électrique d'une voiture
-elements:
-  - titre: Batterie
-    texte: Elle fournit le fort courant du démarrage.
+titre: Démarrer, puis alimenter et recharger
+legende: >-
+  Les liaisons mécaniques et électriques sont distinctes ; ce n’est pas un circuit en série dans cet
+  ordre.
+type: systeme
+centre: Système de démarrage et de charge
+parties:
+  - nom: Batterie
+    role: Elle fournit le fort courant du démarrage.
     icone: battery
-  - titre: Démarreur
-    texte: Il lance le moteur grâce à un pignon.
+  - nom: Démarreur
+    role: Il lance le moteur grâce à un pignon.
     icone: gear
-  - titre: Moteur
-    texte: Il entraîne l'alternateur par une courroie.
+  - nom: Moteur
+    role: Il entraîne l'alternateur par une courroie.
     icone: car
-  - titre: Alternateur
-    texte: Il alimente la voiture et recharge la batterie vers 14 volts.
+  - nom: Alternateur
+    role: Il alimente la voiture et recharge la batterie vers 14 volts.
     icone: bolt
 ```
 
@@ -20596,8 +20625,8 @@ Le calculateur commande :
 - le **ventilateur**, la **pompe à carburant**, le **préchauffage**.
 
 ```schema
-type: etapes
 titre: La boucle de correction du mélange
+type: cycle
 elements:
   - titre: Mesurer l'air
     texte: Le débitmètre indique la quantité aspirée.

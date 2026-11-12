@@ -430,15 +430,16 @@ Ce ne sont pas des effets proportionnels. Certains basculent.
 - Un demi-degré de plus change qualitativement les risques, pas seulement quantitativement.
 
 ```schema
-type: chiffres
 titre: Les repères du budget carbone
+legende: Le budget dépend de l’objectif, de la probabilité retenue et de l’année du calcul.
+type: chiffres
 chiffres:
-  - valeur: 1,1 °C
-    texte: de réchauffement environ
+  - valeur: Budget limité
+    texte: Quantité cumulée de CO₂ compatible avec un objectif dans un cadre probabiliste.
   - valeur: Le cumul
-    texte: la température dépend du total émis, pas du rythme
-  - valeur: Quelques années
-    texte: d'émissions actuelles pour épuiser le budget de 1,5 °C
+    texte: Le cumul des émissions de CO₂ joue un rôle déterminant dans le réchauffement.
+  - valeur: Estimation datée
+    texte: Un budget restant évolue avec les émissions et les évaluations scientifiques.
 ```
 
 ---
@@ -961,8 +962,9 @@ systèmes naturels : leur réponse n'est pas toujours progressive.
 - Une forêt tropicale fabrique sa propre pluie, d'où un risque de bascule.
 
 ```schema
-type: comparaison
 titre: Stocker ou absorber du carbone
+legende: Stock et flux sont distincts ; une forêt ancienne peut aussi continuer à absorber du carbone.
+type: comparaison
 colonnes:
   - titre: Vieille forêt
     icone: tree
@@ -1952,12 +1954,13 @@ point haut et son itinéraire d'évacuation.
 pour l'assurance et ne pas boire l'eau du robinet avant l'accord des autorités.
 
 ```schema
-type: etapes
 titre: Quand l'eau monte
+type: etapes
 elements:
   - titre: Ne pas prendre la voiture
   - titre: Ne pas descendre à la cave
   - titre: Couper électricité et gaz
+    texte: Seulement si cela est possible sans s’exposer au danger.
   - titre: Monter à l'étage
     texte: Avec son kit d'urgence.
   - titre: Écouter la radio
@@ -2890,13 +2893,16 @@ et nécessite de stocker un produit chimique.
 - Le chlore et l'iode désinfectent en une trentaine de minutes une eau déjà claire.
 
 ```schema
-type: etapes
 titre: Rendre l'eau potable
+legende: >-
+  Clarifier ne suffit pas à rendre potable ; les contaminants chimiques peuvent exiger un traitement
+  différent.
+type: etapes
 elements:
   - titre: Clarifier
     texte: Une eau trouble protège les microbes.
   - titre: Désinfecter
-    texte: Bouillir une à trois minutes, soleil, filtre lent ou produit chimique.
+    texte: Par un procédé adapté et validé, selon les caractéristiques de l’eau.
     icone: droplet
   - titre: Conserver proprement
 ```
@@ -3130,8 +3136,8 @@ L'osmose inverse est aujourd'hui la technique dominante, car elle consomme moins
 Les usines rejettent une eau très salée, la saumure, en quantité supérieure à celle de l'eau douce produite. Plus dense, cette saumure peut couler au fond de la mer et nuire aux écosystèmes ; les prises d'eau peuvent aussi piéger des poissons. Le Moyen-Orient concentre la plus grande part de la capacité mondiale de dessalement.
 
 ```schema
-type: comparaison
 titre: Deux façons de dessaler
+type: comparaison
 colonnes:
   - titre: Distillation
     points:
@@ -3140,7 +3146,7 @@ colonnes:
   - titre: Osmose inverse
     points:
       - L'eau salée est forcée à travers une membrane
-      - Le sel reste de l'autre côté
+      - La membrane retient l’essentiel des sels dissous.
 ```
 
 ## À retenir
@@ -4634,9 +4640,11 @@ formes anciennes. Abandonnée avec la mécanisation, elle revient parce qu'elle 
 ## Ce que les arbres apportent
 
 ```schema
-type: systeme
 titre: Les services rendus par les arbres dans un champ
-legende: Arbres et cultures se partagent l'espace et se rendent service.
+legende: >-
+  Bénéfices possibles selon le choix des espèces et l’organisation ; arbres et cultures peuvent
+  aussi entrer en concurrence.
+type: systeme
 centre: Parcelle agroforestière
 icone: tree
 parties:
@@ -4795,13 +4803,15 @@ Une autre stratégie consiste à retirer le combustible sur le chemin des flamme
 La plupart des départs de feu sont d'origine humaine : mégots jetés, accidents, brûlage de déchets, actes volontaires. En France, il est interdit en été de faire du feu en forêt et à moins de 200 mètres des bois dans les zones à risque. Débroussailler est obligatoire sur 50 mètres autour des maisons. Des tours de guet, des patrouilles et Météo-France surveillent les jours de temps sec et venteux, quand le risque est le plus fort.
 
 ```schema
-type: cycle
+type: systeme
 titre: Le triangle du feu
-elements:
-  - titre: Combustible
+legende: Trois conditions réunies, pas trois étapes successives.
+centre: Combustion
+parties:
+  - nom: Combustible
     icone: tree
-  - titre: Oxygène
-  - titre: Chaleur
+  - nom: Oxygène
+  - nom: Chaleur
     icone: fire
 ```
 
@@ -5479,17 +5489,17 @@ La quantité d'ozone s'est stabilisée vers le milieu des années 1990. Selon un
 Attention : le trou dans la couche d'ozone n'est pas la cause du réchauffement climatique. Ce sont deux problèmes différents.
 
 ```schema
-type: etapes
 titre: La formation du trou d'ozone
+type: etapes
 elements:
   - titre: Les CFC montent
     texte: Des gaz très stables.
   - titre: Ils libèrent du chlore
     texte: En haute altitude.
   - titre: Le chlore détruit l'ozone
-    texte: Environ 100 000 molécules par atome.
+    texte: Il peut participer à de nombreuses réactions successives avant d’être désactivé.
   - titre: Le protocole de Montréal
-    texte: L'interdiction des CFC a marché.
+    texte: L’accord a conduit à réduire les émissions de substances destructrices de l’ozone.
 ```
 
 ## À retenir
@@ -6452,18 +6462,20 @@ Ces moyennes s'appellent des normales climatiques. On utilise 30 ans depuis 1935
 Une journée glaciale en hiver ne prouve pas que le climat se refroidit. Une journée très chaude ne prouve pas non plus, seule, qu'il se réchauffe. Pour parler du climat, il faut comparer des moyennes sur des dizaines d'années. C'est en comparant ces longues séries de mesures que les scientifiques ont montré que le climat de la Terre se réchauffe.
 
 ```schema
-type: comparaison
 titre: Météo ou climat
+type: comparaison
 colonnes:
   - titre: Météo
     icone: cloud
     points:
       - Le temps sur quelques heures ou jours
-      - Imprévisible au-delà de quelques jours
+      - La précision diminue avec l’échéance.
   - titre: Climat
     icone: globe
     points:
-      - Le temps moyen sur 30 ans
+      - >-
+        Statistiques du temps sur une longue période, souvent 30 ans : moyennes, variabilité et
+        extrêmes.
 ```
 
 ## À retenir
@@ -7045,14 +7057,15 @@ Un compost mûr ressemble à du terreau. Il est sombre et léger, et sent le sou
 Composter évite aussi de jeter ces déchets. Dans les décharges, les restes de nourriture et de jardin forment environ 20 % des déchets. Privés d'air, ils pourrissent lentement et dégagent du méthane, un puissant gaz à effet de serre.
 
 ```schema
-type: etapes
 titre: Faire un compost
+type: etapes
 elements:
   - titre: Mélanger
     texte: Déchets verts riches en azote et bruns riches en carbone.
   - titre: Laisser travailler
     texte: Bactéries, champignons et petits animaux.
-  - titre: Le tas chauffe
+  - titre: Chaleur libérée
+    texte: L’échauffement dépend notamment de la taille et du mélange.
   - titre: Compost mûr
     icone: leaf
 ```
@@ -11776,12 +11789,12 @@ Pour les littoraux, la montée de la mer signifie recul du trait de côte, subme
 Pour s'adapter, on peut construire des digues, recharger les plages, restaurer des dunes ou organiser le recul des habitations menacées.
 
 ```schema
-type: systeme
 titre: Pourquoi la mer monte
+type: systeme
 centre: Hausse du niveau de la mer
 icone: wave
 parties:
-  - nom: Fonte des glaces
+  - nom: Fonte des glaces continentales
     role: Elle ajoute de l'eau.
   - nom: Dilatation
     role: L'eau qui se réchauffe prend plus de place.
@@ -12204,17 +12217,17 @@ Le méthane a une durée de vie relativement courte dans l'atmosphère, où il e
 Les sources sont naturelles, comme les zones humides, et humaines : élevage, riziculture, extraction et fuites de gaz et de pétrole, décharges. Une grande partie des émissions actuelles vient d'activités humaines. Aux États-Unis, les plus grandes sources humaines sont les systèmes de pétrole et de gaz, l'élevage et les décharges. Réduire les fuites de gaz et les émissions des décharges et de l'agriculture est une façon d'agir vite, car le méthane disparaît assez vite de l'air.
 
 ```schema
-type: comparaison
 titre: Méthane et CO2
+type: comparaison
 colonnes:
   - titre: Méthane
     points:
-      - Environ 28 fois plus de chaleur retenue sur 100 ans
+      - À masse égale, pouvoir réchauffant environ 28 fois celui du CO₂ sur 100 ans.
       - Reste peu de temps dans l'air
   - titre: CO2
     points:
-      - Le plus abondant d'origine humaine
-      - Persiste des siècles
+      - Contribution majeure au réchauffement d’origine humaine.
+      - Une partie persiste des siècles et davantage.
 ```
 
 ## À retenir

@@ -1,3 +1,15 @@
+import { Physics50Drawing } from "./Physics50Drawings";
+import { Environment50Drawing } from "./Environment50Drawings";
+import { Agriculture50Drawing } from "./Agriculture50Drawings";
+import { Manufacturing50Drawing } from "./Manufacturing50Drawings";
+import { Engineering50Drawing } from "./Engineering50Drawings";
+import { ThermalHomeDrawing } from "./ThermalHomeDrawings";
+import { ConversionDrawing } from "./ConversionDrawings";
+import { ElectrochemicalDrawing } from "./ElectrochemicalDrawings";
+import { GridStorageDrawing } from "./GridStorageDrawings";
+import { NuclearDrawing } from "./NuclearDrawings";
+import { EnergyAccountingDrawing } from "./EnergyAccountingDrawings";
+import { RadioDrawing } from "./RadioDrawings";
 import { useId, type CSSProperties } from "react";
 import type { LessonDiagramSpec } from "@/lib/lesson-visuals/registry";
 import { DiagramSurface } from "@/components/discovery/DiagramSurface";
@@ -42,12 +54,17 @@ export function LessonDiagramCanvas({
       aria-hidden={decorative || undefined}
     >
       <svg
-        viewBox="0 0 360 210"
+        viewBox={`0 0 360 ${spec.canvasHeight ?? 210}`}
         aria-hidden="true"
         focusable="false"
         style={{ fontFamily: "var(--font-sans), system-ui, sans-serif" } as CSSProperties}
       >
         <DiagramSurface id={id} tint="#eef3f8" />
+        <Physics50Drawing {...props} />
+        <Environment50Drawing {...props} />
+        <Agriculture50Drawing {...props} />
+        <Manufacturing50Drawing {...props} />
+        <Engineering50Drawing {...props} />
         <EnergyDrawing {...props} />
         <EngineeringDrawing {...props} />
         <EarthDrawing {...props} />
@@ -61,6 +78,14 @@ export function LessonDiagramCanvas({
         <AeronauticsDrawing {...props} />
         <FlightSystemsDrawing {...props} />
         <AircraftPropulsionDrawing {...props} />
+        <RadioDrawing {...props} />
+        <ThermalHomeDrawing {...props} />
+        <ConversionDrawing {...props} />
+        <ElectrochemicalDrawing {...props} />
+        <GridStorageDrawing {...props} />
+        <NuclearDrawing {...props} />
+        <EnergyAccountingDrawing {...props} />
+
         <LearningDrawing {...props} />
         <AIUsageDrawing {...props} />
         <AIContextDrawing {...props} />

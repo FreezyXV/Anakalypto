@@ -1,0 +1,36 @@
+{
+  "environment": "isolated local PostgreSQL + next start :3003",
+  "summary": {
+    "scope": "PUBLISHED_ONLY",
+    "target": 1000,
+    "published": 896,
+    "untracked": 0,
+    "claimed": 0,
+    "counts": {
+      "WAITING_FOR_ILLUSTRATION": {
+        "label": "Sans illustration visuelle",
+        "count": 725
+      },
+      "REVIEW_REQUIRED": {
+        "label": "Illustration à vérifier",
+        "count": 0
+      },
+      "READY": {
+        "label": "Prête, illustration incluse et vérifiée",
+        "count": 171
+      },
+      "NEEDS_IMPROVEMENT": {
+        "label": "Illustration à améliorer",
+        "count": 0
+      }
+    }
+  },
+  "allLessonsPaginated": 896,
+  "pages": 9,
+  "uniqueRefs": 896,
+  "defaultQueueSize": 50,
+  "invalidQueries": [400, 400, 400, 400],
+  "publicPostStatus": 405,
+  "cacheControl": "no-store",
+  "noDraftContentOrOwnersExposed": true
+}

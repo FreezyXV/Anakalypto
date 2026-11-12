@@ -270,8 +270,8 @@ avec certains implants métalliques.
 - L'IRM offre le meilleur contraste des tissus mous, sans rayonnement ionisant.
 
 ```schema
-type: comparaison
 titre: Quatre façons de voir à l'intérieur du corps
+type: comparaison
 colonnes:
   - titre: Radiographie et scanner
     points:
@@ -279,8 +279,8 @@ colonnes:
       - Le scanner reconstruit un volume
   - titre: Échographie
     points:
-      - Ultrasons, sans rayonnement
-      - Ne traverse ni l'os ni l'air
+      - Ultrasons, sans rayonnement ionisant.
+      - L’os et l’air gênent fortement leur propagation et la formation de l’image.
   - titre: IRM
     points:
       - Aimant puissant et ondes radio
@@ -558,8 +558,11 @@ Un résultat isolé, aussi spectaculaire soit-il, attend confirmation.
 - Un résultat statistiquement significatif peut être cliniquement négligeable.
 
 ```schema
-type: pyramide
 titre: La hiérarchie des preuves
+legende: >-
+  Repère pour les effets d’une intervention : une méta-analyse ne corrige pas automatiquement les
+  défauts des études qu’elle rassemble.
+type: pyramide
 niveaux:
   - titre: Méta-analyse d'essais randomisés
   - titre: Essai randomisé
@@ -1121,15 +1124,15 @@ milliers de variétés anciennes pour cette raison.
 - La concentration sur peu de variétés crée une vulnérabilité collective.
 
 ```schema
-type: frise
 titre: Les méthodes d'amélioration des plantes
+type: frise
 evenements:
   - date: Depuis le Néolithique
     titre: Sélection empirique
     texte: On garde les meilleures plantes.
   - date: Ensuite
     titre: Croisement dirigé
-    texte: La vigueur hybride ne se transmet pas.
+    texte: Le croisement combine des caractères ; la descendance d’un hybride peut devenir hétérogène.
   - date: Aujourd'hui
     titre: Édition génomique
     texte: Elle modifie une séquence existante.
@@ -1260,8 +1263,9 @@ guidage.
   un seul levier.
 
 ```schema
+titre: Des leviers de l’agriculture durable
+legende: Leur intérêt et leur mise en œuvre dépendent du contexte local.
 type: systeme
-titre: Les pratiques qui font consensus
 centre: Agriculture durable
 icone: leaf
 parties:
@@ -1608,10 +1612,10 @@ l'examen du corps.
   d'écouter le cœur, les poumons et l'intestin et de reconnaître de nombreuses maladies.
 
 ```schema
-type: echelle
 titre: Fréquence cardiaque d'un adulte au repos
-legende: Valeurs indicatives ; un sportif entraîné peut descendre plus bas.
-unite: battements/min
+legende: bpm = battements par minute. Valeurs indicatives ; un sportif entraîné peut descendre plus bas.
+type: echelle
+unite: bpm
 min: 30
 max: 160
 zones:
@@ -2192,12 +2196,12 @@ Dans tous ces cas, on a isolé la substance active, vérifié son efficacité pa
 dose précise.
 
 ```schema
-type: systeme
 titre: Des plantes devenues médicaments
+type: systeme
 centre: Substance active isolée et testée
 parties:
   - nom: Saule
-    role: Aspirine.
+    role: Salicylés, à l’origine du développement de l’aspirine de synthèse.
   - nom: Pavot
     role: Morphine.
   - nom: Quinquina
@@ -3532,15 +3536,17 @@ lysine, que les légumineuses apportent. D'où les associations traditionnelles 
 lentilles, maïs et haricots, semoule et pois chiches.
 
 ```schema
-type: systeme
 titre: Un jardin nourricier équilibré
+type: systeme
 centre: Alimentation équilibrée
 icone: wheat
 parties:
   - nom: Énergie
     role: Pommes de terre, céréales, patates douces, manioc.
   - nom: Protéines
-    role: Haricots, lentilles, pois, soja, qui fixent l'azote.
+    role: >-
+      Haricots, lentilles, pois, soja ; les légumineuses peuvent héberger des bactéries fixatrices
+      d’azote.
   - nom: Vitamines
     role: Légumes verts et colorés, fruits.
   - nom: Graisses
@@ -3721,11 +3727,14 @@ l'azote.
 - La pratique est documentée depuis l'Antiquité en Chine et généralisée en Europe au Moyen Âge.
 
 ```schema
-type: cycle
 titre: Une rotation sur quatre ans
+legende: >-
+  Exemple à adapter aux cultures et aux maladies ; l’azote laissé dépend notamment de la récolte et
+  des résidus.
+type: cycle
 elements:
   - titre: Légumineuses
-    texte: Elles enrichissent le sol en azote.
+    texte: Associées à des bactéries fixatrices d’azote.
   - titre: Légumes feuilles
     texte: Gourmands en azote.
   - titre: Légumes fruits
@@ -4217,8 +4226,9 @@ ces usages.
 - Le choix des animaux dépend du terrain, du climat et des besoins précis de l'exploitation.
 
 ```schema
+titre: Des flux complémentaires à la ferme
+legende: Boucle simplifiée, avec aussi des apports, des exportations et des pertes.
 type: cycle
-titre: Une ferme en circuit fermé
 elements:
   - titre: Animaux
     texte: Traction, lait et viande.
@@ -4336,8 +4346,11 @@ durer plusieurs années dans de bonnes conditions.
   présents.
 
 ```schema
-type: systeme
 titre: Les méthodes de conservation
+legende: >-
+  Chaque méthode exige des conditions adaptées au produit ; ce schéma n’est pas un protocole de
+  conservation.
+type: systeme
 centre: Récoltes
 parties:
   - nom: Séchage
@@ -4349,7 +4362,7 @@ parties:
   - nom: Fermentation
     role: Transforme l'aliment.
   - nom: Conserves
-    role: Isolent l'aliment de l'air.
+    role: Traitement validé et fermeture hermétique ; l’absence d’air seule ne suffit pas.
 ```
 
 ---
@@ -4786,13 +4799,13 @@ En se décomposant lentement, un paillis organique apporte de la matière au sol
 Une couche trop épaisse ou mal choisie peut pourrir au lieu de se décomposer doucement. Elle bloque alors l'eau et l'air. Certains bois très riches en carbone consomment de l'azote en se décomposant : les plantes en ont moins pendant un temps. L'écorce de pin peut rendre certains sols un peu plus acides. Et de l'herbe fraîchement tondue, posée en tas, peut chauffer et abîmer les plantes.
 
 ```schema
-type: systeme
 titre: Ce que fait un paillis
+type: systeme
 centre: Paillis
 parties:
   - nom: Garde l'eau
     role: Il freine l'évaporation.
-  - nom: Bloque les mauvaises herbes
+  - nom: Limite la levée de nombreuses adventices
     role: Privées de lumière.
   - nom: Protège et nourrit le sol
 ```
@@ -6547,14 +6560,14 @@ En 1978, l'entreprise américaine Genentech a réussi à faire produire de l'ins
 Aujourd'hui, la plupart des insulines utilisées sont produites de cette façon. Elles ont presque complètement remplacé les insulines de porc et de bœuf.
 
 ```schema
-type: frise
 titre: L'histoire de l'insuline
+type: frise
 evenements:
-  - date: 1922
+  - date: '1922'
     titre: Première injection
-    texte: À Toronto.
+    texte: À Toronto, avec un extrait de pancréas animal.
   - date: Ensuite
-    titre: Insulines animales
+    titre: Production d’insulines animales
     texte: Tirées du pancréas d'animaux.
   - date: Génie génétique
     titre: Insuline produite par des bactéries
@@ -8217,9 +8230,11 @@ Le simple aveugle, où seul le patient ignore son groupe, ne suffit donc pas.
 ## Comment se déroule un essai en double aveugle
 
 ```schema
-type: etapes
 titre: Les étapes d'un essai contrôlé randomisé en double aveugle
-legende: Le code qui relie chaque patient à son traitement reste secret jusqu'à l'analyse.
+legende: >-
+  Le code est protégé pendant l’essai ; une levée anticipée encadrée peut être nécessaire pour la
+  sécurité.
+type: etapes
 elements:
   - titre: Tirage au sort
     texte: Les patients sont répartis au hasard en deux groupes.
@@ -9023,16 +9038,20 @@ Les virus n'ont ni paroi ni ribosomes à eux. Les antibiotiques n'ont donc rien 
 Alexander Fleming a découvert la pénicilline en 1928. Sa production en masse a commencé dans les années 1940. Mais plus on utilise d'antibiotiques, plus les bactéries capables de leur résister prennent le dessus. C'est pourquoi on ne les prend que sur ordonnance, quand ils sont vraiment utiles.
 
 ```schema
-type: systeme
 titre: Les cibles des antibiotiques
-legende: Des pièces que les bactéries possèdent et que nos cellules n'ont pas.
+legende: >-
+  Cibles absentes de nos cellules ou suffisamment différentes ; des effets indésirables restent
+  possibles.
+type: systeme
 centre: Bactérie
 icone: microscope
 parties:
   - nom: Paroi
     role: Bloquée par les pénicillines.
   - nom: Ribosomes
+    role: Différents de ceux du cytoplasme humain.
   - nom: Copie de l'ADN
+    role: Des enzymes bactériennes peuvent être ciblées.
 ```
 
 ## À retenir
@@ -12541,8 +12560,11 @@ Le PLA, ou acide polylactique, est fabriqué par fermentation de l'amidon de ma�
 Les plastiques compostables se décomposent en général dans des installations de compostage industriel, après avoir été collectés. Le PLA se dégrade mal dans les décharges et les composts domestiques, et se dégrade en mer comme les plastiques issus du pétrole. Les cultures qui les produisent font concurrence à l'alimentation et utilisent des terres, des engrais et des pesticides. Selon les études, certains bioplastiques réduisent l'empreinte carbone, d'autres abîment plus l'environnement que les plastiques du pétrole. Le coût et les performances posent problème : le PLA est cassant et résiste mal à la chaleur. L'Union européenne a adopté un cadre pour éviter les fausses allégations de biodégradabilité, qui pourraient encourager à jeter ces plastiques dans la nature. Les bioplastiques représentent encore une petite part de la production mondiale de plastiques.
 
 ```schema
-type: comparaison
 titre: Trois mots à ne pas confondre
+legende: >-
+  La dégradation exige des conditions et des durées définies ; compostable ne signifie pas
+  dégradable partout dans la nature.
+type: comparaison
 colonnes:
   - titre: Biosourcé
     points:

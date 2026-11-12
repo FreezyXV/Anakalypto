@@ -847,16 +847,17 @@ perdre connaissance par manque d'oxygène sans avoir jamais ressenti l'envie de 
 - C'est le dioxyde de carbone, pas l'oxygène, qui commande la respiration.
 
 ```schema
-type: etapes
 titre: Le trajet de l'oxygène
+legende: Le rythme respiratoire est un mécanisme de régulation distinct, sensible notamment au CO₂.
+type: etapes
 elements:
   - titre: Inspiration
   - titre: Alvéoles
     texte: Environ 70 m² de surface d'échange.
   - titre: Diffusion
     texte: L'oxygène passe dans le sang, sans dépense d'énergie.
-  - titre: Rythme
-    texte: Commandé surtout par le taux de dioxyde de carbone.
+  - titre: Organes
+    texte: Le sang distribue l’oxygène aux tissus.
 ```
 
 ---
@@ -1110,14 +1111,14 @@ aujourd'hui.
 - La communication intestin-cerveau existe, mais ses effets restent en cours d'étude.
 
 ```schema
-type: systeme
 titre: Ce que fait le microbiote pour nous
 legende: De l'ordre de dix mille milliards de micro-organismes.
+type: systeme
 centre: Microbiote intestinal
 parties:
   - nom: Digérer les fibres
   - nom: Fabriquer des vitamines
-  - nom: Bloquer les bactéries dangereuses
+  - nom: Contribuer à limiter l’installation de certains microbes
   - nom: Dialoguer avec le cerveau
 ```
 
@@ -1355,15 +1356,15 @@ exploite : créer la mémoire sans faire passer par la maladie.
 - Les cellules mémoire permettent une réponse bien plus rapide à la deuxième rencontre.
 
 ```schema
-type: comparaison
 titre: Les deux défenses du corps
+type: comparaison
 colonnes:
   - titre: Immunité innée
     icone: shield
     points:
       - Réagit en quelques heures
-      - Sans cible précise
-      - Sans mémoire
+      - Reconnaît des motifs communs à des microbes ou à des lésions.
+      - Pas la même mémoire spécifique que l’immunité adaptative.
   - titre: Immunité adaptative
     icone: microscope
     points:
@@ -1487,15 +1488,15 @@ médicale en cas de risque élevé.
 - L'introduction alimentaire précoce est désormais recommandée chez le nourrisson.
 
 ```schema
-type: etapes
 titre: Le mécanisme de l'allergie immédiate
+type: etapes
 elements:
   - titre: Première exposition
     texte: Silencieuse, c'est la sensibilisation.
   - titre: Nouvelle exposition
     texte: La réaction se déclenche contre une substance inoffensive.
-  - titre: Anaphylaxie
-    texte: L'urgence se traite par adrénaline injectable.
+  - titre: Réaction variable
+    texte: Une anaphylaxie est une forme grave possible, pas une étape systématique.
 ```
 
 ---
@@ -1868,17 +1869,18 @@ C'est pourquoi une simple marche après le repas abaisse réellement la glycémi
 - Le muscle en contraction absorbe le glucose sans passer par l'insuline.
 
 ```schema
-type: etapes
-titre: Comment s'installe le diabète de type 2
-elements:
-  - titre: Résistance à l'insuline
-    texte: Des années avant le diagnostic.
-  - titre: Glycémie en hausse
-    texte: L'hémoglobine glyquée reflète deux à trois mois.
-  - titre: Complications
-    texte: Petits et gros vaisseaux.
-  - titre: Prévention
-    texte: Le muscle en activité consomme le glucose.
+titre: Mécanismes, suivi et prévention du diabète de type 2
+type: systeme
+centre: Diabète de type 2
+parties:
+  - nom: Résistance à l'insuline
+    role: Des années avant le diagnostic.
+  - nom: Glycémie en hausse
+    role: L'hémoglobine glyquée reflète deux à trois mois.
+  - nom: Complications
+    role: Petits et gros vaisseaux.
+  - nom: Prévention
+    role: Le muscle en activité consomme le glucose.
 ```
 
 ---
@@ -2397,8 +2399,8 @@ la balance réelle n'a pas changé.
 - Le seuil avoisine 95 % pour la rougeole, très contagieuse.
 
 ```schema
-type: etapes
 titre: Comment marche un vaccin
+type: etapes
 elements:
   - titre: Présenter l'agent
     texte: Atténué, inactivé, fragment ou ARN messager.
@@ -2408,7 +2410,9 @@ elements:
   - titre: Mémoire
     texte: Le corps reconnaîtra l'agent.
   - titre: Immunité collective
-    texte: Elle protège ceux qui ne peuvent pas être vaccinés.
+    texte: >-
+      Possible lorsque la vaccination réduit la transmission ; ce n’est pas le cas de tous les
+      vaccins.
 ```
 
 ---
@@ -2531,13 +2535,13 @@ donné. Ces derniers sont encore en évaluation clinique.
 - La conception ne demande que la séquence génétique de la cible.
 
 ```schema
-type: etapes
 titre: Le vaccin à ARN messager
+type: etapes
 elements:
   - titre: La recette
     texte: L'ARN apporte la recette de l'antigène.
   - titre: Le cytoplasme
-    texte: Il y reste, sans toucher l'ADN.
+    texte: L’ARN y est utilisé puis dégradé, sans modifier l’ADN.
   - titre: L'antigène
     texte: La cellule le fabrique.
   - titre: La réponse
@@ -2815,8 +2819,9 @@ environ, sans interrompre les compressions plus de quelques secondes lors du cha
 - Agir dans les premières minutes, avant l'arrivée des secours, améliore nettement les chances de survie.
 
 ```schema
+titre: Repères des compressions thoraciques chez l’adulte
+legende: Repères intégrés à une réanimation avec alerte des secours et défibrillateur selon ses consignes.
 type: chiffres
-titre: Les repères du massage cardiaque
 chiffres:
   - valeur: 100 à 120
     texte: compressions par minute
@@ -3011,8 +3016,11 @@ ne sont pas disponibles : un lien trop fin coupe la peau sans arrêter le saigne
 - Un adulte peut mourir d'une perte de sang en moins de cinq minutes.
 
 ```schema
+titre: Des moyens de contrôler un saignement important
+legende: >-
+  Alerter les secours et adapter les gestes à la situation ; le garrot concerne une hémorragie de
+  membre quand la compression est impossible ou inefficace.
 type: etapes
-titre: Arrêter une hémorragie
 elements:
   - titre: Pression directe
     texte: Prolongée, elle arrête la plupart des saignements.
@@ -3468,8 +3476,11 @@ Même quand l'objet est sorti, un avis médical est recommandé : l'étouffement
 - Une perte de connaissance impose d'alerter les secours et de commencer immédiatement une réanimation.
 
 ```schema
+titre: Obstruction sévère chez un adulte conscient
+legende: >-
+  Si la toux est efficace, encourager à tousser. Les nourrissons et la perte de connaissance
+  nécessitent une prise en charge différente.
 type: etapes
-titre: Face à un étouffement
 elements:
   - titre: Elle tousse
     texte: La laisser tousser.
@@ -3478,7 +3489,9 @@ elements:
   - titre: Toujours bloquée
     texte: Cinq compressions abdominales, la manœuvre de Heimlich.
   - titre: Alterner
-    texte: Claques et compressions jusqu'au dégagement.
+    texte: >-
+      Alterner tant que la personne reste consciente et que l’obstruction persiste ; faire alerter
+      les secours.
 ```
 
 ---
@@ -5365,9 +5378,9 @@ se forme et bouche l'artère. Dans le cœur, c'est l'infarctus ; dans le cerveau
 ## Les principaux facteurs sur lesquels agir
 
 ```schema
-type: systeme
 titre: Les facteurs de risque que l'on peut changer
-legende: Ils abîment les artères par le même mécanisme et se renforcent les uns les autres.
+legende: Ils agissent par des mécanismes différents et peuvent se renforcer mutuellement.
+type: systeme
 centre: Risque cardiovasculaire
 icone: heart
 parties:
@@ -5545,13 +5558,13 @@ En France, depuis un décret de 2007, toute personne, même non médecin, a le d
 Lors d'un arrêt cardiaque, les chances de survie baissent d'environ 10 % à chaque minute qui passe sans aide. Il faut donc agir vite : appeler les secours, commencer le massage cardiaque et faire chercher un défibrillateur. Le massage fait circuler un peu de sang et apporte de l'oxygène au cœur. Il rend le choc plus efficace. Les deux gestes vont ensemble.
 
 ```schema
-type: etapes
 titre: Le défibrillateur
+type: etapes
 elements:
   - titre: Fibrillation
     texte: Le cœur tremble au lieu de pomper.
   - titre: Analyse
-    texte: L'appareil ne choque que si c'est utile.
+    texte: L’appareil détermine si le rythme détecté justifie un choc.
   - titre: Choc
     texte: Il arrête les signaux désordonnés.
     icone: bolt
@@ -8559,14 +8572,17 @@ Il existe une autre méthode, la dialyse péritonéale. Elle utilise une membran
 Le médecin néerlandais Willem Kolff a construit le premier dialyseur utilisable en 1943. En 1945, il a soigné une femme de 67 ans tombée dans le coma parce que ses reins ne marchaient plus. Après 11 heures de dialyse, elle s'est réveillée.
 
 ```schema
-type: etapes
 titre: La dialyse
-legende: Les reins filtrent environ 1 700 litres de sang par jour.
+legende: >-
+  La dialyse retire certains déchets et l’excès d’eau ; elle ne remplace pas toutes les fonctions du
+  rein.
+type: etapes
 elements:
   - titre: Sang prélevé
   - titre: Filtre à membrane
-    texte: Seules les petites molécules la traversent.
+    texte: Une membrane permet des échanges de solutés avec un liquide de dialyse.
   - titre: Déchets retirés
+    texte: Des déchets et de l’eau en excès sont retirés selon les réglages.
   - titre: Sang rendu au corps
 ```
 
@@ -9513,17 +9529,19 @@ Avec SODIS, 6 heures de plein soleil dans une bouteille transparente en PET suff
 Il faut savoir faire un feu, ou disposer de soleil et de bouteilles transparentes. En cas de doute sur une source d'eau, demander l'avis d'un professionnel de santé.
 
 ```schema
-type: etapes
-titre: Rendre l'eau sûre
-elements:
-  - titre: Décanter ou filtrer
-    texte: À travers un tissu propre si l'eau est trouble.
-  - titre: Faire bouillir
-    texte: Une minute à gros bouillons, trois au-dessus de 2 000 m.
-    icone: fire
-  - titre: Ou SODIS
-    texte: Bouteille transparente au plein soleil.
-    icone: sun
+titre: Clarifier puis désinfecter l’eau
+legende: >-
+  Un tissu retire des particules mais ne désinfecte pas ; ces méthodes ne retirent pas
+  nécessairement les contaminants chimiques.
+type: comparaison
+colonnes:
+  - titre: Clarification
+    points:
+      - Décantation ou préfiltration d’une eau trouble.
+  - titre: Désinfection
+    points:
+      - Ébullition ou autre procédé adapté et validé.
+      - L’efficacité dépend du procédé et des conditions, pas seulement de l’aspect clair.
 ```
 
 ## À retenir
@@ -10588,11 +10606,11 @@ L'anticorps ne tue pas le microbe tout seul. Il agit de plusieurs façons. Il pe
 Il existe cinq grandes classes d'anticorps. Les IgM arrivent en premier lors d'une infection. Les IgG sont les plus nombreux dans le sang : 70 à 75 % des anticorps. Ce sont les seuls à traverser le placenta : la mère protège ainsi son bébé avant la naissance. Les IgA protègent les muqueuses, comme l'intérieur du nez ou de l'intestin, et se trouvent dans le lait maternel. Les IgE jouent un rôle dans les allergies. Les IgD servent de capteurs à la surface des lymphocytes B.
 
 ```schema
-type: etapes
 titre: L'anticorps, une clé pour chaque serrure
+type: etapes
 elements:
-  - titre: Lymphocyte B
-    texte: Il fabrique l'anticorps en forme de Y.
+  - titre: Plasmocyte
+    texte: Issu d’un lymphocyte B, il sécrète des anticorps.
   - titre: Épitope
     texte: Un petit morceau du microbe.
   - titre: Emboîtement
@@ -17626,15 +17644,16 @@ Selon une hypothèse, le corps prend le relâchement des muscles pour une chute 
 Des horaires de sommeil irréguliers, le stress, l'anxiété, les stimulants comme la caféine et le tabac, la fatigue et l'effort physique le soir semblent augmenter ces secousses. Elles sont en général bénignes et ne causent pas de dommage neurologique ; dans les cas sévères, elles peuvent toutefois perturber le sommeil.
 
 ```schema
-type: systeme
 titre: La secousse hypnique
+type: systeme
 centre: Au seuil du sommeil
 parties:
   - nom: Contraction brusque
     role: Involontaire, des muscles.
   - nom: Sensation de chute
   - nom: Cœur qui s'accélère
-  - nom: Sans gravité
+  - nom: Habituellement bénigne
+    role: Lorsqu’elle est occasionnelle au moment de l’endormissement.
 ```
 
 ## À retenir
@@ -17853,9 +17872,11 @@ l'essentiel. Une méthode utilisée dans les formations de survie se résume ain
 5. **La nourriture**, qui compte surtout au-delà de quelques jours.
 
 ```schema
-type: pyramide
 titre: L'ordre des priorités quand tout manque
-legende: On traite d'abord ce qui tue le plus vite.
+legende: >-
+  Aide-mémoire très approximatif ; le danger réel et les priorités dépendent de la situation, sans
+  durée de survie garantie.
+type: pyramide
 niveaux:
   - titre: Nourriture
     texte: Environ 3 semaines sans manger.
@@ -18153,33 +18174,18 @@ D'où la règle : on peut tomber en hypothermie par 10 °C, mouillé et dans le 
 6. La **manipuler doucement**, sans la frictionner, et appeler les secours, au 15 ou au 112.
 
 ```schema
-type: echelle
-titre: La température du corps, de l'hypothermie au coup de chaleur
-legende: Valeurs indicatives chez l'adulte.
-unite: °C
-min: 28
-max: 43
-zones:
-  - de: 28
-    a: 35
-    label: Hypothermie, urgence
-    ton: danger
-  - de: 35
-    a: 36.5
-    label: Corps trop froid, à surveiller
-    ton: attention
-  - de: 36.5
-    a: 37.5
-    label: Température normale
-    ton: normal
-  - de: 37.5
-    a: 40
-    label: Fièvre ou forte chaleur
-    ton: attention
-  - de: 40
-    a: 43
-    label: Coup de chaleur, urgence
-    ton: danger
+type: comparaison
+titre: Deux dérèglements de la température
+legende: "Les signes et le contexte comptent aussi : une valeur isolée ne suffit pas au diagnostic."
+colonnes:
+  - titre: Hypothermie
+    points:
+      - Le corps perd plus de chaleur qu’il n’en produit.
+      - La température centrale baisse.
+  - titre: Coup de chaleur
+    points:
+      - Le corps n’arrive plus à évacuer la chaleur.
+      - Une atteinte neurologique peut accompagner l’hyperthermie.
 ```
 
 ## Prévenir le froid

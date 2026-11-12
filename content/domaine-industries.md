@@ -293,9 +293,11 @@ mondiale dépasse largement le gisement disponible.
 - Le recyclage de la ferraille émet bien moins, mais la ressource est limitée.
 
 ```schema
-type: comparaison
 titre: Deux façons de retirer l'oxygène du minerai
-legende: La sidérurgie pèse environ 8 % des émissions mondiales de CO2 liées à l'énergie.
+legende: >-
+  Comparaison de l’étape de réduction ; le bilan global dépend notamment de la production
+  d’hydrogène et d’électricité.
+type: comparaison
 colonnes:
   - titre: Avec du carbone
     points:
@@ -437,14 +439,14 @@ pression, ce qui impose des normes strictes et des contrôles constants.
 - L'industrie fonctionne en continu, ce qui rend les arrêts très coûteux.
 
 ```schema
-type: etapes
 titre: Des molécules de base aux produits
+type: etapes
 elements:
   - titre: Quelques molécules de base
     icone: flask
   - titre: Catalyseurs
     texte: Ils accélèrent les réactions.
-  - titre: Production en continu
+  - titre: Production en continu ou en lots
   - titre: Des dizaines de milliers de produits
     texte: Dont les engrais tirés de l'ammoniac.
 ```
@@ -849,8 +851,11 @@ et rien ne s'assemblerait.
 - On surveille le procédé plutôt que de trier les pièces après fabrication.
 
 ```schema
-type: systeme
 titre: Pourquoi une vis se visse partout
+legende: >-
+  Compatibilité à condition de respecter le même diamètre, le même pas, la même norme et les
+  tolérances adaptées.
+type: systeme
 centre: Interchangeabilité
 parties:
   - nom: Tolérance
@@ -984,8 +989,9 @@ l'environnement.
 - Les équipements industriels anciens ne sont pas conçus pour être connectés en sécurité.
 
 ```schema
-type: comparaison
 titre: Trois façons d'entretenir une machine
+legende: Des mesures aident à estimer le moment d’intervention ; elles n’excluent pas toute panne imprévue.
+type: comparaison
 colonnes:
   - titre: Après la panne
     points:
@@ -1119,16 +1125,16 @@ personnalisé avant de l'appliquer.
 - Sa fidélité conditionne entièrement son utilité.
 
 ```schema
-type: comparaison
 titre: Jumeau numérique ou simulation
+type: comparaison
 colonnes:
   - titre: Simulation
     points:
-      - Un modèle théorique
+      - Exécution d’un modèle pour étudier un comportement.
   - titre: Jumeau numérique
     points:
-      - Relié en continu aux données réelles
-      - Vieillit avec son original
+      - Modèle associé à un objet ou processus réel, actualisé avec des données.
+      - Suit son évolution avec les limites de ses mesures et de son modèle.
 ```
 
 ---
@@ -1399,8 +1405,8 @@ non.
 - Le recyclage des composites reste le principal point faible.
 
 ```schema
+titre: Un composite renforcé par des fibres
 type: systeme
-titre: Un matériau composite
 centre: Composite
 parties:
   - nom: Fibres
@@ -1831,8 +1837,9 @@ bleu pour un acier plus souple et résistant aux chocs.
   atteinte.
 
 ```schema
-type: etapes
 titre: Trempe et revenu
+legende: Exemple d’un acier apte à la trempe ; températures et traitements sont adaptés à l’alliage.
+type: etapes
 elements:
   - titre: Chauffer
     icone: fire
@@ -4808,9 +4815,9 @@ chemin, un **col** plus bas : bien plus de molécules ont assez d'énergie pour 
 va beaucoup plus vite, parfois des millions de fois.
 
 ```schema
-type: comparaison
 titre: Une réaction avec et sans catalyseur
 legende: Le point de départ et d'arrivée sont les mêmes ; seul le chemin change.
+type: comparaison
 colonnes:
   - titre: Sans catalyseur
     icone: mountain
@@ -4821,9 +4828,9 @@ colonnes:
   - titre: Avec catalyseur
     icone: flask
     points:
-      - Un chemin qui demande moins d'énergie
+      - Une barrière d’activation plus basse.
       - Beaucoup plus de molécules réagissent
-      - Catalyseur intact à la fin
+      - Régénéré pendant le cycle catalytique, sans être consommé par la réaction globale.
 ```
 
 ## Deux grandes familles
@@ -5217,8 +5224,8 @@ Pour obtenir un fer pauvre en carbone, on a longtemps affiné la fonte. Affiner,
 L'acier se situe entre la fonte et le fer forgé. Ses atomes de carbone se glissent entre les atomes de fer. Quand on tire ou qu'on appuie sur le métal, ils gênent les mouvements à l'intérieur. L'acier devient ainsi plus dur et plus solide que le fer pur, tout en restant capable de se plier. En ajoutant d'autres éléments, on change encore ses qualités. Avec plus de 10 % de chrome, il devient inoxydable et rouille beaucoup moins. Aujourd'hui, le monde produit plus de 1,6 milliard de tonnes d'acier par an. En 2023, la Chine en a fabriqué 54 %.
 
 ```schema
-type: comparaison
 titre: Une affaire de carbone
+type: comparaison
 colonnes:
   - titre: Fonte
     points:
@@ -5226,7 +5233,7 @@ colonnes:
       - Se moule bien, cassante
   - titre: Acier
     points:
-      - Entre les deux
+      - Fer avec une teneur en carbone réglée pour obtenir les propriétés recherchées.
   - titre: Fer forgé
     points:
       - Très peu de carbone
@@ -7530,8 +7537,9 @@ Une fois durci, le matériau ne fond plus et ne se dissout plus. Il résiste sou
 Le chimiste belge Leo Baekeland a mis au point la bakélite entre 1907 et 1909. Il obtient son brevet le 7 décembre 1909. C'est le premier plastique entièrement synthétique, et c'est un thermodurcissable. Elle isole bien de l'électricité et résiste à la chaleur. Entre 1920 et 1950, elle a servi à fabriquer des téléphones, des postes de radio, des prises électriques et des interrupteurs.
 
 ```schema
-type: comparaison
 titre: Deux familles de plastiques
+legende: Une remise en forme est possible, mais les traitements répétés peuvent dégrader le matériau.
+type: comparaison
 colonnes:
   - titre: Thermoplastiques
     points:
@@ -12193,8 +12201,11 @@ Un four à arc électrique fond de la ferraille, ou du fer de réduction directe
 Dans le monde, la voie haut-fourneau fournit la majorité de l'acier, et le four électrique environ un tiers. La sidérurgie est responsable d'une part importante des émissions mondiales de CO2.
 
 ```schema
-type: comparaison
 titre: Deux filières de l'acier
+legende: >-
+  L’empreinte dépend de l’électricité et des matières utilisées ; le four électrique permet
+  notamment de recycler des ferrailles.
+type: comparaison
 colonnes:
   - titre: Haut-fourneau
     icone: factory
@@ -12489,13 +12500,13 @@ En Europe, des gigafactories de batteries ont été lancées par ACC en France, 
 Northvolt, entreprise suédoise, devait devenir le champion européen de la batterie, mais elle a fini en faillite. Selon une enquête de la télévision publique suédoise, seule une très petite quantité d'accumulateurs avait été vendue. Un ancien employé a affirmé que la direction avait caché des défauts de production et des problèmes financiers. BMW a annulé un important contrat à cause de retards de livraison. Plusieurs sources estiment qu'une grande part des gigafactories européennes risque des retards ou des annulations.
 
 ```schema
-type: systeme
 titre: Les gigafactories
+type: systeme
 centre: Gigafactory
 icone: factory
 parties:
   - nom: Capacité
-    role: En gigawattheures.
+    role: Capacité annuelle de production de cellules, exprimée en GWh/an.
   - nom: Origine du mot
     role: Tesla, Nevada.
   - nom: Difficultés

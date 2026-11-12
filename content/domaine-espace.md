@@ -446,8 +446,9 @@ tandis que la rotation de la Terre ralentit très légèrement.
 - La Lune stabilise l'axe de rotation terrestre et s'éloigne de quelques centimètres par an.
 
 ```schema
-type: etapes
 titre: La naissance de la Lune
+legende: Scénario d’impact géant dominant ; les détails de la formation de la Lune restent étudiés.
+type: etapes
 elements:
   - titre: Collision géante
     texte: Un corps de la taille de Mars percute la jeune Terre.
@@ -714,9 +715,9 @@ sang : tous ont été fabriqués dans des étoiles mortes avant la naissance du 
 - Les éléments dont nous sommes faits ont été fabriqués dans des étoiles.
 
 ```schema
-type: comparaison
 titre: La fin d'une étoile selon sa masse
-legende: Plus une étoile est massive, plus sa vie est courte.
+legende: Grandes voies simplifiées ; masse et conditions de l’étoile déterminent l’issue exacte.
+type: comparaison
 colonnes:
   - titre: Comme le Soleil
     icone: sun
@@ -1105,13 +1106,13 @@ l'infrarouge traverse.
 - La face froide est maintenue autour de moins 233 degrés.
 
 ```schema
-type: chiffres
 titre: Le télescope James Webb
+type: chiffres
 chiffres:
   - valeur: 6,5 m
     texte: de miroir, en 18 segments plaqués or
   - valeur: 1,5 million de km
-    texte: de la Terre, au point L2
+    texte: de la Terre environ, en orbite autour de la région de L2
   - valeur: 1 pare-soleil
     texte: contre trois sources de chaleur
 ```
@@ -1800,8 +1801,8 @@ les cycles de la Lune.
   Lune aujourd'hui.
 
 ```schema
+titre: Calendriers lunaires et lunisolaires
 type: comparaison
-titre: Année lunaire ou solaire
 colonnes:
   - titre: Lunaire
     icone: planet
@@ -3500,8 +3501,11 @@ En 1859, lors de la plus forte tempête connue, appelée événement de Carringt
 Aujourd'hui, les tempêtes peuvent aussi abîmer les satellites et brouiller les signaux du GPS. Les scientifiques les classent sur une échelle de G1, la plus faible, à G5, la plus forte.
 
 ```schema
-type: etapes
 titre: D'une éruption solaire aux aurores
+legende: >-
+  Une éjection dirigée vers la Terre peut produire une perturbation ; toutes ne provoquent ni forte
+  aurore ni panne.
+type: etapes
 elements:
   - titre: Éjection
     texte: Le Soleil lance un nuage de particules.
@@ -3759,8 +3763,9 @@ ans. Dans quelques milliers d'années, une autre étoile jouera ce rôle.
    manche de la **Petite Ourse**, plus pâle.
 
 ```schema
-type: etapes
 titre: Trouver l'étoile Polaire
+legende: Repérage dans l’hémisphère Nord ; l’orientation de la casserole change au cours de la nuit.
+type: etapes
 elements:
   - titre: Repérer la Grande Ourse
     texte: Sept étoiles en forme de casserole.
@@ -3768,7 +3773,7 @@ elements:
   - titre: Prendre les deux étoiles du bord
     texte: Celles opposées au manche.
   - titre: Prolonger cinq fois
-    texte: La distance qui les sépare, vers le haut.
+    texte: Dans la suite des deux étoiles repères, du côté de Dubhe.
   - titre: Trouver la Polaire
     texte: Face à elle, on regarde le nord.
 ```
@@ -5578,16 +5583,21 @@ Un autre appareil, le réacteur de Sabatier, réutilise une partie de ce dioxyde
 Ce recyclage sera indispensable pour les futurs voyages vers la Lune ou Mars, trop loin pour être ravitaillés souvent.
 
 ```schema
-type: cycle
-titre: L'eau recyclée de la station spatiale
-legende: Depuis 2023, la station récupère 98 % de son eau.
-elements:
-  - titre: Urine, sueur, haleine
-  - titre: Recyclage
-  - titre: Eau potable
-    icone: droplet
-  - titre: Oxygène
-    texte: Fabriqué en coupant des molécules d'eau.
+titre: Recycler l’eau et produire de l’oxygène à bord
+legende: >-
+  Une grande partie de l’eau est récupérée, mais la station ne constitue pas une boucle parfaitement
+  fermée.
+type: systeme
+centre: Systèmes de vie à bord
+parties:
+  - nom: Eaux à traiter
+    role: Urine et humidité de l’air collectées.
+  - nom: Recyclage
+    role: L’eau est traitée et contrôlée pour être réutilisée.
+  - nom: Oxygène
+    role: Une partie de l’eau alimente un électrolyseur.
+  - nom: Appoints et pertes
+    role: Des réserves et ravitaillements restent nécessaires.
 ```
 
 ## À retenir
@@ -8509,15 +8519,17 @@ Avant ces découvertes, Albert Einstein pensait que l'Univers était immobile. I
 En 1998, deux équipes de chercheurs ont fait une découverte inattendue : l'expansion accélère. Pour l'expliquer, les scientifiques parlent d'une « énergie sombre », dont on ignore encore la nature. Des mesures publiées en 2024 et 2025 suggèrent que cette accélération pourrait varier dans le temps.
 
 ```schema
-type: etapes
 titre: La preuve de l'expansion
+legende: Expansion moyenne à grande échelle ; les mouvements locaux créent des exceptions.
+type: etapes
 elements:
   - titre: Lumière décalée vers le rouge
     texte: Les galaxies s'éloignent.
   - titre: Loi de Hubble-Lemaître
     texte: Plus elles sont loin, plus elles s'éloignent vite.
   - titre: L'espace gonfle
-  - titre: L'expansion accélère
+  - titre: Données complémentaires
+    texte: Des mesures de distance servent aussi à étudier l’accélération de l’expansion.
 ```
 
 ## À retenir
@@ -11727,15 +11739,15 @@ Beaucoup de comètes viennent du nuage d'Oort, une région lointaine aux confins
 La comète de Halley revient environ tous les 76 ans. Son dernier passage date de 1986. Le prochain est attendu en 2061.
 
 ```schema
-type: etapes
 titre: Une comète près du Soleil
+type: etapes
 elements:
   - titre: Noyau
     texte: Glace et poussières.
   - titre: Chevelure
     texte: La glace se change en gaz.
   - titre: Deux queues
-    texte: Poussées par le Soleil, à l'opposé de lui.
+    texte: Queue ionique presque opposée au Soleil ; queue de poussières souvent courbée.
 ```
 
 ## À retenir
@@ -12555,15 +12567,16 @@ status: published
 Un cadran solaire donne l'heure grâce à l'ombre d'un bâton, le style. Pour que le cadran soit précis, le style doit être parallèle à l'axe de rotation de la Terre : son inclinaison est égale à la latitude du lieu. Les plus anciennes horloges à ombre connues apparaissent en Égypte vers 1500 av. J.-C.
 
 ```schema
-type: etapes
 titre: Lire l'heure avec une ombre
+legende: Le cadran et son style doivent être adaptés au lieu ; l’heure solaire diffère de l’heure légale.
+type: etapes
 elements:
   - titre: Planter un style
     texte: Incliné selon la latitude.
   - titre: Observer l'ombre
     icone: sun
   - titre: Midi solaire
-    texte: L'ombre est la plus courte et pointe vers le nord.
+    texte: 'Le Soleil passe au méridien local : l’heure indiquée est solaire.'
   - titre: Corriger
     texte: Pour retrouver l'heure légale.
 ```
@@ -12902,8 +12915,11 @@ Une éclipse de Soleil peut être totale, annulaire ou partielle. Dans une écli
 Regarder le Soleil pendant une éclipse est aussi dangereux qu'en temps normal, sauf pendant la brève totalité : il faut des filtres solaires certifiés ou une projection indirecte. Une éclipse de Lune se regarde sans protection, et elle est visible de toute la face nocturne de la Terre. Une éclipse totale de Soleil se produit quelque part sur Terre assez souvent, mais très rarement au même endroit.
 
 ```schema
-type: comparaison
 titre: Deux éclipses
+legende: >-
+  L’orbite lunaire est inclinée : un alignement près d’un nœud est nécessaire, d’où l’absence
+  d’éclipse à chaque lunaison.
+type: comparaison
 colonnes:
   - titre: Éclipse de Soleil
     icone: sun
@@ -13097,8 +13113,11 @@ Dans le Système solaire, la zone habitable englobe la Terre et Mars, mais pas V
 Être dans la zone habitable ne garantit pas que la planète soit habitable : l'atmosphère, la surface et la protection magnétique comptent aussi. Les planètes proches d'une naine rouge reçoivent des rayons X et ultraviolets très intenses, qui pourraient stériliser une vie naissante. Le concept suppose que la vie ressemble à celle de la Terre, ce qui laisse de côté d'autres possibilités, comme des océans sous la glace d'Europe.
 
 ```schema
-type: comparaison
 titre: La zone habitable
+legende: >-
+  Modèle lié au rayonnement reçu ; pression, atmosphère et autres propriétés conditionnent l’eau
+  liquide en surface.
+type: comparaison
 colonnes:
   - titre: Trop près
     points:
@@ -13292,14 +13311,14 @@ Le télescope spatial James Webb est un observatoire infrarouge, fruit d'une col
 Quand une planète passe devant son étoile, la lumière de l'étoile traverse la haute atmosphère de la planète. En analysant finement le spectre, on repère les molécules qui absorbent certaines couleurs : eau, dioxyde de carbone, méthane. Webb a ainsi permis d'étudier l'atmosphère de l'exoplanète WASP-39 b, où du dioxyde de carbone a été détecté. Des nuages épais peuvent masquer les signaux, et les petites planètes, qui bloquent moins de lumière, donnent des signaux plus faibles.
 
 ```schema
-type: etapes
 titre: La méthode du transit
+type: etapes
 elements:
   - titre: La planète passe devant son étoile
   - titre: La lumière traverse son atmosphère
   - titre: Certaines couleurs sont absorbées
-  - titre: Webb identifie les molécules
-    icone: telescope
+  - titre: Interpréter le spectre
+    texte: Comparer à des modèles, avec des incertitudes et parfois plusieurs interprétations.
 ```
 
 ## À retenir
@@ -13495,14 +13514,14 @@ Si une planète tourne autour de l'étoile-lentille, elle provoque une petite ir
 Des études par microlentille ont montré que les systèmes planétaires sont courants dans notre galaxie. Le télescope spatial Roman de la NASA doit mener une grande enquête par microlentille pour trouver des exoplanètes.
 
 ```schema
-type: etapes
 titre: La microlentille
+type: etapes
 elements:
   - titre: Étoile d'arrière-plan
   - titre: Étoile de premier plan
     texte: Sa gravité grossit la lumière.
   - titre: Courbe de lumière
-    texte: Une planète y laisse un petit pic.
+    texte: Une planète peut y produire une anomalie brève.
 ```
 
 ## À retenir

@@ -741,9 +741,11 @@ santé — ou en corrigent le résultat.
 - Un marché alloue selon la capacité à payer, ce qui ne dit rien de la justice.
 
 ```schema
-type: comparaison
 titre: L'offre et la demande
-legende: Le prix s'établit là où elles se rencontrent.
+legende: >-
+  Modèle simple, toutes choses égales par ailleurs ; le prix d’équilibre correspond à la rencontre
+  des quantités offertes et demandées.
+type: comparaison
 colonnes:
   - titre: Demande
     points:
@@ -884,13 +886,16 @@ l'un se prend davantage sur l'autre.
 - Une croissance faible durcit les arbitrages politiques.
 
 ```schema
-type: barres
 titre: Croissance mondiale annuelle
-unite: "%"
+legende: >-
+  Comparaison historique et prévision citée dans la leçon, sans présenter cette prévision comme la
+  valeur actuelle.
+type: barres
+unite: '%'
 valeurs:
   - label: Moyenne avant 2020
     valeur: 3.7
-  - label: Projection récente
+  - label: Projection pour 2025 citée
     valeur: 3.2
 ```
 
@@ -1464,16 +1469,17 @@ Mais le cadre général — un enfant qui pense autrement et non simplement moin
 - La théorie de l'esprit, vers quatre ou cinq ans, fonde la vie sociale.
 
 ```schema
-type: frise
 titre: Quelques étapes du développement de la pensée
+legende: Repères approximatifs des tâches décrites ; développement variable selon les enfants et les tests.
+type: frise
 evenements:
   - date: Première année
     titre: Permanence de l'objet
-  - date: Ensuite
+  - date: Vers 4–5 ans
+    titre: Comprendre les croyances d’autrui
+  - date: Vers 7 ans
     titre: Conservation
-    texte: Comprendre que la quantité d'eau ne change pas avec le verre.
-  - date: Plus tard
-    titre: Comprendre que les autres pensent autrement
+    texte: Comprendre que la quantité d’eau ne change pas avec le verre.
 ```
 
 ---
@@ -1757,16 +1763,16 @@ procédures et la possibilité de dire non.
 - La situation explique souvent davantage un comportement que la personnalité.
 
 ```schema
-type: systeme
 titre: Ce qui fait céder au groupe
+type: systeme
 centre: Conformité
 parties:
   - nom: L'unanimité
     role: Elle compte beaucoup.
   - nom: La taille du groupe
-    role: Elle compte peu.
+    role: Son effet n’augmente pas indéfiniment avec chaque personne supplémentaire.
   - nom: Un seul allié
-    role: Il suffit à résister.
+    role: Peut réduire fortement la pression à se conformer.
 ```
 
 ---
@@ -2061,16 +2067,17 @@ spécialisé, du commerce et, à terme, des premières civilisations organisées
   premières civilisations.
 
 ```schema
-type: etapes
-titre: La révolution néolithique
-legende: Elle débute vers 10 000 avant notre ère dans le Croissant fertile.
-elements:
-  - titre: Cueillette et chasse
-  - titre: Culture des plantes
-    icone: wheat
-  - titre: Domestication des animaux
-  - titre: Sédentarisation
-    icone: house
+titre: Des transformations du Néolithique
+legende: >-
+  Ces transformations se combinent selon des trajectoires régionales ; la sédentarisation peut
+  précéder l’agriculture.
+type: systeme
+centre: Transformations néolithiques
+parties:
+  - nom: Cueillette et chasse
+  - nom: Culture des plantes
+  - nom: Domestication des animaux
+  - nom: Sédentarisation
 ```
 
 ---
@@ -2954,16 +2961,18 @@ comme le faisaient déjà les marchands du Moyen Âge.
 - Un simple carnet suffit à appliquer ce principe sans aucun outil informatique.
 
 ```schema
-type: comparaison
 titre: La partie double
 legende: Chaque opération est inscrite dans au moins deux comptes.
+type: comparaison
 colonnes:
   - titre: Débit
     points:
-      - Un compte reçoit
+      - Côté gauche d’un compte.
+      - Son effet dépend de la nature du compte.
   - titre: Crédit
     points:
-      - Un compte donne
+      - Côté droit d’un compte.
+      - Son effet dépend de la nature du compte.
   - titre: Équilibre
     points:
       - Débits et crédits sont toujours égaux
@@ -3095,8 +3104,9 @@ cette même évolution vers des échanges toujours plus rapides et moins encombr
   légères, jusqu'à la monnaie numérique.
 
 ```schema
+titre: Des formes d’échange et de monnaie
+legende: Repères conceptuels, sans succession universelle démontrée de toutes les sociétés.
 type: frise
-titre: Du troc à la monnaie
 evenements:
   - date: Troc
     titre: Double coïncidence des besoins
@@ -3106,7 +3116,6 @@ evenements:
     titre: Or et argent
   - date: Pièces frappées
     titre: Une valeur garantie
-    icone: coin
 ```
 
 ---
@@ -3483,8 +3492,9 @@ colonnes:
 ```
 
 ```schema
-type: frise
 titre: Un rythme de révision simple
+legende: Exemple à adapter à la difficulté et à la réussite des rappels.
+type: frise
 evenements:
   - date: Jour 1
     titre: Apprendre
@@ -6720,15 +6730,15 @@ Les plus anciens allume-feux connus ont été trouvés en Europe. À Barnham, en
 Ötzi, un homme mort dans les Alpes vers 3300 avant notre ère, transportait encore de l'amadou. Son corps a été découvert dans la glace le 19 septembre 1991. Jusqu'à la fin du XIXe siècle, beaucoup de voyageurs utilisaient encore une boîte avec un silex, un briquet en acier et de l'amadou.
 
 ```schema
-type: comparaison
 titre: Deux façons d'allumer un feu
+type: comparaison
 colonnes:
   - titre: Friction
     points:
-      - Frotter très vite deux morceaux de bois
+      - Un travail de friction adapté produit une braise dans une matière préparée.
   - titre: Percussion
     points:
-      - Frapper une pierre pour produire des étincelles
+      - 'Silex contre pyrite ou marcassite : des étincelles recueillies sur un amadou adapté.'
 ```
 
 ## À retenir
@@ -9251,15 +9261,18 @@ Certains pays ont mené de grandes campagnes. À Cuba, en une seule année, plus
 L'UNESCO a fait de l'alphabétisation l'une de ses missions. Elle estime que savoir lire aide à trouver un travail, à mieux se soigner et à mieux se nourrir. En 1966, elle a créé la Journée internationale de l'alphabétisation. Elle est célébrée chaque 8 septembre depuis 1967.
 
 ```schema
-type: barres
 titre: Part des adultes alphabétisés dans le monde
-unite: "%"
+legende: >-
+  Estimations historiques citées dans la leçon ; méthodes et populations de référence peuvent
+  différer selon les époques.
+type: barres
+unite: '%'
 valeurs:
   - label: Vers 1820
     valeur: 12
-  - label: 1950
+  - label: '1950'
     valeur: 55.7
-  - label: Récemment
+  - label: '2015'
     valeur: 86.2
 ```
 
@@ -10579,9 +10592,11 @@ foyer qui ne cherchent pas d'emploi sont **inactifs** : ils ne comptent ni au nu
 dénominateur.
 
 ```schema
-type: pyramide
 titre: Qui compte dans le taux de chômage
-legende: Le taux de chômage rapporte les chômeurs à la population active, pas à la population totale.
+legende: >-
+  Ensembles schématiques, sans surfaces proportionnelles : le taux rapporte les chômeurs à la
+  population active, pas à toute la population.
+type: pyramide
 niveaux:
   - titre: Chômeurs
     texte: Sans emploi, disponibles et en recherche active.
@@ -14789,8 +14804,8 @@ L'option par défaut, comme l'inscription automatique à un plan d'épargne retr
 Des gouvernements ont créé des équipes dédiées, comme la Behavioural Insights Team au Royaume-Uni. On les applique à la santé, à l'éducation et à l'environnement. Une analyse récente, après correction des biais de publication, ne trouve pas de preuve d'un effet des nudges. Des critiques soulèvent aussi des questions d'autonomie et de manipulation.
 
 ```schema
-type: comparaison
 titre: Le nudge
+type: comparaison
 colonnes:
   - titre: Ce qu'il fait
     points:
@@ -14798,7 +14813,7 @@ colonnes:
   - titre: Ce qu'il ne fait pas
     points:
       - Rien interdire
-      - Ni changer les incitations
+      - Ni modifier fortement les incitations économiques.
 ```
 
 ## À retenir
@@ -15343,9 +15358,11 @@ compte plus que placer beaucoup.
 La courbe s'accélère avec le temps.
 
 ```schema
-type: barres
 titre: 1 000 € placés à 5 % par an
-legende: Capital obtenu avec les intérêts composés.
+legende: >-
+  Simulation à taux constant de 5 %, intérêts réinvestis, hors frais, fiscalité et inflation ;
+  rendement non garanti.
+type: barres
 unite: €
 valeurs:
   - label: Départ
@@ -15381,8 +15398,11 @@ travaillé pour elle. Ces chiffres sont des illustrations : un placement réel p
 moins, et les rendements élevés s'accompagnent de risques.
 
 ```schema
-type: comparaison
 titre: 100 € par mois à 5 %, jusqu'à 55 ans
+legende: >-
+  Simulation à rendement constant, hors frais, fiscalité et inflation ; montants arrondis et
+  rendement non garanti.
+type: comparaison
 colonnes:
   - titre: Début à 25 ans
     points:

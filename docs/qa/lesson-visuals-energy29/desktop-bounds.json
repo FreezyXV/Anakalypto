@@ -1,0 +1,524 @@
+[
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "rebound",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "rebound",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "rebound",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "refinery",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "refinery",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "refinery",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "nuclearwaste",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "nuclearwaste",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "nuclearwaste",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "fusion",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "fusion",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "fusion",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "csp",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "csp",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "csp",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "duckcurve",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "duckcurve",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "duckcurve",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "energychain",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "energychain",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "energychain",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "watermill",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "watermill",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "watermill",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "leadacid",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "leadacid",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "leadacid",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "electrolyser",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "electrolyser",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "electrolyser",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "insulation",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "insulation",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "insulation",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "led",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "led",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "led",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "cogeneration",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "cogeneration",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "cogeneration",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "firewood",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "firewood",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "firewood",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "glazing",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "glazing",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "glazing",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "thermalmass",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "thermalmass",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "thermalmass",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "standby",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "standby",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "standby",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "pyrolysis",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "pyrolysis",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "pyrolysis",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "windmill",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "windmill",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "windmill",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "solaroven",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "solaroven",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "solaroven",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "voltapile",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "voltapile",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "voltapile",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "fuelcell",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "fuelcell",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "fuelcell",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "gridcascade",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "gridcascade",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "gridcascade",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "fission",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "fission",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "fission",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "demandshift",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "demandshift",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "demandshift",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "agrivoltaic",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "agrivoltaic",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "agrivoltaic",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "compressedair",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "compressedair",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "compressedair",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "gridbattery",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "gridbattery",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "gridbattery",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "flowbattery",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "flowbattery",
+    "overlaps": []
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "flowbattery",
+    "overlaps": []
+  }
+]

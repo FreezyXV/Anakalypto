@@ -185,25 +185,16 @@ prévient. Sur beaucoup d'appareils, un vérin pousse même le manche vers l'ava
 - Pour en sortir, il faut pousser le manche, pas tirer.
 
 ```schema
-type: echelle
-titre: L'angle de l'aile face au vent
-legende: Le décrochage dépend de l'angle, pas de la vitesse.
-unite: °
-min: 0
-max: 25
-zones:
-  - de: 0
-    a: 15
-    label: L'aile porte normalement
-    ton: normal
-  - de: 15
-    a: 20
-    label: Zone de décrochage, l'avion vibre avant
-    ton: attention
-  - de: 20
-    a: 25
-    label: Aile décrochée
-    ton: danger
+type: etapes
+titre: Quand l’incidence augmente
+legende: L’incidence critique dépend du profil et des conditions ; aucun angle unique pour tous les avions.
+elements:
+  - titre: Écoulement attaché
+    texte: La portance dépend de la répartition des pressions.
+  - titre: Limite du profil
+    texte: L’écoulement se sépare de plus en plus.
+  - titre: Décrochage
+    texte: La portance diminue fortement, sans devenir nécessairement nulle.
 ```
 
 ---
@@ -311,8 +302,8 @@ déclencher la turbulence. C'est pour cela que ces solutions restent rares en se
 - Garder l'air laminaire économiserait du carburant, mais la moindre saleté le détruit.
 
 ```schema
-type: comparaison
 titre: Deux façons de s'écouler
+type: comparaison
 colonnes:
   - titre: Laminaire
     points:
@@ -321,7 +312,7 @@ colonnes:
   - titre: Turbulent
     points:
       - L'air se mélange
-      - Frotte plus mais reste collé à l'aile
+      - Peut retarder le décollement par rapport à un écoulement laminaire.
 ```
 
 ---
@@ -661,15 +652,15 @@ C'est par ce canal que les leçons tirées des accidents rejoignent les avions d
 - Une consigne de navigabilité peut imposer une correction à toute la flotte.
 
 ```schema
-type: etapes
 titre: Certifier un avion
+type: etapes
 elements:
   - titre: Écrire les règles
     texte: Avant de construire.
   - titre: Prouver
     texte: Essais, calculs, cellule cassée volontairement.
   - titre: Certificat de type
-    texte: Le modèle peut transporter des passagers.
+    texte: Le modèle est reconnu conforme aux exigences de certification.
   - titre: Suivi
     texte: Le certificat n'est pas un point final.
 ```
@@ -1410,8 +1401,8 @@ descendre.
 - Les avions disposent aussi d'un système anticollision qui fonctionne sans le sol.
 
 ```schema
-type: systeme
 titre: Ranger les avions dans le ciel
+type: systeme
 centre: Contrôle aérien
 icone: plane
 parties:
@@ -1420,7 +1411,7 @@ parties:
   - nom: Altitudes
     role: Des tranches séparées.
   - nom: Séparation verticale
-    role: 1 000 pieds en croisière.
+    role: Des niveaux de vol espacés selon les règles de l’espace aérien.
 ```
 
 ---
@@ -1901,9 +1892,9 @@ bruit. Plus il est important par rapport au flux qui traverse le cœur, plus le 
 - Sur un avion de ligne, la majeure partie de l'air contourne le cœur du moteur.
 
 ```schema
-type: cycle
-titre: Les quatre temps d'un réacteur
-legende: La turbine entraîne le compresseur, le cycle s'entretient.
+titre: Un écoulement continu dans le réacteur
+legende: Ces fonctions se déroulent en continu dans différentes parties du réacteur.
+type: etapes
 elements:
   - titre: Aspirer
   - titre: Comprimer
@@ -2022,15 +2013,15 @@ pour les fortes puissances.
 - Les moteurs à plat ont remplacé les moteurs en étoile en aviation légère.
 
 ```schema
-type: comparaison
 titre: Moteur d'avion léger et moteur de voiture
+type: comparaison
 colonnes:
   - titre: Comme une voiture
     points:
       - Cycle à quatre temps, à essence
   - titre: Spécifique à l'avion
     points:
-      - Deux bougies et deux magnétos par cylindre
+      - Deux bougies par cylindre, alimentées par deux circuits d’allumage indépendants.
       - Essence aviation 100LL, encore plombée
 ```
 
@@ -2137,15 +2128,15 @@ des centaines d'usines. C'est l'un des plus gros chantiers industriels du secteu
 - Leur coût et la disponibilité des matières premières sont les deux freins.
 
 ```schema
-type: systeme
 titre: Les carburants d'aviation durables
+type: systeme
 centre: Carburants durables
 parties:
   - nom: Huiles usagées
   - nom: Résidus
   - nom: Hydrogène et CO2
   - nom: Atout
-    role: Utilisables dans les avions et aéroports existants.
+    role: Des mélanges certifiés peuvent être utilisés dans les installations existantes.
 ```
 
 ---
@@ -7608,15 +7599,15 @@ Mais un contrôleur aérien demande au pilote russe de descendre. Celui-ci obéi
 Depuis, la règle est claire : quand le TCAS donne un ordre, il passe avant celui du contrôleur aérien.
 
 ```schema
-type: etapes
 titre: Le TCAS
+type: etapes
 elements:
   - titre: Interroger
     texte: Le transpondeur des avions voisins.
   - titre: Avertir
     texte: Premier niveau d'alerte.
-  - titre: Ordonner
-    texte: Un avion monte, l'autre descend.
+  - titre: Coordonner
+    texte: Des consignes verticales compatibles lorsque les deux systèmes peuvent se coordonner.
 ```
 
 ## À retenir
@@ -14585,11 +14576,11 @@ C'est un instrument essentiel pour voler aux instruments, quand aucune référen
 Les instruments de base sont disposés en T : l'horizon artificiel au centre, l'anémomètre à gauche, l'altimètre à droite et le gyro directionnel dessous. L'altimètre détermine la hauteur de l'avion par rapport à un niveau de référence. L'anémomètre mesure la vitesse de l'avion par rapport à l'air, grâce à une différence de pression. Le variomètre indique la vitesse verticale de l'avion, c'est-à-dire sa vitesse de montée ou de descente. Le conservateur de cap gyroscopique tient le cap bien plus précisément qu'un compas magnétique.
 
 ```schema
-type: etapes
 titre: L'horizon artificiel
+type: etapes
 elements:
   - titre: Gyroscope
-    texte: Il reste aligné sur la verticale.
+    texte: Il fournit une référence d’attitude à l’instrument.
   - titre: Assiette et inclinaison
     texte: Mesurées par rapport à l'horizon.
   - titre: Le pilote se fie à l'instrument
@@ -14698,15 +14689,15 @@ Les essais en vol, menés en 1979 et 1980 sur un KC-135 équipé de winglets de 
 Les winglets réduisent de quelques pour cent la consommation de carburant d'un avion de ligne. Les modèles « fondus » dans l'aile, dits blended, économisent environ 4 à 6 %. Pour un Boeing 737-700 type, cela représente environ 100 000 gallons américains de kérosène par an. Les winglets atténuent aussi le tourbillon de sillage laissé derrière l'avion. Certains oiseaux, comme les cigognes et les rapaces, recourbent les plumes du bout de leurs ailes pour augmenter la portance et réduire la turbulence.
 
 ```schema
-type: etapes
 titre: Ce que fait un winglet
+type: etapes
 elements:
   - titre: Tourbillon marginal
     texte: L'air passe de la surpression à la dépression.
   - titre: Air dévié vers le bas
     texte: L'aile devient moins efficace.
   - titre: Winglet
-    texte: Il récupère une partie de cette énergie.
+    texte: Il modifie le sillage et peut réduire la traînée induite.
 ```
 
 ## À retenir
@@ -14938,16 +14929,17 @@ Le constructeur insiste sur le besoin d'un écosystème complet : infrastructure
 Les aéroports auraient besoin d'infrastructures importantes de production, de transport et d'avitaillement en hydrogène. Les lignes de courte et moyenne distance sont les plus adaptées aux premières applications de l'hydrogène. Les nouvelles conceptions d'avions à hydrogène doivent satisfaire aux spécifications de certification qui garantissent un haut niveau de sécurité.
 
 ```schema
-type: frise
 titre: Le programme ZEROe d'Airbus
+type: frise
 evenements:
-  - date: 2020
+  - date: '2020'
     titre: Lancement du programme
   - date: Ensuite
     titre: Trois concepts
     texte: Le stockage de l'hydrogène reste le défi.
-  - date: 2035
-    titre: Mise en service visée
+  - date: '2035'
+    titre: Objectif annoncé à l’origine
+    texte: Cette échéance initiale ne constitue pas une mise en service confirmée.
 ```
 
 ## À retenir

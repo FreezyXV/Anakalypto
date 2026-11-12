@@ -286,8 +286,8 @@ profonds.
 - Données massives et processeurs graphiques expliquent l'essor récent.
 
 ```schema
-type: cycle
 titre: Comment un réseau de neurones apprend
+type: cycle
 elements:
   - titre: Prédire
     texte: Le réseau propose une réponse à partir d'un exemple.
@@ -295,7 +295,7 @@ elements:
   - titre: Mesurer l'erreur
     texte: On compare avec la bonne réponse.
   - titre: Ajuster
-    texte: La rétropropagation corrige les paramètres par petits pas.
+    texte: La rétropropagation calcule les gradients ; un optimiseur ajuste les paramètres.
 ```
 
 ---
@@ -699,16 +699,17 @@ décennies en biologie.
 - La parallélisation a permis d'entraîner sur des données bien plus vastes.
 
 ```schema
+titre: Réseaux récurrents et transformeurs
+legende: La génération autoregressive produit ensuite les jetons successivement.
 type: comparaison
-titre: Avant et après le transformeur de 2017
 colonnes:
-  - titre: Avant
+  - titre: Réseaux récurrents
     points:
       - Les mots traités l'un après l'autre
       - Les mots éloignés se relient mal
   - titre: Transformeur
     points:
-      - Tous les mots traités en parallèle
+      - Les positions d’une séquence peuvent être traitées en parallèle à l’entraînement.
       - L'attention relie directement les mots éloignés
       - Entraînement sur des données bien plus vastes
 ```
@@ -962,15 +963,15 @@ pas une précaution mais une nécessité.
 - La vérification doit être proportionnée au coût d'une erreur.
 
 ```schema
-type: etapes
 titre: Comment naît une hallucination
+type: etapes
 elements:
   - titre: Une question
     texte: Par exemple une référence précise.
   - titre: La suite la plus plausible
-    texte: Le modèle optimise la vraisemblance, pas la vérité.
+    texte: Une suite de mots peut sembler plausible sans correspondre aux faits.
   - titre: Une réponse assurée
-    texte: Son ton ne reflète aucune évaluation de fiabilité.
+    texte: Le ton assuré ne suffit pas à établir la fiabilité de la réponse.
   - titre: Vérifier
     texte: Autant que le coût d'une erreur l'exige.
 ```
@@ -1099,8 +1100,11 @@ la personne puisse effectivement contredire la machine.
 - Mesurer les performances par groupe est indispensable.
 
 ```schema
-type: cycle
 titre: La boucle de rétroaction d'un système de prédiction
+legende: >-
+  Exemple de boucle qui peut amplifier un biais si les données et les décisions ne sont pas
+  contrôlées.
+type: cycle
 elements:
   - titre: Données passées
     texte: Elles portent les biais d'hier.
@@ -1235,9 +1239,11 @@ La régulation européenne devient alors, de fait, un standard plus large.
 - Sanctions jusqu'à 35 millions d'euros ou 7 % du chiffre d'affaires mondial.
 
 ```schema
-type: pyramide
 titre: Les quatre niveaux de risque du règlement européen
-legende: Le règlement régule les usages, pas les technologies.
+legende: >-
+  Vue simplifiée des risques d’usage ; le règlement comporte aussi des règles pour les modèles d’IA
+  à usage général.
+type: pyramide
 niveaux:
   - titre: Risque inacceptable
     texte: Usages interdits.
@@ -1922,8 +1928,8 @@ capable de répondre utilement à de nombreuses questions générales, même hor
 - Un modèle allégé reste moins performant qu'un grand modèle en ligne, mais utile hors ligne.
 
 ```schema
-type: etapes
 titre: Faire tenir un modèle sur un ordinateur
+type: etapes
 elements:
   - titre: Un modèle volumineux
     texte: Des milliards de paramètres.
@@ -1932,7 +1938,9 @@ elements:
   - titre: Un logiciel adapté
     texte: Pour le matériel ordinaire.
   - titre: Sans connexion
-    texte: Le modèle fonctionne hors ligne, mais moins bien qu'un grand modèle.
+    texte: >-
+      Une fois installé, le modèle peut fonctionner hors ligne ; ses capacités dépendent du modèle
+      et du matériel.
     icone: monitor
 ```
 
@@ -6829,13 +6837,13 @@ Une solution simple s'appelle la méthode epsilon-glouton. Epsilon est un petit 
 Ce dilemme ne concerne pas que les jeux. Il apparaît dans les essais de nouveaux médicaments, où l'on veut tester des traitements tout en protégeant les patients, ou dans le choix du chemin des données sur un réseau.
 
 ```schema
-type: comparaison
 titre: Le dilemme exploration et exploitation
+type: comparaison
 colonnes:
   - titre: Exploiter
     points:
       - Refaire l'action qui a le mieux réussi
-      - Sûr, mais on peut rater mieux
+      - Utilise les estimations actuelles, qui peuvent être incertaines ou incomplètes.
   - titre: Explorer
     points:
       - Essayer autre chose
@@ -9751,11 +9759,11 @@ Pour réduire ce problème, on relie souvent le modèle à des outils. La géné
 Cette méthode coûte bien moins cher que de réentraîner tout le modèle : il suffit de mettre à jour les documents. Elle aide aussi le modèle à rester proche des faits. Mais elle ne supprime pas toutes les erreurs. Le modèle peut mal comprendre une source, ou inventer des détails autour d'elle. Il reste utile de regarder la date et la source d'une information avant d'y croire.
 
 ```schema
-type: etapes
 titre: Répondre avec des informations récentes
+type: etapes
 elements:
   - titre: Date limite
-    texte: Le modèle ne sait rien après elle.
+    texte: Les connaissances issues de l’entraînement peuvent être anciennes ou incomplètes.
   - titre: Recherche de documents
     texte: La génération augmentée par récupération va chercher des sources récentes.
   - titre: Réponse

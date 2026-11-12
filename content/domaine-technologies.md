@@ -744,17 +744,17 @@ Et les muscles artificiels à base de polymères, encore au stade de la recherch
 - Le réducteur convertit la vitesse du moteur en force utile.
 
 ```schema
-type: comparaison
 titre: Trois familles d'actionneurs
+type: comparaison
 colonnes:
   - titre: Électrique
     points:
       - Précis, facile à commander
-      - Puissance limitée
+      - Puissance et performances dépendent du dimensionnement.
   - titre: Hydraulique
     points:
       - Très puissant
-      - Lourd et difficile à doser
+      - Circuit sous pression, avec besoins d’étanchéité et de maintenance.
   - titre: Pneumatique
     points:
       - Léger, rapide, souple
@@ -1455,15 +1455,15 @@ bord de mer, sous les ultraviolets ou au contact de produits d'entretien.
 - Couple galvanique, dilatation différentielle et fatigue sont des pièges classiques.
 
 ```schema
-type: comparaison
 titre: Résistance ou rigidité
+type: comparaison
 colonnes:
   - titre: Résistance
     points:
-      - La charge avant la rupture
+      - Capacité à supporter une contrainte sans endommagement ou rupture.
   - titre: Rigidité
     points:
-      - La déformation sous une charge
+      - Opposition à la déformation élastique ; la géométrie compte aussi pour une pièce.
   - titre: Dans les transports
     points:
       - On compare les propriétés rapportées à la masse
@@ -1899,19 +1899,19 @@ La pierre du sommet, la **clé de voûte**, est posée en dernier. Avant elle, l
 après elle, il tient seul, même sans mortier.
 
 ```schema
-type: etapes
 titre: Construire un arc
+type: etapes
 elements:
   - titre: Le cintre
     texte: Un gabarit en bois donne la forme de l'arc.
+  - titre: Les culées
+    texte: De lourds appuis reprennent la poussée vers l'extérieur.
   - titre: Les voussoirs
     texte: Des pierres taillées en coin posées de part et d'autre.
   - titre: La clé
     texte: La pierre du sommet est posée en dernier.
   - titre: Le décintrement
-    texte: On retire le cintre, l'arc tient seul.
-  - titre: Les culées
-    texte: De lourds appuis reprennent la poussée vers l'extérieur.
+    texte: On retire progressivement le cintre quand l’arc et ses appuis peuvent reprendre les efforts.
 ```
 
 ## Le cintre, un échafaudage indispensable
@@ -2831,15 +2831,16 @@ terme.
   terme.
 
 ```schema
-type: systeme
 titre: Franchir le terrain sans rompre la pente
+type: systeme
 centre: Aqueduc
 parties:
   - nom: Pente continue
-    role: Très légère, jamais interrompue.
+    role: Dans les tronçons à surface libre, une faible pente permet l’écoulement.
   - nom: Ponts à arches
   - nom: Tunnels
   - nom: Siphons
+    role: Un siphon inversé franchit un creux en conduite sous pression.
 ```
 
 ---
@@ -3101,13 +3102,13 @@ ajustant un peu la vitesse et la force, pour obtenir précisément la combinaiso
   recherchées.
 
 ```schema
-type: comparaison
 titre: Transmettre un mouvement
+type: comparaison
 colonnes:
   - titre: Engrenages
     points:
       - Un petit qui entraîne un grand réduit la vitesse
-      - Et augmente la force
+      - Le couple augmente, en tenant compte des pertes.
   - titre: Courroies
     points:
       - Transmettent à distance
@@ -3834,12 +3835,12 @@ matériaux existants particulièrement avantageuse en l'absence d'industrie extr
   neuf.
 
 ```schema
-type: systeme
 titre: Reconnaître un matériau récupéré
+type: systeme
 centre: Matériau inconnu
 parties:
   - nom: Aimant
-    role: Il distingue les métaux ferreux.
+    role: Repère certains métaux ferromagnétiques ; tous les aciers inoxydables ne sont pas attirés.
   - nom: Couleur, poids, son
     role: Pour affiner l'identification d'un métal.
   - nom: Flottaison
@@ -4076,9 +4077,11 @@ métal à froid le **durcit** en partie : c'est l'écrouissage. Plier plusieurs 
 endroit le durcit puis le casse.
 
 ```schema
+titre: Une barre de métal ductile soumise à la traction
+legende: >-
+  Exemple simplifié ; comportement et critères de dimensionnement dépendent du matériau et de
+  l’usage.
 type: etapes
-titre: Ce qui arrive quand on tire de plus en plus fort sur une barre de métal
-legende: Les pièces sont conçues pour rester dans la première étape, avec une marge de sécurité.
 elements:
   - titre: Domaine élastique
     texte: La barre s'allonge un peu et revient à sa forme.
@@ -4210,11 +4213,11 @@ En 1954, deux avions de ligne Comet se brisent en plein vol à quelques mois d'i
 Les ingénieurs ne peuvent pas tout calculer : la fatigue s'étudie surtout par des essais. Ils testent les pièces en les faisant travailler des millions de fois. Ils arrondissent les angles et soignent l'état de surface des pièces. Ils inspectent aussi régulièrement les avions, les trains et les ponts pour repérer les fissures avant qu'elles deviennent dangereuses.
 
 ```schema
-type: etapes
 titre: La fatigue du métal
+type: etapes
 elements:
   - titre: Efforts répétés
-    texte: Faibles mais très nombreux.
+    texte: Des cycles répétés peuvent amorcer une fissure, même sous la limite d’élasticité.
   - titre: Fissure minuscule
     texte: Souvent dans un coin pointu.
   - titre: Croissance lente
@@ -4890,8 +4893,11 @@ Les avions utilisent des coefficients plus faibles, souvent de 1,5. La raison es
 Le coefficient de sécurité sert à la conception, avant la fabrication. Il ne permet pas d'accepter un objet défectueux. Si une pièce présente un défaut, on ne peut pas dire qu'elle reste sûre grâce à sa marge. Il faut la vérifier, la réparer ou la remplacer.
 
 ```schema
-type: systeme
 titre: Ce que protège le coefficient de sécurité
+legende: >-
+  Marge de dimensionnement pour des incertitudes identifiées, sans garantie contre toute surcharge,
+  erreur ou dégradation.
+type: systeme
 centre: Coefficient de sécurité
 icone: shield
 parties:
@@ -5961,9 +5967,11 @@ Il existe aussi des barrages en remblai, faits de terre ou de roches entassées.
 Un barrage bouge très peu, trop peu pour que l'œil le voie. Des instruments mesurent pourtant ses déformations et l'eau qui s'infiltre dans le sol. Le moment le plus risqué est le premier remplissage. Le 2 décembre 1959, au-dessus de Fréjus, le barrage-voûte de Malpasset s'est rompu pendant sa mise en eau. C'est l'un de ses appuis rocheux qui a cédé. La vague a fait des centaines de victimes. C'est le seul cas connu de rupture d'un barrage-voûte.
 
 ```schema
-type: comparaison
 titre: Barrage-poids ou barrage-voûte
-legende: La poussée grandit avec le carré de la hauteur d'eau.
+legende: >-
+  Sur une paroi verticale, la résultante hydrostatique par mètre de largeur varie comme le carré de
+  la hauteur d’eau.
+type: comparaison
 colonnes:
   - titre: Barrage-poids
     points:
@@ -6448,20 +6456,20 @@ L'eau est remontée par une **pompe immergée** électrique, ou par une **pompe 
 électricité pour les nappes peu profondes.
 
 ```schema
-type: etapes
-titre: Les éléments d'un forage
-elements:
-  - titre: Tube
-    texte: En PVC ou en acier, il maintient les parois.
-  - titre: Crépine
-    texte: Partie percée de fentes, au niveau de la nappe.
-  - titre: Massif filtrant
-    texte: Du gravier calibré autour de la crépine.
-  - titre: Cimentation de tête
-    texte: Elle bloque l'eau de surface polluée.
-  - titre: Pompe
-    texte: Immergée ou manuelle.
-    icone: droplet
+titre: Les éléments d’un forage
+type: systeme
+centre: Forage
+parties:
+  - nom: Tube
+    role: En PVC ou en acier, il maintient les parois.
+  - nom: Crépine
+    role: Partie percée de fentes, au niveau de la nappe.
+  - nom: Massif filtrant
+    role: Du gravier calibré autour de la crépine.
+  - nom: Cimentation de tête
+    role: Elle bloque l'eau de surface polluée.
+  - nom: Pompe
+    role: Immergée ou manuelle.
 ```
 
 ## Protéger l'eau
@@ -9002,13 +9010,13 @@ Un drone à quatre hélices est naturellement instable : un coup de vent suffit 
 L'idée n'est pas nouvelle. En 1907, le gyroplane des frères Breguet et de Charles Richet, à quatre rotors, a décollé de 60 centimètres, tenu par quatre hommes. En 1924, l'ingénieur français Étienne Œhmichen a bouclé un circuit d'un kilomètre avec son appareil à quatre rotors. Mais ces machines étaient lourdes et difficiles à piloter. Entre 2005 et 2010, l'électronique a rendu les capteurs et les contrôleurs de vol petits et bon marché. Les petits drones à quatre hélices se sont alors répandus.
 
 ```schema
-type: comparaison
 titre: Piloter un drone à quatre hélices
+type: comparaison
 colonnes:
   - titre: Rester immobile
     points:
-      - Deux hélices tournent dans un sens, deux dans l'autre
-      - Le drone ne tourne pas sur lui-même
+      - Deux hélices dans chaque sens compensent leurs couples si leurs effets sont équilibrés.
+      - La poussée totale compense le poids et le contrôleur stabilise l’attitude.
   - titre: Se déplacer
     points:
       - Changer la vitesse de chaque hélice
@@ -13212,8 +13220,9 @@ Les formes obtenues sont souvent organiques et complexes, difficiles à fabrique
 Les résultats peuvent être fabriqués directement par fabrication additive, qui dépose la matière couche par couche, seulement là où il le faut. L'impression 3D permet des formes très complexes, creuses ou avec des treillis internes, avec moins de déchets. La recherche intègre des contraintes de fabrication, et des filtres corrigent la dépendance au maillage.
 
 ```schema
-type: etapes
 titre: L'optimisation topologique
+legende: Exemple de démarche ; la forme dépend des charges, contraintes et procédés de fabrication retenus.
+type: etapes
 elements:
   - titre: Volume et charges
   - titre: Calcul
@@ -13928,9 +13937,11 @@ status: published
 Le nitinol, alliage de nickel et de titane, garde en mémoire sa forme d'origine : déformé à froid, il la retrouve quand on le chauffe.
 
 ```schema
-type: comparaison
 titre: Les deux talents du nitinol
-legende: Un alliage de nickel et de titane.
+legende: >-
+  Alliage nickel-titane ; chaque effet dépend de plages de température, de contrainte et de
+  déformation adaptées.
+type: comparaison
 colonnes:
   - titre: Mémoire de forme
     points:

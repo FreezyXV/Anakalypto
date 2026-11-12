@@ -1,0 +1,9 @@
+{
+  "environment": "second disposable local database",
+  "migrations": "all seven applied from empty database",
+  "published": 948,
+  "inlineReady": 948,
+  "drawingsReady": 50,
+  "associationsRestored": 241,
+  "sourceDigestMatches": true
+}
