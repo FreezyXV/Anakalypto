@@ -276,6 +276,20 @@ quiz:
       Le corps fabrique lui-même la plupart des acides aminés. Neuf d'entre eux font exception
       chez l'adulte : il faut les manger. On les trouve dans les produits animaux comme dans
       les végétaux, en combinant céréales et légumineuses.
+  - question: "Au-delà de la réserve d'énergie, à quoi servent aussi les lipides ?"
+    options:
+      - "À découper l'amidon en glucose avant son passage dans le sang"
+      - "À fabriquer les neuf acides aminés essentiels"
+      - "À former la membrane des cellules et à fabriquer certaines hormones"
+    answer: 3
+    explanation: "Les lipides forment la membrane de chaque cellule, servent à fabriquer certaines hormones et permettent l'absorption des vitamines A, D, E et K."
+  - question: "Pourquoi qualifie-t-on les protéines de matériaux du corps ?"
+    options:
+      - "Parce que muscles, peau, cheveux, enzymes et anticorps en contiennent"
+      - "Parce qu'elles stockent l'énergie sous la forme la plus compacte"
+      - "Parce qu'elles fournissent surtout le glucose du cerveau"
+    answer: 1
+    explanation: "Presque tout ce qui constitue le corps contient des protéines : ce sont les briques de construction."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -329,8 +343,18 @@ soixantaine de grammes pour une personne de 70 kilos.
 - Les lipides servent aussi de membrane cellulaire et transportent les vitamines A, D, E et K.
 - Neuf acides aminés sont essentiels : le corps ne sait pas les fabriquer.
 
-[Emplacement image : composition en macronutriments de quelques aliments courants, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: L'énergie apportée par gramme
+unite: kcal
+valeurs:
+  - label: Glucides
+    valeur: 4
+  - label: Protéines
+    valeur: 4
+  - label: Lipides
+    valeur: 9
+```
 
 ---
 
@@ -374,6 +398,20 @@ quiz:
       La cuisson gonfle et ramollit l'amidon, ce qui le rend plus facile à digérer. Le glucose
       arrive donc plus vite dans le sang. Des pâtes fermes font monter la glycémie plus
       doucement.
+  - question: "Pourquoi des pâtes refroidies font-elles moins monter la glycémie que les mêmes pâtes chaudes ?"
+    options:
+      - "Parce que le froid détruit le glucose qu'elles contiennent"
+      - "Parce qu'une partie de leur amidon se transforme en une forme que l'on ne digère plus"
+      - "Parce qu'elles contiennent davantage de fibres une fois refroidies"
+    answer: 2
+    explanation: "Refroidir un féculent cuit transforme une partie de son amidon en une forme non digestible."
+  - question: "Pourquoi l'intérêt de l'index glycémique est-il plus discuté pour la population générale ?"
+    options:
+      - "Parce que l'index n'a été mesuré que sur du glucose pur"
+      - "Parce que le diabète est le seul trouble lié à la glycémie"
+      - "Parce que la réponse varie d'une personne à l'autre et que l'ensemble de l'alimentation compte plus"
+    answer: 3
+    explanation: "Pour un même aliment, la réponse varie beaucoup selon les personnes, et la qualité globale de l'alimentation compte davantage que l'optimisation aliment par aliment."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -430,8 +468,18 @@ aliment par aliment.
 - La charge glycémique tient compte de la portion réellement mangée.
 - Cuisson et broyage augmentent l'index d'un même aliment.
 
-[Emplacement image : courbes de glycémie après un aliment à index élevé et un aliment à index
-bas, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Index ou charge glycémique
+colonnes:
+  - titre: Index glycémique
+    points:
+      - Compare un aliment au glucose pur, noté 100
+      - Mesuré sur 50 g de glucides
+  - titre: Charge glycémique
+    points:
+      - Tient compte de la portion réellement mangée
+```
 
 ---
 
@@ -473,6 +521,20 @@ quiz:
     explanation: >
       Le DHA, un oméga-3 à longue chaîne, est un constituant majeur des membranes des cellules
       de la rétine et du cerveau. Un déficit peut augmenter le risque de DMLA.
+  - question: "Pourquoi conseille-t-on de consommer directement des poissons gras pour obtenir de l'EPA et du DHA ?"
+    options:
+      - "Parce que le corps convertit très mal l'ALA végétal en EPA et DHA"
+      - "Parce que l'ALA est détruit par la cuisson des poissons"
+      - "Parce que les végétaux ne contiennent aucun oméga-3"
+    answer: 1
+    explanation: "Le taux de conversion de l'ALA en EPA et DHA est inférieur à 10 %, d'où l'intérêt des poissons gras."
+  - question: "Pourquoi ne faut-il pas faire frire avec de l'huile de colza ?"
+    options:
+      - "Parce qu'elle devient trop riche en oméga-6 à chaud"
+      - "Parce que les huiles riches en oméga-3 s'oxydent à la chaleur et perdent leurs propriétés"
+      - "Parce que son DHA s'évapore à la cuisson"
+    answer: 2
+    explanation: "Chauffées, les huiles riches en oméga-3 s'oxydent : le colza se garde pour l'assaisonnement."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -528,8 +590,19 @@ propriétés. L'huile de colza se garde pour l'assaisonnement, pas pour la fritu
 - Le corps convertit très mal l'ALA en DHA.
 - Deux portions de poisson par semaine, dont un gras, couvrent les besoins.
 
-[Emplacement image : sources alimentaires d'oméga-3 et d'oméga-6, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+titre: Les acides gras essentiels
+legende: Les acides linoléique et alpha-linolénique doivent être apportés par l’alimentation.
+type: comparaison
+colonnes:
+  - titre: Oméga-6
+    points:
+      - Acide linoléique, présent dans des huiles végétales.
+  - titre: Oméga-3
+    points:
+      - Acide alpha-linolénique (ALA), d’origine végétale.
+      - 'EPA et DHA : autres oméga-3, notamment présents dans les poissons gras.'
+```
 
 ---
 
@@ -571,6 +644,20 @@ quiz:
     explanation: >
       Le foie produit environ 70 % du cholestérol de l'organisme. L'alimentation influence
       moins que les graisses saturées et trans, qui stimulent sa production.
+  - question: "Pourquoi les graisses trans industrielles forment-elles la pire combinaison pour le cholestérol ?"
+    options:
+      - "Elles empêchent le foie de réduire sa production de cholestérol"
+      - "Elles font baisser le LDL mais aussi le HDL"
+      - "Elles augmentent le LDL tout en baissant le HDL"
+    answer: 3
+    explanation: "Elles cumulent les deux effets défavorables : plus de LDL et moins de HDL."
+  - question: "Comment les fibres solubles contribuent-elles à réduire le cholestérol ?"
+    options:
+      - "Elles capturent une partie du cholestérol dans l'intestin"
+      - "Elles stimulent la production de HDL par le foie"
+      - "Elles transforment le LDL en HDL dans le sang"
+    answer: 1
+    explanation: "Présentes dans l'avoine et les légumineuses, les fibres solubles capturent une partie du cholestérol dans l'intestin."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -626,8 +713,19 @@ une partie du cholestérol dans l'intestin.
 - Le LDL transporte, le HDL ramène. C'est l'équilibre entre les deux qui compte.
 - Graisses saturées et trans influencent plus le LDL que le cholestérol alimentaire.
 
-[Emplacement image : schéma simplifié du transport du cholestérol par LDL et HDL, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+titre: D'où vient notre cholestérol
+legende: Répartition indicative et variable selon les apports et la régulation de la synthèse.
+type: barres
+unite: '%'
+valeurs:
+  - label: Fabriqué par l’organisme
+    valeur: 70
+    note: environ
+  - label: Apporté par l'alimentation
+    valeur: 30
+    note: environ
+```
 
 ---
 
@@ -669,6 +767,20 @@ quiz:
     explanation: >
       Les vitamines A, D, E et K sont dites liposolubles : elles se dissolvent dans les graisses
       et non dans l'eau. Sans un peu de lipides, une partie n'est pas absorbée.
+  - question: "Pourquoi un excès de compléments en vitamines A, D, E ou K peut-il devenir toxique ?"
+    options:
+      - "Parce qu'elles bloquent l'absorption des vitamines B et C"
+      - "Parce que, solubles dans les graisses, elles sont stockées par le corps, parfois pendant des mois"
+      - "Parce qu'elles apportent un excès d'énergie"
+    answer: 2
+    explanation: "Ces vitamines se dissolvent dans les graisses et se stockent. Les vitamines B et C, elles, sont éliminées dans l'urine."
+  - question: "Que font les vitamines dans le corps ?"
+    options:
+      - "Elles fournissent de l'énergie comme les glucides"
+      - "Elles servent de matériaux de construction comme les protéines"
+      - "Elles permettent aux réactions chimiques du corps de se produire"
+    answer: 3
+    explanation: "Les vitamines n'apportent aucune énergie : elles permettent aux réactions chimiques de se produire."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -720,8 +832,20 @@ Ces trois carences ont un point commun : elles coûtent très peu cher à corrig
 - A, D, E et K se stockent dans les graisses ; B et C s'éliminent dans l'urine.
 - Fer, vitamine A et iode restent les carences les plus répandues dans le monde.
 
-[Emplacement image : principales vitamines, leur rôle et leurs sources alimentaires, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux groupes de vitamines
+legende: Treize vitamines sont nécessaires au corps humain.
+colonnes:
+  - titre: Liposolubles
+    points:
+      - A, D, E, K
+      - Stockées dans les graisses
+  - titre: Hydrosolubles
+    points:
+      - C et groupe B
+      - Peu stockées
+```
 
 ---
 
@@ -762,6 +886,20 @@ quiz:
     explanation: >
       Le fer est au cœur de l'hémoglobine, la molécule qui capte l'oxygène dans les poumons et
       le distribue à tout le corps. Sans fer, ce transport se fait mal : c'est l'anémie.
+  - question: "Pourquoi manger beaucoup d'épinards ne règle-t-il pas une carence en fer ?"
+    options:
+      - "Parce que le fer végétal n'est absorbé qu'à quelques pour cent, environ dix fois moins que le fer animal"
+      - "Parce que les épinards ne contiennent pas du tout de fer"
+      - "Parce que la cuisson détruit le fer des épinards"
+    answer: 1
+    explanation: "Le fer des végétaux est très mal absorbé, environ dix fois moins que celui de la viande et du poisson."
+  - question: "Pourquoi conseille-t-on de boire son thé une heure après le repas plutôt que pendant ?"
+    options:
+      - "Parce que le thé empêche d'absorber la vitamine C"
+      - "Parce que les tanins du thé freinent l'absorption du fer"
+      - "Parce que le thé chaud détruit le fer des lentilles"
+    answer: 2
+    explanation: "Les tanins du thé et du café freinent l'absorption du fer ; décaler la boisson suffit à limiter l'effet."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -820,8 +958,19 @@ produits de base comme la farine, et traiter les parasites intestinaux qui aggra
 - La vitamine C améliore l'absorption, le thé et le café la freinent.
 - La carence retentit sur le développement du cerveau chez le jeune enfant.
 
-[Emplacement image : comparaison des taux d'absorption du fer selon l'aliment, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Les deux formes de fer
+type: comparaison
+colonnes:
+  - titre: Fer héminique
+    points:
+      - Présent dans la viande et le poisson.
+      - Généralement mieux absorbé.
+  - titre: Fer non héminique
+    points:
+      - Présent dans les végétaux et aussi dans des aliments animaux.
+      - Absorption influencée par les autres aliments, notamment la vitamine C.
+```
 
 ---
 
@@ -863,6 +1012,20 @@ quiz:
     explanation: >
       Les études ont montré que supplémenter en bêta-carotène ou en vitamine E isolée n'apporte
       pas les bénéfices d'une alimentation riche en fruits et légumes — parfois l'inverse.
+  - question: "Que montre l'essai sur le bêta-carotène chez des fumeurs ?"
+    options:
+      - "Qu'il protège contre le cancer du poumon"
+      - "Qu'il n'a aucun effet mesurable"
+      - "Que le risque de cancer du poumon augmentait dans le groupe supplémenté"
+    answer: 3
+    explanation: "L'essai a dû être arrêté : le risque de cancer du poumon augmentait chez les fumeurs qui prenaient le complément."
+  - question: "Pourquoi une dose très élevée d'antioxydant peut-elle être contre-productive ?"
+    options:
+      - "Parce qu'à ces doses, un antioxydant en excès peut devenir pro-oxydant"
+      - "Parce que le corps cesse alors de produire ses propres radicaux libres"
+      - "Parce que les fortes doses bloquent l'absorption des fruits"
+    answer: 1
+    explanation: "Les compléments apportent souvent dix à cent fois plus que l'alimentation, et l'effet peut alors s'inverser."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -925,8 +1088,19 @@ Le bénéfice est bien réel, mais il vient de l'aliment entier, pas d'une molé
 - Un fruit contient des centaines de composés qui agissent en synergie.
 - Miser sur les aliments, pas sur les gélules.
 
-[Emplacement image : comparaison entre un aliment entier et un complément isolé, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Antioxydants, compléments ou aliments
+colonnes:
+  - titre: Compléments isolés
+    points:
+      - Pas les bénéfices espérés dans les essais
+  - titre: Aliments entiers
+    icone: apple
+    points:
+      - Fruits et légumes
+      - Associés à une meilleure santé
+```
 
 ---
 
@@ -968,6 +1142,20 @@ quiz:
     explanation: >
       Le trempage, la germination et la fermentation activent des enzymes qui dégradent les
       phytates. C'est pourquoi le pain au levain est plus riche en minéraux assimilables.
+  - question: "Pourquoi les haricots rouges doivent-ils être cuits ?"
+    options:
+      - "Parce qu'ils contiennent beaucoup de phytates qui bloquent le fer"
+      - "Parce que la cuisson détruit les lectines, qui sinon provoquent vomissements et diarrhées"
+      - "Parce que crus, leur amidon est impossible à digérer"
+    answer: 2
+    explanation: "Les haricots rouges crus contiennent beaucoup de lectines, détruites par la cuisson."
+  - question: "Pourquoi dit-on que phytates et lectines sont des molécules à double tranchant ?"
+    options:
+      - "Parce qu'ils sont toxiques pour l'homme mais inoffensifs pour les herbivores"
+      - "Parce qu'ils sont détruits par la cuisson mais se reforment au refroidissement"
+      - "Parce qu'ils gênent l'absorption de certains nutriments mais ont aussi des effets bénéfiques"
+    answer: 3
+    explanation: "Ils gênent l'absorption de minéraux ou irritent l'intestin, mais ont aussi des effets antioxydants ou immunitaires."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1031,8 +1219,18 @@ Et la cuisson, évidemment, détruit les lectines.
 - Les lectines crues irritent l'intestin : les haricots doivent être cuits.
 - Trempage, germination et fermentation réduisent les phytates.
 
-[Emplacement image : teneur en phytates de quelques aliments et effet du trempage, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+titre: Phytates et lectines
+type: comparaison
+colonnes:
+  - titre: Phytates
+    points:
+      - Retiennent fer, zinc et calcium
+      - Réduits par trempage et fermentation
+  - titre: Lectines
+    points:
+      - Une cuisson adaptée en réduit l’activité.
+```
 
 ---
 
@@ -1075,6 +1273,20 @@ quiz:
       Le signal de la soif devient moins net avec les années. La personne ne ressent pas le
       besoin de boire alors que son corps manque déjà d'eau, ce qui rend les vagues de chaleur
       particulièrement dangereuses.
+  - question: "Pourquoi la gastro-entérite est-elle particulièrement grave chez un tout-petit ?"
+    options:
+      - "Parce que fièvre, diarrhées et vomissements augmentent beaucoup les pertes d'eau"
+      - "Parce que les tout-petits ont moins soif que les adultes"
+      - "Parce que leur corps contient moins d'eau qu'un adulte"
+    answer: 1
+    explanation: "Fièvre, diarrhées et vomissements augmentent beaucoup les pertes, ce qui explique la gravité chez un tout-petit."
+  - question: "Pourquoi boire plusieurs litres d'eau pure en peu de temps peut-il être dangereux ?"
+    options:
+      - "Parce que le corps ne sait pas évacuer l'eau"
+      - "Parce que cela peut diluer le sel du sang de façon dangereuse"
+      - "Parce que cela fait perdre 2 % du poids corporel"
+    answer: 2
+    explanation: "Un excès d'eau pure dilue le sel du sang ; des cas sérieux ont été observés lors de marathons."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1124,8 +1336,15 @@ le sel du sang de façon dangereuse. Des cas sérieux ont été observés lors d
 - Les aliments fournissent 20 à 30 % de ces apports.
 - Une perte de 2 % du poids corporel dégrade déjà la concentration.
 
-[Emplacement image : teneur en eau de quelques aliments courants, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: chiffres
+titre: L'eau et le corps
+chiffres:
+  - valeur: 60 %
+    texte: du corps adulte est de l'eau, environ
+  - valeur: 2 à 2,5 L
+    texte: de besoins totaux par jour, aliments compris
+```
 
 ---
 
@@ -1138,7 +1357,7 @@ summary: >
   Les fibres traversent l'intestin sans être digérées. C'est exactement pour cela qu'elles sont
   utiles, et nous n'en mangeons pas assez.
 tags: [nutrition, fibres, microbiote, transit, cereales-completes]
-relatedArticles: [microbiote-intestinal, index-et-charge-glycemiques]
+relatedArticles: [microbiote-intestinal-physiologie, index-et-charge-glycemiques]
 sources:
   - title: "Healthy diet"
     url: "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
@@ -1167,6 +1386,20 @@ quiz:
     explanation: >
       Le microbiote a besoin de temps pour s'adapter à une nouvelle quantité à fermenter. Il
       faut aussi boire suffisamment, car les fibres n'agissent qu'en retenant de l'eau.
+  - question: "Quelle différence y a-t-il entre fibres solubles et insolubles ?"
+    options:
+      - "Les solubles accélèrent le transit, les insolubles forment un gel"
+      - "Les solubles sont digérées par nos enzymes, pas les insolubles"
+      - "Les solubles forment un gel qui ralentit la digestion, les insolubles retiennent l'eau et accélèrent le transit"
+    answer: 3
+    explanation: "Les fibres solubles forment un gel qui ralentit tout ; les insolubles retiennent l'eau et accélèrent le transit. Aucune n'est digérée par nos enzymes."
+  - question: "Pourquoi faut-il boire davantage quand on mange plus de fibres ?"
+    options:
+      - "Parce que les fibres n'agissent qu'en retenant de l'eau"
+      - "Parce que les fibres déshydratent les cellules de l'intestin"
+      - "Parce que les bactéries du côlon consomment beaucoup d'eau"
+    answer: 1
+    explanation: "Les fibres n'agissent qu'en retenant de l'eau : sans boisson suffisante, elles perdent leur effet."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1219,114 +1452,17 @@ il faut boire, car les fibres n'agissent qu'en retenant de l'eau.
 - Les bactéries du côlon les fermentent et en tirent du butyrate.
 - Objectif d'environ 30 grammes par jour, à atteindre progressivement.
 
-[Emplacement image : teneur en fibres de quelques aliments courants, légende et texte alternatif
-à fournir ultérieurement.]
-
----
-
----
-type: article
-title: Le microbiote intestinal, notre deuxième cerveau
-slug: microbiote-intestinal
-categoryPath: alimentation-et-nutrition/nutriments/microbiote-et-probiotiques
-summary: >
-  Cent mille milliards de bactéries vivent dans nos intestins. Elles digèrent ce que nous ne
-  pouvons pas digérer, fabriquent des vitamines et dialoguent avec notre immunité.
-tags: [nutrition, microbiote, bacteries, intestin, immunite]
-relatedArticles: [fibres-alimentaires-roles-et-apports, probiotiques-et-prebiotiques]
-sources:
-  - title: "L'importance du microbiote intestinal"
-    url: "https://monacosante.mc/fr/actualites-sante/actualite/actualites/microbiote-intestinal"
-    publisher: "MonacoSanté"
-    date: "2025"
-  - title: "Dietary patterns influencing the human colonic microbiota"
-    url: "https://europepmc.org/article/MED/39277883"
-    publisher: "European Journal of Nutrition"
-    date: "2025"
-quiz:
-  - question: "Combien de micro-organismes vivent dans notre tube digestif ?"
-    options:
-      - "Quelques millions"
-      - "Environ 100 000 milliards"
-      - "Quelques milliards"
-    answer: 2
-    explanation: >
-      Le microbiote intestinal compte environ 100 000 milliards de micro-organismes, dont 800 à
-      1 000 espèces différentes de bactéries. Il pèse entre un et deux kilogrammes.
-  - question: "Que produit le microbiote à partir des fibres ?"
-    options:
-      - "Du glucose"
-      - "Du butyrate et d'autres acides gras à chaîne courte"
-      - "Des protéines"
-    answer: 2
-    explanation: >
-      En fermentant les fibres, les bactéries du côlon produisent du butyrate, qui nourrit les
-      cellules de la paroi intestinale, ainsi que d'autres composés bénéfiques.
-lastVerified: 2026-09-22
-status: published
----
-
-## En bref
-
-Notre corps n'est pas seulement humain. Il héberge environ 100 000 milliards de micro-organismes
-— bactéries, virus, champignons, parasites — qui vivent principalement dans notre gros intestin.
-
-Cet ensemble s'appelle le microbiote intestinal. Il pèse entre un et deux kilogrammes, soit à peu
-près le poids de notre cerveau.
-
-## Un écosystème unique
-
-Chaque personne a un microbiote qui lui est propre. On y trouve 800 à 1 000 espèces différentes
-de bactéries, dont la plupart sont bénéfiques.
-
-Cette composition dépend de nombreux facteurs : la naissance, l'allaitement, l'alimentation, les
-antibiotiques pris au cours de la vie, le stress, le sommeil, l'activité physique.
-
-Elle varie aussi d'un pays à l'autre, en fonction des habitudes alimentaires.
-
-## Ce qu'il fait pour nous
-
-Le microbiote remplit des fonctions que notre corps ne sait pas assurer seul.
-
-Il digère les fibres que nos enzymes ne peuvent pas décomposer. En les fermentant, il produit du
-butyrate et d'autres acides gras à chaîne courte, qui nourrissent les cellules de notre paroi
-intestinale.
-
-Il fabrique certaines vitamines, notamment la vitamine K et la vitamine B12.
-
-Il joue un rôle de barrière contre les microbes pathogènes : en occupant le terrain, il empêche
-les mauvaises bactéries de s'installer.
-
-Il participe au développement et à la régulation du système immunitaire. Près de 60 % de nos
-cellules immunitaires se trouvent dans l'intestin.
-
-Il influence même notre humeur : il produit des précurseurs de la sérotonine, l'hormone du
-bien-être. C'est pourquoi on parle parfois de « deuxième cerveau ».
-
-## Comment en prendre soin
-
-Ce qui nourrit le microbiote, ce sont les fibres. Fruits, légumes, légumineuses et céréales
-complètes lui fournissent les substrats dont il a besoin.
-
-La diversité compte autant que la quantité. Manger trente plantes différentes par semaine —
-fruits, légumes, céréales, noix, graines — est associé à un microbiote plus diversifié et plus
-résilient.
-
-Les aliments fermentés — yaourt, kéfir, choucroute, kimchi — apportent des bactéries vivantes
-supplémentaires.
-
-À l'inverse, les antibiotiques, une alimentation pauvre en fibres, le stress chronique et le
-manque de sommeil appauvrissent le microbiote.
-
-## À retenir
-
-- Le microbiote compte environ 100 000 milliards de micro-organismes.
-- Il digère les fibres et produit du butyrate pour notre paroi intestinale.
-- Il fabrique des vitamines et régule notre immunité.
-- La diversité végétale est la meilleure façon de le nourrir.
-
-[Emplacement image : répartition des principales familles de bactéries du microbiote intestinal,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux familles de fibres
+colonnes:
+  - titre: Solubles
+    points:
+      - Forment un gel
+  - titre: Insolubles
+    points:
+      - Accélèrent le transit
+```
 
 ---
 
@@ -1339,7 +1475,7 @@ summary: >
   Les probiotiques sont des microbes vivants. Les prébiotiques sont leur nourriture. Les deux
   n'ont pas le même effet, et les confondre est une erreur fréquente.
 tags: [nutrition, probiotiques, prebiotiques, microbiote, intestin]
-relatedArticles: [microbiote-intestinal, fibres-alimentaires-roles-et-apports]
+relatedArticles: [microbiote-intestinal-physiologie, fibres-alimentaires-roles-et-apports]
 sources:
   - title: "Probiotics and prebiotics"
     url: "https://www.sciencedirect.com/science/article/abs/pii/S0987798301800153"
@@ -1349,6 +1485,9 @@ sources:
     url: "https://www.britannica.com/science/probiotic"
     publisher: "Encyclopaedia Britannica"
     date: "2025"
+  - title: "Probiotics: Usefulness and Safety"
+    url: "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety"
+    publisher: "NCCIH (NIH)"
 quiz:
   - question: "Que sont les probiotiques ?"
     options:
@@ -1368,6 +1507,20 @@ quiz:
     explanation: >
       Les prébiotiques sont des fibres non digestibles. L'ail, l'oignon, la chicorée, les
       poireaux, les bananes et les céréales complètes en contiennent.
+  - question: "Pourquoi un probiotique efficace contre la diarrhée ne l'est-il pas forcément pour autre chose ?"
+    options:
+      - "Parce que tous les probiotiques ont exactement le même effet"
+      - "Parce que les effets dépendent de la souche, de la dose et de la personne"
+      - "Parce que les probiotiques ne sont efficaces que contre la diarrhée"
+    answer: 2
+    explanation: "Toutes les souches ne se valent pas : l'effet dépend de la souche, de la dose et de la personne."
+  - question: "Pourquoi le terme probiotique n'est-il pas autorisé sur les étiquettes en Europe ?"
+    options:
+      - "Parce que ces produits sont jugés dangereux"
+      - "Parce que ce mot est réservé aux médicaments"
+      - "Faute de preuves suffisantes pour la plupart des allégations"
+    answer: 3
+    explanation: "Les produits parlent de ferments lactiques ou de bactéries vivantes, faute de preuves suffisantes."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1426,8 +1579,18 @@ qui ont leurs propres effets. Et ils coûtent moins cher.
 - Les preuves les plus solides concernent les diarrhées.
 - Les aliments fermentés combinent probiotiques, prébiotiques et métabolites.
 
-[Emplacement image : sources alimentaires de probiotiques et de prébiotiques, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Probiotiques ou prébiotiques
+colonnes:
+  - titre: Probiotiques
+    points:
+      - Des microbes vivants
+      - Effets propres à chaque souche
+  - titre: Prébiotiques
+    points:
+      - La nourriture de ces microbes
+```
 
 ---
 
@@ -1470,6 +1633,20 @@ quiz:
       Les légumineuses apportent protéines, fibres et minéraux, coûtent peu cher et ont une
       faible empreinte environnementale. C'est l'un des rares conseils qui coche toutes les
       cases.
+  - question: "Pourquoi le conseil de manger des légumineuses est-il particulièrement intéressant ?"
+    options:
+      - "Parce qu'elles réunissent protéines, fibres, minéraux, prix bas et faible impact environnemental"
+      - "Parce qu'elles remplacent entièrement les fruits et légumes"
+      - "Parce qu'elles sont les seuls aliments sans sel ajouté"
+    answer: 1
+    explanation: "Les légumineuses cochent toutes les cases à la fois : protéines, fibres, minéraux, prix bas et faible impact environnemental."
+  - question: "D'où vient la plus grande part du sel que nous consommons ?"
+    options:
+      - "De la salière à table"
+      - "Des aliments transformés comme le pain, les plats préparés, les fromages et la charcuterie"
+      - "Des fruits et légumes frais"
+    answer: 2
+    explanation: "La plus grande part du sel vient des aliments transformés plutôt que de la salière."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1524,8 +1701,22 @@ C'est l'ensemble de l'alimentation, répété pendant des années, qui compte.
 - Les jus de fruits comptent comme des boissons sucrées.
 - C'est l'ensemble de l'alimentation qui compte, pas un aliment isolé.
 
-[Emplacement image : repères alimentaires principaux, à augmenter et à réduire, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les repères nutritionnels
+colonnes:
+  - titre: À augmenter
+    icone: leaf
+    points:
+      - Légumineuses
+      - Fruits et légumes
+      - Céréales complètes
+      - Fruits à coque
+  - titre: À réduire
+    points:
+      - Charcuterie
+      - Viande hors volaille
+```
 
 ---
 
@@ -1567,6 +1758,20 @@ quiz:
     explanation: >
       Le calcul ne porte que sur quelques nutriments. Un produit très transformé et bourré
       d'additifs peut parfaitement obtenir un A.
+  - question: "Pourquoi comparer une huile et un yaourt avec le Nutri-Score n'a-t-il aucun sens ?"
+    options:
+      - "Parce que l'huile ne contient aucun nutriment pris en compte"
+      - "Parce que le score ignore la qualité des ingrédients de l'huile"
+      - "Parce que le score se calcule pour 100 grammes et que personne ne boit 100 g d'huile"
+    answer: 3
+    explanation: "Le score raisonne pour 100 grammes sans tenir compte des quantités réellement mangées."
+  - question: "Quel biais crée l'affichage volontaire du Nutri-Score en Europe ?"
+    options:
+      - "Les fabricants dont les produits seraient mal notés ne l'affichent pas"
+      - "Les produits bien notés n'ont pas le droit de l'afficher"
+      - "Les petits fabricants sont obligés de l'afficher"
+    answer: 1
+    explanation: "L'affichage étant volontaire, les produits mal notés l'affichent rarement, ce qui favorise les produits bien notés."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1623,8 +1828,24 @@ recettes pour gagner une lettre.
 - Il n'évalue ni la transformation, ni les additifs, ni l'environnement.
 - Son affichage est volontaire, ce qui favorise les produits bien notés.
 
-[Emplacement image : calcul simplifié du Nutri-Score sur un produit courant, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Le Nutri-Score
+legende: Il compare des produits d'une même famille, pour 100 grammes.
+type: comparaison
+colonnes:
+  - titre: A et B
+    points:
+      - meilleure qualité nutritionnelle
+    couleur: vert
+  - titre: C
+    points:
+      - Qualité nutritionnelle intermédiaire.
+    couleur: jaune
+  - titre: D et E
+    points:
+      - moins bonne qualité
+    couleur: rouge
+```
 
 ---
 
@@ -1666,6 +1887,20 @@ quiz:
     explanation: >
       Un jus de fruit « sans sucres ajoutés » contient le sucre naturel du fruit, parfois autant
       qu'un soda. L'allégation est trompeuse.
+  - question: "Pourquoi le tableau nutritionnel pour 100 grammes est-il la référence la plus honnête ?"
+    options:
+      - "Parce que les portions sont fixées par la loi"
+      - "Parce que les industriels définissent eux-mêmes la portion, parfois bien plus petite que ce qu'on mange"
+      - "Parce que 100 grammes correspondent toujours à une portion normale"
+    answer: 2
+    explanation: "Les valeurs par portion reposent sur une portion choisie par l'industriel ; le tableau pour 100 grammes reste comparable."
+  - question: "Que signifie la mention « à consommer de préférence avant » ?"
+    options:
+      - "Qu'après cette date le produit devient dangereux"
+      - "Que le produit doit être jeté le jour même"
+      - "Qu'après cette date le produit est simplement moins bon, mais reste souvent consommable"
+    answer: 3
+    explanation: "C'est une date de durabilité minimale : après, le produit est moins croquant ou parfumé. Seule la date limite de consommation concerne le danger."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1736,8 +1971,19 @@ restent consommables longtemps après.
 - Les additifs sont codés de E100 à E499 selon leur fonction.
 - Les deux types de dates n'ont pas du tout la même signification.
 
-[Emplacement image : étiquette alimentaire annotée avec les zones à regarder, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Lire une étiquette
+centre: Étiquette
+parties:
+  - nom: Ingrédients
+    role: Du plus abondant au moins abondant.
+  - nom: Tableau nutritionnel
+    role: Pour 100 grammes.
+  - nom: Additifs
+  - nom: Allégations
+  - nom: Dates
+```
 
 ---
 
@@ -1780,6 +2026,20 @@ quiz:
     explanation: >
       Des scientifiques mesurent le danger, des responsables politiques décident quoi faire.
       Séparer les deux évite que la pression économique ne déforme la mesure elle-même.
+  - question: "Pourquoi la chaîne du froid est-elle l'arme principale contre les microbes ?"
+    options:
+      - "Parce que quelques bactéries deviennent des millions en quelques heures si la température le permet"
+      - "Parce que les microbes ne survivent pas hors du réfrigérateur"
+      - "Parce que le froid supprime les toxines des aliments"
+    answer: 1
+    explanation: "Les microbes se multiplient très vite : le froid limite cette multiplication."
+  - question: "Comment des moisissures peuvent-elles rendre dangereuses des céréales ?"
+    options:
+      - "Elles y ajoutent des métaux lourds"
+      - "Certaines produisent des toxines très dangereuses sur des céréales mal stockées"
+      - "Elles se multiplient seulement dans un réfrigérateur"
+    answer: 2
+    explanation: "Certaines moisissures produisent, sur des céréales mal stockées, des toxines très dangereuses : un danger chimique naturel."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1842,8 +2102,16 @@ l'information circule en quelques heures pour retirer les lots concernés.
 - Les microbes sont de loin la cause la plus fréquente.
 - L'évaluation scientifique du risque est séparée de sa gestion politique.
 
-[Emplacement image : les trois familles de contaminants et leurs principales sources, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les dangers d'un aliment
+legende: Environ 600 millions de cas de maladies alimentaires par an dans le monde.
+centre: Aliment
+parties:
+  - nom: Microbiologiques
+  - nom: Chimiques
+  - nom: Physiques
+```
 
 ---
 
@@ -1885,6 +2153,20 @@ quiz:
     explanation: >
       Contrairement à la plupart des bactéries, Listeria se développe lentement même à 4 degrés.
       Un produit prêt à consommer conservé longtemps peut donc devenir dangereux.
+  - question: "Pourquoi un plat laissé sur la table un après-midi d'été devient-il dangereux ?"
+    options:
+      - "Parce que la chaleur crée de nouvelles bactéries à partir de l'air"
+      - "Parce que la cuisson initiale a été trop courte"
+      - "Parce que les bactéries peuvent doubler toutes les vingt minutes dans la zone de danger"
+    answer: 3
+    explanation: "Dans la zone de température favorable, la population bactérienne peut doubler toutes les vingt minutes."
+  - question: "Pourquoi réchauffer un plat oublié ne le rend-il pas sûr ?"
+    options:
+      - "Parce que certaines bactéries fabriquent des toxines qui résistent à la chaleur"
+      - "Parce que le réchauffage fait repartir les bactéries"
+      - "Parce que la chaleur ne tue jamais les bactéries"
+    answer: 1
+    explanation: "Cuire détruit le microbe mais pas la toxine déjà produite, qui résiste à la chaleur."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1943,8 +2225,25 @@ moyen de transport des microbes dans une cuisine.
 - Le froid endort les bactéries, il ne les tue pas.
 - Listeria se multiplie même dans un réfrigérateur.
 
-[Emplacement image : échelle de température et vitesse de multiplication des bactéries, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Froid, attente et cuisson
+legende: >-
+  Le temps et le micro-organisme comptent ; réchauffer ne garantit pas la sécurité d’un aliment mal
+  conservé.
+colonnes:
+  - titre: Au froid
+    points:
+      - La croissance ralentit sans disparition des microbes.
+      - Certains, comme Listeria, peuvent encore se multiplier.
+  - titre: À température favorable
+    points:
+      - Des microbes peuvent se multiplier rapidement.
+  - titre: À la cuisson
+    points:
+      - Un traitement adapté détruit de nombreux microbes.
+      - Certaines toxines peuvent résister à la chaleur.
+```
 
 ---
 
@@ -1987,6 +2286,20 @@ quiz:
       Le risque principal est la déshydratation. Il faut boire régulièrement, par petites
       quantités, et compenser les pertes en sels minéraux. Les antibiotiques ne sont utiles que
       dans certains cas.
+  - question: "Pourquoi les symptômes d'une intoxination au staphylocoque arrivent-ils plus vite que ceux d'une infection à salmonelle ?"
+    options:
+      - "Parce que le staphylocoque est plus dangereux"
+      - "Parce que la toxine est déjà fabriquée dans l'aliment, alors que les salmonelles doivent se multiplier dans l'intestin"
+      - "Parce que les salmonelles sont détruites par l'acidité de l'estomac"
+    answer: 2
+    explanation: "Dans l'intoxination, la toxine est déjà présente dans l'aliment ; dans l'infection, les microbes se multiplient d'abord, d'où un délai de 12 à 72 heures."
+  - question: "Pourquoi ne faut-il pas attendre chez un nourrisson ou une personne âgée ?"
+    options:
+      - "Parce que leurs symptômes durent toujours plus de trois jours"
+      - "Parce que la toxine reste dans leur corps plus longtemps"
+      - "Parce qu'une déshydratation grave peut survenir en quelques heures"
+    answer: 3
+    explanation: "Le risque principal est la déshydratation, qui peut devenir grave en quelques heures chez ces personnes fragiles."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2045,8 +2358,17 @@ ambiante. Réfrigérer rapidement les restes. Laver les fruits et légumes, mêm
 - Les symptômes apparaissent en quelques heures à quelques jours.
 - Lavage des mains, cuisson à cœur et réfrigération rapide sont les clés de la prévention.
 
-[Emplacement image : principaux microbes responsables d'intoxications alimentaires et leurs
-aliments associés, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Face à une intoxication alimentaire
+elements:
+  - titre: Boire
+    texte: Le risque principal est la déshydratation.
+    icone: droplet
+  - titre: Surveiller
+  - titre: Consulter si besoin
+    texte: Enfants, personnes âgées, signes graves.
+```
 
 ---
 
@@ -2088,6 +2410,20 @@ quiz:
     explanation: >
       Les études évaluent généralement un pesticide à la fois. Mais l'alimentation expose à des
       cocktails de résidus, dont les effets combinés sont mal connus.
+  - question: "Quel inconvénient présente l'épluchage pour réduire les résidus de pesticides ?"
+    options:
+      - "Il élimine aussi des fibres et des vitamines"
+      - "Il augmente les résidus dans la chair du fruit"
+      - "Il laisse intacts les résidus de surface"
+    answer: 1
+    explanation: "Éplucher élimine la majeure partie des résidus, mais aussi des fibres et des vitamines."
+  - question: "Pourquoi l'agriculture biologique n'élimine-t-elle pas totalement les résidus ?"
+    options:
+      - "Parce qu'elle utilise quand même des pesticides de synthèse"
+      - "Parce que des contaminations croisées sont possibles"
+      - "Parce que les contrôles y sont moins stricts"
+    answer: 2
+    explanation: "Le bio n'utilise pas de pesticides de synthèse et les résidus y sont nettement plus faibles, mais pas nuls, à cause des contaminations croisées."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2155,8 +2491,15 @@ croisées sont possibles.
 - Les effets des mélanges de pesticides sont mal connus.
 - Laver et éplucher réduit l'exposition ; le bio la réduit davantage.
 
-[Emplacement image : taux de dépassement des LMR pour quelques fruits et légumes courants,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Réduire son exposition aux pesticides
+centre: Pesticides
+parties:
+  - nom: Laver et éplucher
+  - nom: Varier
+  - nom: Choisir des produits issus de l'agriculture biologique
+```
 
 ---
 
@@ -2199,6 +2542,20 @@ quiz:
     explanation: >
       Les grands prédateurs concentrent le mercure, qui peut affecter le développement du
       système nerveux du fœtus. Les petits poissons gras restent, eux, recommandés.
+  - question: "Pourquoi les petits poissons gras sont-ils un bon choix ?"
+    options:
+      - "Parce qu'ils sont les seuls à contenir des oméga-3"
+      - "Parce qu'ils sont élevés sans aucun contaminant"
+      - "Parce qu'ils sont riches en oméga-3 et pauvres en mercure, étant petits, de vie courte et planctonivores"
+    answer: 3
+    explanation: "Petits, de vie courte et se nourrissant de plancton, ils concentrent peu de mercure tout en étant riches en oméga-3."
+  - question: "Pourquoi le fœtus et le jeune enfant sont-ils particulièrement concernés par le mercure ?"
+    options:
+      - "Parce qu'ils sont particulièrement sensibles aux effets neurologiques du méthylmercure"
+      - "Parce qu'ils mangent plus de poisson que les adultes"
+      - "Parce que leur foie stocke le mercure pendant des années"
+    answer: 1
+    explanation: "Le fœtus et le jeune enfant sont particulièrement sensibles aux effets neurologiques du méthylmercure."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2255,8 +2612,16 @@ problème.
 - Femmes enceintes et jeunes enfants doivent éviter espadon, requin et thon.
 - Sardine, maquereau et hareng sont riches en oméga-3 et pauvres en mercure.
 
-[Emplacement image : échelle de concentration en mercure des principaux poissons consommés,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: L'accumulation du mercure dans la chaîne marine
+niveaux:
+  - titre: Grands prédateurs
+    texte: Dix à cent fois plus de mercure.
+  - titre: Poissons moyens
+  - titre: Petits poissons
+  - titre: Plancton
+```
 
 ---
 
@@ -2298,6 +2663,20 @@ quiz:
     explanation: >
       Les mycotoxines résistent souvent à la chaleur. La prévention passe par un bon stockage
       et l'élimination des produits atteints. On ne « sauve » pas un aliment moisi en le cuisant.
+  - question: "Pourquoi les aflatoxines sont-elles très redoutées chez les personnes infectées par l'hépatite B ?"
+    options:
+      - "Parce qu'elles attaquent surtout les reins de ces personnes"
+      - "Parce que l'exposition chronique augmente fortement leur risque de cancer du foie"
+      - "Parce qu'elles empêchent le traitement de l'hépatite"
+    answer: 2
+    explanation: "Les aflatoxines attaquent le foie ; l'exposition chronique augmente fortement le risque de cancer du foie, surtout en cas d'hépatite B."
+  - question: "Pourquoi les mycotoxines posent-elles surtout problème dans les régions chaudes et humides ?"
+    options:
+      - "Parce que les aliments y sont moins variés"
+      - "Parce que les moisissures n'y sont jamais détruites par le soleil"
+      - "Parce que les moisissures s'y développent bien et que le stockage y est difficile"
+    answer: 3
+    explanation: "Les moisissures prolifèrent quand il fait humide et chaud, et le stockage y est difficile."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2362,8 +2741,18 @@ Ne pas consommer d'arachides ou de fruits secs qui ont un goût amer ou une odeu
 - Le risque dépend surtout des conditions de stockage.
 - Les mycotoxines résistent souvent à la cuisson : jeter les produits moisis.
 
-[Emplacement image : principaux aliments à risque de mycotoxines et conditions de stockage
-recommandées, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les mycotoxines
+centre: Moisissures
+parties:
+  - nom: Aflatoxines
+    role: Cancérigènes, elles attaquent le foie.
+  - nom: Conditions
+    role: Chaleur et humidité.
+  - nom: Prévention
+    role: Stocker au sec, jeter les aliments moisis.
+```
 
 ---
 
@@ -2405,6 +2794,20 @@ quiz:
     explanation: >
       La chaleur accélère la migration des additifs du plastique, comme les phtalates ou le
       bisphénol A, vers les aliments. Mieux vaut utiliser du verre ou de l'inox.
+  - question: "Pourquoi les perturbateurs endocriniens ne suivent-ils pas les règles classiques de la toxicologie ?"
+    options:
+      - "Parce que des effets peuvent apparaître à faible dose, parfois plus marqués qu'aux doses élevées"
+      - "Parce que leur effet est toujours proportionnel à la dose"
+      - "Parce qu'ils n'agissent que chez l'adulte"
+    answer: 1
+    explanation: "Pour la plupart des toxiques l'effet augmente avec la dose ; pour ces substances, des effets existent à faible dose, parfois plus forts."
+  - question: "Pourquoi l'exposition pendant la grossesse ou la petite enfance est-elle préoccupante ?"
+    options:
+      - "Parce que les doses y sont toujours plus élevées"
+      - "Parce qu'elle peut avoir des conséquences durables même si l'exposition de l'adulte est sans effet visible"
+      - "Parce que ces périodes ne sont pas couvertes par l'interdiction du BPA"
+    answer: 2
+    explanation: "Les fenêtres d'exposition comptent : une exposition précoce peut avoir des conséquences durables."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2475,8 +2878,16 @@ préparés, les conserves, et privilégier le bio et le frais.
 - Les effets des faibles doses et des mélanges sont mal connus.
 - Ne pas chauffer d'aliments dans du plastique est le geste le plus simple.
 
-[Emplacement image : principales sources de perturbateurs endocriniens dans l'alimentation,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les perturbateurs endocriniens
+centre: Système hormonal
+parties:
+  - nom: Emballages plastiques
+  - nom: Certains pesticides
+  - nom: Réduire l'exposition
+    role: Ne pas chauffer le plastique, varier.
+```
 
 ---
 
@@ -2518,6 +2929,20 @@ quiz:
     explanation: >
       Les bactéries présentes sur la viande crue se transmettent par contact. Utiliser des
       planches et des couteaux différents évite la contamination croisée.
+  - question: "Pourquoi une viande hachée doit-elle être cuite à cœur alors qu'un steak peut rester rosé ?"
+    options:
+      - "Parce que la viande hachée contient plus de graisse"
+      - "Parce que la viande hachée cuit plus lentement"
+      - "Parce que dans la viande hachée les bactéries sont réparties dans toute la masse, alors que sur un steak elles restent en surface"
+    answer: 3
+    explanation: "Le hachage répartit les bactéries dans toute la viande : la cuisson doit atteindre le cœur."
+  - question: "Pourquoi faut-il désinfecter régulièrement les éponges ?"
+    options:
+      - "Parce que les éponges et les torchons sont des réservoirs à microbes"
+      - "Parce qu'elles perdent leur pouvoir absorbant"
+      - "Parce que l'eau de Javel use les surfaces"
+    answer: 1
+    explanation: "Éponges et torchons hébergent des microbes qui se transmettent aux plans de travail et aux aliments."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2587,8 +3012,19 @@ Les plans de travail doivent être nettoyés après chaque manipulation d'alimen
 - Cuire à cœur viandes hachées, volaille, œufs et poissons.
 - Ne pas laisser un plat plus de deux heures à température ambiante.
 
-[Emplacement image : les cinq gestes clés de l'hygiène en cuisine, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les règles d'hygiène en cuisine
+elements:
+  - titre: Se laver les mains
+    texte: 20 secondes au savon.
+  - titre: Séparer le cru du cuit
+  - titre: Bien cuire
+    icone: fire
+  - titre: Garder au froid
+    icone: snowflake
+  - titre: Nettoyer
+```
 
 ---
 
@@ -2632,6 +3068,20 @@ quiz:
       Les céréales manquent d'un acide aminé que les légumineuses ont en abondance, et
       inversement. Riz et haricots, semoule et pois chiches, maïs et haricots noirs : ces
       associations existent partout dans le monde.
+  - question: "Pourquoi la carence en B12 est-elle difficile à repérer au début chez un végétalien ?"
+    options:
+      - "Parce que la B12 est stockée dans les graisses"
+      - "Parce que le foie garde plusieurs années de réserves, alors que les conséquences sur les nerfs peuvent être irréversibles"
+      - "Parce que les algues compensent l'essentiel des besoins"
+    answer: 2
+    explanation: "La carence s'installe lentement grâce aux réserves du foie, mais ses effets sur les nerfs peuvent être irréversibles."
+  - question: "Pourquoi les algues ne sont-elles pas une source fiable de B12 ?"
+    options:
+      - "Parce qu'elles n'en contiennent aucune trace"
+      - "Parce que leur B12 est détruite par le trempage"
+      - "Parce qu'elles contiennent surtout des molécules qui ressemblent à la B12 sans être utilisables"
+    answer: 3
+    explanation: "Algues et produits fermentés contiennent souvent des molécules proches de la B12 que le corps ne peut pas utiliser."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2689,110 +3139,19 @@ lentilles et riz en Inde.
 - Les oméga 3 à longue chaîne sont le point le plus difficile à couvrir.
 - Céréales et légumineuses ont des acides aminés complémentaires.
 
-[Emplacement image : complémentarité des acides aminés entre céréales et légumineuses, légende
-et texte alternatif à fournir ultérieurement.]
-
----
-
----
-type: article
-title: Intolérance au lactose et maladie cœliaque
-slug: intolerance-au-lactose-et-maladie-coeliaque
-categoryPath: alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers
-summary: >
-  On les range souvent ensemble. Ce sont pourtant deux choses très différentes : l'une est un
-  simple inconfort dosable, l'autre une maladie qui abîme l'intestin.
-tags: [nutrition, lactose, gluten, coeliaque, intolerance]
-relatedArticles: [regimes-vegetariens-et-vegetaliens, digestion-et-absorption-des-nutriments]
-sources:
-  - title: "Celiac disease"
-    url: "https://www.britannica.com/science/celiac-disease"
-    publisher: "Encyclopaedia Britannica"
-    date: "2025"
-  - title: "Allergies et intolérances"
-    url: "https://www.inserm.fr/dossier/allergies/"
-    publisher: "Inserm"
-    date: "2025"
-quiz:
-  - question: "L'intolérance au lactose abîme-t-elle l'intestin ?"
-    options:
-      - "Oui, gravement"
-      - "Non, elle provoque un inconfort mais aucune lésion"
-      - "Oui, mais seulement chez l'enfant"
-    answer: 2
-    explanation: >
-      Le lactose non digéré fermente dans le côlon, ce qui donne des ballonnements et des
-      douleurs. Désagréable, mais sans dommage pour l'intestin. La maladie cœliaque, elle,
-      détruit la paroi intestinale.
-  - question: "Que faut-il faire avant de supprimer le gluten si l'on soupçonne une maladie cœliaque ?"
-    options:
-      - "Supprimer le gluten tout de suite pour voir"
-      - "Se faire diagnostiquer d'abord, sinon les tests deviennent faussement négatifs"
-      - "Attendre un an"
-    answer: 2
-    explanation: >
-      Les examens recherchent la réaction du corps au gluten. Sans gluten, il n'y a plus de
-      réaction à détecter, et le diagnostic devient impossible à établir.
-lastVerified: 2026-09-22
-status: published
----
-
-## En bref
-
-On entend souvent parler des deux dans la même phrase, comme deux façons de « mal supporter »
-un aliment. C'est une confusion.
-
-L'intolérance au lactose est un simple manque d'enzyme. Désagréable, dosable, sans gravité.
-
-La maladie cœliaque est une maladie où le système immunitaire attaque l'intestin. Elle impose
-une exclusion totale et définitive.
-
-## L'intolérance au lactose
-
-Le lactose est le sucre du lait. Pour le digérer, il faut une enzyme appelée lactase.
-
-Tous les bébés en produisent. Mais chez la majorité des humains, cette production diminue
-fortement après l'enfance. C'est le cas le plus répandu sur la planète.
-
-La capacité à digérer le lait à l'âge adulte est en réalité l'exception. Elle vient d'une
-mutation génétique apparue il y a quelques milliers d'années chez des populations d'éleveurs, et
-elle est fréquente en Europe du Nord.
-
-Quand le lactose n'est pas digéré, il arrive dans le gros intestin où les bactéries le
-fermentent : ballonnements, douleurs, diarrhée. Rien de plus. Aucune lésion.
-
-Et c'est une question de dose : un peu de lait passe souvent très bien, les fromages affinés
-n'en contiennent presque plus, et les yaourts sont mieux tolérés grâce à leurs ferments.
-
-## La maladie cœliaque
-
-Ici, le mécanisme est tout autre. Chez des personnes génétiquement prédisposées, le système
-immunitaire réagit contre une partie du gluten, une protéine du blé, du seigle et de l'orge.
-
-Cette réaction attaque la paroi de l'intestin grêle. Les petites villosités qui absorbent les
-nutriments s'aplatissent. Le corps n'absorbe plus correctement : anémie, fatigue, os fragiles,
-retard de croissance chez l'enfant.
-
-Le seul traitement connu est l'exclusion totale du gluten, à vie, y compris les traces.
-
-## Une erreur à ne pas commettre
-
-Si l'on soupçonne une maladie cœliaque, il ne faut surtout pas supprimer le gluten avant les
-examens.
-
-Les tests recherchent la réaction du corps au gluten. Sans gluten, plus de réaction, et le
-diagnostic devient impossible. Beaucoup de gens se retrouvent ainsi coincés : trop de symptômes
-pour manger normalement, plus assez pour être diagnostiqués.
-
-## À retenir
-
-- L'intolérance au lactose est un manque d'enzyme, sans lésion, et dose-dépendante.
-- Digérer le lait à l'âge adulte est minoritaire à l'échelle mondiale.
-- La maladie cœliaque est auto-immune et détruit la paroi de l'intestin.
-- Il faut se faire diagnostiquer avant de supprimer le gluten.
-
-[Emplacement image : paroi intestinale saine et paroi aplatie par la maladie cœliaque, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les points de vigilance du régime végétal
+centre: Régime végétalien
+icone: leaf
+parties:
+  - nom: Vitamine B12
+    role: Un complément indispensable.
+  - nom: Fer et zinc
+    role: Mal absorbés, mais l'absorption peut s'améliorer.
+  - nom: Protéines
+    role: En combinant les sources.
+```
 
 ---
 
@@ -2834,6 +3193,20 @@ quiz:
     explanation: >
       Les essais contrôlés randomisés ont montré une réduction significative des événements
       cardiovasculaires chez les personnes suivant un régime méditerranéen.
+  - question: "Pourquoi le régime méditerranéen est-il durable ?"
+    options:
+      - "Parce qu'il est modérément calorique, sans restriction stricte"
+      - "Parce qu'il interdit tous les produits sucrés"
+      - "Parce qu'il dure seulement quelques semaines"
+    answer: 1
+    explanation: "Le régime est modérément calorique, sans restriction stricte, ce qui le rend durable : c'est un modèle de vie, pas une cure."
+  - question: "Quel principe permet d'adopter progressivement le régime méditerranéen ?"
+    options:
+      - "Supprimer d'un coup tous les produits animaux"
+      - "Remplacer plutôt que supprimer, par exemple le beurre par de l'huile d'olive"
+      - "Suivre une cure stricte de quelques semaines"
+    answer: 2
+    explanation: "Le principe est de remplacer, pas de supprimer, et d'accepter un changement progressif."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2901,8 +3274,16 @@ Et accepter que le changement soit progressif : c'est un modèle de vie, pas une
 - L'huile d'olive est le principal corps gras.
 - Remplacer progressivement, sans supprimer.
 
-[Emplacement image : pyramide alimentaire du régime méditerranéen, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le modèle méditerranéen
+centre: Régime méditerranéen
+parties:
+  - nom: Légumes, fruits, légumineuses
+  - nom: Huile d'olive
+  - nom: Poisson
+  - nom: Peu de viande rouge
+```
 
 ---
 
@@ -2944,6 +3325,20 @@ quiz:
     explanation: >
       Les études montrent que la perte de poids est largement due à la réduction des apports
       caloriques. Une fenêtre de repas plus courte limite mécaniquement les occasions de manger.
+  - question: "Que signifie le basculement métabolique du jeûne ?"
+    options:
+      - "Le corps cesse de produire de l'énergie"
+      - "Le corps remplace les graisses par des protéines"
+      - "Après une douzaine d'heures, le corps puise dans ses réserves de graisses et produit des cétones"
+    answer: 3
+    explanation: "Après environ douze heures sans manger, le corps change de carburant et produit des cétones."
+  - question: "Pourquoi le jeûne est-il déconseillé chez les personnes âgées ?"
+    options:
+      - "Parce que le risque de perte de masse musculaire est réel et peut aggraver la sarcopénie"
+      - "Parce qu'elles ne ressentent plus la faim"
+      - "Parce que leur métabolisme ne produit pas de cétones"
+    answer: 1
+    explanation: "Chez les personnes âgées, jeûner peut aggraver la perte de muscle."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -3010,8 +3405,18 @@ fonctionne pas si l'on mange le double pendant les heures autorisées.
 - Le jeûne induit un basculement métabolique vers les graisses.
 - Ce n'est pas recommandé pour tout le monde : grossesse, diabète, troubles alimentaires.
 
-[Emplacement image : schéma du protocole 16:8 sur une journée, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Le jeûne intermittent 16:8
+colonnes:
+  - titre: Le protocole
+    points:
+      - 16 heures sans manger
+      - 8 heures pour les repas
+  - titre: Ce qu'il fait
+    points:
+      - La perte de poids vient surtout de la réduction des apports
+```
 
 ---
 
@@ -3054,6 +3459,20 @@ quiz:
     explanation: >
       Les essais contrôlés montrent que le régime méditerranéen réduit le plus les marqueurs
       inflammatoires comme la CRP, notamment grâce à sa richesse en oméga-3 et en polyphénols.
+  - question: "Pourquoi rééquilibrer le rapport oméga-6/oméga-3 est-il probablement l'action la plus efficace ?"
+    options:
+      - "Parce que les oméga-6 sont toxiques à toute dose"
+      - "Parce que l'alimentation actuelle est très riche en oméga-6 et pauvre en oméga-3"
+      - "Parce que les oméga-3 remplacent les fibres"
+    answer: 2
+    explanation: "Notre alimentation contient beaucoup d'oméga-6 et peu d'oméga-3 : rééquilibrer ce rapport est probablement l'action la plus efficace."
+  - question: "Que montrent les études sur le jeûne intermittent, le régime cétogène et le paléo ?"
+    options:
+      - "Des effets anti-inflammatoires comparables au méditerranéen"
+      - "Un effet supérieur, mais seulement chez le sportif"
+      - "Pas d'effet anti-inflammatoire convaincant dans les études disponibles"
+    answer: 3
+    explanation: "Seul le régime méditerranéen est le mieux validé ; ces trois approches n'ont pas montré d'effet convaincant."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -3126,8 +3545,20 @@ premières et en augmentant les seconds, est probablement l'action la plus effic
 - Oméga-3, polyphénols et fibres la réduisent.
 - Le régime méditerranéen est le modèle le mieux validé.
 
-[Emplacement image : aliments pro-inflammatoires et anti-inflammatoires, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Des profils alimentaires étudiés
+legende: Tendances générales ; un aliment isolé ne traite pas à lui seul une inflammation.
+type: comparaison
+colonnes:
+  - titre: Profil moins favorable
+    points:
+      - Graisses saturées et trans
+      - Sucres rapides
+  - titre: Profil plus favorable
+    points:
+      - Fruits et légumes
+      - Oméga-3
+```
 
 ---
 
@@ -3140,7 +3571,7 @@ summary: >
   Un régime d'éviction temporaire pour les personnes souffrant du syndrome de l'intestin
   irritable. Il ne s'improvise pas et ne doit pas durer.
 tags: [nutrition, FODMAP, intestin-irritable, ballonnements, elimination]
-relatedArticles: [fibres-alimentaires-roles-et-apports, microbiote-intestinal]
+relatedArticles: [fibres-alimentaires-roles-et-apports, microbiote-intestinal-physiologie]
 sources:
   - title: "The Low-FODMAP Diet in Clinical Practice"
     url: "https://www.ncbi.nlm.nih.gov/books/NBK562224/"
@@ -3170,6 +3601,20 @@ quiz:
     explanation: >
       La restriction prolongée réduit la diversité du microbiote et peut entraîner des carences.
       Le but est d'identifier les aliments tolérés, puis de réintroduire le plus possible.
+  - question: "Pourquoi les FODMAP provoquent-ils des ballonnements chez les personnes sensibles ?"
+    options:
+      - "Mal absorbés dans l'intestin grêle, ils attirent l'eau et fermentent dans le côlon en produisant des gaz"
+      - "Ils détruisent le microbiote de l'intestin grêle"
+      - "Ils sont digérés trop vite et provoquent un afflux de sucre"
+    answer: 1
+    explanation: "Ces petits glucides attirent l'eau et fermentent dans le côlon. Chez un intestin hypersensible, la distension provoque douleurs et ballonnements."
+  - question: "À quoi sert la phase de réintroduction ?"
+    options:
+      - "À reprendre l'alimentation normale d'un coup"
+      - "À identifier, groupe par groupe, les aliments tolérés ou non"
+      - "À prolonger l'éviction pendant plusieurs semaines"
+    answer: 2
+    explanation: "On réintroduit les groupes d'aliments un par un pour repérer ceux qui posent réellement problème."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -3230,8 +3675,14 @@ Et l'effet n'est pas garanti : environ un quart des patients ne répondent pas.
 - Il ne doit pas durer : la restriction prolongée appauvrit le microbiote.
 - Un encadrement par un professionnel est recommandé.
 
-[Emplacement image : les trois phases du régime low-FODMAP, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les trois phases du régime low-FODMAP
+elements:
+  - titre: Éviction
+  - titre: Réintroduction
+  - titre: Personnalisation
+```
 
 ---
 
@@ -3274,6 +3725,20 @@ quiz:
       Le total des calories et des macronutriments est le facteur principal. Le timing est un
       ajustement fin qui peut améliorer la performance et la récupération, mais il ne compense
       pas des apports insuffisants.
+  - question: "Pourquoi répartir les protéines sur la journée plutôt qu'en une seule dose ?"
+    options:
+      - "Parce que cela évite de dépasser 2 g/kg/jour"
+      - "Parce que cela réduit le besoin en glucides"
+      - "Parce que 20 à 30 g par repas stimulent mieux la synthèse musculaire qu'une grosse dose"
+    answer: 3
+    explanation: "Des apports de 20 à 30 g répartis sur la journée stimulent mieux la synthèse musculaire."
+  - question: "Pourquoi faut-il consommer des glucides dans les deux heures après l'effort ?"
+    options:
+      - "Pour reconstituer le glycogène et accélérer la récupération"
+      - "Pour éviter de dépasser les besoins en protéines"
+      - "Pour remplacer l'eau perdue par la sueur"
+    answer: 1
+    explanation: "Les glucides reconstituent le glycogène musculaire et hépatique et accélèrent la récupération."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -3339,8 +3804,18 @@ Le reste — BCAA, glutamine, testostérone boosters — est soit inutile, soit 
 - Répartir les protéines sur la journée, pas en une seule dose.
 - La caféine et la créatine sont les seuls compléments vraiment efficaces.
 
-[Emplacement image : répartition des apports nutritionnels chez un sportif d'endurance, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'alimentation du sportif
+centre: Sportif
+icone: dumbbell
+parties:
+  - nom: Glucides
+    role: 50 à 65 % des apports.
+  - nom: Protéines
+    role: 1,5 à 1,8 g par kilo et par jour en endurance.
+  - nom: Hydratation
+```
 
 ---
 
@@ -3383,6 +3858,20 @@ quiz:
     explanation: >
       Le manque de sommeil augmente la ghréline (hormone de la faim) et diminue la leptine
       (hormone de la satiété). Résultat : on mange plus, et plutôt sucré.
+  - question: "Pourquoi l'alcool, qui endort, perturbe-t-il malgré tout la nuit ?"
+    options:
+      - "Parce qu'il empêche de s'endormir"
+      - "Parce qu'il fragmente le sommeil : on se réveille au milieu de la nuit, moins reposé"
+      - "Parce qu'il augmente la production de mélatonine"
+    answer: 2
+    explanation: "L'alcool endort mais fragmente le sommeil."
+  - question: "Pourquoi un café à 16 heures peut-il gêner le sommeil ?"
+    options:
+      - "Parce que la caféine n'agit qu'au bout de six heures"
+      - "Parce que le café contient du tryptophane"
+      - "Parce qu'il en reste la moitié de la caféine à 22 heures"
+    answer: 3
+    explanation: "Avec une demi-vie de 5 à 6 heures, la moitié de la caféine est encore présente à 22 heures."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -3449,8 +3938,21 @@ Et surtout, régularité : manger à heures fixes aide à synchroniser l'horloge
 - Le manque de sommeil augmente la faim et les envies de sucré.
 - Dîner léger et tôt, et garder des horaires réguliers.
 
-[Emplacement image : aliments qui favorisent ou perturbent le sommeil, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Ce qui aide ou perturbe le sommeil
+type: comparaison
+colonnes:
+  - titre: Lien biologique
+    points:
+      - >-
+        Le tryptophane intervient dans la synthèse de la mélatonine, sans garantir un effet d’un
+        aliment sur le sommeil.
+  - titre: Perturbe
+    points:
+      - Repas gras
+      - Alcool
+      - Caféine
+```
 
 ---
 
@@ -3463,7 +3965,7 @@ summary: >
   Une méta-analyse de 10 millions de personnes associe les aliments ultra-transformés à un
   risque de dépression accru de 22 %. La piste alimentaire en psychiatrie devient sérieuse.
 tags: [nutrition, sante-mentale, depression, psychonutrition, omega-3]
-relatedArticles: [alimentation-anti-inflammatoire, microbiote-intestinal]
+relatedArticles: [alimentation-anti-inflammatoire, microbiote-intestinal-physiologie]
 sources:
   - title: "Alimentation et dépression"
     url: "https://www.cmaj.ca"
@@ -3494,6 +3996,20 @@ quiz:
       Les oméga-3, et particulièrement l'EPA, ont le meilleur niveau de preuve d'efficacité
       dans la dépression caractérisée, à des doses d'au moins 1 gramme par jour pendant plus
       de huit semaines.
+  - question: "Pourquoi les études observationnelles ne suffisent-elles pas à prouver que l'alimentation influence la dépression ?"
+    options:
+      - "Parce qu'elles ne prouvent pas la causalité, même si elles sont cohérentes et convergentes"
+      - "Parce qu'elles ne portent que sur de petits groupes"
+      - "Parce qu'elles ne mesurent pas l'alimentation"
+    answer: 1
+    explanation: "Observationnelles, elles ne prouvent pas la causalité, d'où l'intérêt des essais randomisés."
+  - question: "Quel lien le microbiote intestinal a-t-il avec l'humeur ?"
+    options:
+      - "Il détruit les oméga-3 avant leur absorption"
+      - "Il produit des précurseurs de neurotransmetteurs, dont la sérotonine"
+      - "Il remplace les folates et la vitamine B12"
+    answer: 2
+    explanation: "Le microbiote produit des précurseurs de neurotransmetteurs ; une alimentation riche en fibres le nourrit."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -3559,8 +4075,14 @@ alimentation qu'on ne suit pas n'a aucun effet.
 - L'inflammation et le microbiote sont les mécanismes les plus probablement impliqués.
 - Les oméga-3, à dose suffisante, ont le meilleur niveau de preuve.
 
-[Emplacement image : liens entre alimentation, inflammation, microbiote et santé mentale,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Alimentation et santé mentale
+legende: Association rapportée dans l’étude citée, sans démontrer à elle seule une causalité.
+type: chiffres
+chiffres:
+  - valeur: +22 %
+    texte: de risque de dépression associé aux ultra-transformés
+```
 
 ---
 
@@ -3602,6 +4124,20 @@ quiz:
     explanation: >
       Les études montrent que le régime méditerranéen, riche en végétaux et pauvre en
       ultra-transformés, est associé à un moindre risque de fragilité et de maladies chroniques.
+  - question: "Pourquoi l'apport en protéines devient-il critique avec l'âge ?"
+    options:
+      - "Parce que les os absorbent moins de calcium"
+      - "Parce que l'inflammation détruit les protéines"
+      - "Parce qu'il faut plus de protéines pour maintenir le muscle alors que beaucoup mangent moins"
+    answer: 3
+    explanation: "Les besoins montent à 1 à 1,2 g/kg, mais beaucoup de personnes âgées mangent moins, d'où la sarcopénie."
+  - question: "Pourquoi la vitamine B12 est-elle moins bien absorbée avec l'âge ?"
+    options:
+      - "Parce que l'acidité gastrique diminue"
+      - "Parce que l'alimentation devient moins variée"
+      - "Parce que le foie cesse de la stocker"
+    answer: 1
+    explanation: "La baisse de l'acidité gastrique réduit l'absorption de la B12."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -3660,8 +4196,17 @@ Et le fer peut manquer, surtout si l'alimentation est peu variée.
 - Les besoins en protéines augmentent avec l'âge : 1 à 1,2 g/kg/jour.
 - Vitamine B12, vitamine D et calcium sont les carences les plus fréquentes.
 
-[Emplacement image : principaux nutriments à surveiller après 60 ans et leurs sources, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Bien vieillir à table
+type: systeme
+centre: Vieillissement
+parties:
+  - nom: Végétaux
+    role: Associés à un moindre risque de certaines maladies chroniques.
+  - nom: Protéines
+    role: Souvent insuffisantes.
+  - nom: Carences à surveiller
+```
 
 ---
 
@@ -3703,6 +4248,20 @@ quiz:
     explanation: >
       Listeria peut traverser le placenta et provoquer une infection grave chez le fœtus.
       Les fromages au lait cru, les charcuteries et les poissons fumés sont déconseillés.
+  - question: "Pourquoi les folates sont-ils essentiels dès avant la conception ?"
+    options:
+      - "Parce qu'ils fixent le calcium sur les os du fœtus"
+      - "Parce qu'ils préviennent les malformations du tube neural"
+      - "Parce qu'ils protègent contre Listeria"
+    answer: 2
+    explanation: "Les folates préviennent les malformations du tube neural."
+  - question: "Quel geste aide à éviter la toxoplasmose pendant la grossesse ?"
+    options:
+      - "Éviter les grands prédateurs marins"
+      - "Supprimer les produits laitiers"
+      - "Bien cuire la viande et laver soigneusement les fruits et légumes"
+    answer: 3
+    explanation: "Contre la toxoplasmose : bien cuire la viande, laver les fruits et légumes, porter des gants pour jardiner."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -3765,8 +4324,19 @@ Et limiter les grands prédateurs marins — thon, espadon, requin — à cause 
 - Éviter fromages au lait cru, charcuteries et poissons fumés à cause de Listeria.
 - Bien cuire la viande pour éviter la toxoplasmose.
 
-[Emplacement image : aliments recommandés et déconseillés pendant la grossesse, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Calories supplémentaires pendant la grossesse
+legende: Repères américains cités dans la leçon ; les besoins individuels dépendent de la situation.
+type: barres
+unite: kcal/jour
+valeurs:
+  - label: Premier trimestre
+    valeur: 0
+  - label: Deuxième trimestre
+    valeur: 340
+  - label: Troisième trimestre
+    valeur: 450
+```
 
 ---
 
@@ -3808,6 +4378,20 @@ quiz:
     explanation: >
       Un aliment nouveau peut être refusé plusieurs fois avant d'être accepté. Le rôle du
       parent est de proposer, sans forcer. Forcer crée des associations négatives durables.
+  - question: "Pourquoi introduit-on les aliments un à la fois pendant la diversification ?"
+    options:
+      - "Pour détecter d'éventuelles réactions"
+      - "Pour que l'enfant mange moins"
+      - "Pour remplacer le lait plus vite"
+    answer: 1
+    explanation: "Un aliment à la fois permet de repérer une éventuelle réaction."
+  - question: "Pourquoi interdire un aliment est-il contre-productif ?"
+    options:
+      - "Parce que l'enfant l'oublie"
+      - "Parce que cela le rend plus attractif"
+      - "Parce que cela supprime les repas"
+    answer: 2
+    explanation: "Interdire un aliment le rend plus attractif ; forcer crée des associations négatives."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -3872,8 +4456,17 @@ les mangera plus volontiers.
 - Les parents décident quoi, quand et où ; l'enfant décide s'il mange.
 - Répéter sans forcer : un aliment peut être refusé dix fois avant d'être accepté.
 
-[Emplacement image : assiette équilibrée pour un enfant de 4 à 11 ans, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les repères pour les enfants
+chiffres:
+  - valeur: 4 à 6 mois
+    texte: début de la diversification, un aliment à la fois
+  - valeur: 5
+    texte: fruits et légumes par jour
+  - valeur: 3
+    texte: produits laitiers par jour
+```
 
 ---
 
@@ -3886,7 +4479,7 @@ summary: >
   L'allergie implique le système immunitaire et peut tuer en quelques minutes. L'intolérance
   est un problème de digestion. Les confondre peut être dangereux.
 tags: [nutrition, allergies, intolerances, immunite, digestion]
-relatedArticles: [intolerance-au-lactose-et-maladie-coeliaque, microbiote-intestinal]
+relatedArticles: [lactose-et-intolerance, microbiote-intestinal-physiologie]
 sources:
   - title: "Food allergy versus food intolerance"
     url: "https://www.aaaai.org"
@@ -3916,6 +4509,20 @@ quiz:
     explanation: >
       L'anaphylaxie est une réaction allergique généralisée qui peut provoquer une chute de
       tension, un œdème de la gorge et une détresse respiratoire. C'est une urgence médicale.
+  - question: "Comment une allergie déclenche-t-elle ses symptômes ?"
+    options:
+      - "Un manque d'enzyme empêche de digérer l'aliment"
+      - "La dose consommée dépasse ce que le corps tolère"
+      - "Le système immunitaire produit des IgE qui déclenchent la libération d'histamine lors d'un contact ultérieur"
+    answer: 3
+    explanation: "L'allergie est une réaction immunitaire : les IgE provoquent la libération d'histamine au contact suivant."
+  - question: "Pourquoi traiter une intolérance comme une allergie peut-il poser problème ?"
+    options:
+      - "Parce que la peur extrême des traces peut entraîner des restrictions inutiles et des carences"
+      - "Parce que cela provoque un choc anaphylactique"
+      - "Parce que l'intolérance nécessite de l'adrénaline"
+    answer: 1
+    explanation: "Une peur extrême des traces mène à des restrictions inutiles et des carences, alors que l'intolérance dépend de la dose."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -3985,8 +4592,19 @@ d'éviction puis de réintroduction.
 - L'allergie survient à des doses infimes, l'intolérance dépend de la dose.
 - Ne pas confondre les deux : les précautions ne sont pas les mêmes.
 
-[Emplacement image : comparaison des mécanismes de l'allergie et de l'intolérance, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Allergie ou intolérance
+colonnes:
+  - titre: Allergie
+    points:
+      - Implique le système immunitaire
+      - Peut être mortelle
+  - titre: Intolérance
+    points:
+      - Sans réaction immunitaire
+      - Rarement grave
+```
 
 ---
 
@@ -4029,6 +4647,20 @@ quiz:
     explanation: >
       À moins 18 degrés, l'eau est entièrement gelée et l'activité microbienne est arrêtée.
       C'est la norme des congélateurs domestiques.
+  - question: "Pourquoi un produit pasteurisé doit-il rester au froid ?"
+    options:
+      - "Parce que la pasteurisation laisse des spores qui peuvent se développer"
+      - "Parce que la pasteurisation ne tue aucun micro-organisme actif"
+      - "Parce que la chaleur modérée transforme les graisses de l'aliment"
+    answer: 1
+    explanation: "La pasteurisation tue les micro-organismes actifs mais laisse des formes de résistance, les spores. Le froid empêche ces spores de se développer."
+  - question: "Pourquoi la congélation lente abîme-t-elle davantage la texture d'un aliment que la surgélation industrielle ?"
+    options:
+      - "Elle utilise une température moins basse qui laisse l'eau liquide"
+      - "Elle forme de gros cristaux de glace qui percent les cellules"
+      - "Elle fait éclater les spores présentes dans l'aliment"
+    answer: 2
+    explanation: "Une congélation lente forme de gros cristaux qui percent les cellules, d'où la texture molle après décongélation. La surgélation rapide forme des cristaux minuscules."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -4091,8 +4723,18 @@ dangereuses ne peuvent pas se développer. Cornichons, choucroute et yaourt en v
 - Sel, sucre et séchage privent les microbes d'eau.
 - Le vide d'air et l'acidité complètent l'arsenal.
 
-[Emplacement image : principales techniques de conservation et durée obtenue, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les grandes familles de conservation
+centre: Conserver
+parties:
+  - nom: Froid
+    role: 0 à 4 °C, ou -18 °C et moins.
+  - nom: Chaleur
+    role: Pasteurisation, stérilisation.
+  - nom: Retirer l'eau
+  - nom: Air et acidité
+```
 
 ---
 
@@ -4134,6 +4776,20 @@ quiz:
     explanation: >
       Appert a trouvé la méthode par essais successifs, vers 1795. Ce n'est qu'au milieu du
       XIXe siècle que Pasteur a montré l'existence des micro-organismes responsables.
+  - question: "Pourquoi un barème de stérilisation trop sévère pose-t-il problème ?"
+    options:
+      - "Il laisse survivre les spores les plus résistantes"
+      - "Il oblige à utiliser un autoclave pour tous les aliments"
+      - "Il abîme la texture, la couleur et une partie des vitamines"
+    answer: 3
+    explanation: "Un barème trop sévère ramollit l'aliment, ternit sa couleur et détruit des vitamines. Le travail industriel consiste à trouver le traitement minimal qui garantit la sécurité."
+  - question: "Comment le traitement UHT atteint-il la sécurité d'une stérilisation classique en abîmant moins le produit ?"
+    options:
+      - "Il chauffe très fort mais seulement quelques secondes"
+      - "Il chauffe modérément mais pendant plusieurs heures"
+      - "Il remplace la chaleur par une forte pression"
+    answer: 1
+    explanation: "L'UHT chauffe autour de 140 degrés pendant quelques secondes seulement, puis refroidit tout de suite. Ce choc bref donne la même sécurité en abîmant moins le produit."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -4190,8 +4846,18 @@ le produit. Le conditionnement doit alors se faire dans un environnement stéril
 - L'acidité empêche la germination des spores les plus dangereuses.
 - L'UHT chauffe très fort mais très brièvement.
 
-[Emplacement image : autoclave industriel et courbe de température d'une stérilisation, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Aliments acides et peu acides
+legende: Dans les deux cas, un procédé validé pour le produit est indispensable.
+type: comparaison
+colonnes:
+  - titre: Acides
+    points:
+      - L’acidité permet des traitements moins sévères dans un procédé validé.
+  - titre: Peu acides
+    points:
+      - Barème de stérilisation strict
+```
 
 ---
 
@@ -4233,6 +4899,20 @@ quiz:
     explanation: >
       Le traitement UHT chauffe le lait à environ 140 degrés pendant 2 à 5 secondes, tuant
       même les spores. Conditionné stérilement, il se conserve plusieurs mois.
+  - question: "Quelle est la principale différence entre pasteurisation et stérilisation ?"
+    options:
+      - "La pasteurisation s'applique au lait, la stérilisation au vin"
+      - "La stérilisation détruit aussi les spores, pas la pasteurisation"
+      - "La pasteurisation chauffe plus fort mais moins longtemps"
+    answer: 2
+    explanation: "La pasteurisation, à environ 72 degrés, épargne les spores. La stérilisation, à 121 degrés, les détruit, ce qui rend l'aliment stable à température ambiante."
+  - question: "Pourquoi accepte-t-on les pertes de vitamines dues à ces traitements thermiques ?"
+    options:
+      - "Parce que ces pertes sont totalement compensées par le chauffage"
+      - "Parce que la stérilisation ne touche pas aux vitamines"
+      - "Parce que le gain de sécurité sanitaire est immense, par exemple contre la tuberculose bovine"
+    answer: 3
+    explanation: "Ces traitements dégradent une partie des vitamines, mais ils ont fait disparaître des maladies transmises par le lait comme la tuberculose bovine et la brucellose."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -4297,8 +4977,21 @@ disparaître des maladies comme la tuberculose bovine et la brucellose transmise
 - UHT : 140 degrés quelques secondes, même sécurité, moins d'altération.
 - Ces traitements dégradent certaines vitamines mais assurent une sécurité sanitaire majeure.
 
-[Emplacement image : courbes de température comparées de la pasteurisation, de la stérilisation
-et de l'UHT, légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Pasteurisation ou stérilisation
+legende: >-
+  Le produit et la durée du traitement comptent autant que la température ; ce schéma ne donne pas
+  un protocole.
+type: comparaison
+colonnes:
+  - titre: Pasteurisation
+    points:
+      - Traitement modéré qui réduit de nombreux microbes.
+      - Ne détruit pas toutes les spores.
+  - titre: Stérilisation
+    points:
+      - Traitement plus sévère, adapté pour maîtriser aussi les spores.
+```
 
 ---
 
@@ -4341,6 +5034,20 @@ quiz:
       La combustion du bois produit des hydrocarbures polycycliques aromatiques (HAP), qui se
       déposent sur les aliments. Le fumage industriel moderne utilise des fumées purifiées pour
       réduire ce risque.
+  - question: "Pourquoi un aliment séché doit-il être réhydraté avec précaution ?"
+    options:
+      - "Parce que le séchage ne tue pas les microbes, il les inactive"
+      - "Parce que le séchage a détruit tous les microbes qui pourraient revenir"
+      - "Parce que l'eau efface les composés antimicrobiens du séchage"
+    answer: 1
+    explanation: "Le séchage prive les microbes d'eau mais ne les tue pas. Si l'aliment est réhydraté dans de mauvaises conditions, ils peuvent repartir."
+  - question: "Pourquoi les industriels utilisent-ils des arômes de fumée purifiés ?"
+    options:
+      - "Pour fumer les aliments à plus basse température"
+      - "Pour obtenir le goût fumé sans les HAP cancérigènes"
+      - "Pour ajouter des composés antimicrobiens plus puissants"
+    answer: 2
+    explanation: "La combustion du bois dépose des HAP cancérigènes sur les aliments. Les arômes purifiés en sont débarrassés et donnent le goût sans ce risque."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -4404,8 +5111,18 @@ trop longues. Les aliments fumés doivent rester occasionnels.
 - Le fumage traditionnel produit des HAP cancérigènes.
 - Les arômes de fumée purifiés évitent ce risque, sans la même tradition.
 
-[Emplacement image : comparaison du séchage et du fumage, et leurs effets sur la conservation,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Séchage et fumage
+colonnes:
+  - titre: Séchage
+    points:
+      - Retire l'eau nécessaire aux microbes
+  - titre: Fumage
+    points:
+      - Ajoute des composés antimicrobiens
+      - Attention aux HAP du fumage traditionnel
+```
 
 ---
 
@@ -4447,6 +5164,20 @@ quiz:
     explanation: >
       Les emballages actifs libèrent des substances antimicrobiennes ou antioxydantes, ou
       absorbent l'oxygène ou l'humidité, pour prolonger la durée de vie de l'aliment.
+  - question: "Pourquoi l'emballage sous vide doit-il toujours être associé au froid ?"
+    options:
+      - "Parce que le vide fait monter la température de l'aliment"
+      - "Parce que le vide laisse proliférer les bactéries aérobies"
+      - "Parce que certaines bactéries anaérobies, comme celle du botulisme, se développent sans oxygène"
+    answer: 3
+    explanation: "Sans oxygène, les bactéries aérobies sont bloquées, mais des anaérobies comme Clostridium botulinum peuvent se développer. Le froid reste donc nécessaire."
+  - question: "Pourquoi déconseille-t-on de chauffer un plat dans sa barquette en plastique ?"
+    options:
+      - "La migration des additifs vers l'aliment augmente avec la température"
+      - "Le plastique chauffé retient le goût de l'aliment"
+      - "La chaleur fait disparaître les vitamines de l'emballage"
+    answer: 1
+    explanation: "Les additifs du plastique peuvent migrer vers l'aliment, et cette migration augmente avec la température, la durée de contact et le caractère gras ou acide du plat."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -4510,208 +5241,19 @@ depuis 2025.
 - Les emballages actifs libèrent ou absorbent des substances.
 - Ne pas chauffer les aliments dans leur emballage plastique.
 
-[Emplacement image : comparaison des emballages sous vide, sous atmosphère modifiée et actifs,
-légende et texte alternatif à fournir ultérieurement.]
-
----
-
----
-type: article
-title: La fermentation, des microbes au travail
-slug: techniques-fermentation-alimentaire
-categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
-summary: >
-  Pain, fromage, yaourt, bière, vin, chocolat, café, choucroute, sauce soja. Tous doivent leur
-  existence à des micro-organismes qu'on laisse volontairement travailler.
-tags: [fermentation, levures, bacteries-lactiques, Pasteur, aliments]
-relatedArticles: [levain-et-panification, microbiote-intestinal]
-sources:
-  - title: "Fermentation"
-    url: "https://www.britannica.com/science/fermentation"
-    publisher: "Encyclopaedia Britannica"
-    date: "2025"
-  - title: "Alimentation et santé"
-    url: "https://www.inrae.fr/alimentation-sante-globale"
-    publisher: "INRAE"
-    date: "2025"
-quiz:
-  - question: "Que produisent les levures en fermentant le sucre ?"
-    options:
-      - "De l'acide lactique"
-      - "De l'alcool et du dioxyde de carbone"
-      - "Du vinaigre"
-    answer: 2
-    explanation: >
-      C'est la fermentation alcoolique. Dans le vin et la bière on garde l'alcool ; dans le
-      pain, c'est le gaz qui fait lever la pâte, l'alcool s'évaporant à la cuisson.
-  - question: "Pourquoi un aliment fermenté se conserve-t-il mieux ?"
-    options:
-      - "Parce qu'il est cuit"
-      - "Parce que l'acide produit empêche les bactéries dangereuses de se développer"
-      - "Parce qu'il est plus sec"
-    answer: 2
-    explanation: >
-      Les bactéries lactiques acidifient le milieu. Cette acidité est un environnement dans
-      lequel la plupart des microbes dangereux ne survivent pas.
-lastVerified: 2026-09-22
-status: published
----
-
-## En bref
-
-Toutes les autres techniques de conservation cherchent à éliminer les micro-organismes. La
-fermentation fait l'inverse : elle en choisit certains et les laisse travailler.
-
-Le résultat est spectaculaire. Sans fermentation, pas de pain, pas de fromage, pas de yaourt,
-pas de vin ni de bière, pas de chocolat, pas de café, pas de sauce soja, pas de choucroute.
-
-## La fermentation alcoolique
-
-Des levures, des champignons microscopiques, mangent le sucre et rejettent deux choses : de
-l'alcool et du dioxyde de carbone.
-
-Selon ce que l'on veut garder, on obtient des produits très différents. Dans le vin et la bière,
-on conserve l'alcool et on laisse partir le gaz. Dans le pain, c'est l'inverse : le gaz forme
-les bulles qui font lever la pâte, et l'alcool s'évapore à la cuisson.
-
-C'est la même réaction chimique dans les deux cas.
-
-## La fermentation lactique
-
-Des bactéries transforment le sucre en acide lactique. Cet acide fait deux choses à la fois :
-il donne un goût caractéristique, et il rend le milieu hostile aux microbes dangereux.
-
-C'est le principe du yaourt, du fromage, de la choucroute, des cornichons au sel et du kimchi.
-Dans le lait, l'acide fait aussi coaguler les protéines, ce qui explique la texture du yaourt.
-
-## La fermentation acétique et l'histoire de Pasteur
-
-Des bactéries transforment l'alcool en acide acétique : c'est le vinaigre, littéralement du
-vin aigre.
-
-Ce phénomène a joué un rôle historique. Au milieu du XIXe siècle, les viticulteurs perdaient des
-récoltes entières sans comprendre pourquoi leur vin tournait. Louis Pasteur démontre que des
-micro-organismes en sont responsables, et propose un chauffage doux pour les détruire. Le procédé
-porte aujourd'hui son nom.
-
-## Pourquoi la fermentation revient à la mode
-
-Au-delà du goût, deux raisons.
-
-Elle rend certains aliments plus digestes : la fermentation dégrade une partie du lactose, ce qui
-explique que les yaourts soient mieux tolérés que le lait, et elle décompose des composés qui
-bloquent l'absorption des minéraux.
-
-Et elle apporte des bactéries vivantes, dont l'effet sur le microbiote intestinal fait l'objet de
-recherches actives.
-
-## À retenir
-
-- La fermentation utilise les micro-organismes au lieu de les éliminer.
-- Alcoolique : levures, sucre vers alcool et gaz carbonique.
-- Lactique : bactéries, sucre vers acide lactique.
-- L'acidité produite conserve l'aliment et le protège des microbes dangereux.
-
-[Emplacement image : trois types de fermentation et les aliments qui en découlent, légende et
-texte alternatif à fournir ultérieurement.]
-
----
-
----
-type: article
-title: Le levain et le pain
-slug: levain-et-panification
-categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
-summary: >
-  Un levain est un écosystème vivant de farine et d'eau, entretenu parfois pendant des
-  générations. Il ne fait pas seulement lever le pain : il le transforme.
-tags: [fermentation, levain, pain, boulangerie, phytates]
-relatedArticles: [techniques-fermentation-alimentaire, fibres-alimentaires-roles-et-apports]
-sources:
-  - title: "Baking"
-    url: "https://www.britannica.com/topic/baking"
-    publisher: "Encyclopaedia Britannica"
-    date: "2025"
-  - title: "Alimentation et santé"
-    url: "https://www.inrae.fr/alimentation-sante-globale"
-    publisher: "INRAE"
-    date: "2025"
-quiz:
-  - question: "Quelle est la différence entre un levain et la levure de boulanger ?"
-    options:
-      - "Aucune, ce sont deux mots pour la même chose"
-      - "Le levain est un mélange vivant de levures sauvages et de bactéries ; la levure est une
-        seule espèce sélectionnée"
-      - "Le levain est chimique, la levure est naturelle"
-    answer: 2
-    explanation: >
-      Le levain héberge tout un écosystème, qui varie selon la farine, l'eau et le lieu. La
-      levure de boulanger est une souche unique, cultivée industriellement.
-  - question: "Pourquoi le pain au levain apporte-t-il mieux ses minéraux ?"
-    options:
-      - "Parce qu'il contient plus de farine"
-      - "Parce que l'acidité détruit une partie des phytates qui bloquent l'absorption"
-      - "Parce qu'il cuit plus longtemps"
-    answer: 2
-    explanation: >
-      Les phytates des céréales retiennent le fer, le zinc et le magnésium. L'acidité du levain
-      en dégrade une partie, ce qui libère ces minéraux.
-lastVerified: 2026-09-22
-status: published
----
-
-## En bref
-
-Un levain, c'est simplement de la farine et de l'eau qu'on laisse s'installer, puis qu'on
-entretient en le nourrissant régulièrement. En quelques jours, une population de
-micro-organismes s'y développe toute seule.
-
-Ce n'est pas une espèce unique, mais un écosystème : des levures sauvages et des bactéries
-lactiques qui cohabitent. Sa composition dépend de la farine, de l'eau, de la température et des
-mains du boulanger. Deux levains ne sont jamais identiques.
-
-## Deux fermentations en même temps
-
-Les levures produisent du gaz carbonique, qui fait lever la pâte. C'est le même travail que la
-levure de boulanger.
-
-Les bactéries lactiques, elles, produisent des acides. C'est ce que la levure industrielle ne
-fait pas, et c'est ce qui change tout.
-
-## Ce que l'acidité change
-
-Le goût, d'abord : cette légère pointe acide caractéristique du pain au levain.
-
-La conservation ensuite : un pain au levain moisit beaucoup plus tard qu'un pain à la levure.
-
-La texture aussi : l'acidité modifie le réseau de gluten, d'où une mie à grosses bulles
-irrégulières et une croûte plus épaisse.
-
-Et enfin la nutrition. Les céréales contiennent des phytates, des molécules qui retiennent le
-fer, le zinc et le magnésium et empêchent de les absorber. L'acidité du levain en détruit une
-partie. Un pain complet au levain apporte donc réellement plus de minéraux qu'un pain complet à
-la levure — l'effet est d'autant plus net que la farine est complète.
-
-## Le temps comme ingrédient
-
-Le levain travaille lentement. Une panification au levain s'étale sur de longues heures, souvent
-une nuit entière.
-
-Cette lenteur n'est pas un inconvénient : c'est pendant ce temps que des enzymes découpent
-l'amidon et les protéines en fragments plus petits, qui deviendront les arômes à la cuisson.
-
-La température oriente le résultat. Un levain conduit au chaud donne un goût plus doux, un levain
-conduit au frais une note plus vinaigrée.
-
-## À retenir
-
-- Un levain est un écosystème de levures sauvages et de bactéries lactiques.
-- Les levures font lever, les bactéries acidifient.
-- L'acidité améliore goût, conservation et absorption des minéraux.
-- La lenteur de la fermentation développe les arômes.
-
-[Emplacement image : mie de pain au levain avec son alvéolage irrégulier, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les emballages qui conservent
+centre: Emballage
+parties:
+  - nom: Sous vide
+    role: Retire l'oxygène.
+  - nom: Atmosphère modifiée
+    role: Azote et CO2.
+  - nom: Emballages actifs
+  - nom: Migration
+    role: Des substances peuvent passer dans l'aliment.
+```
 
 ---
 
@@ -4724,7 +5266,7 @@ summary: >
   Au-delà du yaourt et de la choucroute, une multitude d'aliments fermentés existent dans toutes
   les cultures. Leur point commun : des bactéries vivantes et des métabolites bénéfiques.
 tags: [fermentation, probiotiques, kéfir, kimchi, miso]
-relatedArticles: [techniques-fermentation-alimentaire, probiotiques-et-prebiotiques]
+relatedArticles: [fermentation-biotechnologie-ancienne, probiotiques-et-prebiotiques]
 sources:
   - title: "Fermented foods"
     url: "https://www.efsa.europa.eu/fr"
@@ -4753,6 +5295,20 @@ quiz:
     explanation: >
       La fermentation apporte des probiotiques, dégrade certains composés difficiles à digérer,
       et produit des métabolites bénéfiques comme les acides gras à chaîne courte.
+  - question: "Qu'est-ce qui distingue le kéfir du yaourt sur le plan microbien ?"
+    options:
+      - "Le kéfir n'utilise que des levures, le yaourt que des bactéries"
+      - "Le kéfir contient des dizaines de souches, le yaourt deux souches spécifiques"
+      - "Le kéfir est stérile alors que le yaourt contient des bactéries vivantes"
+    answer: 2
+    explanation: "Le yaourt utilise deux souches spécifiques alors que le kéfir en contient des dizaines, ce qui lui donne sa richesse microbienne et son goût légèrement pétillant."
+  - question: "Pourquoi les aliments fermentés sont-ils souvent plus digestes ?"
+    options:
+      - "La fermentation ajoute des enzymes qui remplacent les fibres"
+      - "La fermentation supprime toutes les protéines difficiles à digérer"
+      - "La fermentation dégrade le lactose, les phytates et d'autres composés gênants"
+    answer: 3
+    explanation: "La fermentation dégrade le lactose, les phytates et certains composés qui bloquent l'absorption des minéraux, ce qui améliore la digestibilité."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -4815,8 +5371,16 @@ bioactifs — qui ont leurs propres effets sur la santé.
 - Le miso et la sauce soja sont riches en umami.
 - Les aliments fermentés apportent probiotiques, meilleure digestibilité et métabolites.
 
-[Emplacement image : panel d'aliments fermentés du monde entier, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Des aliments fermentés du monde
+centre: Fermentation
+parties:
+  - nom: Kéfir
+  - nom: Kimchi
+  - nom: Miso et sauce soja
+  - nom: Tempeh
+```
 
 ---
 
@@ -4858,6 +5422,20 @@ quiz:
     explanation: >
       À apports en sucres, graisses, sel et fibres équivalents, les participants se servaient
       spontanément davantage avec les produits ultra-transformés et prenaient du poids.
+  - question: "Pourquoi les aliments du groupe 3 de NOVA ne sont-ils pas ultra-transformés ?"
+    options:
+      - "Ils sont obtenus en combinant des aliments de base par des procédés anciens"
+      - "Ils ne contiennent ni sel ni sucre"
+      - "Ils sont consommés tels quels, sans aucune transformation"
+    answer: 1
+    explanation: "Le groupe 3 combine les groupes 1 et 2 par des procédés anciens, comme le pain ou le fromage. Le groupe 4 est un assemblage industriel qu'on ne pourrait pas fabriquer dans une cuisine."
+  - question: "Pourquoi l'essai contrôlé est-il un argument plus fort qu'une simple observation ?"
+    options:
+      - "Il portait sur un très grand nombre de participants"
+      - "Les deux régimes avaient la même composition, donc la différence vient d'autre chose"
+      - "Il a prouvé quel additif précis fait grossir"
+    answer: 2
+    explanation: "Les régimes apportaient les mêmes proportions de sucres, graisses, sel et fibres, et pourtant l'un faisait manger davantage. L'effet ne vient donc pas de la composition."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -4917,8 +5495,19 @@ fibres intactes ? Plusieurs hypothèses coexistent.
 - Un essai contrôlé a mesuré 500 kilocalories de plus par jour avec ces produits.
 - Le mécanisme exact de cet effet reste à déterminer.
 
-[Emplacement image : les quatre groupes NOVA illustrés par des exemples, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Les quatre groupes NOVA
+niveaux:
+  - titre: Groupe 4
+    texte: Aliments ultra-transformés.
+  - titre: Groupe 3
+    texte: Aliments transformés.
+  - titre: Groupe 2
+    texte: Ingrédients culinaires.
+  - titre: Groupe 1
+    texte: Aliments bruts ou peu transformés.
+```
 
 ---
 
@@ -4961,6 +5550,20 @@ quiz:
       Une vaste étude française a trouvé des associations entre consommation élevée de certains
       conservateurs, notamment les nitrites de sodium, et un risque accru de cancers, en
       particulier de la prostate.
+  - question: "Pourquoi les résultats des études sur les additifs doivent-ils être lus avec prudence ?"
+    options:
+      - "Ils ne portaient que sur un petit nombre de participants"
+      - "Ils concernent uniquement les additifs d'origine naturelle"
+      - "Ils sont observationnels : ils montrent des associations, pas des causalités"
+    answer: 3
+    explanation: "L'étude française est observationnelle : elle montre des associations entre additifs et maladies, sans prouver que les additifs en sont la cause."
+  - question: "À quoi servent les émulsifiants comme les lécithines ?"
+    options:
+      - "À mélanger des substances qui ne se mélangent pas naturellement, comme l'eau et l'huile"
+      - "À empêcher les graisses de rancir"
+      - "À restaurer la couleur des aliments"
+    answer: 1
+    explanation: "Les émulsifiants, classés parmi les agents de texture, permettent de mélanger l'eau et l'huile, qui ne se mélangent pas naturellement."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -5028,8 +5631,16 @@ bruts, et de lire les étiquettes pour repérer les listes d'ingrédients interm
 - Les nitrites de la charcuterie sont particulièrement discutés.
 - Cuisiner soi-même réduit fortement l'exposition aux additifs.
 
-[Emplacement image : principales catégories d'additifs et leurs codes E, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les codes des additifs
+centre: E100 à E499
+parties:
+  - nom: Colorants
+  - nom: Conservateurs
+  - nom: Antioxydants
+  - nom: Épaississants
+```
 
 ---
 
@@ -5072,6 +5683,20 @@ quiz:
       Les essais contrôlés ne montrent pas de perte de poids significative avec les édulcorants.
       Certaines études suggèrent même des effets délétères sur la régulation de l'appétit et le
       microbiote.
+  - question: "Comment les édulcorants pourraient-ils dérégler l'appétit ?"
+    options:
+      - "En apportant plus de calories que le sucre"
+      - "En perturbant l'apprentissage entre le goût sucré et les calories"
+      - "En supprimant totalement la sensation de faim"
+    answer: 2
+    explanation: "Les édulcorants pourraient perturber l'apprentissage associatif entre goût sucré et calories, ce qui déréglerait l'appétit, et modifier le microbiote."
+  - question: "Que conseille l'article pour réduire sa consommation de sucre ?"
+    options:
+      - "Remplacer le sucre par des édulcorants naturels comme la stévia"
+      - "Supprimer d'un coup tous les aliments sucrés"
+      - "Rééduquer son palais progressivement plutôt que recourir à des substituts"
+    answer: 3
+    explanation: "Les substituts entretiennent le goût pour le sucré. Il vaut mieux rééduquer progressivement son palais."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -5144,8 +5769,16 @@ recourir à des substituts qui entretiennent le goût pour le sucré.
 - Les mécanismes suspectés : perturbation de l'appétit, du microbiote, de l'insuline.
 - Réduire le sucre vaut mieux que le remplacer par des édulcorants.
 
-[Emplacement image : pouvoir sucrant et usages des principaux édulcorants, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Les édulcorants
+type: systeme
+centre: Édulcorants
+parties:
+  - nom: Poids
+    role: L’intérêt durable pour contrôler le poids reste limité et discuté.
+  - nom: Aspartame
+    role: Classement de danger « peut-être cancérigène », distinct du risque lié à une dose donnée.
+```
 
 ---
 
@@ -5158,7 +5791,7 @@ summary: >
   L'huile la plus utilisée au monde. Riche en graisses saturées, elle est aussi liée à la
   déforestation. Un cas d'école des tensions entre santé, économie et environnement.
 tags: [nutrition, huile-de-palme, graisses-saturees, deforestation, environnement]
-relatedArticles: [graisses-trans, deforestation-et-huile-de-palme]
+relatedArticles: [graisses-trans]
 sources:
   - title: "Tropical oils consumption and health"
     url: "https://www.e-cancer.fr"
@@ -5168,6 +5801,14 @@ sources:
     url: "https://www.assemblee-nationale.fr"
     publisher: "Assemblée nationale"
     date: "2025"
+  - title: "The environmental impacts of palm oil"
+    url: "https://www.fao.org"
+    publisher: "FAO"
+    date: "2026"
+  - title: "Declines in deforestation aren't driven by corporate pledges"
+    url: "https://www.eurekalert.org"
+    publisher: "EurekAlert"
+    date: "2026"
 quiz:
   - question: "Quelle est la teneur en acides gras saturés de l'huile de palme ?"
     options:
@@ -5187,6 +5828,20 @@ quiz:
     explanation: >
       L'expansion des palmeraies est responsable d'une part importante de la déforestation en
       Asie du Sud-Est, notamment en Indonésie et en Malaisie.
+  - question: "Pourquoi l'huile de palme est-elle si présente dans les produits industriels ?"
+    options:
+      - "Parce qu'elle est stable à la chaleur, semi-solide sans hydrogénation et très productive"
+      - "Parce qu'elle est pauvre en graisses saturées"
+      - "Parce qu'elle est le seul corps gras autorisé en Europe"
+    answer: 1
+    explanation: "Sa stabilité à haute température, sa texture semi-solide sans hydrogénation (donc sans graisses trans) et son rendement élevé expliquent son omniprésence."
+  - question: "Selon l'article, où se situe le vrai problème de l'huile de palme ?"
+    options:
+      - "Dans sa consommation modérée, qui serait toxique"
+      - "Dans son omniprésence dans les ultra-transformés et ses conditions de production"
+      - "Dans son impossibilité d'être remplacée par une autre huile"
+    answer: 2
+    explanation: "L'huile de palme n'est pas un poison : le problème tient à sa présence partout dans les ultra-transformés et à la déforestation liée à sa production."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -5257,8 +5912,18 @@ tournesol réduit la demande. Et soutenir les filières durables, malgré leurs 
 - Son expansion est liée à la déforestation en Asie du Sud-Est.
 - Réduire les ultra-transformés réduit mécaniquement sa consommation.
 
-[Emplacement image : produits contenant de l'huile de palme et alternatives, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'huile de palme
+centre: Huile de palme
+parties:
+  - nom: Santé
+    role: Environ 50 % d'acides gras saturés.
+  - nom: Ultra-transformés
+    role: Elle y est omniprésente.
+  - nom: Environnement
+    role: Son expansion menace les forêts.
+```
 
 ---
 
@@ -5302,6 +5967,20 @@ quiz:
       L'hydrogénation partielle transforme les huiles liquides en graisses solides. Ce procédé
       industriel crée des acides gras trans, utilisés pour la margarine, les viennoiseries et
       de nombreux produits transformés.
+  - question: "Quelle différence y a-t-il entre graisses trans naturelles et industrielles ?"
+    options:
+      - "Les naturelles viennent des huiles végétales, les industrielles de la viande"
+      - "Il n'y en a aucune, seul le nom change"
+      - "Les naturelles viennent de bactéries de l'estomac des ruminants, les industrielles de l'hydrogénation partielle"
+    answer: 3
+    explanation: "Les trans naturels sont produits par les bactéries de l'estomac des ruminants en petites quantités, les industriels par hydrogénation partielle des huiles. Seuls ces derniers posent problème."
+  - question: "En quoi l'effet des graisses trans sur le cholestérol diffère-t-il de celui des graisses saturées ?"
+    options:
+      - "Elles augmentent le LDL et baissent aussi le HDL"
+      - "Elles augmentent le HDL et baissent le LDL"
+      - "Elles n'ont aucun effet sur le LDL"
+    answer: 1
+    explanation: "Les trans augmentent le LDL et diminuent le HDL, alors que les saturées augmentent le LDL sans faire baisser le HDL."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -5360,8 +6039,15 @@ permettent d'obtenir les mêmes propriétés technologiques sans graisses trans.
 - L'hydrogénation partielle est leur principale source.
 - Des alternatives existent, et de nombreux pays les ont interdites.
 
-[Emplacement image : sources de graisses trans et aliments à éviter, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les graisses trans industrielles
+chiffres:
+  - valeur: LDL ↑ HDL ↓
+    texte: elles augmentent le mauvais cholestérol et baissent le bon
+  - valeur: "+34 %"
+    texte: de risque de décès associé
+```
 
 ---
 
@@ -5405,6 +6091,20 @@ quiz:
       Le sucre rehausse les saveurs, masque l'acidité et l'amertume, retient l'eau et prolonge
       la conservation. Il est utilisé dans les aliments salés pour des raisons technologiques,
       pas gustatives.
+  - question: "Que signifie l'allégation « sans sucres ajoutés » ?"
+    options:
+      - "Le produit ne contient aucun sucre"
+      - "Le produit peut contenir des sucres naturellement présents, comme ceux des jus de fruits"
+      - "Le produit contient peu de calories"
+    answer: 2
+    explanation: "« Sans sucres ajoutés » ne veut pas dire « sans sucre » : le produit peut contenir des sucres naturels (jus de fruits, lactose, malt) qui ont le même effet."
+  - question: "Pourquoi réduire le sucre caché demande-t-il un peu de temps ?"
+    options:
+      - "Parce que le sucre est impossible à repérer sur les étiquettes"
+      - "Parce que les aliments salés ne contiennent jamais de sucre"
+      - "Parce que le goût pour le sucré s'entretient, et le palais doit être rééduqué progressivement"
+    answer: 3
+    explanation: "Plus on mange de sucre, plus le seuil de perception augmente. Réduire demande une rééducation progressive du palais, qui porte ses fruits en quelques semaines."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -5468,8 +6168,17 @@ en quelques semaines.
 - « Sans sucres ajoutés » ne signifie pas « sans sucre ».
 - Lire les étiquettes est le seul moyen de le repérer.
 
-[Emplacement image : exemples de produits salés contenant du sucre ajouté et alternatives,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le sucre caché
+centre: Sucre ajouté
+parties:
+  - nom: Aliments salés
+    role: Ajouté pour des raisons technologiques.
+  - nom: Dizaines de noms
+    role: Sirop, dextrose, maltose.
+  - nom: Allégations trompeuses
+```
 
 ---
 
@@ -5511,6 +6220,20 @@ quiz:
     explanation: >
       Le pain contient environ 1 à 2 grammes de sel par 100 grammes. Mais comme on en mange
       tous les jours, il représente une part majeure des apports, jusqu'à 20 % en France.
+  - question: "Comment un excès de sel fait-il monter la tension artérielle ?"
+    options:
+      - "Il retient l'eau dans le corps, ce qui augmente le volume sanguin"
+      - "Il rétrécit directement les vaisseaux sanguins"
+      - "Il accélère le rythme cardiaque"
+    answer: 1
+    explanation: "Le sel retient l'eau, ce qui augmente le volume sanguin et donc la pression artérielle."
+  - question: "Pourquoi le pain est-il la source majeure de sel dans de nombreux pays ?"
+    options:
+      - "Parce qu'il est le plus salé de tous les aliments"
+      - "Parce qu'on en mange tous les jours, pas parce qu'il serait très salé"
+      - "Parce qu'on y ajoute du sel à table"
+    answer: 2
+    explanation: "Le pain contient 1 à 2 g de sel pour 100 g, mais sa consommation quotidienne en fait un contributeur majeur."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -5572,8 +6295,15 @@ Et attention aux eaux minérales gazeuses riches en sodium.
 - L'excès de sel augmente la tension artérielle et le risque cardiovasculaire.
 - Lire les étiquettes et cuisiner soi-même sont les meilleurs leviers.
 
-[Emplacement image : teneur en sel de quelques aliments courants, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le sel caché
+chiffres:
+  - valeur: 80 %
+    texte: du sel consommé vient des aliments transformés
+  - valeur: Le pain
+    texte: première source dans de nombreux pays
+```
 
 ---
 
@@ -5616,6 +6346,20 @@ quiz:
       La vitamine D est souvent insuffisante en hiver dans les régions peu ensoleillées. La
       vitamine B12 est indispensable dans les régimes végétaliens. Ce sont les deux cas les
       mieux établis.
+  - question: "Pourquoi les compléments alimentaires sont-ils moins sûrs qu'un médicament ?"
+    options:
+      - "Ils sont tous fabriqués à partir de substances interdites"
+      - "Ils sont vendus uniquement sur internet"
+      - "Ils n'ont pas à prouver leur efficacité avant la mise sur le marché"
+    answer: 3
+    explanation: "La réglementation est plus souple : les fabricants doivent notifier la mise sur le marché mais n'ont pas à prouver l'efficacité."
+  - question: "Pourquoi la vitamine B12 est-elle citée comme non négociable pour les végétaliens ?"
+    options:
+      - "Parce qu'elle est indispensable, et la supplémentation est justifiée dans ce cas"
+      - "Parce qu'elle n'existe pas dans les aliments végétaux"
+      - "Parce que les végétaux en contiennent trop"
+    answer: 1
+    explanation: "La B12 est indispensable et la supplémentation est justifiée pour les végétaliens, comme exception à la règle de ne pas prendre de compléments sans raison."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -5690,8 +6434,23 @@ naturels.
 - Certains extraits de plantes sont dangereux pour le foie.
 - Ne pas prendre de compléments sans raison médicale.
 
-[Emplacement image : compléments utiles et compléments à risque, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+titre: Les compléments alimentaires
+legende: >-
+  Utilité selon la situation et les apports, pas une supplémentation systématique pour tout le
+  monde.
+type: comparaison
+colonnes:
+  - titre: Indications particulières
+    points:
+      - Vitamine D
+      - Vitamine B12
+      - Acide folique avant et pendant la grossesse
+  - titre: Le problème
+    points:
+      - Un marché peu encadré
+      - L'efficacité n'est pas exigée
+```
 
 ---
 
@@ -5734,6 +6493,20 @@ quiz:
     explanation: >
       L'EFSA a approuvé plusieurs insectes comme nouveaux aliments, dont le ver de farine
       (Tenebrio molitor), le grillon domestique (Acheta domesticus) et le criquet migrateur.
+  - question: "Quels sont les atouts environnementaux des insectes selon l'article ?"
+    options:
+      - "Ils exigent beaucoup d'eau mais peu de nourriture"
+      - "Ils convertissent leur nourriture en protéines plus efficacement, avec peu de terres, d'eau et de méthane"
+      - "Ils se nourrissent uniquement de soja importé"
+    answer: 2
+    explanation: "Les insectes convertissent 12 à 25 fois mieux, demandent beaucoup moins de terres et d'eau, émettent peu de méthane et peuvent être élevés sur des déchets organiques."
+  - question: "Qu'est-ce qui réduit l'obstacle culturel à manger des insectes ?"
+    options:
+      - "Les consommer entiers et crus"
+      - "Les réserver aux pays occidentaux"
+      - "La répétition et leur incorporation dans des produits familiers comme les farines ou les barres"
+    answer: 3
+    explanation: "Les études montrent que la répétition et l'incorporation dans des produits familiers réduisent le dégoût."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -5798,8 +6571,15 @@ soja importé.
 - L'EFSA a autorisé plusieurs espèces en Europe.
 - L'obstacle culturel reste majeur, mais les farines et produits transformés le réduisent.
 
-[Emplacement image : insectes comestibles autorisés en Europe et leur teneur en protéines,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Les insectes comestibles
+type: chiffres
+chiffres:
+  - valeur: 2 milliards
+    texte: de personnes en mangent déjà
+  - valeur: Variable
+    texte: L’efficience dépend de l’espèce et des conditions d’élevage.
+```
 
 ---
 
@@ -5842,6 +6622,20 @@ quiz:
       Le coût de production reste un obstacle majeur. Le premier burger cultivé, présenté en
       2013, avait coûté 330 000 dollars. Les coûts ont baissé, mais restent supérieurs à la
       viande conventionnelle.
+  - question: "Pourquoi la viande cultivée n'est-elle pas forcément meilleure pour le climat ?"
+    options:
+      - "Parce que ses bioréacteurs consomment beaucoup d'énergie, parfois plus que le bœuf dans certains scénarios"
+      - "Parce qu'elle nécessite plus de terres que l'élevage"
+      - "Parce qu'elle utilise des animaux abattus"
+    answer: 1
+    explanation: "Les bioréacteurs doivent être maintenus à température constante et stérilisés. Dans certains scénarios, l'énergie consommée dépasse celle du bœuf."
+  - question: "Quel est le principe de production de la viande cultivée ?"
+    options:
+      - "Transformer des protéines végétales pour imiter la viande"
+      - "Multiplier dans un bioréacteur des cellules prélevées sur un animal"
+      - "Élever des animaux sans les abattre"
+    answer: 2
+    explanation: "On prélève quelques cellules sur un animal, on les multiplie en bioréacteur et on les transforme en tissu musculaire."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -5900,8 +6694,19 @@ et économiques ont conduit certaines à réduire leurs ambitions.
 - Le coût et la consommation d'énergie restent des obstacles majeurs.
 - L'acceptation par les consommateurs est incertaine.
 
-[Emplacement image : schéma du processus de production de viande cultivée, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: La viande cultivée
+colonnes:
+  - titre: Promesses
+    points:
+      - Produite à partir de cellules, sans élevage
+      - Moins de terres utilisées
+  - titre: Défis
+    points:
+      - Coût
+      - Production à grande échelle
+```
 
 ---
 
@@ -5943,6 +6748,20 @@ quiz:
     explanation: >
       Les algues cultivées en mer ne nécessitent ni engrais, ni pesticides, ni eau douce. Elles
       absorbent les nutriments et le CO2 de l'eau, contribuant à purifier le milieu marin.
+  - question: "Comment les algues cultivées en mer peuvent-elles aider les zones côtières ?"
+    options:
+      - "En apportant des engrais à l'eau"
+      - "En réchauffant l'eau pour accélérer leur croissance"
+      - "En absorbant l'azote et le phosphore en excès, contre l'eutrophisation"
+    answer: 3
+    explanation: "Elles absorbent le CO2 et les nutriments en excès (azote, phosphore), ce qui purifie l'eau et lutte contre l'eutrophisation."
+  - question: "Pourquoi faut-il être prudent avec certaines algues comme le kombu ?"
+    options:
+      - "Leur forte teneur en iode peut perturber la thyroïde en cas d'excès"
+      - "Elles contiennent trop de protéines"
+      - "Elles sont toujours contaminées par des pesticides"
+    answer: 1
+    explanation: "Certaines algues contiennent de très grandes quantités d'iode, qui peuvent perturber la thyroïde si elles sont consommées en excès."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -6008,8 +6827,18 @@ marché.
 - Leur culture ne nécessite ni engrais, ni eau douce, ni terres agricoles.
 - Attention à la teneur en iode de certaines espèces.
 
-[Emplacement image : principales algues comestibles et leur teneur en protéines, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+titre: Les atouts des algues
+type: systeme
+centre: Algues
+icone: wave
+parties:
+  - nom: Protéines
+    role: La spiruline séchée peut en contenir plus de 60 % de sa masse.
+  - nom: Minéraux et oméga-3
+  - nom: Culture sobre
+    role: Sans terre agricole.
+```
 
 ---
 
@@ -6052,6 +6881,20 @@ quiz:
     explanation: >
       Les légumineuses contiennent 20 à 40 % de protéines par poids sec, soit deux à trois fois
       plus que les céréales. C'est la principale source de protéines végétales.
+  - question: "Comment les légumineuses se passent-elles d'engrais azotés ?"
+    options:
+      - "Elles absorbent l'azote des insectes"
+      - "Elles fixent l'azote de l'air grâce à une symbiose avec des bactéries de leurs racines"
+      - "Elles puisent l'azote dans l'eau de pluie uniquement"
+    answer: 2
+    explanation: "Une symbiose avec des bactéries vivant dans leurs racines leur permet de fixer l'azote de l'air, ce qui enrichit aussi le sol pour les cultures suivantes."
+  - question: "Pourquoi associer céréales et légumineuses est-il intéressant ?"
+    options:
+      - "Parce que les céréales annulent l'index glycémique des légumineuses"
+      - "Parce que cela évite le trempage"
+      - "Parce que leur association fournit tous les acides aminés essentiels"
+    answer: 3
+    explanation: "L'association céréales-légumineuses fournit tous les acides aminés essentiels, d'où riz et haricots ou semoule et pois chiches."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -6116,8 +6959,19 @@ une alternative rapide aux pâtes de blé.
 - Leur empreinte carbone est très faible.
 - Elles sont bon marché et faciles à intégrer.
 
-[Emplacement image : principales légumineuses et leur teneur en protéines, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Les atouts des légumineuses
+type: systeme
+centre: Légumineuses
+icone: leaf
+parties:
+  - nom: Protéines
+    role: Environ 20 à 40 % dans les graines sèches, selon l’espèce.
+  - nom: Azote
+    role: Elles enrichissent les sols.
+  - nom: Climat
+    role: Une empreinte carbone très faible.
+```
 
 ---
 
@@ -6159,6 +7013,20 @@ quiz:
     explanation: >
       Les minéraux ne sont pas détruits par la chaleur, mais ils peuvent migrer dans l'eau de
       cuisson. Le potassium et le magnésium sont les plus concernés.
+  - question: "Pourquoi vaut-il mieux réutiliser l'eau de cuisson des légumes ?"
+    options:
+      - "Elle contient les minéraux et vitamines qui y ont migré"
+      - "Elle est stérile et donc plus sûre"
+      - "Elle remplace le sel dans les recettes"
+    answer: 1
+    explanation: "Les minéraux et vitamines hydrosolubles passent dans l'eau de cuisson : la réutiliser permet de ne pas les jeter."
+  - question: "Pourquoi ne faut-il pas couper les légumes trop finement avant la cuisson ?"
+    options:
+      - "Ils cuiraient trop lentement"
+      - "Plus la surface d'échange est grande, plus les nutriments migrent"
+      - "Ils perdraient leur peau protectrice"
+    answer: 2
+    explanation: "Une grande surface d'échange favorise la migration des nutriments vers l'eau."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -6233,8 +7101,21 @@ Et ne pas préparer les légumes à l'avance : les vitamines s'oxydent au contac
 - La vapeur et le micro-ondes sont les méthodes les plus respectueuses.
 - Cuire court, avec peu d'eau, et réutiliser l'eau de cuisson.
 
-[Emplacement image : pertes en vitamine C selon les méthodes de cuisson, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Ce que la cuisson fait aux nutriments
+type: comparaison
+colonnes:
+  - titre: Sensibles à la chaleur
+    points:
+      - Vitamine C
+      - Folates
+  - titre: Lessivés
+    points:
+      - Les minéraux passent dans l'eau de cuisson
+  - titre: Méthodes douces
+    points:
+      - Vapeur
+```
 
 ---
 
@@ -6277,6 +7158,20 @@ quiz:
     explanation: >
       Les ruminants fabriquent du méthane en digérant l'herbe, un gaz à fort effet de serre. Il
       faut en plus plusieurs kilos de végétaux pour produire un kilo de viande.
+  - question: "Pourquoi la viande de bœuf émet-elle autant par kilo comparée aux lentilles ?"
+    options:
+      - "Le transport du bœuf est beaucoup plus long"
+      - "Le bœuf est toujours emballé sous plastique"
+      - "Les trois facteurs s'additionnent : méthane, surfaces pour nourrir les animaux, faible rendement de conversion"
+    answer: 3
+    explanation: "Le méthane de la digestion, les surfaces nécessaires pour la nourriture des animaux et le rendement de conversion s'additionnent."
+  - question: "Pourquoi manger local n'est-il pas le principal levier climatique ?"
+    options:
+      - "Parce que le transport ne représente qu'une petite part du total, sauf pour l'avion"
+      - "Parce que le local est toujours plus cher"
+      - "Parce que l'emballage pèse plus que la production"
+    answer: 1
+    explanation: "Le transport est une petite part des émissions, sauf pour les denrées acheminées par avion. Manger local est utile pour d'autres raisons."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -6335,8 +7230,18 @@ La saisonnalité compte, en revanche, lorsqu'elle évite de chauffer une serre.
 - Le bœuf émet environ cent fois plus que les lentilles au kilo.
 - Transport et emballage pèsent bien moins que la production elle-même.
 
-[Emplacement image : émissions comparées de grandes catégories d'aliments, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'assiette et le climat
+legende: L'alimentation pèse un quart à un tiers des émissions mondiales.
+centre: Émissions de l'alimentation
+parties:
+  - nom: CO2
+  - nom: Méthane
+    role: Surtout l'élevage de ruminants.
+  - nom: Protoxyde d'azote
+    role: Surtout les engrais.
+```
 
 ---
 
@@ -6378,6 +7283,20 @@ quiz:
     explanation: >
       Un kilo de bœuf nécessite environ 15 000 litres d'eau, contre 1 500 pour un kilo de blé
       et 1 250 pour un kilo de lentilles. L'élevage est très gourmand en eau.
+  - question: "Pourquoi les produits animaux sont-ils si coûteux en eau ?"
+    options:
+      - "Parce que les animaux boivent uniquement de l'eau pure"
+      - "Parce qu'il faut de l'eau pour produire la nourriture des animaux"
+      - "Parce que leur transport demande beaucoup d'eau"
+    answer: 2
+    explanation: "Les produits animaux sont coûteux en eau parce qu'il faut de l'eau pour produire leur alimentation."
+  - question: "Pourquoi importer des produits gourmands en eau peut-il être une stratégie pour un pays pauvre en eau ?"
+    options:
+      - "Parce que ces produits n'ont besoin d'aucune eau"
+      - "Parce que l'eau virtuelle se stocke dans les nappes"
+      - "Parce que le pays importe aussi l'eau qui a servi à les produire"
+    answer: 3
+    explanation: "En important blé ou viande, un pays importe l'eau utilisée pour les produire, au lieu de consommer la sienne."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -6442,8 +7361,19 @@ Changer de régime alimentaire peut réduire l'empreinte hydrique de 20 à 30 %.
 - L'eau virtuelle circule entre les pays via le commerce.
 - Le contenu de l'assiette pèse plus que les gestes domestiques.
 
-[Emplacement image : empreinte eau de quelques aliments courants, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+titre: L'eau virtuelle d'un kilo d'aliment
+legende: >-
+  Ordres de grandeur moyens incluant l’eau de pluie ; ce n’est pas uniquement de l’eau d’irrigation
+  prélevée.
+type: barres
+unite: L
+valeurs:
+  - label: Bœuf
+    valeur: 15000
+  - label: Blé
+    valeur: 1500
+```
 
 ---
 
@@ -6487,6 +7417,20 @@ quiz:
       Les rendements de l'agriculture biologique sont en moyenne inférieurs de 25 % à ceux de
       l'agriculture conventionnelle. Cela signifie qu'il faut plus de terres pour produire la
       même quantité.
+  - question: "Pourquoi un monde entièrement bio aurait-il un coût environnemental ?"
+    options:
+      - "Parce que les rendements plus faibles exigeraient de convertir forêts ou prairies en terres cultivées"
+      - "Parce que le bio pollue davantage que le conventionnel"
+      - "Parce que le bio interdit toute rotation des cultures"
+    answer: 1
+    explanation: "Des rendements inférieurs de 25 % obligent à cultiver plus de terres pour la même quantité, donc à convertir des milieux naturels."
+  - question: "Pour quels fruits et légumes le bio est-il le plus utile si l'on veut limiter les pesticides ?"
+    options:
+      - "Ceux à peau épaisse, comme bananes et avocats"
+      - "Ceux qu'on mange avec la peau, comme pommes et fraises"
+      - "Les légumes secs uniquement"
+    answer: 2
+    explanation: "Pour les fruits et légumes consommés avec la peau, le bio réduit l'exposition aux pesticides ; pour les peaux épaisses, le bénéfice est moindre."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -6547,8 +7491,19 @@ animaux, bio ou non.
 - Les différences nutritionnelles sont modestes.
 - Le bio est utile pour certains fruits et légumes, mais ce n'est pas le principal levier.
 
-[Emplacement image : comparaison des impacts de l'agriculture biologique et conventionnelle,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: L'agriculture biologique
+legende: Les résultats dépendent des cultures, des régions et des pratiques.
+type: comparaison
+colonnes:
+  - titre: Avantages
+    points:
+      - Restrictions importantes sur les produits de synthèse.
+      - Biodiversité mieux préservée
+  - titre: Limites
+    points:
+      - Rendements souvent plus faibles, avec un écart variable.
+```
 
 ---
 
@@ -6590,6 +7545,20 @@ quiz:
     explanation: >
       L'impact climatique est faible. L'intérêt des circuits courts est surtout économique et
       social : rémunération des producteurs, maintien des exploitations, lien social.
+  - question: "Pourquoi un kilo de bœuf local reste-t-il plus polluant qu'un kilo de lentilles importées ?"
+    options:
+      - "Parce que le bœuf local est transporté par avion"
+      - "Parce que les lentilles sont produites plus près"
+      - "Parce que la production pèse 80 à 90 % des émissions, le transport moins de 5 %"
+    answer: 3
+    explanation: "La production agricole domine largement les émissions, et le transport reste secondaire : le contenu de l'assiette compte plus que l'origine."
+  - question: "Pourquoi l'avion est-il une exception au mythe du kilomètre alimentaire ?"
+    options:
+      - "Il émet environ 50 fois plus que le transport maritime"
+      - "Il n'émet presque rien"
+      - "Il transporte uniquement des produits transformés"
+    answer: 1
+    explanation: "Le transport aérien émet environ 50 fois plus que le maritime, d'où une empreinte transport significative pour certains produits frais hors saison."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -6661,8 +7630,18 @@ sociaux.
 - Les circuits courts ont surtout des avantages économiques et sociaux.
 - Réduire la viande est plus efficace que manger local.
 
-[Emplacement image : part du transport dans l'empreinte carbone alimentaire, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux postes d’émissions à distinguer
+legende: La distance seule ne décrit pas toute l’empreinte d’un aliment.
+colonnes:
+  - titre: Production
+    points:
+      - Mode de culture ou d’élevage, intrants et énergie.
+  - titre: Transport
+    points:
+      - Distance, moyen de transport et organisation des trajets.
+```
 
 ---
 
@@ -6705,6 +7684,20 @@ quiz:
     explanation: >
       Les fruits de saison sont cueillis à maturité, après avoir développé tous leurs arômes.
       Les fruits hors saison sont souvent cueillis verts pour supporter le transport.
+  - question: "Quels fruits et légumes peuvent être mangés hors saison sans problème ?"
+    options:
+      - "Tous ceux qui sont importés"
+      - "Ceux qui se conservent naturellement longtemps, comme pommes de terre ou carottes"
+      - "Uniquement les fruits rouges"
+    answer: 2
+    explanation: "Pommes, carottes, betteraves, courges, oignons et pommes de terre se conservent naturellement longtemps."
+  - question: "Quel est le principe simple pour savoir ce qui est de saison ?"
+    options:
+      - "Ce qui est vendu au meilleur prix"
+      - "Ce qui vient de la région la plus proche"
+      - "Ce qui pousse dehors au moment où on le mange"
+    answer: 3
+    explanation: "Le principe est simple : ce qui pousse dehors, au moment où on le mange."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -6769,8 +7762,18 @@ plus acheter de fraises en décembre. Et découvrir de nouveaux légumes.
 - Certains se conservent naturellement et peuvent être mangés toute l'année.
 - Se concentrer sur quelques produits clés, comme la tomate en hiver.
 
-[Emplacement image : calendrier des fruits et légumes de saison, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+titre: De saison ou hors saison
+type: comparaison
+colonnes:
+  - titre: De saison
+    points:
+      - Peut limiter le besoin de serre chauffée.
+      - Récolte à maturité plus facile selon le circuit.
+  - titre: Hors saison
+    points:
+      - Peut impliquer une serre chauffée ou une importation.
+```
 
 ---
 
@@ -6814,6 +7817,20 @@ quiz:
       Sans chaîne du froid ni routes praticables, une grande partie de la récolte se perd avant
       d'atteindre le marché. Dans les pays riches, c'est l'inverse : on jette surtout à la
       maison.
+  - question: "Pourquoi les pertes dominent-elles dans les pays à faible revenu ?"
+    options:
+      - "Parce que, sans chaîne du froid, silos ou routes, une part de la récolte n'arrive jamais au marché"
+      - "Parce que les ménages y jettent davantage"
+      - "Parce que les dates limites y sont plus courtes"
+    answer: 1
+    explanation: "Sans chaîne du froid, silos étanches et routes praticables, une bonne partie de la récolte est perdue avant la vente."
+  - question: "Pourquoi réduire le gaspillage est-il un levier particulièrement intéressant pour le climat ?"
+    options:
+      - "Il demande de renoncer à manger de la viande"
+      - "Il évite les émissions de production et de décomposition, sans demander de renoncer à rien"
+      - "Il supprime le besoin de produire de la nourriture"
+    answer: 2
+    explanation: "Un aliment jeté a déjà émis pour sa production et émet encore en se décomposant. Le réduire ne demande de renoncer à rien."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -6874,115 +7891,20 @@ renoncer à rien.
 - La confusion entre les deux types de dates fait jeter des produits sains.
 - Pertes et gaspillage représentent 8 à 10 % des émissions mondiales.
 
-[Emplacement image : répartition des pertes alimentaires selon l'étape de la chaîne, légende et
-texte alternatif à fournir ultérieurement.]
-
----
-
----
-type: article
-title: La déforestation et l'huile de palme
-slug: deforestation-et-huile-de-palme
-categoryPath: alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire
-summary: >
-  L'expansion des palmeraies a détruit des millions d'hectares de forêt tropicale. Les labels
-  peinent à enrayer le phénomène.
-tags: [environnement, deforestation, huile-de-palme, biodiversite, labels]
-relatedArticles: [huile-de-palme, empreinte-carbone-de-lalimentation]
-sources:
-  - title: "The environmental impacts of palm oil"
-    url: "https://www.fao.org"
-    publisher: "FAO"
-    date: "2026"
-  - title: "Declines in deforestation aren't driven by corporate pledges"
-    url: "https://www.eurekalert.org"
-    publisher: "EurekAlert"
-    date: "2026"
-quiz:
-  - question: "Quelle part de la déforestation l'huile de palme représente-t-elle en Malaisie et en Indonésie ?"
-    options:
-      - "Moins de 5 %"
-      - "Jusqu'à 50 % dans certaines régions"
-      - "90 %"
-    answer: 2
-    explanation: >
-      La contribution de l'huile de palme à la déforestation varie fortement selon les régions.
-      Elle peut atteindre 50 % à Bornéo, mais n'est que de 3 % en Afrique de l'Ouest.
-  - question: "Les labels de durabilité ont-ils enrayé la déforestation ?"
-    options:
-      - "Oui, complètement"
-      - "Non, des études montrent que la déforestation continue dans les chaînes certifiées"
-      - "Ils n'existent pas"
-    answer: 2
-    explanation: >
-      La Table ronde pour une huile de palme durable (RSPO) a établi des critères, mais des
-      études récentes montrent que la déforestation persiste dans certaines chaînes
-      d'approvisionnement certifiées, faute de traçabilité complète.
-lastVerified: 2026-09-22
-status: published
----
-
-## En bref
-
-L'huile de palme est produite à partir des fruits du palmier à huile, cultivé principalement en
-Indonésie et en Malaisie.
-
-Son expansion a été spectaculaire : la production mondiale a quadruplé en vingt ans. Et cette
-expansion s'est faite en grande partie au détriment des forêts tropicales.
-
-## L'ampleur du phénomène
-
-Les forêts de Sumatra et de Bornéo ont été détruites à plus de 90 % au cours des XIXe et XXe
-siècles. La déforestation massive continue pour laisser place à des palmeraies.
-
-La contribution de l'huile de palme à la déforestation régionale varie fortement : elle est
-estimée à environ 3 % en Afrique de l'Ouest, mais peut atteindre 50 % à Bornéo.
-
-L'huile de palme est aussi impliquée dans le drainage et le brûlage des tourbières en Asie du
-Sud-Est, qui libèrent d'énormes quantités de CO2.
-
-## Les conséquences
-
-La déforestation détruit des écosystèmes abritant une biodiversité exceptionnelle. Des espèces
-comme l'orang-outan, le tigre de Sumatra ou l'éléphant de Bornéo sont menacées.
-
-Elle contribue au changement climatique, à la fois par la libération du carbone stocké dans les
-arbres et les sols, et par la réduction de la capacité des forêts à absorber le CO2.
-
-Elle affecte aussi les populations locales, qui perdent leurs moyens de subsistance et leurs
-terres.
-
-## Les labels
-
-La Table ronde pour une huile de palme durable (RSPO) a été créée en 2004 pour promouvoir des
-pratiques durables. Elle certifie des producteurs qui s'engagent à ne pas déforester, à
-respecter les droits des communautés locales, et à protéger les zones à haute valeur de
-conservation.
-
-Mais son efficacité est discutée. Des études récentes montrent que la déforestation continue
-dans certaines chaînes d'approvisionnement certifiées. Le problème est la traçabilité : l'huile
-de palme est mélangée tout au long de la chaîne, et il est difficile de savoir d'où elle vient
-exactement.
-
-## Que faire
-
-La solution la plus efficace est de réduire la consommation de produits ultra-transformés, qui
-sont la principale source d'huile de palme dans l'alimentation.
-
-Pour ceux qui veulent agir, privilégier les produits avec d'autres huiles — olive, colza,
-tournesol — réduit la demande.
-
-Et soutenir les initiatives de traçabilité, malgré leurs limites actuelles.
-
-## À retenir
-
-- L'expansion des palmeraies est une cause majeure de déforestation en Asie du Sud-Est.
-- Elle menace des espèces emblématiques et libère du CO2.
-- Les labels de durabilité peinent à enrayer le phénomène.
-- Réduire les ultra-transformés réduit la demande d'huile de palme.
-
-[Emplacement image : évolution de la déforestation en Indonésie et Malaisie, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Perte ou gaspillage
+legende: Environ un tiers de la nourriture produite n'est jamais consommée.
+colonnes:
+  - titre: Pertes
+    points:
+      - En amont, pendant la production et le stockage
+      - Surtout dans les pays pauvres
+  - titre: Gaspillage
+    points:
+      - En aval, dans les magasins et les foyers
+      - Surtout dans les pays riches
+```
 
 ---
 
@@ -7025,6 +7947,20 @@ quiz:
     explanation: >
       Le label MSC certifie que la pêcherie est gérée de manière durable : stocks évalués,
       impact sur l'écosystème minimisé, et système de gestion en place.
+  - question: "Pourquoi les labels ne suffisent-ils pas à garantir une pêche durable ?"
+    options:
+      - "Ils n'existent que pour l'aquaculture"
+      - "Ils sont interdits en France"
+      - "Ils ne couvrent qu'une fraction des captures et la certification coûteuse exclut les petites pêcheries"
+    answer: 3
+    explanation: "Le MSC certifie environ 15 % des captures, et la certification est coûteuse, ce qui exclut les petites pêcheries."
+  - question: "Pourquoi conseille-t-on de varier les espèces consommées ?"
+    options:
+      - "Pour éviter de créer une pression sur quelques stocks"
+      - "Pour multiplier les labels"
+      - "Pour réduire le prix du poisson"
+    answer: 1
+    explanation: "Consommer toujours les mêmes espèces crée une pression sur quelques stocks."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -7092,8 +8028,18 @@ Et varier les espèces : la monoculture de consommation crée une pression sur q
 - Les labels ne couvrent qu'une fraction de la production.
 - Privilégier sardine, maquereau et hareng, riches en oméga-3 et durables.
 
-[Emplacement image : labels de pêche durable et espèces recommandées, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les labels de la pêche
+legende: Un tiers des stocks mondiaux est surexploité.
+colonnes:
+  - titre: MSC
+    points:
+      - Pêcheries durables
+  - titre: ASC
+    points:
+      - Aquaculture
+```
 
 ---
 
@@ -7136,6 +8082,20 @@ quiz:
     explanation: >
       Les animaux nourris à l'herbe produisent une viande et un lait plus riches en oméga-3 et
       en antioxydants que les animaux nourris au grain. L'alimentation influence la composition.
+  - question: "Pourquoi les conditions d'élevage influencent-elles la composition de la viande et du lait ?"
+    options:
+      - "Les animaux élevés en plein air sont toujours plus gras"
+      - "L'alimentation à l'herbe donne plus d'oméga-3 et d'antioxydants que le grain"
+      - "Le stress améliore la tendreté de la viande"
+    answer: 2
+    explanation: "Les animaux nourris à l'herbe produisent une viande et un lait plus riches en oméga-3 et antioxydants que ceux nourris au grain."
+  - question: "Quel lien existe entre élevage industriel et antibiorésistance ?"
+    options:
+      - "Les antibiotiques sont interdits en élevage industriel"
+      - "L'antibiorésistance vient uniquement des cultures"
+      - "L'usage préventif d'antibiotiques y contribue"
+    answer: 3
+    explanation: "L'usage préventif d'antibiotiques dans l'élevage industriel contribue à l'antibiorésistance, un problème de santé publique majeur."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -7200,8 +8160,15 @@ pratiques.
 - Les conditions d'élevage influencent la qualité nutritionnelle.
 - Réduire sa consommation permet de financer des produits de meilleure qualité.
 
-[Emplacement image : labels et pratiques d'élevage, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: Le bien-être animal
+centre: Animal d'élevage
+parties:
+  - nom: État physique
+  - nom: État mental
+  - nom: Conditions d'élevage
+```
 
 ---
 
@@ -7245,6 +8212,20 @@ quiz:
       Contrairement à l'agriculture biologique, l'agriculture régénératrice n'a pas de définition
       officielle ni de cadre réglementaire. Le terme est utilisé par différents acteurs avec des
       significations variables, ce qui rend les comparaisons difficiles.
+  - question: "Pourquoi les cultures de couverture sont-elles utiles ?"
+    options:
+      - "Elles protègent le sol de l'érosion et nourrissent les micro-organismes"
+      - "Elles remplacent la rotation des cultures"
+      - "Elles augmentent le labour"
+    answer: 1
+    explanation: "Les plantes semées entre deux cultures protègent le sol de l'érosion et nourrissent les micro-organismes."
+  - question: "Pourquoi le terme agriculture régénératrice suscite-t-il des soupçons de greenwashing ?"
+    options:
+      - "Parce qu'il est interdit par la loi"
+      - "Parce qu'il est flou et que de grandes entreprises s'en sont emparées"
+      - "Parce qu'il désigne uniquement l'agriculture bio"
+    answer: 2
+    explanation: "Sans définition officielle ni certification, chacun y met ce qu'il veut, et les grandes entreprises agroalimentaires se sont emparées du terme."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -7313,8 +8294,15 @@ Et certaines études remettent en question le potentiel de stockage de carbone �
 - Elle peut stocker du carbone et améliorer la résilience.
 - Le concept reste flou, sans définition officielle.
 
-[Emplacement image : comparaison de sols en agriculture conventionnelle et régénératrice,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les principes de l'agriculture régénératrice
+centre: Santé des sols
+parties:
+  - nom: Non-labour
+  - nom: Couvertures végétales
+  - nom: Rotation
+```
 
 ---
 
@@ -7327,7 +8315,7 @@ summary: >
   Une alimentation suffisante et variée est la base d'un système immunitaire fonctionnel. Mais
   aucun aliment ne « booste » l'immunité.
 tags: [nutrition, immunite, vitamines, zinc, infections]
-relatedArticles: [vitamines-mineraux-essentiels, microbiote-intestinal]
+relatedArticles: [vitamines-mineraux-essentiels, microbiote-intestinal-physiologie]
 sources:
   - title: "Nutrition and immune function"
     url: "https://www.mayo.edu"
@@ -7358,6 +8346,20 @@ quiz:
       Les vitamines C et D et le zinc sont les micronutriments dont le rôle dans le
       fonctionnement immunitaire est le mieux établi. Mais ils ne compensent pas une
       alimentation déséquilibrée.
+  - question: "Pourquoi un excès d'activité immunitaire n'est-il pas souhaitable ?"
+    options:
+      - "Parce qu'il épuise les muscles"
+      - "Parce qu'il empêche l'absorption des vitamines"
+      - "Parce qu'il se produit dans les maladies auto-immunes et les allergies"
+    answer: 3
+    explanation: "Le système immunitaire est déjà en équilibre : une activité excessive se retrouve dans les maladies auto-immunes et les allergies."
+  - question: "Chez qui la supplémentation en vitamine D est-elle justifiée pour l'immunité ?"
+    options:
+      - "Chez les personnes carencées, par exemple peu exposées au soleil"
+      - "Chez toute personne bien nourrie"
+      - "Chez les personnes qui n'ont jamais d'infections"
+    answer: 1
+    explanation: "Chez les personnes bien nourries, aucun bénéfice démontré ; chez les carencées, comme celles peu exposées au soleil, elle est justifiée."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -7427,8 +8429,18 @@ Et la vaccination, qui reste la meilleure protection contre les maladies infecti
 - Les compléments ne sont utiles qu'en cas de carence.
 - Alimentation, sommeil, activité physique et vaccination sont les piliers.
 
-[Emplacement image : aliments riches en nutriments essentiels au système immunitaire, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les nutriments clés de l'immunité
+legende: L'immunité ne se booste pas, on évite de l'affaiblir.
+centre: Immunité
+icone: shield
+parties:
+  - nom: Vitamine C
+  - nom: Vitamine D
+  - nom: Zinc
+  - nom: Protéines
+```
 
 ---
 
@@ -7470,6 +8482,20 @@ quiz:
     explanation: >
       Les études montrent que les régimes à faible charge glycémique et le régime méditerranéen
       améliorent l'acné. À l'inverse, les laitages et les sucres rapides semblent l'aggraver.
+  - question: "Pourquoi les sucres rapides accélèrent-ils le vieillissement de la peau ?"
+    options:
+      - "Ils détruisent la vitamine C de la peau"
+      - "Par glycation : le sucre se lie aux protéines du collagène et les rigidifie"
+      - "Ils bloquent la production de sébum"
+    answer: 2
+    explanation: "Les molécules de sucre se lient aux protéines du collagène et les rigidifient, ce qui accélère le vieillissement cutané."
+  - question: "Comment un régime à charge glycémique élevée aggrave-t-il l'acné ?"
+    options:
+      - "Il supprime les oméga-3"
+      - "Il rend la peau trop sèche"
+      - "L'insuline stimule la production de sébum"
+    answer: 3
+    explanation: "Les régimes riches en sucres rapides et farines raffinées aggravent l'acné, car l'insuline stimule la production de sébum."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -7539,8 +8565,19 @@ Et limiter les sucres rapides et les laitages si l'on a de l'acné.
 - Le régime méditerranéen améliore l'acné et le vieillissement cutané.
 - La glycation des protéines par le sucre accélère le vieillissement de la peau.
 
-[Emplacement image : aliments bénéfiques pour la peau, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+titre: La peau et l'alimentation
+type: systeme
+centre: Peau
+parties:
+  - nom: Vitamine C
+  - nom: Zinc
+  - nom: Oméga-3
+  - nom: Acné
+    role: >-
+      Des associations sont étudiées avec certains profils alimentaires, sans effet identique chez
+      chacun.
+```
 
 ---
 
@@ -7584,6 +8621,20 @@ quiz:
       Les épinards, le chou kale, les blettes et les jaunes d'œufs sont les meilleures sources
       de lutéine et de zéaxanthine. Dans les œufs, leur biodisponibilité est particulièrement
       élevée grâce aux lipides du jaune.
+  - question: "Quel est le rôle du pigment maculaire ?"
+    options:
+      - "Il filtre la lumière bleue et neutralise les radicaux libres"
+      - "Il produit les larmes"
+      - "Il fabrique le DHA"
+    answer: 1
+    explanation: "La lutéine et la zéaxanthine forment le pigment maculaire, qui filtre la lumière bleue et neutralise les radicaux libres."
+  - question: "Pourquoi les œufs sont-ils une bonne source de lutéine ?"
+    options:
+      - "Leur blanc est riche en caroténoïdes"
+      - "La biodisponibilité y est élevée grâce aux lipides du jaune"
+      - "Ils contiennent du DHA uniquement"
+    answer: 2
+    explanation: "Dans les jaunes d'œufs, la biodisponibilité de la lutéine est élevée grâce aux lipides du jaune."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -7645,8 +8696,18 @@ la tension et de la glycémie.
 - Les légumes verts et les poissons gras sont les aliments clés.
 - Le tabac et les UV sont des facteurs de risque majeurs.
 
-[Emplacement image : aliments protecteurs pour la vue, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+titre: Les nutriments de la vue
+type: systeme
+centre: Œil
+icone: eye
+parties:
+  - nom: Lutéine et zéaxanthine
+    role: Le pigment maculaire protecteur.
+  - nom: Oméga-3
+    role: Leur rôle est étudié ; un apport supplémentaire ne garantit pas une prévention de la DMLA.
+  - nom: Légumes verts
+```
 
 ---
 
@@ -7689,6 +8750,20 @@ quiz:
       Les protéines forment la matrice organique de l'os, sur laquelle le calcium se dépose.
       Un apport suffisant en protéines est nécessaire pour maintenir la masse osseuse, surtout
       chez les personnes âgées.
+  - question: "Pourquoi les protéines sont-elles nécessaires aux os ?"
+    options:
+      - "Parce qu'elles remplacent le calcium"
+      - "Parce qu'elles bloquent l'absorption du calcium"
+      - "Parce qu'elles forment la matrice sur laquelle le calcium se dépose"
+    answer: 3
+    explanation: "La matrice organique de l'os est faite pour moitié de protéines, surtout du collagène, et le calcium s'y dépose."
+  - question: "Pourquoi la vitamine D est-elle indispensable pour les os ?"
+    options:
+      - "Sans elle, le calcium ingéré est largement perdu dans les selles"
+      - "Elle augmente la taille des cellules osseuses"
+      - "Elle remplace la vitamine K"
+    answer: 1
+    explanation: "La vitamine D est indispensable à l'absorption du calcium : sans elle, il est largement perdu dans les selles."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -7768,8 +8843,18 @@ musculation — qui stimulent la formation osseuse.
 - Vitamine K et magnésium jouent aussi un rôle.
 - L'activité physique est indispensable.
 
-[Emplacement image : aliments pour la santé osseuse, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: Les nutriments des os
+centre: Os
+parties:
+  - nom: Calcium
+  - nom: Vitamine D
+  - nom: Protéines
+    role: La matrice où se dépose le calcium.
+  - nom: Vitamine K
+  - nom: Magnésium
+```
 
 ---
 
@@ -7812,6 +8897,20 @@ quiz:
     explanation: >
       Le fromage stimule la production de salive, qui neutralise les acides. Il apporte aussi
       du calcium et du phosphore, qui favorisent la reminéralisation de l'émail.
+  - question: "Pourquoi manger un bonbon toutes les heures est-il plus nocif qu'une tablette de chocolat d'un coup ?"
+    options:
+      - "Parce que les bonbons contiennent plus de fluor"
+      - "Parce que les attaques acides se répètent"
+      - "Parce que le chocolat neutralise les acides"
+    answer: 2
+    explanation: "La fréquence compte autant que la quantité : chaque prise déclenche une attaque acide, et la salive n'a pas le temps de rééquilibrer."
+  - question: "Pourquoi ne faut-il pas se brosser les dents juste après une boisson acide ?"
+    options:
+      - "Parce que le brossage neutralise le fluor"
+      - "Parce que la salive est alors absente"
+      - "Parce que l'émail ramolli par l'acide est plus vulnérable"
+    answer: 3
+    explanation: "L'émail ramolli par l'acide est plus vulnérable, il vaut mieux attendre avant de se brosser les dents."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -7883,8 +8982,19 @@ Il vaut mieux les consommer avec une paille, et ne pas se brosser les dents imm�
 - Le fluor renforce l'émail et réduit le risque.
 - Le fromage et les fruits crus ont un effet protecteur.
 
-[Emplacement image : effet des aliments sur le pH de la plaque dentaire, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les dents et l'alimentation
+centre: Dents
+parties:
+  - nom: Sucre
+    role: Le principal facteur des caries.
+  - nom: Fréquence
+    role: Elle compte autant que la quantité.
+  - nom: Fluor
+    role: Il renforce l'émail.
+  - nom: Boissons acides
+```
 
 ---
 
@@ -7926,6 +9036,20 @@ quiz:
     explanation: >
       Les cheveux sont composés à 90 % de kératine, une protéine. Un apport insuffisant en
       protéines perturbe le cycle pilaire et favorise la chute.
+  - question: "Pourquoi la carence en fer entraîne-t-elle une chute de cheveux ?"
+    options:
+      - "Le fer est essentiel au transport de l'oxygène vers les follicules"
+      - "Le fer fabrique directement la kératine"
+      - "Le fer bloque l'absorption du zinc"
+    answer: 1
+    explanation: "Le fer est essentiel au transport de l'oxygène vers les follicules, et sa carence est une cause fréquente de chute, surtout chez les femmes."
+  - question: "Pourquoi les compléments à la biotine ne servent-ils généralement à rien ?"
+    options:
+      - "Parce que la biotine est détruite par la digestion"
+      - "Parce que les vraies carences sont rares et qu'aucune efficacité n'est démontrée chez les non carencés"
+      - "Parce que la biotine est toxique"
+    answer: 2
+    explanation: "Les vraies carences sont rares car le microbiote en produit, et la biotine en complément n'améliore pas les cheveux de ceux qui n'en manquent pas."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -7990,111 +9114,15 @@ stress, médicaments, maladies thyroïdiennes. L'alimentation n'est qu'un facteu
 - Les carences en fer sont fréquentes chez les femmes et causes de chute.
 - Les compléments n'aident que si l'on est carencé.
 
-[Emplacement image : aliments bénéfiques pour les cheveux, légende et texte alternatif à
-fournir ultérieurement.]
-
----
-
----
-type: article
-title: Les allergies alimentaires
-slug: allergies-alimentaires
-categoryPath: alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers
-summary: >
-  Le système immunitaire réagit à une protéine alimentaire. Peut être grave, parfois mortel.
-  Une prise en charge médicale est indispensable.
-tags: [nutrition, allergies, immunite, anaphylaxie, arachide]
-relatedArticles: [allergies-et-intolerances-alimentaires, microbiote-intestinal]
-sources:
-  - title: "Food allergy"
-    url: "https://www.aaaai.org"
-    publisher: "American Academy of Allergy, Asthma & Immunology"
-    date: "2025"
-  - title: "Allergies"
-    url: "https://www.inserm.fr/dossier/allergies/"
-    publisher: "Inserm"
-    date: "2025"
-quiz:
-  - question: "Quel est le mécanisme d'une allergie alimentaire ?"
-    options:
-      - "Une intolérance digestive"
-      - "Une réaction du système immunitaire aux IgE"
-      - "Un manque d'enzyme"
-    answer: 1
-    explanation: >
-      L'allergie alimentaire est une réaction immunitaire médiée par les anticorps IgE. Le
-      système immunitaire identifie à tort une protéine comme une menace et déclenche une
-      réaction inflammatoire.
-  - question: "Quels sont les allergènes les plus fréquents ?"
-    options:
-      - "Arachide, fruits à coque, œuf, lait, poisson, crustacés"
-      - "Riz, pommes de terre, carottes"
-      - "Huile d'olive, sel, poivre"
-    answer: 1
-    explanation: >
-      Les principaux allergènes alimentaires sont l'arachide, les fruits à coque, l'œuf, le
-      lait, le poisson, les crustacés, le blé et le soja. Ils doivent être déclarés sur les
-      étiquettes.
-lastVerified: 2026-09-22
-status: published
----
-
-## En bref
-
-Une allergie alimentaire est une réaction du système immunitaire à une protéine présente dans
-un aliment.
-
-Contrairement à l'intolérance, qui est un problème de digestion, l'allergie implique les
-anticorps IgE. Elle peut survenir à des doses infimes, et peut être mortelle.
-
-## Les mécanismes
-
-Lors d'une première exposition, le système immunitaire produit des anticorps IgE dirigés contre
-une protéine alimentaire.
-
-Lors d'une exposition ultérieure, ces anticorps déclenchent la libération d'histamine et d'autres
-médiateurs. Les symptômes apparaissent en quelques minutes à deux heures.
-
-Ils peuvent toucher la peau — urticaire, eczéma — le système digestif — vomissements, diarrhées
-— et le système respiratoire — difficultés à respirer, œdème de la gorge.
-
-Dans les cas graves, c'est l'anaphylaxie : chute de tension, détresse respiratoire, perte de
-conscience. C'est une urgence vitale qui nécessite l'injection d'adrénaline.
-
-## Les allergènes les plus fréquents
-
-L'arachide, les fruits à coque — noix, noisettes, amandes, noix de cajou — les œufs, le lait de
-vache, le poisson, les crustacés, le blé et le soja.
-
-En Europe, ces allergènes font l'objet d'une déclaration obligatoire sur les étiquettes. Ils
-sont souvent en gras dans la liste des ingrédients.
-
-## Le diagnostic
-
-Le diagnostic repose sur plusieurs éléments : l'histoire clinique, les tests cutanés (prick
-tests), le dosage des IgE spécifiques dans le sang.
-
-Mais ces tests peuvent donner des faux positifs. Le diagnostic définitif repose souvent sur un
-test de provocation orale, réalisé en milieu médical sécurisé.
-
-## La prise en charge
-
-Elle repose sur l'éviction de l'allergène, l'injection d'adrénaline en cas de réaction grave, et
-l'éducation du patient et de son entourage.
-
-Des protocoles de désensibilisation existent pour certains allergènes, notamment l'arachide.
-Ils consistent à administrer des doses infimes et croissantes pour habituer progressivement le
-système immunitaire.
-
-## À retenir
-
-- L'allergie alimentaire est une réaction immunitaire médiée par les IgE.
-- Elle peut être grave et mortelle.
-- Les allergènes majeurs sont l'arachide, les fruits à coque, l'œuf et le lait.
-- L'adrénaline est le seul traitement de l'anaphylaxie.
-
-[Emplacement image : principaux allergènes alimentaires et leurs sources, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les cheveux et l'alimentation
+centre: Kératine
+parties:
+  - nom: Protéines
+  - nom: Fer
+  - nom: Zinc
+```
 
 ---
 
@@ -8107,7 +9135,7 @@ summary: >
   La maladie cœliaque touche environ 1 % de la population. La sensibilité non cœliaque est plus
   discutée. Et l'éviction du gluten n'est pas anodine.
 tags: [nutrition, gluten, coeliaque, sensibilité, blé]
-relatedArticles: [intolerance-au-lactose-et-maladie-coeliaque, fibres-alimentaires-roles-et-apports]
+relatedArticles: [lactose-et-intolerance, fibres-alimentaires-roles-et-apports]
 sources:
   - title: "Celiac disease"
     url: "https://www.britannica.com/science/celiac-disease"
@@ -8136,6 +9164,20 @@ quiz:
     explanation: >
       Les tests recherchent la réaction du corps au gluten. Sans gluten, il n'y a plus de
       réaction à détecter. Il faut donc continuer à en manger jusqu'aux examens.
+  - question: "Pourquoi faut-il continuer à manger du gluten avant des examens pour la maladie cœliaque ?"
+    options:
+      - "Pour éviter les carences"
+      - "Pour renforcer l'intestin"
+      - "Sinon les tests deviennent faussement négatifs et le diagnostic est impossible"
+    answer: 3
+    explanation: "Si l'on supprime le gluten avant les examens, les tests deviennent faussement négatifs, et le diagnostic ne peut plus être établi."
+  - question: "Pourquoi les produits sans gluten peuvent-ils poser problème sans raison médicale ?"
+    options:
+      - "Ils sont souvent plus pauvres en fibres, vitamines B et fer"
+      - "Ils contiennent toujours du gluten caché"
+      - "Ils déclenchent une allergie au blé"
+    answer: 1
+    explanation: "Ils sont souvent plus pauvres en fibres, en vitamines B et en fer, et plus chers, ce qui peut entraîner des carences."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -8206,8 +9248,21 @@ riche en fibres, a des bénéfices pour la santé.
 - Ne pas supprimer le gluten avant un diagnostic.
 - L'éviction sans raison médicale peut entraîner des carences.
 
-[Emplacement image : différence entre maladie cœliaque, allergie au blé et sensibilité, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois situations face au gluten
+colonnes:
+  - titre: Maladie cœliaque
+    points:
+      - Environ 1 % de la population
+      - Éviction stricte
+  - titre: Sensibilité non cœliaque
+    points:
+      - Reconnue mais mal comprise
+  - titre: Aucun trouble
+    points:
+      - Supprimer le gluten n'apporte rien
+```
 
 ---
 
@@ -8220,7 +9275,7 @@ summary: >
   Digérer le lait à l'âge adulte est l'exception à l'échelle mondiale. L'intolérance au lactose
   est dose-dépendante, et les yaourts et fromages affinés passent souvent très bien.
 tags: [nutrition, lactose, intolerance, lactase, lait]
-relatedArticles: [intolerance-au-lactose-et-maladie-coeliaque, probiotiques-et-prebiotiques]
+relatedArticles: [probiotiques-et-prebiotiques]
 sources:
   - title: "Lactose intolerance"
     url: "https://www.britannica.com/science/lactose-intolerance"
@@ -8229,6 +9284,14 @@ sources:
   - title: "Alimentation humaine"
     url: "https://www.anses.fr/fr/thematique/alimentation-humaine"
     publisher: "ANSES"
+    date: "2025"
+  - title: "Celiac disease"
+    url: "https://www.britannica.com/science/celiac-disease"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+  - title: "Allergies et intolérances"
+    url: "https://www.inserm.fr/dossier/allergies/"
+    publisher: "Inserm"
     date: "2025"
 quiz:
   - question: "Pourquoi l'intolérance au lactose est-elle fréquente ?"
@@ -8251,6 +9314,20 @@ quiz:
       Les yaourts sont mieux tolérés grâce à leurs ferments, qui digèrent une partie du lactose.
       Les fromages affinés en contiennent très peu. Le lait frais, en revanche, peut poser
       problème.
+  - question: "Pourquoi l'intolérance au lactose n'est-elle pas une allergie ?"
+    options:
+      - "Elle provoque des lésions mais pas de symptômes"
+      - "Elle ne provoque aucune lésion et dépend de la dose consommée"
+      - "Elle touche seulement les enfants"
+    answer: 2
+    explanation: "L'intolérance ne provoque aucune lésion et est dose-dépendante : beaucoup de personnes tolèrent une petite quantité de lactose."
+  - question: "Pourquoi les yaourts sont-ils souvent mieux tolérés que le lait ?"
+    options:
+      - "Ils ne contiennent pas de produits laitiers"
+      - "Ils contiennent plus de lactose"
+      - "Leurs ferments digèrent une partie du lactose"
+    answer: 3
+    explanation: "Les ferments des yaourts digèrent une partie du lactose, et les bactéries lactiques aident à sa digestion dans l'intestin."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -8322,8 +9399,15 @@ sardines.
 - Elle est dose-dépendante, sans lésion intestinale.
 - Yaourts et fromages affinés sont souvent bien tolérés.
 
-[Emplacement image : teneur en lactose de différents produits laitiers, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: L'intolérance au lactose
+type: chiffres
+chiffres:
+  - valeur: Digestion variable
+    texte: Une malabsorption ne provoque pas toujours de symptômes.
+  - valeur: Lactase
+    texte: Son activité diminue après l’enfance chez une grande partie de la population.
+```
 
 ---
 type: article
@@ -9240,6 +10324,20 @@ Beaucoup de gens confondent les deux dates. Ils jettent alors des aliments encor
 
 Pour limiter ce gaspillage, les fabricants peuvent, depuis novembre 2022, ajouter une phrase à côté de la DDM, comme « Ce produit peut être consommé après cette date ». Bien lire l'étiquette permet de jeter moins de nourriture, sans prendre de risque avec les produits frais.
 
+```schema
+type: comparaison
+titre: DLC ou DDM
+colonnes:
+  - titre: DLC
+    points:
+      - « À consommer jusqu'au »
+      - Une limite pour la santé
+  - titre: DDM
+    points:
+      - « À consommer de préférence avant le »
+      - Une indication de qualité
+```
+
 ## À retenir
 
 - La DLC, « à consommer jusqu'au », est une limite pour la santé.
@@ -9325,18 +10423,164 @@ status: planned
 
 ---
 type: article
-title: La conservation optimale des aliments au refrigerateur
+title: La conservation optimale des aliments au réfrigérateur
 slug: la-conservation-optimale-des-aliments-au-refrigerateur
 categoryPath: alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire
 summary: >
-  Ranger correctement son frigo peut a lui seul reduire le gaspillage domestique.
-tags: [gaspillage-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le froid ralentit les microbes sans les tuer. Bien régler son réfrigérateur, connaître ses zones de
+  température et ranger chaque aliment au bon endroit prolonge leur durée de vie, limite le
+  gaspillage et réduit le risque d'intoxication.
+tags: [gaspillage-alimentaire]
+relatedArticles: [pourquoi-certains-aliments-ont-ils-une-date-limite-et-d-autres-une-date-conseillee, gaspillage-alimentaire-mondial, la-conservation-des-aliments-par-sechage-solaire, maladies-transmises-eau-aliments]
+sources:
+  - title: "Réfrigérateur"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9frig%C3%A9rateur"
+    publisher: "Wikipédia"
+  - title: "Refrigeration"
+    url: "https://en.wikipedia.org/wiki/Refrigeration"
+    publisher: "Wikipedia"
+  - title: "Listeria monocytogenes"
+    url: "https://en.wikipedia.org/wiki/Listeria_monocytogenes"
+    publisher: "Wikipedia"
+  - title: "Food preservation"
+    url: "https://en.wikipedia.org/wiki/Food_preservation"
+    publisher: "Wikipedia"
+  - title: "Comment garantir l'hygiène des aliments dans son réfrigérateur ?"
+    url: "https://www.anses.fr/fr/content/comment-garantir-lhygiene-des-aliments-dans-son-refrigerateur"
+    publisher: "ANSES"
+  - title: "Comment bien conserver ses aliments et ne pas interrompre la chaîne du froid ?"
+    url: "https://www.anses.fr/fr/content/comment-bien-conserver-ses-aliments-et-ne-pas-interrompre-la-chaine-du-froid"
+    publisher: "ANSES"
+quiz:
+  - question: "Quelle température vise-t-on dans la zone la plus froide du réfrigérateur ?"
+    options:
+      - "Entre 0 et 4 °C"
+      - "Entre 8 et 10 °C"
+      - "En dessous de −18 °C"
+    answer: 1
+    explanation: >
+      Viandes, poissons et produits frais se conservent entre 0 et 4 °C. −18 °C est la température du
+      congélateur.
+  - question: "Pourquoi ne faut-il pas mettre un plat encore très chaud au réfrigérateur ?"
+    options:
+      - "Parce qu'il réchaufferait tout l'intérieur et les autres aliments"
+      - "Parce que le froid gâche le goût"
+      - "Parce que c'est interdit par la loi"
+    answer: 1
+    explanation: >
+      Un plat brûlant fait monter la température de l'appareil. On le laisse tiédir, mais pas plus de
+      deux heures à température ambiante, avant de le ranger.
+  - question: "Le froid du réfrigérateur tue-t-il les microbes ?"
+    options:
+      - "Oui, tous"
+      - "Non, il ralentit leur multiplication sans les détruire"
+      - "Seulement les virus"
+    answer: 2
+    explanation: >
+      Le froid met les microbes en sommeil. Certains, comme Listeria, continuent même à se multiplier
+      lentement à basse température.
+  - question: "Pourquoi place-t-on la viande crue en bas du réfrigérateur, dans un récipient ?"
+    options:
+      - "Pour qu'elle ne coule pas sur les autres aliments"
+      - "Parce que le bas est la zone la plus chaude"
+      - "Pour la protéger de la lumière"
+    answer: 1
+    explanation: "Séparer le cru du cuit et placer la viande crue en bas, dans un récipient, évite qu'elle ne coule sur les autres aliments."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le réfrigérateur ne stérilise pas les aliments : il **ralentit** la multiplication des bactéries et des
+moisissures. Pour qu'il soit efficace, il faut une température adaptée, autour de **4 °C** dans la zone
+la plus froide, un rangement qui tient compte des différentes zones, et quelques gestes simples :
+emballer, ne pas surcharger, nettoyer régulièrement. Bien utilisé, il évite des intoxications et une
+bonne part du gaspillage domestique.
+
+## Le froid ralentit, il ne tue pas
+
+La plupart des bactéries qui gâtent les aliments se multiplient très vite entre **20 et 40 °C**. En
+dessous de 4 °C, leur croissance devient très lente. Mais elles ne meurent pas, et certaines, comme
+**Listeria**, continuent de se multiplier doucement même au froid. C'est pourquoi un aliment entamé ne
+se garde pas indéfiniment, même au réfrigérateur, et pourquoi la température compte.
+
+Un **thermomètre** posé dans la zone froide permet de vérifier : le réglage du bouton ne dit pas la
+température réelle.
+
+## Les zones du réfrigérateur
+
+Le froid n'est pas le même partout. Dans un appareil classique, l'air froid descend : le bas est
+souvent plus froid, sauf le bac à légumes, protégé. Chaque modèle est différent, et beaucoup indiquent
+la zone la plus froide par un symbole.
+
+```schema
+titre: Où ranger quoi selon la température
+legende: >-
+  Vérifier la notice et les étiquettes ; les plats préparés fragiles vont dans la zone froide, à 4
+  °C au plus.
+type: echelle
+unite: °C
+min: 0
+max: 10
+zones:
+  - de: 0
+    a: 4
+    label: Viandes, poissons, plats et produits frais fragiles
+    ton: info
+  - de: 4
+    a: 6
+    label: Laitages selon leur étiquette ; pas les restes de plats
+    ton: normal
+  - de: 6
+    a: 10
+    label: Légumes, beurre, boissons
+    ton: attention
+```
+
+- **Zone la plus froide, 0 à 4 °C** : viandes et poissons crus, charcuterie, plats cuisinés, produits
+  frais entamés, crème et fromages frais.
+- **Zone intermédiaire, 4 à 6 °C** : yaourts, fromages affinés, œufs si on les met au
+  frais.
+- **Bac à légumes** : fruits et légumes, à l'abri du dessèchement.
+- **Porte, la zone la moins froide** : beurre, boissons, sauces et condiments, qui supportent les
+  variations de température dues aux ouvertures.
+
+## Les bons gestes
+
+1. **Emballer** les aliments dans des boîtes fermées ou un film, pour éviter que les microbes passent
+   d'un aliment à l'autre et que les odeurs se mélangent.
+2. **Séparer le cru du cuit** : la viande crue en bas, dans un récipient, pour qu'elle ne coule pas sur
+   les autres aliments.
+3. **Laisser tiédir** un plat chaud avant de le ranger, sans dépasser deux heures à température
+   ambiante.
+4. **Ne pas surcharger** : l'air froid doit circuler.
+5. **Fermer vite la porte** et ne pas la laisser ouverte.
+6. **Nettoyer** l'intérieur environ une fois par mois avec de l'eau et du savon, puis rincer, éventuellement
+   avec un peu de vinaigre blanc.
+7. **Placer devant** les produits à consommer en premier, et les nouveaux derrière.
+
+## Ce qui n'a rien à faire au réfrigérateur
+
+Certains aliments se conservent mieux hors du froid : les **tomates** perdent leur goût, les **bananes**
+noircissent, les **pommes de terre** deviennent sucrées, le **pain** rassit plus vite, les **oignons** et
+l'**ail** ramollissent. Les fruits non mûrs mûrissent mieux à température ambiante, avant de passer au
+frais.
+
+## Dates et durées
+
+La **date limite de consommation**, « à consommer jusqu'au », concerne les produits fragiles : on ne la
+dépasse pas. La **date de durabilité minimale**, « à consommer de préférence avant », indique seulement
+une perte de qualité possible : le produit reste souvent bon bien après. Un plat cuisiné maison se
+garde en général deux à trois jours au réfrigérateur.
+
+## À retenir
+
+- Le froid ralentit les microbes mais ne les tue pas ; certains se multiplient même au froid.
+- La zone la plus froide doit être entre 0 et 4 °C, à vérifier avec un thermomètre.
+- Viandes et poissons crus vont dans la zone froide, emballés et séparés des aliments cuits.
+- On laisse tiédir un plat chaud, on ne surcharge pas l'appareil et on le nettoie chaque mois.
+- Tomates, bananes, pommes de terre et pain se conservent mieux hors du réfrigérateur.
 
 ---
 type: article
@@ -9760,18 +11004,154 @@ status: planned
 
 ---
 type: article
-title: La conservation des aliments par sechage solaire
+title: La conservation des aliments par séchage solaire
 slug: la-conservation-des-aliments-par-sechage-solaire
 categoryPath: alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire
 summary: >
-  Une methode ancienne, peu couteuse, qui ne demande ni electricite ni refrigeration.
-tags: [gaspillage-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Retirer l'eau d'un fruit, d'un légume ou d'une viande empêche les microbes de s'y développer. Un
+  séchoir solaire, simple caisse vitrée et ventilée, sèche les aliments plus vite et plus proprement
+  qu'à l'air libre, sans électricité.
+tags: [gaspillage-alimentaire]
+relatedArticles: [la-securite-alimentaire-des-conserves-maison, la-conservation-par-le-sel-salaisons-et-saumures, four-chauffe-eau-solaires, le-stockage-en-cave-des-legumes-racines]
+sources:
+  - title: "Séchage (aliment)"
+    url: "https://fr.wikipedia.org/wiki/S%C3%A9chage_(aliment)"
+    publisher: "Wikipédia"
+  - title: "Food drying"
+    url: "https://en.wikipedia.org/wiki/Food_drying"
+    publisher: "Wikipedia"
+  - title: "Solar dryer"
+    url: "https://en.wikipedia.org/wiki/Solar_dryer"
+    publisher: "Wikipedia"
+  - title: "Water activity"
+    url: "https://en.wikipedia.org/wiki/Water_activity"
+    publisher: "Wikipedia"
+  - title: "Le séchage au soleil des fruits et des légumes"
+    url: "https://agris.fao.org/search/en/records/647761d5f2e6fe92b367b956"
+    publisher: "FAO (AGRIS)"
+  - title: "Expert consultation on planning the development of sundrying techniques in Africa"
+    url: "https://www.fao.org/4/x5018e/x5018E00.htm"
+    publisher: "FAO"
+quiz:
+  - question: "Pourquoi un aliment séché se conserve-t-il longtemps ?"
+    options:
+      - "Parce que les microbes n'ont plus assez d'eau pour se multiplier"
+      - "Parce qu'il devient plus froid"
+      - "Parce qu'il est plus sucré au départ"
+    answer: 1
+    explanation: >
+      Bactéries et moisissures ont besoin d'eau disponible. En dessous d'un certain seuil, elles ne
+      peuvent plus se développer.
+  - question: "Pourquoi un séchoir solaire indirect protège-t-il mieux les aliments ?"
+    options:
+      - "Parce qu'il les cuit"
+      - "Parce que l'air est chauffé dans un capteur puis passe sur les aliments placés à l'ombre"
+      - "Parce qu'il les salit moins rapidement"
+    answer: 2
+    explanation: >
+      Le soleil direct détruit certaines vitamines et décolore les aliments. Dans un séchoir indirect,
+      ils sèchent à l'ombre dans un air chaud.
+  - question: "Pourquoi découpe-t-on les aliments en tranches fines ?"
+    options:
+      - "Pour qu'ils soient plus jolis"
+      - "Pour économiser de la place"
+      - "Pour que l'eau s'évapore vite, avant que les microbes aient le temps de se développer"
+    answer: 3
+    explanation: >
+      Des tranches épaisses sèchent en surface mais restent humides au cœur, où des moisissures
+      peuvent apparaître.
+  - question: "Pourquoi la ventilation compte-t-elle autant que la chaleur dans un séchoir solaire ?"
+    options:
+      - "L'air froid refroidit les claies"
+      - "Un air chaud qui ne circule pas se sature d'humidité"
+      - "La ventilation chasse les insectes uniquement"
+    answer: 2
+    explanation: "Un air chaud qui ne circule pas se sature d'humidité et ne peut plus emporter l'eau des aliments."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le **séchage** est l'une des plus anciennes méthodes de conservation. En retirant l'**eau** des
+aliments, on empêche les bactéries et les moisissures de s'y développer : abricots secs, tomates
+séchées, champignons, herbes aromatiques, viande séchée se gardent des mois. Sécher au soleil en plein
+air est simple mais lent, et expose aux insectes, aux poussières et à la pluie. Un **séchoir solaire**,
+une caisse vitrée et ventilée, sèche plus vite, plus proprement et sans électricité.
+
+## Pourquoi le séchage conserve
+
+Un fruit frais contient souvent 80 à 90 % d'eau. Les microbes ont besoin d'eau disponible pour se
+multiplier. Quand on en retire la plus grande partie, ils ne peuvent plus se développer. Un fruit bien
+séché ne contient plus qu'environ 15 à 20 % d'eau, un légume sec encore moins, et il est devenu cassant
+ou souple comme du cuir.
+
+## Le séchoir solaire
+
+- **Le séchoir direct** : une caisse noire fermée par une vitre ou un plastique transparent, avec des
+  claies grillagées et des ouvertures en bas et en haut. Le soleil chauffe l'intérieur, l'air chaud monte
+  et s'échappe en haut en emportant l'humidité, l'air frais entre par le bas.
+- **Le séchoir indirect** : l'air est chauffé dans un **capteur** noir incliné, puis il traverse une
+  **armoire** fermée et ombragée où sont posées les claies. Les aliments sèchent à l'ombre, ce qui
+  préserve mieux couleurs et vitamines.
+
+Dans les deux cas, la **ventilation** compte autant que la chaleur : un air chaud qui ne circule pas se
+sature d'humidité. Une température de **40 à 60 °C** convient à la plupart des aliments. Des
+moustiquaires aux entrées d'air protègent des insectes.
+
+```schema
+type: comparaison
+titre: Séchoir direct ou indirect
+colonnes:
+  - titre: Direct
+    points:
+      - Caisse noire vitrée
+      - Les aliments reçoivent le soleil
+  - titre: Indirect
+    points:
+      - Air chauffé dans un capteur
+      - Aliments à l'ombre dans une armoire
+      - Couleurs et vitamines mieux préservées
+```
+
+## Préparer les aliments
+
+1. Choisir des produits **mûrs et sains**, sans moisissure.
+2. Laver, éplucher si nécessaire, découper en **tranches fines et régulières**, de 5 mm environ.
+3. Pour beaucoup de légumes, **blanchir** une ou deux minutes dans l'eau bouillante, puis refroidir :
+   cela garde la couleur et détruit les enzymes qui les abîment.
+4. Tremper certains fruits, comme les pommes, dans un peu de jus de citron pour éviter qu'ils
+   noircissent.
+5. Étaler en une seule couche sur les claies, sans que les morceaux se touchent.
+6. Retourner les morceaux au moins une fois par jour, et rentrer les claies la nuit, quand l'humidité
+   remonte.
+
+Selon le soleil et les aliments, le séchage dure de un à plusieurs jours.
+
+## Vérifier et conserver
+
+- **Fruits** : souples, sans jus quand on les presse.
+- **Légumes et champignons** : cassants.
+- **Herbes** : feuilles qui s'effritent.
+
+On laisse refroidir, puis on range dans des **bocaux bien fermés** ou des sacs hermétiques, au sec, au
+frais et à l'abri de la lumière. On surveille les premiers jours : de la buée dans le bocal signale un
+séchage incomplet, à reprendre. Toute trace de moisissure impose de jeter.
+
+## Le cas de la viande et du poisson
+
+Viande et poisson séchés, comme le biltong sud-africain ou le stockfish norvégien, demandent des
+précautions particulières : viande très fraîche, tranches fines, souvent un salage ou une marinade
+préalable, un séchage rapide et un air sec. Mal conduit, le séchage de la viande expose à des
+intoxications. Les débutants commencent par les fruits, les légumes et les herbes.
+
+## À retenir
+
+- Le séchage retire l'eau dont les microbes ont besoin pour se multiplier.
+- Un séchoir solaire sèche plus vite et plus proprement qu'en plein air, grâce à l'air chaud qui circule.
+- Le séchoir indirect fait sécher les aliments à l'ombre et préserve mieux couleurs et vitamines.
+- On découpe en tranches fines, on blanchit certains légumes et l'on retourne les morceaux.
+- On conserve en bocaux hermétiques, au sec, et l'on jette au moindre signe de moisissure.
 
 ---
 type: article
@@ -10078,6 +11458,9 @@ sources:
   - title: "Dehydration"
     url: "https://en.wikipedia.org/wiki/Dehydration"
     publisher: "Wikipedia"
+  - title: "Soif"
+    url: "https://www.universalis.fr/encyclopedie/soif/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Quelle partie du cerveau commande la soif ?"
     options:
@@ -10144,6 +11527,19 @@ Avec l'âge, la sensation de soif diminue. Elle commence à baisser après 50 an
 Quand on boit, l'eau met du temps à passer dans le sang. Pourtant, la soif disparaît presque tout de suite. C'est parce que la bouche, la gorge et l'œsophage envoient des signaux rapides au cerveau. Ils lui indiquent que de l'eau arrive, et il arrête la sensation de soif.
 
 Les signes d'un manque d'eau sont la soif, le mal de tête, la fatigue, des urines plus rares et plus foncées, et parfois des vertiges. Boire beaucoup trop sans avoir soif n'est pas utile non plus. Un excès d'eau peut perturber l'équilibre du sel dans le sang.
+
+```schema
+titre: Le signal de la soif
+type: etapes
+elements:
+  - titre: Le sang se concentre
+  - titre: L'hypothalamus le détecte
+    icone: brain
+  - titre: La soif apparaît
+    texte: Une réponse à la régulation de l’équilibre hydrique.
+  - titre: Boire
+    icone: droplet
+```
 
 ## À retenir
 
@@ -11404,6 +12800,10 @@ sources:
   - title: "Protein (nutrient)"
     url: "https://en.wikipedia.org/wiki/Protein_(nutrient)"
     publisher: "Wikipedia"
+  - title: "Protéines : complément 2025"
+    url: "https://www.sge-ssn.ch/media/fv0a5hxf/protéines-complément-2025.pdf"
+    publisher: "Société Suisse de Nutrition (SSN)"
+    date: "2025"
 quiz:
   - question: "Combien d'acides aminés essentiels le corps humain ne sait-il pas fabriquer ?"
     options:
@@ -11471,6 +12871,20 @@ Certains aliments végétaux, comme le quinoa ou le sarrasin, apportent à eux s
 ## Céréales et légumineuses, une bonne équipe
 
 Les céréales, comme le riz ou le blé, contiennent peu de lysine mais assez de méthionine. Les légumineuses, comme les haricots, font l'inverse : elles contiennent assez de lysine, mais peu de méthionine. En les associant, on obtient tous les acides aminés essentiels. Le riz aux haricots, un plat très répandu, en est un bon exemple.
+
+```schema
+type: comparaison
+titre: Céréales et légumineuses, une bonne équipe
+legende: Le corps ne sait pas fabriquer neuf acides aminés.
+colonnes:
+  - titre: Céréales
+    icone: wheat
+    points:
+      - Pauvres en lysine
+  - titre: Légumineuses
+    points:
+      - Riches en lysine
+```
 
 ## À retenir
 
@@ -12322,99 +13736,6 @@ status: planned
 
 ---
 type: article
-title: Pourquoi les marins d'autrefois avaient-ils besoin de citrons ?
-slug: pourquoi-les-marins-d-autrefois-avaient-ils-besoin-de-citrons
-categoryPath: alimentation-et-nutrition/nutriments/micronutriments
-summary: >
-  Sans vitamine C, on attrape le scorbut, une maladie qui fait saigner les gencives et tomber
-  les dents. Pendant les grandes expéditions en mer, cette maladie a tué de très nombreux
-  marins. En 1747, le médecin James Lind a montré que les agrumes la guérissaient.
-tags: [micronutriments]
-sources:
-  - title: "Scorbut"
-    url: "https://fr.wikipedia.org/wiki/Scorbut"
-    publisher: "Wikipédia"
-  - title: "Vitamin C"
-    url: "https://en.wikipedia.org/wiki/Vitamin_C"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Quelle maladie provoque un manque de vitamine C ?"
-    options:
-      - "Le scorbut"
-      - "La grippe"
-      - "La varicelle"
-    answer: 1
-    explanation: >
-      Après 1 à 3 mois sans vitamine C, le scorbut apparaît.
-  - question: "Qu'a montré James Lind en 1747 ?"
-    options:
-      - "Que l'eau de mer guérit le scorbut"
-      - "Que les agrumes guérissent le scorbut"
-      - "Que le scorbut est contagieux"
-    answer: 2
-    explanation: >
-      Lind a comparé plusieurs traitements. Seuls les marins qui mangeaient des agrumes
-      ont vite guéri.
-  - question: "À quoi sert la vitamine C dans le corps ?"
-    options:
-      - "À voir dans le noir"
-      - "À digérer les graisses"
-      - "À fabriquer le collagène"
-    answer: 3
-    explanation: >
-      La vitamine C aide à fabriquer le collagène, une protéine qui rend solides la peau,
-      les vaisseaux sanguins et d'autres tissus.
-  - question: "Prendre de la vitamine C tous les jours empêche-t-il d'attraper un rhume ?"
-    options:
-      - "Oui, toujours"
-      - "Non, mais cela raccourcit un peu sa durée"
-      - "Oui, chez les enfants seulement"
-    answer: 2
-    explanation: >
-      Cela n'empêche pas d'attraper un rhume. Cela réduit sa durée d'environ 8 % chez les
-      adultes et 14 % chez les enfants.
-lastVerified: 2026-10-09
-status: published
----
-
-## En bref
-
-Sans vitamine C, on attrape le scorbut, une maladie qui fait saigner les gencives et tomber les dents. Pendant les grandes expéditions en mer, cette maladie a tué de très nombreux marins. En 1747, le médecin James Lind a montré que les agrumes la guérissaient.
-
-## Une maladie des grandes expéditions
-
-Lors des grands voyages en mer, le scorbut a tué énormément de marins. L'expédition de Vasco de Gama perd 120 de ses 160 marins en onze mois. Celle de Magellan perd 247 hommes sur 265 en trois ans. Le scorbut fait partie des grandes causes de ces morts.
-
-## Ce que fait le scorbut
-
-Le scorbut apparaît après 1 à 3 mois sans aucune vitamine C. D'abord, on se sent fatigué, on a moins faim et on a mal aux muscles. Puis les gencives gonflent, deviennent violettes et saignent. Les dents bougent et tombent. Des taches de sang apparaissent sous la peau, et les blessures ne cicatrisent plus.
-
-La vitamine C aide le corps à fabriquer le collagène. C'est une protéine qui rend solides la peau, les vaisseaux sanguins et de nombreux autres tissus. Sans vitamine C, le collagène est fragile, et tout le corps s'affaiblit.
-
-## Le premier essai clinique
-
-En 1747, le médecin James Lind fait une expérience sur des marins malades. Il les répartit en groupes et donne à chaque groupe un traitement différent. Ceux qui mangent des agrumes guérissent vite. Les autres ne vont pas mieux. On considère cette expérience comme le premier essai clinique, c'est-à-dire une comparaison organisée de traitements.
-
-En 1795, la marine britannique donne chaque jour aux marins une petite ration de jus d'agrumes, environ 21 millilitres. En deux ans, le scorbut disparaît de ses navires.
-
-## Ce que l'on sait aujourd'hui
-
-L'être humain a perdu les gènes qui permettent de fabriquer la vitamine C. C'est aussi le cas des grands singes, du cochon d'Inde et de certaines chauves-souris. Nous devons donc la trouver dans notre alimentation. En 1937, Albert Szent-Györgyi a reçu le prix Nobel, en partie pour la découverte de la vitamine C.
-
-Pour 100 grammes, le poivron rouge en contient environ 128 milligrammes, le kiwi 90 et l'orange 53. La cuisson peut faire perdre environ 60 % de la vitamine C des légumes.
-
-Et le rhume ? Prendre de la vitamine C tous les jours n'empêche pas de l'attraper. Cela réduit seulement sa durée d'environ 8 % chez les adultes et 14 % chez les enfants.
-
-## À retenir
-
-- Un manque total de vitamine C pendant 1 à 3 mois provoque le scorbut.
-- Le scorbut fait saigner les gencives, tomber les dents et empêche les plaies de guérir.
-- En 1747, James Lind a montré que les agrumes guérissent le scorbut.
-- La vitamine C sert à fabriquer le collagène, qui rend les tissus solides.
-- L'être humain ne sait pas fabriquer la vitamine C et doit la trouver dans son alimentation.
-
----
-type: article
 title: Les vitamines du groupe B et l'energie cellulaire
 slug: les-vitamines-du-groupe-b-et-l-energie-cellulaire
 categoryPath: alimentation-et-nutrition/nutriments/micronutriments
@@ -12447,6 +13768,12 @@ sources:
   - title: "Vitamine A"
     url: "https://fr.wikipedia.org/wiki/Vitamine_A"
     publisher: "Wikipédia"
+  - title: "Vitamine A et caroténoïdes provitaminiques"
+    url: "https://www.anses.fr/fr/content/vitamine-carotenoides-provitaminiques"
+    publisher: "ANSES"
+  - title: "Vitamine A ou rétinol"
+    url: "https://www.larousse.fr/encyclopedie/medical/vitamine_A/16966"
+    publisher: "Larousse"
 quiz:
   - question: "Quel était le vrai secret des pilotes britanniques la nuit ?"
     options:
@@ -12515,6 +13842,19 @@ La vitamine A elle-même se trouve dans le foie, le beurre et les œufs. Le bêt
 Trop de vitamine A peut être toxique. Le foie d'ours polaire, par exemple, en contient tellement qu'il est dangereux pour l'être humain.
 
 Les carottes n'ont pas toujours été orange. Au Xe siècle, elles étaient violettes. Les carottes orange ont été développées aux Pays-Bas, aux XVIe et XVIIe siècles.
+
+```schema
+type: comparaison
+titre: Les carottes et la vision
+colonnes:
+  - titre: Le mythe
+    points:
+      - Une propagande britannique de la Seconde Guerre mondiale
+  - titre: La réalité
+    points:
+      - La vitamine A est utile à la vision
+      - Sa carence donne la cécité nocturne
+```
 
 ## À retenir
 
@@ -14071,18 +15411,165 @@ status: planned
 
 ---
 type: article
-title: La securite alimentaire des conserves maison
+title: La sécurité alimentaire des conserves maison
 slug: la-securite-alimentaire-des-conserves-maison
 categoryPath: alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire
 summary: >
-  Des regles precises a respecter pour eviter tout risque de contamination.
-tags: [securite-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Mettre ses récoltes en bocaux permet de les garder des années, mais une conserve mal stérilisée
+  peut contenir la toxine du botulisme, l'une des plus dangereuses qui soient. Acidité, température,
+  durée et hygiène sont les quatre règles à respecter.
+tags: [securite-alimentaire]
+relatedArticles: [la-conservation-par-le-sel-salaisons-et-saumures, la-conservation-des-legumes-par-lactofermentation, la-conservation-des-aliments-par-sechage-solaire, kit-urgence-72-heures]
+sources:
+  - title: "Conserve"
+    url: "https://fr.wikipedia.org/wiki/Conserve"
+    publisher: "Wikipédia"
+  - title: "Botulisme"
+    url: "https://fr.wikipedia.org/wiki/Botulisme"
+    publisher: "Wikipédia"
+  - title: "Home canning"
+    url: "https://en.wikipedia.org/wiki/Home_canning"
+    publisher: "Wikipedia"
+  - title: "Nicolas Appert"
+    url: "https://fr.wikipedia.org/wiki/Nicolas_Appert"
+    publisher: "Wikipédia"
+  - title: "Le botulisme : de quoi s'agit-il et comment s'en prémunir ?"
+    url: "https://www.anses.fr/fr/content/le-botulisme-comment-se-premunir"
+    publisher: "ANSES"
+  - title: "Conserves maison : comment éviter le botulisme ?"
+    url: "https://www.sante.fr/conserves-maison-comment-eviter-le-botulisme"
+    publisher: "Service public d'information en santé"
+    date: "2025"
+quiz:
+  - question: "Pourquoi les légumes peu acides et la viande sont-ils les conserves les plus risquées ?"
+    options:
+      - "Parce que les spores du botulisme y survivent à 100 °C et peuvent produire leur toxine sans air"
+      - "Parce qu'ils sont trop sucrés"
+      - "Parce qu'ils rouillent les couvercles"
+    answer: 1
+    explanation: >
+      Pour détruire ces spores, il faut une température supérieure à 100 °C, obtenue sous pression
+      dans un autoclave.
+  - question: "Que faire d'un bocal dont le couvercle est bombé ?"
+    options:
+      - "Le goûter pour vérifier"
+      - "Le jeter sans l'ouvrir ni le goûter"
+      - "Le faire bouillir et le consommer"
+    answer: 2
+    explanation: >
+      Un couvercle bombé indique souvent un développement de microbes. Même une très petite quantité
+      de toxine botulique peut être dangereuse.
+  - question: "Qui a inventé la conservation des aliments en récipient fermé chauffé ?"
+    options:
+      - "Louis Pasteur"
+      - "Isaac Newton"
+      - "Le confiseur français Nicolas Appert, au début du XIXe siècle"
+    answer: 3
+    explanation: >
+      Il publie sa méthode en 1810, sans savoir pourquoi elle marche. Pasteur l'expliquera plus tard
+      par la destruction des microbes.
+  - question: "Pourquoi les aliments acides se stérilisent-ils au bain-marie à 100 °C alors que les peu acides non ?"
+    options:
+      - "Parce que les aliments acides contiennent moins d'eau"
+      - "Parce que le bain-marie détruit les spores dans tous les cas"
+      - "Parce que l'acidité empêche la bactérie du botulisme de se développer"
+    answer: 3
+    explanation: "L'acidité empêche Clostridium botulinum de se développer. Pour les aliments peu acides, il faut dépasser 100 °C, en autoclave, car les spores supportent l'ébullition."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une conserve est un aliment placé dans un récipient **hermétique**, puis **chauffé** pour détruire les
+microbes. Bien faite, elle se garde des mois, voire des années, sans réfrigérateur. Mal faite, elle peut
+permettre le développement de *Clostridium botulinum*, une bactérie qui produit la **toxine botulique**,
+l'une des plus puissantes connues. Le botulisme est rare, mais grave : paralysie progressive, parfois
+mortelle. Quatre facteurs déterminent la sécurité : l'**acidité** de l'aliment, la **température**, la
+**durée** du traitement et l'**hygiène**.
+
+## Une invention française
+
+Au début du XIXe siècle, le confiseur **Nicolas Appert** découvre qu'un aliment enfermé dans un bocal
+bouché puis chauffé au bain-marie se conserve longtemps. Il publie sa méthode en 1810. On parle depuis
+d'**appertisation**. Pasteur expliquera plus tard pourquoi elle fonctionne : la chaleur tue les microbes,
+et la fermeture empêche d'autres d'entrer.
+
+## Le danger du botulisme
+
+La bactérie du botulisme vit dans le sol. Elle forme des **spores**, des formes de résistance qui
+supportent l'ébullition. Dans un bocal **sans air**, **peu acide** et à température ambiante, ces spores
+peuvent germer et produire la toxine, souvent sans odeur ni goût suspect.
+
+- **Les aliments acides**, fruits, confitures, tomates acidifiées, cornichons au vinaigre : l'acidité
+  empêche la bactérie de se développer. Une stérilisation au **bain-marie à 100 °C** suffit.
+- **Les aliments peu acides**, légumes verts, haricots, champignons, viande, poisson, soupes : ce sont
+  les plus risqués. Les organismes de référence en sécurité sanitaire recommandent de les stériliser
+  **au-dessus de 100 °C**, entre 115 et 121 °C, ce qui demande un **autoclave**, un stérilisateur sous
+  pression, ou de suivre des recettes et barèmes validés.
+
+```schema
+titre: Quelle stérilisation selon l'aliment
+legende: >-
+  Comparaison de principes ; seul un procédé validé pour l’aliment, le bocal et l’équipement précise
+  un traitement sûr.
+type: comparaison
+colonnes:
+  - titre: Aliments acides
+    points:
+      - Fruits, confitures, tomates acidifiées, cornichons au vinaigre
+      - Bain-marie selon un procédé validé.
+  - titre: Aliments peu acides
+    points:
+      - Légumes verts, champignons, viandes, poissons.
+      - Stérilisation sous pression avec équipement et procédé validés.
+```
+
+## Les règles de base
+
+1. **Suivre une recette éprouvée**, avec temps et température précis selon l'aliment et la taille du
+   bocal. Ne pas improviser.
+2. **Des bocaux sans fêlure**, propres, avec des **joints ou couvercles neufs**.
+3. **Des aliments frais et sains**, lavés, sans parties abîmées.
+4. **Ne pas trop remplir** : laisser l'espace indiqué sous le couvercle.
+5. **Respecter le temps de stérilisation**, compté à partir du moment où l'eau bout ou où l'autoclave
+   atteint sa pression.
+6. **Vérifier la fermeture** après refroidissement : le couvercle doit être aspiré et ne pas bouger.
+7. **Étiqueter** avec le contenu et la date, et stocker au frais, au sec, à l'abri de la lumière.
+
+## Les signaux d'alerte
+
+On **jette sans goûter** tout bocal qui présente :
+
+- un **couvercle bombé** ou un joint décollé ;
+- une **fuite**, de la mousse, des bulles qui remontent ;
+- un liquide trouble ou une odeur anormale ;
+- un jet de liquide à l'ouverture.
+
+On ne goûte jamais pour vérifier. En cas de doute sur une conserve de légumes peu acides, une ébullition
+d'une dizaine de minutes avant consommation détruit la toxine, mais pas les autres risques : la règle
+reste de jeter.
+
+## Les symptômes du botulisme
+
+Ils apparaissent quelques heures à quelques jours après le repas : vision double ou floue, paupières
+qui tombent, difficultés à avaler et à parler, bouche sèche, puis faiblesse musculaire qui descend vers
+les bras et peut atteindre la respiration. C'est une **urgence** : on appelle le 15, en gardant le bocal
+suspect pour analyse.
+
+## Les autres méthodes
+
+Les confitures très sucrées, les conserves au vinaigre, la lactofermentation, le salage et le séchage
+reposent sur d'autres principes : le sucre, l'acidité, le sel ou l'absence d'eau empêchent les microbes de
+se développer.
+
+## À retenir
+
+- Une conserve est un aliment chauffé dans un récipient hermétique, selon la méthode de Nicolas Appert.
+- Les spores du botulisme résistent à l'ébullition et se développent sans air dans les aliments peu acides.
+- Fruits et aliments acides se stérilisent au bain-marie à 100 °C ; légumes peu acides et viandes demandent plus de 100 °C, en autoclave ou selon des barèmes validés.
+- Un couvercle bombé, une fuite ou une odeur anormale imposent de jeter le bocal sans goûter.
+- Vision double, paupières tombantes et difficulté à avaler après un repas imposent d'appeler le 15.
 
 ---
 type: article
@@ -14184,6 +15671,17 @@ Au réfrigérateur, on range les aliments crus à l'écart des aliments prêts �
 En France, environ un tiers des toxi-infections alimentaires déclarées chaque année surviennent à la maison. Une toxi-infection alimentaire est une maladie causée par un aliment contaminé par des microbes.
 
 Dans le monde, l'Organisation mondiale de la santé estime que près d'une personne sur neuf tombe malade chaque année après avoir mangé des aliments contaminés. Les enfants de moins de 5 ans sont particulièrement touchés. Parmi les règles de base de l'OMS pour des aliments plus sûrs, on trouve celle-ci : séparer le cru du cuit.
+
+```schema
+type: etapes
+titre: La contamination croisée
+elements:
+  - titre: Poulet cru
+  - titre: Planche, couteau, mains
+    texte: Les microbes y passent.
+  - titre: Salade
+    texte: Mangée crue, sans cuisson qui protège.
+```
 
 ## À retenir
 
@@ -14585,6 +16083,9 @@ sources:
   - title: "Surgélation"
     url: "https://fr.wikipedia.org/wiki/Surg%C3%A9lation"
     publisher: "Wikipédia"
+  - title: "Document IIF 34952"
+    url: "https://iifiir.org/fr/fridoc/34952"
+    publisher: "Institut international du froid (IIF)"
 quiz:
   - question: "Que forme l'eau d'un aliment quand il gèle ?"
     options:
@@ -14652,6 +16153,21 @@ L'Américain Clarence Birdseye a fait connaître la congélation rapide au publi
 La congélation conserve les aliments parce que l'eau, devenue glace, n'est plus disponible pour les microbes. La plupart des bactéries ne peuvent plus se multiplier. En dessous de -9,5 °C, les micro-organismes ne se développent plus.
 
 Mais le froid ne tue pas les microbes aussi bien que la chaleur. Beaucoup de microbes dangereux survivent au froid, alors qu'une cuisson à forte température en détruit bien davantage. La congélation conserve donc les aliments, mais elle ne les rend pas plus sûrs qu'avant.
+
+```schema
+type: comparaison
+titre: Congélation lente ou rapide
+colonnes:
+  - titre: Lente
+    points:
+      - Gros cristaux de glace
+      - Ils percent les cellules
+  - titre: Rapide
+    icone: snowflake
+    points:
+      - Petits cristaux
+      - Texture préservée
+```
 
 ## À retenir
 
@@ -14727,14 +16243,145 @@ title: La conservation par le sel, salaisons et saumures
 slug: la-conservation-par-le-sel-salaisons-et-saumures
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
 summary: >
-  Une des plus anciennes methodes de conservation, encore largement utilisee.
-tags: [conservation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le sel attire l'eau hors des aliments et prive les microbes de ce dont ils ont besoin pour se
+  multiplier. Viande, poisson et légumes se conservent ainsi des mois sans froid, à condition de
+  respecter les doses, la température et l'hygiène.
+tags: [conservation]
+relatedArticles: [la-securite-alimentaire-des-plantes-sauvages-comestibles, kit-urgence-72-heures]
+sources:
+  - title: "Salaison"
+    url: "https://fr.wikipedia.org/wiki/Salaison"
+    publisher: "Wikipédia"
+  - title: "Salting (food)"
+    url: "https://en.wikipedia.org/wiki/Salting_(food)"
+    publisher: "Wikipedia"
+  - title: "Water activity"
+    url: "https://en.wikipedia.org/wiki/Water_activity"
+    publisher: "Wikipedia"
+  - title: "Botulisme"
+    url: "https://fr.wikipedia.org/wiki/Botulisme"
+    publisher: "Wikipédia"
+  - title: "Salaison (glossaire)"
+    url: "https://www.techniques-ingenieur.fr/glossaire/salaison"
+    publisher: "Techniques de l'Ingénieur"
+  - title: "Préparation de conserves maison"
+    url: "https://www.quebec.ca/sante/alimentation/salubrite-aliments-prevention-risques/salubrite-aliments-domicile/preparation-aliments-cuisson-securitaires/conserves-maison"
+    publisher: "Gouvernement du Québec"
+quiz:
+  - question: "Comment le sel empêche-t-il les microbes de se développer ?"
+    options:
+      - "En retirant l'eau des aliments et en la rendant indisponible pour les microbes"
+      - "En chauffant l'aliment"
+      - "En le rendant plus lourd"
+    answer: 1
+    explanation: >
+      Par osmose, le sel attire l'eau hors des cellules. La plupart des bactéries ne peuvent plus
+      se multiplier dans un milieu aussi salé et sec.
+  - question: "Qu'est-ce qu'une saumure ?"
+    options:
+      - "Un poisson séché"
+      - "Une eau fortement salée dans laquelle on plonge les aliments"
+      - "Un type de fromage"
+    answer: 2
+    explanation: >
+      On l'utilise pour les olives, les cornichons, le hareng ou certaines viandes.
+  - question: "Pourquoi faut-il dessaler un aliment conservé au sel avant de le cuisiner ?"
+    options:
+      - "Pour qu'il cuise plus vite"
+      - "Pour le conserver plus longtemps"
+      - "Parce qu'il contient trop de sel pour être mangé tel quel"
+    answer: 3
+    explanation: >
+      La morue salée, par exemple, trempe 24 à 48 heures dans plusieurs eaux successives avant
+      d'être cuisinée.
+  - question: "Pourquoi doit-on saler la viande dans un endroit frais ?"
+    options:
+      - "Sinon les bactéries se développent à l'intérieur avant que le sel y pénètre"
+      - "Pour que le sel fonde plus lentement"
+      - "Pour éviter qu'elle ne soit trop salée"
+    answer: 1
+    explanation: "Le sel met du temps à atteindre le cœur de la viande : au chaud, les bactéries s'y développent avant d'être stoppées."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant le réfrigérateur, le **sel** était l'un des principaux moyens de garder la viande, le poisson et
+les légumes pendant des mois. Il agit en **retirant l'eau** des aliments : les bactéries et les
+moisissures, privées de l'eau dont elles ont besoin, ne peuvent plus se multiplier. Jambon sec, morue
+salée, hareng, choucroute, olives : toutes ces préparations reposent sur ce principe. Bien conduite,
+la salaison permet de conserver des aliments sans froid ; mal conduite, elle expose à de graves
+intoxications.
+
+## Comment agit le sel
+
+Le sel attire l'eau : c'est l'**osmose**. Posé sur une viande, il fait sortir l'eau de ses cellules et
+pénètre peu à peu à l'intérieur. L'eau qui reste est liée au sel et n'est plus disponible pour les
+microbes. Les scientifiques mesurent cette disponibilité par l'**activité de l'eau** : quand elle
+descend assez bas, la plupart des bactéries dangereuses cessent de se développer.
+
+Le sel ralentit aussi les réactions qui font rancir et pourrir les aliments, et il favorise, dans les
+légumes, des bactéries lactiques utiles qui acidifient le milieu.
+
+## Deux grandes méthodes
+
+**Le salage à sec** : on frotte l'aliment de sel, on le recouvre de sel, puis on le laisse dégorger.
+C'est la méthode du jambon cru, de la morue, du lard. Le jambon est ensuite séché et affiné pendant des
+mois dans un endroit frais et ventilé.
+
+**La saumure** : on plonge l'aliment dans une eau très salée. On l'utilise pour les olives, les
+cornichons, le hareng, certaines viandes et fromages. Une saumure faiblement salée sert aussi à la
+**lactofermentation** des légumes, comme la choucroute.
+
+```schema
+type: comparaison
+titre: Deux méthodes de salaison
+colonnes:
+  - titre: Salage à sec
+    points:
+      - L'aliment est frotté et couvert de sel
+      - Jambon cru, morue, lard
+      - Séchage et affinage ensuite
+  - titre: Saumure
+    points:
+      - L'aliment est plongé dans une eau très salée
+      - Olives, cornichons, hareng
+      - Faiblement salée, elle sert à la lactofermentation
+```
+
+## Les règles de sécurité
+
+- **Le froid au départ** : la viande doit être fraîche et salée dans un endroit frais, idéalement sous
+  une dizaine de degrés, pendant que le sel pénètre jusqu'au cœur. Sinon, les bactéries se développent
+  à l'intérieur avant d'être stoppées.
+- **La bonne dose** : trop peu de sel ne protège pas. Les recettes éprouvées indiquent des proportions
+  précises, qu'il faut respecter.
+- **L'hygiène** : mains, ustensiles, récipients et sel propres.
+- **Le botulisme** : la bactérie *Clostridium botulinum* se développe sans air, dans les aliments peu
+  acides mal conservés, et produit une toxine mortelle. Les charcutiers ajoutent pour cette raison du
+  nitrite ou du nitrate à certaines salaisons, à des doses réglementées. Un bocal bombé, une odeur
+  anormale ou une saumure trouble et mousseuse non prévue imposent de jeter l'aliment sans le goûter.
+
+## Dessaler et consommer
+
+Les aliments très salés doivent souvent être **dessalés** avant cuisson. La morue salée trempe 24 à
+48 heures dans de l'eau froide renouvelée plusieurs fois. Le sel en excès est mauvais pour la santé
+cardiovasculaire : ces aliments se consomment avec modération.
+
+## Le sel, un trésor historique
+
+Le sel a longtemps été une ressource stratégique. Les Romains payaient parfois leurs soldats en partie
+en sel, d'où viendrait le mot « salaire », selon une étymologie discutée. En France, l'impôt sur le sel,
+la **gabelle**, a été l'un des impôts les plus détestés de l'Ancien Régime.
+
+## À retenir
+
+- Le sel retire l'eau des aliments par osmose et empêche les microbes de se multiplier.
+- On sale à sec, comme pour le jambon et la morue, ou en saumure, comme pour les olives et les légumes.
+- La viande doit être fraîche, salée au frais et selon des doses éprouvées.
+- Le botulisme, mortel, impose de jeter tout aliment au bocal bombé ou à l'odeur anormale.
+- Les aliments très salés se dessalent avant cuisson et se consomment avec modération.
 
 ---
 type: article
@@ -14933,18 +16580,153 @@ status: planned
 
 ---
 type: article
-title: Le stockage en cave des legumes racines
+title: Le stockage en cave des légumes racines
 slug: le-stockage-en-cave-des-legumes-racines
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
 summary: >
-  Une methode ancienne qui exploite naturellement fraicheur et humidite constante.
-tags: [conservation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Pommes de terre, carottes, betteraves ou navets se gardent des mois sans réfrigérateur dans une cave
+  fraîche, humide, sombre et aérée, ou dans un silo de terre au jardin. Il suffit de respecter leurs
+  besoins et de les surveiller.
+tags: [conservation]
+relatedArticles: [plantes-nourrissantes, la-conservation-des-legumes-par-lactofermentation, la-conservation-des-aliments-par-sechage-solaire, produire-conserver-semences]
+sources:
+  - title: "Root cellar"
+    url: "https://en.wikipedia.org/wiki/Root_cellar"
+    publisher: "Wikipedia"
+  - title: "Silo (agriculture)"
+    url: "https://fr.wikipedia.org/wiki/Silo_(agriculture)"
+    publisher: "Wikipédia"
+  - title: "Solanine"
+    url: "https://fr.wikipedia.org/wiki/Solanine"
+    publisher: "Wikipédia"
+  - title: "Éthylène"
+    url: "https://fr.wikipedia.org/wiki/%C3%89thyl%C3%A8ne"
+    publisher: "Wikipédia"
+  - title: "Fiche technique : conservation des légumes"
+    url: "https://www.agrobio-bretagne.org/wp-content/uploads/2019/07/FICHE_TK_CONSERVATION_LÉGUMES_WEB.pdf"
+    publisher: "Agrobio Bretagne"
+  - title: "La conservation des légumes après récolte (dossier)"
+    url: "https://www.grab.fr/wp-content/uploads/2010/09/REF-BIO-OCT-nov-2010-dossier-conservation.pdf"
+    publisher: "GRAB"
+    date: "2010"
+quiz:
+  - question: "Pourquoi garder les pommes de terre dans l'obscurité ?"
+    options:
+      - "Parce qu'à la lumière elles verdissent et produisent de la solanine, une substance toxique"
+      - "Parce qu'elles gèlent à la lumière"
+      - "Pour qu'elles grossissent"
+    answer: 1
+    explanation: >
+      Les parties vertes et les germes contiennent de la solanine. On les retire largement avant de
+      cuisiner.
+  - question: "Pourquoi ne pas stocker les pommes à côté des pommes de terre et des carottes ?"
+    options:
+      - "Parce qu'elles prennent trop de place"
+      - "Parce qu'elles dégagent de l'éthylène, un gaz qui accélère le mûrissement et la germination des autres"
+      - "Parce qu'elles attirent les souris"
+    answer: 2
+    explanation: >
+      L'éthylène fait germer les pommes de terre et donne un goût amer aux carottes.
+  - question: "Quelle humidité préfèrent la plupart des légumes racines ?"
+    options:
+      - "Un air très sec"
+      - "Aucune importance"
+      - "Un air très humide, autour de 90 %"
+    answer: 3
+    explanation: >
+      Dans un air sec, les racines perdent leur eau et se rident. On les enfouit souvent dans du sable
+      légèrement humide.
+  - question: "Pourquoi une cave convient-elle à la conservation des légumes racines ?"
+    options:
+      - "Parce que les légumes y cessent de vivre"
+      - "Parce que le froid ralentit leur respiration et celle des microbes de pourriture"
+      - "Parce que l'air y est très sec"
+    answer: 2
+    explanation: "Un légume récolté reste vivant : à basse température, sa respiration ralentit fortement, comme celle des microbes qui le font pourrir."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant le réfrigérateur, les familles gardaient leurs récoltes d'automne jusqu'au printemps dans une
+**cave**, un **cellier** ou un **silo** creusé dans le jardin. Pommes de terre, carottes, betteraves,
+navets, céleris et choux se conservent ainsi des mois, à condition de leur offrir quatre conditions :
+le **froid** sans gel, une forte **humidité**, l'**obscurité** et une bonne **aération**. Il suffit
+ensuite de les trier régulièrement. Une bonne cave nourrit une famille tout l'hiver sans électricité.
+
+## Pourquoi la cave marche
+
+Un légume racine récolté reste **vivant** : il respire, consomme ses réserves et perd de l'eau. À basse
+température, cette respiration ralentit fortement, comme les microbes qui le font pourrir. Sous terre,
+la température varie peu et l'humidité reste élevée. Une cave enterrée offre souvent naturellement
+**0 à 10 °C** en hiver.
+
+## Les conditions idéales
+
+- **Le froid** : pour la plupart des racines, entre **0 et 5 °C**, sans jamais geler. Les pommes de terre
+  préfèrent un peu plus, autour de **4 à 8 °C** : plus froides, elles deviennent sucrées.
+- **L'humidité** : un air très humide, autour de **85 à 95 %**, pour que les racines ne se dessèchent
+  pas. On peut les enfouir dans du **sable** légèrement humide.
+- **L'obscurité** : à la lumière, les pommes de terre **verdissent** et produisent de la **solanine**, une
+  substance toxique. On coupe largement les parties vertes et les germes avant de cuisiner.
+- **L'aération** : une ouverture en bas et une en haut renouvellent l'air et évacuent l'humidité excessive
+  et les gaz.
+
+```schema
+type: chiffres
+titre: Les conditions d'une bonne cave
+chiffres:
+  - valeur: 0 à 5 °C
+    texte: pour la plupart des racines, sans gel
+  - valeur: 4 à 8 °C
+    texte: pour les pommes de terre
+  - valeur: 85 à 95 %
+    texte: d'humidité de l'air
+  - valeur: Obscurité
+    texte: et une aération haute et basse
+```
+
+## Préparer la récolte
+
+1. **Récolter par temps sec**, à maturité, sans blesser les légumes.
+2. Laisser **ressuyer** quelques heures à l'air, à l'ombre, pour sécher la terre. Les pommes de terre
+   gagnent à « cicatriser » une ou deux semaines au frais et à l'obscurité.
+3. **Ne pas laver** : la terre protège.
+4. Couper les fanes des carottes et des betteraves à un ou deux centimètres du collet.
+5. **Trier** : seuls les légumes sains et intacts se gardent ; les abîmés se mangent tout de suite.
+
+## Ranger
+
+- **Pommes de terre** : en cagettes ou clayettes, en couches peu épaisses, à l'obscurité.
+- **Carottes, betteraves, navets, céleris, panais** : couchés dans des caisses de **sable** légèrement
+  humide, sans qu'ils se touchent.
+- **Choux** : suspendus par le pied ou posés sur des clayettes.
+- **Oignons, ail et courges** font exception : ils préfèrent un endroit **sec** et un peu plus tempéré,
+  comme un grenier sain ou une pièce fraîche.
+- **Les fruits**, en particulier les pommes, se rangent à part : ils dégagent de l'**éthylène**, un gaz
+  qui fait germer les pommes de terre et rend les carottes amères.
+
+## Le silo de jardin
+
+Sans cave, on peut creuser au jardin un **silo** : une fosse peu profonde garnie de paille, où l'on dispose
+les racines, recouvertes de paille puis de terre, avec une petite cheminée de paille pour l'aération. On
+prélève par un côté au fil de l'hiver. Une version plus simple consiste à laisser certains légumes en
+terre, comme les panais ou les poireaux, sous une bonne couche de paille.
+
+## Surveiller
+
+On visite la cave toutes les une à deux semaines : on retire immédiatement tout légume qui pourrit, car la
+pourriture se propage. On contrôle la température, surtout lors des fortes gelées, et l'on protège contre
+les rongeurs.
+
+## À retenir
+
+- Les légumes racines se gardent des mois au froid sans gel, dans un air humide, sombre et aéré.
+- La plupart préfèrent 0 à 5 °C ; les pommes de terre, 4 à 8 °C.
+- À la lumière, les pommes de terre verdissent et produisent de la solanine toxique.
+- Carottes et betteraves se conservent couchées dans du sable légèrement humide.
+- On sépare les pommes des légumes et l'on retire régulièrement tout légume qui pourrit.
 
 ---
 type: article
@@ -15040,6 +16822,9 @@ sources:
   - title: "Glucose oxidase"
     url: "https://en.wikipedia.org/wiki/Glucose_oxidase"
     publisher: "Wikipedia"
+  - title: "Haltbarkeit Honig (version française)"
+    url: "https://www.agroscope.admin.ch/dam/agroscope/fr/dokumente/themen/nutztiere/bienen/haltbarkeit-honig.pdf.download.pdf/MindesthaltbarkeitHonig_f.pdf"
+    publisher: "Agroscope"
 quiz:
   - question: "Quelle part d'eau contient un miel fini ?"
     options:
@@ -15101,6 +16886,16 @@ Le miel est acide : son pH moyen est de 3,9. Une enzyme apportée par les abeill
 Le miel attire l'humidité de l'air : il faut bien refermer le pot. S'il durcit et devient granuleux, il a cristallisé, mais il n'est pas abîmé. On ne donne pas de miel aux bébés de moins d'un an : il peut contenir des spores de la bactérie du botulisme.
 
 On raconte souvent qu'on a mangé du miel retrouvé dans des tombes égyptiennes. C'est une légende : aucun miel mangeable n'y a été découvert, seulement des traces chimiques.
+
+```schema
+titre: Le miel
+type: chiffres
+chiffres:
+  - valeur: 15,5 à 18 %
+    texte: d'eau seulement
+  - valeur: Peu d’eau disponible
+    texte: Freine de nombreux microbes sans garantir une absence de spores ou de fermentation.
+```
 
 ## À retenir
 
@@ -15247,6 +17042,12 @@ sources:
   - title: "Vinegar"
     url: "https://en.wikipedia.org/wiki/Vinegar"
     publisher: "Wikipedia"
+  - title: "Vinegar"
+    url: "https://www.britannica.com/EBchecked/topic/629450/vinegar"
+    publisher: "Encyclopaedia Britannica"
+  - title: "hal-02799324 (document INRAE)"
+    url: "https://hal.inrae.fr/hal-02799324/document"
+    publisher: "INRAE"
 quiz:
   - question: "D'où vient le mot « vinaigre » ?"
     options:
@@ -15317,6 +17118,19 @@ Au XIXe siècle, le savant français Louis Pasteur a montré que des bactéries 
 Selon le type, un vinaigre contient de 4 à 18 % d'acide acétique. En France, un vinaigre de vin doit en contenir au moins 6 grammes pour 100 millilitres.
 
 Les Babyloniens fabriquaient déjà du vinaigre il y a plusieurs milliers d'années. Ils s'en servaient pour assaisonner et conserver les aliments. Aujourd'hui, le vinaigre sert toujours en cuisine, dans les sauces et les marinades. Il sert aussi à préparer des conserves au vinaigre et à nettoyer le calcaire dans la maison.
+
+```schema
+titre: Du raisin au vinaigre
+legende: L’acétification par les bactéries acétiques nécessite de l’oxygène.
+type: etapes
+elements:
+  - titre: Sucre
+  - titre: Levures
+    texte: Le sucre devient alcool.
+  - titre: Acetobacter
+    texte: L'alcool devient acide acétique.
+  - titre: Vinaigre
+```
 
 ## À retenir
 
@@ -15493,6 +17307,14 @@ sources:
   - title: "Domestication de la levure pour faire du pain"
     url: "https://www.inrae.fr/actualites/domestication-levure-faire-du-pain"
     publisher: "INRAE"
+  - title: "Baking"
+    url: "https://www.britannica.com/topic/baking"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+  - title: "Alimentation et santé"
+    url: "https://www.inrae.fr/alimentation-sante-globale"
+    publisher: "INRAE"
+    date: "2025"
 quiz:
   - question: "Quel gaz rejeté par les levures fait gonfler la pâte ?"
     options:
@@ -15557,6 +17379,18 @@ La cuisson tue les levures et les bactéries. L'alcool s'évapore. Les bulles ch
 
 Le plus ancien pain au levain conservé en Europe a été retrouvé à Twann, en Suisse, dans un ancien village construit au bord d'un lac. Il date de 3560 à 3530 avant notre ère. Aujourd'hui, beaucoup de pains sont faits avec de la levure de boulanger, qui ne contient qu'une seule espèce de levure.
 
+```schema
+type: etapes
+titre: Le levain fait lever la pâte
+elements:
+  - titre: Farine et eau
+  - titre: Levures et bactéries
+  - titre: Gaz carbonique
+    texte: Il forme des bulles.
+  - titre: Cuisson
+    icone: fire
+```
+
 ## À retenir
 
 - Le levain est un mélange de farine et d'eau où vivent des levures sauvages et des bactéries lactiques.
@@ -15582,18 +17416,165 @@ status: planned
 
 ---
 type: article
-title: La conservation des legumes par lactofermentation
+title: La conservation des légumes par lactofermentation
 slug: la-conservation-des-legumes-par-lactofermentation
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
 summary: >
-  Une methode ancienne et fiable pour garder des legumes crus pendant des mois.
-tags: [fermentation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Du chou, du sel, un bocal et quelques semaines : des bactéries lactiques naturellement présentes
+  sur les légumes les acidifient et les conservent crus pendant des mois, sans chaleur ni électricité.
+  C'est le principe de la choucroute, du kimchi et des cornichons fermentés.
+tags: [fermentation]
+relatedArticles: [fermentation-biotechnologie-ancienne, la-conservation-par-le-sel-salaisons-et-saumures, la-securite-alimentaire-des-conserves-maison, le-stockage-en-cave-des-legumes-racines]
+sources:
+  - title: "Lactofermentation"
+    url: "https://fr.wikipedia.org/wiki/Lactofermentation"
+    publisher: "Wikipédia"
+  - title: "Choucroute"
+    url: "https://fr.wikipedia.org/wiki/Choucroute"
+    publisher: "Wikipédia"
+  - title: "Lactic acid fermentation"
+    url: "https://en.wikipedia.org/wiki/Lactic_acid_fermentation"
+    publisher: "Wikipedia"
+  - title: "Lactic acid bacteria"
+    url: "https://en.wikipedia.org/wiki/Lactic_acid_bacteria"
+    publisher: "Wikipedia"
+  - title: "202210 Les légumes lactofermentés"
+    url: "https://rd-pays-de-la-loire.chambres-agriculture.fr/fileadmin/user_upload/National/FAL_commun/publications/Pays_de_la_Loire/2022/202210_Les_legumes_lactofermentes.pdf"
+    publisher: "Chambre régionale d'agriculture des Pays de la Loire"
+    date: "2022"
+  - title: "cartel stlo légumes fermentés"
+    url: "https://stlo.rennes.hub.inrae.fr/Media/apprendre-comprendre/cartel-stlo-legumes-fermentes"
+    publisher: "INRAE"
+quiz:
+  - question: "Quelle quantité de sel utilise-t-on environ pour une choucroute ?"
+    options:
+      - "Environ 2 % du poids du chou"
+      - "La moitié du poids du chou"
+      - "Aucun sel"
+    answer: 1
+    explanation: >
+      Environ 20 grammes de sel par kilo de chou. Le sel fait sortir le jus du chou et freine les
+      microbes indésirables, sans gêner les bactéries lactiques.
+  - question: "Pourquoi les légumes doivent-ils rester sous le liquide ?"
+    options:
+      - "Pour qu'ils restent froids"
+      - "Parce que les bactéries lactiques travaillent sans air, alors que les moisissures ont besoin d'oxygène"
+      - "Pour qu'ils soient plus salés"
+    answer: 2
+    explanation: >
+      Un légume qui dépasse de la saumure est exposé à l'air et peut moisir. On le maintient immergé
+      avec un poids.
+  - question: "Que faut-il faire si une moisissure poilue et colorée apparaît dans le bocal ?"
+    options:
+      - "La mélanger au reste"
+      - "La faire cuire"
+      - "Jeter le bocal"
+    answer: 3
+    explanation: >
+      Un léger voile blanc et plat de levures est fréquent et peut être retiré. Une moisissure
+      duveteuse, colorée ou une odeur de pourri imposent de tout jeter.
+  - question: "Qu'est-ce qui protège les légumes dans une lactofermentation réussie ?"
+    options:
+      - "La chaleur de la fermentation"
+      - "L'eau de Javel de la saumure"
+      - "L'acide lactique produit par les bactéries lactiques"
+    answer: 3
+    explanation: "Les bactéries lactiques transforment les sucres en acide lactique : le milieu devient trop acide pour la plupart des microbes dangereux."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La **lactofermentation** conserve les légumes crus grâce à des **bactéries lactiques**, naturellement
+présentes à leur surface. Privées d'air et favorisées par un peu de **sel**, elles transforment les
+sucres des légumes en **acide lactique**. Le milieu devient acide, et la plupart des microbes
+responsables de la pourriture ou des intoxications ne peuvent plus s'y développer. On obtient la
+**choucroute** alsacienne, le **kimchi** coréen, les cornichons et les légumes fermentés d'Europe de
+l'Est. La méthode ne demande ni chaleur, ni électricité, ni ingrédient rare.
+
+## Comment ça marche
+
+1. **Le sel** fait sortir le jus des légumes et freine les microbes indésirables, tandis que les
+   bactéries lactiques le supportent bien.
+2. **L'absence d'air** : les légumes sont tassés sous leur jus ou sous une saumure. Les bactéries
+   lactiques travaillent sans oxygène, les moisissures non.
+3. **L'acidification** : en quelques jours, les bactéries lactiques produisent de l'acide lactique, et le
+   milieu devient trop acide pour la plupart des microbes dangereux.
+
+Bien conduite, la lactofermentation a un excellent bilan de sécurité. Les légumes gardent une grande
+partie de leur vitamine C : la choucroute embarquée sur les navires de James Cook l'aidait à lutter
+contre le scorbut.
+
+## Deux méthodes
+
+**Au sel sec**, pour les légumes râpés ou émincés, comme le chou ou les carottes :
+
+- environ **2 % de sel** du poids des légumes, soit 20 g de sel par kilo ;
+- on mélange et l'on malaxe ou l'on tasse fort jusqu'à ce que le jus sorte ;
+- on tasse dans un bocal ou un pot en grès, jusqu'à ce que le jus recouvre les légumes.
+
+**En saumure**, pour les légumes entiers ou en morceaux, comme les cornichons, les haricots, les
+radis :
+
+- une saumure d'environ **30 g de sel par litre d'eau**, avec une eau non chlorée ;
+- on remplit le bocal de légumes et d'aromates, puis on couvre de saumure.
+
+Dans les deux cas, on maintient les légumes **sous le liquide** avec un poids : une feuille de chou, un
+petit bocal rempli d'eau, une pierre propre.
+
+```schema
+titre: La transformation par lactofermentation
+legende: >-
+  Mécanisme général, pas une recette : salage, acidification et conservation doivent suivre un
+  procédé fiable.
+type: etapes
+elements:
+  - titre: Préparer
+    texte: Légumes et saumure selon un procédé adapté.
+  - titre: Fermenter
+    texte: L’activité des bactéries lactiques produit des acides.
+  - titre: Acidifier
+    texte: L’acidité croissante freine certains microbes.
+  - titre: Conserver
+    texte: Les conditions dépendent du produit et du procédé.
+```
+
+## La fermentation, étape par étape
+
+- **Les premiers jours**, à température ambiante, idéalement entre 18 et 22 °C, la fermentation démarre :
+  des bulles apparaissent, le liquide se trouble, une odeur acidulée se développe.
+- **Après une à trois semaines**, selon le légume et la température, l'acidité est suffisante. On peut
+  goûter.
+- **Ensuite**, on place les bocaux **au frais**, à la cave ou au réfrigérateur : la fermentation ralentit
+  et les légumes se gardent des mois.
+
+Les bocaux à joint laissent s'échapper les gaz. Avec un couvercle vissé, on laisse un peu d'espace et
+l'on ouvre de temps en temps les premiers jours pour éviter la pression.
+
+## Reconnaître une fermentation réussie
+
+- **Normal** : bulles, liquide trouble, odeur acide et agréable, léger voile blanc et plat à la surface,
+  dû à des levures, que l'on peut retirer.
+- **À jeter** : moisissures **duveteuses**, bleues, vertes, noires ou roses, odeur de pourri, légumes
+  devenus visqueux et mous.
+
+## Les règles d'or
+
+- Ustensiles, bocaux et mains **propres**.
+- Légumes **frais**, lavés à l'eau sans être frottés à l'excès.
+- Bonne dose de **sel**, ni trop peu ni beaucoup trop.
+- Légumes toujours **sous le liquide**.
+- Ne pas confondre avec la conserve à l'eau non acidifiée : ici, c'est l'acidité produite par les
+  bactéries qui protège.
+
+## À retenir
+
+- La lactofermentation conserve les légumes crus grâce aux bactéries lactiques, qui produisent de l'acide.
+- On utilise environ 2 % de sel pour le chou, ou une saumure d'environ 30 g de sel par litre.
+- Les légumes doivent rester sous le liquide, à l'abri de l'air.
+- Après une à trois semaines à température ambiante, les bocaux se gardent des mois au frais.
+- Un voile blanc plat est normal ; une moisissure duveteuse colorée ou une odeur de pourri imposent de jeter.
 
 ---
 type: article
@@ -15720,6 +17701,12 @@ sources:
   - title: "Konzo"
     url: "https://en.wikipedia.org/wiki/Konzo"
     publisher: "Wikipedia"
+  - title: "POISON2or5POSTER Roots FRENCH"
+    url: "https://biology.anu.edu.au/files/POISON2or5POSTERRoots%20FRENCH.pdf"
+    publisher: "Australian National University"
+  - title: "43528 (pleins textes, colloque)"
+    url: "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_6/colloques1/43528.pdf"
+    publisher: "IRD"
 quiz:
   - question: "Quel poison le manioc mal préparé peut-il libérer ?"
     options:
@@ -15788,6 +17775,19 @@ Ces techniques donnent des aliments très connus : le gari, le foufou et l'atti�
 Un manioc mal préparé peut provoquer le konzo. Dans la langue yaka, parlée au Congo, ce mot signifie « jambes liées ». Cette maladie paralyse les jambes d'un coup, et pour toujours. Elle a été décrite pour la première fois en 1938, au Congo. Elle touche surtout des femmes et des enfants de régions rurales d'Afrique, quand la nourriture manque et qu'on mange peu de protéines.
 
 Une méthode simple aide à la prévenir. On mouille la farine de manioc, on la laisse sécher un peu pour que le gaz toxique s'échappe, puis on la cuit normalement.
+
+```schema
+titre: Réduire les composés cyanogènes du manioc
+legende: >-
+  Traitements à adapter à la variété et à un procédé sûr ; cet enchaînement n’est pas un protocole
+  garantissant l’innocuité.
+type: etapes
+elements:
+  - titre: Racine toxique crue
+  - titre: Tremper
+  - titre: Fermenter
+  - titre: Sécher ou cuire
+```
 
 ## À retenir
 
@@ -16252,6 +18252,9 @@ sources:
   - title: "Gristmill"
     url: "https://en.wikipedia.org/wiki/Gristmill"
     publisher: "Wikipedia"
+  - title: "Document INRAE (fichier 3898)"
+    url: "https://ciag.hub.inrae.fr/content/download/3898/36490?version=1"
+    publisher: "INRAE"
 quiz:
   - question: "Comment s'appelle l'enveloppe dure du grain de blé ?"
     options:
@@ -16319,6 +18322,19 @@ On retire souvent le germe, car il contient de l'huile. Avec le temps, cette hui
 En France, chaque farine porte un type, comme T45, T55 ou T150. Ce nombre indique la quantité de minéraux qu'elle contient. Pour le mesurer, on brûle la farine à plus de 600 °C. Il reste des cendres, qui sont les minéraux. Plus le nombre est grand, plus la farine contient de son, riche en minéraux.
 
 La T45, très blanche, sert à la pâtisserie. La T55 sert au pain blanc. La T65 est utilisée pour le pain de tradition française. La T150 est une farine intégrale, qui garde presque tout le grain.
+
+```schema
+type: systeme
+titre: Les trois parties d'un grain de blé
+centre: Grain de blé
+icone: wheat
+parties:
+  - nom: Son
+    role: L'enveloppe.
+  - nom: Germe
+  - nom: Amande
+    role: Seule utilisée pour la farine blanche.
+```
 
 ## À retenir
 
@@ -18895,18 +20911,156 @@ status: planned
 
 ---
 type: article
-title: La securite alimentaire des plantes sauvages comestibles
+title: Les plantes sauvages comestibles et leurs dangers
 slug: la-securite-alimentaire-des-plantes-sauvages-comestibles
 categoryPath: alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire
 summary: >
-  Des precautions essentielles avant toute cueillette destinee a la consommation.
-tags: [securite-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Orties, pissenlits, mûres ou châtaignes se mangent sans risque, à condition d'être identifiés
+  avec certitude. Car des plantes mortelles, comme la ciguë ou le colchique, ressemblent à des
+  plantes comestibles. La règle absolue : en cas de doute, on ne mange pas.
+tags: [securite-alimentaire]
+relatedArticles: [regle-des-trois-priorites-survie, purifier-eau-situation-urgence, la-conservation-par-le-sel-salaisons-et-saumures]
+sources:
+  - title: "Plante comestible"
+    url: "https://fr.wikipedia.org/wiki/Plante_comestible"
+    publisher: "Wikipédia"
+  - title: "Grande ciguë"
+    url: "https://fr.wikipedia.org/wiki/Grande_cigu%C3%AB"
+    publisher: "Wikipédia"
+  - title: "Colchique d'automne"
+    url: "https://fr.wikipedia.org/wiki/Colchique_d%27automne"
+    publisher: "Wikipédia"
+  - title: "Ail des ours"
+    url: "https://fr.wikipedia.org/wiki/Ail_des_ours"
+    publisher: "Wikipédia"
+  - title: "Confusion entre plantes toxiques et plantes comestibles"
+    url: "https://www.anses.fr/fr/content/confusion-entre-plantes-toxiques-et-plantes-comestibles"
+    publisher: "ANSES"
+quiz:
+  - question: "Quelle est la règle absolue pour la cueillette sauvage ?"
+    options:
+      - "Ne jamais manger une plante qu'on n'a pas identifiée avec certitude"
+      - "Goûter un petit morceau pour tester"
+      - "Manger ce que mangent les animaux"
+    answer: 1
+    explanation: >
+      Certaines plantes tuent à faible dose. Le goût ne protège pas, et les animaux supportent des
+      plantes toxiques pour nous.
+  - question: "Avec quelle plante mortelle peut-on confondre l'ail des ours ?"
+    options:
+      - "Avec l'ortie"
+      - "Avec le colchique ou le muguet, dont les feuilles se ressemblent"
+      - "Avec le pissenlit"
+    answer: 2
+    explanation: >
+      L'ail des ours sent fortement l'ail quand on froisse sa feuille. Mais l'odeur reste sur les
+      doigts, et l'on peut se tromper sur la feuille suivante.
+  - question: "Pourquoi faut-il se méfier particulièrement des plantes de la famille de la carotte ?"
+    options:
+      - "Parce qu'elles sont toutes amères"
+      - "Parce qu'elles piquent"
+      - "Parce qu'elle contient à la fois des plantes comestibles et certaines des plantes les plus toxiques, comme la ciguë"
+    answer: 3
+    explanation: >
+      Carotte sauvage, cerfeuil, ciguë et œnanthe se ressemblent beaucoup. Les débutants doivent
+      éviter toute cette famille.
+  - question: "Pourquoi les tests de comestibilité par le goût sont-ils dangereux ?"
+    options:
+      - "Certaines plantes très toxiques n'ont pas mauvais goût"
+      - "Ils prennent trop de temps"
+      - "Le goût ne change jamais d'une plante à l'autre"
+    answer: 1
+    explanation: "Le goût ne protège pas : certaines plantes très toxiques n'ont pas mauvais goût."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La nature offre de nombreuses plantes comestibles : orties, pissenlits, plantain, mûres, noisettes,
+châtaignes. Mais elle abrite aussi des plantes **mortelles** à petite dose, dont certaines ressemblent à
+s'y méprendre à des plantes comestibles. La cueillette sauvage repose sur une règle absolue :
+**on ne mange jamais une plante qu'on n'a pas identifiée avec certitude**. En situation de survie, une
+intoxication est bien plus dangereuse que la faim.
+
+## Les règles de base
+
+- **Identifier avec certitude**, plante entière : feuilles, tiges, fleurs, odeur, milieu. Un seul
+  critère ne suffit jamais.
+- **Apprendre auprès d'une personne compétente** et avec un bon guide, en commençant par quelques
+  plantes faciles.
+- **Ne pas se fier au goût** : certaines plantes très toxiques n'ont pas mauvais goût. Les « tests de
+  comestibilité » qui consistent à goûter progressivement une plante inconnue sont dangereux.
+- **Ne pas imiter les animaux** : oiseaux et rongeurs mangent des baies toxiques pour l'humain.
+- **Cueillir propre** : loin des routes, des champs traités, des zones où passent les chiens, et en
+  respectant les règles locales de protection des espèces.
+- **Laver et cuire** les plantes cueillies au ras du sol ou dans l'eau, pour éviter les parasites.
+
+## Des plantes faciles et sûres
+
+- **L'ortie** : très nutritive, on cueille les jeunes pousses avec des gants. Cuite ou ébouillantée,
+  elle ne pique plus.
+- **Le pissenlit** : feuilles en salade, fleurs, racines.
+- **Le plantain** : jeunes feuilles cuites.
+- **Les mûres**, **framboises** et **noisettes**.
+- **La châtaigne**, à ne pas confondre avec le **marron d'Inde**, toxique : la bogue de la châtaigne est
+  couverte de piquants fins et serrés, et contient souvent plusieurs fruits aplatis à pointe ; celle du
+  marron d'Inde porte quelques grosses épines et contient un fruit rond et lisse.
+- **Les glands**, comestibles après avoir été longuement trempés et rincés pour éliminer leurs tanins
+  amers.
+
+```schema
+titre: Les sosies dangereux
+legende: >-
+  Exemples de confusions possibles, pas une clé d’identification ; un nom, une odeur ou un seul
+  détail ne suffisent pas.
+type: comparaison
+colonnes:
+  - titre: Comestible
+    icone: leaf
+    points:
+      - Ail des ours, qui sent l'ail
+      - Châtaigne, bogue à piquants fins et serrés
+      - Carotte sauvage, réservée aux connaisseurs
+  - titre: Toxique, parfois mortel
+    points:
+      - Muguet et colchique
+      - Marron d'Inde, fruit rond et lisse
+      - Grande ciguë et œnanthe safranée
+```
+
+## Les sosies dangereux
+
+- **L'ail des ours** ressemble au **muguet** et au **colchique**, tous deux toxiques, voire mortels. Il
+  sent fortement l'ail quand on froisse sa feuille, mais l'odeur reste sur les doigts : on vérifie
+  chaque feuille.
+- **La famille de la carotte**, les ombellifères, mêle carotte sauvage, cerfeuil et persil à la
+  **grande ciguë** et à l'**œnanthe safranée**, parmi les plantes les plus toxiques d'Europe. Les
+  débutants doivent éviter toute cette famille.
+- **La belladone**, aux baies noires brillantes, peut être confondue avec des myrtilles par des
+  enfants.
+- **La digitale**, très toxique pour le cœur, ressemble avant floraison à la consoude.
+
+## Les champignons
+
+Les champignons demandent une prudence encore plus grande : l'**amanite phalloïde**, responsable de la
+plupart des décès, peut ressembler à des champignons comestibles. En France, on peut faire vérifier sa
+cueillette par un **pharmacien** ou une association mycologique. En situation de survie, mieux vaut
+s'en passer.
+
+## En cas d'intoxication
+
+Troubles digestifs, malaise, troubles de la vision, palpitations ou somnolence après avoir mangé une
+plante : on appelle immédiatement le **centre antipoison** ou le **15**, en gardant un échantillon de
+la plante. On ne fait pas vomir.
+
+## À retenir
+
+- On ne mange jamais une plante qu'on n'a pas identifiée avec certitude.
+- Le goût et le comportement des animaux ne protègent pas des plantes toxiques.
+- Orties, pissenlits, plantain, mûres et châtaignes sont faciles à reconnaître et sûrs.
+- L'ail des ours a des sosies mortels, et la famille de la carotte contient la ciguë.
+- En cas de symptômes, on appelle le centre antipoison ou le 15 avec un échantillon.
 
 ---
 type: article
@@ -20095,94 +22249,6 @@ status: planned
 
 ---
 type: article
-title: La réaction de Maillard, le secret du brunissement des aliments
-slug: la-reaction-de-maillard-le-secret-du-brunissement-des-aliments
-categoryPath: alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle
-summary: >
-  La réaction de Maillard unit des sucres et des acides aminés sous l'effet de la chaleur. Elle
-  donne aux aliments cuits leur couleur brune et leurs arômes.
-tags: [transformation-industrielle]
-sources:
-  - title: "Réaction de Maillard"
-    url: "https://fr.wikipedia.org/wiki/R%C3%A9action_de_Maillard"
-    publisher: "Wikipédia"
-  - title: "Maillard reaction"
-    url: "https://en.wikipedia.org/wiki/Maillard_reaction"
-    publisher: "Wikipedia"
-  - title: "Caramelization"
-    url: "https://en.wikipedia.org/wiki/Caramelization"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Quels ingrédients réagissent dans la réaction de Maillard ?"
-    options:
-      - "Des sucres réducteurs et des acides aminés"
-      - "Du sel et de l'eau"
-      - "Du vinaigre seul"
-    answer: 1
-    explanation: >
-      La réaction de Maillard est une réaction chimique entre des sucres réducteurs et des
-      composés qui portent un groupe amine, comme les acides aminés.
-  - question: "Que produit-elle dans un aliment cuit ?"
-    options:
-      - "Des pigments bruns et des arômes"
-      - "Du gel"
-      - "Du gaz hilarant"
-    answer: 1
-    explanation: >
-      Elle produit des composés bruns, les mélanoïdines, et de nombreux composés aromatiques,
-      qui donnent aux aliments cuits leur couleur et leur odeur.
-  - question: "Quelle différence avec la caramélisation ?"
-    options:
-      - "La caramélisation chauffe des sucres seuls, sans acides aminés"
-      - "Aucune"
-      - "Le caramel est une protéine"
-    answer: 1
-    explanation: >
-      La caramélisation est différente : elle chauffe des sucres seuls et ne fait pas intervenir
-      d'acides aminés.
-  - question: "Quel composé peut se former à haute température ?"
-    options:
-      - "L'acrylamide"
-      - "Le sel de table"
-      - "Le jus d'orange"
-    answer: 1
-    explanation: >
-      À haute température, la réaction peut former de l'acrylamide, un cancérogène probable ;
-      cuire à plus basse température permet d'en limiter la formation.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La réaction de Maillard unit des sucres et des acides aminés sous l'effet de la chaleur. Elle donne aux aliments cuits leur couleur brune et leurs arômes.
-
-## Une réaction de cuisine
-
-La réaction de Maillard est une réaction chimique entre des sucres réducteurs et des composés qui portent un groupe amine, comme les acides aminés. Elle produit des composés bruns, les mélanoïdines, et de nombreux composés aromatiques, qui donnent aux aliments cuits leur couleur et leur odeur.
-
-## Où la rencontre-t-on ?
-
-Viande grillée, pain grillé, café torréfié et sirop d'érable doivent une part de leur couleur et de leur goût à la réaction de Maillard. Le chimiste français Louis-Camille Maillard a décrit cette réaction au début du XXe siècle.
-
-## À ne pas confondre avec le caramel
-
-La caramélisation est différente : elle chauffe des sucres seuls et ne fait pas intervenir d'acides aminés. La caramélisation est un brunissement du sucre seul, qui donne une saveur de beurre et une couleur brune, par exemple dans la sauce caramel ou la crème brûlée. La réaction de Maillard demande de la chaleur : elle se produit à haute température.
-
-## Un revers
-
-À haute température, la réaction peut former de l'acrylamide, un cancérogène probable ; cuire à plus basse température permet d'en limiter la formation.
-
-## À retenir
-
-- La réaction de Maillard unit des sucres réducteurs et des acides aminés.
-- Elle crée les pigments bruns et les arômes des aliments cuits.
-- Viande grillée, pain grillé, café torréfié et sirop d'érable doivent une part de leur couleur et de leur goût à la réaction de Maillard.
-- La caramélisation chauffe des sucres seuls, sans acides aminés : ce n'est pas la même réaction.
-- À haute température, elle peut former de l'acrylamide, un cancérogène probable.
-
----
-type: article
 title: Le fer et la vitamine B12, leurs rôles dans le corps
 slug: le-fer-et-la-vitamine-b12-leurs-roles-dans-le-corps
 categoryPath: alimentation-et-nutrition/nutriments/micronutriments
@@ -20198,100 +22264,13 @@ status: planned
 
 ---
 type: article
-title: Yaourt, choucroute, kéfir, que sont les probiotiques ?
-slug: yaourt-choucroute-kefir-que-sont-les-probiotiques
-categoryPath: alimentation-et-nutrition/nutriments/microbiote-et-probiotiques
-summary: >
-  La fermentation transforme les aliments grâce à des micro-organismes. Les probiotiques sont
-  des micro-organismes vivants, dont les bénéfices restent à préciser.
-tags: [microbiote-et-probiotiques]
-sources:
-  - title: "Aliment fermenté"
-    url: "https://fr.wikipedia.org/wiki/Aliment_ferment%C3%A9"
-    publisher: "Wikipédia"
-  - title: "Fermentation in food processing"
-    url: "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
-    publisher: "Wikipedia"
-  - title: "Probiotics: Usefulness and Safety"
-    url: "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety"
-    publisher: "NCCIH (NIH)"
-quiz:
-  - question: "Qui transforme un aliment lors de sa fermentation ?"
-    options:
-      - "Des micro-organismes, comme des bactéries et des levures"
-      - "De la chaleur seule"
-      - "Un congélateur"
-    answer: 1
-    explanation: >
-      Un aliment fermenté est un aliment transformé par des micro-organismes : bactéries,
-      levures ou moisissures.
-  - question: "Qu'est-ce qu'un probiotique ?"
-    options:
-      - "Un micro-organisme vivant dont on attend un bénéfice pour la santé"
-      - "Un sucre artificiel"
-      - "Un antibiotique"
-    answer: 1
-    explanation: >
-      Les probiotiques sont des micro-organismes vivants dont on attend un bénéfice pour la
-      santé quand on les consomme.
-  - question: "Le bénéfice d'une souche de probiotique garantit-il celui des autres ?"
-    options:
-      - "Non, les effets diffèrent selon le type"
-      - "Oui, toujours"
-      - "Seulement en hiver"
-    answer: 1
-    explanation: >
-      Les effets diffèrent selon le type de probiotique : le bénéfice d'une souche ne garantit
-      pas celui d'une autre.
-  - question: "Qui a montré le rôle des levures dans la fermentation alcoolique ?"
-    options:
-      - "Louis Pasteur"
-      - "Albert Einstein"
-      - "Marie Curie"
-    answer: 1
-    explanation: >
-      Louis Pasteur a fondé la science de la fermentation en montrant le rôle des levures dans
-      la fermentation alcoolique.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La fermentation transforme les aliments grâce à des micro-organismes. Les probiotiques sont des micro-organismes vivants, dont les bénéfices restent à préciser.
-
-## Des aliments transformés par des microbes
-
-Un aliment fermenté est un aliment transformé par des micro-organismes : bactéries, levures ou moisissures. Yaourt, fromage, kimchi, choucroute, pain, vin, bière et vinaigre sont des aliments fermentés. Louis Pasteur a fondé la science de la fermentation en montrant le rôle des levures dans la fermentation alcoolique.
-
-## Pourquoi fermenter
-
-La fermentation améliore la digestibilité, la valeur nutritive et le goût des aliments. La fermentation conserve les aliments sans réfrigération ni additifs de synthèse.
-
-## Que sont les probiotiques
-
-Les probiotiques sont des micro-organismes vivants dont on attend un bénéfice pour la santé quand on les consomme. Les probiotiques se trouvent dans le yaourt et d'autres aliments fermentés, ainsi que dans des compléments. La plupart des probiotiques contiennent des bactéries des groupes Lactobacillus et Bifidobacterium, ou des levures comme Saccharomyces boulardii.
-
-## Ce que l'on sait, et ce que l'on ignore
-
-Les recherches sont prometteuses pour certains problèmes de santé, mais il reste beaucoup à apprendre pour savoir si les probiotiques sont utiles et sûrs. Les effets diffèrent selon le type de probiotique : le bénéfice d'une souche ne garantit pas celui d'une autre. Les probiotiques ont une longue histoire d'usage apparemment sûr chez les personnes en bonne santé, mais des infections graves ont été signalées chez des bébés prématurés.
-
-## À retenir
-
-- Un aliment fermenté est un aliment transformé par des micro-organismes : bactéries, levures ou moisissures.
-- Yaourt, fromage, kimchi, choucroute, pain, vin, bière et vinaigre sont des aliments fermentés.
-- La fermentation améliore la digestibilité, la valeur nutritive et le goût des aliments.
-- Les probiotiques sont des micro-organismes vivants dont on attend un bénéfice pour la santé.
-- Les recherches sont prometteuses, mais il reste beaucoup à apprendre sur l'utilité et la sûreté des probiotiques.
-
----
-type: article
 title: Pourquoi le sel et le sucre conservent les aliments
 slug: pourquoi-le-sel-et-le-sucre-conservent-les-aliments
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
 summary: >
   Le sel et le sucre dissous abaissent l'eau disponible pour les microbes et les empêchent de se
-  multiplier, sans forcément les tuer.
+  multiplier, sans forcément les tuer. Un indicateur, l'activité de l'eau, dit à partir de quel
+  seuil bactéries, levures et moisissures s'arrêtent.
 tags: [conservation]
 sources:
   - title: "Conservation des aliments"
@@ -20303,6 +22282,9 @@ sources:
   - title: "Water activity"
     url: "https://en.wikipedia.org/wiki/Water_activity"
     publisher: "Wikipedia"
+  - title: "Water activity and its role in food preservation"
+    url: "https://ucanr.edu/node/152957"
+    publisher: "University of California, UC Master Food Preserver Program"
 quiz:
   - question: "De quoi les microbes ont-ils besoin pour proliférer ?"
     options:
@@ -20340,7 +22322,7 @@ quiz:
     explanation: >
       Baisser l'activité de l'eau ne tue pas les microbes déjà présents : des cellules vivantes
       peuvent subsister, mais elles ne se multiplient plus.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -20356,6 +22338,16 @@ Les micro-organismes ont besoin d'eau pour proliférer : réduire l'eau disponib
 
 Le sel attire l'eau par osmose, ce qui rend le milieu hostile à la croissance des microbes. Le sucre attire l'eau hors des cellules des microbes, qui se dessèchent : c'est ce qui conserve les confitures et les fruits confits. Le sel et le sucre dissous abaissent l'activité de l'eau, parce qu'ils se disputent les molécules d'eau. L'activité de l'eau est le rapport entre la pression de vapeur de l'aliment et celle de l'eau pure à la même température ; l'eau pure vaut 1.
 
+## Des seuils à connaître
+
+L'échelle va de 0, pour un produit totalement sec, à 1, pour l'eau pure. Chaque famille de microbes a son seuil. La plupart des bactéries ne se développent pas sous 0,91. La plupart des levures s'arrêtent vers 0,88. Les moisissures sont les plus résistantes : certaines poussent jusqu'à environ 0,65.
+
+Les produits déshydratés, comme les fruits secs, la viande séchée ou le lait en poudre, se situent en général sous 0,75. Cela suffit à bloquer presque tous les microbes courants.
+
+## Le sel, plus efficace que le sucre
+
+À poids égal, le sel abaisse bien plus l'activité de l'eau que le sucre. Une solution contenant 13 % de sel atteint 0,91, le seuil de la plupart des bactéries. Pour arriver au même résultat avec du sucre, il en faut environ 55 %. Cela explique que les confitures soient très sucrées : la recette doit viser une proportion élevée pour rester stable.
+
 ## Ce que cela ne fait pas
 
 Baisser l'activité de l'eau ne tue pas les microbes déjà présents : des cellules vivantes peuvent subsister, mais elles ne se multiplient plus.
@@ -20364,6 +22356,17 @@ Baisser l'activité de l'eau ne tue pas les microbes déjà présents : des cell
 
 Le séchage, la plus ancienne forme de conservation, retire l'eau dont les microbes ont besoin. Le fumage combine déshydratation et composés antimicrobiens déposés par la fumée. Le froid ralentit la croissance des micro-organismes sans les éliminer. La fermentation conserve en produisant des acides qui créent un milieu hostile aux microbes nuisibles.
 
+```schema
+titre: Comment le sel et le sucre conservent
+type: etapes
+elements:
+  - titre: Les microbes ont besoin d'eau
+  - titre: Sel ou sucre
+    texte: Ils réduisent l’activité de l’eau, donc sa disponibilité pour les microbes.
+  - titre: Moins d'eau disponible
+  - titre: Les microbes se développent mal
+```
+
 ## À retenir
 
 - Les micro-organismes ont besoin d'eau pour proliférer : réduire l'eau disponible freine leur croissance.
@@ -20371,15 +22374,15 @@ Le séchage, la plus ancienne forme de conservation, retire l'eau dont les micro
 - Le sucre attire l'eau hors des cellules des microbes, qui se dessèchent : c'est ce qui conserve les confitures et les fruits confits.
 - Le sel et le sucre dissous abaissent l'activité de l'eau en se disputant ses molécules.
 - Baisser l'activité de l'eau ne tue pas les microbes : ils survivent, mais ne se multiplient plus.
-
 ---
 type: article
 title: Comment des bactéries transforment-elles le lait en yaourt ?
 slug: comment-des-bacteries-transforment-elles-le-lait-en-yaourt
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
 summary: >
-  Des bactéries lactiques transforment des sucres en acide lactique, sans oxygène. Cela donne le
-  yaourt, la choucroute et bien d'autres aliments, et cela les conserve.
+  Des bactéries lactiques transforment des sucres en acide lactique, sans oxygène. Dans le
+  yaourt, deux espèces s'entraident à 42 °C pour acidifier le lait, le faire épaissir et lui
+  donner son goût, tout en le conservant.
 tags: [fermentation]
 sources:
   - title: "Fermentation lactique"
@@ -20391,6 +22394,9 @@ sources:
   - title: "Fermentation in food processing"
     url: "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
     publisher: "Wikipedia"
+  - title: "Fermented foods: yoghurt"
+    url: "https://grupos.eez.csic.es/imili/wp-content/uploads/2025/07/fermented-foods-yoghurt.pdf"
+    publisher: "CSIC, Estación Experimental del Zaidín"
 quiz:
   - question: "Que produit la fermentation lactique ?"
     options:
@@ -20427,7 +22433,7 @@ quiz:
     explanation: >
       Choux pour la choucroute, concombres, carottes, betteraves et d'autres légumes se
       conservent par fermentation lactique.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -20443,6 +22449,20 @@ La fermentation lactique transforme des sucres en acide lactique, sans oxygène,
 
 Le yaourt, le fromage et les laits fermentés naissent de la transformation du lactose par des bactéries lactiques. Pour le yaourt, on utilise en général les bactéries Lactobacillus bulgaricus et Streptococcus thermophilus. Dans le yaourt, la fermentation réduit la quantité de lactose disponible.
 
+## Deux bactéries qui coopèrent
+
+Les deux bactéries du yaourt peuvent vivre seules, mais elles se développent mieux ensemble. Le streptocoque, de forme ronde, libère du gaz carbonique, de l'acide formique et de la vitamine B9. Le lactobacille, en bâtonnet, fournit en échange des peptides et des acides aminés. Cette entraide règle la vitesse d'acidification, la texture et l'arôme.
+
+## Chaleur, acidité et texture
+
+La fermentation dure plusieurs heures, vers 42 à 45 °C. Au fil du temps, le lait s'acidifie. Le streptocoque cesse de croître vers un pH de 5,2, alors que le lactobacille continue jusqu'à environ 4,4.
+
+Cette acidité fait coaguler les protéines du lait, les caséines : le liquide devient un gel, d'où la texture ferme du yaourt. Le composé acétaldéhyde apporte la note fraîche et fruitée du goût, avec le diacétyle.
+
+## Le lactose, réduit mais pas supprimé
+
+Le yaourt fini contient encore environ 4,5 à 4,8 g de lactose pour 100 g. Les bactéries vivantes aident cependant à le digérer dans l'intestin, ce qui peut atténuer l'intolérance au lactose.
+
 ## Des légumes et des boissons
 
 Choux pour la choucroute, concombres, carottes, betteraves et d'autres légumes se conservent par fermentation lactique. Le kéfir, le kombucha, le kvas et l'airag reposent sur des fermentations lactiques. Le levain et le tempeh font aussi appel à la fermentation lactique. L'ensilage conserve l'herbe, le maïs et d'autres fourrages par fermentation.
@@ -20451,6 +22471,18 @@ Choux pour la choucroute, concombres, carottes, betteraves et d'autres légumes 
 
 Les cellules musculaires font aussi de la fermentation lactique lors d'un effort intense, mais c'est un phénomène distinct de la fermentation des aliments.
 
+```schema
+titre: Du lait au yaourt
+type: etapes
+elements:
+  - titre: Lait
+  - titre: Bactéries lactiques
+    texte: Elles transforment une partie du lactose.
+  - titre: Acide lactique
+    texte: L’acidification favorise un gel de caséines et freine certains microbes.
+  - titre: Yaourt
+```
+
 ## À retenir
 
 - Des bactéries lactiques transforment des sucres en acide lactique, sans oxygène.
@@ -20458,7 +22490,6 @@ Les cellules musculaires font aussi de la fermentation lactique lors d'un effort
 - Le yaourt, le fromage et les laits fermentés naissent de la transformation du lactose par des bactéries lactiques.
 - Choux pour la choucroute, concombres, carottes, betteraves et d'autres légumes se conservent par fermentation lactique.
 - Les cellules musculaires font aussi de la fermentation lactique lors d'un effort intense, mais c'est un phénomène distinct de la fermentation des aliments.
-
 ---
 type: article
 title: Les additifs alimentaires et leur réglementation
@@ -20476,92 +22507,6 @@ status: planned
 
 ---
 type: article
-title: Pourquoi chauffe-t-on le lait avant de le vendre ?
-slug: pourquoi-chauffe-t-on-le-lait-avant-de-le-vendre
-categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
-summary: >
-  La pasteurisation chauffe un aliment à une température modérée pour éliminer les germes
-  dangereux, sans le stériliser. Louis Pasteur l'a mise au point pour le vin.
-tags: [conservation]
-sources:
-  - title: "Pasteurisation"
-    url: "https://fr.wikipedia.org/wiki/Pasteurisation"
-    publisher: "Wikipédia"
-  - title: "Pasteurization"
-    url: "https://en.wikipedia.org/wiki/Pasteurization"
-    publisher: "Wikipedia"
-  - title: "Louis Pasteur"
-    url: "https://en.wikipedia.org/wiki/Louis_Pasteur"
-    publisher: "Wikipedia"
-quiz:
-  - question: "À quelle température la pasteurisation chauffe-t-elle en général ?"
-    options:
-      - "À moins de 100 °C"
-      - "À 1 000 °C"
-      - "À 500 °C"
-    answer: 1
-    explanation: >
-      La pasteurisation est un procédé de conservation où l'aliment est chauffé à une
-      température modérée, inférieure à 100 °C, pour éliminer les germes dangereux.
-  - question: "Pour quel produit Pasteur a-t-il d'abord mis au point le procédé ?"
-    options:
-      - "Le vin"
-      - "Le pain"
-      - "Le chocolat"
-    answer: 1
-    explanation: >
-      Louis Pasteur a fait breveter le procédé pour lutter contre les « maladies » du vin.
-  - question: "La pasteurisation détruit-elle les spores ?"
-    options:
-      - "Non"
-      - "Oui, tous"
-      - "Seulement dans le lait"
-    answer: 1
-    explanation: >
-      La pasteurisation n'est pas une stérilisation : elle ne détruit pas les spores.
-  - question: "Quel traitement stérilise le lait pour le garder plusieurs mois ?"
-    options:
-      - "Le traitement UHT"
-      - "La congélation rapide"
-      - "Le brassage"
-    answer: 1
-    explanation: >
-      Le traitement UHT stérilise le lait et permet de le conserver plusieurs mois sans
-      réfrigération.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La pasteurisation chauffe un aliment à une température modérée pour éliminer les germes dangereux, sans le stériliser. Louis Pasteur l'a mise au point pour le vin.
-
-## Chauffer sans cuire
-
-La pasteurisation est un procédé de conservation où l'aliment est chauffé à une température modérée, inférieure à 100 °C, pour éliminer les germes dangereux. La pasteurisation n'est pas une stérilisation : elle ne détruit pas les spores. On pasteurise le lait, les jus de fruits, la bière, le cidre, les œufs, le vinaigre et bien d'autres produits.
-
-## De Pasteur au lait d'aujourd'hui
-
-Elle porte le nom de Louis Pasteur, dont les recherches ont montré que la chaleur désactive les micro-organismes indésirables du vin. Louis Pasteur a fait breveter le procédé pour lutter contre les « maladies » du vin. Pasteur a démontré que les levures provoquent la fermentation qui transforme le sucre en alcool. Pour le lait, la méthode HTST chauffe le lait quelques secondes à haute température, puis le refroidit vite.
-
-## Ce que cela change
-
-Elle détruit des bactéries dangereuses comme Salmonella, Listeria et E. coli O157:H7 dans les produits laitiers. Elle modifie légèrement la teneur de certains aliments en vitamines. Le traitement UHT stérilise le lait et permet de le conserver plusieurs mois sans réfrigération.
-
-## Un institut
-
-Louis Pasteur a dirigé l'Institut Pasteur jusqu'à sa mort.
-
-## À retenir
-
-- La pasteurisation chauffe un aliment à moins de 100 °C pour éliminer les germes dangereux.
-- Elle porte le nom de Louis Pasteur, dont les recherches ont montré que la chaleur désactive les micro-organismes indésirables du vin.
-- Louis Pasteur a fait breveter le procédé pour lutter contre les « maladies » du vin.
-- La pasteurisation n'est pas une stérilisation : elle ne détruit pas les spores.
-- On pasteurise le lait, les jus de fruits, la bière, le cidre, les œufs, le vinaigre et bien d'autres produits.
-
----
-type: article
 title: Eau plate et eau gazeuse, quelles différences ?
 slug: eau-plate-et-eau-gazeuse-quelles-differences
 categoryPath: alimentation-et-nutrition/nutriments/eau-et-hydratation
@@ -20574,183 +22519,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-type: article
-title: Quelle quantité d'eau se cache dans notre assiette ?
-slug: quelle-quantite-d-eau-se-cache-dans-notre-assiette
-categoryPath: alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire
-summary: >
-  Produire un aliment demande de l'eau, souvent beaucoup plus que ce qu'on voit. L'empreinte eau
-  distingue l'eau bleue, verte et grise.
-tags: [empreinte-alimentaire]
-sources:
-  - title: "Eau virtuelle"
-    url: "https://fr.wikipedia.org/wiki/Eau_virtuelle"
-    publisher: "Wikipédia"
-  - title: "Empreinte eau"
-    url: "https://fr.wikipedia.org/wiki/Empreinte_eau"
-    publisher: "Wikipédia"
-  - title: "Water footprint"
-    url: "https://en.wikipedia.org/wiki/Water_footprint"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Quelle eau est l'eau de pluie stockée dans le sol ?"
-    options:
-      - "L'eau verte"
-      - "L'eau bleue"
-      - "L'eau grise"
-    answer: 1
-    explanation: >
-      On distingue l'eau bleue, prélevée dans les rivières et les nappes, l'eau verte, l'eau de
-      pluie stockée dans le sol, et l'eau grise, nécessaire pour diluer les polluants.
-  - question: "Quel produit demande le plus d'eau à produire : le bœuf ou le porc ?"
-    options:
-      - "Le bœuf"
-      - "Le porc"
-      - "Exactement autant"
-    answer: 1
-    explanation: >
-      Le bœuf a une empreinte eau bien plus élevée que le porc : il faut beaucoup plus d'eau
-      pour produire un kilo de bœuf.
-  - question: "Quel secteur utilise la plus grande partie de l'eau consommée ?"
-    options:
-      - "L'agriculture"
-      - "Les piscines"
-      - "Les fontaines"
-    answer: 1
-    explanation: >
-      L'agriculture utilise la plus grande partie de l'eau consommée par l'humanité.
-  - question: "À quoi correspond l'eau grise ?"
-    options:
-      - "À l'eau nécessaire pour diluer les polluants"
-      - "À l'eau de pluie"
-      - "À l'eau de mer"
-    answer: 1
-    explanation: >
-      On distingue l'eau bleue, prélevée dans les rivières et les nappes, l'eau verte, l'eau de
-      pluie stockée dans le sol, et l'eau grise, nécessaire pour diluer les polluants.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Produire un aliment demande de l'eau, souvent beaucoup plus que ce qu'on voit. L'empreinte eau distingue l'eau bleue, verte et grise.
-
-## Une eau qu'on ne voit pas
-
-L'empreinte eau est le volume total d'eau douce utilisé pour produire les biens et services consommés ; l'eau virtuelle est l'eau nécessaire pour fabriquer un bien de consommation. On distingue l'eau bleue, prélevée dans les rivières et les nappes, l'eau verte, l'eau de pluie stockée dans le sol, et l'eau grise, nécessaire pour diluer les polluants.
-
-## Des produits très gourmands
-
-Le bœuf a une empreinte eau bien plus élevée que le porc : il faut beaucoup plus d'eau pour produire un kilo de bœuf. Une tasse de café demande, pour sa production, bien plus d'eau que celle qu'elle contient. L'agriculture utilise la plus grande partie de l'eau consommée par l'humanité.
-
-## Un enjeu mondial
-
-Les pays qui manquent d'eau gèrent leurs exportations agricoles en tenant compte de l'eau qu'elles contiennent. La consommation d'eau virtuelle par habitant varie beaucoup selon les régions du monde : elle est plus élevée en Europe et en Amérique du Nord qu'en Asie.
-
-## Un concept récent
-
-Le concept d'empreinte eau a été introduit par Arjen Hoekstra au début des années 2000. Une norme internationale, l'ISO 14046, précise comment évaluer l'empreinte eau.
-
-## À retenir
-
-- L'eau virtuelle est l'eau nécessaire pour fabriquer un bien ; l'empreinte eau en est le total.
-- L'eau bleue vient des rivières et des nappes, l'eau verte de la pluie stockée dans le sol, l'eau grise dilue les polluants.
-- Le bœuf a une empreinte eau bien plus élevée que le porc : il faut beaucoup plus d'eau pour produire un kilo de bœuf.
-- L'agriculture utilise la plus grande partie de l'eau consommée par l'humanité.
-- Une tasse de café demande, pour sa production, bien plus d'eau que celle qu'elle contient.
-
----
-type: article
-title: Un aliment ultra-transformé est-il mauvais par nature ?
-slug: un-aliment-ultra-transforme-est-il-mauvais-par-nature
-categoryPath: alimentation-et-nutrition/nutrition-et-sante
-summary: >
-  La classification NOVA range les aliments selon leur degré de transformation. Elle est utile
-  et critiquée : le débat porte sur le rôle de la transformation et de la qualité
-  nutritionnelle.
-tags: [nutrition-et-sante]
-sources:
-  - title: "Aliment ultra-transformé"
-    url: "https://fr.wikipedia.org/wiki/Aliment_ultra-transform%C3%A9"
-    publisher: "Wikipédia"
-  - title: "Ultra-processed food"
-    url: "https://en.wikipedia.org/wiki/Ultra-processed_food"
-    publisher: "Wikipedia"
-  - title: "Nova classification"
-    url: "https://en.wikipedia.org/wiki/Nova_classification"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Combien de groupes la classification NOVA compte-t-elle ?"
-    options:
-      - "Quatre"
-      - "Deux"
-      - "Dix"
-    answer: 1
-    explanation: >
-      La classification NOVA range les aliments en quatre groupes selon leur degré de
-      transformation : non transformés ou peu transformés, ingrédients culinaires transformés,
-      aliments transformés, aliments ultra-transformés.
-  - question: "Où la classification NOVA a-t-elle été proposée ?"
-    options:
-      - "À l'université de São Paulo, au Brésil"
-      - "À Paris"
-      - "À Tokyo"
-    answer: 1
-    explanation: >
-      Elle a été proposée par des chercheurs de l'université de São Paulo, au Brésil, autour de
-      Carlos Augusto Monteiro.
-  - question: "Les liens entre aliments ultra-transformés et maladies prouvent-ils une cause ?"
-    options:
-      - "Non, ce sont des associations"
-      - "Oui, toujours"
-      - "Personne n'a étudié"
-    answer: 1
-    explanation: >
-      Ces liens sont des associations : selon les sources, la causalité n'est pas établie, sauf
-      pour la prise de poids.
-  - question: "NOVA tient-elle compte de la composition nutritionnelle des aliments ?"
-    options:
-      - "Non"
-      - "Oui, uniquement"
-      - "Seulement pour le sel"
-    answer: 1
-    explanation: >
-      NOVA ne tient pas compte de la composition nutritionnelle des aliments et n'est pas conçue
-      pour évaluer leur profil nutritionnel.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La classification NOVA range les aliments selon leur degré de transformation. Elle est utile et critiquée : le débat porte sur le rôle de la transformation et de la qualité nutritionnelle.
-
-## Une classification en quatre groupes
-
-La classification NOVA range les aliments en quatre groupes selon leur degré de transformation : non transformés ou peu transformés, ingrédients culinaires transformés, aliments transformés, aliments ultra-transformés. Elle a été proposée par des chercheurs de l'université de São Paulo, au Brésil, autour de Carlos Augusto Monteiro. Un aliment ultra-transformé est fabriqué industriellement à partir de nombreux ingrédients, souvent avec des additifs, que l'on n'utilise pas dans une cuisine familiale.
-
-## Des exemples et des liens avec la santé
-
-Des sodas, des pizzas surgelées, des céréales de petit-déjeuner et des plats préparés industriels sont des exemples d'aliments ultra-transformés. Des études associent une forte consommation d'aliments ultra-transformés à davantage d'obésité, de diabète, de maladies cardiovasculaires et d'autres problèmes de santé. Ces liens sont des associations : selon les sources, la causalité n'est pas établie, sauf pour la prise de poids. Tous les aliments ultra-transformés ne se valent pas : ceux d'origine végétale présentent moins de risques que ceux d'origine animale, et certains pains ou céréales sont liés à un risque plus faible de diabète.
-
-## Les limites de NOVA
-
-NOVA ne tient pas compte de la composition nutritionnelle des aliments et n'est pas conçue pour évaluer leur profil nutritionnel. On reproche à NOVA d'être binaire et de sous-entendre que les aliments ultra-transformés sont tous nocifs, sans tenir compte de la nutrition ni de l'enrichissement.
-
-## Un débat ouvert
-
-Le débat porte sur ce qui compte le plus : le degré de transformation ou la qualité nutritionnelle de l'aliment.
-
-## À retenir
-
-- Un aliment ultra-transformé est fabriqué industriellement, avec de nombreux ingrédients et additifs de cuisine non familiale.
-- NOVA range les aliments en quatre groupes selon leur degré de transformation.
-- Des études associent les aliments ultra-transformés à plus d'obésité, de diabète et de maladies cardiovasculaires.
-- Ces liens sont des associations : la causalité n'est pas établie, sauf pour la prise de poids.
-- Le débat porte sur ce qui compte le plus : le degré de transformation ou la qualité nutritionnelle de l'aliment.
 
 ---
 type: article
@@ -20846,6 +22614,18 @@ Presque toutes les études étaient transversales : elles ne permettent pas d'é
 
 Chez les enfants et les adolescents, le petit-déjeuner est associé à une meilleure mémoire et à de meilleurs résultats scolaires selon des études. L'avis professionnel actuel est largement favorable au petit-déjeuner, même si sauter ce repas peut valoir mieux que le remplacer par des aliments peu sains.
 
+```schema
+type: comparaison
+titre: Le petit-déjeuner des adolescents
+colonnes:
+  - titre: Ce que montrent les études
+    points:
+      - Ceux qui déjeunent ont souvent des apports plus complets
+  - titre: À nuancer
+    points:
+      - Des liens plutôt que des preuves de cause
+```
+
 ## À retenir
 
 - Le petit-déjeuner est le premier repas de la journée : il rompt le jeûne de la nuit.
@@ -20853,3 +22633,156 @@ Chez les enfants et les adolescents, le petit-déjeuner est associé à une meil
 - Ils avaient aussi des apports plus élevés en fer, calcium, magnésium, potassium, zinc et iode.
 - Presque toutes les études sont transversales : elles n'établissent pas de relation de cause à effet.
 - Prendre un petit-déjeuner semble associé à des apports plus élevés en micronutriments sur la journée, mais la qualité des aliments compte aussi.
+
+---
+type: article
+title: Purifier l'eau en situation d'urgence
+slug: purifier-eau-situation-urgence
+categoryPath: alimentation-et-nutrition/nutriments/eau-et-hydratation
+summary: >
+  Une eau claire peut contenir des microbes qui provoquent de graves diarrhées. Faire bouillir,
+  désinfecter au chlore, exposer au soleil dans une bouteille ou filtrer : ces méthodes simples
+  rendent l'eau sûre, à condition d'en connaître les limites.
+tags: [eau-et-hydratation]
+relatedArticles: [rendre-eau-potable, recuperer-eau-pluie, kit-urgence-72-heures, la-rehydratation-orale-en-cas-de-diarrhee-severe, regle-des-trois-priorites-survie]
+sources:
+  - title: "Make Water Safe During an Emergency"
+    url: "https://www.cdc.gov/healthywater/emergency/pdf/make-water-safe-during-emergency-p.pdf"
+    publisher: "Centers for Disease Control and Prevention"
+  - title: "Solar water disinfection"
+    url: "https://en.wikipedia.org/wiki/Solar_water_disinfection"
+    publisher: "Wikipedia"
+  - title: "Guidelines for drinking-water quality"
+    url: "https://www.who.int/publications/i/item/9789240045064"
+    publisher: "Organisation mondiale de la santé"
+  - title: "Portable water purification"
+    url: "https://en.wikipedia.org/wiki/Portable_water_purification"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de temps faut-il faire bouillir l'eau pour la désinfecter ?"
+    options:
+      - "Laisser bouillir à gros bouillons pendant au moins une minute"
+      - "Il suffit qu'elle soit tiède"
+      - "Une heure entière"
+    answer: 1
+    explanation: >
+      Une minute d'ébullition franche tue bactéries, virus et parasites. En haute altitude, on
+      prolonge à trois minutes.
+  - question: "Que ne fait pas l'ébullition ?"
+    options:
+      - "Tuer les bactéries"
+      - "Éliminer les produits chimiques comme les carburants ou les pesticides"
+      - "Tuer les virus"
+    answer: 2
+    explanation: >
+      L'ébullition détruit les microbes, mais une eau polluée par des produits chimiques reste
+      dangereuse. Il faut alors chercher une autre source.
+  - question: "Comment fonctionne la méthode SODIS ?"
+    options:
+      - "On ajoute du sel"
+      - "On congèle l'eau"
+      - "On expose une bouteille transparente d'eau claire au plein soleil pendant au moins six heures"
+    answer: 3
+    explanation: >
+      Les rayons ultraviolets et la chaleur du soleil détruisent la plupart des microbes. Par temps
+      couvert, il faut deux jours.
+  - question: "Pourquoi faut-il clarifier une eau trouble avant de la désinfecter ?"
+    options:
+      - "Parce que l'eau trouble contient plus de chlore"
+      - "Parce que les particules protègent les microbes du chlore et du soleil"
+      - "Parce que la turbidité enlève les produits chimiques"
+    answer: 2
+    explanation: "Une eau trouble protège les microbes du chlore et du soleil, d'où la décantation ou la filtration à travers un tissu en premier."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Une eau de rivière, de puits ou de pluie peut sembler limpide et contenir pourtant des **bactéries**,
+des **virus** ou des **parasites** responsables de diarrhées graves, de choléra ou de typhoïde. En
+situation d'urgence, quatre méthodes simples permettent de la rendre sûre : la **faire bouillir**, la
+**désinfecter au chlore**, l'**exposer au soleil** dans une bouteille transparente, ou la **filtrer**
+avec un filtre adapté. Aucune ne retire les produits chimiques : la première précaution est de choisir
+la source la moins polluée possible.
+
+## Choisir sa source
+
+- Préférer, dans l'ordre : eau en bouteille, eau de pluie recueillie proprement, source qui sort de la
+  roche, puits couvert, eau courante de rivière, et en dernier une eau stagnante.
+- Puiser **en amont** des villages, des pâturages et des routes.
+- Éviter les eaux qui ont une odeur de carburant, une couleur anormale ou une mousse : la chimie ne
+  s'en va pas à l'ébullition.
+
+## Étape 1, clarifier
+
+Une eau trouble protège les microbes du chlore et du soleil. On la laisse **reposer** quelques heures
+pour que les particules tombent au fond, puis on verse doucement l'eau claire, ou on la **filtre** à
+travers un tissu propre plié en plusieurs épaisseurs.
+
+## Étape 2, désinfecter
+
+**Faire bouillir** : c'est la méthode la plus sûre contre tous les microbes. On porte l'eau à
+**ébullition franche pendant au moins une minute**, trois minutes au-dessus d'environ 2 000 mètres
+d'altitude, où l'eau bout à plus basse température. On la laisse refroidir couverte. Pour lui rendre
+du goût, on la verse plusieurs fois d'un récipient à l'autre.
+
+**Le chlore** : l'eau de Javel ménagère **non parfumée** ou les pastilles de désinfection. Les
+autorités sanitaires américaines indiquent environ **deux gouttes par litre**, soit huit gouttes par gallon, pour une
+eau de Javel à 5 à 9 % de chlore actif, deux fois plus si l'eau est trouble ou très froide, puis un temps
+d'attente d'**au moins 30 minutes**. La concentration des produits varie : il faut lire l'étiquette et
+adapter la dose, ou suivre la notice des pastilles. L'eau doit garder une légère odeur de chlore.
+
+**Le soleil, méthode SODIS** : on remplit d'eau **claire** une bouteille transparente en plastique
+PET, de 2 litres au maximum, on la pose couchée au **plein soleil pendant au moins six heures**, ou
+**deux jours** si le ciel est couvert. Les ultraviolets et la chaleur détruisent la plupart des
+microbes. Cette méthode, promue par l'OMS et des instituts de recherche suisses, ne marche pas par
+temps de pluie ni avec une eau trouble.
+
+**Les filtres** : les filtres en céramique ou à membrane retiennent bactéries et parasites. La
+plupart des filtres portables **n'arrêtent pas les virus** ; on complète alors par du chlore ou
+l'ébullition. Les filtres doivent être entretenus selon la notice.
+
+```schema
+type: comparaison
+titre: Quatre façons de désinfecter l'eau
+legende: Aucune ne retire les produits chimiques ni le sel.
+colonnes:
+  - titre: Ébullition
+    icone: fire
+    points:
+      - Une minute à gros bouillons
+      - Trois minutes au-dessus d'environ 2 000 m
+      - Méthode la plus sûre
+  - titre: Chlore
+    icone: droplet
+    points:
+      - Environ 2 gouttes par litre d'une javel à 5 à 9 %
+      - Au moins 30 minutes d'attente
+  - titre: Soleil ou filtre
+    icone: sun
+    points:
+      - SODIS, 6 heures au plein soleil en bouteille PET
+      - Les filtres portables n'arrêtent souvent pas les virus
+```
+
+## Ce que ces méthodes ne font pas
+
+- Elles ne retirent ni les **métaux lourds**, ni les **pesticides**, ni les **carburants**.
+- Elles ne dessalent pas l'eau de mer. Seule la **distillation**, recueillir la vapeur d'eau bouillie
+  qui se condense sur une surface froide, produit de l'eau douce à partir d'eau salée ou polluée, en
+  petite quantité.
+
+## Stocker l'eau traitée
+
+On garde l'eau dans des récipients **propres et fermés**, à l'abri de la lumière, et l'on puise sans y
+tremper les mains ou un gobelet sale. Une eau mal conservée se recontamine.
+
+## À retenir
+
+- Une eau limpide peut contenir des microbes dangereux.
+- On clarifie d'abord une eau trouble, par décantation ou filtration à travers un tissu.
+- L'ébullition franche pendant une minute est la méthode la plus sûre.
+- Le chlore, environ deux gouttes par litre d'une javel à 5 à 9 % et 30 minutes d'attente, et la méthode SODIS sont des alternatives.
+- Aucune de ces méthodes n'élimine les produits chimiques ni le sel.
+

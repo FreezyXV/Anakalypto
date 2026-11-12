@@ -16,6 +16,40 @@ enum ArticleStatus {
   PUBLISHED
 }
 
+enum IllustrationStatus {
+  WAITING_FOR_ILLUSTRATION
+  REVIEW_REQUIRED
+  READY
+  NEEDS_IMPROVEMENT
+}
+
+/// File de production des visuels, initialisée à la publication ; brouillons exclus des lectures.
+/// Les réservations et versions empêchent deux agents de terminer le même travail.
+model ArticleIllustration {
+  articleId                 String             @id
+  article                   Article            @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  lessonPath                String             @unique
+  status                    IllustrationStatus @default(WAITING_FOR_ILLUSTRATION)
+  visualRefs                String[]           @default([])
+  inlineSchemaCount         Int                @default(0)
+  inlineStatus              IllustrationStatus @default(WAITING_FOR_ILLUSTRATION)
+  inlineEvidence            String?
+  inlineReviewedContentHash String?
+  inlineVersion             Int                @default(0)
+  reviewFingerprint         String?
+  reviewedContentHash       String?
+  evidence                  String?
+  reviewedAt                String?
+  note                      String?
+  claimedBy                 String?
+  claimedAt                 DateTime?
+  claimContentHash          String?
+  version                   Int                @default(0)
+  updatedAt                 DateTime           @default(now()) @updatedAt
+
+  @@index([status, claimedBy])
+}
+
 /// Noeud de l'arborescence thematique. `path` porte le chemin complet en slugs
 /// (ex: "sciences-fondamentales/physique") et sert de cle d'URL.
 model Category {
@@ -53,12 +87,13 @@ model Article {
   categoryId String
   category   Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
 
-  tags        ArticleTag[]
-  sources     Source[]
-  quiz        QuizQuestion[]
-  revisions   Revision[]
-  relatedFrom RelatedArticle[] @relation("from")
-  relatedTo   RelatedArticle[] @relation("to")
+  tags         ArticleTag[]
+  sources      Source[]
+  quiz         QuizQuestion[]
+  revisions    Revision[]
+  illustration ArticleIllustration?
+  relatedFrom  RelatedArticle[]     @relation("from")
+  relatedTo    RelatedArticle[]     @relation("to")
 
   /// Emplacement de l'image principale. Non implemente pour l'instant.
   heroImage String?

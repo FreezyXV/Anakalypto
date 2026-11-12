@@ -236,6 +236,20 @@ quiz:
     explanation: >
       C'est pourquoi l'hypothèse avancée pour Homo naledi reste débattue. Une affirmation
       extraordinaire demande d'avoir éliminé les explications ordinaires.
+  - question: "Pourquoi la datation publiée en 2017 a-t-elle réservé une surprise ?"
+    options:
+      - "Elle montrait que l'espèce était apparue il y a plusieurs millions d'années"
+      - "Elle prouvait que l'espèce descendait d'Homo sapiens"
+      - "Elle montrait qu'une espèce au petit cerveau vivait à l'époque des premiers Homo sapiens, alors qu'on la croyait bien plus ancienne"
+    answer: 3
+    explanation: "On attendait plusieurs millions d'années, mais les fossiles ont entre 335 000 et 236 000 ans. Cette espèce au petit cerveau était donc contemporaine des premiers Homo sapiens."
+  - question: "Comment les Dénisoviens ont-ils d'abord été identifiés ?"
+    options:
+      - "Par l'ADN extrait d'un minuscule fragment osseux, avant même de disposer de fossiles complets"
+      - "Par un crâne complet découvert dans une grotte"
+      - "Par des outils de pierre caractéristiques"
+    answer: 1
+    explanation: "L'analyse de l'ADN ancien a permis d'identifier cette population à partir d'un minuscule fragment osseux, avant même de disposer de fossiles complets."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -306,8 +320,18 @@ extrait d'un minuscule fragment osseux, avant même de disposer de fossiles comp
 - L'hypothèse d'un comportement funéraire intentionnel reste débattue.
 - L'ADN ancien a révélé des croisements entre populations humaines.
 
-[Emplacement image : buisson des espèces humaines et leurs périodes de coexistence, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: L'évolution humaine, une ligne ou un buisson
+colonnes:
+  - titre: L'image ancienne
+    points:
+      - Une ligne droite d'ancêtres
+  - titre: Ce que l'on sait aujourd'hui
+    points:
+      - Plusieurs espèces humaines ont coexisté
+      - Homo naledi vivait il y a environ 250 000 ans
+```
 
 ---
 
@@ -349,6 +373,20 @@ quiz:
     explanation: >
       C'est la chute de la mortalité, et notamment de la mortalité infantile, qui explique
       l'essentiel. La natalité a même diminué pendant cette période dans les pays concernés.
+  - question: "Pourquoi est-il impossible de résumer le XXe siècle par un jugement unique ?"
+    options:
+      - "Parce que les sources manquent pour cette période"
+      - "Parce que les mêmes progrès techniques ont servi à soigner et à tuer à grande échelle"
+      - "Parce que seules les guerres mondiales comptent vraiment"
+    answer: 2
+    explanation: "Le siècle a vu l'éradication de la variole et l'extermination industrielle de populations. Les mêmes progrès techniques ont servi à soigner et à tuer à grande échelle."
+  - question: "Quelles sont les deux nouveautés sans précédent historique de l'époque contemporaine ?"
+    options:
+      - "Les guerres mondiales et l'explosion démographique"
+      - "L'électricité et les chemins de fer"
+      - "Une capacité d'autodestruction depuis 1945 et une action des humains sur le système terrestre"
+    answer: 3
+    explanation: "Depuis 1945, l'humanité peut détruire une grande partie de sa civilisation, et ses activités modifient le climat, l'atmosphère et la biodiversité à l'échelle planétaire."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -424,8 +462,15 @@ questions du siècle actuel.
 - Cette croissance vient de la chute de la mortalité, pas d'une hausse de la natalité.
 - Le XXe siècle a produit à la fois les plus grands progrès et les pires destructions.
 
-[Emplacement image : évolution de la population mondiale et de l'espérance de vie depuis 1800,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Deux siècles qui ont tout changé
+chiffres:
+  - valeur: "× 8"
+    texte: la population mondiale en deux siècles
+  - valeur: Énergie fossile
+    texte: elle a multiplié la puissance disponible par personne
+```
 
 ---
 
@@ -467,6 +512,20 @@ quiz:
     explanation: >
       Les pauvres, les femmes, les esclaves, les colonisés écrivaient rarement et n'étaient
       décrits que par d'autres. L'absence de traces n'est pas l'absence d'existence.
+  - question: "Quelle différence y a-t-il entre critique externe et critique interne d'une source ?"
+    options:
+      - "L'externe porte sur le contenu, l'interne sur le support matériel"
+      - "L'externe compare plusieurs sources, l'interne n'en examine qu'une"
+      - "L'externe porte sur la source elle-même (auteur, date, authenticité), l'interne sur son contenu (témoin direct, intérêt de l'auteur)"
+    answer: 3
+    explanation: "La critique externe s'intéresse à la source elle-même : qui l'a produite, quand, est-elle authentique. La critique interne examine son contenu : l'auteur était-il témoin, avait-il un intérêt à présenter les choses ainsi."
+  - question: "Qu'est-ce que l'anachronisme, piège classique de l'historien ?"
+    options:
+      - "Juger le passé avec les catégories du présent, ce qui empêche de comprendre pourquoi les gens ont agi ainsi"
+      - "Dater un document plus tard qu'il ne l'est réellement"
+      - "Excuser tous les comportements du passé au nom du contexte"
+    answer: 1
+    explanation: "L'anachronisme consiste à juger le passé avec les catégories du présent. Comprendre ce que les gens savaient et croyaient est nécessaire, sans pour autant tout excuser."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -543,8 +602,18 @@ Ce n'est pas une faiblesse. C'est la marque d'une discipline vivante.
 - Le croisement de sources indépendantes renforce une conclusion.
 - Les populations sans écriture ne sont connues que par ce que d'autres ont écrit d'elles.
 
-[Emplacement image : croisement de sources différentes sur un même événement, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La méthode de l'historien
+elements:
+  - titre: Trouver les traces
+    texte: Toujours partielles.
+  - titre: Critiquer chaque source
+    texte: Auteur, destinataire, but.
+  - titre: Croiser les sources
+  - titre: Éviter l'anachronisme
+  - titre: Réviser si besoin
+```
 
 ---
 
@@ -586,6 +655,20 @@ quiz:
     explanation: >
       Les médicaments vitaux ou le carburant pour aller travailler en sont des exemples. On
       réduit peu sa consommation même quand le prix grimpe, faute d'alternative.
+  - question: "Pourquoi les prix agricoles fluctuent-ils autant ?"
+    options:
+      - "Parce que la consommation de nourriture varie fortement d'une année à l'autre"
+      - "Parce que la production dépend de la météo alors que la consommation reste à peu près stable"
+      - "Parce que les agriculteurs fixent leurs prix à l'avance"
+    answer: 2
+    explanation: "La production agricole varie avec la météo, alors que la consommation reste à peu près stable. L'écart entre offre et demande fait donc bouger les prix."
+  - question: "Pourquoi les sociétés retirent-elles certains biens du marché, comme l'école ou la justice ?"
+    options:
+      - "Parce que ces biens n'ont aucune valeur économique"
+      - "Parce qu'un marché fixe les prix de manière trop stable"
+      - "Parce qu'un marché alloue selon la capacité à payer, sans rien dire de la justice de la répartition"
+    answer: 3
+    explanation: "Un marché alloue selon la capacité à payer, ce qui est une information et non un jugement moral. Les sociétés retirent donc certains biens du marché ou en corrigent le résultat."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -657,8 +740,23 @@ santé — ou en corrigent le résultat.
 - Un bien sans substitut peut voir son prix monter sans que la demande baisse.
 - Un marché alloue selon la capacité à payer, ce qui ne dit rien de la justice.
 
-[Emplacement image : croisement des courbes d'offre et de demande, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+titre: L'offre et la demande
+legende: >-
+  Modèle simple, toutes choses égales par ailleurs ; le prix d’équilibre correspond à la rencontre
+  des quantités offertes et demandées.
+type: comparaison
+colonnes:
+  - titre: Demande
+    points:
+      - Diminue quand le prix monte
+  - titre: Offre
+    points:
+      - Augmente quand le prix monte
+  - titre: Élasticité
+    points:
+      - La réaction de la demande à une variation de prix
+```
 
 ---
 
@@ -700,6 +798,20 @@ quiz:
     explanation: >
       Si vous gardez vos enfants, cela ne compte pas. Si vous payez quelqu'un pour le faire,
       cela augmente le PIB. Le service rendu est pourtant identique.
+  - question: "Pourquoi une catastrophe qui détruit des logements peut-elle faire monter le PIB ?"
+    options:
+      - "Parce que le PIB compte positivement la reconstruction et les dépenses de réparation"
+      - "Parce que la catastrophe fait baisser les prix et stimule la demande"
+      - "Parce que le PIB mesure le nombre de logements détruits"
+    answer: 1
+    explanation: "Le PIB additionne la valeur de ce qui est produit : la reconstruction compte positivement, sans que la destruction soit déduite."
+  - question: "Quel facteur démographique contribue au ralentissement de la croissance ?"
+    options:
+      - "Les populations actives rajeunissent trop vite"
+      - "Les populations actives vieillissent et cessent de croître dans de nombreux pays"
+      - "La natalité augmente fortement dans les économies avancées"
+    answer: 2
+    explanation: "Parmi les facteurs de ralentissement, le texte cite la démographie : les populations actives vieillissent et cessent de croître dans de nombreux pays."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -773,8 +885,19 @@ l'un se prend davantage sur l'autre.
 - Il ignore le travail non rémunéré et la dégradation de l'environnement.
 - Une croissance faible durcit les arbitrages politiques.
 
-[Emplacement image : croissance comparée des économies avancées et émergentes, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Croissance mondiale annuelle
+legende: >-
+  Comparaison historique et prévision citée dans la leçon, sans présenter cette prévision comme la
+  valeur actuelle.
+type: barres
+unite: '%'
+valeurs:
+  - label: Moyenne avant 2020
+    valeur: 3.7
+  - label: Projection pour 2025 citée
+    valeur: 3.2
+```
 
 ---
 
@@ -818,6 +941,20 @@ quiz:
     explanation: >
       Des taux plus élevés découragent l'emprunt et l'investissement. La demande ralentit, ce
       qui réduit la pression sur les prix — au prix d'un ralentissement de l'activité.
+  - question: "Pourquoi les banques centrales visent-elles environ 2 % d'inflation plutôt que zéro ?"
+    options:
+      - "Parce que les salaires ne peuvent pas augmenter sans inflation"
+      - "Parce qu'une inflation nulle laisse trop peu de marge : au moindre choc, on bascule en déflation"
+      - "Parce que 2 % est le niveau qui maximise la croissance"
+    answer: 2
+    explanation: "Avec une inflation nulle, le moindre choc peut faire basculer l'économie en déflation, une situation redoutable."
+  - question: "Pourquoi la déflation est-elle redoutable ?"
+    options:
+      - "Parce qu'elle ruine les emprunteurs à taux fixe"
+      - "Parce qu'elle fait monter les taux d'intérêt"
+      - "Parce que les consommateurs reportent leurs achats, la demande chute, le chômage monte et les prix baissent encore"
+    answer: 3
+    explanation: "Si les consommateurs anticipent des prix plus bas, ils reportent leurs achats. La demande et la production baissent, le chômage monte, ce qui fait baisser encore les prix : la spirale s'auto-entretient."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -892,8 +1029,18 @@ l'activité.
 - Elle pénalise les revenus fixes et les épargnants, et avantage les emprunteurs.
 - La déflation est plus dangereuse encore, car elle s'auto-entretient.
 
-[Emplacement image : composition du panier de mesure de l'inflation, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'inflation
+centre: Hausse générale des prix
+parties:
+  - nom: Mesure
+    role: Sur un panier moyen.
+  - nom: Écart avec le ressenti
+    role: Chacun a son propre panier.
+  - nom: Gagnants et perdants
+  - nom: Cible de 2 %
+```
 
 ---
 
@@ -937,6 +1084,20 @@ quiz:
     explanation: >
       Le patrimoine s'accumule au fil du temps et se transmet entre générations. Les écarts
       s'y creusent donc bien davantage que sur les revenus annuels.
+  - question: "Pourquoi comparer deux pays sans préciser si l'on parle d'avant ou d'après redistribution n'a-t-il aucun sens ?"
+    options:
+      - "Parce que les deux pays n'utilisent pas la même monnaie"
+      - "Parce que la redistribution réduit substantiellement l'écart dans les pays dotés d'un système social développé"
+      - "Parce que le coefficient de Gini ne peut pas être calculé après impôts"
+    answer: 2
+    explanation: "Les inégalités de revenu primaire diffèrent fortement de celles du revenu disponible, car la redistribution réduit l'écart, surtout dans les pays à système social développé."
+  - question: "Que signifie un coefficient de Gini égal à 0 ?"
+    options:
+      - "Une seule personne possède tout"
+      - "Les revenus sont nuls dans toute la population"
+      - "Tout le monde a exactement la même chose"
+    answer: 3
+    explanation: "Le coefficient de Gini vaut 0 si tout le monde a exactement la même chose, et 1 si une seule personne a tout."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1014,8 +1175,18 @@ chiffres et de savoir lesquels.
 - Il faut toujours préciser si l'on parle avant ou après redistribution.
 - Les services publics gratuits sont un revenu en nature rarement compté.
 
-[Emplacement image : répartition du revenu et du patrimoine comparée, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Revenu ou patrimoine
+colonnes:
+  - titre: Revenu
+    points:
+      - Un flux, chaque année
+  - titre: Patrimoine
+    points:
+      - Un stock accumulé
+      - Bien plus inégalement réparti
+```
 
 ---
 
@@ -1058,6 +1229,20 @@ quiz:
       Chaque rappel réactive et recompose. Des détails peuvent s'ajouter ou se déformer, avec
       une confiance intacte. C'est pourquoi les témoignages oculaires sont moins fiables qu'on
       ne le croit.
+  - question: "Pourquoi un expert retient-il bien plus d'éléments dans son domaine ?"
+    options:
+      - "Sa mémoire de travail a une capacité plus grande que la moyenne"
+      - "Il relit plus souvent ce qu'il doit retenir"
+      - "Il mémorise des éléments plus gros, déjà organisés en motifs familiers"
+    answer: 3
+    explanation: "La mémoire de travail reste limitée. L'expert contourne cette limite par le regroupement : il retient des blocs plus gros, déjà organisés en motifs familiers."
+  - question: "Pourquoi la confiance d'un témoin n'est-elle pas un bon indicateur de l'exactitude de son souvenir ?"
+    options:
+      - "Parce que le souvenir est recomposé à chaque rappel et peut être influencé par ce qu'on nous raconte ou par la façon dont on pose la question"
+      - "Parce que les témoins mentent le plus souvent volontairement"
+      - "Parce que la mémoire sensorielle s'efface en une fraction de seconde"
+    answer: 1
+    explanation: "Un souvenir est reconstruit à chaque rappel, à partir de fragments, sous diverses influences. On peut même implanter des souvenirs d'événements qui n'ont jamais eu lieu."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1134,8 +1319,20 @@ Et dormir, car c'est pendant le sommeil que la consolidation s'effectue.
 - La confiance d'un témoin ne garantit pas l'exactitude de son souvenir.
 - Se tester et espacer les révisions sont les deux méthodes les plus efficaces.
 
-[Emplacement image : les trois systèmes de mémoire et leurs durées, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois mémoires
+colonnes:
+  - titre: Sensorielle
+    points:
+      - Très brève
+  - titre: De travail
+    points:
+      - Quelques éléments à la fois
+  - titre: À long terme
+    points:
+      - Se souvenir, c'est reconstruire
+```
 
 ---
 
@@ -1178,6 +1375,20 @@ quiz:
     explanation: >
       Elle s'acquiert vers quatre ou cinq ans. Avant, l'enfant suppose que ce qu'il sait, tout
       le monde le sait. C'est une étape essentielle de la vie sociale.
+  - question: "Dans l'expérience de l'eau, pourquoi un enfant de quatre ans affirme-t-il qu'il y a plus d'eau dans le verre étroit ?"
+    options:
+      - "Il n'a pas bien vu le liquide qu'on versait"
+      - "Il se concentre sur une seule dimension, le niveau plus haut"
+      - "Il ne sait pas encore compter jusqu'à deux"
+    answer: 2
+    explanation: "Ce n'est pas une erreur d'observation : l'enfant se concentre sur une seule dimension, le niveau. Sa façon de raisonner n'a pas encore acquis la conservation des quantités."
+  - question: "Pourquoi les travaux ultérieurs ont-ils nuancé les conclusions de Piaget ?"
+    options:
+      - "Avec des tests moins dépendants du langage, on observe des capacités bien plus précoces chez les jeunes enfants"
+      - "Parce qu'ils ont montré que Piaget avait surestimé les compétences des jeunes enfants"
+      - "Parce qu'ils ont prouvé que les enfants ne progressent pas du tout par étapes"
+    answer: 1
+    explanation: "Piaget avait souvent sous-estimé les jeunes enfants. Les tests moins dépendants du langage révèlent des capacités plus précoces, et le développement apparaît plus continu que découpé en stades nets."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1257,8 +1468,19 @@ Mais le cadre général — un enfant qui pense autrement et non simplement moin
 - La conservation des quantités apparaît vers sept ans.
 - La théorie de l'esprit, vers quatre ou cinq ans, fonde la vie sociale.
 
-[Emplacement image : expérience de conservation des quantités avec deux verres, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Quelques étapes du développement de la pensée
+legende: Repères approximatifs des tâches décrites ; développement variable selon les enfants et les tests.
+type: frise
+evenements:
+  - date: Première année
+    titre: Permanence de l'objet
+  - date: Vers 4–5 ans
+    titre: Comprendre les croyances d’autrui
+  - date: Vers 7 ans
+    titre: Conservation
+    texte: Comprendre que la quantité d’eau ne change pas avec le verre.
+```
 
 ---
 
@@ -1300,6 +1522,20 @@ quiz:
     explanation: >
       C'est le biais de disponibilité : nous jugeons la fréquence d'un événement à la facilité
       avec laquelle nous en trouvons des exemples, pas à sa fréquence réelle.
+  - question: "Pourquoi celui qui annonce le premier chiffre dans une négociation obtient-il un avantage ?"
+    options:
+      - "Parce qu'il paraît toujours plus compétent"
+      - "Parce que le premier chiffre entendu influence tous les jugements suivants, c'est l'ancrage"
+      - "Parce que l'autre partie cherche surtout ce qui confirme son avis"
+    answer: 2
+    explanation: "Le premier chiffre entendu ancre les jugements suivants, même quand il est arbitraire. C'est pourquoi le premier chiffre annoncé pèse dans une négociation."
+  - question: "Qu'est-ce qui permet réellement de limiter les biais cognitifs ?"
+    options:
+      - "Décider simplement d'être objectif"
+      - "Se fier à son expérience d'expert"
+      - "Des méthodes : chercher ce qui contredit son hypothèse, écrire sa prédiction avant le résultat, demander l'avis d'un tiers"
+    answer: 3
+    explanation: "Décider d'être objectif ne fonctionne pas. Ce qui marche relève de la méthode, et c'est exactement à cela que sert la méthode scientifique."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1384,8 +1620,19 @@ tatillonnes, c'est un dispositif construit pour limiter ces biais.
 - Le biais de disponibilité fait surestimer les risques spectaculaires.
 - On s'en protège par des méthodes, pas par la seule bonne volonté.
 
-[Emplacement image : principaux biais cognitifs et situations où ils se déclenchent, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Quelques biais cognitifs
+centre: Raccourcis mentaux
+icone: brain
+parties:
+  - nom: Biais de confirmation
+    role: Chercher ce qui nous donne raison.
+  - nom: Biais de disponibilité
+    role: Juger selon ce qui vient en tête.
+  - nom: Ancrage
+    role: Le premier chiffre influence la suite.
+```
 
 ---
 
@@ -1428,6 +1675,20 @@ quiz:
     explanation: >
       Un seul dissident suffit à faire chuter la conformité de façon spectaculaire. Ce n'est
       pas l'unanimité du groupe qui pèse, c'est le fait d'être seul contre tous.
+  - question: "Pourquoi les expériences d'obéissance à l'autorité sont-elles aujourd'hui discutées ?"
+    options:
+      - "Elles ne seraient plus autorisées pour des raisons éthiques, et leurs comptes rendus montrent des variations entre conditions et un rôle de l'insistance de l'expérimentateur"
+      - "Personne n'a jamais pu en reproduire les résultats"
+      - "Les participants savaient d'avance que les chocs électriques étaient faux"
+    answer: 1
+    explanation: "Ces travaux sont discutés sur le plan éthique et méthodologique : les comptes rendus détaillés montrent des variations entre conditions et un rôle de l'insistance de l'expérimentateur."
+  - question: "Que montrent les recherches sur le rôle de la situation par rapport à celui de la personnalité ?"
+    options:
+      - "La personnalité explique l'essentiel d'un comportement"
+      - "Le contexte explique souvent davantage un comportement, sans annuler la responsabilité individuelle"
+      - "La responsabilité individuelle disparaît dès qu'on est dans un groupe"
+    answer: 2
+    explanation: "Notre réflexe est d'expliquer un comportement par la personnalité, mais le contexte pèse souvent davantage. Cela n'annule pas la responsabilité individuelle : cela indique où agir."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1501,8 +1762,18 @@ procédures et la possibilité de dire non.
 - Un seul allié suffit à faire chuter la conformité.
 - La situation explique souvent davantage un comportement que la personnalité.
 
-[Emplacement image : dispositif de l'expérience de conformité sur les lignes, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Ce qui fait céder au groupe
+type: systeme
+centre: Conformité
+parties:
+  - nom: L'unanimité
+    role: Elle compte beaucoup.
+  - nom: La taille du groupe
+    role: Son effet n’augmente pas indéfiniment avec chaque personne supplémentaire.
+  - nom: Un seul allié
+    role: Peut réduire fortement la pression à se conformer.
+```
 
 ---
 
@@ -1546,6 +1817,20 @@ quiz:
     explanation: >
       C'est le cœur de l'analyse : l'égalité formelle de traitement peut produire de
       l'inégalité réelle quand les élèves n'arrivent pas avec les mêmes ressources.
+  - question: "Pourquoi une orientation précoce vers des filières séparées renforce-t-elle les écarts sociaux ?"
+    options:
+      - "Parce que les élèves choisissent toujours les filières les plus sélectives"
+      - "Parce qu'elle retarde l'accès à l'information sur les métiers"
+      - "Parce qu'elle sépare tôt les élèves, et que cette orientation reflète largement l'origine sociale"
+    answer: 3
+    explanation: "Les systèmes qui orientent tôt tendent à renforcer les écarts, car l'orientation précoce reflète largement l'origine sociale. Une orientation tardive laisse aux trajectoires le temps de s'écarter des origines."
+  - question: "Qu'appelle-t-on autocensure dans ce contexte ?"
+    options:
+      - "À résultats égaux, les élèves d'origine modeste se dirigent moins souvent vers les filières les plus sélectives"
+      - "Le fait que les enseignants évitent de noter sévèrement"
+      - "Le refus des familles aisées d'utiliser leurs ressources"
+    answer: 1
+    explanation: "L'autocensure est l'un des mécanismes concrets décrits : à résultats égaux, les élèves d'origine modeste visent moins souvent les filières les plus sélectives."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1626,8 +1911,17 @@ minoritaires, et en faire le modèle général masque le fonctionnement d'ensemb
 - Le capital culturel désigne des ressources invisibles transmises par la famille.
 - Traiter tous les élèves identiquement avantage ceux qui ont déjà les codes.
 
-[Emplacement image : lien entre origine sociale et performance scolaire selon les pays, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'école et la reproduction sociale
+centre: Réussite scolaire
+parties:
+  - nom: Origine sociale
+    role: Elle prédit fortement la réussite.
+  - nom: Capital culturel
+  - nom: Systèmes scolaires
+    role: L'ampleur varie, ce n'est pas une fatalité.
+```
 
 ---
 
@@ -1706,6 +2000,20 @@ quiz:
       L'agriculture, contrairement à la chasse et la cueillette, nécessite de rester sur place
       pour surveiller et récolter les cultures, ce qui a conduit à l'établissement de villages
       permanents.
+  - question: "Comment des espèces sauvages sont-elles devenues des variétés domestiquées ?"
+    options:
+      - "En cueillant plus souvent les plantes dans la nature"
+      - "En sélectionnant et en replantant les graines des plantes les plus productives"
+      - "En protégeant les plantes uniquement de la pluie"
+    answer: 2
+    explanation: "Sélectionner et replanter les graines des plantes les plus productives a progressivement transformé des espèces sauvages en variétés domestiquées, dépendantes de l'intervention humaine."
+  - question: "Pourquoi le surplus alimentaire a-t-il favorisé l'artisanat et le commerce ?"
+    options:
+      - "Parce que tout le monde pouvait désormais cultiver sans travailler"
+      - "Parce que les cultures exigeaient de voyager loin pour échanger"
+      - "Parce que certaines personnes pouvaient se consacrer à d'autres activités que produire de la nourriture"
+    answer: 3
+    explanation: "Un surplus permet à certaines personnes de ne plus produire de nourriture et de se consacrer à l'artisanat spécialisé, au commerce et, à terme, aux premières civilisations."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -1758,8 +2066,19 @@ spécialisé, du commerce et, à terme, des premières civilisations organisées
 - Le surplus alimentaire produit a permis l'apparition de l'artisanat, du commerce et des
   premières civilisations.
 
-[Emplacement image : scène illustrant le passage de la cueillette à la culture organisée de
-céréales dans le Croissant fertile, légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Des transformations du Néolithique
+legende: >-
+  Ces transformations se combinent selon des trajectoires régionales ; la sédentarisation peut
+  précéder l’agriculture.
+type: systeme
+centre: Transformations néolithiques
+parties:
+  - nom: Cueillette et chasse
+  - nom: Culture des plantes
+  - nom: Domestication des animaux
+  - nom: Sédentarisation
+```
 
 ---
 
@@ -1821,6 +2140,20 @@ quiz:
       Un percuteur plus tendre, comme un morceau de bois ou de bois de cervidé, permet un
       détachement d'éclats plus contrôlé et plus précis qu'un percuteur en pierre dure,
       représentant une avancée technique majeure.
+  - question: "Quel avantage offre un percuteur tendre, en bois ou en bois de cervidé, par rapport à la pierre dure ?"
+    options:
+      - "Il détache des éclats plus gros"
+      - "Il permet un contrôle bien plus fin du résultat"
+      - "Il rend la roche taillée plus dure"
+    answer: 2
+    explanation: "L'usage de percuteurs plus tendres a permis un contrôle bien plus fin du résultat obtenu."
+  - question: "Que montre l'apparition des outils bifaciaux, taillés symétriquement sur leurs deux faces ?"
+    options:
+      - "Une planification plus poussée du geste de taille"
+      - "Que la taille se faisait désormais sans réflexion"
+      - "Que le silex avait été remplacé par un autre matériau"
+    answer: 1
+    explanation: "Les outils bifaciaux témoignent d'une planification plus poussée du geste de taille, par rapport aux simples éclats."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -1874,8 +2207,17 @@ fabriquer des outils coupants utiles en l'absence de métal disponible.
   dure.
 - Cette compétence ancienne reste reproductible aujourd'hui avec des moyens simples.
 
-[Emplacement image : séquence de taille d'un silex, du bloc brut à l'éclat tranchant obtenu,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'évolution des outils de pierre
+elements:
+  - titre: Galets aménagés
+    texte: Les premiers outils, simples.
+  - titre: Bifaces
+  - titre: Éclats préparés
+  - titre: Lames fines
+    texte: Un sommet de technique.
+```
 
 ---
 
@@ -2020,6 +2362,20 @@ quiz:
     explanation: >
       Les États-Unis ont transféré environ 13,3 milliards de dollars à dix-sept pays d'Europe
       occidentale entre 1948 et 1952 pour soutenir leur reconstruction économique après la guerre.
+  - question: "Quel avantage a apporté le fait que le plan encourageait une reconstruction coordonnée plutôt qu'isolée ?"
+    options:
+      - "Une compétition plus forte entre pays voisins"
+      - "Une reconstruction plus rapide dans un seul pays"
+      - "Une reconstruction plus efficace des transports, de l'industrie et du commerce à l'échelle du continent"
+    answer: 3
+    explanation: "La coopération entre pays a permis de reconstruire plus efficacement les réseaux de transport, l'industrie et le commerce à l'échelle de tout le continent."
+  - question: "Quel héritage durable le plan Marshall a-t-il laissé au-delà de la reconstruction matérielle ?"
+    options:
+      - "Les bases d'une coopération économique européenne, qui a contribué aux premières institutions d'intégration européenne"
+      - "La création immédiate d'une monnaie commune"
+      - "Une présence militaire américaine permanente"
+    answer: 1
+    explanation: "Le plan a posé les bases d'une coopération économique européenne prolongée, qui a contribué à l'émergence des premières institutions d'intégration européenne."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2073,8 +2429,15 @@ premières institutions d'intégration européenne dans les décennies suivantes
 - Il a posé les bases d'une coopération économique européenne durable au-delà de la seule
   reconstruction immédiate.
 
-[Emplacement image : ville européenne en reconstruction après-guerre avec des grues et des
-échafaudages visibles, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le plan Marshall
+elements:
+  - titre: Europe dévastée
+  - titre: Proposition de George Marshall
+  - titre: Aide financière massive
+  - titre: Reconstruction coordonnée
+```
 
 ---
 
@@ -2188,6 +2551,20 @@ quiz:
       Diamond met l'accent sur l'épuisement des ressources locales, comme les terres cultivables
       ou les forêts, comme facteur déterminant dans l'effondrement de plusieurs sociétés
       étudiées.
+  - question: "Que se passe-t-il quand plusieurs facteurs d'effondrement se combinent ?"
+    options:
+      - "Chacun est compensé par les autres jusqu'à ce que le dernier cède"
+      - "Le facteur militaire finit toujours par tout expliquer"
+      - "Ils s'aggravent mutuellement jusqu'à dépasser la capacité d'adaptation de la société"
+    answer: 3
+    explanation: "Sécheresse, mauvaise gestion, tensions internes et pression militaire peuvent se combiner et s'aggraver mutuellement jusqu'à dépasser la capacité d'adaptation d'une société."
+  - question: "Que s'est-il passé pour les populations après la chute de l'Empire romain d'Occident ?"
+    options:
+      - "Elles ont disparu avec l'empire"
+      - "Elles ont continué à vivre selon des structures plus simples et décentralisées"
+      - "Elles ont conservé la même administration à plus petite échelle"
+    answer: 2
+    explanation: "Un effondrement politique ne signifie pas la disparition de la population : après la chute de Rome, les gens ont continué à vivre dans des structures beaucoup plus simples et décentralisées."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2243,9 +2620,17 @@ disponibles.
 - Se reconstruire après un effondrement passe souvent par une simplification temporaire avant une
   nouvelle complexité.
 
-[Emplacement image : ruines d'une ancienne cité, comme celles de Rome ou d'une cité maya,
-symbolisant l'effondrement d'une civilisation, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: comparaison
+titre: Deux explications de l'effondrement
+colonnes:
+  - titre: Joseph Tainter
+    points:
+      - Rendements décroissants de la complexité
+  - titre: Jared Diamond
+    points:
+      - Épuisement des ressources locales
+```
 
 ---
 
@@ -2325,6 +2710,20 @@ quiz:
       Smith a formulé le principe selon lequel l'étendue de la division du travail est toujours
       limitée par l'étendue du marché : une spécialisation poussée n'a de sens que si la demande
       est suffisante pour écouler la production ainsi obtenue.
+  - question: "Pourquoi se spécialiser dans une tâche répétée augmente-t-il la productivité ?"
+    options:
+      - "On développe vite une compétence approfondie, on évite les pertes de temps liées au changement d'activité et on peut utiliser des outils adaptés"
+      - "Chaque ouvrier travaille simplement plus longtemps"
+      - "Chaque ouvrier fabrique un produit entier, ce qui évite les erreurs"
+    answer: 1
+    explanation: "La spécialisation permet d'acquérir rapidement une compétence, d'éviter les pertes de temps du changement d'activité et d'utiliser des outils spécifiques à la tâche."
+  - question: "Quelle vulnérabilité une spécialisation trop poussée peut-elle créer ?"
+    options:
+      - "Elle diminue toujours la qualité des produits"
+      - "Elle empêche tout commerce entre régions"
+      - "Elle rend vulnérable si la demande pour sa spécialité disparaît, et crée une dépendance envers d'autres partenaires"
+    answer: 3
+    explanation: "Un travailleur ou une région très spécialisé est exposé si la demande disparaît, et dépend des autres pour tout ce qu'il ne produit plus lui-même."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2381,8 +2780,15 @@ partenaires pour tout ce que l'on ne produit plus soi-même.
 - Une spécialisation trop poussée peut aussi créer des vulnérabilités et des dépendances
   risquées.
 
-[Emplacement image : atelier illustrant plusieurs ouvriers spécialisés dans des étapes distinctes
-d'une même chaîne de fabrication, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La manufacture d'épingles d'Adam Smith, 1776
+elements:
+  - titre: Découper la fabrication
+  - titre: Chacun se spécialise
+  - titre: Les gestes deviennent rapides
+  - titre: La production explose
+```
 
 ---
 
@@ -2455,6 +2861,13 @@ sources:
     url: "https://en.wikipedia.org/wiki/History_of_accounting"
     publisher: "Wikipedia"
     date: "2025"
+  - title: "Pacioli's innovation in accounting: business or academic affairs"
+    url: "https://www.um.edu.mt/library/oar/bitstream/123456789/31139/1/Pacioli%e2%80%99s_innovation_in_accounting_business_or_academic_affairs_2014.pdf"
+    publisher: "University of Malta"
+    date: "2014"
+  - title: "Lost in Translation (Accounting History)"
+    url: "https://abdn.elsevierpure.com/files/222838131/Sangster_etal_AH_Lost_in_Translation_VOR.pdf"
+    publisher: "University of Aberdeen"
 quiz:
   - question: "Que signifie le principe de base de la comptabilité en partie double ?"
     options:
@@ -2479,6 +2892,20 @@ quiz:
       Des marchands vénitiens utilisaient déjà des versions de la comptabilité en partie double
       depuis environ deux siècles avant Pacioli. Sa contribution majeure fut de systématiser et
       de publier cette méthode, la rendant accessible à un public bien plus large.
+  - question: "Pourquoi enregistrer chaque opération deux fois permet-il de détecter les erreurs ?"
+    options:
+      - "Parce que la seconde écriture corrige automatiquement la première"
+      - "Parce que les deux inscriptions doivent s'équilibrer, donc une erreur provoque un déséquilibre visible"
+      - "Parce qu'un second comptable relit chaque écriture"
+    answer: 2
+    explanation: "Les deux inscriptions d'une opération doivent toujours s'équilibrer. Une erreur de saisie crée un déséquilibre, ce qui permet de la repérer rapidement."
+  - question: "Pourquoi le livre de Luca Pacioli a-t-il popularisé la méthode bien au-delà de Venise ?"
+    options:
+      - "Parce qu'il avait inventé la méthode"
+      - "Parce que les marchands vénitiens la gardaient secrète jusque-là"
+      - "Parce que l'imprimerie, tout juste inventée, l'a diffusé bien plus largement qu'un manuscrit"
+    answer: 3
+    explanation: "Pacioli a décrit en 1494 une méthode déjà pratiquée par les marchands. Grâce à l'imprimerie, son livre s'est diffusé bien plus largement qu'un manuscrit."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2533,8 +2960,23 @@ comme le faisaient déjà les marchands du Moyen Âge.
 - Cet équilibre permanent permet de détecter facilement les erreurs de saisie.
 - Un simple carnet suffit à appliquer ce principe sans aucun outil informatique.
 
-[Emplacement image : registre comptable ancien montrant des colonnes équilibrées de débit et de
-crédit, légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: La partie double
+legende: Chaque opération est inscrite dans au moins deux comptes.
+type: comparaison
+colonnes:
+  - titre: Débit
+    points:
+      - Côté gauche d’un compte.
+      - Son effet dépend de la nature du compte.
+  - titre: Crédit
+    points:
+      - Côté droit d’un compte.
+      - Son effet dépend de la nature du compte.
+  - titre: Équilibre
+    points:
+      - Débits et crédits sont toujours égaux
+```
 
 ---
 
@@ -2595,6 +3037,20 @@ quiz:
       Les toutes premières pièces de monnaie frappées sont généralement attribuées à la Lydie,
       une région d'Asie Mineure, vers le septième ou sixième siècle avant notre ère, à peu près à
       la même époque que des développements similaires en Inde et en Chine.
+  - question: "Pourquoi des biens comme le sel, les coquillages ou le bétail ont-ils facilité les échanges ?"
+    options:
+      - "Ils étaient plus légers et plus faciles à transporter que l'or"
+      - "Leur valeur était généralement reconnue par tous, même sans coïncidence des besoins"
+      - "Un souverain garantissait leur poids et leur valeur"
+    answer: 2
+    explanation: "Ces biens étaient largement acceptés comme intermédiaires : chacun savait qu'il pourrait les échanger ensuite, ce qui évitait de chercher un partenaire ayant exactement le besoin opposé."
+  - question: "Qu'apportaient les pièces frappées par rapport à l'or et à l'argent simplement pesés ?"
+    options:
+      - "Elles garantissaient un poids et une valeur standardisés sans pesée à chaque échange"
+      - "Elles permettaient de se passer de métaux précieux pour échanger"
+      - "Elles étaient plus rares, donc plus précieuses que les lingots"
+    answer: 1
+    explanation: "La pièce frappée porte une garantie de poids et de valeur : on n'a plus besoin de peser le métal à chaque transaction."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2647,8 +3103,20 @@ cette même évolution vers des échanges toujours plus rapides et moins encombr
 - La monnaie papier, apparue en Chine, a ouvert la voie à des formes d'échange toujours plus
   légères, jusqu'à la monnaie numérique.
 
-[Emplacement image : évolution de la monnaie, du troc de biens aux premières pièces métalliques
-frappées, légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Des formes d’échange et de monnaie
+legende: Repères conceptuels, sans succession universelle démontrée de toutes les sociétés.
+type: frise
+evenements:
+  - date: Troc
+    titre: Double coïncidence des besoins
+  - date: Monnaie marchandise
+    titre: Sel, coquillages, bétail
+  - date: Métaux
+    titre: Or et argent
+  - date: Pièces frappées
+    titre: Une valeur garantie
+```
 
 ---
 
@@ -2913,16 +3381,165 @@ title: Apprendre efficacement
 slug: apprendre-efficacement
 categoryPath: sciences-humaines-et-sociales/psychologie/cognition
 summary: >
-  Répétition espacée, test de soi-même : ce que la recherche dit des méthodes d'apprentissage.
+  Relire et surligner donnent une impression de maîtrise, mais retiennent peu. Les recherches en
+  psychologie montrent que se tester, espacer les révisions, mélanger les sujets et expliquer avec
+  ses propres mots sont bien plus efficaces.
 tags: [cognition]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [pourquoi-reviser-en-plusieurs-fois-aide-t-il-a-mieux-retenir, processus-cognitifs-memoire-attention, former-de-bonnes-habitudes, gerer-son-temps-priorites]
+sources:
+  - title: "Improving Students' Learning With Effective Learning Techniques"
+    url: "https://journals.sagepub.com/doi/10.1177/1529100612453266"
+    publisher: "Psychological Science in the Public Interest"
+  - title: "Testing effect"
+    url: "https://en.wikipedia.org/wiki/Testing_effect"
+    publisher: "Wikipedia"
+  - title: "Spacing effect"
+    url: "https://en.wikipedia.org/wiki/Spacing_effect"
+    publisher: "Wikipedia"
+  - title: "Courbe de l'oubli"
+    url: "https://fr.wikipedia.org/wiki/Courbe_de_l%27oubli"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle méthode est la plus efficace pour retenir une leçon ?"
+    options:
+      - "Essayer de la retrouver de mémoire, sans regarder le cours"
+      - "La relire plusieurs fois d'affilée"
+      - "La surligner en couleurs"
+    answer: 1
+    explanation: >
+      Chaque effort de rappel renforce le souvenir. C'est l'effet de test, l'une des méthodes
+      les mieux validées par la recherche.
+  - question: "Pourquoi vaut-il mieux réviser en plusieurs séances espacées ?"
+    options:
+      - "Parce qu'on s'ennuie moins"
+      - "Parce que revenir sur une notion au moment où on commence à l'oublier la fixe plus durablement"
+      - "Parce que le cerveau ne peut pas travailler plus d'une heure"
+    answer: 2
+    explanation: >
+      C'est l'effet d'espacement. Pour le même temps total, des séances réparties sur plusieurs
+      jours donnent un souvenir bien plus solide qu'une seule longue séance.
+  - question: "Pourquoi la relecture donne-t-elle une fausse impression de savoir ?"
+    options:
+      - "Parce que le texte change"
+      - "Parce qu'on lit trop vite"
+      - "Parce que reconnaître une information est beaucoup plus facile que la retrouver seul"
+    answer: 3
+    explanation: >
+      En relisant, tout paraît familier. Mais le jour de l'examen, il faut retrouver
+      l'information sans l'avoir sous les yeux.
+  - question: "Pourquoi vaut-il mieux mélanger les types d'exercices plutôt que d'en faire vingt identiques d'affilée ?"
+    options:
+      - "Parce que cela permet de finir plus vite sa séance de travail"
+      - "Parce que cela évite de se fatiguer sur un seul sujet"
+      - "Parce que l'on apprend ainsi à reconnaître quelle méthode utiliser"
+    answer: 3
+    explanation: "Face à des exercices variés, il faut choisir la bonne méthode, alors qu'une série identique permet de répéter sans réfléchir au choix."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+La plupart des élèves révisent en relisant leurs cours et en surlignant. Ces méthodes donnent une
+impression rassurante, mais elles retiennent peu. En 2013, une grande synthèse de la recherche en
+psychologie, dirigée par John Dunlosky, a comparé dix techniques d'apprentissage. Deux arrivent en
+tête : **se tester** et **espacer les révisions**. D'autres aident aussi : mélanger les sujets,
+expliquer avec ses mots, relier à des exemples. Ces méthodes demandent plus d'effort, et c'est
+justement pour cela qu'elles marchent.
+
+## Se tester, la méthode reine
+
+Chaque fois qu'on essaie de **retrouver** une information de mémoire, on renforce le chemin qui y
+mène. C'est l'**effet de test**. En 2006, les psychologues Henry Roediger et Jeffrey Karpicke ont
+montré que des étudiants qui lisaient un texte une fois puis s'interrogeaient dessus s'en
+souvenaient bien mieux, une semaine plus tard, que ceux qui l'avaient relu plusieurs fois.
+
+En pratique :
+
+- fermer le cours et écrire ou dire tout ce dont on se souvient ;
+- fabriquer des **fiches question-réponse** et répondre avant de retourner la fiche ;
+- refaire des exercices sans regarder la correction ;
+- expliquer la leçon à quelqu'un, ou à voix haute.
+
+Se tromper fait partie de la méthode : on retient mieux une réponse corrigée après une erreur.
+
+## Espacer les révisions
+
+En 1885, le psychologue allemand Hermann Ebbinghaus mesure sur lui-même la vitesse de l'oubli : on
+oublie très vite au début, puis plus lentement. Revenir sur une notion au moment où l'on commence à
+l'oublier la fixe beaucoup plus solidement. C'est l'**effet d'espacement**.
+
+Pour le même temps total, mieux vaut quatre séances de trente minutes sur deux semaines qu'une soirée
+de deux heures la veille de l'examen. Un rythme simple : revoir le lendemain, puis trois jours après,
+puis une semaine, puis un mois. Des applications de fiches font ce calcul automatiquement.
+
+```schema
+type: comparaison
+titre: Ce qui marche, ce qui marche peu
+colonnes:
+  - titre: Très efficace
+    icone: star
+    points:
+      - Se tester de mémoire
+      - Espacer les révisions
+      - Mélanger les exercices
+      - Expliquer avec ses mots
+  - titre: Peu efficace
+    points:
+      - Relire
+      - Surligner
+      - Tout réviser la veille
+```
+
+```schema
+titre: Un rythme de révision simple
+legende: Exemple à adapter à la difficulté et à la réussite des rappels.
+type: frise
+evenements:
+  - date: Jour 1
+    titre: Apprendre
+  - date: Jour 2
+    titre: Premier rappel
+  - date: Jour 5
+    titre: Deuxième rappel
+  - date: 1 semaine plus tard
+    titre: Troisième rappel
+  - date: 1 mois plus tard
+    titre: Consolidation
+```
+
+## Les autres techniques utiles
+
+- **Mélanger les sujets ou les types d'exercices**, au lieu de faire vingt exercices identiques
+  d'affilée. On apprend ainsi à reconnaître quelle méthode utiliser.
+- **Se demander pourquoi** : relier chaque fait à une explication et à ce qu'on sait déjà.
+- **Associer mots et images** : un schéma, une carte, une frise.
+- **Utiliser des exemples concrets** pour comprendre une idée abstraite.
+
+## Les méthodes peu efficaces
+
+- **Relire** donne un sentiment de familiarité : on **reconnaît** le texte, ce qui est bien plus
+  facile que de le **retrouver** seul.
+- **Surligner** aide peu, surtout si l'on surligne beaucoup.
+- **Le bachotage** la veille permet parfois de réussir le lendemain, mais presque tout est oublié
+  quelques semaines plus tard.
+
+## Les conditions qui comptent
+
+- **Le sommeil** consolide les souvenirs de la journée : une nuit blanche avant un examen est
+  contre-productive.
+- **L'attention** : un téléphone qui vibre suffit à disperser la concentration. Le ranger dans une
+  autre pièce aide vraiment.
+- **Des séances courtes et régulières**, avec de vraies pauses.
+- **Le sport** et une bonne hygiène de vie soutiennent la mémoire et l'humeur.
+
+## À retenir
+
+- Se tester, en essayant de retrouver l'information de mémoire, est la méthode la plus efficace.
+- Espacer les révisions sur plusieurs jours fixe les souvenirs bien mieux qu'une longue séance.
+- Mélanger les exercices, chercher le pourquoi et faire des schémas aident à comprendre.
+- Relire et surligner donnent une fausse impression de maîtrise.
+- Le sommeil et l'attention sans écran sont indispensables pour apprendre.
 
 ---
 type: article
@@ -3197,6 +3814,9 @@ sources:
     url: "https://en.wikipedia.org/wiki/Governing_the_Commons"
     publisher: "Wikipedia"
     date: "2025"
+  - title: "Les communs, « tragédie » ou système de préservation des ressources ?"
+    url: "https://www.universalis.fr/encyclopedie/communs/2-des-biens-rivaux-exclusifs-et-geres-selon-des-regles-collectives/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Que soutenait la théorie de la tragédie des biens communs avant les travaux d'Elinor Ostrom ?"
     options:
@@ -3221,6 +3841,20 @@ quiz:
       Elinor Ostrom a reçu ce prix pour avoir démontré, à partir d'études de cas réelles, que des
       communautés peuvent gérer durablement des ressources partagées comme les pâturages, les
       forêts ou les zones de pêche, sans intervention extérieure, grâce à des règles collectives.
+  - question: "Pourquoi la confiance mutuelle rend-elle inutile la tentation de prélever plus que sa part ?"
+    options:
+      - "Parce que chacun sait que les autres respectent leur engagement"
+      - "Parce qu'un propriétaire unique surveille en permanence la ressource"
+      - "Parce que la ressource devient illimitée quand on la partage"
+    answer: 1
+    explanation: "Les communautés se rencontrent pour ajuster leurs règles ; chacun sait que les autres les respectent, donc personne n'a intérêt à prendre plus que sa part."
+  - question: "Laquelle de ces règles fait partie des principes communs aux communautés étudiées par Ostrom ?"
+    options:
+      - "Un contrôle assuré uniquement par une autorité extérieure"
+      - "Des sanctions progressives contre ceux qui ne respectent pas les règles"
+      - "L'accès libre pour tous, sans frontières définies"
+    answer: 2
+    explanation: "Parmi les principes identifiés figurent des frontières claires, des règles locales, une surveillance par les usagers et des sanctions progressives."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3277,9 +3911,19 @@ ressources : des règles claires et partagées collectivement suffisent souvent.
 - Ces principes sont directement utiles pour organiser le partage de ressources vitales après une
   crise.
 
-[Emplacement image : communauté villageoise se réunissant pour discuter des règles de partage
-d'une ressource commune comme un pâturage ou un point d'eau, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les biens communs selon Elinor Ostrom
+colonnes:
+  - titre: La prédiction
+    points:
+      - Tragédie des biens communs
+      - Épuisement inévitable
+  - titre: Les observations de terrain
+    points:
+      - Des communautés gèrent durablement leurs ressources
+      - Grâce à des règles partagées
+```
 
 ---
 
@@ -3352,6 +3996,9 @@ sources:
     url: "https://en.wikipedia.org/wiki/Oral_tradition"
     publisher: "Wikipedia"
     date: "2025"
+  - title: "Compagnonnage, network of knowledge and identity in apprenticeship"
+    url: "https://ich.unesco.org/en/RL/the-compagnonnage-network-of-knowledge-and-identity-in-apprenticeship-00441"
+    publisher: "UNESCO"
 quiz:
   - question: "Comment fonctionnait traditionnellement l'apprentissage d'un métier avant la
       généralisation des écoles ?"
@@ -3377,6 +4024,20 @@ quiz:
       Un texte peut décrire une technique, mais des savoir-faire comme le geste précis d'un
       artisan, le ton d'un conte ou une intuition pratique se transmettent mieux par la
       démonstration directe et la répétition orale, en complément de tout support écrit.
+  - question: "Pourquoi le compagnonnage reste-t-il irremplaçable pour des métiers comme la forge ou la menuiserie ?"
+    options:
+      - "Parce qu'il remplace entièrement l'écriture et l'école"
+      - "Parce qu'il permet de former beaucoup d'élèves en même temps"
+      - "Parce que l'apprenti observe, imite puis pratique sous la supervision d'un maître"
+    answer: 3
+    explanation: "Les savoir-faire manuels s'acquièrent par la relation prolongée avec un maître : observer, imiter les gestes, puis pratiquer jusqu'à maîtriser le métier."
+  - question: "Que permet l'écriture que la seule mémoire d'une personne ne permet pas ?"
+    options:
+      - "Accumuler des connaissances sur des siècles, consultables par quiconque sait lire"
+      - "Remplacer la démonstration pratique des gestes"
+      - "Transmettre un métier sans aucun contact avec un maître"
+    answer: 1
+    explanation: "L'écriture conserve les savoirs au-delà de la mémoire d'une personne ou d'une génération, ce qui rend possible leur accumulation."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3431,8 +4092,18 @@ savoir-faire ne se perde pas avec la disparition d'une seule personne qui le dé
   l'apprentissage pratique et oral.
 - Combiner ces méthodes protège une communauté contre la perte de savoir-faire essentiels.
 
-[Emplacement image : artisan montrant un geste technique à un jeune apprenti, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les façons de transmettre les savoirs
+centre: Savoirs
+icone: book
+parties:
+  - nom: Tradition orale
+  - nom: Compagnonnage
+    role: Apprendre en faisant.
+  - nom: Écriture
+    role: Une mémoire au-delà d'une vie.
+```
 
 ---
 
@@ -5383,6 +6054,9 @@ sources:
   - title: "Radiocarbon dating"
     url: "https://en.wikipedia.org/wiki/Radiocarbon_dating"
     publisher: "Wikipedia"
+  - title: "Radiocarbon Dating 101"
+    url: "https://www.texasbeyondhistory.net/radiocarbon/dating101.html"
+    publisher: "Texas Beyond History (University of Texas at Austin, Texas Historical Commission)"
 quiz:
   - question: "Où se forme le carbone 14 ?"
     options:
@@ -5454,6 +6128,20 @@ La méthode ne fonctionne que pour ce qui a été vivant : os, bois, charbon, ti
 Après environ 50 000 ans, il reste trop peu de carbone 14 pour le mesurer correctement.
 
 Enfin, la quantité de carbone 14 dans l'air n'a pas toujours été la même. Les scientifiques corrigent donc leurs résultats avec des courbes d'étalonnage. Ces courbes sont construites en comparant avec d'autres méthodes, comme le comptage des cernes des arbres.
+
+```schema
+type: etapes
+titre: La datation au carbone 14
+elements:
+  - titre: Formation
+    texte: Dans la haute atmosphère, par les rayons cosmiques.
+  - titre: Absorption
+    texte: Par les êtres vivants.
+  - titre: Décroissance
+    texte: Après la mort, il disparaît peu à peu.
+  - titre: Mesure
+    texte: Ce qui reste donne l'âge.
+```
 
 ## À retenir
 
@@ -5675,6 +6363,9 @@ sources:
   - title: "Dendrochronology"
     url: "https://en.wikipedia.org/wiki/Dendrochronology"
     publisher: "Wikipedia"
+  - title: "Lire dans les cernes des arbres"
+    url: "https://www.academie-agriculture.fr/sites/default/files/publications/encyclopedie/lire_dans_les_cernes_des_arbres.pdf"
+    publisher: "Académie d'agriculture de France"
 quiz:
   - question: "Combien de cernes un arbre fabrique-t-il en général chaque année ?"
     options:
@@ -5746,6 +6437,17 @@ La méthode sert à dater des charpentes de châteaux et d'églises, des maisons
 Elle a ses pièges. Une année difficile, un arbre peut ne pas former de cerne, ou en former deux. C'est pourquoi on compare toujours de nombreux arbres.
 
 Les cernes servent aussi à corriger la datation au carbone 14. Ils racontent enfin le climat du passé : sécheresses, hivers rudes ou éruptions de volcans.
+
+```schema
+type: etapes
+titre: La dendrochronologie
+elements:
+  - titre: Un cerne par an
+    icone: tree
+  - titre: Largeur selon le climat
+  - titre: Comparer des séquences
+  - titre: Dater un bois
+```
 
 ## À retenir
 
@@ -6027,6 +6729,18 @@ Les plus anciens allume-feux connus ont été trouvés en Europe. À Barnham, en
 
 Ötzi, un homme mort dans les Alpes vers 3300 avant notre ère, transportait encore de l'amadou. Son corps a été découvert dans la glace le 19 septembre 1991. Jusqu'à la fin du XIXe siècle, beaucoup de voyageurs utilisaient encore une boîte avec un silex, un briquet en acier et de l'amadou.
 
+```schema
+titre: Deux façons d'allumer un feu
+type: comparaison
+colonnes:
+  - titre: Friction
+    points:
+      - Un travail de friction adapté produit une braise dans une matière préparée.
+  - titre: Percussion
+    points:
+      - 'Silex contre pyrite ou marcassite : des étincelles recueillies sur un amadou adapté.'
+```
+
 ## À retenir
 
 - Pour allumer un feu, il faut chauffer un allume-feu, une matière qui s'enflamme très facilement.
@@ -6097,6 +6811,9 @@ sources:
   - title: "Spear-thrower"
     url: "https://en.wikipedia.org/wiki/Spear-thrower"
     publisher: "Wikipedia"
+  - title: "Le propulseur (article)"
+    url: "https://orbi.uliege.be/bitstream/2268/177319/1/propulseurbcw-49_p.105-131.pdf"
+    publisher: "Université de Liège"
 quiz:
   - question: "Comment le propulseur aide-t-il à lancer plus vite ?"
     options:
@@ -6166,6 +6883,16 @@ En Europe, il est attesté de 23 000 à 15 000 ans avant notre ère, surtout dan
 En Europe, vers la fin du Paléolithique, l'arc est venu s'ajouter au propulseur. Ailleurs, le propulseur est resté utilisé très longtemps. Les Aborigènes d'Australie l'appellent woomera. Les Aztèques l'appelaient atlatl. Les Inuits de l'Arctique et les Kanaks de Nouvelle-Calédonie s'en servaient aussi.
 
 Dans la grande cité de Teotihuacan, au Mexique, un souverain portait même le nom de « Hibou lanceur de javelots ». Aujourd'hui, certains pratiquent encore le tir au propulseur comme un sport.
+
+```schema
+type: etapes
+titre: Le propulseur
+elements:
+  - titre: Bâton à crochet
+  - titre: Il prolonge le bras
+  - titre: Effet de levier
+  - titre: Sagaie plus rapide
+```
 
 ## À retenir
 
@@ -6672,18 +7399,137 @@ status: planned
 
 ---
 type: article
-title: L'effet Dunning-Kruger, surestimer sa propre competence
+title: L'effet Dunning-Kruger, surestimer sa propre compétence
 slug: l-effet-dunning-kruger-surestimer-sa-propre-competence
 categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
 summary: >
-  Pourquoi les personnes les moins competentes surestiment souvent leurs capacites.
-tags: [biais-cognitifs, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les personnes les moins compétentes dans un domaine ont tendance à surestimer leur niveau, faute de
+  savoir repérer leurs propres erreurs. Décrit en 1999, cet effet est réel mais souvent caricaturé :
+  tout le monde y est exposé, et il se corrige par les retours et l'apprentissage.
+tags: [biais-cognitifs]
+relatedArticles: [pourquoi-notre-cerveau-se-trompe, pourquoi-croit-on-aux-fausses-informations-meme-quand-on-se-croit-prudent, apprendre-efficacement, comment-nos-emotions-orientent-elles-nos-decisions-sans-qu-on-s-en-rende-compte]
+sources:
+  - title: "Effet Dunning-Kruger"
+    url: "https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger"
+    publisher: "Wikipédia"
+  - title: "Dunning–Kruger effect"
+    url: "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect"
+    publisher: "Wikipedia"
+  - title: "Unskilled and unaware of it (Kruger & Dunning, 1999)"
+    url: "https://doi.org/10.1037/0022-3514.77.6.1121"
+    publisher: "Journal of Personality and Social Psychology"
+  - title: "Metacognition"
+    url: "https://en.wikipedia.org/wiki/Metacognition"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que décrit l'effet Dunning-Kruger ?"
+    options:
+      - "Les personnes peu compétentes dans un domaine tendent à surestimer leur niveau"
+      - "Les experts savent toujours exactement ce qu'ils valent"
+      - "L'intelligence est fixée à la naissance"
+    answer: 1
+    explanation: >
+      Faute des connaissances nécessaires pour repérer leurs erreurs, les débutants évaluent mal leur
+      propre performance.
+  - question: "Selon Dunning et Kruger, pourquoi les débutants se surestiment-ils ?"
+    options:
+      - "Par vanité"
+      - "Parce que les compétences pour bien faire sont aussi celles qui permettent de juger sa performance"
+      - "Parce qu'ils trichent aux tests"
+    answer: 2
+    explanation: >
+      C'est un double handicap : sans compétence, on se trompe, et on ne voit pas qu'on se trompe.
+  - question: "Comment limiter cet effet ?"
+    options:
+      - "En évitant toute évaluation"
+      - "En cherchant des retours précis et en continuant à apprendre"
+      - "En se fiant à son intuition"
+    answer: 2
+    explanation: >
+      Les retours extérieurs et l'apprentissage aident à prendre conscience de ce qu'on ne sait pas
+      encore.
+  - question: "Pourquoi la courbe avec un sommet de la stupidité et une vallée du désespoir est-elle trompeuse ?"
+    options:
+      - "Elle montre que les experts se surestiment plus que les débutants"
+      - "Elle ne vient pas de l'étude d'origine, dont l'effet est plus modeste"
+      - "Elle prouve que seules certaines personnes sont concernées"
+    answer: 2
+    explanation: "Cette courbe circulant sur Internet n'est pas dans l'étude de départ. L'effet réel est plus modeste : les débutants se croient simplement au-dessus de la moyenne."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En 1999, les psychologues américains **David Dunning** et **Justin Kruger** publient une étude au titre
+parlant : « Incompétents et inconscients de l'être ». Ils montrent que les personnes qui obtiennent les
+**moins bons résultats** à des tests de logique, de grammaire ou d'humour **surestiment fortement** leur
+performance, tandis que les meilleurs ont tendance à légèrement **se sous-estimer**. Leur explication :
+les compétences nécessaires pour bien faire sont les mêmes que celles qui permettent de **juger** sa
+propre performance. C'est l'**effet Dunning-Kruger**.
+
+## L'expérience
+
+Les chercheurs font passer des tests à des étudiants, puis leur demandent d'estimer leur score et leur
+classement par rapport aux autres.
+
+- Ceux du **quart le plus faible**, classés en moyenne vers le 12e percentile, s'estiment autour du
+  **62e** : au-dessus de la moyenne.
+- Ceux du **quart le plus fort** se situent légèrement en dessous de leur rang réel : ils supposent que
+  les autres réussissent aussi bien qu'eux.
+
+Quand on entraîne ensuite les participants faibles à la tâche, leur estimation devient plus réaliste :
+ils comprennent mieux ce qu'ils avaient mal fait.
+
+```schema
+type: barres
+titre: Le quart le plus faible, rang réel et rang estimé
+legende: Les participants les moins performants se croyaient au-dessus de la moyenne ; résumé de l'étude de Kruger et Dunning, 1999.
+unite: percentile
+valeurs:
+  - label: Rang réel
+    valeur: 12
+  - label: Rang estimé
+    valeur: 62
+```
+
+## Le double handicap
+
+Pour savoir qu'une phrase est mal construite, il faut connaître la grammaire. Pour savoir qu'un
+raisonnement est faux, il faut savoir raisonner. Celui qui manque de ces savoirs fait des erreurs **et**
+ne les voit pas. C'est une question de **métacognition**, la capacité à juger ses propres pensées. Les
+experts, eux, connaissent l'étendue de ce qu'ils ignorent, ce qui les rend souvent plus prudents.
+
+## Un effet souvent caricaturé
+
+Sur Internet circule une courbe avec un « sommet de la stupidité » et une « vallée du désespoir » : elle
+ne vient pas de l'étude d'origine. L'effet réel est plus modeste :
+
+- les débutants ne se croient pas experts, ils se pensent simplement **au-dessus de la moyenne** ;
+- une partie de l'effet s'explique par des raisons statistiques, comme la **régression vers la
+  moyenne** et la tendance générale à se juger un peu meilleur que les autres ;
+- il ne concerne pas une catégorie de « gens bêtes » : **tout le monde** est débutant dans la plupart
+  des domaines.
+
+L'effet est discuté par les chercheurs, mais l'idée centrale tient : on évalue mal sa compétence dans un
+domaine qu'on maîtrise peu.
+
+## Comment s'en protéger
+
+1. **Chercher des retours précis** : un correcteur, un collègue expérimenté, une mesure objective.
+2. **Se comparer à une référence** : un barème, un examen, un résultat vérifiable.
+3. **Apprendre davantage** : c'est en progressant qu'on découvre l'étendue de ce qu'on ignorait.
+4. **Se méfier de ses certitudes** dans un domaine nouveau, et se demander : « qu'est-ce qui pourrait me
+   faire changer d'avis ? »
+5. **Écouter les experts**, tout en gardant un esprit critique.
+
+## À retenir
+
+- Les personnes peu compétentes dans un domaine tendent à surestimer leur niveau.
+- Les compétences pour réussir sont aussi celles qui permettent de juger sa réussite.
+- Les plus compétents tendent au contraire à se sous-estimer légèrement.
+- L'effet est réel mais souvent caricaturé, et tout le monde y est exposé.
+- Les retours précis et l'apprentissage permettent de mieux s'évaluer.
 
 ---
 type: article
@@ -6705,6 +7551,9 @@ sources:
   - title: "Abraham Wald"
     url: "https://fr.wikipedia.org/wiki/Abraham_Wald"
     publisher: "Wikipédia"
+  - title: "Survivorship bias"
+    url: "https://www.britannica.com/science/survivorship-bias"
+    publisher: "Encyclopaedia Britannica"
 quiz:
   - question: "Où le statisticien Abraham Wald a-t-il conseillé de renforcer les avions ?"
     options:
@@ -6777,6 +7626,19 @@ Les célébrités donnent aussi une fausse image. On voit les artistes qui ont r
 En 1987, une étude sur des chats tombés d'immeubles a surpris. Les chats tombés de moins de six étages avaient des blessures plus graves que ceux tombés de plus haut. Une explication possible tient au biais du survivant : l'étude ne comptait que les chats qui avaient survécu à leur chute.
 
 Pour éviter ce biais, il faut toujours se demander : qui manque dans ce que je regarde ?
+
+```schema
+type: comparaison
+titre: Le biais du survivant
+colonnes:
+  - titre: Ce que l'on voit
+    points:
+      - Les avions revenus, troués
+  - titre: Ce qui manque
+    points:
+      - Les avions abattus
+      - Les zones à renforcer sont celles sans trous
+```
 
 ## À retenir
 
@@ -7181,6 +8043,9 @@ sources:
   - title: "Multitasking"
     url: "https://fr.wikipedia.org/wiki/Multitasking"
     publisher: "Wikipédia"
+  - title: "Can we really do two things at once?"
+    url: "https://cordis.europa.eu/article/id/466274-can-we-really-do-two-things-at-once/fr"
+    publisher: "CORDIS (Commission européenne)"
 quiz:
   - question: "Que fait vraiment le cerveau quand on croit faire deux choses à la fois ?"
     options:
@@ -7251,6 +8116,17 @@ Téléphoner en conduisant est un exemple connu. Une étude a trouvé qu'un acci
 ## Quelques exceptions
 
 En 2010, une étude a repéré un petit pourcentage de personnes beaucoup plus douées que les autres pour faire plusieurs choses à la fois. On les appelle les « supertaskers ». Dans un test de 2015 sur simulateur de conduite, la plupart des participants réussissaient beaucoup moins bien quand ils devaient en plus retenir des mots et faire des calculs. Pour presque tout le monde, faire une chose à la fois reste plus efficace.
+
+```schema
+type: etapes
+titre: Le coût du multitâche
+elements:
+  - titre: Tâche A
+  - titre: Changement
+    texte: Chaque bascule coûte du temps.
+  - titre: Tâche B
+  - titre: Erreurs et lenteur
+```
 
 ## À retenir
 
@@ -7483,6 +8359,18 @@ En 1972, le journaliste scientifique allemand Sebastian Leitner propose une mét
 Si on répond juste, la carte passe dans la boîte suivante. Si on se trompe, elle revient dans la première boîte. Ainsi, on passe plus de temps sur ce qu'on connaît mal.
 
 Aujourd'hui, des logiciels comme Anki ou des applications pour apprendre les langues appliquent ce principe. Ils calculent pour chaque carte le meilleur moment pour la revoir. La méthode marche bien pour le vocabulaire, mais aussi pour les mathématiques.
+
+```schema
+type: etapes
+titre: Réviser au bon moment
+legende: Hermann Ebbinghaus a tracé la courbe de l'oubli en 1885.
+elements:
+  - titre: Apprendre
+  - titre: Oublier vite
+  - titre: Réviser
+    texte: Le souvenir devient plus solide.
+  - titre: Espacer
+```
 
 ## À retenir
 
@@ -7793,6 +8681,19 @@ Les réflexes disparaissent alors, chacun à son rythme. Le réflexe de marche s
 Certains réflexes restent toute la vie : le bâillement, l'éternuement, la toux ou le clignement des yeux.
 
 Si un réflexe archaïque persiste trop longtemps, ou s'il manque d'un côté du corps, le médecin cherche s'il y a un problème du système nerveux.
+
+```schema
+type: systeme
+titre: Les réflexes archaïques
+centre: Nouveau-né
+parties:
+  - nom: Préhension
+    role: Serrer ce qu'on met dans la main.
+  - nom: Succion
+  - nom: Moro
+    role: Le sursaut.
+  - nom: Marche automatique
+```
 
 ## À retenir
 
@@ -8358,6 +9259,22 @@ Les différences entre régions restent fortes. En Afrique subsaharienne, 52 % d
 Certains pays ont mené de grandes campagnes. À Cuba, en une seule année, plus de 700 000 habitants sur 7,5 millions ont appris à lire. Plus de 10 000 salles de classe ont été ouvertes en un seul jour.
 
 L'UNESCO a fait de l'alphabétisation l'une de ses missions. Elle estime que savoir lire aide à trouver un travail, à mieux se soigner et à mieux se nourrir. En 1966, elle a créé la Journée internationale de l'alphabétisation. Elle est célébrée chaque 8 septembre depuis 1967.
+
+```schema
+titre: Part des adultes alphabétisés dans le monde
+legende: >-
+  Estimations historiques citées dans la leçon ; méthodes et populations de référence peuvent
+  différer selon les époques.
+type: barres
+unite: '%'
+valeurs:
+  - label: Vers 1820
+    valeur: 12
+  - label: '1950'
+    valeur: 55.7
+  - label: '2015'
+    valeur: 86.2
+```
 
 ## À retenir
 
@@ -9584,18 +10501,146 @@ status: planned
 
 ---
 type: article
-title: Le role du chomage comme indicateur macroeconomique majeur
+title: Le rôle du chômage comme indicateur macroéconomique majeur
 slug: le-role-du-chomage-comme-indicateur-macroeconomique-majeur
 categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
 summary: >
-  Une mesure essentielle qui reflete la sante generale du marche du travail d'un pays.
-tags: [macroeconomie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le taux de chômage mesure la part des personnes qui veulent travailler sans trouver d'emploi. Suivi
+  de près par les gouvernements et les banques centrales, il renseigne sur la santé de l'économie,
+  mais il se lit avec précaution : sa définition et ses angles morts comptent.
+tags: [macroeconomie]
+relatedArticles: [inflation-comment-ca-marche, principes-offre-et-demande, inegalites-de-revenu-et-de-patrimoine, contrat-de-travail-et-licenciement]
+sources:
+  - title: "Chômage"
+    url: "https://fr.wikipedia.org/wiki/Ch%C3%B4mage"
+    publisher: "Wikipédia"
+  - title: "Chômage au sens du BIT"
+    url: "https://www.insee.fr/fr/metadonnees/definition/c1129"
+    publisher: "Insee"
+  - title: "Unemployment"
+    url: "https://en.wikipedia.org/wiki/Unemployment"
+    publisher: "Wikipedia"
+  - title: "Okun's law"
+    url: "https://en.wikipedia.org/wiki/Okun%27s_law"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Selon le Bureau international du travail, qui est considéré comme chômeur ?"
+    options:
+      - "Toute personne sans emploi"
+      - "Une personne sans emploi, disponible pour travailler et qui cherche activement un emploi"
+      - "Toute personne inscrite dans une agence pour l'emploi"
+    answer: 2
+    explanation: >
+      Trois conditions sont nécessaires : ne pas avoir travaillé, même une heure, pendant la semaine de
+      référence, être disponible et chercher activement.
+  - question: "Comment calcule-t-on le taux de chômage ?"
+    options:
+      - "Chômeurs divisés par la population totale"
+      - "Chômeurs divisés par la population active, c'est-à-dire actifs occupés plus chômeurs"
+      - "Chômeurs divisés par les retraités"
+    answer: 2
+    explanation: >
+      On rapporte les chômeurs à la population active. Les étudiants, retraités ou personnes au foyer
+      qui ne cherchent pas d'emploi n'en font pas partie.
+  - question: "Pourquoi le taux de chômage peut-il baisser sans que la situation s'améliore ?"
+    options:
+      - "Parce que des chômeurs découragés arrêtent de chercher et sortent de la population active"
+      - "Parce que la population augmente"
+      - "Parce que les salaires montent"
+    answer: 1
+    explanation: >
+      Une personne qui renonce à chercher n'est plus comptée comme chômeur, ce qui fait baisser le taux
+      sans création d'emploi.
+  - question: "Pourquoi le nombre d'inscrits à France Travail ne donne-t-il pas le même chiffre que le chômage au sens du BIT ?"
+    options:
+      - "Parce que seuls les actifs de plus de cinquante ans s'inscrivent"
+      - "Parce que l'Insee compte uniquement les personnes indemnisées"
+      - "Parce qu'on peut être inscrit en travaillant quelques heures, ou chômeur sans être inscrit"
+    answer: 3
+    explanation: "Les deux mesures ne recouvrent pas les mêmes situations : l'inscription n'est ni nécessaire ni suffisante pour être chômeur au sens du BIT."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le **taux de chômage** mesure la part des personnes qui **veulent travailler** et **cherchent un
+emploi** sans en trouver, parmi l'ensemble des **actifs**. C'est l'un des indicateurs économiques les
+plus suivis, avec la croissance et l'inflation. Un chômage élevé signale une économie qui tourne en
+dessous de ses capacités, et un coût humain : baisse de revenus, perte de confiance, isolement. Mais le
+chiffre dépend de sa définition, et il ne dit pas tout du marché du travail.
+
+## Qui est chômeur
+
+La définition internationale est celle du **Bureau international du travail**, le BIT. Une personne est
+au chômage si elle remplit **trois conditions** à la fois :
+
+1. elle n'a **pas travaillé**, même une heure, pendant une semaine donnée ;
+2. elle est **disponible** pour prendre un emploi dans les deux semaines ;
+3. elle a **cherché activement** un emploi dans le mois précédent, ou en a trouvé un qui commence plus
+   tard.
+
+En France, l'Insee mesure ce chômage par une grande **enquête** auprès des ménages. Le nombre d'inscrits
+à France Travail, l'ancien Pôle emploi, est un autre chiffre, différent : on peut être inscrit en
+travaillant quelques heures, ou chômeur sans être inscrit.
+
+## Le calcul
+
+Le taux de chômage rapporte le nombre de chômeurs à la **population active**, c'est-à-dire les
+personnes qui ont un emploi plus celles qui en cherchent un. Les étudiants, retraités et personnes au
+foyer qui ne cherchent pas d'emploi sont **inactifs** : ils ne comptent ni au numérateur ni au
+dénominateur.
+
+```schema
+titre: Qui compte dans le taux de chômage
+legende: >-
+  Ensembles schématiques, sans surfaces proportionnelles : le taux rapporte les chômeurs à la
+  population active, pas à toute la population.
+type: pyramide
+niveaux:
+  - titre: Chômeurs
+    texte: Sans emploi, disponibles et en recherche active.
+  - titre: Population active
+    texte: Personnes en emploi et chômeurs réunis.
+  - titre: Population en âge de travailler
+    texte: Actifs et inactifs, comme étudiants, retraités ou personnes au foyer.
+```
+
+## Les différentes formes de chômage
+
+- **Le chômage frictionnel** : le temps de passer d'un emploi à un autre. Il existe même quand l'économie
+  va bien.
+- **Le chômage conjoncturel** : lié aux crises. Quand l'activité ralentit, les entreprises embauchent
+  moins et licencient.
+- **Le chômage structurel** : un décalage durable entre les emplois disponibles et les compétences, les
+  lieux de vie ou les salaires demandés.
+
+## Pourquoi les gouvernements et les banques centrales le suivent
+
+Le chômage suit l'activité : l'économiste Arthur Okun a observé qu'une croissance plus faible que la
+normale fait monter le chômage, et inversement. Les gouvernements s'en servent pour décider de leurs
+politiques d'emploi et de soutien. Les **banques centrales**, dont plusieurs ont un objectif d'emploi, le
+surveillent pour régler leurs taux d'intérêt : un chômage très bas peut pousser les salaires et les prix
+à la hausse.
+
+## Les angles morts du chiffre
+
+- **Les découragés** : une personne qui renonce à chercher sort des statistiques, ce qui fait baisser le
+  taux sans aucune embauche.
+- **Le sous-emploi** : une personne qui travaille quelques heures et voudrait travailler davantage n'est
+  pas chômeur.
+- **La qualité des emplois** : le taux ne dit rien des salaires, de la précarité ou des contrats courts.
+
+C'est pourquoi on le complète par le **taux d'emploi**, la part des personnes qui travaillent dans une
+classe d'âge, et par des mesures du sous-emploi et du « halo » du chômage.
+
+## À retenir
+
+- Le taux de chômage mesure la part des actifs qui cherchent un emploi sans en trouver.
+- Le BIT définit le chômeur par trois conditions : sans emploi, disponible et en recherche active.
+- On rapporte les chômeurs à la population active, pas à la population totale.
+- Il existe un chômage frictionnel, conjoncturel et structurel.
+- Le chiffre se complète par le taux d'emploi et la mesure du sous-emploi, car il a des angles morts.
 
 ---
 type: article
@@ -9929,18 +10974,155 @@ status: planned
 
 ---
 type: article
-title: Les monopoles et leur impact sur le fonctionnement d'un marche
+title: Les monopoles et leur impact sur le fonctionnement d'un marché
 slug: les-monopoles-et-leur-impact-sur-le-fonctionnement-d-un-marche
 categoryPath: sciences-humaines-et-sociales/economie/microeconomie
 summary: >
-  Une situation ou une seule entreprise controle l'offre d'un bien, modifiant les regles habituelles du marche.
-tags: [microeconomie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Quand une seule entreprise vend un produit sans concurrent, elle peut fixer des prix plus élevés et
+  produire moins qu'un marché concurrentiel. Certains monopoles sont naturels, d'autres sont créés
+  par des brevets ou des pratiques abusives. Les États les encadrent par le droit de la concurrence.
+tags: [microeconomie]
+relatedArticles: [principes-offre-et-demande, inflation-comment-ca-marche, pourquoi-la-pollution-d-une-usine-coute-t-elle-aussi-a-ses-voisins, web-ouvert-et-plateformes-fermees]
+sources:
+  - title: "Monopole"
+    url: "https://fr.wikipedia.org/wiki/Monopole"
+    publisher: "Wikipédia"
+  - title: "Monopoly"
+    url: "https://en.wikipedia.org/wiki/Monopoly"
+    publisher: "Wikipedia"
+  - title: "Natural monopoly"
+    url: "https://en.wikipedia.org/wiki/Natural_monopoly"
+    publisher: "Wikipedia"
+  - title: "Network effect"
+    url: "https://en.wikipedia.org/wiki/Network_effect"
+    publisher: "Wikipedia"
+  - title: "Monopole de fait : l'Autorité de la concurrence délivre un avis"
+    url: "https://www.concurrences.com/en/review/issues/no-2-2017/chroniques/unilateral-practices-5869/monopole-de-fait-l-autorite-de-la-concurrence-delivre-un-avis-sur-les"
+    publisher: "Concurrences (revue de droit de la concurrence)"
+    date: "2017"
+quiz:
+  - question: "Pourquoi un monopole vend-il en général plus cher qu'un marché concurrentiel ?"
+    options:
+      - "Parce que ses coûts sont toujours plus élevés"
+      - "Parce que, sans concurrent, il peut réduire la quantité vendue et augmenter son prix pour maximiser son profit"
+      - "Parce que la loi l'y oblige"
+    answer: 2
+    explanation: >
+      Les clients n'ont pas d'alternative. Le monopole choisit le couple prix-quantité qui lui rapporte
+      le plus, avec un prix plus haut et une production plus faible.
+  - question: "Qu'est-ce qu'un monopole naturel ?"
+    options:
+      - "Un monopole sur des produits agricoles"
+      - "Un secteur où une seule entreprise produit moins cher que plusieurs, à cause d'énormes coûts fixes"
+      - "Un monopole qui disparaît tout seul"
+    answer: 2
+    explanation: >
+      Réseaux d'eau, voies ferrées, lignes électriques : dupliquer l'infrastructure serait un gaspillage.
+  - question: "Comment les États limitent-ils les abus de monopole ?"
+    options:
+      - "En interdisant toutes les grandes entreprises"
+      - "Par le droit de la concurrence, le contrôle des fusions et la régulation des prix"
+      - "En supprimant les brevets"
+    answer: 2
+    explanation: >
+      Les autorités de concurrence sanctionnent les abus de position dominante et contrôlent les fusions
+      ; des régulateurs encadrent les monopoles naturels.
+  - question: "Qu'appelle-t-on la perte sèche dans le cas d'un monopole ?"
+    options:
+      - "Une richesse qui n'est créée pour personne, car des clients renoncent d'acheter au prix élevé"
+      - "Le profit supplémentaire gagné par l'entreprise en situation de monopole"
+      - "L'argent perdu par le monopole quand il baisse ses prix"
+    answer: 1
+    explanation: "En réduisant la quantité vendue et en augmentant son prix, le monopole écarte des clients qui auraient acheté : cette richesse non créée est la perte sèche."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un **monopole** est une situation où **une seule entreprise** vend un produit ou un service pour lequel
+il n'existe pas de substitut proche. Privés de concurrence, les clients ne peuvent pas aller voir
+ailleurs. L'entreprise peut alors fixer des **prix plus élevés** et **produire moins** que sur un marché
+concurrentiel, au détriment des consommateurs et de l'économie. Certains monopoles sont pourtant
+inévitables ou utiles. Les États les **encadrent** par le droit de la concurrence et la régulation.
+
+## Comment se forme un monopole
+
+```schema
+type: systeme
+titre: Les origines d'un monopole
+legende: Un monopole naît d'une barrière qui empêche les concurrents d'entrer sur le marché.
+centre: Monopole
+icone: columns
+parties:
+  - nom: Coûts fixes énormes
+    role: Réseaux d'eau, de rails, d'électricité
+    icone: bridge
+  - nom: Brevet
+    role: Exclusivité temporaire sur une invention
+    icone: bulb
+  - nom: Ressource rare
+    role: Contrôle d'une mine ou d'un gisement
+    icone: mountain
+  - nom: Décision publique
+    role: Licence ou concession exclusive
+    icone: scales
+  - nom: Effets de réseau
+    role: Plus d'utilisateurs, plus d'intérêt
+    icone: network
+  - nom: Pratiques abusives
+    role: Évincer les concurrents
+    icone: lock
+```
+
+- **Le monopole naturel** : quand les coûts fixes sont gigantesques, une seule entreprise produit moins
+  cher que plusieurs. Construire deux réseaux d'eau parallèles dans une ville serait absurde.
+- **Le brevet** : l'inventeur reçoit une exclusivité temporaire, en général vingt ans, pour récompenser
+  l'innovation.
+- **Le contrôle d'une ressource** rare ou d'un emplacement.
+- **Une décision publique** : licence ou concession exclusive accordée par l'État.
+- **Les effets de réseau** : un réseau social ou une plateforme est d'autant plus utile qu'il a
+  d'utilisateurs, ce qui pousse le marché vers un acteur dominant.
+- **Des pratiques abusives** : prix artificiellement bas pour ruiner un concurrent, contrats d'exclusivité,
+  rachats systématiques des nouveaux venus.
+
+## Pourquoi un monopole nuit au marché
+
+Sur un marché concurrentiel, si une entreprise augmente trop ses prix, ses clients partent chez les
+concurrents. Le monopole n'a pas ce frein. Pour maximiser son profit, il **réduit la quantité** vendue et
+**augmente son prix**. Des clients qui auraient acheté au prix concurrentiel renoncent : les économistes
+parlent de **perte sèche**, une richesse qui n'est créée pour personne.
+
+D'autres effets s'y ajoutent :
+
+- moins d'incitation à **innover** ou à améliorer la qualité, faute de pression ;
+- un **service** parfois dégradé, puisque le client n'a pas le choix ;
+- un transfert de richesse des consommateurs vers l'entreprise.
+
+## Ce qu'en font les États
+
+- **Le droit de la concurrence** interdit les **abus de position dominante** et les ententes entre
+  concurrents. En France, l'Autorité de la concurrence, et dans l'Union européenne, la Commission
+  européenne, peuvent infliger de lourdes amendes.
+- **Le contrôle des fusions** empêche les rachats qui créeraient un acteur trop dominant.
+- **La régulation des monopoles naturels** : des autorités fixent ou contrôlent les prix des réseaux et
+  imposent leur ouverture à d'autres fournisseurs.
+- **L'ouverture à la concurrence** de secteurs autrefois en monopole, comme les télécommunications.
+
+## Les monopoles d'aujourd'hui
+
+Les grandes plateformes numériques posent de nouvelles questions : leurs services sont souvent gratuits,
+mais les effets de réseau et la maîtrise des données leur donnent un pouvoir considérable. L'Union
+européenne a adopté en 2022 le **règlement sur les marchés numériques** pour encadrer les plus grandes
+d'entre elles, appelées « contrôleurs d'accès ».
+
+## À retenir
+
+- Un monopole est une entreprise seule à vendre un produit sans substitut proche.
+- Il fixe des prix plus élevés et produit moins qu'un marché concurrentiel.
+- Il naît de coûts fixes énormes, de brevets, de ressources rares, d'effets de réseau ou de pratiques abusives.
+- Il freine l'innovation et crée une perte de richesse pour la société.
+- Les États l'encadrent par le droit de la concurrence, le contrôle des fusions et la régulation.
 
 ---
 type: article
@@ -10049,6 +11231,19 @@ En 1920, l'économiste britannique Arthur Cecil Pigou a publié « The Economics
 L'État peut aussi fixer une quantité maximale de pollution. Il distribue ou vend des « droits à polluer ». Une entreprise qui pollue moins que prévu peut revendre ses droits à une autre.
 
 En 1960, l'économiste Ronald Coase a montré qu'une autre voie existe parfois. Le pollueur et ses victimes peuvent négocier un accord entre eux. Mais cela ne marche que dans des conditions assez rares.
+
+```schema
+type: comparaison
+titre: Les externalités
+colonnes:
+  - titre: Négative
+    points:
+      - Un coût imposé aux autres
+      - La pollution
+  - titre: Positive
+    points:
+      - Un bénéfice offert aux autres
+```
 
 ## À retenir
 
@@ -12826,6 +14021,9 @@ sources:
   - title: "Factory Acts"
     url: "https://en.wikipedia.org/wiki/Factory_Acts"
     publisher: "Wikipedia"
+  - title: "Luddite"
+    url: "https://www.britannica.com/event/Luddite"
+    publisher: "Encyclopaedia Britannica"
 quiz:
   - question: "Où commence la révolution industrielle ?"
     options:
@@ -12884,6 +14082,19 @@ Les luddites étaient des ouvriers anglais du textile qui détruisaient des mach
 
 Des lois sur les usines ont peu à peu encadré la durée du travail et le travail des enfants, avec des limites d'âge et d'horaires. Une loi importante a créé un corps d'inspecteurs d'usines et interdit le travail de nuit des plus jeunes. Un mouvement pour limiter la journée de travail, mené par des réformateurs, a fini par obtenir une limite pour les femmes et les enfants dans le textile. Les premières lois étaient peu appliquées : les magistrats locaux étaient souvent eux-mêmes propriétaires d'usines. Ces bouleversements ont fait naître ce qu'on appelle la question sociale. Les historiens débattent du moment où le niveau de vie a vraiment progressé pour les ouvriers.
 
+```schema
+type: etapes
+titre: De l'usine aux lois sociales
+elements:
+  - titre: Exode vers les villes
+    texte: Enclosures et mécanisation agricole.
+  - titre: Usines
+    icone: factory
+  - titre: Révoltes
+    texte: Les luddites brisent des machines.
+  - titre: Lois sociales
+```
+
 ## À retenir
 
 - Les enclosures et la mécanisation de l'agriculture poussent des paysans sans terre vers les villes, où ils deviennent les premiers ouvriers.
@@ -12891,91 +14102,6 @@ Des lois sur les usines ont peu à peu encadré la durée du travail et le trava
 - Ils ne rejetaient pas les machines, mais les fabricants qui contournaient les usages du métier.
 - L'État a envoyé des troupes en grand nombre et a rendu le bris de machines passible de la peine de mort.
 - Une loi importante a créé un corps d'inspecteurs d'usines et interdit le travail de nuit des plus jeunes.
-
----
-type: article
-title: Comment pense un enfant, selon Piaget, et qu'en reste-t-il aujourd'hui ?
-slug: comment-pense-un-enfant-selon-piaget-et-qu-en-reste-t-il-aujourd-hui
-categoryPath: sciences-humaines-et-sociales/psychologie/developpement
-summary: >
-  Jean Piaget décrit quatre stades du développement de l'intelligence, où l'enfant construit
-  activement sa pensée. Des recherches plus récentes ont nuancé ses résultats, sans effacer son
-  héritage.
-tags: [developpement]
-sources:
-  - title: "Piaget's theory of cognitive development"
-    url: "https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development"
-    publisher: "Wikipedia"
-  - title: "Jean Piaget"
-    url: "https://fr.wikipedia.org/wiki/Jean_Piaget"
-    publisher: "Wikipédia"
-  - title: "Jean Piaget"
-    url: "https://en.wikipedia.org/wiki/Jean_Piaget"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Combien de grands stades Piaget distingue-t-il ?"
-    options:
-      - "Deux"
-      - "Quatre"
-      - "Sept"
-    answer: 2
-    explanation: >
-      Il distingue quatre stades : sensori-moteur, préopératoire, opératoire concret et
-      opératoire formel.
-  - question: "Qu'est-ce que la permanence de l'objet ?"
-    options:
-      - "Comprendre qu'un objet existe même caché"
-      - "Garder tous ses jouets"
-      - "Ne jamais lâcher un objet"
-    answer: 1
-    explanation: >
-      Au stade sensori-moteur, le bébé comprend peu à peu que les objets continuent d'exister
-      quand il ne les voit plus : c'est la permanence de l'objet.
-  - question: "Que signifie l'accommodation ?"
-    options:
-      - "Modifier ses structures mentales quand elles ne suffisent plus"
-      - "Ranger sa chambre"
-      - "Changer d'école"
-    answer: 1
-    explanation: >
-      L'assimilation intègre une information nouvelle aux structures mentales existantes ;
-      l'accommodation les modifie quand elles ne suffisent plus.
-  - question: "Que montrent des recherches plus récentes ?"
-    options:
-      - "Que Piaget avait tout prévu"
-      - "Les bébés comprennent certaines choses plus tôt que Piaget ne le pensait"
-      - "Que les enfants ne pensent pas"
-    answer: 2
-    explanation: >
-      Des recherches ont montré que les bébés comprennent certaines choses plus tôt que Piaget
-      ne le pensait, et que le développement ne suit pas toujours des stades nets.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Jean Piaget décrit quatre stades du développement de l'intelligence, où l'enfant construit activement sa pensée. Des recherches plus récentes ont nuancé ses résultats, sans effacer son héritage.
-
-## Un biologiste qui observe des enfants
-
-Jean Piaget était un biologiste, psychologue et épistémologue suisse, qui a profondément marqué la psychologie du développement. Il a notamment observé ses propres enfants pour comprendre comment leur pensée évolue. Son épistémologie génétique cherche à expliquer la connaissance par son histoire et ses origines psychologiques. Pour Piaget, l'enfant construit activement ses connaissances, au lieu de les recevoir passivement.
-
-## Quatre stades
-
-Il distingue quatre stades : sensori-moteur, préopératoire, opératoire concret et opératoire formel. Au stade sensori-moteur, le bébé comprend peu à peu que les objets continuent d'exister quand il ne les voit plus : c'est la permanence de l'objet. Au stade préopératoire, l'enfant utilise des symboles et l'imagination, mais a du mal à voir le point de vue des autres : c'est l'égocentrisme. Au stade opératoire concret, l'enfant comprend la conservation : un changement d'apparence ne change pas les propriétés de base. Au stade opératoire formel, l'adolescent peut raisonner de façon abstraite et envisager des hypothèses. L'assimilation intègre une information nouvelle aux structures mentales existantes ; l'accommodation les modifie quand elles ne suffisent plus.
-
-## Un héritage nuancé
-
-Cette idée a influencé l'éducation et les méthodes centrées sur l'élève. Des recherches ont montré que les bébés comprennent certaines choses plus tôt que Piaget ne le pensait, et que le développement ne suit pas toujours des stades nets. On lui reproche aussi d'avoir sous-estimé le rôle de la culture et du langage, que Vygotski mettait en avant. Ses échantillons étaient petits et non aléatoires, ce qui limite la portée de ses conclusions.
-
-## À retenir
-
-- Il distingue quatre stades : sensori-moteur, préopératoire, opératoire concret et opératoire formel.
-- Le bébé comprend peu à peu que les objets existent même cachés : c'est la permanence de l'objet.
-- Au stade opératoire concret, l'enfant comprend la conservation : un changement d'apparence ne change pas les propriétés de base.
-- Pour Piaget, l'enfant construit activement ses connaissances, au lieu de les recevoir passivement.
-- Des recherches montrent que les bébés comprennent certaines choses plus tôt que Piaget ne le pensait.
 
 ---
 type: article
@@ -13060,6 +14186,18 @@ Les heuristiques sont des raccourcis mentaux qui marchent souvent, mais conduise
 ## Reconnaissance et débats
 
 Daniel Kahneman a reçu le prix Nobel d'économie pour avoir fait entrer la psychologie dans l'économie. Des travaux récents discutent l'universalité de l'aversion aux pertes, et des études du domaine ont été retirées pour données douteuses.
+
+```schema
+type: comparaison
+titre: L'aversion aux pertes
+colonnes:
+  - titre: Perdre 100 €
+    points:
+      - Ressenti plus fort
+  - titre: Gagner 100 €
+    points:
+      - Ressenti plus faible
+```
 
 ## À retenir
 
@@ -13152,6 +14290,18 @@ En France, avoir un diplôme du supérieur augmente fortement les chances de dev
 
 La reproduction sociale est le phénomène par lequel les positions sociales se transmettent d'une génération à l'autre. Pierre Bourdieu et Jean-Claude Passeron ont montré que la position sociale des parents fonctionne comme un héritage pour les enfants. Pour eux, le système scolaire favorise les élèves déjà privilégiés et légitime les hiérarchies sociales existantes. Les enfants de familles aisées reçoivent plus de soutien dès la petite enfance, ce qui crée des avantages qui durent toute la scolarité. Les pays les plus inégalitaires ont en général une mobilité plus faible : c'est la courbe de Gatsby le magnifique. On parle d'ascenseur social, une image qui ne dit pas qu'il serve à tout le monde de la même façon.
 
+```schema
+type: comparaison
+titre: L'école et la mobilité sociale
+colonnes:
+  - titre: Ascenseur
+    points:
+      - Un diplôme du supérieur protège et ouvre des portes
+  - titre: Reproduction
+    points:
+      - L'origine sociale pèse sur les parcours
+```
+
 ## À retenir
 
 - La mobilité sociale désigne le déplacement des individus ou des familles entre les niveaux de la société.
@@ -13180,6 +14330,9 @@ sources:
   - title: "Hyperbolic discounting"
     url: "https://en.wikipedia.org/wiki/Hyperbolic_discounting"
     publisher: "Wikipedia"
+  - title: "Just do it tomorrow: Procrastination in Tunisian university students"
+    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9480316/"
+    publisher: "European Psychiatry (Cambridge University Press)"
 quiz:
   - question: "Procrastiner, est-ce seulement de la paresse ?"
     options:
@@ -13237,6 +14390,19 @@ L'explication principale actuelle est la difficulté à gérer ses émotions : o
 
 Les procrastinateurs subissent plus de stress à l'approche des échéances et obtiennent en moyenne de moins bons résultats scolaires. Un certain retard peut être utile, car il évite des décisions hâtives. Repérer ce qui déclenche l'envie de remettre à plus tard, fixer des objectifs réalistes et réduire les distractions sont des pistes décrites. Des études de jumeaux montrent que la procrastination est en partie héritable, avec un lien génétique avec l'impulsivité. Les distractions numériques ont augmenté la part de personnes qui se disent procrastinatrices.
 
+```schema
+type: comparaison
+titre: Procrastiner, ce n'est pas être paresseux
+colonnes:
+  - titre: Procrastination
+    points:
+      - Retarder volontairement une action prévue
+      - En sachant qu'on s'en trouvera plus mal
+  - titre: Ce que c'est surtout
+    points:
+      - Une difficulté à gérer ses émotions face à la tâche
+```
+
 ## À retenir
 
 - Procrastiner, c'est retarder volontairement une action prévue, alors qu'on s'attend à s'en trouver plus mal.
@@ -13268,6 +14434,12 @@ sources:
   - title: "Confirmation bias"
     url: "https://en.wikipedia.org/wiki/Confirmation_bias"
     publisher: "Wikipedia"
+  - title: "Could 'inoculation' limit misinformation?"
+    url: "https://news.cornell.edu/node/329707"
+    publisher: "Cornell University"
+  - title: "Lessons learned inoculation misinformation"
+    url: "https://www.hsph.harvard.edu/chc/2022/10/14/lessons-learned-inoculation-misinformation/"
+    publisher: "Harvard T.H. Chan School of Public Health"
 quiz:
   - question: "Quelle est la différence entre mésinformation et désinformation ?"
     options:
@@ -13325,6 +14497,18 @@ Nous retenons et partageons plus volontiers ce qui nous touche émotionnellement
 
 Selon une étude sur Twitter, les fausses informations se propagent plus vite, plus loin et plus largement que les vraies. Le prébunking, qui montre des exemples de manipulation avant l'exposition, et l'éducation aux médias sont des remèdes prometteurs. La vérification des faits et un ton empathique dans les corrections aident à garder le dialogue ouvert. La société elle-même est le premier rempart contre la manipulation de l'information.
 
+```schema
+type: comparaison
+titre: Mésinformation ou désinformation
+colonnes:
+  - titre: Mésinformation
+    points:
+      - Fausse, sans intention de nuire
+  - titre: Désinformation
+    points:
+      - Trompeuse et volontaire
+```
+
 ## À retenir
 
 - La mésinformation est une information fausse diffusée sans intention de nuire ; la désinformation est trompeuse et diffusée volontairement.
@@ -13356,6 +14540,12 @@ sources:
   - title: "Économie comportementale"
     url: "https://fr.wikipedia.org/wiki/%C3%89conomie_comportementale"
     publisher: "Wikipédia"
+  - title: "The Affect Heuristic"
+    url: "https://longevity.stanford.edu/?p=21198"
+    publisher: "Stanford Center on Longevity"
+  - title: "Rational Actors or Rational Fools? Implications of the Affect Heuristic for Behavioral Economics"
+    url: "https://longevity.stanford.edu/rational-actors-or-rational-fools-implications-of-the-affect-heuristic-for-behavioral-economics/"
+    publisher: "Stanford Center on Longevity"
 quiz:
   - question: "Que fait l'heuristique d'affect ?"
     options:
@@ -13413,6 +14603,16 @@ L'aversion aux pertes signifie que la même situation paraît pire quand elle es
 
 Les heuristiques sont des raccourcis mentaux qui marchent souvent, mais conduisent à des erreurs systématiques. Le cadrage, c'est-à-dire la façon de présenter une situation, influence aussi nos décisions. Des travaux récents discutent l'universalité de l'aversion aux pertes : certaines études ne la retrouvent pas.
 
+```schema
+type: etapes
+titre: L'heuristique d'affect
+elements:
+  - titre: Réaction émotionnelle
+  - titre: Raccourci mental
+  - titre: Jugement
+    texte: Un sentiment positif fait juger le risque plus faible.
+```
+
 ## À retenir
 
 - L'heuristique d'affect est un raccourci mental où notre réaction émotionnelle joue le rôle principal dans un jugement.
@@ -13440,6 +14640,9 @@ sources:
   - title: "Rumeur d'Orléans"
     url: "https://fr.wikipedia.org/wiki/Rumeur_d%27Orl%C3%A9ans"
     publisher: "Wikipédia"
+  - title: "Rumor"
+    url: "https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/rumor"
+    publisher: "Encyclopedia.com"
 quiz:
   - question: "Qu'est-ce qu'une rumeur ?"
     options:
@@ -13496,6 +14699,19 @@ Gordon Allport et Leo Postman ont étudié comment un message change quand il pa
 
 À Orléans, la rumeur de jeunes femmes disparaissant dans des cabines d'essayage s'est propagée par le seul bouche-à-oreille, alors qu'aucune disparition n'avait eu lieu. Elle a fini par rassembler des foules menaçantes devant des magasins, après un relais par la presse locale. Le sociologue Edgar Morin a mené une enquête avec son équipe, publiée dans La Rumeur d'Orléans. Démentir ne suffit pas toujours à éteindre une rumeur. Des rumeurs semblables sont apparues dans d'autres villes françaises et à l'étranger.
 
+```schema
+type: systeme
+titre: Trois façons de déformer une rumeur
+centre: Rumeur
+parties:
+  - nom: Nivellement
+    role: Beaucoup de détails disparaissent.
+  - nom: Accentuation
+    role: Quelques détails sont grossis.
+  - nom: Assimilation
+    role: L'histoire s'adapte aux attentes.
+```
+
 ## À retenir
 
 - Une rumeur est une information non vérifiée qui circule entre les gens, souvent sans preuve solide.
@@ -13523,6 +14739,12 @@ sources:
   - title: "Économie comportementale"
     url: "https://fr.wikipedia.org/wiki/%C3%89conomie_comportementale"
     publisher: "Wikipédia"
+  - title: "Improving regulation and outcomes through behavioural insights"
+    url: "https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2018_9789264303072-en/full-report/improving-regulation-and-outcomes-through-behavioural-insights_g1g97944"
+    publisher: "OECD"
+  - title: "Behavioural insights"
+    url: "https://oecd-opsi.org/guide/behavioural-insights/"
+    publisher: "OECD Observatory of Public Sector Innovation"
 quiz:
   - question: "Qu'est-ce qu'un nudge ?"
     options:
@@ -13580,6 +14802,19 @@ L'option par défaut, comme l'inscription automatique à un plan d'épargne retr
 ## Usages et critiques
 
 Des gouvernements ont créé des équipes dédiées, comme la Behavioural Insights Team au Royaume-Uni. On les applique à la santé, à l'éducation et à l'environnement. Une analyse récente, après correction des biais de publication, ne trouve pas de preuve d'un effet des nudges. Des critiques soulèvent aussi des questions d'autonomie et de manipulation.
+
+```schema
+titre: Le nudge
+type: comparaison
+colonnes:
+  - titre: Ce qu'il fait
+    points:
+      - Change la présentation du choix
+  - titre: Ce qu'il ne fait pas
+    points:
+      - Rien interdire
+      - Ni modifier fortement les incitations économiques.
+```
 
 ## À retenir
 
@@ -13664,6 +14899,17 @@ Quand la monnaie a pris forme, les sociétés ont employé des objets variés : 
 
 Quelle que soit sa forme, la monnaie repose sur la confiance collective. La monnaie moderne n'a presque plus de valeur matérielle propre : c'est la monnaie fiduciaire. Elle est créée par les banques centrales et par les banques, à travers les prêts et les dépôts. Avant la monnaie, les sociétés fonctionnaient surtout par dons et dettes plutôt que par troc pur.
 
+```schema
+type: systeme
+titre: Les trois rôles de la monnaie
+centre: Monnaie
+icone: coin
+parties:
+  - nom: Intermédiaire des échanges
+  - nom: Unité de compte
+  - nom: Réserve de valeur
+```
+
 ## À retenir
 
 - Elle joue trois rôles : intermédiaire des échanges, unité de compte et réserve de valeur.
@@ -13692,6 +14938,9 @@ sources:
   - title: "Price revolution"
     url: "https://en.wikipedia.org/wiki/Price_revolution"
     publisher: "Wikipedia"
+  - title: "American Treasure and the Price Revolution in Spain, 1501-1650 (compte rendu)"
+    url: "https://eh.net/book_reviews/american-treasure-and-the-price-revolution-in-spain-1501-1650/"
+    publisher: "EH.net (Economic History Association)"
 quiz:
   - question: "Comment Bodin explique-t-il la hausse des prix ?"
     options:
@@ -13747,6 +14996,16 @@ Les grandes mines d'argent du Pérou, du Mexique et de Bolivie ont fortement aug
 ## Une théorie durable
 
 La théorie quantitative de la monnaie affirme que le niveau général des prix est proportionnel à la quantité de monnaie en circulation. On l'écrit souvent MV = PY : monnaie, vitesse de circulation, prix et production. Copernic avait déjà noté que la monnaie perd de la valeur quand elle est trop abondante. La théorie suppose que la production est fixée de l'extérieur, que la vitesse de circulation est constante et que la banque centrale contrôle la monnaie. Les banques centrales ont abandonné le ciblage de la masse monétaire, mais la plupart des économistes lient l'inflation à la croissance de la monnaie.
+
+```schema
+type: etapes
+titre: L'explication de Jean Bodin
+elements:
+  - titre: Afflux de métaux précieux
+    texte: Venus d'Amérique.
+  - titre: Plus de monnaie en circulation
+  - titre: Les prix montent
+```
 
 ## À retenir
 
@@ -13838,6 +15097,17 @@ Il était accompagné de céramiques et de bassins de bronze, qui montrent des b
 
 La découverte est comparable à la tombe de la princesse de Vix, l'une des plus importantes de l'âge du fer en France. Le site est un complexe funéraire monumental : d'autres tombes entouraient la tombe princière. D'autres tombes se trouvaient à proximité, dont un guerrier avec une épée et une femme parée de bracelets de bronze.
 
+```schema
+type: systeme
+titre: La tombe de Lavau
+centre: Prince celte
+parties:
+  - nom: Tumulus
+    role: La tombe n'avait pas été pillée.
+  - nom: Char à deux roues
+  - nom: Objets méditerranéens
+```
+
 ## À retenir
 
 - La tombe se trouvait au centre d'un grand tumulus et n'avait pas été pillée.
@@ -13845,3 +15115,1809 @@ La découverte est comparable à la tombe de la princesse de Vix, l'une des plus
 - La pièce majeure du mobilier est un grand chaudron de bronze orné.
 - On y a trouvé une cruche à vin grecque d'Athènes à figures noires, et des importations étrusques et italiques.
 - Ces objets montrent que les élites celtes profitaient des échanges avec les cités méditerranéennes, notamment Marseille.
+
+---
+type: article
+title: Tenir son budget personnel
+slug: tenir-son-budget-personnel
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Savoir où va son argent est la base de toute liberté financière. Un budget simple sépare les
+  dépenses obligatoires, les envies et l'épargne, et automatise l'épargne avant de dépenser.
+  Quelques règles suffisent à reprendre le contrôle.
+tags: [microeconomie]
+relatedArticles: [interets-composes, epargne-de-precaution, investir-long-terme-diversification, credit-consommation, le-bulletin-de-salaire-comment-le-lire]
+sources:
+  - title: "Budget"
+    url: "https://fr.wikipedia.org/wiki/Budget"
+    publisher: "Wikipédia"
+  - title: "Personal budget"
+    url: "https://en.wikipedia.org/wiki/Personal_budget"
+    publisher: "Wikipedia"
+  - title: "Mes questions d'argent"
+    url: "https://www.mesquestionsdargent.fr/"
+    publisher: "Banque de France"
+  - title: "Inflation"
+    url: "https://fr.wikipedia.org/wiki/Inflation"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que signifie « se payer en premier » ?"
+    options:
+      - "Mettre de côté une somme dès que le salaire arrive, avant les autres dépenses"
+      - "S'offrir un cadeau chaque mois"
+      - "Payer ses factures en retard"
+    answer: 1
+    explanation: >
+      Un virement automatique vers l'épargne le jour de la paie évite d'épargner seulement ce
+      qui reste, c'est-à-dire souvent rien.
+  - question: "Dans la règle 50/30/20, à quoi correspondent les 20 % ?"
+    options:
+      - "Aux loisirs"
+      - "À l'épargne et au remboursement des dettes"
+      - "Au loyer"
+    answer: 2
+    explanation: >
+      La règle propose 50 % pour les besoins, 30 % pour les envies et 20 % pour l'épargne et les
+      dettes. C'est un repère, à adapter à sa situation.
+  - question: "Pourquoi faut-il traquer les petites dépenses récurrentes ?"
+    options:
+      - "Parce qu'elles sont illégales"
+      - "Parce qu'elles font baisser le salaire"
+      - "Parce qu'additionnées sur une année elles représentent souvent des centaines d'euros"
+    answer: 3
+    explanation: >
+      Trois abonnements à 10 € par mois coûtent 360 € par an. On les oublie facilement, d'où
+      l'intérêt de les revoir régulièrement.
+  - question: "Pourquoi diviser par douze les dépenses annuelles comme la taxe foncière ou l'assurance ?"
+    options:
+      - "Pour pouvoir les payer plus tard sans y penser"
+      - "Pour les mettre de côté chaque mois et ne pas être surpris"
+      - "Pour les inclure dans la règle 50/30/20 automatiquement"
+    answer: 2
+    explanation: "Étaler la dépense sur douze mois permet de la provisionner mensuellement, au lieu de subir un gros paiement d'un coup."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Un budget n'est pas une privation : c'est un **plan** qui dit à son argent où aller, au lieu de se
+demander en fin de mois où il est passé. La méthode tient en quatre étapes : **savoir** ce qui entre
+et ce qui sort, **classer** les dépenses, **épargner d'abord** de façon automatique, et **revoir**
+le tout régulièrement. C'est la base pour éviter les dettes, faire face aux imprévus et, plus tard,
+investir.
+
+## Étape 1, savoir ce qui entre et ce qui sort
+
+Pendant un ou deux mois, on note tout, ou l'on reprend ses relevés bancaires :
+
+- **les revenus nets** : salaire, aides, revenus annexes ;
+- **toutes les dépenses**, y compris les petites : café, livraisons, abonnements, frais bancaires.
+
+Beaucoup de gens découvrent à ce moment des dépenses oubliées. Trois abonnements à 10 € par mois,
+c'est 360 € par an.
+
+```schema
+type: etapes
+titre: Les quatre étapes d'un budget
+elements:
+  - titre: Savoir
+    texte: Noter tout ce qui entre et sort pendant un ou deux mois.
+  - titre: Classer
+    texte: Besoins, envies, épargne.
+  - titre: Se payer en premier
+    texte: Un virement automatique vers l'épargne le jour de la paie.
+    icone: coin
+  - titre: Revoir
+    texte: Chaque mois et chaque année.
+```
+
+## Étape 2, classer les dépenses
+
+- **Les dépenses fixes et obligatoires** : loyer ou crédit immobilier, énergie, assurances,
+  transport, téléphone, remboursements.
+- **Les dépenses variables nécessaires** : courses, santé, vêtements.
+- **Les envies** : sorties, loisirs, voyages, achats plaisir.
+- **L'épargne** : précaution, projets, investissement.
+
+Un repère courant est la **règle 50/30/20**, popularisée aux États-Unis par Elizabeth Warren et sa
+fille Amelia Warren Tyagi en 2005 : 50 % des revenus pour les besoins, 30 % pour les envies, 20 %
+pour l'épargne et le remboursement des dettes. Ce n'est pas une loi : avec un loyer élevé, les
+besoins dépassent souvent 50 %. L'important est d'avoir des proportions choisies.
+
+```schema
+type: barres
+titre: La règle 50/30/20
+legende: Un repère, à adapter à sa situation.
+unite: "%"
+valeurs:
+  - label: Besoins
+    valeur: 50
+  - label: Envies
+    valeur: 30
+  - label: Épargne et dettes
+    valeur: 20
+```
+
+## Étape 3, se payer en premier
+
+L'erreur classique consiste à épargner ce qui reste à la fin du mois, c'est-à-dire souvent rien. Il
+est plus efficace de **programmer un virement automatique** vers un compte d'épargne le jour où le
+salaire arrive. On vit ensuite avec le reste. Même 50 € par mois créent l'habitude, et l'on augmente
+la somme à chaque hausse de revenu.
+
+## Étape 4, revoir régulièrement
+
+- Une fois par mois, comparer le prévu et le réel.
+- Une fois par an, renégocier ou résilier : assurances, énergie, téléphone, banque, abonnements.
+- Anticiper les **dépenses annuelles** : taxe foncière, assurance, cadeaux, entretien de la voiture.
+  On les divise par douze et on les met de côté chaque mois.
+
+## Les pièges à éviter
+
+- **Le découvert permanent**, qui coûte des agios et des frais.
+- **Le crédit renouvelable** et le paiement fractionné pour des achats courants, très coûteux.
+- **L'inflation du mode de vie** : chaque augmentation de salaire absorbée par de nouvelles
+  dépenses. En épargner au moins la moitié change tout sur dix ans.
+- **Les achats impulsifs** : attendre 48 heures avant tout achat non prévu au-delà d'un certain
+  montant.
+
+## Des outils simples
+
+Un tableur, une application bancaire qui classe les dépenses, ou la méthode des **enveloppes**, une
+somme fixe par poste, suffisent. La Banque de France propose gratuitement des conseils et des outils
+sur son site d'éducation financière.
+
+## À retenir
+
+- Un budget commence par la connaissance exacte de ce qui entre et de ce qui sort.
+- On classe les dépenses en besoins, envies et épargne ; la règle 50/30/20 est un repère.
+- Un virement automatique vers l'épargne le jour de la paie est plus efficace que d'épargner le reste.
+- Revoir abonnements et contrats chaque année libère souvent des centaines d'euros.
+- Découvert permanent et crédit renouvelable sont les pièges les plus coûteux.
+
+---
+type: article
+title: Les intérêts composés
+slug: interets-composes
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Quand les intérêts produisent eux-mêmes des intérêts, une épargne grandit de plus en plus vite.
+  Ce mécanisme récompense ceux qui commencent tôt et punit ceux qui s'endettent cher. La règle de
+  72 permet d'en estimer l'effet de tête.
+tags: [microeconomie]
+relatedArticles: [tenir-son-budget-personnel, investir-long-terme-diversification, epargne-de-precaution, credit-consommation, inflation-comment-ca-marche]
+sources:
+  - title: "Intérêts composés"
+    url: "https://fr.wikipedia.org/wiki/Int%C3%A9r%C3%AAts_compos%C3%A9s"
+    publisher: "Wikipédia"
+  - title: "Compound interest"
+    url: "https://en.wikipedia.org/wiki/Compound_interest"
+    publisher: "Wikipedia"
+  - title: "Rule of 72"
+    url: "https://en.wikipedia.org/wiki/Rule_of_72"
+    publisher: "Wikipedia"
+  - title: "Intérêts composés"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/501409/interets-composes"
+    publisher: "Office québécois de la langue française"
+quiz:
+  - question: "Que sont les intérêts composés ?"
+    options:
+      - "Des intérêts qui s'ajoutent au capital et produisent à leur tour des intérêts"
+      - "Des intérêts payés une seule fois"
+      - "Des frais bancaires"
+    answer: 1
+    explanation: >
+      La deuxième année, on gagne des intérêts sur le capital de départ et sur les intérêts de
+      la première année, et ainsi de suite.
+  - question: "Selon la règle de 72, en combien de temps un placement à 6 % par an double-t-il ?"
+    options:
+      - "En 6 ans"
+      - "En 12 ans environ"
+      - "En 72 ans"
+    answer: 2
+    explanation: >
+      On divise 72 par le taux : 72 / 6 = 12. C'est une approximation, assez précise pour des
+      taux de 2 à 12 %.
+  - question: "Pourquoi les intérêts composés jouent-ils contre ceux qui ont des dettes chères ?"
+    options:
+      - "Parce que les banques sont méchantes"
+      - "Parce que la dette disparaît toute seule"
+      - "Parce que les intérêts impayés s'ajoutent à la dette et produisent eux-mêmes des intérêts"
+    answer: 3
+    explanation: >
+      Une dette à 20 % par an non remboursée double en moins de quatre ans. Le même mécanisme
+      qui enrichit l'épargnant appauvrit l'emprunteur.
+  - question: "Pourquoi la personne qui commence à 25 ans obtient-elle environ trois fois plus que celle qui commence à 40 ans, en ayant versé seulement deux fois plus ?"
+    options:
+      - "Parce qu'elle a choisi un placement beaucoup plus risqué"
+      - "Parce que son taux de rendement était supérieur"
+      - "Parce que les quinze années supplémentaires ont fait fructifier ses intérêts"
+    answer: 3
+    explanation: "Avec les intérêts composés, le temps démultiplie l'effet : les années en plus produisent des intérêts sur des intérêts, d'où l'importance de commencer tôt."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Placez 1 000 € à 5 % par an : vous gagnez 50 € la première année. Si vous laissez ces 50 € sur le
+placement, l'année suivante vous gagnez 5 % de 1 050 €, soit 52,50 €. Les intérêts produisent à leur
+tour des intérêts : ce sont les **intérêts composés**. Sur quelques années, l'effet est modeste ; sur
+trente ou quarante ans, il devient énorme. C'est la raison principale pour laquelle **commencer tôt**
+compte plus que placer beaucoup.
+
+## Simples ou composés
+
+- Avec des **intérêts simples**, on gagne chaque année la même somme, calculée sur le capital de
+  départ : 1 000 € à 5 % rapportent 50 € par an, soit 2 500 € après cinquante ans.
+- Avec des **intérêts composés**, le capital grossit chaque année. La formule est :
+  capital final = capital de départ × (1 + taux) puissance nombre d'années.
+
+À 5 % par an, 1 000 € deviennent environ 1 629 € en 10 ans, 4 322 € en 30 ans et 11 467 € en 50 ans.
+La courbe s'accélère avec le temps.
+
+```schema
+titre: 1 000 € placés à 5 % par an
+legende: >-
+  Simulation à taux constant de 5 %, intérêts réinvestis, hors frais, fiscalité et inflation ;
+  rendement non garanti.
+type: barres
+unite: €
+valeurs:
+  - label: Départ
+    valeur: 1000
+  - label: Après 10 ans
+    valeur: 1629
+  - label: Après 30 ans
+    valeur: 4322
+  - label: Après 50 ans
+    valeur: 11467
+```
+
+## La règle de 72
+
+Pour savoir en combien de temps un capital double, on divise **72 par le taux annuel** :
+
+- à 2 %, il double en environ 36 ans ;
+- à 6 %, en environ 12 ans ;
+- à 9 %, en environ 8 ans.
+
+C'est une approximation, assez juste pour des taux compris entre 2 et 12 %.
+
+## Le temps, ingrédient principal
+
+Prenons deux personnes qui placent chaque mois 100 € à un rendement moyen de 5 % par an :
+
+- la première commence à 25 ans et continue jusqu'à 55 ans : elle a versé 36 000 € et dispose
+  d'environ **83 000 €** ;
+- la seconde commence à 40 ans : à 55 ans, elle a versé 18 000 € et dispose d'environ **27 000 €**.
+
+La première a versé deux fois plus, mais elle obtient trois fois plus. Les quinze années de plus ont
+travaillé pour elle. Ces chiffres sont des illustrations : un placement réel peut rapporter plus ou
+moins, et les rendements élevés s'accompagnent de risques.
+
+```schema
+titre: 100 € par mois à 5 %, jusqu'à 55 ans
+legende: >-
+  Simulation à rendement constant, hors frais, fiscalité et inflation ; montants arrondis et
+  rendement non garanti.
+type: comparaison
+colonnes:
+  - titre: Début à 25 ans
+    points:
+      - 36 000 € versés
+      - Environ 83 000 € obtenus
+  - titre: Début à 40 ans
+    points:
+      - 18 000 € versés
+      - Environ 27 000 € obtenus
+```
+
+## L'autre face, les dettes
+
+Le mécanisme fonctionne aussi à l'envers. Une dette non remboursée dont les intérêts s'accumulent
+grossit de la même manière. Un **crédit renouvelable** à 20 % par an double en moins de quatre ans
+si l'on ne rembourse que des petites mensualités. C'est pourquoi il faut rembourser en priorité les
+dettes les plus chères avant de chercher à placer.
+
+## L'inflation et les frais
+
+Deux forces grignotent les intérêts composés :
+
+- **l'inflation** : si un placement rapporte 3 % alors que les prix augmentent de 2 %, le gain réel
+  n'est que d'environ 1 % ;
+- **les frais** : 1 % de frais par an semble peu, mais sur trente ans, ils peuvent absorber une
+  grande partie du gain. Ils se composent eux aussi.
+
+## À retenir
+
+- Les intérêts composés produisent eux-mêmes des intérêts : le capital grandit de plus en plus vite.
+- La règle de 72 donne le temps de doublement : 72 divisé par le taux.
+- Commencer tôt compte plus que verser beaucoup, car le temps démultiplie l'effet.
+- Le même mécanisme fait grossir les dettes chères : il faut les rembourser en priorité.
+- L'inflation et les frais réduisent fortement le gain réel sur le long terme.
+
+---
+type: article
+title: L'épargne de précaution
+slug: epargne-de-precaution
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Une panne de voiture, une perte d'emploi, une facture imprévue : une réserve de trois à six mois
+  de dépenses, placée sur un compte disponible, évite de s'endetter au pire moment. C'est la
+  première épargne à constituer.
+tags: [microeconomie]
+relatedArticles: [tenir-son-budget-personnel, interets-composes, investir-long-terme-diversification, credit-consommation]
+sources:
+  - title: "Épargne de précaution"
+    url: "https://fr.wikipedia.org/wiki/%C3%89pargne_de_pr%C3%A9caution"
+    publisher: "Wikipédia"
+  - title: "Livret A"
+    url: "https://fr.wikipedia.org/wiki/Livret_A"
+    publisher: "Wikipédia"
+  - title: "Emergency fund"
+    url: "https://en.wikipedia.org/wiki/Emergency_fund"
+    publisher: "Wikipedia"
+  - title: "Mes questions d'argent"
+    url: "https://www.mesquestionsdargent.fr/"
+    publisher: "Banque de France"
+quiz:
+  - question: "Combien conseille-t-on souvent de mettre de côté en épargne de précaution ?"
+    options:
+      - "L'équivalent de trois à six mois de dépenses"
+      - "Une semaine de salaire"
+      - "Dix ans de revenus"
+    answer: 1
+    explanation: >
+      C'est un repère courant. On vise plus si les revenus sont irréguliers ou si l'on a des
+      personnes à charge.
+  - question: "Où placer son épargne de précaution ?"
+    options:
+      - "En actions, pour qu'elle rapporte le plus"
+      - "Sur un placement sans risque et disponible à tout moment, comme un livret"
+      - "Dans une maison"
+    answer: 2
+    explanation: >
+      L'argent doit être disponible immédiatement et ne pas pouvoir baisser au moment où l'on en
+      a besoin.
+  - question: "Pourquoi constituer cette réserve avant d'investir en Bourse ?"
+    options:
+      - "Parce que c'est obligatoire"
+      - "Parce que les banques l'exigent"
+      - "Pour ne jamais être obligé de vendre ses placements au mauvais moment en cas d'imprévu"
+    answer: 3
+    explanation: >
+      Sans réserve, une dépense imprévue pendant une baisse des marchés forcerait à vendre à
+      perte ou à emprunter cher.
+  - question: "Pourquoi un livret qui rapporte parfois moins que l'inflation convient-il quand même à l'épargne de précaution ?"
+    options:
+      - "Parce que son rôle est d'assurer contre les imprévus, pas de rapporter"
+      - "Parce qu'il rapporte toujours plus que les actions"
+      - "Parce que son taux est fixé par la banque selon le client"
+    answer: 1
+    explanation: "Ces livrets sont disponibles à tout moment et sans risque de perte : ils servent d'assurance, pas de placement destiné à faire fructifier l'argent."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+L'**épargne de précaution** est une réserve d'argent mise de côté pour faire face aux imprévus :
+une réparation, une facture médicale, une perte d'emploi. Elle évite de recourir au découvert ou au
+crédit au pire moment. On conseille souvent l'équivalent de **trois à six mois de dépenses**, placé
+sur un support **sans risque et disponible immédiatement**. C'est la première épargne à constituer,
+avant tout investissement.
+
+## À quoi elle sert
+
+La vie apporte régulièrement des dépenses qu'on ne peut pas prévoir :
+
+- une panne de voiture, une chaudière, un appareil ménager ;
+- des frais de santé, de dentiste, de vétérinaire ;
+- une baisse de revenus : perte d'emploi, arrêt maladie, période creuse pour un indépendant ;
+- un déménagement imprévu, un voyage pour un proche.
+
+Sans réserve, on paie avec un découvert, un crédit renouvelable ou un paiement fractionné, à des
+taux souvent très élevés. Une simple panne peut alors déclencher une spirale de dettes. Avec une
+réserve, on paie, puis on la reconstitue tranquillement. Elle apporte aussi une **liberté** : celle
+de quitter un emploi toxique, de négocier sans pression, de dormir tranquille.
+
+## Combien mettre de côté
+
+Le repère courant est de **trois à six mois de dépenses essentielles** : logement, alimentation,
+énergie, transport, assurances, remboursements. On vise plutôt le haut de la fourchette, voire plus,
+si :
+
+- les revenus sont irréguliers, comme pour un indépendant ou un intérimaire ;
+- on a des enfants ou des personnes à charge ;
+- on est propriétaire, avec des travaux possibles ;
+- on travaille dans un secteur où retrouver un emploi prend du temps.
+
+Pour commencer, un premier palier de **1 000 €**, ou d'un mois de dépenses, protège déjà contre la
+plupart des petits imprévus.
+
+```schema
+type: pyramide
+titre: L'ordre de construction de son épargne
+legende: On commence par la base.
+niveaux:
+  - titre: Investissement de long terme
+    texte: Actions, fonds indiciels, après le reste.
+  - titre: Épargne pour les projets
+    texte: Voiture, travaux, études.
+  - titre: Épargne de précaution
+    texte: Trois à six mois de dépenses, disponibles et sans risque.
+```
+
+## Où la placer
+
+Trois exigences : **disponible** à tout moment, **sans risque de perte**, et **séparée** du compte
+courant pour ne pas la dépenser par mégarde. En France, les livrets réglementés y répondent :
+
+- le **Livret A**, plafonné à 22 950 € pour un particulier ;
+- le **livret de développement durable et solidaire**, plafonné à 12 000 € ;
+- le **livret d'épargne populaire**, réservé aux revenus modestes, souvent mieux rémunéré.
+
+Leurs intérêts sont exonérés d'impôt et de prélèvements sociaux, et leur taux est fixé par l'État.
+Ils rapportent peu, parfois moins que l'inflation, mais ce n'est pas leur rôle : ils servent
+d'assurance.
+
+À éviter pour cette réserve : les actions, les cryptoactifs et l'immobilier, qui peuvent baisser ou
+être difficiles à vendre au moment où l'on a besoin de l'argent.
+
+## La constituer
+
+1. Calculer ses dépenses essentielles mensuelles.
+2. Fixer un objectif et un premier palier.
+3. Programmer un **virement automatique** le jour de la paie.
+4. Y verser les rentrées exceptionnelles : prime, remboursement d'impôt, cadeau.
+5. N'y toucher que pour de vrais imprévus, et la reconstituer ensuite.
+
+## À retenir
+
+- L'épargne de précaution sert à payer les imprévus sans s'endetter.
+- On vise souvent trois à six mois de dépenses essentielles, davantage si les revenus sont irréguliers.
+- Elle doit être disponible immédiatement et sans risque de perte, par exemple sur un livret.
+- Elle se constitue avant tout investissement risqué.
+- Un virement automatique mensuel est la façon la plus simple de la constituer.
+
+---
+type: article
+title: Investir sur le long terme et diversifier
+slug: investir-long-terme-diversification
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Investir, c'est accepter un risque pour espérer un rendement supérieur à l'inflation. Les
+  principes qui ont fait leurs preuves sont simples : un horizon long, une large diversification,
+  des frais bas, des versements réguliers et beaucoup de méfiance envers les promesses.
+tags: [microeconomie]
+relatedArticles: [interets-composes, epargne-de-precaution, tenir-son-budget-personnel, pourquoi-perdre-une-somme-fait-il-plus-mal-que-gagner-la-meme-somme-ne-fait-plaisir]
+sources:
+  - title: "Diversification (finance)"
+    url: "https://fr.wikipedia.org/wiki/Diversification_(finance)"
+    publisher: "Wikipédia"
+  - title: "Fonds indiciel"
+    url: "https://fr.wikipedia.org/wiki/Fonds_indiciel"
+    publisher: "Wikipédia"
+  - title: "Plan d'épargne en actions"
+    url: "https://fr.wikipedia.org/wiki/Plan_d%27%C3%A9pargne_en_actions"
+    publisher: "Wikipédia"
+  - title: "Autorité des marchés financiers"
+    url: "https://www.amf-france.org/"
+    publisher: "AMF"
+quiz:
+  - question: "Pourquoi diversifier ses placements ?"
+    options:
+      - "Pour qu'une mauvaise surprise sur une entreprise ou un secteur ne ruine pas tout"
+      - "Pour payer plus de frais"
+      - "Pour gagner à coup sûr"
+    answer: 1
+    explanation: >
+      En répartissant l'argent sur des centaines d'entreprises, de secteurs et de pays, la
+      faillite de l'une ne pèse presque rien sur l'ensemble.
+  - question: "Qu'est-ce qu'un fonds indiciel, ou ETF ?"
+    options:
+      - "Un compte d'épargne bancaire garanti"
+      - "Un fonds qui reproduit un indice de marché, avec des frais généralement bas"
+      - "Un crédit immobilier"
+    answer: 2
+    explanation: >
+      Un fonds indiciel sur un indice mondial permet d'acheter en une fois des parts de milliers
+      d'entreprises de nombreux pays.
+  - question: "Quel signal doit faire penser à une arnaque ?"
+    options:
+      - "Un placement autorisé par l'AMF"
+      - "Des frais affichés clairement"
+      - "Un rendement élevé promis sans risque"
+    answer: 3
+    explanation: >
+      Rendement élevé et absence de risque ne vont jamais ensemble. L'AMF publie des listes noires
+      des sites et acteurs non autorisés.
+  - question: "Pourquoi investir une somme fixe chaque mois est-il recommandé ?"
+    options:
+      - "Parce que cela garantit de toujours acheter au prix le plus bas"
+      - "Parce que cela évite de deviner le bon moment et d'acheter dans l'euphorie ou vendre dans la panique"
+      - "Parce que cela supprime tout risque de baisse des marchés"
+    answer: 2
+    explanation: "Personne ne sait prévoir le bon moment. Un versement régulier automatique évite les deux erreurs les plus coûteuses : acheter dans l'euphorie et vendre dans la panique."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+L'épargne sur un livret protège, mais rapporte peu, souvent à peine plus que l'inflation.
+**Investir**, en actions d'entreprises par exemple, permet d'espérer davantage sur le long terme,
+mais avec un risque réel de baisse, parfois forte, pendant des mois ou des années. Les principes qui
+ont fait leurs preuves sont connus : n'investir que l'argent dont on n'aura pas besoin avant
+longtemps, **diversifier** largement, réduire les **frais**, investir **régulièrement** et se
+méfier de toute promesse de gain facile. Cet article explique des principes, ce n'est pas un conseil
+personnalisé.
+
+## Avant d'investir
+
+1. **Rembourser les dettes chères**, comme un crédit renouvelable : aucun placement ne rapporte de
+   façon sûre 15 ou 20 % par an.
+2. **Constituer une épargne de précaution** de plusieurs mois de dépenses.
+3. **Définir son horizon** : l'argent dont on aura besoin dans moins de cinq ans environ ne devrait
+   pas être placé en actions.
+
+## Risque et rendement
+
+Il n'y a pas de rendement élevé sans risque. Un livret garanti rapporte peu. Les obligations, des
+prêts aux États et aux entreprises, rapportent un peu plus, avec un risque modéré. Les actions, des
+parts d'entreprises, ont historiquement rapporté davantage sur les longues périodes, mais elles
+peuvent perdre un tiers ou la moitié de leur valeur lors d'une crise, comme en 2008 ou en mars 2020,
+avant de remonter, parfois après plusieurs années.
+
+Plus l'horizon est long, plus ces baisses temporaires ont le temps d'être compensées.
+
+## Diversifier
+
+Mettre tout son argent dans une seule entreprise, c'est risquer de tout perdre si elle fait
+faillite. En le répartissant entre des **centaines ou des milliers** d'entreprises, de secteurs et de
+pays, la chute de l'une compte très peu.
+
+Le moyen le plus simple est le **fonds indiciel**, ou ETF : un fonds qui reproduit un indice
+boursier, par exemple un indice d'actions mondiales. En une seule part, on détient un petit morceau
+de milliers d'entreprises. Ces fonds ont souvent des frais annuels bas, autour de 0,1 à 0,3 %, bien
+inférieurs à ceux de nombreux fonds gérés activement, dont la plupart font moins bien que leur indice
+sur le long terme.
+
+```schema
+type: etapes
+titre: Avant et pendant l'investissement
+elements:
+  - titre: Rembourser les dettes chères
+    texte: Aucun placement ne rapporte sûrement 15 à 20 %.
+  - titre: Constituer une réserve
+    texte: Plusieurs mois de dépenses de côté.
+  - titre: Définir son horizon
+    texte: Pas d'actions pour l'argent utile dans moins de cinq ans.
+  - titre: Diversifier
+    texte: Des milliers d'entreprises, par un fonds indiciel.
+  - titre: Investir régulièrement
+    texte: Une somme fixe chaque mois.
+```
+
+## Investir régulièrement
+
+Personne ne sait prévoir le bon moment pour acheter. Investir une **somme fixe chaque mois**, par
+virement automatique, évite d'avoir à choisir : on achète plus de parts quand les prix sont bas et
+moins quand ils sont hauts. Surtout, cela évite les deux erreurs les plus coûteuses : acheter dans
+l'euphorie et vendre dans la panique.
+
+## Les enveloppes en France
+
+Les placements se logent dans des **enveloppes** fiscales :
+
+- le **plan d'épargne en actions**, ou PEA, pour les actions européennes et certains fonds indiciels,
+  avec un avantage fiscal après cinq ans ;
+- l'**assurance-vie**, très souple, avec des fonds garantis en euros et des unités de compte ;
+- le **compte-titres**, sans plafond ni avantage fiscal ;
+- le **plan d'épargne retraite**, bloqué jusqu'à la retraite sauf exceptions.
+
+## Se protéger des arnaques
+
+- Un **rendement élevé sans risque** n'existe pas.
+- Méfiance envers les démarchages par téléphone ou réseaux sociaux, l'urgence, les placements
+  « exclusifs », les cryptoactifs, le forex ou les montres et vins de collection présentés comme
+  sûrs.
+- Avant tout placement, vérifier que l'intermédiaire est **autorisé** et consulter les **listes
+  noires** de l'Autorité des marchés financiers.
+
+## À retenir
+
+- On investit seulement l'argent dont on n'aura pas besoin avant plusieurs années, après avoir constitué une réserve.
+- Un rendement plus élevé s'accompagne toujours d'un risque plus élevé.
+- Diversifier largement, par exemple avec un fonds indiciel mondial, réduit le risque propre à chaque entreprise.
+- Investir une somme fixe chaque mois évite d'essayer de deviner le bon moment.
+- Un rendement élevé promis sans risque est le signe d'une arnaque.
+
+---
+type: article
+title: Négocier efficacement
+slug: negocier-efficacement
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Un salaire, un loyer, un achat, une décision en famille : on négocie sans cesse. Les méthodes
+  les mieux étudiées reposent sur la préparation, la recherche des intérêts derrière les positions
+  et la connaissance de sa solution de repli.
+tags: [groupes-et-normes]
+relatedArticles: [le-bulletin-de-salaire-comment-le-lire, comment-nos-emotions-orientent-elles-nos-decisions-sans-qu-on-s-en-rende-compte, pourquoi-perdre-une-somme-fait-il-plus-mal-que-gagner-la-meme-somme-ne-fait-plaisir, gerer-son-temps-priorites]
+sources:
+  - title: "Négociation"
+    url: "https://fr.wikipedia.org/wiki/N%C3%A9gociation"
+    publisher: "Wikipédia"
+  - title: "Best alternative to a negotiated agreement"
+    url: "https://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement"
+    publisher: "Wikipedia"
+  - title: "Getting to Yes"
+    url: "https://en.wikipedia.org/wiki/Getting_to_Yes"
+    publisher: "Wikipedia"
+  - title: "Anchoring effect"
+    url: "https://en.wikipedia.org/wiki/Anchoring_effect"
+    publisher: "Wikipedia"
+  - title: "Principled Negotiation: Focus on Interests to Create Value"
+    url: "https://www.pon.harvard.edu/daily/negotiation-skills-daily/principled-negotiation-focus-interests-create-value/"
+    publisher: "Harvard Program on Negotiation"
+quiz:
+  - question: "Qu'est-ce que la « meilleure solution de repli » dans une négociation ?"
+    options:
+      - "Ce que l'on fera si aucun accord n'est trouvé"
+      - "La première offre de l'autre partie"
+      - "Une menace"
+    answer: 1
+    explanation: >
+      Mieux on connaît et améliore sa solution de repli, une autre offre d'emploi par exemple,
+      plus on négocie sereinement, car on sait quand dire non.
+  - question: "Quelle différence y a-t-il entre une position et un intérêt ?"
+    options:
+      - "Aucune"
+      - "La position est ce qu'on demande, l'intérêt est la raison pour laquelle on le demande"
+      - "L'intérêt est toujours financier"
+    answer: 2
+    explanation: >
+      Deux positions opposées peuvent cacher des intérêts compatibles. Les chercher ouvre des
+      solutions que personne n'avait proposées.
+  - question: "Qu'est-ce que l'effet d'ancrage ?"
+    options:
+      - "Le fait de rester sur place"
+      - "Une technique de bateau"
+      - "Le fait que le premier chiffre annoncé influence fortement la suite de la discussion"
+    answer: 3
+    explanation: >
+      Un premier chiffre sert de point de référence. Annoncer en premier un chiffre ambitieux mais
+      justifiable peut tirer l'accord dans sa direction.
+  - question: "Que faut-il faire si l'autre partie annonce d'emblée un chiffre extrême ?"
+    options:
+      - "Partir de ce chiffre et négocier à partir de là"
+      - "Rester silencieux jusqu'à ce qu'il le modifie lui-même"
+      - "Le recadrer tout de suite plutôt que d'en partir"
+    answer: 3
+    explanation: "Le premier chiffre sert d'ancre et influence la suite : face à un chiffre extrême, il faut le recadrer immédiatement au lieu de l'adopter comme base."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+On négocie sans cesse : un salaire, un loyer, le prix d'une voiture d'occasion, un délai avec un
+client, la répartition des tâches à la maison. Négocier ne consiste pas à gagner contre l'autre,
+mais à trouver l'accord le meilleur possible pour soi, que l'autre accepte. Les méthodes les plus
+étudiées, notamment au **Harvard Negotiation Project**, reposent sur trois piliers : **se préparer**,
+**chercher les intérêts** derrière les positions et **connaître sa solution de repli**.
+
+## Se préparer, l'essentiel du travail
+
+La plupart des négociations se gagnent avant de commencer. Il faut savoir :
+
+- **ce que l'on veut** vraiment, avec un objectif ambitieux et un seuil en dessous duquel on refuse ;
+- **ce que vaut la chose** : salaires du marché pour le poste, prix des voitures comparables,
+  loyers du quartier ;
+- **ce que veut l'autre** et ce qui le contraint : budget, délais, besoins ;
+- **sa solution de repli**.
+
+## La meilleure solution de repli
+
+Dans leur livre *Getting to Yes*, paru en 1981, Roger Fisher et William Ury, du Harvard Negotiation
+Project, appellent **BATNA**, en français parfois **MESORE**, la meilleure solution dont on dispose
+si la négociation échoue : une autre offre d'emploi, un autre appartement, un autre acheteur.
+
+C'est la source principale du **pouvoir** dans une négociation. Celui qui a une bonne solution de
+repli peut se permettre de dire non ; celui qui n'en a pas est sous pression. Améliorer la sienne,
+par exemple en passant d'autres entretiens d'embauche avant de négocier, est souvent plus efficace
+que n'importe quel argument. Et estimer celle de l'autre aide à savoir jusqu'où il peut aller.
+
+## Les intérêts derrière les positions
+
+Une **position**, c'est ce qu'on demande : « Je veux 45 000 € ». Un **intérêt**, c'est pourquoi on
+le demande : être reconnu, payer un loyer élevé, progresser. Deux positions opposées peuvent cacher
+des intérêts compatibles. Un employeur bloqué sur le salaire peut offrir du télétravail, une
+formation, une prime, un titre ou une révision dans six mois. Poser des questions ouvertes,
+« Qu'est-ce qui est important pour vous ? », et écouter vraiment permet de trouver ces options.
+
+```schema
+type: etapes
+titre: Préparer une négociation
+elements:
+  - titre: Objectif et seuil
+    texte: Ce que l'on veut, et en dessous de quoi on refuse.
+  - titre: Valeur de marché
+    texte: Salaires, prix ou loyers comparables.
+  - titre: Intérêts de l'autre
+    texte: Ses besoins et ses contraintes.
+  - titre: Solution de repli
+    texte: Ce que l'on fera sans accord.
+  - titre: Premier chiffre
+    texte: Ambitieux mais justifiable.
+```
+
+## Les techniques utiles
+
+- **L'ancrage** : le premier chiffre annoncé influence fortement la suite. Proposer en premier un
+  chiffre ambitieux mais **justifiable** tire l'accord dans sa direction. Si l'autre annonce un
+  chiffre extrême, il faut le recadrer tout de suite plutôt que d'en partir.
+- **Les critères objectifs** : s'appuyer sur des références extérieures, grilles de salaires,
+  annonces comparables, devis, plutôt que sur sa seule volonté.
+- **Le silence** : après une proposition, se taire laisse souvent l'autre améliorer son offre.
+- **Les concessions échangées** : ne rien céder sans obtenir quelque chose en retour.
+- **Séparer les personnes du problème** : rester ferme sur le fond et courtois avec la personne.
+
+## Négocier son salaire
+
+1. Connaître la fourchette du marché pour le poste, la région et l'expérience.
+2. Laisser si possible l'employeur parler chiffres en premier, ou annoncer une fourchette dont le
+   bas correspond à son objectif.
+3. Argumenter sur la valeur apportée : résultats, compétences rares, responsabilités.
+4. Négocier l'ensemble : variable, avantages, télétravail, date de révision.
+5. Obtenir l'accord final par écrit.
+
+## À retenir
+
+- La préparation fait l'essentiel d'une négociation réussie.
+- Connaître et améliorer sa solution de repli donne le pouvoir de dire non.
+- Chercher les intérêts derrière les positions permet de trouver des accords nouveaux.
+- Le premier chiffre sert d'ancre : il doit être ambitieux mais justifiable.
+- On reste ferme sur le fond et respectueux avec la personne.
+
+---
+type: article
+title: Former de bonnes habitudes
+slug: former-de-bonnes-habitudes
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Une grande partie de nos actions quotidiennes sont des habitudes, déclenchées par un contexte
+  plutôt que par une décision. La recherche montre qu'il faut en moyenne plus de deux mois pour en
+  installer une, et que l'environnement compte plus que la volonté.
+tags: [cognition]
+relatedArticles: [pourquoi-remet-on-a-demain-ce-qu-on-sait-devoir-faire-aujourd-hui, apprendre-efficacement, gerer-son-temps-priorites, comment-pousser-les-gens-a-mieux-choisir-sans-rien-leur-interdire]
+sources:
+  - title: "How are habits formed (Lally et al., 2010)"
+    url: "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674"
+    publisher: "European Journal of Social Psychology"
+  - title: "Habitude"
+    url: "https://fr.wikipedia.org/wiki/Habitude"
+    publisher: "Wikipédia"
+  - title: "Habit"
+    url: "https://en.wikipedia.org/wiki/Habit"
+    publisher: "Wikipedia"
+  - title: "Implementation intention"
+    url: "https://en.wikipedia.org/wiki/Implementation_intention"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de temps faut-il en moyenne pour qu'un nouveau comportement devienne automatique, selon l'étude de Phillippa Lally ?"
+    options:
+      - "Environ 66 jours, avec de fortes différences selon les personnes"
+      - "Exactement 21 jours"
+      - "Une journée"
+    answer: 1
+    explanation: >
+      Dans cette étude, la durée médiane était de 66 jours, avec des écarts allant d'environ
+      18 à plus de 250 jours selon la personne et le comportement.
+  - question: "Qu'est-ce qu'une intention de mise en œuvre ?"
+    options:
+      - "Une promesse vague"
+      - "Un plan précis de la forme « quand telle situation arrive, je fais telle action »"
+      - "Une liste de courses"
+    answer: 2
+    explanation: >
+      Relier l'action à un moment et un lieu précis augmente nettement les chances de passer à
+      l'acte.
+  - question: "Pourquoi modifier son environnement aide-t-il à changer d'habitude ?"
+    options:
+      - "Parce que cela coûte cher"
+      - "Parce que les voisins le remarquent"
+      - "Parce que les habitudes sont déclenchées par le contexte, et qu'on rend ainsi le bon comportement facile et le mauvais difficile"
+    answer: 3
+    explanation: >
+      Laisser ses chaussures de sport devant la porte ou ranger son téléphone dans une autre pièce
+      agit plus sûrement qu'un effort de volonté répété.
+  - question: "Pour se défaire d'une mauvaise habitude, quelle approche est recommandée face au stress ?"
+    options:
+      - "Se forcer à ne rien faire jusqu'à ce que l'envie disparaisse"
+      - "Remplacer l'action par une autre qui apporte une récompense proche, comme marcher cinq minutes"
+      - "Attendre d'avoir assez de volonté pour supprimer le déclencheur"
+    answer: 2
+    explanation: "Supprimer une habitude est plus difficile que d'en créer une : on réussit mieux en remplaçant l'action par une autre qui offre une récompense proche."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Se brosser les dents, prendre le même chemin, attraper son téléphone au réveil : une grande partie
+de nos gestes quotidiens sont des **habitudes**, des actions déclenchées automatiquement par une
+situation, sans vraie décision. Une habitude se forme par la **répétition** d'un même geste dans un
+même **contexte**. La recherche montre qu'il faut souvent plus de deux mois pour en installer une,
+qu'on peut rater un jour sans tout perdre, et que modifier son **environnement** est plus efficace
+que compter sur sa volonté.
+
+## Comment se forme une habitude
+
+Une habitude relie trois éléments :
+
+1. **Un déclencheur** : un moment, un lieu, une émotion, une action précédente. Le réveil, la fin du
+   repas, l'ennui.
+2. **Une action**, répétée.
+3. **Une récompense** : un plaisir, un soulagement, une satisfaction.
+
+À force de répétition, le cerveau associe le déclencheur à l'action. Celle-ci finit par se lancer
+toute seule, sans effort ni réflexion. C'est très utile : on libère son attention pour autre chose.
+Mais cela vaut aussi pour les mauvaises habitudes.
+
+## Combien de temps faut-il
+
+Le chiffre de **21 jours**, souvent cité, ne repose sur aucune étude solide. En 2009, la psychologue
+Phillippa Lally, à l'University College de Londres, a suivi des volontaires qui voulaient prendre une
+nouvelle habitude, boire un verre d'eau au déjeuner ou faire des abdominaux après le café. Il leur a
+fallu en médiane **66 jours** pour que le geste devienne automatique, avec des écarts allant
+d'environ 18 à plus de 250 jours. Bonne nouvelle : rater une journée de temps en temps n'empêchait
+pas l'habitude de se former.
+
+```schema
+type: cycle
+titre: La boucle d'une habitude
+elements:
+  - titre: Déclencheur
+    texte: Un moment, un lieu, une émotion.
+  - titre: Action
+    texte: Le geste répété.
+  - titre: Récompense
+    texte: Plaisir, soulagement, satisfaction.
+```
+
+## Les méthodes qui marchent
+
+- **Commencer petit** : deux pompes, une page lue, cinq minutes de rangement. On augmente une fois
+  l'habitude installée.
+- **Préciser le quand et le où**, avec une intention de mise en œuvre : « Quand j'ai fini mon café du
+  matin, je lis une page. » Les travaux du psychologue Peter Gollwitzer montrent que ce type de plan
+  augmente nettement le passage à l'acte.
+- **Accrocher la nouvelle habitude à une ancienne**, qui sert de déclencheur.
+- **Aménager l'environnement** : rendre le bon geste facile et visible, les chaussures de sport
+  devant la porte, les fruits sur la table ; rendre le mauvais difficile, le téléphone dans une autre
+  pièce, pas de biscuits dans le placard.
+- **Suivre ses progrès** : cocher les jours réussis sur un calendrier crée une petite récompense.
+- **Ne pas rater deux fois de suite** : une absence ponctuelle ne compte pas, une série d'absences
+  défait l'habitude.
+
+## Se défaire d'une mauvaise habitude
+
+Supprimer une habitude est plus difficile que d'en créer une. On réussit mieux en :
+
+- **identifiant son déclencheur** : quand, où, avec qui, dans quel état ;
+- **éloignant le déclencheur** quand c'est possible ;
+- **remplaçant** l'action par une autre qui apporte une récompense proche : marcher cinq minutes au
+  lieu de grignoter face au stress ;
+- **ajoutant de la friction** : se déconnecter d'une application, supprimer un raccourci.
+
+## À retenir
+
+- Une habitude est une action déclenchée automatiquement par un contexte, à force de répétition.
+- Il faut en moyenne environ 66 jours pour qu'un geste devienne automatique, avec de grands écarts.
+- Commencer petit et préciser le moment et le lieu augmentent les chances de réussite.
+- Aménager son environnement est plus efficace que compter sur sa volonté.
+- Rater un jour n'est pas grave ; c'est la répétition sur la durée qui compte.
+
+---
+type: article
+title: Gérer son temps et ses priorités
+slug: gerer-son-temps-priorites
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Le temps est la seule ressource que personne ne peut accumuler. Distinguer l'urgent de
+  l'important, bloquer des plages pour le travail profond, faire une chose à la fois et savoir dire
+  non permettent d'avancer sur ce qui compte vraiment.
+tags: [cognition]
+relatedArticles: [former-de-bonnes-habitudes, pourquoi-ne-peut-on-pas-bien-faire-deux-choses-a-la-fois, pourquoi-remet-on-a-demain-ce-qu-on-sait-devoir-faire-aujourd-hui, apprendre-efficacement, negocier-efficacement]
+sources:
+  - title: "Matrice d'Eisenhower"
+    url: "https://fr.wikipedia.org/wiki/Matrice_d%27Eisenhower"
+    publisher: "Wikipédia"
+  - title: "Loi de Parkinson"
+    url: "https://fr.wikipedia.org/wiki/Loi_de_Parkinson"
+    publisher: "Wikipédia"
+  - title: "Pomodoro Technique"
+    url: "https://en.wikipedia.org/wiki/Pomodoro_Technique"
+    publisher: "Wikipedia"
+  - title: "Time management"
+    url: "https://en.wikipedia.org/wiki/Time_management"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Dans la matrice d'Eisenhower, quelles tâches faut-il protéger en priorité dans son agenda ?"
+    options:
+      - "Les tâches importantes mais non urgentes"
+      - "Les tâches ni urgentes ni importantes"
+      - "Uniquement les tâches urgentes"
+    answer: 1
+    explanation: >
+      Apprendre, préparer, prendre soin de sa santé ou de ses relations : ces tâches ne crient
+      jamais, et c'est pourquoi elles sont souvent sacrifiées.
+  - question: "Que dit la loi de Parkinson ?"
+    options:
+      - "Que les tâches se font toujours plus vite que prévu"
+      - "Que le travail s'étend de façon à occuper tout le temps disponible pour le faire"
+      - "Qu'il faut travailler la nuit"
+    answer: 2
+    explanation: >
+      Formulée avec humour par Cyril Northcote Parkinson en 1955, elle invite à se fixer des
+      délais courts et précis.
+  - question: "Pourquoi faire plusieurs choses à la fois fait-il perdre du temps ?"
+    options:
+      - "Parce que les ordinateurs ralentissent"
+      - "Parce que c'est fatigant pour les yeux"
+      - "Parce que le cerveau bascule d'une tâche à l'autre et perd à chaque fois du temps et de l'attention"
+    answer: 3
+    explanation: >
+      Chaque changement de tâche a un coût. Une notification peut faire perdre plusieurs minutes de
+      concentration.
+  - question: "Pourquoi savoir dire non ou pas maintenant aide-t-il à gérer son temps ?"
+    options:
+      - "Parce que refuser évite toujours de vexer les autres"
+      - "Parce que chaque oui à une demande est un non à autre chose, notamment à ses priorités"
+      - "Parce que cela permet de faire plusieurs choses en même temps"
+    answer: 2
+    explanation: "Accepter une demande prend du temps pris ailleurs : refuser poliment, en proposant une alternative, protège ce qui compte vraiment."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Chacun dispose de 24 heures par jour. La différence ne tient pas au temps, mais à la façon de
+l'utiliser. Gérer son temps, c'est d'abord **choisir** ce qui compte, puis **protéger** du temps
+pour le faire, et **réduire** ce qui disperse. Quelques outils simples, la distinction entre urgent
+et important, les plages de travail bloquées, une tâche à la fois et le droit de dire non, suffisent
+à changer une semaine.
+
+## Urgent n'est pas important
+
+On attribue au président américain Dwight Eisenhower l'idée de distinguer deux questions : une tâche
+est-elle **urgente** ? Est-elle **importante** ? La **matrice d'Eisenhower** en tire quatre cases :
+
+1. **Urgent et important** : une échéance proche, un problème grave. À faire tout de suite.
+2. **Important mais pas urgent** : apprendre, préparer un projet, faire du sport, entretenir ses
+   relations, chercher un meilleur emploi. À **planifier** et protéger.
+3. **Urgent mais pas important** : beaucoup d'interruptions, de messages, de demandes des autres. À
+   déléguer, regrouper ou limiter.
+4. **Ni urgent ni important** : faire défiler les réseaux, regarder des vidéos sans fin. À réduire.
+
+Le piège est de passer ses journées dans les cases 1 et 3. Les tâches de la case 2 ne crient jamais,
+alors qu'elles construisent l'avenir. Ce sont elles qu'il faut inscrire en premier dans son agenda.
+
+```schema
+type: systeme
+titre: La matrice d'Eisenhower
+centre: Mes tâches
+parties:
+  - nom: Urgent et important
+    role: À faire tout de suite.
+  - nom: Important, pas urgent
+    role: À planifier et protéger en premier.
+  - nom: Urgent, pas important
+    role: À déléguer, regrouper ou limiter.
+  - nom: Ni urgent ni important
+    role: À réduire.
+```
+
+## Planifier sa semaine
+
+- **Lister ses priorités** de la semaine : trois résultats importants, pas trente tâches.
+- **Bloquer des plages** dans l'agenda pour ces priorités, comme des rendez-vous avec soi-même,
+  idéalement aux heures où l'on est le plus en forme.
+- **Regrouper** les petites tâches similaires, mails, appels, démarches, dans un même créneau.
+- **Garder des marges** : tout prend plus de temps que prévu.
+
+## Une chose à la fois
+
+Le cerveau ne fait pas vraiment deux tâches exigeantes en même temps : il bascule de l'une à l'autre,
+et chaque bascule coûte du temps et de l'attention. Une notification suffit à interrompre une
+réflexion. Quelques règles aident :
+
+- couper les notifications pendant les plages de travail ;
+- ranger le téléphone hors de vue ;
+- fermer les onglets inutiles ;
+- travailler par blocs, par exemple selon la **technique Pomodoro**, inventée par Francesco Cirillo à
+  la fin des années 1980 : 25 minutes concentrées, 5 minutes de pause.
+
+## Des délais courts
+
+En 1955, l'historien britannique Cyril Northcote Parkinson écrit avec humour que « le travail s'étend
+de façon à occuper tout le temps disponible ». C'est la **loi de Parkinson**. Se fixer des échéances
+courtes et précises, même pour soi, évite qu'une tâche d'une heure en prenne une journée.
+
+## Savoir dire non
+
+Chaque oui à une demande est un non à autre chose. Dire non, ou « pas maintenant », avec politesse et
+une explication brève, protège ses priorités. On peut proposer une alternative : un autre moment, une
+autre personne, une version plus simple.
+
+## Préserver son énergie
+
+Le temps ne sert à rien sans énergie. Le sommeil, l'activité physique, les pauses réelles et les
+vacances ne sont pas du temps perdu : ils rendent le reste plus efficace.
+
+## À retenir
+
+- La matrice d'Eisenhower distingue l'urgent de l'important.
+- Les tâches importantes mais non urgentes doivent être planifiées en premier.
+- Bloquer des plages de travail et faire une chose à la fois réduit les pertes de temps.
+- Des délais courts empêchent le travail de s'étendre, selon la loi de Parkinson.
+- Dire non et préserver son énergie protègent ce qui compte vraiment.
+
+---
+type: article
+title: Parler en public sans paniquer
+slug: prise-de-parole-en-public
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Le trac est normal, même chez les orateurs expérimentés. Un message clair, une structure simple,
+  des répétitions à voix haute et quelques techniques de respiration suffisent à transformer une
+  épreuve en moment maîtrisé.
+tags: [groupes-et-normes]
+relatedArticles: [ecoute-active-communication, reussir-entretien-embauche, les-techniques-de-gestion-du-stress-au-quotidien, negocier-efficacement]
+sources:
+  - title: "Glossophobie"
+    url: "https://fr.wikipedia.org/wiki/Glossophobie"
+    publisher: "Wikipédia"
+  - title: "Public speaking"
+    url: "https://en.wikipedia.org/wiki/Public_speaking"
+    publisher: "Wikipedia"
+  - title: "Rhétorique"
+    url: "https://fr.wikipedia.org/wiki/Rh%C3%A9torique"
+    publisher: "Wikipédia"
+  - title: "Fear of public speaking can be conquered: new research"
+    url: "https://lighthouse.mq.edu.au/article/may-2025/fear-of-public-speaking-can-be-conquered-new-research"
+    publisher: "Macquarie University"
+    date: "2025"
+quiz:
+  - question: "Quelle est la première chose à définir avant de préparer une intervention ?"
+    options:
+      - "Le message principal que le public doit retenir"
+      - "La couleur des diapositives"
+      - "Les blagues"
+    answer: 1
+    explanation: >
+      Si l'on ne peut pas résumer son propos en une phrase, le public ne le pourra pas non plus.
+      Tout le reste se construit autour de ce message.
+  - question: "Pourquoi répéter à voix haute plutôt que dans sa tête ?"
+    options:
+      - "Pour déranger les voisins"
+      - "Parce que cela révèle les passages flous, la durée réelle et habitue la voix"
+      - "Parce que c'est obligatoire"
+    answer: 2
+    explanation: >
+      Une phrase qui semble claire en pensée peut buter à l'oral. La répétition rend aussi plus
+      sûr de soi.
+  - question: "Que faire du trac juste avant de parler ?"
+    options:
+      - "Le cacher en parlant très vite"
+      - "Boire un café de plus"
+      - "Respirer lentement en allongeant l'expiration et l'accepter comme une énergie normale"
+    answer: 3
+    explanation: >
+      Une respiration lente calme le rythme cardiaque. Voir le trac comme de l'excitation plutôt
+      que comme un danger aide à mieux parler.
+  - question: "Pourquoi conseille-t-on de choisir trois idées au plus pour soutenir son message ?"
+    options:
+      - "Parce que le temps de parole est toujours limité à dix minutes"
+      - "Parce qu'au-delà, le public décroche"
+      - "Parce que les diapositives ne peuvent pas en contenir davantage"
+    answer: 2
+    explanation: "Un message principal soutenu par peu d'idées reste mémorisable : trop d'idées font perdre l'attention du public."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Présenter un exposé, défendre un projet, parler en réunion ou à un mariage : prendre la parole devant
+d'autres fait partie de la vie, et beaucoup de gens le redoutent plus que presque tout. Le **trac** est
+une réaction normale, même chez les orateurs expérimentés. Il se maîtrise avec une méthode simple :
+**un message clair**, **une structure courte**, des **répétitions à voix haute** et quelques techniques
+pour le corps et la voix. On ne naît pas bon orateur : on le devient en pratiquant.
+
+## Préparer le fond
+
+1. **Connaître son public** : qui sont-ils, que savent-ils déjà, qu'attendent-ils ?
+2. **Fixer un message principal**, en une phrase : ce que le public doit retenir s'il ne retient
+   qu'une chose.
+3. **Choisir trois idées au plus** pour le soutenir. Au-delà, le public décroche.
+4. **Illustrer** chaque idée par un exemple, une histoire, un chiffre parlant.
+5. **Construire une ouverture** qui capte l'attention, une question, une anecdote, un chiffre, et une
+   **conclusion** qui répète le message et dit ce qu'on attend du public.
+
+## Préparer la forme
+
+- **Des notes courtes**, quelques mots-clés par idée, plutôt qu'un texte rédigé que l'on lirait.
+- **Des diapositives sobres**, s'il y en a : une idée par diapositive, peu de texte, des images. Elles
+  soutiennent l'orateur, elles ne le remplacent pas.
+- **Répéter à voix haute**, debout, au moins deux ou trois fois, en se chronométrant. On peut se filmer
+  ou s'entraîner devant un proche.
+- **Prévoir les questions** difficiles et ses réponses.
+
+```schema
+type: etapes
+titre: Préparer une intervention
+elements:
+  - titre: Le public
+    texte: Ce qu'il sait et ce qu'il attend.
+  - titre: Un message
+    texte: Résumable en une phrase.
+    icone: bulb
+  - titre: Trois idées au plus
+    texte: Chacune illustrée par un exemple.
+  - titre: Ouverture et conclusion
+    texte: Capter l'attention, puis répéter le message.
+  - titre: Répéter à voix haute
+    texte: Debout, chronométré.
+    icone: mic
+```
+
+## Apprivoiser le trac
+
+Le trac est une réaction de stress : le cœur accélère, les mains tremblent, la bouche s'assèche. Il ne
+se voit pas autant qu'on le croit.
+
+- **Respirer** lentement par le ventre, en allongeant l'expiration, pendant une ou deux minutes avant
+  de commencer.
+- **Arriver en avance** pour découvrir la salle et vérifier le matériel.
+- **Bien connaître les deux premières minutes** : le trac baisse une fois lancé.
+- **Voir le trac comme de l'énergie** : des études suggèrent que se dire « je suis excité » plutôt que
+  « je suis stressé » aide à mieux performer.
+- Garder un verre d'eau à portée de main.
+
+## Pendant l'intervention
+
+- **Regarder le public**, en balayant la salle, en s'arrêtant sur quelques visages bienveillants.
+- **Parler plus lentement** que d'habitude, et articuler.
+- **Utiliser les silences** : une pause après une idée importante lui donne du poids, et laisse le
+  temps de respirer.
+- **Se tenir stable**, les pieds ancrés, les mains libres pour accompagner le propos.
+- **Rester soi-même** : un oubli ou une hésitation passent inaperçus si l'on continue calmement.
+
+## Répondre aux questions
+
+On écoute la question jusqu'au bout, on la reformule si besoin, on répond brièvement. Si l'on ne sait
+pas, on le dit simplement et l'on propose de revenir avec la réponse : c'est plus crédible qu'une
+improvisation.
+
+## Progresser
+
+La prise de parole s'apprend comme un sport : en pratiquant souvent, sur des enjeux d'abord faibles.
+Les clubs d'art oratoire, le théâtre d'improvisation ou les présentations en réunion sont autant
+d'occasions de s'entraîner.
+
+## À retenir
+
+- Le trac est normal et se voit moins qu'on ne le croit.
+- On prépare un message principal en une phrase et trois idées au plus, illustrées.
+- On répète à voix haute, debout et chronométré.
+- Respirer lentement et bien connaître son début aident à apprivoiser le trac.
+- Regarder le public, parler lentement et utiliser les silences rendent le propos plus fort.
+
+---
+type: article
+title: L'écoute active et la communication bienveillante
+slug: ecoute-active-communication
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Bien communiquer commence par bien écouter. Reformuler, poser des questions ouvertes, exprimer
+  ses besoins sans accuser : ces techniques issues de la psychologie apaisent les conflits et
+  renforcent les relations, au travail comme en famille.
+tags: [groupes-et-normes]
+relatedArticles: [prise-de-parole-en-public, negocier-efficacement, construire-son-reseau-professionnel, comment-nos-emotions-orientent-elles-nos-decisions-sans-qu-on-s-en-rende-compte]
+sources:
+  - title: "Écoute active"
+    url: "https://fr.wikipedia.org/wiki/%C3%89coute_active"
+    publisher: "Wikipédia"
+  - title: "Communication non violente"
+    url: "https://fr.wikipedia.org/wiki/Communication_non_violente"
+    publisher: "Wikipédia"
+  - title: "Carl Rogers"
+    url: "https://fr.wikipedia.org/wiki/Carl_Rogers"
+    publisher: "Wikipédia"
+  - title: "Active listening"
+    url: "https://en.wikipedia.org/wiki/Active_listening"
+    publisher: "Wikipedia"
+  - title: "Communication non violente et écoute active (diaporama)"
+    url: "https://plateformepolecalais.etab.ac-lille.fr/files/2021/12/Communication-non-violente-et-ecoute-active-Diapos-Journee-QVT-Calais-1-CNV.pdf"
+    publisher: "Académie de Lille (Éducation nationale)"
+quiz:
+  - question: "Qu'est-ce que reformuler, dans l'écoute active ?"
+    options:
+      - "Redire avec ses propres mots ce que l'autre a dit, pour vérifier qu'on a bien compris"
+      - "Répéter mot pour mot ses phrases"
+      - "Donner tout de suite son avis"
+    answer: 1
+    explanation: >
+      La reformulation montre à l'autre qu'il a été entendu, et corrige les malentendus avant
+      qu'ils ne s'installent.
+  - question: "Quelle phrase suit la méthode de la communication non violente ?"
+    options:
+      - "Tu es toujours en retard, tu te moques de moi."
+      - "Quand tu arrives à 20 h alors qu'on avait dit 19 h, je suis inquiet, j'ai besoin de pouvoir compter sur toi ; peux-tu me prévenir si tu as du retard ?"
+      - "Tu ne fais jamais d'efforts."
+    answer: 2
+    explanation: >
+      Elle décrit un fait, exprime un sentiment, nomme un besoin et formule une demande précise,
+      sans juger la personne.
+  - question: "Pourquoi les mots « toujours » et « jamais » enveniment-ils une dispute ?"
+    options:
+      - "Parce qu'ils sont trop longs"
+      - "Parce qu'ils sont grossiers"
+      - "Parce qu'ils généralisent, sont presque toujours faux et poussent l'autre à se défendre"
+    answer: 3
+    explanation: >
+      L'autre cherche alors un contre-exemple au lieu d'écouter le problème réel.
+  - question: "Pourquoi vaut-il mieux accueillir l'émotion de l'autre avant de chercher une solution ?"
+    options:
+      - "Parce que beaucoup de gens veulent d'abord être compris, pas conseillés"
+      - "Parce qu'une solution rapide est toujours mal reçue"
+      - "Parce que l'émotion disparaît d'elle-même après quelques minutes"
+    answer: 1
+    explanation: "Se sentir entendu passe souvent avant tout conseil : proposer trop vite une solution peut donner l'impression de ne pas être écouté."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Dans une conversation, la plupart des gens n'écoutent pas vraiment : ils préparent leur réponse. Les
+malentendus, les tensions et les conflits naissent souvent là. L'**écoute active**, décrite par le
+psychologue américain Carl Rogers dans les années 1950, consiste à se concentrer sur ce que dit l'autre,
+à **reformuler** et à **poser des questions** pour le comprendre. La **communication non violente**,
+formalisée par Marshall Rosenberg, aide à exprimer ses propres besoins **sans accuser**. Ces techniques
+s'apprennent et changent la qualité des relations.
+
+## Écouter vraiment
+
+- **Se rendre disponible** : poser son téléphone, regarder la personne, ne pas faire autre chose.
+- **Laisser finir** sans interrompre, même si l'on n'est pas d'accord.
+- **Montrer qu'on suit** : hochements de tête, petits mots d'encouragement.
+- **Reformuler** : « Si je comprends bien, tu as l'impression que… ». L'autre se sent entendu, et l'on
+  corrige tout de suite un malentendu.
+- **Poser des questions ouvertes**, qui appellent plus qu'un oui ou un non : « Comment as-tu vécu
+  ça ? », « Qu'est-ce qui serait important pour toi ? ».
+- **Accueillir l'émotion** avant de chercher une solution : « Je vois que ça t'a vraiment blessé. »
+  Beaucoup de gens veulent d'abord être compris, pas conseillés.
+
+## S'exprimer sans accuser
+
+La **communication non violente** propose quatre étapes :
+
+1. **L'observation** : décrire un fait précis, sans jugement. « Tu es arrivé à 20 h » plutôt que « Tu
+   es toujours en retard ».
+2. **Le sentiment** : dire ce qu'on ressent. « J'étais inquiet. »
+3. **Le besoin** : nommer ce qui est important pour soi. « J'ai besoin de pouvoir compter sur toi. »
+4. **La demande** : proposer une action concrète et réalisable. « Peux-tu me prévenir par message si
+   tu as du retard ? »
+
+Parler en **« je »** plutôt qu'en **« tu »** évite que l'autre se sente attaqué et se défende.
+
+```schema
+type: etapes
+titre: La communication non violente en quatre étapes
+elements:
+  - titre: Observation
+    texte: Un fait précis, sans jugement.
+  - titre: Sentiment
+    texte: Ce que je ressens.
+  - titre: Besoin
+    texte: Ce qui est important pour moi.
+  - titre: Demande
+    texte: Une action concrète et réalisable.
+```
+
+## Les pièges à éviter
+
+- **Les généralisations** « toujours » et « jamais » : presque toujours fausses, elles poussent
+  l'autre à chercher un contre-exemple.
+- **Les étiquettes** : « Tu es égoïste » attaque la personne au lieu du comportement.
+- **Les conseils non demandés** et les « à ta place ».
+- **Ressortir le passé** au milieu d'une dispute.
+- **Le mépris** et le sarcasme, que les recherches sur les couples identifient comme particulièrement
+  destructeurs pour une relation.
+
+## Désamorcer un conflit
+
+- **Faire une pause** quand les émotions sont trop fortes, en convenant de reprendre plus tard.
+- **Chercher le problème commun** plutôt que le coupable : « Comment fait-on pour que ça n'arrive
+  plus ? »
+- **Reconnaître sa part**, même petite : cela invite l'autre à faire de même.
+- **Se mettre d'accord** sur une solution concrète, puis faire le point quelques jours après.
+
+## Au travail
+
+Ces techniques servent aussi en entreprise : comprendre le vrai besoin d'un client ou d'un manager,
+donner un retour sur un travail sans blesser, recevoir une critique sans se braquer. Un bon retour
+décrit un fait, son effet et propose une piste d'amélioration.
+
+## À retenir
+
+- L'écoute active consiste à se concentrer sur l'autre, reformuler et poser des questions ouvertes.
+- Accueillir l'émotion de l'autre passe souvent avant la recherche de solutions.
+- La communication non violente enchaîne observation, sentiment, besoin et demande.
+- Parler en « je » plutôt qu'en « tu » évite que l'autre se sente attaqué.
+- Généralisations, étiquettes et mépris enveniment les conflits.
+
+---
+type: article
+title: Réussir un entretien d'embauche
+slug: reussir-entretien-embauche
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Un entretien se prépare comme un examen : connaître l'entreprise, relier son parcours au poste,
+  raconter ses expériences avec la méthode STAR et préparer ses propres questions. La relance après
+  l'entretien fait souvent la différence.
+tags: [education-et-mobilite]
+relatedArticles: [construire-son-reseau-professionnel, prise-de-parole-en-public, negocier-efficacement, le-bulletin-de-salaire-comment-le-lire]
+sources:
+  - title: "Entretien d'embauche"
+    url: "https://fr.wikipedia.org/wiki/Entretien_d%27embauche"
+    publisher: "Wikipédia"
+  - title: "Situation, task, action, result"
+    url: "https://en.wikipedia.org/wiki/Situation,_task,_action,_result"
+    publisher: "Wikipedia"
+  - title: "Job interview"
+    url: "https://en.wikipedia.org/wiki/Job_interview"
+    publisher: "Wikipedia"
+  - title: "Discrimination à l'embauche"
+    url: "https://fr.wikipedia.org/wiki/Discrimination_%C3%A0_l%27embauche"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que signifie la méthode STAR pour raconter une expérience ?"
+    options:
+      - "Situation, tâche, action, résultat"
+      - "Sourire, travailler, attendre, répondre"
+      - "Style, talent, ambition, réussite"
+    answer: 1
+    explanation: >
+      On décrit le contexte, sa mission, ce qu'on a fait personnellement et le résultat obtenu,
+      chiffré si possible.
+  - question: "Pourquoi préparer des questions à poser au recruteur ?"
+    options:
+      - "Pour gagner du temps"
+      - "Parce que cela montre son intérêt et permet de vérifier que le poste nous convient"
+      - "Pour piéger le recruteur"
+    answer: 2
+    explanation: >
+      Un entretien est un échange dans les deux sens. Ne poser aucune question donne souvent une
+      impression de désintérêt.
+  - question: "Un recruteur peut-il légalement poser des questions sur un projet de grossesse en France ?"
+    options:
+      - "Oui, toujours"
+      - "Oui, s'il le note par écrit"
+      - "Non, les questions sans lien avec le poste et les compétences sont interdites"
+    answer: 3
+    explanation: >
+      Le code du travail interdit de discriminer selon la situation de famille, la grossesse,
+      l'origine, la religion et d'autres critères.
+  - question: "Pourquoi dit-on je plutôt que nous dans la partie Action de la méthode STAR ?"
+    options:
+      - "Pour paraître plus sûr de soi que les autres candidats"
+      - "Pour raccourcir la réponse et gagner du temps"
+      - "Pour montrer ce que l'on a fait soi-même"
+    answer: 3
+    explanation: "Le recruteur évalue le candidat : il faut donc préciser sa propre action, et pas seulement celle de l'équipe."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Un entretien d'embauche n'est pas un interrogatoire : c'est une conversation où le recruteur cherche à
+savoir si l'on peut faire le travail, si l'on en a envie et si l'on s'intégrera à l'équipe. Il se
+prépare comme un examen : **connaître l'entreprise et le poste**, **relier son parcours** aux besoins,
+**raconter ses expériences** de façon concrète, **préparer ses questions**, puis **relancer** après
+l'entretien. La plupart des candidats improvisent : se préparer donne un avantage net.
+
+## Avant l'entretien
+
+1. **Décortiquer l'offre** : surligner les compétences et missions demandées, et trouver pour chacune
+   un exemple de son parcours.
+2. **Se renseigner sur l'entreprise** : activité, clients, actualité, valeurs, concurrents. Le site,
+   les rapports annuels, la presse et les profils des employés en ligne sont utiles.
+3. **Préparer sa présentation** de deux minutes : qui l'on est, ce qu'on a fait de plus pertinent pour
+   ce poste, pourquoi on le veut.
+4. **Préparer les questions classiques** : forces et faiblesses, échec, conflit, motivation, projet à
+   cinq ans, prétentions salariales.
+5. **Régler la logistique** : trajet, tenue adaptée à l'entreprise, ou pour un entretien en visio,
+   connexion, son, lumière et arrière-plan testés.
+
+## Raconter avec la méthode STAR
+
+Pour répondre à « Parlez-moi d'une situation où… », la méthode **STAR** structure la réponse :
+
+- **Situation** : le contexte, en une ou deux phrases.
+- **Tâche** : ce qu'on devait faire.
+- **Action** : ce qu'on a fait **soi-même**, en disant « je » plutôt que « nous ».
+- **Résultat** : ce qui s'est passé, chiffré si possible, et ce qu'on en a appris.
+
+Préparer cinq ou six histoires de ce type permet de répondre à la plupart des questions.
+
+```schema
+type: etapes
+titre: La méthode STAR
+legende: Pour raconter une expérience de façon concrète.
+elements:
+  - titre: Situation
+    texte: Le contexte, en une ou deux phrases.
+  - titre: Tâche
+    texte: Ce que je devais faire.
+  - titre: Action
+    texte: Ce que j'ai fait moi-même.
+  - titre: Résultat
+    texte: Chiffré si possible, et ce que j'en ai appris.
+```
+
+## Pendant l'entretien
+
+- Arriver **cinq à dix minutes** en avance.
+- Écouter la question jusqu'au bout, prendre une seconde pour réfléchir, répondre de façon structurée
+  et assez brève.
+- Rester **honnête** : un recruteur repère vite les réponses toutes faites, et un mensonge sur le CV
+  peut coûter le poste.
+- Pour la question des **faiblesses**, citer une vraie faiblesse non rédhibitoire et ce qu'on fait pour
+  progresser.
+- Parler du **salaire** avec une fourchette réaliste, préparée à partir des salaires du marché.
+
+## Poser ses questions
+
+Un entretien est un échange dans les deux sens. Quelques questions utiles :
+
+- « À quoi ressemblerait une journée type ? »
+- « Quels sont les principaux défis du poste dans les six premiers mois ? »
+- « Comment se compose l'équipe ? »
+- « Comment mesurez-vous la réussite dans ce poste ? »
+- « Quelles sont les prochaines étapes du recrutement ? »
+
+## Après l'entretien
+
+- Envoyer un **message de remerciement** court dans les 24 heures, en rappelant un point de
+  l'échange et son intérêt pour le poste.
+- Noter les questions posées et ce qu'on aurait pu mieux dire.
+- **Relancer** poliment si l'on n'a pas de nouvelles après le délai annoncé.
+- En cas de refus, demander un retour : il aide à progresser pour la suite.
+
+## Connaître ses droits
+
+En France, le recruteur ne peut poser que des questions en lien direct avec le poste et les
+compétences. Les questions sur la situation familiale, un projet de grossesse, l'origine, la religion,
+les opinions politiques ou la santé sont **interdites**, et la discrimination à l'embauche est punie par
+la loi. On peut refuser poliment d'y répondre.
+
+## À retenir
+
+- On prépare un entretien en reliant chaque exigence de l'offre à un exemple de son parcours.
+- La méthode STAR structure le récit d'une expérience : situation, tâche, action, résultat.
+- On prépare ses propres questions : l'entretien est un échange dans les deux sens.
+- Un remerciement dans les 24 heures et une relance polie font souvent la différence.
+- Les questions sans lien avec le poste, sur la famille, l'origine ou la santé, sont interdites.
+
+---
+type: article
+title: Construire son réseau professionnel
+slug: construire-son-reseau-professionnel
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Une grande part des emplois et des opportunités circulent par les relations. Le sociologue Mark
+  Granovetter a montré que ce sont souvent les connaissances éloignées, et non les proches, qui
+  ouvrent les portes. Un réseau se construit en donnant avant de demander.
+tags: [education-et-mobilite]
+relatedArticles: [reussir-entretien-embauche, ecoute-active-communication, negocier-efficacement]
+sources:
+  - title: "The Strength of Weak Ties"
+    url: "https://en.wikipedia.org/wiki/Interpersonal_ties"
+    publisher: "Wikipedia"
+  - title: "Mark Granovetter"
+    url: "https://fr.wikipedia.org/wiki/Mark_Granovetter"
+    publisher: "Wikipédia"
+  - title: "Capital social"
+    url: "https://fr.wikipedia.org/wiki/Capital_social_(sociologie)"
+    publisher: "Wikipédia"
+  - title: "Professional network service"
+    url: "https://en.wikipedia.org/wiki/Professional_network_service"
+    publisher: "Wikipedia"
+  - title: "The Strength of Weak Ties"
+    url: "https://apice.unibo.it/xwiki/bin/view/Publication/GranovetterAjs78"
+    publisher: "Università di Bologna (APICE)"
+  - title: "The Strength of Weak Ties"
+    url: "https://smg.media.mit.edu/classes/library/granovetter.weak.ties/granovetter.html"
+    publisher: "MIT Media Lab"
+quiz:
+  - question: "Qu'a montré Mark Granovetter sur la force des liens faibles ?"
+    options:
+      - "Que les connaissances éloignées apportent souvent des informations nouvelles, comme des offres d'emploi"
+      - "Que seuls les amis proches aident à trouver un emploi"
+      - "Que les réseaux ne servent à rien"
+    answer: 1
+    explanation: >
+      Nos proches fréquentent souvent les mêmes milieux que nous. Les connaissances éloignées
+      circulent dans d'autres cercles et connaissent d'autres opportunités.
+  - question: "Quel est le meilleur état d'esprit pour construire un réseau ?"
+    options:
+      - "Ne contacter les gens que lorsqu'on a besoin d'eux"
+      - "Donner avant de demander : partager, aider, mettre en relation"
+      - "Ajouter le plus de contacts possible sans leur parler"
+    answer: 2
+    explanation: >
+      Une relation se construit dans la durée et la réciprocité. Les gens aident volontiers ceux
+      qui les ont aidés.
+  - question: "Qu'est-ce qu'un entretien informatif ?"
+    options:
+      - "Un entretien d'embauche"
+      - "Un contrôle de connaissances"
+      - "Une courte discussion avec un professionnel pour comprendre son métier et son secteur, sans demander d'emploi"
+    answer: 3
+    explanation: >
+      Demander vingt minutes de conseils est bien plus facile à accepter qu'une demande d'emploi,
+      et cela crée souvent des liens utiles.
+  - question: "Laquelle de ces actions illustre le principe de réciprocité dans un réseau ?"
+    options:
+      - "Contacter ses relations uniquement quand on cherche un emploi"
+      - "Envoyer le même message à tous ses contacts"
+      - "Mettre en relation deux personnes qui gagneraient à se connaître"
+    answer: 3
+    explanation: "Un réseau repose sur l'entraide : partager une information, mettre en relation ou féliciter entretient les relations avant d'avoir besoin d'aide."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Beaucoup d'emplois ne sont jamais publiés, ou sont pourvus grâce à une recommandation. Un **réseau
+professionnel**, l'ensemble des personnes qui nous connaissent et peuvent parler de nous, ouvre des
+portes que les candidatures seules n'ouvrent pas. En 1973, le sociologue américain **Mark Granovetter**
+a montré que ce sont souvent les **liens faibles**, des connaissances éloignées, qui transmettent les
+informations les plus utiles. Construire un réseau n'est pas réservé aux extravertis : c'est une
+habitude qui repose sur la curiosité, la régularité et l'entraide.
+
+## La force des liens faibles
+
+Dans un article célèbre, *The Strength of Weak Ties*, Granovetter étudie comment des cadres ont trouvé
+leur emploi. Beaucoup l'ont trouvé grâce à un contact, et le plus souvent grâce à une personne qu'ils
+voyaient **rarement**, plutôt qu'à un ami proche. L'explication est simple : nos proches fréquentent les
+mêmes milieux que nous et savent les mêmes choses. Les connaissances éloignées circulent dans d'autres
+cercles et entendent parler d'autres opportunités.
+
+Conséquence : entretenir de nombreuses relations variées, même légères, est précieux.
+
+## Donner avant de demander
+
+Un réseau n'est pas une liste de contacts à solliciter en cas de besoin. C'est un ensemble de
+relations, qui reposent sur la **réciprocité**. On l'entretient en :
+
+- partageant un article, une offre ou une information utile ;
+- **mettant en relation** deux personnes qui gagneraient à se connaître ;
+- félicitant pour une réussite, un nouveau poste ;
+- proposant son aide ou son expertise sur un sujet qu'on maîtrise.
+
+Les gens aident volontiers ceux qui les ont aidés, ou qui ont montré un intérêt sincère pour eux.
+
+```schema
+type: comparaison
+titre: Liens forts et liens faibles
+legende: D'après les travaux de Mark Granovetter, 1973.
+colonnes:
+  - titre: Liens forts
+    points:
+      - Amis proches, famille
+      - Fréquentent les mêmes milieux que nous
+      - Savent souvent les mêmes choses
+  - titre: Liens faibles
+    points:
+      - Connaissances que l'on voit rarement
+      - Circulent dans d'autres cercles
+      - Apportent souvent les informations nouvelles
+```
+
+## Où rencontrer des gens
+
+- **Son entourage** : anciens camarades d'études, anciens collègues, voisins, membres d'un club
+  sportif ou d'une association.
+- **Les événements professionnels** : salons, conférences, rencontres de métiers, associations
+  d'anciens élèves.
+- **Les réseaux en ligne**, comme LinkedIn : un profil à jour, des publications utiles et des messages
+  personnalisés.
+- **Le bénévolat**, qui fait rencontrer des personnes de tous horizons tout en montrant ses qualités.
+
+## L'entretien informatif
+
+Pour découvrir un métier ou un secteur, on peut demander à un professionnel **vingt minutes** de
+discussion, en précisant qu'on ne lui demande pas d'emploi. On prépare ses questions : son parcours,
+une journée type, les compétences qui comptent, les entreprises intéressantes, les personnes à
+rencontrer. On termine en remerciant et en demandant s'il connaît quelqu'un d'autre à qui parler. On
+lui donne ensuite des nouvelles. Beaucoup de gens acceptent volontiers ce type d'échange.
+
+## Écrire un premier message
+
+Un bon message de prise de contact est **court**, **personnalisé** et **précis** :
+
+1. comment on a trouvé la personne, ou ce qu'on a en commun ;
+2. pourquoi on la contacte elle, et pas une autre ;
+3. une demande simple et limitée dans le temps ;
+4. un remerciement.
+
+On évite les messages génériques envoyés en masse.
+
+## Entretenir dans la durée
+
+On garde une trace de ses contacts, et l'on reprend des nouvelles de temps en temps, sans attendre
+d'avoir besoin de quelque chose. Un réseau se construit sur des années, et c'est quand on va bien qu'il
+faut l'entretenir.
+
+## À retenir
+
+- Beaucoup d'emplois se trouvent grâce à des relations plutôt que par des annonces.
+- Les liens faibles, des connaissances éloignées, apportent souvent les informations les plus utiles.
+- Un réseau repose sur la réciprocité : on donne avant de demander.
+- L'entretien informatif permet de découvrir un métier et d'élargir son réseau.
+- Un premier message réussi est court, personnalisé et précis.
+
+---
+type: article
+title: Prendre de meilleures décisions
+slug: prendre-de-meilleures-decisions
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Nos décisions sont faussées par des biais : excès de confiance, attachement à ce qu'on a déjà
+  investi, influence de l'humeur. Quelques outils simples, distinguer décisions réversibles et
+  irréversibles, imaginer l'échec à l'avance, chercher l'avis contraire, améliorent nettement nos choix.
+tags: [biais-cognitifs]
+relatedArticles: [pourquoi-notre-cerveau-se-trompe, pourquoi-perdre-une-somme-fait-il-plus-mal-que-gagner-la-meme-somme-ne-fait-plaisir, comment-nos-emotions-orientent-elles-nos-decisions-sans-qu-on-s-en-rende-compte, pourquoi-ne-regarder-que-les-reussites-nous-trompe-t-il, gerer-son-temps-priorites]
+sources:
+  - title: "Biais cognitif"
+    url: "https://fr.wikipedia.org/wiki/Biais_cognitif"
+    publisher: "Wikipédia"
+  - title: "Sunk cost"
+    url: "https://en.wikipedia.org/wiki/Sunk_cost"
+    publisher: "Wikipedia"
+  - title: "Pre-mortem"
+    url: "https://en.wikipedia.org/wiki/Pre-mortem"
+    publisher: "Wikipedia"
+  - title: "Thinking, Fast and Slow"
+    url: "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que le piège des coûts irrécupérables ?"
+    options:
+      - "Continuer un projet perdant parce qu'on y a déjà investi beaucoup de temps ou d'argent"
+      - "Refuser de dépenser de l'argent"
+      - "Acheter le moins cher"
+    answer: 1
+    explanation: >
+      Ce qui est déjà dépensé ne reviendra pas, quelle que soit la décision. Seuls les coûts et
+      bénéfices futurs devraient compter.
+  - question: "Qu'est-ce qu'un pré-mortem ?"
+    options:
+      - "Une autopsie"
+      - "Imaginer qu'un projet a échoué et chercher pourquoi, avant de le lancer"
+      - "Un contrat d'assurance"
+    answer: 2
+    explanation: >
+      Cet exercice, proposé par le psychologue Gary Klein, fait apparaître des risques que
+      l'enthousiasme du groupe cachait.
+  - question: "Pourquoi distinguer décisions réversibles et irréversibles ?"
+    options:
+      - "Parce que toutes les décisions sont irréversibles"
+      - "Parce que les décisions réversibles sont interdites"
+      - "Parce qu'on peut trancher vite les décisions réversibles et réserver sa réflexion à celles qu'on ne pourra pas défaire"
+    answer: 3
+    explanation: >
+      Hésiter des semaines sur un choix facile à corriger fait perdre du temps. Une décision
+      définitive mérite, elle, une vraie réflexion.
+  - question: "Pourquoi faut-il juger une décision sur sa qualité au moment où elle a été prise, et pas seulement sur son résultat ?"
+    options:
+      - "Parce que le résultat dépend aussi du hasard"
+      - "Parce que seules les décisions irréversibles comptent"
+      - "Parce que le résultat n'est jamais connu avec certitude"
+    answer: 1
+    explanation: "Une bonne décision peut mal tourner par malchance. Relire ses notes permet de juger le raisonnement avec les informations disponibles."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Changer de travail, déménager, investir, se lancer dans un projet : nos grandes décisions façonnent
+notre vie. Or notre cerveau prend beaucoup de raccourcis, utiles au quotidien mais trompeurs pour les
+choix importants. Les psychologues, dont **Daniel Kahneman**, prix Nobel d'économie en 2002, ont décrit
+de nombreux **biais cognitifs**. On ne peut pas les supprimer, mais on peut s'en protéger avec quelques
+outils simples, qui obligent à ralentir, à élargir les options et à chercher les failles de son propre
+raisonnement.
+
+## Les pièges les plus fréquents
+
+- **L'excès de confiance** : on surestime ses chances de succès et la précision de ses prévisions.
+- **Les coûts irrécupérables** : on continue un projet perdant parce qu'on y a déjà mis beaucoup.
+- **Le biais de confirmation** : on cherche les informations qui nous donnent raison et l'on ignore les
+  autres.
+- **L'aversion à la perte** : une perte fait plus mal qu'un gain du même montant ne fait plaisir, ce qui
+  pousse à refuser des choix pourtant favorables.
+- **Le biais du survivant** : on ne voit que ceux qui ont réussi, jamais les nombreux qui ont échoué
+  avec la même méthode.
+- **L'influence de l'humeur et de la fatigue** : on décide plus mal affamé, épuisé ou en colère.
+
+## Des outils simples
+
+**1. Réversible ou irréversible ?** Une décision qu'on peut facilement défaire, essayer une méthode,
+acheter un objet remboursable, peut être prise vite. Une décision difficile à défaire, quitter un
+emploi stable, signer un crédit long, mérite du temps.
+
+**2. Élargir les options.** Les mauvaises décisions se prennent souvent entre deux options seulement :
+« faire ou ne pas faire ». Chercher au moins une troisième voie : faire autrement, faire en partie,
+tester d'abord à petite échelle.
+
+**3. Le pré-mortem.** Avant de se lancer, imaginer qu'on est un an plus tard et que le projet a échoué.
+Puis écrire pourquoi. Cet exercice, proposé par le psychologue Gary Klein, fait apparaître des risques
+que l'enthousiasme masquait.
+
+```schema
+type: systeme
+titre: Des outils contre les biais
+centre: Une décision importante
+icone: brain
+parties:
+  - nom: Réversible ou non
+    role: Trancher vite ce qui se défait, prendre son temps sinon.
+  - nom: Une troisième option
+    role: Éviter les faux dilemmes.
+  - nom: Le pré-mortem
+    role: Imaginer l'échec pour en trouver les causes.
+  - nom: L'avis contraire
+    role: Qu'est-ce qui me ferait changer d'avis ?
+  - nom: Les chiffres de base
+    role: Combien de projets de ce type réussissent ?
+  - nom: La règle 10-10-10
+    role: Dix minutes, dix mois, dix ans.
+```
+
+**4. Chercher l'avis contraire.** Demander à quelqu'un de confiance de défendre l'option opposée, ou se
+demander : « Quelle information me ferait changer d'avis ? »
+
+**5. Regarder les chiffres de base.** Avant de se dire « moi, je vais réussir », se demander combien de
+projets de ce type réussissent en général. C'est souvent moins qu'on ne le pense.
+
+**6. La règle 10-10-10.** Que penserai-je de cette décision dans dix minutes, dans dix mois, dans dix
+ans ? Cela remet les émotions du moment à leur juste place.
+
+**7. Dormir dessus.** Pour une décision importante prise sous le coup de l'émotion, attendre au moins
+une nuit.
+
+## Écrire pour mieux décider
+
+Écrire ses options, ses critères et ce qu'on espère, puis relire ces notes quelques mois plus tard,
+permet de voir si l'on s'était trompé et pourquoi. On juge ainsi la **qualité de la décision**, avec les
+informations qu'on avait, et pas seulement son résultat, qui dépend aussi du hasard.
+
+## À retenir
+
+- Nos décisions sont influencées par des biais comme l'excès de confiance et les coûts irrécupérables.
+- On tranche vite les décisions réversibles et l'on prend son temps pour les irréversibles.
+- Chercher au moins une troisième option évite les faux dilemmes.
+- Le pré-mortem consiste à imaginer l'échec pour en découvrir les causes avant de se lancer.
+- On juge une décision sur sa qualité au moment où elle a été prise, pas seulement sur son résultat.
+

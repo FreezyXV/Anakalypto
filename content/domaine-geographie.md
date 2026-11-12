@@ -200,6 +200,20 @@ quiz:
     explanation: >
       C'est l'isostasie. La croûte flotte sur le manteau. Retirer de la matière par érosion
       allège l'ensemble, qui remonte pour retrouver son équilibre.
+  - question: "Pourquoi, lors de la collision entre l'Inde et l'Eurasie, aucune plaque ne plonge-t-elle franchement sous l'autre ?"
+    options:
+      - "La plaque indienne est bien plus lourde que la plaque eurasiatique"
+      - "Les deux plaques se déplacent trop lentement pour plonger"
+      - "Les deux croûtes continentales ont des densités proches"
+    answer: 3
+    explanation: "Deux croûtes continentales ont des densités proches : aucune ne s'enfonce nettement. La matière s'empile alors et se soulève, ce qui forme l'Himalaya."
+  - question: "Comment la subduction d'une plaque océanique finit-elle par construire une chaîne volcanique comme les Andes ?"
+    options:
+      - "En s'enfonçant, la plaque libère de l'eau qui fait fondre le manteau, et le magma remonte"
+      - "La plaque océanique, plus légère, remonte et déforme la plaque continentale"
+      - "La friction entre les plaques fait fondre directement la croûte continentale"
+    answer: 1
+    explanation: "La plaque océanique plus dense plonge et libère de l'eau, ce qui fait fondre le manteau au-dessus. Le magma remonte et construit la chaîne volcanique."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -257,8 +271,22 @@ affleurer au sommet.
 - Le gel et les glaciers sont des agents d'érosion très efficaces.
 - L'isostasie fait remonter une chaîne à mesure qu'elle s'allège.
 
-[Emplacement image : trois mécanismes de formation des montagnes, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois façons de faire une montagne
+colonnes:
+  - titre: Collision
+    icone: mountain
+    points:
+      - Deux continents se percutent
+      - L'Himalaya monte encore de quelques millimètres par an
+  - titre: Subduction
+    points:
+      - Une plaque plonge sous une autre
+  - titre: Point chaud
+    points:
+      - Le magma perce une plaque
+```
 
 ---
 
@@ -301,6 +329,20 @@ quiz:
     explanation: >
       Un hiver froid ne contredit pas le réchauffement, de même qu'un jour de pluie ne
       contredit pas un climat désertique. Ce sont deux échelles de temps différentes.
+  - question: "Pourquoi Köppen s'est-il limité à la température et aux précipitations ?"
+    options:
+      - "Ce sont les seules données qu'on savait mesurer à son époque"
+      - "Il voulait définir des zones correspondant aux grands types de végétation"
+      - "Il estimait que le vent et l'altitude n'influencent pas le climat"
+    answer: 2
+    explanation: "Köppen cherchait à faire correspondre les climats aux grands types de végétation. La température et les précipitations suffisent pour cela."
+  - question: "Pourquoi un hiver très froid ne contredit-il pas le réchauffement mondial ?"
+    options:
+      - "La météo décrit un moment précis, le climat des statistiques sur des décennies"
+      - "Le réchauffement ne concerne que les régions tropicales"
+      - "Les hivers froids sont des erreurs de mesure sans importance"
+    answer: 1
+    explanation: "La météo et le climat sont deux échelles différentes : un épisode froid est un moment, alors que le climat se mesure sur des décennies."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -374,8 +416,19 @@ forêt, dont les cycles se comptent en décennies.
 - Les déserts chauds se concentrent autour de 30 degrés de latitude.
 - La météo décrit un moment, le climat des statistiques sur des décennies.
 
-[Emplacement image : carte simplifiée des grands types de climats, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les cinq grandes familles de climats de Köppen
+legende: Fondées sur la température et les précipitations.
+centre: Climats
+icone: globe
+parties:
+  - nom: Tropicaux
+  - nom: Secs
+  - nom: Tempérés
+  - nom: Continentaux
+  - nom: Polaires
+```
 
 ---
 
@@ -418,6 +471,20 @@ quiz:
     explanation: >
       C'est pourquoi un versant de montagne peut être verdoyant et l'autre quasi désertique,
       alors qu'ils sont distants de quelques dizaines de kilomètres seulement.
+  - question: "Pourquoi l'air chaud et humide qui monte à l'équateur donne-t-il de fortes pluies ?"
+    options:
+      - "Il rencontre des montagnes qui le bloquent"
+      - "Il se réchauffe en altitude et libère sa vapeur"
+      - "Il se refroidit en montant, et l'air froid retient moins de vapeur d'eau"
+    answer: 3
+    explanation: "En s'élevant, l'air se refroidit. Comme l'air froid contient beaucoup moins de vapeur d'eau, l'excès se condense et tombe en pluie."
+  - question: "Pourquoi la mousson apporte-t-elle de fortes pluies en été ?"
+    options:
+      - "Le continent surchauffe, l'air y monte et de l'air humide venu de la mer comble le vide"
+      - "L'océan se réchauffe plus vite que la terre et projette de l'eau vers l'intérieur"
+      - "L'air sec redescend sur le continent et se charge d'humidité"
+    answer: 1
+    explanation: "La terre chauffe plus vite que l'océan. L'air monte au-dessus du continent et l'air humide de la mer vient le remplacer, d'où la pluie abondante."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -482,8 +549,18 @@ agriculture.
 - Un relief provoque la pluie d'un côté et la sécheresse de l'autre.
 - La mousson repose sur le contraste de chauffe entre continent et océan.
 
-[Emplacement image : cellules de circulation atmosphérique et bandes de précipitations, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: La grande circulation près de l'équateur
+elements:
+  - titre: L'air chaud monte à l'équateur
+    icone: sun
+  - titre: Il lâche sa pluie
+    icone: cloud
+  - titre: Il redescend sec vers 30 degrés
+    texte: Là se trouvent les grands déserts.
+  - titre: Il revient vers l'équateur
+```
 
 ---
 
@@ -527,6 +604,20 @@ quiz:
     explanation: >
       C'est l'inertie démographique. Une pyramide des âges large à la base continue de produire
       beaucoup de naissances pendant des décennies, même à fécondité faible.
+  - question: "Pourquoi la population explose-t-elle pendant la phase où la mortalité a déjà chuté ?"
+    options:
+      - "Les gens migrent massivement vers les pays riches"
+      - "Les naissances restent nombreuses alors que les décès diminuent"
+      - "La natalité augmente fortement grâce aux progrès médicaux"
+    answer: 2
+    explanation: "La mortalité chute grâce à l'eau potable, aux vaccins et à une meilleure alimentation, alors que les naissances restent nombreuses un temps. L'écart fait grandir la population."
+  - question: "Pourquoi les projections démographiques à trente ans sont-elles relativement fiables ?"
+    options:
+      - "Les migrations sont très faciles à prévoir"
+      - "Le nombre d'enfants par femme ne varie jamais"
+      - "Les parents des enfants de 2050 sont déjà nés"
+    answer: 3
+    explanation: "La structure par âge est connue : les futurs parents existent déjà. Cela rend les projections à trente ans assez solides."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -597,8 +688,17 @@ subsaharienne, tandis que plusieurs pays voient déjà leur population diminuer.
 - Un pic est projeté vers 10,4 milliards dans les années 2080.
 - L'inertie démographique fait croître la population longtemps après la baisse de la fécondité.
 
-[Emplacement image : les quatre phases de la transition démographique, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: La population mondiale
+evenements:
+  - date: 15 novembre 2022
+    titre: Huit milliards
+  - date: Depuis 2020
+    titre: Croissance sous 1 % par an
+  - date: Années 2080
+    titre: Pic projeté vers 10,4 milliards
+```
 
 ---
 
@@ -641,6 +741,20 @@ quiz:
       Logements mitoyens mieux isolés, trajets plus courts, transports collectifs viables,
       réseaux mutualisés. La densité réduit l'empreinte par personne, à condition d'être bien
       conçue.
+  - question: "Pourquoi faut-il rester prudent dans les comparaisons internationales du taux d'urbanisation ?"
+    options:
+      - "Il n'existe pas de définition universelle de l'urbain"
+      - "Les pays refusent de communiquer leurs données"
+      - "Les villes sont recensées une seule fois par siècle"
+    answer: 1
+    explanation: "Certains pays utilisent un seuil de population, d'autres une densité, d'autres des services administratifs. Un même lieu peut donc être urbain ici et rural ailleurs."
+  - question: "Pourquoi l'enjeu des prochaines décennies se joue-t-il surtout dans les villes moyennes d'Afrique et d'Asie ?"
+    options:
+      - "Elles sont déjà les plus polluées du monde"
+      - "Elles grandiront le plus vite, avec souvent peu de moyens de planification"
+      - "Elles manquent d'habitants pour justifier des transports collectifs"
+    answer: 2
+    explanation: "Ces villes grandiront le plus vite et disposent souvent du moins de moyens de planification. Or une croissance non planifiée annule les bénéfices de la ville."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -714,8 +828,16 @@ grandiront le plus vite et qui disposent souvent du moins de moyens de planifica
 - Il n'existe pas de définition internationale unique de l'urbain.
 - Une ville dense consomme souvent moins par habitant, à condition d'être planifiée.
 
-[Emplacement image : évolution des populations urbaine et rurale mondiales, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Pourquoi on va en ville
+centre: Ville
+parties:
+  - nom: Emplois
+  - nom: Services
+  - nom: Ce qu'elle exige
+    role: Logements, transports, eau, assainissement.
+```
 
 ---
 
@@ -758,6 +880,20 @@ quiz:
     explanation: >
       La convention de 1951 définit le réfugié et interdit de le renvoyer vers un pays où sa
       vie serait menacée. Le terme migrant est général et sans statut juridique propre.
+  - question: "Que protège avant tout le statut de réfugié ?"
+    options:
+      - "Le droit de choisir librement son pays d'accueil"
+      - "Le droit de travailler dans n'importe quel pays"
+      - "L'interdiction de renvoyer une personne vers un pays où sa vie ou sa liberté serait menacée"
+    answer: 3
+    explanation: "Le statut de réfugié ouvre des protections, dont la principale est l'interdiction de renvoyer une personne vers un pays où elle serait menacée."
+  - question: "Pourquoi la situation juridique des personnes déplacées par des catastrophes environnementales reste-t-elle incertaine ?"
+    options:
+      - "La convention de 1951 ne les couvre pas"
+      - "Elles reviennent presque toujours chez elles rapidement"
+      - "Elles sont toutes considérées comme des demandeurs d'asile"
+    answer: 1
+    explanation: "Le statut de réfugié, défini en 1951, vise la crainte de persécution. Les déplacés environnementaux n'entrent pas dans cette définition, leur statut reste donc indéfini."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -823,8 +959,21 @@ de ces personnes reste indéfini : la convention de 1951 ne les couvre pas.
 - Réfugié est un statut juridique précis, migrant un terme général.
 - Les pays en développement accueillent la majorité des réfugiés.
 
-[Emplacement image : répartition mondiale des déplacés internes et des réfugiés, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Migrant ou réfugié
+colonnes:
+  - titre: Migrant international
+    points:
+      - Quelques pour cent de la population mondiale
+  - titre: Réfugié
+    points:
+      - Fuit un danger et bénéficie d'une protection
+  - titre: Déplacé interne
+    points:
+      - Reste dans son pays
+      - Bien plus nombreux
+```
 
 ---
 
@@ -868,6 +1017,20 @@ quiz:
     explanation: >
       Le raisonnement était qu'ouvrir la question des frontières provoquerait des guerres en
       chaîne. On a préféré des frontières imparfaites mais stables.
+  - question: "Pourquoi une frontière naturelle comme un fleuve peut-elle créer des litiges ?"
+    options:
+      - "Un fleuve est toujours trop étroit pour séparer deux pays"
+      - "Son lit bouge au fil des siècles, ce qui déplace la frontière"
+      - "Les fleuves appartiennent par principe au pays le plus ancien"
+    answer: 2
+    explanation: "Un fleuve change de lit avec le temps, ce qui déplace la frontière ou provoque des disputes. Une frontière naturelle n'est donc pas forcément stable."
+  - question: "Pourquoi la découverte de ressources ravive-t-elle souvent d'anciens litiges frontaliers ?"
+    options:
+      - "Un territoire sans intérêt apparent devient soudain disputé"
+      - "Les traités anciens sont automatiquement annulés"
+      - "Les ressources déplacent les frontières naturelles"
+    answer: 1
+    explanation: "Pétrole, gaz ou minerais découverts après le tracé donnent de la valeur à un territoire jusque-là négligé. C'est ce qui s'est produit pour l'Essequibo."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -939,8 +1102,18 @@ Ou par la force, ce que le droit international interdit mais ne peut pas toujour
 - Les États africains ont retenu l'intangibilité des frontières héritées.
 - Les découvertes de ressources ravivent souvent des litiges anciens.
 
-[Emplacement image : frontières naturelles et frontières géométriques comparées, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons de tracer une frontière
+colonnes:
+  - titre: Naturelle
+    points:
+      - Suit un fleuve, une crête
+  - titre: Géométrique
+    points:
+      - Une ligne droite sur la carte
+      - Souvent héritée de la colonisation
+```
 
 ---
 
@@ -982,6 +1155,20 @@ quiz:
     explanation: >
       Leur nom est trompeur. Le goulot d'étranglement est le raffinage, très concentré, et non
       la présence du minerai dans le sol.
+  - question: "Le minerai de lithium n'est pas très concentré : pourquoi la ressource est-elle pourtant jugée vulnérable ?"
+    options:
+      - "Le lithium est extrêmement rare dans la croûte terrestre"
+      - "Le raffinage, lui, est beaucoup plus concentré géographiquement"
+      - "Il ne peut être extrait que dans des lacs salés"
+    answer: 2
+    explanation: "Le minerai est assez réparti, mais la transformation en composés utilisables est très concentrée. Le point faible de la chaîne est donc le raffinage."
+  - question: "Pourquoi l'offre de certains métaux pour semi-conducteurs réagit-elle peu à la demande ?"
+    options:
+      - "Ils sont produits comme sous-produits d'autres extractions"
+      - "Ils sont interdits d'exportation dans la plupart des pays"
+      - "Ils ne se trouvent que dans quelques mines très profondes"
+    answer: 1
+    explanation: "Ces métaux sont souvent des sous-produits d'autres extractions. On ne peut donc pas augmenter leur production simplement parce que la demande monte."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1050,8 +1237,20 @@ longtemps.
 - Le raffinage constitue souvent le vrai goulot d'étranglement.
 - Diversification, recyclage et substitution sont les réponses disponibles.
 
-[Emplacement image : chaîne de valeur d'un métal critique, de la mine au produit fini, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+titre: Ce qui rend une ressource stratégique
+type: systeme
+centre: Ressource stratégique
+parties:
+  - nom: Concentration
+    role: Disponibilité, dépendances et possibilités de substitution comptent ensemble.
+  - nom: Raffinage
+    role: Souvent concentré lui aussi.
+  - nom: Terres rares
+    role: Pas rares, mais difficiles à séparer.
+  - nom: Usage essentiel
+    role: Des fonctions économiques ou industrielles difficiles à remplacer.
+```
 
 ---
 
@@ -1094,6 +1293,20 @@ quiz:
     explanation: >
       Contourner un passage bloqué peut ajouter des milliers de kilomètres et plusieurs
       semaines, ce qui renchérit et retarde tout.
+  - question: "Pourquoi le canal de Panama est-il sensible à la sécheresse ?"
+    options:
+      - "Les navires y sont trop lourds pour un faible niveau d'eau"
+      - "L'eau de mer s'y évapore plus vite que dans d'autres canaux"
+      - "Ses écluses sont alimentées en eau douce par un lac"
+    answer: 3
+    explanation: "Les écluses fonctionnent avec de l'eau douce venue d'un lac. En cas de sécheresse, le nombre de passages quotidiens doit être réduit."
+  - question: "Pourquoi le conteneur a-t-il fait chuter le coût du commerce longue distance ?"
+    options:
+      - "Il permet de transporter des marchandises plus lourdes"
+      - "Sa standardisation évite de manipuler la marchandise entre navire, train et camion"
+      - "Il protège les produits des tempêtes en mer"
+    answer: 2
+    explanation: "Le conteneur standardisé passe directement du navire au train ou au camion sans manipulation de la marchandise. Le coût de chargement s'est effondré."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1156,8 +1369,19 @@ production mondiale serait impossible.
 - Le canal de Panama dépend de l'eau douce, donc de la pluviométrie.
 - La standardisation du conteneur a rendu possible le commerce longue distance actuel.
 
-[Emplacement image : principales routes maritimes et détroits stratégiques, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les passages maritimes critiques
+legende: Environ 80 % du commerce mondial en volume passe par la mer.
+centre: Commerce maritime
+icone: map
+parties:
+  - nom: Suez
+  - nom: Panama
+    role: Il dépend de l'eau douce.
+  - nom: Ormuz
+  - nom: Malacca
+```
 
 ---
 
@@ -1226,101 +1450,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-
----
-type: article
-title: Lire une carte topographique
-slug: lire-carte-topographique
-categoryPath: geographie-et-territoires/geographie-physique/reliefs
-summary: >
-  Courbes de niveau, échelle, orientation : se repérer et comprendre le relief sur le papier.
-tags: [reliefs, cartographie, orientation, essentiel-reconstruction]
-relatedArticles: [naviguer-sans-gps]
-sources:
-  - title: "How to Read a Topographic Map"
-    url: "https://www.rei.com/learn/expert-advice/topo-maps-how-to-use.html"
-    publisher: "REI"
-    date: "2025"
-  - title: "What are Contour Lines?"
-    url: "https://www.greenbelly.co/pages/contour-lines"
-    publisher: "Greenbelly Meals"
-    date: "2025"
-quiz:
-  - question: "Que signifient des courbes de niveau très rapprochées les unes des autres sur une
-      carte topographique ?"
-    options:
-      - "Un terrain plat et facile à parcourir"
-      - "Une pente raide où l'altitude change rapidement sur une courte distance"
-      - "Une zone où il n'y a aucune information disponible"
-    answer: 2
-    explanation: >
-      Des courbes de niveau rapprochées indiquent que l'altitude varie beaucoup sur une distance
-      réduite, ce qui signale une pente raide, tandis que des courbes espacées indiquent un
-      terrain plus plat.
-  - question: "Que signifie une échelle de carte indiquée comme un pour vingt-quatre mille ?"
-    options:
-      - "Un centimètre sur la carte correspond à vingt-quatre mille centimètres sur le terrain"
-      - "La carte couvre vingt-quatre mille kilomètres carrés"
-      - "Il y a vingt-quatre mille courbes de niveau sur la carte"
-    answer: 1
-    explanation: >
-      Une échelle de un pour vingt-quatre mille signifie qu'une unité de mesure sur la carte, par
-      exemple un centimètre, correspond à vingt-quatre mille de cette même unité sur le terrain
-      réel.
-lastVerified: 2026-09-28
-status: published
----
-
-## En bref
-
-Une carte topographique représente en deux dimensions un terrain qui en compte trois, grâce à des
-lignes appelées courbes de niveau. Apprendre à lire ces courbes permet de visualiser mentalement
-le relief réel avant même de mettre les pieds sur le terrain.
-
-## Les courbes de niveau, le relief en lignes
-
-Chaque courbe de niveau relie tous les points situés à une même altitude. L'écart d'altitude entre
-deux courbes consécutives, appelé équidistance, reste constant sur une même carte et est indiqué
-dans sa légende.
-
-## Interpréter l'espacement des courbes
-
-Des courbes rapprochées signalent une pente raide, où l'altitude change rapidement sur une courte
-distance. Des courbes largement espacées indiquent au contraire un terrain relativement plat, où
-l'altitude évolue lentement.
-
-## Les courbes maîtresses, des repères facilités
-
-Pour faciliter la lecture, une courbe sur cinq environ, appelée courbe maîtresse, est tracée plus
-épaisse et porte une indication d'altitude directement écrite sur la ligne, ce qui évite de
-compter toutes les courbes intermédiaires une par une.
-
-## Comprendre l'échelle de la carte
-
-L'échelle indique le rapport entre une distance mesurée sur la carte et la distance réelle sur le
-terrain. Une échelle de un pour vingt-quatre mille signifie qu'un centimètre sur le papier
-correspond à vingt-quatre mille centimètres, soit deux cent quarante mètres, sur le terrain réel.
-
-## S'orienter avec la carte
-
-Aligner la carte avec le nord réel, à l'aide d'une boussole ou de repères naturels, permet de
-faire correspondre les éléments dessinés avec ce que l'on observe autour de soi, facilitant
-grandement le repérage sur le terrain.
-
-## À retenir
-
-- Les courbes de niveau relient les points de même altitude sur une carte topographique.
-- Des courbes rapprochées indiquent une pente raide, des courbes espacées un terrain plus plat.
-- Les courbes maîtresses, plus épaisses, portent une indication d'altitude pour faciliter la
-  lecture.
-- L'échelle indique le rapport entre une distance sur la carte et la distance réelle sur le
-  terrain.
-- Aligner la carte avec le nord réel facilite grandement le repérage sur le terrain.
-
-[Emplacement image : carte topographique avec des courbes de niveau illustrant une vallée et une
-colline, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1434,6 +1563,20 @@ quiz:
       Certains oiseaux semblent réagir à la baisse de pression atmosphérique qui précède souvent
       une perturbation météorologique, ce qui peut expliquer un comportement de regroupement
       inhabituel.
+  - question: "Pourquoi un brouillard matinal en été annonce-t-il souvent une journée dégagée ?"
+    options:
+      - "L'air est encore trop frais pour évaporer l'humidité, qui se condense en brouillard"
+      - "Le brouillard empêche les nuages de se former plus tard"
+      - "Il indique que le vent va forcir dans la journée"
+    answer: 1
+    explanation: "Le brouillard signale un air encore frais, incapable d'évaporer l'humidité qui se condense. Il annonce généralement une journée qui restera dégagée."
+  - question: "Pourquoi ces observations traditionnelles ne remplacent-elles pas une prévision moderne ?"
+    options:
+      - "Elles ne fonctionnent que dans les régions côtières"
+      - "Elles sont devenues fausses avec le réchauffement"
+      - "Ce sont des indications générales, moins fiables que des mesures et des modèles"
+    answer: 3
+    explanation: "Ces signes donnent des tendances à court terme, mais restent bien moins fiables qu'une prévision fondée sur des mesures précises et des modèles informatiques."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -1485,8 +1628,19 @@ Elles conservent néanmoins leur utilité en l'absence de tout instrument dispon
 - Ces méthodes restent des indications générales, moins fiables qu'une prévision moderne
   instrumentée.
 
-[Emplacement image : ciel montrant des nuages cirrus en forme de crochets annonçant un changement
-de temps, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Lire le ciel
+centre: Prévoir le temps
+icone: cloud
+parties:
+  - nom: Nuages
+    role: Des cirrus en crochets annoncent souvent la pluie.
+  - nom: Vent
+    role: Son évolution.
+  - nom: Animaux et plantes
+  - nom: Brouillard
+```
 
 ---
 
@@ -1566,6 +1720,20 @@ quiz:
       La latitude influence directement la durée du jour, l'intensité du rayonnement solaire et
       la longueur des saisons, ce qui détermine les périodes favorables aux semis et aux récoltes
       dans chaque région.
+  - question: "Pourquoi faut-il attendre la fin des risques de gel pour planter des tomates ou des haricots ?"
+    options:
+      - "Ils ont besoin de jours plus longs pour germer"
+      - "Ce sont des cultures de saison chaude qui ne tolèrent pas le gel"
+      - "Le gel rend le sol impropre à toute culture"
+    answer: 2
+    explanation: "Les tomates et les haricots sont des cultures de saison chaude : elles doivent attendre que tout risque de gel soit écarté, contrairement à certaines salades."
+  - question: "Pourquoi un calendrier personnel tenu pendant plusieurs années est-il utile ?"
+    options:
+      - "Il construit un calendrier adapté à son terrain, souvent plus fiable qu'une moyenne régionale"
+      - "Il remplace complètement l'observation des plantes locales"
+      - "Il garantit l'absence de gelées tardives"
+    answer: 1
+    explanation: "Noter semis, gelées et récoltes permet d'obtenir un calendrier propre à son terrain, souvent plus précis qu'une moyenne calculée pour toute une région."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -1616,8 +1784,18 @@ moyenne générale calculée pour toute une région.
 - Observer des signes naturels locaux complète utilement les dates calendaires théoriques.
 - Tenir un calendrier personnalisé au fil des années affine la précision pour son propre terrain.
 
-[Emplacement image : calendrier agricole illustrant les périodes de semis et de récolte selon les
-saisons, légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Construire son calendrier de cultures
+type: etapes
+elements:
+  - titre: Latitude
+    texte: Elle influence l’ensoleillement et les cycles climatiques.
+  - titre: Dernières gelées
+    texte: Ne pas semer trop tôt.
+    icone: snowflake
+  - titre: Adapter les cultures
+  - titre: Noter les signes locaux
+```
 
 ---
 
@@ -1935,6 +2113,20 @@ quiz:
       Dépendre d'une seule source d'eau, d'énergie ou de nourriture rend une communauté
       vulnérable si cette source venait à faire défaut. Diversifier les sources renforce la
       résilience globale du village.
+  - question: "Que apporte l'élevage en complément des cultures dans un village autonome ?"
+    options:
+      - "Il remplace entièrement les cultures vivrières"
+      - "Il fournit des protéines animales et du fumier fertilisant"
+      - "Il permet de se passer de composter les déchets"
+    answer: 2
+    explanation: "L'élevage complète la production végétale par des protéines animales et du fumier qui fertilise les cultures."
+  - question: "Pourquoi composter les déchets organiques est-il utile pour un village autonome ?"
+    options:
+      - "Cela produit de l'énergie pour le chauffage"
+      - "Cela purifie l'eau potable du village"
+      - "Cela fertilise les cultures et évite l'accumulation de déchets polluants"
+    answer: 3
+    explanation: "Le compost enrichit les cultures et, avec le tri et le traitement des eaux usées, évite que les déchets s'accumulent et polluent les environs du village."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -1986,8 +2178,17 @@ renforce considérablement la capacité du village à surmonter des difficultés
 - Diversifier les sources pour chaque besoin fondamental renforce la résilience globale de la
   communauté.
 
-[Emplacement image : schéma d'un village autonome montrant ses sources d'eau, d'énergie, ses
-cultures et sa gestion des déchets, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les priorités d'un village autonome
+centre: Village autonome
+icone: house
+parties:
+  - nom: Eau
+  - nom: Énergie
+  - nom: Nourriture
+  - nom: Déchets
+```
 
 ---
 
@@ -2306,6 +2507,20 @@ quiz:
       Sans eau douce accessible, ni la survie humaine, ni l'agriculture, ni la plupart des
       activités artisanales ou industrielles ne sont possibles, ce qui en fait la ressource la
       plus fondamentale d'un territoire.
+  - question: "Qu'est-ce qui détermine la capacité d'un territoire à nourrir sa population de façon autonome ?"
+    options:
+      - "La superficie de terres fertiles, leur exposition au soleil et leur accès à l'irrigation"
+      - "Le nombre de forêts et de carrières présentes"
+      - "La longueur de ses côtes et de ses frontières"
+    answer: 1
+    explanation: "La surface de terres suffisamment fertiles, leur exposition et leur accès à l'irrigation déterminent si un territoire peut se nourrir sur le long terme."
+  - question: "Pourquoi certaines ressources acquièrent-elles une valeur stratégique ?"
+    options:
+      - "Parce qu'elles sont toujours les plus rares du monde"
+      - "Parce qu'elles ne peuvent être utilisées que sur place"
+      - "Parce qu'elles permettent des échanges avec des territoires moins bien dotés"
+    answer: 3
+    explanation: "Une ressource devient stratégique quand elle permet d'échanger avec d'autres territoires moins bien dotés, ce qui renforce l'influence et la sécurité de la communauté."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2363,8 +2578,16 @@ l'installation et le développement d'une communauté sur un territoire donné.
 - Un inventaire réaliste des ressources accessibles aide à établir des priorités d'installation
   cohérentes.
 
-[Emplacement image : carte d'un territoire annotée des ressources locales disponibles, eau, bois,
-terres cultivables et minerais, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Les ressources d'un territoire
+niveaux:
+  - titre: Ressources minérales et énergétiques
+  - titre: Bois et matériaux
+  - titre: Terres cultivables
+  - titre: Eau douce
+    texte: La plus déterminante.
+```
 
 ---
 
@@ -2495,7 +2718,7 @@ categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
 summary: >
   Boussole, étoiles, carte et estime : les méthodes de navigation traditionnelles.
 tags: [routes-et-detroits, navigation, orientation, essentiel-reconstruction]
-relatedArticles: [reperer-grace-etoiles, lire-carte-topographique]
+relatedArticles: [l-etoile-polaire-et-son-role-dans-l-orientation, lire-une-carte-topographique-principes-de-base]
 sources:
   - title: "How to Navigate Without GPS: Master Land Navigation Skills"
     url: "https://www.battlbox.com/blogs/outdoors/how-to-navigate-without-gps-mastering-the-art-of-classic-navigation"
@@ -2528,6 +2751,20 @@ quiz:
       La méthode de l'ombre du bâton consiste à marquer la position de l'extrémité de l'ombre à
       intervalles réguliers : la ligne reliant ces marques indique approximativement l'axe
       est-ouest.
+  - question: "Pourquoi faut-il recaler régulièrement sa position quand on navigue à l'estime ?"
+    options:
+      - "Le point de départ change au cours du trajet"
+      - "Chaque erreur s'accumule au fil du trajet"
+      - "La direction suivie ne peut pas être mesurée"
+    answer: 2
+    explanation: "La navigation à l'estime part d'un point connu, de la direction et de la distance. Les petites erreurs s'additionnent, d'où le besoin de repères pour recaler la position."
+  - question: "Pourquoi une carte seule ne suffit-elle pas pour suivre une direction précise ?"
+    options:
+      - "Elle ne dit pas dans quelle direction on regarde réellement"
+      - "Elle ne montre pas le relief du terrain"
+      - "Elle n'indique pas où se trouve le nord"
+    answer: 1
+    explanation: "La carte montre où sont les éléments du terrain, mais pas notre orientation. Une boussole alignée sur le nord de la carte permet de faire correspondre les deux."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2579,8 +2816,19 @@ aident à confirmer une direction déjà estimée par d'autres méthodes.
 - Les repères naturels du terrain confirment utilement une direction déjà estimée par d'autres
   méthodes.
 
-[Emplacement image : bâton planté verticalement avec des marques au sol indiquant le déplacement
-de son ombre au fil du temps, légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Naviguer sans GPS
+type: systeme
+centre: Position
+icone: map
+parties:
+  - nom: Estime
+    role: Départ, direction, vitesse, temps.
+  - nom: Soleil
+    role: Des relevés d’ombre donnent des repères approximatifs.
+  - nom: Étoiles
+  - nom: Carte et boussole
+```
 
 ---
 
@@ -2991,6 +3239,21 @@ Au 1er janvier 2025, la France comptait 68,6 millions d'habitants, selon l'Insee
 La base de la pyramide française se rétrécit. Début 2025, les moins de 20 ans représentaient 22,9 % de la population, et les 65 ans ou plus 21,8 %. Les deux groupes sont presque aussi nombreux.
 
 La pyramide montre aussi une différence entre les deux côtés. Les hommes sont plus nombreux que les femmes jusqu'à 25 ans. Ensuite, les femmes deviennent majoritaires, car les hommes meurent plus tôt en moyenne. Tout en haut, le côté droit est donc nettement plus large.
+
+```schema
+type: comparaison
+titre: Lire une pyramide des âges
+colonnes:
+  - titre: Base large
+    points:
+      - Population jeune
+  - titre: Sommet large
+    points:
+      - Population âgée
+  - titre: Creux et bosses
+    points:
+      - Guerres, baby-boom
+```
 
 ## À retenir
 
@@ -3942,6 +4205,19 @@ Une fois collectés, les déchets suivent quatre chemins. Les matériaux comme l
 
 Dans beaucoup de pays pauvres, le ramassage reste un grand défi. En Afrique subsaharienne, le taux de collecte peut descendre à 31 %. En Asie du Sud, il est de 67 %. Une grande partie des déchets y finit dans des décharges à ciel ouvert.
 
+```schema
+type: systeme
+titre: Les quatre destinations des déchets
+legende: 2,56 milliards de tonnes de déchets ménagers en 2022, selon la Banque mondiale.
+centre: Déchets
+icone: recycle
+parties:
+  - nom: Recyclage
+  - nom: Compostage
+  - nom: Incinération
+  - nom: Enfouissement
+```
+
 ## À retenir
 
 - En 2022, le monde a produit 2,56 milliards de tonnes de déchets ménagers, selon la Banque mondiale.
@@ -4368,6 +4644,21 @@ En Inde, plus de la moitié des terres agricoles dépendent des pluies de la mou
 
 D'autres régions du monde connaissent des moussons, en Afrique, en Asie du Sud-Est et en Amérique.
 
+```schema
+type: comparaison
+titre: Le vent de la mousson
+colonnes:
+  - titre: Été
+    icone: cloud
+    points:
+      - La terre chauffe plus vite que l'océan
+      - Elle attire un air humide, fortes pluies
+  - titre: Hiver
+    points:
+      - Le vent s'inverse
+      - Temps sec
+```
+
 ## À retenir
 
 - La mousson est un vent qui change de sens entre l'été et l'hiver.
@@ -4471,6 +4762,23 @@ La rotation de la Terre fait tourner l'air qui converge vers le centre : c'est l
 
 On parle de cyclone tropical quand les vents dépassent environ 118 km/h. Le nom change selon l'océan : ouragan dans l'Atlantique nord et le nord-est du Pacifique, typhon dans le nord-ouest du Pacifique, cyclone ailleurs. Pour les ouragans de l'Atlantique et du nord-est du Pacifique, l'échelle de Saffir-Simpson les classe de 1 à 5, d'après la vitesse maximale du vent. Sur terre ou au-dessus d'une mer plus froide, le cyclone est coupé de l'air chaud et humide qui le nourrit : il s'affaiblit peu à peu.
 
+```schema
+titre: La naissance d'un cyclone
+legende: >-
+  Conditions favorables, sans garantie : cisaillement, humidité et organisation de la circulation
+  comptent aussi.
+type: etapes
+elements:
+  - titre: Mer chaude
+    texte: Plus de 26,5 °C, loin de l'équateur.
+    icone: thermometer
+  - titre: Évaporation
+  - titre: Condensation
+    texte: Elle libère de la chaleur, le moteur du cyclone.
+  - titre: Rotation
+    texte: Une circulation peut s’organiser ; certains cyclones développent un œil.
+```
+
 ## À retenir
 
 - Un cyclone naît au-dessus d'une mer à plus de 26,5 °C, loin de l'équateur.
@@ -4530,14 +4838,136 @@ title: Les nuages et ce qu'ils annoncent
 slug: les-nuages-et-ce-qu-ils-annoncent
 categoryPath: geographie-et-territoires/geographie-physique/climatologie
 summary: >
-  Comment differentes formes de nuages indiquent des evolutions meteorologiques distinctes.
-tags: [climatologie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les nuages se forment quand l'air humide s'élève et se refroidit. Leur forme et leur altitude
+  racontent ce qui se passe dans l'atmosphère : beau temps durable, arrivée d'une perturbation ou
+  orage imminent. Savoir les reconnaître permet d'anticiper le temps des heures à venir.
+tags: [climatologie]
+relatedArticles: [prevoir-temps-sans-instruments, pourquoi-la-pression-de-l-air-annonce-t-elle-la-pluie-ou-le-beau-temps, pourquoi-il-pleut-ici-et-pas-la, comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre]
+sources:
+  - title: "Nuage"
+    url: "https://fr.wikipedia.org/wiki/Nuage"
+    publisher: "Wikipédia"
+  - title: "Atlas international des nuages"
+    url: "https://cloudatlas.wmo.int/fr/home.html"
+    publisher: "Organisation météorologique mondiale"
+  - title: "List of cloud types"
+    url: "https://en.wikipedia.org/wiki/List_of_cloud_types"
+    publisher: "Wikipedia"
+  - title: "Cumulonimbus"
+    url: "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment un nuage se forme-t-il ?"
+    options:
+      - "Quand l'air humide s'élève, se refroidit et que sa vapeur d'eau se condense en gouttelettes"
+      - "Quand le vent souffle du sable dans le ciel"
+      - "Quand l'air descend et se réchauffe"
+    answer: 1
+    explanation: >
+      En montant, l'air se détend et se refroidit. Sa vapeur d'eau se condense autour de minuscules
+      poussières.
+  - question: "Quel nuage annonce souvent un orage ?"
+    options:
+      - "Le cirrus"
+      - "Le cumulonimbus"
+      - "Le petit cumulus de beau temps"
+    answer: 2
+    explanation: >
+      Le cumulonimbus est une immense tour qui peut monter à plus de dix kilomètres et produit averses,
+      éclairs, grêle et rafales.
+  - question: "Que signifient des cirrus qui s'épaississent progressivement en voile blanc ?"
+    options:
+      - "Un beau temps durable"
+      - "L'approche probable d'une perturbation dans les 12 à 24 heures"
+      - "Un tremblement de terre"
+    answer: 2
+    explanation: >
+      Ces nuages élevés sont souvent l'avant-garde d'un front chaud, suivi de nuages de plus en plus bas
+      et de pluie.
+  - question: "Que signale la succession cirrus, voile, nuages moyens puis nuages bas ?"
+    options:
+      - "Un orage soudain et violent"
+      - "Un beau temps qui s'installe durablement"
+      - "L'approche d'un front"
+    answer: 3
+    explanation: "Cette suite de nuages indique l'arrivée d'un front, donc d'une perturbation. C'est une tendance pour les heures à venir, pas une prévision exacte."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un nuage est un immense ensemble de **gouttelettes d'eau** ou de **cristaux de glace** en suspension
+dans l'air. Il se forme quand de l'air humide **s'élève** et se **refroidit** : sa vapeur d'eau se
+**condense**. Les météorologues classent les nuages en **dix genres** selon leur **altitude** et leur
+**forme**. Leur aspect renseigne sur la stabilité de l'air et sur l'évolution du temps : certains
+signalent un beau temps durable, d'autres une perturbation qui arrive, d'autres encore un orage
+imminent. Une classification commune, l'Atlas international des nuages, est publiée par l'Organisation
+météorologique mondiale.
+
+## Comment naît un nuage
+
+L'air contient toujours de la vapeur d'eau, invisible. Quand il monte, la pression diminue, il se
+**détend** et se **refroidit**. À une certaine température, il ne peut plus contenir toute sa vapeur :
+elle se condense autour de minuscules **poussières**, sels marins ou particules, et forme des
+gouttelettes. L'air s'élève pour trois grandes raisons : il est chauffé par le sol et monte comme une
+bulle, il est forcé de passer au-dessus d'un relief, ou il glisse au-dessus d'une masse d'air plus froide
+lors du passage d'un **front**.
+
+## Les familles de nuages
+
+```schema
+titre: Les nuages selon leur altitude
+legende: Repères simplifiés pour des latitudes tempérées ; certains nuages s’étendent sur plusieurs étages.
+type: systeme
+centre: Genres de nuages
+parties:
+  - nom: Étage supérieur, au-dessus de 6 km
+    role: Cirrus, cirrocumulus, cirrostratus, faits de cristaux de glace.
+  - nom: Étage moyen, 2 à 6 km
+    role: Altocumulus, altostratus.
+  - nom: Étage inférieur, sous 2 km
+    role: Stratus, stratocumulus, nimbostratus.
+  - nom: Développement vertical
+    role: Cumulus et cumulonimbus, de la base jusqu'en altitude.
+```
+
+Les noms combinent quelques racines latines : **cirrus**, « boucle de cheveux », pour les nuages fins et
+élevés ; **cumulus**, « tas », pour les nuages en boules ; **stratus**, « étendu », pour les nuages en
+couche ; **nimbus**, « pluie », pour ceux qui donnent des précipitations ; **alto** pour l'étage moyen.
+
+## Ce qu'ils annoncent
+
+- **Petits cumulus blancs et bien séparés** l'après-midi : ce sont les **cumulus de beau temps**. Ils se
+  forment par la chaleur du sol et se dissipent le soir. Le temps reste beau.
+- **Cumulus qui grossissent et montent en tours** dans la journée : l'air est instable. Ils peuvent
+  devenir des **cumulonimbus**.
+- **Cumulonimbus**, immenses tours sombres, souvent coiffées d'une **enclume** : orage, averses
+  violentes, éclairs, grêle et rafales, souvent dans l'heure. Il faut se mettre à l'abri.
+- **Cirrus** qui envahissent le ciel puis s'épaississent en **voile blanc**, avec parfois un **halo**
+  autour du soleil ou de la lune : souvent l'avant-garde d'une **perturbation**, avec de la pluie dans les
+  12 à 24 heures.
+- **Altostratus** gris, à travers lesquels le soleil paraît comme derrière un verre dépoli, puis
+  **nimbostratus** sombres et épais : pluie continue, souvent durable.
+- **Stratus** bas et gris : ciel couvert, bruine possible ; au sol, le stratus forme le **brouillard**.
+- **Altocumulus en bancs** le matin par temps chaud et lourd : possibilité d'orages plus tard dans la
+  journée.
+
+## Observer pour prévoir
+
+L'observation des nuages s'enrichit d'autres signes : la **direction du vent**, l'évolution de la
+**pression** sur un baromètre, la **succession** des nuages. Une suite cirrus, puis voile, puis nuages
+moyens, puis nuages bas indique l'approche d'un front. Ces règles donnent des tendances pour les heures
+qui viennent, pas une prévision exacte : les bulletins météorologiques, fondés sur des mesures et des
+modèles, restent la référence.
+
+## À retenir
+
+- Un nuage se forme quand l'air humide s'élève, se refroidit et que sa vapeur se condense.
+- On distingue dix genres de nuages selon leur altitude et leur forme.
+- Les petits cumulus séparés indiquent le beau temps, les cumulonimbus un orage proche.
+- Des cirrus qui s'épaississent en voile annoncent souvent une perturbation dans la journée.
+- La succession des nuages, le vent et la pression permettent d'anticiper le temps des heures à venir.
 
 ---
 type: article
@@ -4559,6 +4989,12 @@ sources:
   - title: "Dépression (météorologie)"
     url: "https://fr.wikipedia.org/wiki/D%C3%A9pression_(m%C3%A9t%C3%A9orologie)"
     publisher: "Wikipédia"
+  - title: "Qu'est-ce que la pression atmosphérique ?"
+    url: "https://meteofrance.com/meteo-a-z/quest-ce-que-la-pression-atmospherique"
+    publisher: "Météo-France"
+  - title: "PRESSION ATMOSPHÉRIQUE"
+    url: "https://www.universalis.fr/encyclopedie/pression-atmospherique/1-les-unites-de-mesure-de-la-pression/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Quelle est la pression normale de l'air au niveau de la mer ?"
     options:
@@ -4626,6 +5062,25 @@ Une zone où la pression est plus faible qu'autour s'appelle une dépression. Au
 Les vents ne vont pas en ligne droite vers le centre d'une dépression. La rotation de la Terre les dévie : c'est l'effet de Coriolis. Dans l'hémisphère nord, ils tournent dans le sens inverse des aiguilles d'une montre autour d'une dépression, et dans le sens des aiguilles d'une montre autour d'un anticyclone. Dans l'hémisphère sud, c'est l'inverse.
 
 La pression la plus haute jamais mesurée est de 1 086,8 hPa, en Mongolie, en 2010. La plus basse est de 870 hPa, près du typhon Tip, en 1979.
+
+```schema
+titre: Hautes et basses pressions
+legende: >-
+  1 013,25 hPa est une référence d’atmosphère standard au niveau de la mer, pas la pression réelle
+  en tout lieu.
+type: comparaison
+colonnes:
+  - titre: Hautes pressions
+    icone: sun
+    points:
+      - L'air descend
+      - Temps souvent stable, parfois brouillard ou nuages bas.
+  - titre: Basses pressions
+    icone: cloud
+    points:
+      - L'air monte
+      - Nuages et précipitations favorisés si l’humidité est suffisante.
+```
 
 ## À retenir
 
@@ -4907,6 +5362,9 @@ sources:
   - title: "Water cycle"
     url: "https://en.wikipedia.org/wiki/Water_cycle"
     publisher: "Wikipedia"
+  - title: "water cycle"
+    url: "https://ugc.berkeley.edu/background-content/water-cycle/"
+    publisher: "University of California, Berkeley (Understanding Global Change)"
 quiz:
   - question: "Quelle part de l'eau de la Terre se trouve dans les océans ?"
     options:
@@ -4975,6 +5433,20 @@ Sur les continents, une partie de l'eau de pluie glisse à la surface du sol. C'
 Selon l'endroit où elle se trouve, l'eau voyage plus ou moins vite. Une goutte peut rester environ 3 200 ans dans l'océan avant d'en ressortir. Sous terre, certaines eaux restent plus de 10 000 ans.
 
 Les activités humaines modifient ce cycle. Les villes, la coupe des forêts et le pompage des nappes changent la façon dont l'eau circule. Le réchauffement du climat augmente l'évaporation et rend les fortes pluies plus fréquentes.
+
+```schema
+type: cycle
+titre: Le cycle de l'eau
+legende: Les océans contiennent environ 97 % de l'eau de la Terre.
+elements:
+  - titre: Évaporation
+    icone: sun
+  - titre: Nuages
+    icone: cloud
+  - titre: Précipitations
+  - titre: Retour vers la mer
+    icone: wave
+```
 
 ## À retenir
 
@@ -5079,6 +5551,9 @@ sources:
   - title: "Ganges Delta"
     url: "https://en.wikipedia.org/wiki/Ganges_Delta"
     publisher: "Wikipedia"
+  - title: "Delta littoral"
+    url: "https://www.larousse.fr/encyclopedie/divers/delta_littoral/41144"
+    publisher: "Larousse"
 quiz:
   - question: "Pourquoi un fleuve dépose-t-il ses sédiments en arrivant dans la mer ?"
     options:
@@ -5149,6 +5624,19 @@ Le plus grand delta du monde est celui du Gange et du Brahmapoutre. Il couvre pl
 Les deltas sont fragiles. Les barrages construits sur les fleuves retiennent une grande partie des sédiments. Le delta ne reçoit plus assez de matière pour se maintenir, et la mer grignote ses côtes. Les deltas du Nil et du Colorado en ont beaucoup souffert.
 
 Le pompage de l'eau souterraine et l'extraction de sable font aussi s'enfoncer le sol. Avec la montée du niveau de la mer, l'eau salée envahit des champs. Les deltas sont aussi exposés aux cyclones et aux inondations.
+
+```schema
+titre: La formation d'un delta
+legende: Un delta s’accumule lorsque les dépôts ne sont pas entièrement repris par les vagues et courants.
+type: etapes
+elements:
+  - titre: Le fleuve ralentit
+    texte: En arrivant dans la mer.
+  - titre: Il dépose ses sédiments
+  - titre: Il se divise en bras
+    texte: En éventail.
+  - titre: Nouvelles terres émergées
+```
 
 ## À retenir
 
@@ -5640,18 +6128,159 @@ status: planned
 
 ---
 type: article
-title: Lire une carte topographique, principes de base
+title: Lire une carte topographique et utiliser une boussole
 slug: lire-une-carte-topographique-principes-de-base
 categoryPath: geographie-et-territoires/geographie-physique/reliefs
 summary: >
-  Comment interpreter les courbes de niveau pour comprendre un relief sans le voir.
-tags: [reliefs, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une carte topographique représente le relief par des courbes de niveau, les chemins, les cours
+  d'eau et les bâtiments. Avec l'échelle, la légende et une boussole, on sait où l'on est, où l'on
+  va et par où passer, même sans réseau ni GPS.
+tags: [reliefs]
+relatedArticles: [l-etoile-polaire-et-son-role-dans-l-orientation, regle-des-trois-priorites-survie, kit-urgence-72-heures]
+sources:
+  - title: "Carte topographique"
+    url: "https://fr.wikipedia.org/wiki/Carte_topographique"
+    publisher: "Wikipédia"
+  - title: "Courbe de niveau"
+    url: "https://fr.wikipedia.org/wiki/Courbe_de_niveau"
+    publisher: "Wikipédia"
+  - title: "Déclinaison magnétique"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9clinaison_magn%C3%A9tique"
+    publisher: "Wikipédia"
+  - title: "Orienteering"
+    url: "https://en.wikipedia.org/wiki/Orienteering"
+    publisher: "Wikipedia"
+  - title: "How to Read a Topographic Map"
+    url: "https://www.rei.com/learn/expert-advice/topo-maps-how-to-use.html"
+    publisher: "REI"
+    date: "2025"
+  - title: "What are Contour Lines?"
+    url: "https://www.greenbelly.co/pages/contour-lines"
+    publisher: "Greenbelly Meals"
+    date: "2025"
+quiz:
+  - question: "Sur une carte au 1/25 000, à quelle distance réelle correspond 1 cm ?"
+    options:
+      - "250 mètres"
+      - "25 mètres"
+      - "25 kilomètres"
+    answer: 1
+    explanation: >
+      1 cm sur la carte représente 25 000 cm sur le terrain, soit 250 mètres. Quatre centimètres
+      font donc un kilomètre.
+  - question: "Que signifient des courbes de niveau très serrées ?"
+    options:
+      - "Un terrain plat"
+      - "Une pente raide"
+      - "Une forêt"
+    answer: 2
+    explanation: >
+      Chaque courbe relie des points de même altitude. Si elles sont serrées, on monte beaucoup sur
+      une courte distance.
+  - question: "Pourquoi la boussole n'indique-t-elle pas exactement le nord de la carte ?"
+    options:
+      - "Parce qu'elle est souvent cassée"
+      - "Parce que les cartes sont fausses"
+      - "Parce que le pôle Nord magnétique ne coïncide pas avec le pôle Nord géographique"
+    answer: 3
+    explanation: >
+      L'écart, la déclinaison magnétique, varie selon le lieu et le temps. Il est indiqué sur les
+      cartes et reste faible en France aujourd'hui.
+  - question: "Comment peut-on se localiser sur une carte avec une boussole, sans GPS ?"
+    options:
+      - "En orientant la carte vers le sud"
+      - "En relevant la direction de deux ou trois repères et en traçant ces lignes : leur croisement donne la position"
+      - "En comptant les courbes de niveau autour de soi"
+    answer: 2
+    explanation: "On vise deux ou trois repères reconnaissables, on relève leur direction et on trace ces lignes sur la carte. Leur croisement indique l'endroit où l'on se trouve."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une **carte topographique** est une représentation précise du terrain vu d'en haut : relief, cours
+d'eau, forêts, chemins, bâtiments. Elle permet de savoir **où l'on est**, **où l'on va** et **par où
+passer**, sans réseau téléphonique ni GPS. Trois clés suffisent pour la lire : l'**échelle**, la
+**légende** et les **courbes de niveau**. Associée à une **boussole**, elle permet de suivre une
+direction précise, même dans le brouillard.
+
+## L'échelle
+
+L'échelle indique le rapport entre la carte et le terrain. Sur une carte au **1/25 000**, la plus
+utilisée pour la randonnée en France, **1 cm représente 250 m**, et 4 cm font un kilomètre. Sur une
+carte au 1/50 000, 1 cm représente 500 m. Plus le second nombre est petit, plus la carte est
+détaillée.
+
+Pour estimer un temps de marche, on compte environ 4 à 5 km par heure sur le plat, et l'on ajoute
+environ une heure pour 300 à 400 m de montée.
+
+## La légende
+
+Chaque couleur et chaque symbole ont un sens, rappelé en bordure de carte :
+
+- **le bleu** pour l'eau : rivières, sources, lacs ;
+- **le vert** pour la végétation : forêts, broussailles ;
+- **le noir et le rouge** pour les routes, les chemins, les bâtiments ;
+- **le brun ou l'orangé** pour les courbes de niveau et le relief.
+
+Les **sources** et les **points d'eau**, les **refuges** et les **habitations isolées** sont des
+informations précieuses en situation difficile.
+
+## Les courbes de niveau
+
+Une **courbe de niveau** relie tous les points situés à la même altitude. Deux courbes voisines sont
+séparées par une différence d'altitude constante, l'**équidistance**, souvent de 5 ou 10 m sur les
+cartes au 1/25 000.
+
+- Courbes **serrées** : pente raide.
+- Courbes **espacées** : terrain doux.
+- Courbes en **V pointant vers le haut** de la pente : un vallon, souvent avec un ruisseau.
+- Courbes en **V pointant vers le bas** : une crête ou un éperon.
+- Courbes fermées concentriques : un sommet.
+
+```schema
+titre: Repères de lecture d'une carte au 1/25 000
+legende: >-
+  Ordres de grandeur pour planifier ; terrain, météo, charge et condition des personnes modifient
+  les temps.
+type: chiffres
+chiffres:
+  - valeur: 1 cm = 250 m
+    texte: sur le terrain
+  - valeur: 4 cm = 1 km
+    texte: pour mesurer vite une distance
+  - valeur: 4 à 5 km/h
+    texte: de marche sur le plat, plus une heure par 300 à 400 m de montée
+```
+
+## La boussole
+
+L'aiguille d'une boussole s'aligne sur le champ magnétique terrestre et pointe vers le **nord
+magnétique**. Celui-ci ne coïncide pas exactement avec le nord des cartes : l'écart s'appelle la
+**déclinaison magnétique**. Elle est indiquée sur les cartes, varie selon le lieu et lentement avec le
+temps, et elle est faible en France aujourd'hui, de l'ordre de quelques degrés.
+
+On éloigne la boussole des objets métalliques et des téléphones, qui la dévient.
+
+## Trois gestes de base
+
+1. **Orienter la carte** : poser la boussole sur la carte et tourner l'ensemble jusqu'à ce que le nord
+   de la carte et l'aiguille soient alignés. Le paysage et la carte sont alors dans le même sens.
+2. **Prendre un azimut** : poser le bord de la boussole entre sa position et sa destination sur la
+   carte, tourner le cadran pour aligner ses lignes sur le nord de la carte, puis tenir la boussole à
+   plat et pivoter sur soi jusqu'à ce que l'aiguille s'aligne dans la flèche du cadran. La flèche de
+   direction indique où marcher. On vise un repère lointain, on l'atteint, et l'on recommence.
+3. **Se localiser** : viser deux ou trois repères reconnaissables, sommet, clocher, pylône, relever
+   leur direction et tracer ces lignes sur la carte. Leur croisement donne sa position.
+
+## À retenir
+
+- L'échelle relie la carte au terrain : au 1/25 000, 1 cm représente 250 m.
+- La légende donne le sens des couleurs et des symboles, dont les points d'eau et les refuges.
+- Les courbes de niveau relient les points de même altitude : serrées, la pente est raide.
+- La boussole indique le nord magnétique, légèrement décalé du nord des cartes.
+- Orienter la carte, suivre un azimut et se localiser par recoupement sont les trois gestes de base.
 
 ---
 type: article
@@ -5853,6 +6482,9 @@ sources:
   - title: "Rizières en terrasses des cordillères des Philippines"
     url: "https://fr.wikipedia.org/wiki/Rizi%C3%A8res_en_terrasses_des_cordill%C3%A8res_des_Philippines"
     publisher: "Wikipédia"
+  - title: "Rizières en terrasses des cordillères des Philippines (UNESCO/NHK)"
+    url: "https://whc.unesco.org/fr/documents/103884/"
+    publisher: "UNESCO"
 quiz:
   - question: "À quoi ressemble une colline aménagée en terrasses ?"
     options:
@@ -5919,6 +6551,20 @@ En Amérique du Sud, le peuple Wari bâtissait des terrasses avant l'an 1000. Le
 Aux Philippines, le peuple Ifugao cultive des rizières en terrasses depuis environ 2 000 ans. Elles grimpent sur des pentes très raides. Des canaux amènent l'eau des forêts du sommet jusqu'aux champs. Ces rizières sont inscrites au patrimoine mondial de l'Unesco depuis 1995. En Chine, les terrasses de Yuanyang, dans la province du Yunnan, sont aussi très connues. En France, on en voit dans les Cévennes.
 
 Les terrasses demandent beaucoup de main-d'œuvre. Il faut sans cesse réparer les murs et entretenir les canaux. Dans les régions où les campagnes se vident, beaucoup sont abandonnées. Aux îles Canaries, des chercheurs ont observé que les terrasses abandonnées abritent plus d'espèces de plantes que les pentes naturelles voisines.
+
+```schema
+type: comparaison
+titre: Pente nue ou terrasses
+colonnes:
+  - titre: Pente nue
+    points:
+      - La pluie emporte la terre
+  - titre: Terrasses
+    icone: mountain
+    points:
+      - Des plateformes plates en escalier
+      - L'eau s'infiltre au lieu de ruisseler
+```
 
 ## À retenir
 
@@ -6600,6 +7246,16 @@ Prendre le sable des rivières et des côtes a des conséquences. Les berges et 
 
 En avril 2022, le PNUE a publié des recommandations. Il propose d'interdire l'extraction de sable sur les plages. Il conseille aussi d'utiliser à la place des gravats de démolition recyclés, de la roche concassée ou des résidus de mines.
 
+```schema
+type: chiffres
+titre: Le sable
+chiffres:
+  - valeur: 0,063 à 2 mm
+    texte: la taille des grains
+  - valeur: 50 milliards de t
+    texte: de sable et gravier extraits par an
+```
+
 ## À retenir
 
 - Le sable est fait de grains de 0,063 à 2 millimètres, souvent de quartz.
@@ -7061,6 +7717,10 @@ sources:
   - title: "Panama Canal locks"
     url: "https://en.wikipedia.org/wiki/Panama_Canal_locks"
     publisher: "Wikipedia"
+  - title: "Compendio Usodeaguas mar2021"
+    url: "https://pancanal.com/wp-content/uploads/2021/12/Compendio_Usodeaguas_mar2021.pdf"
+    publisher: "Autoridad del Canal de Panamá"
+    date: "2021"
 quiz:
   - question: "Quand le canal de Panama a-t-il ouvert ?"
     options:
@@ -7131,6 +7791,19 @@ Chaque traversée envoie environ 197 000 m³ d'eau douce dans la mer. Un cargo m
 De nouvelles écluses, plus grandes, ont ouvert le 26 juin 2016. Elles mesurent 427 mètres de long et 55 mètres de large. Des bassins y récupèrent 60 % de l'eau à chaque passage.
 
 Mais le canal dépend de la pluie. Octobre 2023 a été le mois le plus sec jamais mesuré dans la région. Le lac Gatún a baissé, et le nombre de passages a été limité pendant plusieurs mois.
+
+```schema
+type: frise
+titre: Le canal de Panama
+evenements:
+  - date: 15 août 1914
+    titre: Ouverture
+  - date: 31 décembre 1999
+    titre: Contrôle par le Panama
+  - date: Aujourd'hui
+    titre: Agrandi mais assoiffé
+    texte: Les écluses consomment beaucoup d'eau douce.
+```
 
 ## À retenir
 
@@ -7502,18 +8175,151 @@ status: planned
 
 ---
 type: article
-title: La transition demographique et ses differentes etapes
+title: La transition démographique et ses différentes étapes
 slug: la-transition-demographique-et-ses-differentes-etapes
 categoryPath: geographie-et-territoires/geographie-humaine/demographie
 summary: >
-  Un processus historique qui decrit l'evolution progressive des taux de natalite et de mortalite.
-tags: [demographie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En deux siècles, de nombreux pays sont passés d'une forte natalité et d'une forte mortalité à des
+  taux faibles. Entre les deux, la mortalité baisse avant la natalité et la population explose.
+  Ce modèle de la transition démographique éclaire l'histoire de l'Europe et l'avenir du monde.
+tags: [demographie]
+relatedArticles: [huit-milliards-dhabitants, comment-lit-on-une-pyramide-des-ages, urbanisation-mondiale-onu, migrations-realites-et-idees-recues]
+sources:
+  - title: "Transition démographique"
+    url: "https://fr.wikipedia.org/wiki/Transition_d%C3%A9mographique"
+    publisher: "Wikipédia"
+  - title: "Demographic transition"
+    url: "https://en.wikipedia.org/wiki/Demographic_transition"
+    publisher: "Wikipedia"
+  - title: "World Population Prospects"
+    url: "https://population.un.org/wpp/"
+    publisher: "Nations unies"
+  - title: "Total fertility rate"
+    url: "https://en.wikipedia.org/wiki/Total_fertility_rate"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pendant la deuxième phase de la transition démographique, que se passe-t-il ?"
+    options:
+      - "La natalité baisse avant la mortalité"
+      - "La mortalité baisse fortement alors que la natalité reste élevée, et la population augmente vite"
+      - "La population diminue"
+    answer: 2
+    explanation: >
+      Les progrès de l'hygiène, de l'alimentation et de la médecine réduisent la mortalité, mais les
+      familles restent nombreuses pendant encore plusieurs décennies.
+  - question: "Combien d'enfants par femme faut-il en moyenne pour assurer le renouvellement des générations dans un pays riche ?"
+    options:
+      - "Environ 1"
+      - "Environ 2,1"
+      - "Environ 4"
+    answer: 2
+    explanation: >
+      Deux enfants remplacent les deux parents ; le dixième supplémentaire compense la mortalité avant
+      l'âge adulte et le léger excès de naissances de garçons.
+  - question: "Pourquoi la natalité finit-elle par baisser ?"
+    options:
+      - "Parce que les enfants survivent davantage, que l'éducation des filles progresse et que les villes grandissent"
+      - "Parce que la mortalité augmente"
+      - "Parce que les pays l'interdisent tous"
+    answer: 1
+    explanation: >
+      Moins de décès d'enfants, scolarisation, urbanisation et accès à la contraception changent les
+      projets familiaux.
+  - question: "Pourquoi la population mondiale continue-t-elle d'augmenter alors que beaucoup de pays sont sous le seuil de renouvellement ?"
+    options:
+      - "Les femmes ont à nouveau plus d'enfants"
+      - "La mortalité infantile remonte dans certaines régions"
+      - "Beaucoup de jeunes arrivent à l'âge d'avoir des enfants et l'on vit plus longtemps"
+    answer: 3
+    explanation: "Même avec peu d'enfants par femme, les nombreux jeunes adultes ont des enfants et la durée de vie s'allonge, ce qui fait croître la population."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La **transition démographique** est le passage d'une situation où l'on naît beaucoup et où l'on meurt
+beaucoup, avec une population presque stable, à une situation où l'on naît peu et où l'on meurt peu,
+de nouveau avec une population presque stable. Entre les deux, la **mortalité baisse avant la
+natalité** : pendant quelques décennies, les naissances dépassent largement les décès et la population
+**croît très vite**. L'Europe a connu cette transition aux XVIIIe et XIXe siècles ; la plupart des pays du
+monde l'ont faite ou la font aujourd'hui. Elle explique en grande partie le passage de l'humanité d'un
+milliard d'habitants vers 1800 à plus de huit milliards aujourd'hui.
+
+## Les étapes du modèle
+
+```schema
+type: etapes
+titre: Les phases de la transition démographique
+legende: La population croît fortement tant que la natalité reste élevée alors que la mortalité a baissé.
+elements:
+  - titre: Régime ancien
+    texte: Natalité et mortalité élevées, croissance faible.
+    icone: hourglass
+  - titre: Baisse de la mortalité
+    texte: Hygiène et médecine ; la population s'envole.
+    icone: syringe
+  - titre: Baisse de la natalité
+    texte: Familles plus petites ; la croissance ralentit.
+    icone: house
+  - titre: Régime moderne
+    texte: Natalité et mortalité faibles, croissance faible.
+    icone: chart
+```
+
+1. **Le régime démographique ancien** : les familles ont beaucoup d'enfants, mais famines, épidémies et
+   mortalité infantile élevée emportent une grande partie de la population. L'espérance de vie à la
+   naissance tourne autour de 25 à 35 ans.
+2. **La baisse de la mortalité** : une meilleure alimentation, l'hygiène, l'eau potable, puis les vaccins
+   et la médecine font chuter les décès, surtout chez les enfants. La natalité reste forte : la
+   population augmente rapidement.
+3. **La baisse de la natalité** : avec un temps de retard, les familles ont moins d'enfants. La
+   croissance ralentit.
+4. **Le régime moderne** : natalité et mortalité sont faibles, la population est presque stable et
+   **vieillit**.
+
+Certains démographes ajoutent une **cinquième phase**, celle de pays où la fécondité est tombée bien sous
+le seuil de renouvellement et où la population diminue, comme le Japon, la Corée du Sud ou l'Italie.
+
+## Pourquoi la natalité baisse
+
+- Les enfants **survivent** davantage : il n'est plus nécessaire d'en avoir beaucoup pour en voir
+  grandir quelques-uns.
+- L'**éducation des filles** et le travail des femmes retardent les naissances et changent les projets de
+  vie.
+- L'**urbanisation** rend les enfants plus coûteux et moins utiles comme main-d'œuvre.
+- L'accès à la **contraception** permet de choisir le nombre d'enfants.
+- Les systèmes de **retraite** réduisent la dépendance des parents âgés envers leurs enfants.
+
+## Le seuil de renouvellement
+
+Dans un pays où la mortalité est faible, il faut en moyenne environ **2,1 enfants par femme** pour que
+chaque génération remplace la précédente. Une grande partie des pays du monde est aujourd'hui sous ce
+seuil. La population mondiale continue pourtant d'augmenter, car de nombreux jeunes arrivent à l'âge
+d'avoir des enfants et l'on vit plus longtemps. Selon les projections des Nations unies, elle pourrait
+plafonner autour de dix milliards d'habitants au cours de la seconde moitié du XXIe siècle.
+
+## Des rythmes très différents
+
+La France a commencé sa baisse de natalité dès la fin du XVIIIe siècle, plus tôt que ses voisins.
+L'Angleterre a connu une transition plus tardive et une croissance très forte. Dans de nombreux pays
+d'Asie et d'Amérique latine, la transition a été beaucoup plus rapide, en quelques décennies. En Afrique
+subsaharienne, la mortalité a beaucoup baissé et la natalité commence à diminuer, mais reste la plus
+élevée du monde.
+
+## Les limites du modèle
+
+Le modèle décrit une tendance générale, pas une loi. Il a été construit à partir de l'histoire
+européenne, et les autres pays ne suivent pas forcément les mêmes étapes au même rythme. Les guerres,
+les épidémies, les politiques de natalité ou les migrations modifient aussi les trajectoires.
+
+## À retenir
+
+- La transition démographique mène d'une natalité et d'une mortalité élevées à des taux faibles.
+- La mortalité baisse d'abord : la population croît très vite pendant quelques décennies.
+- La natalité baisse ensuite avec la survie des enfants, l'éducation des filles et l'urbanisation.
+- Environ 2,1 enfants par femme assurent le renouvellement des générations.
+- Le modèle décrit une tendance générale, avec des rythmes très différents selon les pays.
 
 ---
 type: article
@@ -9557,6 +10363,12 @@ sources:
   - title: "Zone économique exclusive"
     url: "https://fr.wikipedia.org/wiki/Zone_%C3%A9conomique_exclusive"
     publisher: "Wikipédia"
+  - title: "Droit de la mer : Convention des Nations Unies"
+    url: "https://www.canada.ca/fr/environnement-changement-climatique/organisation/affaires-internationales/partenariats-organisations/droit-mer-convention-nations-unies.html"
+    publisher: "Gouvernement du Canada"
+  - title: "A CONF.62 122 FR"
+    url: "https://digitallibrary.un.org/record/38990/files/A_CONF.62_122-FR.pdf"
+    publisher: "Organisation des Nations unies"
 quiz:
   - question: "Dans quelle ville a été signée la convention des Nations unies sur le droit de la mer, en 1982 ?"
     options:
@@ -9624,6 +10436,20 @@ Parfois, deux côtes sont trop proches pour que chaque pays ait ses 200 milles. 
 ## Les champions de la mer
 
 Grâce à ces règles, un pays avec beaucoup d'îles peut contrôler une très grande surface de mer. La plus grande zone économique exclusive est celle des États-Unis, avec environ 11,4 millions de km². La France arrive juste derrière, avec environ 10,2 millions de km². Elle le doit surtout à ses territoires d'outre-mer, dispersés dans les océans Pacifique, Indien et Atlantique, comme la Polynésie française ou les îles Kerguelen.
+
+```schema
+titre: Les zones maritimes depuis la côte
+legende: >-
+  Distances maximales depuis les lignes de base ; les délimitations entre voisins peuvent réduire
+  l’étendue effective.
+type: barres
+unite: milles marins
+valeurs:
+  - label: Mer territoriale
+    valeur: 12
+  - label: Zone économique exclusive
+    valeur: 200
+```
 
 ## À retenir
 
@@ -10558,6 +11384,13 @@ quiz:
     explanation: >
       Le mètre est défini comme la dix-millionième partie du quart du méridien terrestre, c'est-
       à-dire de la distance du pôle Nord à l'équateur.
+  - question: "Pourquoi le mètre légal est-il un peu plus court que sa définition d'origine ?"
+    options:
+      - "Les géodésiens n'avaient pas pris en compte un effet de déviation de la verticale"
+      - "Delambre et Méchain n'ont jamais terminé leur mesure"
+      - "La base de départ avait été mesurée sur un terrain trop accidenté"
+    answer: 1
+    explanation: "Les géodésiens n'avaient pas tenu compte d'une déviation de la verticale, ce qui a rendu le mètre légal un peu plus court que prévu."
 lastVerified: 2026-09-30
 status: published
 ---
@@ -10566,7 +11399,17 @@ status: published
 
 La triangulation calcule la position d'un point à partir d'un côté mesuré et de deux angles. En 1533, Gemma Frisius propose cette méthode pour dresser des cartes. À partir de 1792, Delambre et Méchain mesurent un arc du méridien de Paris, mesure dont découle le mètre.
 
-[Emplacement image : diagramme en quatre étapes, « Trianguler : de la base au point inconnu ». Étape 1, mesurer la base : une ligne de référence entre deux piquets, sur un terrain plat. Étape 2, viser depuis un bout : on mesure l'angle vers un troisième piquet, au théodolite. Étape 3, viser depuis l'autre bout : même opération depuis l'autre extrémité de la base. Étape 4, calculer : un côté et deux angles suffisent pour trouver le troisième sommet. Légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La triangulation
+elements:
+  - titre: Mesurer un côté
+    texte: Une base au sol.
+  - titre: Mesurer deux angles
+  - titre: Calculer le troisième sommet
+  - titre: Enchaîner les triangles
+    icone: map
+```
 
 ## Le principe
 
@@ -10598,88 +11441,6 @@ Il faut un terrain dégagé, deux piquets, et de quoi mesurer une longueur et un
 
 ---
 type: article
-title: La projection de Mercator et la déformation des cartes
-slug: la-projection-de-mercator-et-la-deformation-des-cartes
-categoryPath: geographie-et-territoires/geographie-physique/reliefs
-summary: >
-  La projection de Mercator, présentée en 1569, conserve les angles et rend les routes à cap
-  constant rectilignes, mais elle déforme les surfaces près des pôles.
-tags: [cartographie, projection, mercator]
-sources:
-  - title: "Mercator projection"
-    url: "https://en.wikipedia.org/wiki/Mercator_projection"
-    publisher: "Wikipedia"
-  - title: "Nautical Cartography"
-    url: "https://nauticalcharts.noaa.gov/learn/nautical-cartography.html"
-    publisher: "NOAA Office of Coast Survey"
-  - title: "Selecting a Map Projection"
-    url: "https://education.nationalgeographic.org/resource/selecting-map-projection/"
-    publisher: "National Geographic Education"
-quiz:
-  - question: "En quelle année Mercator présente-t-il sa projection ?"
-    options:
-      - "1369"
-      - "1569"
-      - "1769"
-    answer: 2
-    explanation: >
-      1569 : le géographe flamand Gerardus Mercator présente sa projection.
-  - question: "Que conserve la projection de Mercator ?"
-    options:
-      - "Les angles"
-      - "Les surfaces"
-      - "Les distances"
-    answer: 1
-    explanation: >
-      La projection de Mercator conserve les angles, mais déforme les surfaces.
-  - question: "Combien de fois la surface de l'Afrique est-elle plus grande que celle du Groenland ?"
-    options:
-      - "Environ 2 fois"
-      - "Environ 14 fois"
-      - "Environ 140 fois"
-    answer: 2
-    explanation: >
-      Le Groenland paraît aussi grand que l'Afrique, alors que la surface de l'Afrique est
-      environ 14 fois plus grande.
-  - question: "Pourquoi les marins utilisent-ils cette projection ?"
-    options:
-      - "Une ligne droite y est une route à cap constant"
-      - "Elle est en couleur"
-      - "Elle montre les vents"
-    answer: 1
-    explanation: >
-      Sur une carte de Mercator, toute ligne droite est une ligne de cap constant, ou
-      loxodromie.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La projection de Mercator, présentée en 1569, conserve les angles et rend les routes à cap constant rectilignes, mais elle déforme les surfaces près des pôles.
-
-## Une carte pour les marins
-
-En 1569, le géographe flamand Gerardus Mercator présente sa projection. Sur une carte de Mercator, toute ligne droite est une ligne de cap constant, ou loxodromie : un navire qui garde le même cap suit un segment de droite. La projection est devenue la référence des cartes marines.
-
-## Les angles, mais pas les surfaces
-
-La projection de Mercator conserve les angles, mais déforme les surfaces ; elle convient mal aux régions proches des pôles. L'échelle augmente avec la latitude : les objets éloignés de l'équateur paraissent plus grands.
-
-## Le Groenland et l'Afrique
-
-Sur une carte de Mercator, le Groenland paraît aussi grand que l'Afrique, alors que la surface de l'Afrique est environ 14 fois plus grande.
-
-## À retenir
-
-- En 1569, le géographe flamand Gerardus Mercator présente sa projection.
-- Sur ses cartes, toute ligne droite est une ligne de cap constant, ou loxodromie.
-- Elle conserve les angles, mais déforme les surfaces : l'échelle augmente avec la latitude.
-- Le Groenland y paraît aussi grand que l'Afrique, dont la surface est environ 14 fois plus grande.
-- Elle est devenue la référence des cartes marines.
-
----
-type: article
 title: L'organisation d'une ville, centre et périphéries
 slug: l-organisation-d-une-ville-centre-et-peripheries
 categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
@@ -10692,94 +11453,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-type: article
-title: Comment trace-t-on une frontière, et pourquoi certaines sont-elles contestées ?
-slug: comment-trace-t-on-une-frontiere-et-pourquoi-certaines-sont-elles-contestees
-categoryPath: geographie-et-territoires/geopolitique/frontieres
-summary: >
-  Une frontière peut suivre un fleuve, une montagne ou une ligne droite. Beaucoup ont été
-  tracées par des puissances coloniales sans consulter les peuples, ce qui nourrit des litiges.
-tags: [frontieres]
-sources:
-  - title: "Frontière"
-    url: "https://fr.wikipedia.org/wiki/Fronti%C3%A8re"
-    publisher: "Wikipédia"
-  - title: "Border"
-    url: "https://en.wikipedia.org/wiki/Border"
-    publisher: "Wikipedia"
-  - title: "Berlin Conference"
-    url: "https://en.wikipedia.org/wiki/Berlin_Conference"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Qu'est-ce que le thalweg ?"
-    options:
-      - "Un type de montagne"
-      - "Une ville frontière"
-      - "La ligne la plus profonde du lit d'un fleuve"
-    answer: 3
-    explanation: >
-      Quand une frontière suit un fleuve, c'est souvent le thalweg, la ligne la plus profonde du
-      lit, qui la marque.
-  - question: "Qu'est-ce qu'une frontière géométrique ?"
-    options:
-      - "Une frontière en forme de cercle seulement"
-      - "Une frontière dessinée par des enfants"
-      - "Une ligne droite qui suit un méridien ou un parallèle"
-    answer: 3
-    explanation: >
-      D'autres frontières sont géométriques : des lignes droites suivant des méridiens ou des
-      parallèles, surtout au Sahara et en Amérique du Nord.
-  - question: "Qui a tracé beaucoup de frontières africaines ?"
-    options:
-      - "Les Nations unies en 1900"
-      - "Des puissances coloniales européennes"
-      - "Les peuples africains seuls"
-    answer: 2
-    explanation: >
-      Beaucoup de frontières ont été tracées pendant la colonisation par des puissances
-      européennes, sans consulter les populations.
-  - question: "Pourquoi naissent des litiges frontaliers ?"
-    options:
-      - "Les cartes sont trop colorées"
-      - "Les fleuves sont trop longs"
-      - "Les États voient la frontière avec des intérêts incompatibles"
-    answer: 3
-    explanation: >
-      Un litige naît quand deux États voient la frontière avec des intérêts ou une identité
-      incompatibles, comme au Cachemire entre l'Inde et le Pakistan.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Une frontière peut suivre un fleuve, une montagne ou une ligne droite. Beaucoup ont été tracées par des puissances coloniales sans consulter les peuples, ce qui nourrit des litiges.
-
-## Ce qu'est une frontière
-
-Une frontière sépare deux territoires, en particulier deux États souverains ; ce peut être une ligne imaginaire ou un espace plus épais. L'idée d'une frontière précise est liée au développement de l'État moderne. Le tracé résulte des rapports de force, de la volonté des peuples ou de la géographie, qui offre des défenses naturelles.
-
-## Suivre la nature ou tirer une ligne
-
-Certaines frontières suivent la nature : fleuves, montagnes, mers, lacs. Quand une frontière suit un fleuve, c'est souvent le thalweg, la ligne la plus profonde du lit, qui la marque. D'autres frontières sont géométriques : des lignes droites suivant des méridiens ou des parallèles, surtout au Sahara et en Amérique du Nord. La frontière entre le Canada et les États-Unis suit le 49e parallèle sur une grande longueur. En mer, un État a une souveraineté complète sur ses eaux territoriales, puis des droits économiques dans sa zone économique exclusive.
-
-## L'héritage colonial
-
-Beaucoup de frontières ont été tracées pendant la colonisation par des puissances européennes, sans consulter les populations. La conférence de Berlin a réuni des puissances européennes, sans aucun pays africain invité. Elle a posé le principe de l'occupation effective pour reconnaître les prétentions coloniales. Les partages ignoraient souvent les frontières ethniques, linguistiques et culturelles.
-
-## Pourquoi des litiges ?
-
-Un litige naît quand deux États voient la frontière avec des intérêts ou une identité incompatibles, comme au Cachemire entre l'Inde et le Pakistan.
-
-## À retenir
-
-- Une frontière sépare deux territoires, en particulier deux États souverains ; ce peut être une ligne imaginaire ou un espace plus épais.
-- Certaines frontières suivent la nature : fleuves, montagnes, mers, lacs.
-- D'autres frontières sont géométriques : des lignes droites suivant des méridiens ou des parallèles, surtout au Sahara et en Amérique du Nord.
-- Beaucoup de frontières ont été tracées pendant la colonisation par des puissances européennes, sans consulter les populations.
-- Un litige naît quand deux États voient la frontière avec des intérêts ou une identité incompatibles, comme au Cachemire entre l'Inde et le Pakistan.
 
 ---
 type: article
@@ -10800,6 +11473,13 @@ sources:
   - title: "Drainage basin"
     url: "https://en.wikipedia.org/wiki/Drainage_basin"
     publisher: "Wikipedia"
+  - title: "fiche le bassin versant"
+    url: "https://www.eaufrance.fr/sites/default/files/2018-07/fiche-le-bassin-versant-Agence-de-l-eau-onema-2012.pdf"
+    publisher: "Onema (Agence de l'eau)"
+    date: "2012"
+  - title: "Documentation BDTopo, bassin versant topographique"
+    url: "https://documentation.geoservices.ign.fr/bassin_versant_topographique&BDTopo"
+    publisher: "IGN"
 quiz:
   - question: "Qu'est-ce qu'un bassin versant ?"
     options:
@@ -10856,6 +11536,21 @@ La ligne de partage des eaux est la limite entre deux bassins voisins : en monta
 
 L'eau est gérée par bassin : les agences de l'eau ont été créées pour cela. L'eau, les sédiments et les polluants circulent à l'intérieur d'un bassin : ce qui se passe en amont touche l'aval. Les lignes de partage ont parfois servi de frontières, et l'on a creusé des canaux ou des portages pour franchir ces barrières naturelles.
 
+```schema
+titre: Le bassin versant
+type: etapes
+elements:
+  - titre: Pluie sur une crête
+    icone: mountain
+  - titre: Ligne de partage des eaux
+    texte: Elle sépare deux bassins.
+  - titre: Ruissellement
+  - titre: Exutoire commun
+    texte: >-
+      Dans un même bassin, les écoulements rejoignent une sortie commune, vers un cours d’eau, un
+      lac ou la mer.
+```
+
 ## À retenir
 
 - Un bassin versant est un territoire dont toutes les eaux de ruissellement convergent vers un même cours d'eau ou une même mer.
@@ -10884,6 +11579,12 @@ sources:
   - title: "Map projection"
     url: "https://en.wikipedia.org/wiki/Map_projection"
     publisher: "Wikipedia"
+  - title: "Nautical Cartography"
+    url: "https://nauticalcharts.noaa.gov/learn/nautical-cartography.html"
+    publisher: "NOAA Office of Coast Survey"
+  - title: "Selecting a Map Projection"
+    url: "https://education.nationalgeographic.org/resource/selecting-map-projection/"
+    publisher: "National Geographic Education"
 quiz:
   - question: "Pour quel usage la projection de Mercator est-elle conçue ?"
     options:
@@ -10941,6 +11642,19 @@ Mais elle déforme les surfaces : l'agrandissement augmente quand on s'éloigne 
 
 Aucune projection ne peut conserver à la fois les angles et les surfaces : on ne peut pas aplatir une sphère sans la déformer. Le mathématicien Carl Friedrich Gauss a démontré qu'on ne peut pas représenter une sphère sur un plan sans déformation. Une carte peut déformer les surfaces, les formes, les distances ou les directions. Les projections qui conservent les surfaces montrent les bonnes tailles relatives, mais déforment les formes. Les ellipses de Tissot servent à visualiser où et à quel point une projection déforme. Parmi les alternatives à Mercator : Gall-Peters, Robinson, Winkel tripel, ou des projections qui conservent les surfaces.
 
+```schema
+type: comparaison
+titre: Ce que montre une carte de Mercator
+colonnes:
+  - titre: Sur la carte
+    points:
+      - Le Groenland paraît aussi grand que l'Afrique
+  - titre: En réalité
+    points:
+      - L'Afrique est bien plus grande
+      - Aucune carte plane n'est parfaite
+```
+
 ## À retenir
 
 - La projection de Mercator, créée par le cartographe flamand Gérard Mercator, est conçue pour la navigation maritime.
@@ -10968,6 +11682,9 @@ sources:
   - title: "Sahara"
     url: "https://en.wikipedia.org/wiki/Sahara"
     publisher: "Wikipedia"
+  - title: "world's largest deserts"
+    url: "https://britannica.com/topic/worlds-largest-deserts-2225895"
+    publisher: "Britannica"
 quiz:
   - question: "Qu'est-ce qui définit un désert ?"
     options:
@@ -11025,6 +11742,21 @@ Les plus grands déserts du monde sont polaires : l'Antarctique, puis l'Arctique
 
 Des plantes et des animaux s'y sont adaptés pour économiser l'eau et réguler leur température : plantes grasses, chameaux, reptiles, animaux nocturnes. Des peuples vivent dans les déserts : nomades, éleveurs et agriculteurs des oasis. Dans le Sahara, le sable est brûlant le jour, et les écarts de température entre le jour et la nuit sont importants. Le Sahara a alterné entre désert et savane au fil de cycles liés aux variations de l'orbite de la Terre.
 
+```schema
+type: comparaison
+titre: Les plus grands déserts
+colonnes:
+  - titre: Déserts polaires
+    icone: snowflake
+    points:
+      - Antarctique, Arctique
+      - Les plus grands
+  - titre: Déserts chauds
+    icone: sun
+    points:
+      - Sahara, le plus grand désert chaud
+```
+
 ## À retenir
 
 - Un désert est une région où les précipitations sont très rares et où l'évaporation dépasse la pluie.
@@ -11053,6 +11785,9 @@ sources:
   - title: "International Meridian Conference"
     url: "https://en.wikipedia.org/wiki/International_Meridian_Conference"
     publisher: "Wikipedia"
+  - title: "Remembering the Washington Conference That Brought the World Standard Time"
+    url: "https://www.cfr.org/articles/remembering-washington-conference-brought-world-standard-time"
+    publisher: "Council on Foreign Relations"
 quiz:
   - question: "Pourquoi y a-t-il 24 fuseaux horaires ?"
     options:
@@ -11109,6 +11844,21 @@ Une conférence internationale à Washington a choisi Greenwich comme méridien 
 
 Certains pays utilisent des décalages de 30 ou 45 minutes, comme l'Inde et le Népal. La Chine utilise un seul fuseau horaire pour tout son territoire, alors qu'il en couvre théoriquement plusieurs. La France métropolitaine suit l'heure UTC+1, et UTC+2 en été ; avec ses territoires d'outre-mer, elle couvre de nombreux fuseaux horaires. La ligne de changement de date marque l'endroit où l'on change de jour calendaire. Dans beaucoup de pays, on avance l'horloge d'une heure au printemps et en été.
 
+```schema
+titre: Les fuseaux horaires
+legende: >-
+  Modèle théorique de 24 heures ; les décalages civils suivent aussi les frontières et comportent
+  des demi-heures ou quarts d’heure.
+type: chiffres
+chiffres:
+  - valeur: 24 h
+    texte: pour un tour de la Terre
+  - valeur: 24 tranches
+    texte: de longitude, une par heure
+  - valeur: Greenwich
+    texte: le méridien de référence
+```
+
 ## À retenir
 
 - La Terre fait un tour en 24 heures : on la découpe en 24 tranches de longitude, une par heure.
@@ -11119,95 +11869,13 @@ Certains pays utilisent des décalages de 30 ou 45 minutes, comme l'Inde et le N
 
 ---
 type: article
-title: Quelles régions de France attirent le plus de nouveaux habitants ?
-slug: quelles-regions-de-france-attirent-le-plus-de-nouveaux-habitants
-categoryPath: geographie-et-territoires/geographie-humaine/migrations
-summary: >
-  Les Français déménagent moins qu'avant. L'Ouest et le Sud-Ouest attirent, l'Île-de-France et
-  les centres denses perdent des habitants au profit des zones périurbaines.
-tags: [migrations]
-sources:
-  - title: "Moins de déménagements en dix ans, mais l'Ouest et le périurbain toujours attractifs"
-    url: "https://www.insee.fr/fr/statistiques/8648157"
-    publisher: "Insee Première"
-  - title: "Entre 2015 et 2021, la croissance démographique est deux fois plus élevée dans l'espace urbain que dans le rural"
-    url: "https://www.insee.fr/fr/statistiques/7726965"
-    publisher: "Insee Focus"
-  - title: "Du nord au sud, les mouvements naturels et migratoires opposent les départements"
-    url: "https://www.insee.fr/fr/statistiques/3288449"
-    publisher: "Insee Focus"
-quiz:
-  - question: "Les Français déménagent-ils plus ou moins qu'il y a dix ans ?"
-    options:
-      - "Moins"
-      - "Beaucoup plus"
-      - "Exactement autant"
-    answer: 1
-    explanation: >
-      Les Français déménagent moins qu'il y a dix ans.
-  - question: "Quelles régions attirent des habitants venus d'autres régions ?"
-    options:
-      - "Le Grand Est seulement"
-      - "La Bretagne, l'Occitanie et la Nouvelle-Aquitaine"
-      - "L'Île-de-France seulement"
-    answer: 2
-    explanation: >
-      L'Ouest et le Sud-Ouest attirent : la Bretagne, l'Occitanie et la Nouvelle-Aquitaine
-      gagnent des habitants grâce aux arrivées en provenance d'autres régions.
-  - question: "Que gagnent les espaces périurbains ?"
-    options:
-      - "Des volcans"
-      - "Des habitants grâce aux déménagements"
-      - "Des ports"
-    answer: 2
-    explanation: >
-      Les espaces périurbains gagnent des habitants grâce aux déménagements.
-  - question: "Que signifie solde migratoire ?"
-    options:
-      - "Les arrivées moins les départs"
-      - "Les naissances moins les décès"
-      - "Le nombre de maisons"
-    answer: 1
-    explanation: >
-      La croissance d'un territoire repose sur deux soldes : le solde naturel, naissances moins
-      décès, et le solde migratoire, arrivées moins départs.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Les Français déménagent moins qu'avant. L'Ouest et le Sud-Ouest attirent, l'Île-de-France et les centres denses perdent des habitants au profit des zones périurbaines.
-
-## Moins de déménagements
-
-Les Français déménagent moins qu'il y a dix ans. Les jeunes adultes sont les plus mobiles, notamment pour leurs études. Le vieillissement de la population explique une partie de la baisse des déménagements.
-
-## Où l'on va, où l'on part
-
-L'Ouest et le Sud-Ouest attirent : la Bretagne, l'Occitanie et la Nouvelle-Aquitaine gagnent des habitants grâce aux arrivées en provenance d'autres régions. L'Île-de-France perd des habitants dans ses échanges avec les autres régions, et cela dure. Les centres urbains denses perdent des habitants au profit des zones qui les entourent. Les espaces périurbains gagnent des habitants grâce aux déménagements.
-
-## La carte de la croissance
-
-La croissance d'un territoire repose sur deux soldes : le solde naturel, naissances moins décès, et le solde migratoire, arrivées moins départs. Le solde naturel a faibli, et la croissance démographique du pays a ralenti. La population a augmenté plus vite dans l'espace urbain que dans le rural. Les mouvements naturels et migratoires opposent les départements du nord et du sud : le Sud et l'Ouest attirent, le nord-est perd des habitants. De nombreux départements du nord-est, du centre et du Massif central perdent des habitants. La croissance est la plus forte autour de Paris, sur la façade atlantique, dans le Sud et dans la vallée du Rhône.
-
-## À retenir
-
-- Les Français déménagent moins qu'il y a dix ans.
-- L'Ouest et le Sud-Ouest attirent : Bretagne, Occitanie et Nouvelle-Aquitaine gagnent des habitants grâce aux arrivées d'autres régions.
-- L'Île-de-France perd des habitants dans ses échanges avec les autres régions, et cela dure.
-- Les espaces périurbains gagnent des habitants grâce aux déménagements.
-- Le Sud et l'Ouest attirent des habitants, le nord-est en perd.
-
----
-type: article
 title: Pourquoi les outre-mer donnent-ils à la France un territoire si dispersé ?
 slug: pourquoi-les-outre-mer-donnent-ils-a-la-france-un-territoire-si-disperse
 categoryPath: geographie-et-territoires/geographie-physique
 summary: >
-  Les outre-mer français s'étendent sur plusieurs océans. Leurs terres sont petites, mais leurs
-  zones maritimes sont immenses : la France a la deuxième plus grande zone économique exclusive
-  du monde.
+  Les outre-mer français s'étendent sur plusieurs océans. Leurs terres sont petites, mais leur
+  domaine maritime dépasse 10 millions de km², presque entièrement situé outre-mer, surtout dans
+  le Pacifique.
 tags: [geographie-physique]
 sources:
   - title: "Outre-mer français"
@@ -11219,6 +11887,10 @@ sources:
   - title: "Les zones économiques exclusives ultramarines : le moment de vérité"
     url: "https://www.senat.fr/rap/r13-430/r13-43012.html"
     publisher: "Sénat"
+  - title: "Le domaine maritime français (BM 244)"
+    url: "https://www.defense.gouv.fr/sites/default/files/cesm/BM-244---Le-domaine-maritime-franais.pdf"
+    publisher: "Ministère des Armées, Centre d'études stratégiques de la Marine"
+    date: "2021"
 quiz:
   - question: "Dans combien d'océans environ s'étendent les outre-mer ? Lesquels ?"
     options:
@@ -11254,13 +11926,13 @@ quiz:
     answer: 2
     explanation: >
       La quasi-totalité de la ZEE française se situe outre-mer.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
 ## En bref
 
-Les outre-mer français s'étendent sur plusieurs océans. Leurs terres sont petites, mais leurs zones maritimes sont immenses : la France a la deuxième plus grande zone économique exclusive du monde.
+Les outre-mer français s'étendent sur plusieurs océans. Leurs terres sont petites, mais leurs zones maritimes sont immenses : la France possède le deuxième domaine maritime du monde.
 
 ## Un espace éclaté
 
@@ -11270,100 +11942,37 @@ Les outre-mer français sont des territoires répartis sur plusieurs océans : A
 
 Leur surface de terres émergées est petite, mais ils s'étendent sur de très vastes zones maritimes. Une zone économique exclusive, ou ZEE, s'étend loin au large des côtes ; l'État y a des droits sur les ressources de la mer et du sous-sol. Ce régime vient de la convention des Nations unies sur le droit de la mer, signée à Montego Bay.
 
-## La deuxième ZEE du monde
+## Le deuxième domaine maritime du monde
 
-La France a la deuxième plus grande ZEE du monde, derrière les États-Unis. La quasi-totalité de la ZEE française se situe outre-mer. Ces territoires dépendent encore beaucoup de la métropole pour le commerce et le soutien financier.
+Le domaine maritime français, essentiellement fait de ZEE, est le deuxième du monde. La quasi-totalité se situe outre-mer. Ces territoires dépendent encore beaucoup de la métropole pour le commerce et le soutien financier.
+
+```schema
+titre: Les outre-mer français
+type: systeme
+centre: Outre-mer
+icone: globe
+parties:
+  - nom: Plusieurs océans
+    role: Atlantique, Pacifique, Indien, Antarctique.
+  - nom: Statuts différents
+  - nom: Un vaste espace maritime réparti entre plusieurs océans
+```
+
+## Des chiffres à l'échelle de la mer
+
+Selon la Marine nationale, le domaine maritime français, surtout des ZEE complétées par des extensions du plateau continental, couvre 10 911 823 km², après l'extension en 2021 du plateau continental de La Réunion et des îles Saint-Paul et Amsterdam. Environ 97 % de cet espace se trouve outre-mer. Pour comparaison, ce total dépasse largement la superficie de la France métropolitaine et de son littoral, qui n'en représentent qu'environ 4 %.
+
+## Le Pacifique en tête
+
+La répartition par océan est très inégale. Le Pacifique, avec notamment la Polynésie française et la Nouvelle-Calédonie, concentre environ 66 % du domaine maritime. L'océan Indien en regroupe environ 27 %, et l'Atlantique hors métropole environ 3 %. Un petit archipel peut donc peser plus qu'un grand département : c'est la dispersion qui crée l'espace maritime.
 
 ## À retenir
 
 - Les outre-mer français sont des territoires répartis sur plusieurs océans : Atlantique, Pacifique, Indien et Antarctique.
 - Ils n'ont pas tous le même statut : départements et régions d'outre-mer, collectivités d'outre-mer, et des cas particuliers comme la Nouvelle-Calédonie.
 - Leur surface de terres émergées est petite, mais ils s'étendent sur de très vastes zones maritimes.
-- Une zone économique exclusive, ou ZEE, s'étend au large des côtes ; l'État y a des droits sur les ressources.
-- La France a la deuxième plus grande ZEE du monde, derrière les États-Unis.
-
----
-type: article
-title: Comment un conteneur traverse-t-il le monde par la mer ?
-slug: comment-un-conteneur-traverse-t-il-le-monde-par-la-mer
-categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
-summary: >
-  La grande majorité du commerce mondial de marchandises, en volume, passe par la mer. Le
-  conteneur standardisé, de grands ports et quelques passages obligés organisent ces flux.
-tags: [routes-et-detroits]
-sources:
-  - title: "Transport maritime"
-    url: "https://fr.wikipedia.org/wiki/Transport_maritime"
-    publisher: "Wikipédia"
-  - title: "Maritime transport"
-    url: "https://en.wikipedia.org/wiki/Maritime_transport"
-    publisher: "Wikipedia"
-  - title: "Containerization"
-    url: "https://en.wikipedia.org/wiki/Containerization"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Quelle voie transporte la plus grande part du commerce mondial en volume ?"
-    options:
-      - "Les airs"
-      - "Les chemins de fer"
-      - "La mer"
-    answer: 3
-    explanation: >
-      La grande majorité du commerce mondial de marchandises, en volume, passe par la mer.
-  - question: "Qu'est-ce qui a révolutionné le transport maritime ?"
-    options:
-      - "Le conteneur standardisé"
-      - "La voile"
-      - "Le téléphone"
-    answer: 1
-    explanation: >
-      Le conteneur, une boîte standardisée, a révolutionné le transport maritime.
-  - question: "Citez un passage obligé du commerce maritime."
-    options:
-      - "Le lac Léman"
-      - "Le canal de Suez"
-      - "La Seine"
-    answer: 2
-    explanation: >
-      Les flux passent par des points de passage obligés : les canaux de Suez et de Panama et le
-      détroit de Malacca.
-  - question: "Que signifie EVP ?"
-    options:
-      - "Équivalent vingt pieds, une unité de mesure des conteneurs"
-      - "Entrée vers le port"
-      - "Ensemble de voiles"
-    answer: 1
-    explanation: >
-      Des normes ISO fixent les tailles et les repères des conteneurs, mesurés en EVP,
-      équivalents vingt pieds.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La grande majorité du commerce mondial de marchandises, en volume, passe par la mer. Le conteneur standardisé, de grands ports et quelques passages obligés organisent ces flux.
-
-## La mer, première voie du commerce
-
-La grande majorité du commerce mondial de marchandises, en volume, passe par la mer. Des dizaines de milliers de navires marchands forment la flotte mondiale. Cette flotte comprend surtout des vraquiers, des porte-conteneurs et des cargos de marchandises générales. Les grands ports, comme Shanghai et Singapour, concentrent les flux. Les flux passent par des points de passage obligés : les canaux de Suez et de Panama et le détroit de Malacca.
-
-## Le conteneur, une révolution
-
-Le conteneur, une boîte standardisée, a révolutionné le transport maritime. Le transporteur américain Malcom McLean a lancé le conteneur moderne avec l'ingénieur Keith Tantlinger. Des normes ISO fixent les tailles et les repères des conteneurs, mesurés en EVP, équivalents vingt pieds. La conteneurisation a fortement réduit le coût de manutention et soutenu la mondialisation des échanges. Elle a fait décliner certains ports et fait émerger d'autres, comme Rotterdam et Felixstowe.
-
-## Un coût environnemental
-
-Le transport maritime représente une part notable des émissions de gaz à effet de serre et pollue l'air des zones côtières. La teneur maximale en soufre des carburants marins a été fortement réduite pour limiter cette pollution.
-
-## À retenir
-
-- La grande majorité du commerce mondial de marchandises, en volume, passe par la mer.
-- Le conteneur, une boîte standardisée, a révolutionné le transport maritime.
-- Des normes ISO fixent les tailles et les repères des conteneurs, mesurés en EVP, équivalents vingt pieds.
-- Les grands ports, comme Shanghai et Singapour, concentrent les flux.
-- Les flux passent par des points de passage obligés : les canaux de Suez et de Panama et le détroit de Malacca.
-
+- Le domaine maritime français atteint environ 10,9 millions de km², dont environ 97 % outre-mer et 66 % dans le Pacifique.
+- La France a le deuxième domaine maritime du monde, essentiellement des ZEE.
 ---
 type: article
 title: Pourquoi certains départements français gagnent-ils des habitants et d'autres en perdent-ils ?
@@ -11384,6 +11993,9 @@ sources:
   - title: "Démographie de la France"
     url: "https://fr.wikipedia.org/wiki/D%C3%A9mographie_de_la_France"
     publisher: "Wikipédia"
+  - title: "Moins de déménagements en dix ans, mais l'Ouest et le périurbain toujours attractifs"
+    url: "https://www.insee.fr/fr/statistiques/8648157"
+    publisher: "Insee Première"
 quiz:
   - question: "Qu'est-ce que le solde naturel ?"
     options:
@@ -11438,6 +12050,18 @@ Les départements à population jeune, comme ceux de l'Île-de-France, des outre
 ## Une carte contrastée
 
 Le Sud et l'Ouest attirent des habitants, alors que le nord-est en perd. Une diagonale qui va des Ardennes au Massif central connaît stagnation ou perte d'habitants. Les écarts entre départements se creusent : de moins en moins de départements croissent aussi vite que la moyenne nationale. La population augmente plus vite dans l'espace urbain que dans le rural. De nombreux départements perdent des habitants, surtout dans le nord-est, le centre et le Massif central.
+
+```schema
+type: comparaison
+titre: Les deux soldes d'un territoire
+colonnes:
+  - titre: Solde naturel
+    points:
+      - Naissances moins décès
+  - titre: Solde migratoire
+    points:
+      - Arrivées moins départs
+```
 
 ## À retenir
 
@@ -11520,6 +12144,16 @@ Dans les premiers mètres depuis le rivage, une grande part du sol est artificia
 ## La loi Littoral
 
 Une loi spécifique, la loi Littoral, encadre l'urbanisation des côtes et protège les espaces naturels. Hors des espaces déjà urbanisés, il est interdit de construire dans la bande des cent mètres à partir du rivage ; les plans locaux peuvent étendre cette distance. La loi impose des coupures d'urbanisation : des zones naturelles ou agricoles qui évitent une urbanisation continue. Elle garantit le libre accès au rivage par les sentiers littoraux. Elle s'applique aux communes qui bordent les océans, les mers, les lagunes salées et les grands lacs, ainsi qu'aux estuaires.
+
+```schema
+type: chiffres
+titre: Le littoral métropolitain
+chiffres:
+  - valeur: 4 %
+    texte: du territoire environ
+  - valeur: "× 2,5"
+    texte: la densité moyenne de population
+```
 
 ## À retenir
 
@@ -11606,6 +12240,21 @@ Un canal chargé, appelé traceur par bonds, descend du nuage vers le sol ; à s
 
 Le tonnerre est le bruit de l'air brusquement chauffé qui se dilate d'un coup, comme une onde de choc. La lumière va bien plus vite que le son : on voit donc l'éclair avant d'entendre le tonnerre.
 
+```schema
+type: etapes
+titre: La naissance d'un éclair
+elements:
+  - titre: Collisions de glace
+    texte: Les particules prennent des charges.
+  - titre: Séparation
+    texte: Haut du nuage positif, bas négatif.
+  - titre: Décharge
+    texte: L'éclair.
+    icone: bolt
+  - titre: Tonnerre
+    texte: L'air chauffé se dilate brutalement.
+```
+
 ## À retenir
 
 - Dans un nuage d'orage, des particules de glace se cognent et prennent des charges électriques.
@@ -11613,3 +12262,4 @@ Le tonnerre est le bruit de l'air brusquement chauffé qui se dilate d'un coup, 
 - Quand ils se rejoignent, un canal conducteur est tracé et une décharge très lumineuse, l'arc en retour, parcourt le canal.
 - Le tonnerre est le bruit de l'air brusquement chauffé qui se dilate d'un coup, comme une onde de choc.
 - La lumière va bien plus vite que le son : on voit donc l'éclair avant d'entendre le tonnerre.
+

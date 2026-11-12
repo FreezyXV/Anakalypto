@@ -1,0 +1,872 @@
+[
+  {
+    "id": "rebound",
+    "state": 0,
+    "bad": [],
+    "caption": "Dans cet exemple, une lampe de 60 W utilisée une heure consomme 60 Wh.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "rebound",
+    "state": 1,
+    "bad": [],
+    "caption": "À lumière comparable, 10 W pendant une heure ne consomment que 10 Wh.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "rebound",
+    "state": 2,
+    "bad": [],
+    "caption": "Si la nouvelle lampe fonctionne trois heures, elle consomme 30 Wh.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "refinery",
+    "state": 0,
+    "bad": [],
+    "caption": "Une colonne sépare des familles d’hydrocarbures selon leur volatilité.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "refinery",
+    "state": 1,
+    "bad": [],
+    "caption": "Gaz, coupes légères et coupes plus lourdes sont recueillis à différents niveaux.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "refinery",
+    "state": 2,
+    "bad": [],
+    "caption": "Une opération distincte peut casser une longue chaîne en chaînes plus petites.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "nuclearwaste",
+    "state": 0,
+    "bad": [],
+    "caption": "L’activité d’un déchet et la durée de vie de ses radionucléides sont deux critères différents.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "nuclearwaste",
+    "state": 1,
+    "bad": [],
+    "caption": "Pour un radionucléide isolé, l’effectif moyen est divisé par deux à chaque demi-vie.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "nuclearwaste",
+    "state": 2,
+    "bad": [],
+    "caption": "Pour certains déchets de haute activité vitrifiés, matrice, conteneur et roche retardent la dispersion.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "fusion",
+    "state": 0,
+    "bad": [],
+    "caption": "Le deutérium apporte un proton et un neutron ; le tritium, un proton et deux neutrons.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "fusion",
+    "state": 1,
+    "bad": [],
+    "caption": "La fusion D–T produit un noyau d’hélium et un neutron énergétique.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "fusion",
+    "state": 2,
+    "bad": [],
+    "caption": "Dans un tokamak, les champs magnétiques confinent le plasma chargé.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "csp",
+    "state": 0,
+    "bad": [],
+    "caption": "Des miroirs orientés dirigent la lumière vers le récepteur d’une tour.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "csp",
+    "state": 1,
+    "bad": [],
+    "caption": "Un réservoir chaud peut recevoir le fluide chauffé par le récepteur.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "csp",
+    "state": 2,
+    "bad": [],
+    "caption": "La chaleur stockée peut encore alimenter une turbine quand le Soleil ne fournit plus d’énergie.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "duckcurve",
+    "state": 0,
+    "bad": [],
+    "caption": "Une journée fictive présente une demande plus forte en début de soirée.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "duckcurve",
+    "state": 1,
+    "bad": [],
+    "caption": "La production solaire fictive culmine autour de midi et baisse avant la pointe du soir.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "duckcurve",
+    "state": 2,
+    "bad": [],
+    "caption": "La demande résiduelle est calculée en soustrayant le solaire à la demande.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "energychain",
+    "state": 0,
+    "bad": [],
+    "caption": "Le bilan fictif commence avec 100 unités d’énergie du combustible.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "energychain",
+    "state": 1,
+    "bad": [],
+    "caption": "Après transformation et transport, 35 unités arrivent chez l’utilisateur.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "energychain",
+    "state": 2,
+    "bad": [],
+    "caption": "Sur les 35 unités finales, 28 rendent le service choisi et 7 sont dissipées à l’usage.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "watermill",
+    "state": 0,
+    "bad": [],
+    "caption": "Le bief amène l’eau sur les augets d’une roue alimentée par le haut.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "watermill",
+    "state": 1,
+    "bad": [],
+    "caption": "Un arbre et des engrenages transmettent la rotation à un axe vertical.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "watermill",
+    "state": 2,
+    "bad": [],
+    "caption": "La meule supérieure tourne au-dessus de la meule inférieure fixe.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "leadacid",
+    "state": 0,
+    "bad": [],
+    "caption": "Une cellule comporte une plaque négative de plomb et une positive au dioxyde de plomb.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "leadacid",
+    "state": 1,
+    "bad": [],
+    "caption": "En décharge, les deux plaques se transforment vers du sulfate de plomb.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "leadacid",
+    "state": 2,
+    "bad": [],
+    "caption": "Un chargeur fournit de l’énergie pour inverser les transformations.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "electrolyser",
+    "state": 0,
+    "bad": [],
+    "caption": "Une alimentation continue impose la réaction dans une cellule à membrane échangeuse de protons.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "electrolyser",
+    "state": 1,
+    "bad": [],
+    "caption": "À l’anode, l’eau forme de l’oxygène ; les protons traversent la membrane vers la cathode.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "electrolyser",
+    "state": 2,
+    "bad": [],
+    "caption": "À la cathode, les protons et les électrons forment l’hydrogène.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "insulation",
+    "state": 0,
+    "bad": [],
+    "caption": "Quand l’intérieur est plus chaud, de l’énergie est transférée vers l’extérieur.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "insulation",
+    "state": 1,
+    "bad": [],
+    "caption": "Une couche isolante continue réduit le transfert à travers la paroi.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "insulation",
+    "state": 2,
+    "bad": [],
+    "caption": "Une interruption d’isolant peut laisser un pont thermique au droit d’un plancher.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "led",
+    "state": 0,
+    "bad": [],
+    "caption": "Une LED injecte des électrons et des trous dans un semi-conducteur.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "led",
+    "state": 1,
+    "bad": [],
+    "caption": "Une recombinaison peut libérer de l’énergie sous forme d’un photon.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "led",
+    "state": 2,
+    "bad": [],
+    "caption": "Une LED bleue et un luminophore peuvent fournir un mélange perçu comme blanc.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "cogeneration",
+    "state": 0,
+    "bad": [],
+    "caption": "Un moteur entraîne un alternateur et dégage aussi de la chaleur.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "cogeneration",
+    "state": 1,
+    "bad": [],
+    "caption": "Un échangeur récupère une partie de la chaleur pour un circuit d’eau.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "cogeneration",
+    "state": 2,
+    "bad": [],
+    "caption": "Électricité et chaleur peuvent alimenter des usages simultanés sur un site.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "firewood",
+    "state": 0,
+    "bad": [],
+    "caption": "Une bûche humide contient de l’eau qu’il faut chauffer puis évaporer.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "firewood",
+    "state": 1,
+    "bad": [],
+    "caption": "Un bois séché contient moins d’eau avant d’entrer dans le foyer.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "firewood",
+    "state": 2,
+    "bad": [],
+    "caption": "Un poêle fermé transfère une partie de la chaleur vers la pièce et évacue les fumées.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "glazing",
+    "state": 0,
+    "bad": [],
+    "caption": "Une paroi vitrée simple laisse passer des transferts thermiques entre les deux faces.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "glazing",
+    "state": 1,
+    "bad": [],
+    "caption": "La lame de gaz enfermée entre deux vitres augmente la résistance thermique.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "glazing",
+    "state": 2,
+    "bad": [],
+    "caption": "Une couche adaptée réduit aussi les échanges radiatifs infrarouges.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "thermalmass",
+    "state": 0,
+    "bad": [],
+    "caption": "Le jour, une masse lourde absorbe progressivement de l’énergie thermique.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "thermalmass",
+    "state": 1,
+    "bad": [],
+    "caption": "Quand les conditions changent, la masse peut restituer la chaleur emmagasinée.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "thermalmass",
+    "state": 2,
+    "bad": [],
+    "caption": "Si l’air extérieur est plus frais, une ventilation nocturne peut aider à évacuer la chaleur.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "standby",
+    "state": 0,
+    "bad": [],
+    "caption": "L’alimentation fournit de l’énergie à l’écran et à l’électronique.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "standby",
+    "state": 1,
+    "bad": [],
+    "caption": "L’écran est éteint, mais le récepteur de commande et une partie de l’alimentation restent actifs.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "standby",
+    "state": 2,
+    "bad": [],
+    "caption": "Quand la source secteur est réellement séparée, elle ne fournit plus d’énergie à ces circuits.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "pyrolysis",
+    "state": 0,
+    "bad": [],
+    "caption": "Le bois contient du carbone, mais aussi de l’eau et d’autres constituants.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "pyrolysis",
+    "state": 1,
+    "bad": [],
+    "caption": "La chaleur et un apport d’oxygène limité permettent une décomposition avec départ de vapeurs et de gaz.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "pyrolysis",
+    "state": 2,
+    "bad": [],
+    "caption": "Après traitement et refroidissement adapté, un résidu riche en carbone demeure.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "windmill",
+    "state": 0,
+    "bad": [],
+    "caption": "Les ailes d’un moulin entraînent un arbre presque horizontal.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "windmill",
+    "state": 1,
+    "bad": [],
+    "caption": "Le rouet et la lanterne transmettent la rotation vers un axe vertical.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "windmill",
+    "state": 2,
+    "bad": [],
+    "caption": "La meule supérieure tourne, la meule inférieure reste fixe.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "solaroven",
+    "state": 0,
+    "bad": [],
+    "caption": "Un réflecteur peut renvoyer une partie de la lumière vers un cuiseur boîte.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "solaroven",
+    "state": 1,
+    "bad": [],
+    "caption": "Une surface sombre et le récipient absorbent l’énergie lumineuse.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "solaroven",
+    "state": 2,
+    "bad": [],
+    "caption": "Le couvercle transparent et l’isolation limitent les pertes, notamment les échanges d’air.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "voltapile",
+    "state": 0,
+    "bad": [],
+    "caption": "Un étage associe deux métaux différents et un séparateur humide.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "voltapile",
+    "state": 1,
+    "bad": [],
+    "caption": "Des étages orientés de la même façon peuvent additionner leurs tensions.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "voltapile",
+    "state": 2,
+    "bad": [],
+    "caption": "Dans le circuit fermé, les transformations chimiques entretiennent un courant.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "fuelcell",
+    "state": 0,
+    "bad": [],
+    "caption": "Une pile PEM reçoit de l’hydrogène à l’anode et de l’oxygène à la cathode.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "fuelcell",
+    "state": 1,
+    "bad": [],
+    "caption": "Les protons traversent la membrane tandis que les électrons passent par le circuit extérieur.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "fuelcell",
+    "state": 2,
+    "bad": [],
+    "caption": "À la cathode, protons, électrons et oxygène réagissent pour former de l’eau et libérer de la chaleur.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "gridcascade",
+    "state": 0,
+    "bad": [],
+    "caption": "Dans ce réseau fictif, deux liaisons peuvent desservir des consommateurs.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "gridcascade",
+    "state": 1,
+    "bad": [],
+    "caption": "La perte d’une liaison reporte des contraintes sur les liaisons restées en service.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "gridcascade",
+    "state": 2,
+    "bad": [],
+    "caption": "Une coupure sélective peut réduire la demande à alimenter et préserver une partie du réseau.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "fission",
+    "state": 0,
+    "bad": [],
+    "caption": "Un neutron peut déclencher la fission d’un noyau fissile comme l’uranium 235.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "fission",
+    "state": 1,
+    "bad": [],
+    "caption": "La fission produit des fragments et des neutrons qui peuvent entretenir une réaction en chaîne.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "fission",
+    "state": 2,
+    "bad": [],
+    "caption": "Dans cet exemple à eau pressurisée, un circuit primaire chauffe un circuit vapeur séparé.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "demandshift",
+    "state": 0,
+    "bad": [],
+    "caption": "Dans cet exemple fictif, un chauffe-eau augmente l’énergie consommée dans le créneau du soir.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "demandshift",
+    "state": 1,
+    "bad": [],
+    "caption": "Un système de commande peut proposer un autre créneau compatible avec le service attendu.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "demandshift",
+    "state": 2,
+    "bad": [],
+    "caption": "Le même apport d’énergie est déplacé vers le milieu de journée dans cet exemple.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "agrivoltaic",
+    "state": 0,
+    "bad": [],
+    "caption": "Des panneaux surélevés produisent de l’électricité au-dessus d’une culture.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "agrivoltaic",
+    "state": 1,
+    "bad": [],
+    "caption": "L’ombre change la lumière reçue par les plantes et le sol.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "agrivoltaic",
+    "state": 2,
+    "bad": [],
+    "caption": "L’écartement et l’orientation déterminent la répartition entre zones éclairées et ombragées.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "compressedair",
+    "state": 0,
+    "bad": [],
+    "caption": "Une machine alimentée en électricité comprime de l’air vers un volume de stockage.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "compressedair",
+    "state": 1,
+    "bad": [],
+    "caption": "Dans la variante adiabatique montrée, un stockage thermique conserve une partie de la chaleur de compression.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "compressedair",
+    "state": 2,
+    "bad": [],
+    "caption": "La chaleur récupérée peut réchauffer l’air avant sa détente dans une machine entraînant un alternateur.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "gridbattery",
+    "state": 0,
+    "bad": [],
+    "caption": "Une batterie raccordée par un convertisseur peut absorber de l’énergie du réseau.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "gridbattery",
+    "state": 1,
+    "bad": [],
+    "caption": "Le convertisseur peut restituer de la puissance depuis la batterie.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "gridbattery",
+    "state": 2,
+    "bad": [],
+    "caption": "Une réserve fictive de 4 MWh pourrait fournir 2 MW pendant 2 h dans un calcul idéal.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "flowbattery",
+    "state": 0,
+    "bad": [],
+    "caption": "Deux circuits de liquide distincts traversent les deux côtés d’un empilement électrochimique.",
+    "frame": "0",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "flowbattery",
+    "state": 1,
+    "bad": [],
+    "caption": "À chimie comparable, davantage de liquide actif permet de stocker davantage d’énergie.",
+    "frame": "1",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  },
+  {
+    "id": "flowbattery",
+    "state": 2,
+    "bad": [],
+    "caption": "La taille et le nombre de cellules influencent la puissance disponible.",
+    "frame": "2",
+    "scroll": 1280,
+    "visibleFigures": 1,
+    "width": 1280
+  }
+]

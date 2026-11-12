@@ -1,3 +1,6 @@
+import { BATCH50_DIAGRAMS } from "./batch50";
+import { ENERGY29_DIAGRAMS } from "./energy29";
+import { RADIO_DIAGRAMS } from "./radio";
 import { AI_CONTEXT_DIAGRAMS } from "./ai-context";
 import { AI_USAGE_DIAGRAMS } from "./ai-usage";
 import { LEARNING_DIAGRAMS } from "./learning";
@@ -128,9 +131,95 @@ export type LessonDiagramKind =
   | "convolution"
   | "recurrent"
   | "expertinference"
-  | "diffusion";
+  | "diffusion"
+  | "broadcast"
+  | "shortwave"
+  | "crystalradio"
+  | "wirelessmorse"
+  | "colourtv"
+  | "rebound"
+  | "refinery"
+  | "nuclearwaste"
+  | "fusion"
+  | "csp"
+  | "duckcurve"
+  | "energychain"
+  | "watermill"
+  | "leadacid"
+  | "electrolyser"
+  | "insulation"
+  | "led"
+  | "cogeneration"
+  | "firewood"
+  | "glazing"
+  | "thermalmass"
+  | "standby"
+  | "pyrolysis"
+  | "windmill"
+  | "solaroven"
+  | "voltapile"
+  | "fuelcell"
+  | "gridcascade"
+  | "fission"
+  | "demandshift"
+  | "agrivoltaic"
+  | "compressedair"
+  | "gridbattery"
+  | "flowbattery"
+  | "newtonmotion"
+  | "energyball"
+  | "heatpaths"
+  | "magnetdomains"
+  | "transformercoil"
+  | "rainbowdrop"
+  | "skyscatter"
+  | "microwavefood"
+  | "lakeice"
+  | "saltdissolve"
+  | "desalination"
+  | "compostlife"
+  | "paperloop"
+  | "mangroveroots"
+  | "citycanopy"
+  | "ozonecycle"
+  | "algaebloom"
+  | "rainharvest"
+  | "hedgerows"
+  | "wormsoil"
+  | "graftunion"
+  | "croprotation"
+  | "rootnodules"
+  | "biocontrol"
+  | "dripwater"
+  | "mulchsoil"
+  | "seedvault"
+  | "insulinmicrobe"
+  | "washenzyme"
+  | "quorumlight"
+  | "weaveloom"
+  | "foundrycast"
+  | "steeltemper"
+  | "catalystpath"
+  | "rubberlinks"
+  | "thermoplastic"
+  | "lathemill"
+  | "printlayers"
+  | "rebarbeam"
+  | "fatiguecrack"
+  | "rooftruss"
+  | "claybrick"
+  | "aqueductslope"
+  | "baseisolation"
+  | "quadcopter"
+  | "lidarmap"
+  | "motortorque"
+  | "elasticplastic"
+  | "wheatflour"
+  | "yogurtculture";
 export type LessonDiagramStep = { label: string; caption: string; detail: string };
 export type LessonDiagramSpec = {
+  /** Taller scenes keep their labels full size on narrow screens. */
+  canvasHeight?: 230;
   id: LessonDiagramKind;
   title: string;
   paths: string[];
@@ -143,7 +232,6 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
     id: "lift",
     title: "L’aile et l’air qui la contourne",
     paths: [
-      "/aeronautique/aerodynamique/portance/physique-portance-aerodynamique",
       "/aeronautique/aerodynamique/portance/pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air",
       "/aeronautique/aerodynamique/portance/decrochage-aerodynamique",
     ],
@@ -180,7 +268,6 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
     paths: [
       "/aeronautique/propulsion/turboreacteurs/fonctionnement-turboreacteur",
       "/aeronautique/propulsion/turboreacteurs/taux-de-dilution-turboreacteurs",
-      "/aeronautique/propulsion/turboreacteurs/le-turboreacteur-a-double-flux-principe-de-fonctionnement",
     ],
     steps: [
       {
@@ -447,7 +534,6 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
     id: "induction",
     title: "Faire varier le champ dans une bobine",
     paths: [
-      "/energie/reseaux-et-stockage/reseaux-electriques/produire-electricite-avec-aimant",
       "/sciences-fondamentales/physique/electromagnetisme/comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite",
     ],
     steps: [
@@ -618,7 +704,6 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
     id: "orbit",
     title: "Tomber en avançant",
     paths: [
-      "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/mettre-un-objet-en-orbite",
       "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/comment-une-fusee-fait-elle-pour-rester-en-orbite-autour-de-la-terre",
       "/espace-et-astronomie/exploration-spatiale/vols-habites/pourquoi-les-astronautes-flottent-ils-dans-la-station-spatiale",
     ],
@@ -1048,9 +1133,7 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
   {
     id: "arch",
     title: "Les pierres se poussent, les appuis résistent",
-    paths: [
-      "/arts-et-culture/patrimoine/architecture/comment-un-arc-en-pierre-tient-il-debout-grace-a-son-propre-poids",
-    ],
+    paths: ["/technologies-et-ingenierie/genie-civil/structures/arc-voute"],
     steps: [
       {
         label: "Construire sur un cintre",
@@ -1347,6 +1430,9 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
   ...LEARNING_DIAGRAMS,
   ...AI_USAGE_DIAGRAMS,
   ...AI_CONTEXT_DIAGRAMS,
+  ...RADIO_DIAGRAMS,
+  ...BATCH50_DIAGRAMS,
+  ...ENERGY29_DIAGRAMS,
 ];
 const BY_PATH = new Map(
   LESSON_DIAGRAMS.flatMap((spec) => spec.paths.map((path) => [path, spec] as const)),

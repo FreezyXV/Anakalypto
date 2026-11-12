@@ -234,6 +234,20 @@ quiz:
     explanation: >
       La définition adoptée en 2006 comporte trois critères. Pluton remplit les deux premiers
       mais partage son orbite avec de nombreux objets de la ceinture de Kuiper.
+  - question: "Pourquoi dit-on que les planètes géantes n'ont pas de surface sur laquelle se poser ?"
+    options:
+      - "Parce qu'elles sont entièrement recouvertes de glace fragile"
+      - "Parce que le gaz devient simplement de plus en plus dense en descendant"
+      - "Parce qu'elles tournent trop vite sur elles-mêmes"
+    answer: 2
+    explanation: "Ces planètes sont gazeuses : en descendant, le gaz devient de plus en plus dense, sans surface solide."
+  - question: "Que suggèrent les modèles à propos de la position des planètes géantes ?"
+    options:
+      - "Qu'elles se sont formées exactement là où elles se trouvent"
+      - "Qu'elles ont été capturées après leur formation ailleurs dans la galaxie"
+      - "Qu'elles ne se sont pas formées là où elles sont aujourd'hui et auraient migré"
+    answer: 3
+    explanation: "Cette migration aurait bouleversé le Système solaire primitif et expliquerait plusieurs observations, dont la répartition des astéroïdes."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -295,8 +309,22 @@ plusieurs observations, dont la répartition des astéroïdes.
 - Jupiter contient plus de masse que toutes les autres planètes réunies.
 - Pluton n'est plus une planète car elle n'a pas nettoyé son orbite.
 
-[Emplacement image : les huit planètes à l'échelle et leurs distances relatives, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les deux familles de planètes
+legende: La limite des glaces explique cette séparation.
+colonnes:
+  - titre: Rocheuses
+    icone: globe
+    points:
+      - Mercure, Vénus, Terre, Mars
+      - Près du Soleil
+  - titre: Géantes
+    icone: planet
+    points:
+      - Jupiter, Saturne, Uranus, Neptune
+      - Jupiter pèse plus que toutes les autres réunies
+```
 
 ---
 
@@ -339,6 +367,20 @@ quiz:
     explanation: >
       Il y a un bourrelet d'eau du côté de la Lune et un autre du côté opposé. La Terre
       tournant sous ces deux bourrelets, une côte en traverse deux par jour.
+  - question: "Quelles observations soutiennent le scénario d'une collision géante à l'origine de la Lune ?"
+    options:
+      - "Des roches lunaires proches du manteau terrestre et une Lune pauvre en fer"
+      - "Une Lune plus lourde que la Terre"
+      - "Des cratères identiques sur les deux astres"
+    answer: 1
+    explanation: "La composition des roches rapportées par Apollo est proche du manteau terrestre, et la pauvreté en fer s'explique par une formation à partir des couches externes."
+  - question: "Pourquoi les grandes marées se produisent-elles quand Soleil, Terre et Lune sont alignés ?"
+    options:
+      - "Parce que le Soleil annule l'attraction de la Lune"
+      - "Parce que la Lune est alors plus proche de la Terre"
+      - "Parce que les effets de marée du Soleil et de la Lune s'ajoutent"
+    answer: 3
+    explanation: "Le Soleil produit le même effet que la Lune, en plus faible : alignés, les deux effets s'ajoutent."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -403,8 +445,18 @@ tandis que la rotation de la Terre ralentit très légèrement.
 - La rotation synchrone fait qu'on voit toujours la même face.
 - La Lune stabilise l'axe de rotation terrestre et s'éloigne de quelques centimètres par an.
 
-[Emplacement image : formation des marées et position des bourrelets océaniques, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: La naissance de la Lune
+legende: Scénario d’impact géant dominant ; les détails de la formation de la Lune restent étudiés.
+type: etapes
+elements:
+  - titre: Collision géante
+    texte: Un corps de la taille de Mars percute la jeune Terre.
+  - titre: Débris en orbite
+  - titre: La Lune se forme
+  - titre: Rotation synchrone
+    texte: Elle nous montre toujours la même face.
+```
 
 ---
 
@@ -448,6 +500,20 @@ quiz:
     explanation: >
       La grande majorité des objets se désintègrent entièrement dans l'atmosphère. Seuls les
       plus résistants laissent un fragment au sol.
+  - question: "Pourquoi la ceinture d'astéroïdes ne s'est-elle jamais rassemblée en planète ?"
+    options:
+      - "Parce que les astéroïdes sont trop éloignés les uns des autres pour exercer une gravité"
+      - "Parce que la gravité de Jupiter perturbait sans cesse les trajectoires"
+      - "Parce que le Soleil les repoussait par son rayonnement"
+    answer: 2
+    explanation: "Selon le texte, la gravité de Jupiter perturbait sans cesse les trajectoires, ce qui a empêché la formation d'une planète."
+  - question: "Pourquoi la queue d'une comète pointe-t-elle toujours à l'opposé du Soleil ?"
+    options:
+      - "Elle est poussée par le vent solaire et la pression du rayonnement"
+      - "Elle est attirée par la gravité des planètes"
+      - "Elle suit le sens de rotation de la comète"
+    answer: 1
+    explanation: "La queue ne traîne pas derrière la comète : elle est poussée par le vent solaire et la pression du rayonnement, donc au retour la comète poursuit sa queue."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -518,8 +584,17 @@ qu'il est possible de dévier légèrement la trajectoire d'un astéroïde en le
 - Le météore est la traînée lumineuse, la météorite le fragment tombé au sol.
 - Une mission a démontré la possibilité de dévier un astéroïde.
 
-[Emplacement image : structure d'une comète et orientation de ses queues, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Météore ou météorite
+colonnes:
+  - titre: Météore
+    points:
+      - La traînée lumineuse dans le ciel
+  - titre: Météorite
+    points:
+      - Le fragment qui atteint le sol
+```
 
 ---
 
@@ -562,6 +637,20 @@ quiz:
       C'est contre-intuitif. Une étoile très massive a plus de combustible mais le consomme
       des milliers de fois plus vite. Les petites étoiles rouges peuvent briller des dizaines
       de milliards d'années.
+  - question: "Pourquoi une étoile très massive vit-elle moins longtemps qu'une petite étoile, malgré plus de combustible ?"
+    options:
+      - "Parce qu'elle contient moins d'hydrogène que les petites étoiles"
+      - "Parce qu'elle explose dès sa naissance"
+      - "Parce que sa gravité comprime tellement son cœur qu'elle consomme son combustible bien plus vite"
+    answer: 3
+    explanation: "Une étoile dix fois plus massive que le Soleil consomme son combustible des milliers de fois plus vite et ne vit que quelques millions d'années."
+  - question: "Pourquoi une étoile très massive explose-t-elle en supernova une fois son cœur arrivé au fer ?"
+    options:
+      - "Parce que la fusion du fer cesse de libérer de l'énergie, et le cœur s'effondre"
+      - "Parce que le fer est radioactif et se désintègre brutalement"
+      - "Parce que l'étoile n'a plus assez de masse pour tenir"
+    answer: 1
+    explanation: "La fusion du fer ne libère plus d'énergie : l'équilibre est rompu, le cœur s'effondre en une fraction de seconde et l'étoile explose."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -625,8 +714,21 @@ sang : tous ont été fabriqués dans des étoiles mortes avant la naissance du 
 - Une étoile comme le Soleil finira en naine blanche, une étoile massive en supernova.
 - Les éléments dont nous sommes faits ont été fabriqués dans des étoiles.
 
-[Emplacement image : cycle de vie d'une étoile selon sa masse initiale, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: La fin d'une étoile selon sa masse
+legende: Grandes voies simplifiées ; masse et conditions de l’étoile déterminent l’issue exacte.
+type: comparaison
+colonnes:
+  - titre: Comme le Soleil
+    icone: sun
+    points:
+      - Finit en naine blanche
+  - titre: Très massive
+    icone: star
+    points:
+      - Explose en supernova
+      - Laisse une étoile à neutrons ou un trou noir
+```
 
 ---
 
@@ -670,6 +772,20 @@ quiz:
     explanation: >
       Les détecteurs mesurent la longueur de bras de plusieurs kilomètres avec une précision
       inouïe. Un camion qui passe à des kilomètres suffit à perturber la mesure.
+  - question: "Comment un détecteur à deux bras repère-t-il une onde gravitationnelle ?"
+    options:
+      - "Il mesure la chaleur dégagée par la collision"
+      - "L'onde allonge un bras et raccourcit l'autre, ce qui change la figure d'interférence des faisceaux laser"
+      - "Il capte directement un rayonnement lumineux venu de l'espace"
+    answer: 2
+    explanation: "Les deux faisceaux laser se recombinent de façon prévisible ; le passage d'une onde modifie la longueur des bras et donc la figure d'interférence."
+  - question: "Pourquoi la détection du 17 août 2017 a-t-elle été un moment marquant ?"
+    options:
+      - "Elle a prouvé que les ondes gravitationnelles sont de la lumière"
+      - "Elle a permis de voir un trou noir sans aucun instrument"
+      - "Le même événement a été observé par deux messagers, confirmant que ces collisions fabriquent des éléments lourds dont l'or"
+    answer: 3
+    explanation: "La fusion de deux étoiles à neutrons a été détectée par ondes gravitationnelles et par des télescopes classiques."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -733,8 +849,17 @@ partie des éléments lourds de l'Univers, dont l'or.
 - La déformation mesurée est inférieure à la taille d'un proton sur plusieurs kilomètres.
 - Elles révèlent des objets qui n'émettent aucune lumière.
 
-[Emplacement image : principe d'un détecteur interférométrique d'ondes gravitationnelles, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: Les ondes gravitationnelles
+evenements:
+  - date: 1916
+    titre: Prédiction d'Einstein
+  - date: 2015
+    titre: Première détection
+  - date: Mai 2026
+    titre: 390 événements au catalogue
+```
 
 ---
 
@@ -776,6 +901,20 @@ quiz:
     explanation: >
       Ce n'est pas une surface matérielle mais une frontière géométrique. Franchie, aucune
       trajectoire ne ramène vers l'extérieur.
+  - question: "Comment a-t-on établi l'existence du trou noir au centre de notre galaxie, alors qu'il n'émet rien ?"
+    options:
+      - "En suivant pendant des années les orbites d'étoiles autour d'un point invisible pour calculer la masse présente"
+      - "En photographiant sa surface solide avec un télescope"
+      - "En mesurant la lumière qu'il émet vers la Terre"
+    answer: 1
+    explanation: "Les orbites des étoiles voisines permettent de calculer la masse qui se trouve au centre, invisible."
+  - question: "Pourquoi ce qui se passe au centre d'un trou noir reste-t-il inconnu ?"
+    options:
+      - "Parce qu'aucun télescope n'est assez grand pour l'observer"
+      - "Parce que les équations de la relativité générale y donnent des valeurs infinies, signe que la théorie atteint sa limite"
+      - "Parce que le centre est trop chaud pour être étudié"
+    answer: 2
+    explanation: "Décrire le centre demanderait de concilier relativité générale et mécanique quantique, ce que personne n'a encore réussi."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -841,8 +980,18 @@ quantique, ce que personne n'a encore réussi.
 - Trous noirs stellaires et supermassifs ont des origines différentes.
 - Ce qui se passe au centre dépasse les théories actuelles.
 
-[Emplacement image : structure d'un trou noir avec horizon et disque d'accrétion, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux familles de trous noirs
+colonnes:
+  - titre: Stellaires
+    points:
+      - Nés de l'effondrement d'étoiles massives
+  - titre: Supermassifs
+    points:
+      - Au centre des galaxies
+      - Origine encore discutée
+```
 
 ---
 
@@ -884,6 +1033,20 @@ quiz:
     explanation: >
       Au point de Lagrange L2, le Soleil, la Terre et la Lune sont tous dans la même direction.
       Un seul bouclier suffit donc à protéger le télescope de leurs trois sources de chaleur.
+  - question: "Pourquoi un seul pare-soleil suffit-il à protéger Webb au point L2 ?"
+    options:
+      - "Parce que Webb y est à l'ombre de Jupiter"
+      - "Parce que la Lune et la Terre y sont trop loin pour émettre de chaleur"
+      - "Parce que le Soleil, la Terre et la Lune s'y trouvent tous dans la même direction"
+    answer: 3
+    explanation: "Cette géométrie permet à un unique pare-soleil de faire écran aux trois sources de chaleur."
+  - question: "Pourquoi Webb doit-il rester très froid ?"
+    options:
+      - "Parce qu'observer l'infrarouge, c'est observer la chaleur, et un télescope tiède serait aveuglé par son propre rayonnement"
+      - "Parce que le froid rend le miroir plus léger"
+      - "Parce que l'or du miroir fond à température ambiante"
+    answer: 1
+    explanation: "Un télescope tiède émettrait lui-même de l'infrarouge et noierait les signaux faibles qu'il cherche à capter."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -942,8 +1105,17 @@ l'infrarouge traverse.
 - Un seul pare-soleil protège des trois sources de chaleur.
 - La face froide est maintenue autour de moins 233 degrés.
 
-[Emplacement image : le télescope Webb déplié avec son pare-soleil, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+titre: Le télescope James Webb
+type: chiffres
+chiffres:
+  - valeur: 6,5 m
+    texte: de miroir, en 18 segments plaqués or
+  - valeur: 1,5 million de km
+    texte: de la Terre environ, en orbite autour de la région de L2
+  - valeur: 1 pare-soleil
+    texte: contre trois sources de chaleur
+```
 
 ---
 
@@ -987,6 +1159,20 @@ quiz:
     explanation: >
       La lumière visible, de plus courte longueur d'onde, se heurte aux grains et se disperse.
       L'infrarouge passe, ce qui dévoile les étoiles en formation à l'intérieur des nuages.
+  - question: "Pourquoi les observations infrarouges se font-elles de préférence depuis l'espace ?"
+    options:
+      - "Parce que l'infrarouge ne se propage pas dans l'air"
+      - "Parce que l'atmosphère absorbe une grande partie de l'infrarouge et en émet elle-même"
+      - "Parce que les nuages bloquent toutes les ondes"
+    answer: 2
+    explanation: "La vapeur d'eau absorbe l'infrarouge, et l'atmosphère tiède rayonne elle-même en infrarouge, ce qui brouille les observations au sol."
+  - question: "Pourquoi planètes et disques de poussière n'apparaissent-ils qu'en infrarouge ?"
+    options:
+      - "Parce qu'ils sont trop lointains pour émettre du visible"
+      - "Parce que la poussière absorbe tout autre type de lumière"
+      - "Parce que les objets tièdes ou froids émettent surtout en infrarouge"
+    answer: 3
+    explanation: "Un corps rayonne selon sa température : seuls les objets très chauds brillent en lumière visible."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1053,8 +1239,17 @@ traversent presque tout, et les ondes gravitationnelles.
 - L'expansion de l'Univers étire la lumière ancienne vers l'infrarouge.
 - L'atmosphère absorbe et émet de l'infrarouge, d'où l'intérêt d'observer depuis l'espace.
 
-[Emplacement image : le spectre électromagnétique et ce que chaque gamme révèle, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce que montre l'infrarouge
+centre: Infrarouge
+icone: telescope
+parties:
+  - nom: À travers la poussière
+  - nom: Les objets froids
+  - nom: Les galaxies lointaines
+    role: Leur lumière est étirée vers le rouge par l'expansion.
+```
 
 ---
 
@@ -1097,6 +1292,20 @@ quiz:
     explanation: >
       L'atmosphère déforme la lumière en permanence, ce qui fait scintiller les étoiles. Un
       miroir déformable corrige ces déformations en temps réel.
+  - question: "Que se passe-t-il quand on double le diamètre d'un miroir de télescope ?"
+    options:
+      - "Il collecte quatre fois plus de lumière"
+      - "Il collecte deux fois plus de lumière"
+      - "Il grossit quatre fois plus les objets"
+    answer: 1
+    explanation: "La lumière captée est proportionnelle à la surface du miroir, qui varie comme le carré du diamètre."
+  - question: "Comment un réseau de radiotélescopes répartis sur la Terre a-t-il pu photographier un trou noir ?"
+    options:
+      - "En utilisant un miroir unique de très grande taille"
+      - "En amplifiant la lumière de chaque télescope séparément"
+      - "En combinant leurs signaux, pour une résolution équivalente à un télescope aussi grand que la distance qui les sépare"
+    answer: 3
+    explanation: "C'est le principe de l'interférométrie : un télescope virtuel de la taille de la Terre."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1158,8 +1367,19 @@ radiotélescopes répartis sur toute la planète : un télescope virtuel de la t
 - L'optique adaptative corrige la turbulence atmosphérique en temps réel.
 - L'interférométrie combine plusieurs instruments pour gagner en résolution.
 
-[Emplacement image : principe de l'optique adaptative, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: barres
+titre: Lumière captée selon le diamètre du miroir
+legende: Doubler le diamètre quadruple la lumière captée.
+unite: ×
+valeurs:
+  - label: Diamètre de référence
+    valeur: 1
+  - label: Diamètre doublé
+    valeur: 4
+  - label: Diamètre triplé
+    valeur: 9
+```
 
 ---
 
@@ -1172,7 +1392,7 @@ summary: >
   Quatre astronautes, un survol de la face cachée, une dizaine de jours. Le premier vol habité
   au-delà de l'orbite terrestre depuis plus de cinquante ans.
 tags: [Artemis, Lune, vol-habite, NASA, Orion]
-relatedArticles: [la-lune-formation-et-marees, mettre-un-objet-en-orbite]
+relatedArticles: [la-lune-formation-et-marees, comment-une-fusee-fait-elle-pour-rester-en-orbite-autour-de-la-terre]
 sources:
   - title: "Artemis"
     url: "https://www.nasa.gov/humans-in-space/artemis/"
@@ -1202,6 +1422,20 @@ quiz:
     explanation: >
       Tout a été reconstruit : lanceur, vaisseau, combinaisons, procédures. Et les normes de
       sécurité acceptées aujourd'hui sont sans commune mesure avec celles des années 1960.
+  - question: "Pourquoi le retour depuis la Lune est-il plus violent qu'un retour d'orbite basse ?"
+    options:
+      - "Parce que la Lune attire le vaisseau vers elle"
+      - "Parce que le vaisseau arrive beaucoup plus vite et que le bouclier thermique subit des contraintes très supérieures"
+      - "Parce que le vaisseau revient sans parachute"
+    answer: 2
+    explanation: "La rentrée à grande vitesse est l'une des choses que la mission Artemis II doit valider avant tout alunissage."
+  - question: "Pourquoi le programme Artemis vise-t-il notamment les régions polaires de la Lune ?"
+    options:
+      - "Parce que de la glace d'eau pourrait y être piégée, fournissant de quoi boire, respirer et fabriquer du carburant"
+      - "Parce que la gravité y est plus faible qu'ailleurs"
+      - "Parce que ces régions reçoivent plus de soleil que les autres"
+    answer: 1
+    explanation: "Cette eau pourrait être séparée en hydrogène et oxygène, pour une présence durable."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1259,122 +1493,17 @@ La Lune servirait alors de terrain d'apprentissage pour des missions plus lointa
 - La mission valide surtout le vaisseau et la rentrée atmosphérique à grande vitesse.
 - Le programme vise une présence durable, notamment près des pôles lunaires.
 
-[Emplacement image : trajectoire d'Artemis II autour de la Lune, légende et texte alternatif à
-fournir ultérieurement.]
-
----
-
----
-type: article
-title: Comment on met un objet en orbite
-slug: mettre-un-objet-en-orbite
-categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
-summary: >
-  Être en orbite, ce n'est pas être loin de la Terre : c'est tomber en permanence en allant
-  assez vite pour rater le sol.
-tags: [orbite, fusee, vitesse, apesanteur, lanceur]
-relatedArticles: [artemis-ii-retour-vers-la-lune, constellations-satellites-orbite-basse]
-sources:
-  - title: "Orbits"
-    url: "https://science.nasa.gov/learn/basics-of-space-flight/"
-    publisher: "NASA"
-    date: "2025"
-  - title: "Orbit"
-    url: "https://www.britannica.com/science/orbit-astronomy"
-    publisher: "Encyclopaedia Britannica"
-    date: "2025"
-quiz:
-  - question: "Pourquoi les astronautes flottent-ils dans la Station spatiale ?"
-    options:
-      - "Parce qu'il n'y a pas de gravité à cette altitude"
-      - "Parce qu'ils sont en chute libre permanente autour de la Terre"
-      - "Parce que la station tourne sur elle-même"
-    answer: 2
-    explanation: >
-      À 400 kilomètres, la gravité vaut encore environ 90 % de celle du sol. Ils flottent parce
-      qu'ils tombent en même temps que la station, sans jamais atteindre le sol.
-  - question: "Qu'est-ce qui coûte le plus d'énergie pour mettre un satellite en orbite ?"
-    options:
-      - "Monter en altitude"
-      - "Atteindre la vitesse horizontale nécessaire, environ 28 000 km/h"
-      - "Traverser l'atmosphère"
-    answer: 2
-    explanation: >
-      Monter à 400 kilomètres est relativement peu coûteux. C'est la vitesse horizontale qui
-      demande l'essentiel de l'énergie, et donc du carburant.
-lastVerified: 2026-09-23
-status: published
----
-
-## En bref
-
-Il existe un malentendu très répandu : on croit qu'être en orbite consiste à être assez loin pour
-échapper à la gravité.
-
-C'est faux. À l'altitude de la Station spatiale internationale, environ 400 kilomètres, la gravité
-vaut encore près de 90 % de celle que vous ressentez au sol.
-
-Être en orbite, c'est tout autre chose.
-
-## Tomber sans jamais toucher le sol
-
-Newton proposait une expérience de pensée. Imaginez un canon au sommet d'une très haute montagne,
-tirant horizontalement.
-
-Avec peu de puissance, le boulet retombe assez près.
-
-Avec plus de puissance, il tombe plus loin.
-
-Avec encore plus, il tombe si loin que la Terre a commencé à se courber sous lui.
-
-Et à une certaine vitesse, la courbure de sa trajectoire de chute correspond exactement à la
-courbure de la Terre. Il tombe en permanence, mais le sol se dérobe aussi vite qu'il descend. Il
-ne touchera jamais.
-
-C'est cela, une orbite.
-
-Cette vitesse vaut environ 28 000 kilomètres par heure en orbite basse, soit près de 8 kilomètres
-par seconde.
-
-## Pourquoi les fusées s'inclinent
-
-Une fusée décolle verticalement, puis se couche rapidement.
-
-Ce n'est pas un défaut de pilotage. Monter en altitude est la partie facile. La partie coûteuse
-est d'acquérir cette énorme vitesse horizontale.
-
-La montée initiale sert surtout à sortir rapidement des couches d'air dense, où la résistance
-serait prohibitive à grande vitesse.
-
-## Pourquoi c'est si cher
-
-Une fusée doit emporter son carburant, mais aussi le comburant, l'oxygène, puisqu'il n'y en a pas
-dans l'espace.
-
-Et chaque kilogramme de carburant supplémentaire doit lui-même être accéléré, ce qui demande
-encore du carburant. Cette spirale explique qu'une fusée soit constituée à plus de 90 % de son
-poids en ergols au décollage.
-
-C'est aussi pourquoi les lanceurs sont à étages : on se débarrasse des réservoirs vides en cours
-de route plutôt que de continuer à les accélérer.
-
-## L'apesanteur expliquée
-
-Les astronautes flottent non parce que la gravité a disparu, mais parce qu'ils tombent en même
-temps que leur vaisseau, et à la même vitesse.
-
-C'est exactement la sensation d'un ascenseur dont le câble casserait — en permanence et sans
-conséquence.
-
-## À retenir
-
-- La gravité vaut encore 90 % de sa valeur au sol à 400 kilomètres d'altitude.
-- Être en orbite, c'est tomber en allant assez vite pour manquer le sol.
-- La vitesse orbitale basse avoisine 28 000 kilomètres par heure.
-- L'essentiel de l'énergie sert à la vitesse horizontale, pas à l'altitude.
-
-[Emplacement image : expérience de pensée du boulet de canon de Newton, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La mission Artemis II
+chiffres:
+  - valeur: 4
+    texte: astronautes
+  - valeur: 10 jours
+    texte: environ, avec un survol de la Lune
+  - valeur: "> 50 ans"
+    texte: depuis le dernier vol habité au-delà de l'orbite terrestre
+```
 
 ---
 
@@ -1604,6 +1733,20 @@ quiz:
     explanation: >
       Les Sumériens de Mésopotamie ont développé vers 3000 avant notre ère l'un des premiers
       calendriers lunaires formels, plus tard affiné par les Babyloniens.
+  - question: "Pourquoi un calendrier purement lunaire dérive-t-il par rapport aux saisons ?"
+    options:
+      - "Parce que la Lune s'éloigne de la Terre"
+      - "Parce que douze cycles lunaires font environ onze jours de moins qu'une année solaire"
+      - "Parce que les phases de la Lune sont irrégulières"
+    answer: 2
+    explanation: "Douze cycles lunaires totalisent environ 354 jours, d'où un décalage progressif avec les saisons."
+  - question: "Comment les calendriers lunisolaires évitent-ils cette dérive ?"
+    options:
+      - "En supprimant des jours à certains mois"
+      - "En se calant uniquement sur le Soleil"
+      - "En ajoutant occasionnellement un mois supplémentaire pour rester alignés avec les saisons"
+    answer: 3
+    explanation: "Ils suivent les mois lunaires tout en ajoutant un mois de temps en temps."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -1657,8 +1800,19 @@ les cycles de la Lune.
 - Le calendrier islamique et le Nouvel An lunaire asiatique restent basés sur les cycles de la
   Lune aujourd'hui.
 
-[Emplacement image : les différentes phases de la Lune sur un mois, du croissant à la pleine
-lune, légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Calendriers lunaires et lunisolaires
+type: comparaison
+colonnes:
+  - titre: Lunaire
+    icone: planet
+    points:
+      - Un cycle de lune d'environ 29,5 jours
+      - Douze cycles font une année plus courte
+  - titre: Lunisolaire
+    points:
+      - Ajoute des mois pour rattraper le Soleil
+```
 
 ---
 
@@ -1812,101 +1966,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-
----
-type: article
-title: Se repérer grâce aux étoiles
-slug: reperer-grace-etoiles
-categoryPath: espace-et-astronomie/astrophysique/etoiles
-summary: >
-  Étoile polaire, Croix du Sud, constellations : trouver le nord et l'heure la nuit.
-tags: [etoiles, navigation, orientation, essentiel-reconstruction]
-relatedArticles: [naviguer-sans-gps]
-sources:
-  - title: "The Southern Cross is your guide to due south"
-    url: "https://earthsky.org/favorite-star-patterns/how-to-use-southern-cross-to-find-south-celestial-pole/"
-    publisher: "EarthSky"
-    date: "2025"
-  - title: "Star Navigation Guide: How to Navigate by the Stars"
-    url: "https://replogleglobes.com/blog/star-navigation-guide-how-to-navigate-by-the-stars/"
-    publisher: "Replogle Globes"
-    date: "2025"
-quiz:
-  - question: "Pourquoi l'étoile polaire est-elle si utile pour trouver le nord dans l'hémisphère
-      nord ?"
-    options:
-      - "Elle est l'étoile la plus brillante du ciel nocturne"
-      - "Elle est située presque exactement au-dessus du pôle nord et reste donc fixe dans le
-        ciel"
-      - "Elle change de position chaque nuit de façon prévisible"
-    answer: 2
-    explanation: >
-      L'étoile polaire se trouve presque exactement dans l'alignement de l'axe de rotation de la
-      Terre, ce qui la fait apparaître pratiquement immobile dans le ciel tout au long de la nuit
-      et de l'année, contrairement aux autres étoiles.
-  - question: "Comment la Croix du Sud permet-elle de trouver le sud dans l'hémisphère sud ?"
-    options:
-      - "En suivant directement l'étoile la plus brillante de la constellation"
-      - "En prolongeant sa grande branche jusqu'à un point qui indique approximativement le pôle
-        céleste sud"
-      - "Elle n'indique aucune direction utile"
-    answer: 2
-    explanation: >
-      En prolongeant environ quatre fois et demie la longueur de sa branche la plus longue, on
-      obtient approximativement la position du pôle céleste sud, dont on peut ensuite se
-      repérer au sol.
-lastVerified: 2026-09-28
-status: published
----
-
-## En bref
-
-Bien avant la boussole et le GPS, les voyageurs se repéraient déjà grâce aux étoiles. Deux points
-de repère majeurs, l'étoile polaire dans l'hémisphère nord et la Croix du Sud dans l'hémisphère
-sud, permettent de retrouver une direction fiable dans l'obscurité.
-
-## L'étoile polaire, un repère presque immobile
-
-Dans l'hémisphère nord, l'étoile polaire se situe presque exactement dans l'alignement de l'axe de
-rotation terrestre. Contrairement aux autres étoiles qui semblent tourner dans le ciel au cours de
-la nuit, elle reste pratiquement immobile, ce qui en fait un repère fiable pour indiquer le nord.
-
-## Retrouver l'étoile polaire dans le ciel
-
-La Grande Ourse, une constellation facilement reconnaissable, aide à localiser l'étoile polaire :
-en prolongeant environ cinq fois la distance entre les deux étoiles formant le bord de sa
-casserole, on tombe directement sur elle.
-
-## La Croix du Sud pour l'hémisphère austral
-
-Dans l'hémisphère sud, où l'étoile polaire n'est pas visible, la constellation de la Croix du Sud
-joue un rôle équivalent. En prolongeant environ quatre fois et demie la longueur de sa branche la
-plus longue, on obtient approximativement la position du pôle céleste sud.
-
-## Estimer l'heure grâce aux étoiles
-
-Les constellations se déplacent régulièrement dans le ciel au fil de la nuit, à cause de la
-rotation de la Terre. Un observateur familier avec la position habituelle de certaines étoiles à
-une heure donnée peut estimer approximativement l'heure qu'il est, sans montre ni instrument.
-
-## Les limites de cette méthode
-
-Un ciel couvert de nuages rend cette technique inutilisable, et une identification erronée d'une
-constellation peut conduire à une estimation de direction complètement fausse. Ces méthodes
-restent néanmoins fiables et gratuites par ciel dégagé.
-
-## À retenir
-
-- L'étoile polaire, presque immobile dans le ciel, indique le nord dans l'hémisphère nord.
-- La Grande Ourse aide à localiser facilement l'étoile polaire dans le ciel nocturne.
-- La Croix du Sud joue un rôle équivalent pour indiquer le sud dans l'hémisphère austral.
-- La position des constellations au fil de la nuit permet d'estimer approximativement l'heure.
-- Un ciel couvert de nuages rend ces méthodes de repérage inutilisables.
-
-[Emplacement image : ciel nocturne montrant la Grande Ourse pointant vers l'étoile polaire,
-légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2564,6 +2623,20 @@ quiz:
       Le grossissement d'une lunette se calcule en divisant la distance focale de la lentille
       objective, qui capte la lumière, par celle de la lentille oculaire, à travers laquelle on
       observe.
+  - question: "Quel est le rôle de la lentille objective, par rapport à l'oculaire ?"
+    options:
+      - "Elle agrandit l'image que regarde l'observateur"
+      - "Elle protège l'oeil de la lumière trop vive"
+      - "Elle capte la lumière de l'objet et la fait converger, avant que l'oculaire n'agrandisse l'image"
+    answer: 3
+    explanation: "L'objective capte la lumière et la fait converger ; l'oculaire permet de regarder l'image agrandie."
+  - question: "Pourquoi la longueur du tube est-elle importante dans une lunette artisanale ?"
+    options:
+      - "Elle doit correspondre approximativement à la somme des deux distances focales, sinon l'image n'est pas nette"
+      - "Elle détermine uniquement la solidité de l'instrument"
+      - "Elle n'a d'importance que pour un instrument commercial"
+    answer: 1
+    explanation: "Un tube trop court ou trop long empêche d'obtenir une image nette, même avec de bonnes lentilles."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2616,8 +2689,19 @@ conditions.
 - Une lunette artisanale reste suffisante pour observer la Lune, Jupiter et Saturne dans de
   bonnes conditions.
 
-[Emplacement image : lunette astronomique artisanale faite de deux tubes de carton avec des
-lentilles fixées à chaque extrémité, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Une lunette de type Galilée
+centre: Lunette
+icone: telescope
+parties:
+  - nom: Objectif
+    role: La lentille avant.
+  - nom: Oculaire
+    role: La lentille de l'œil.
+  - nom: Deux tubes coulissants
+    role: Pour la mise au point.
+```
 
 ---
 
@@ -3341,6 +3425,9 @@ sources:
   - title: "Aurore polaire"
     url: "https://fr.wikipedia.org/wiki/Aurore_polaire"
     publisher: "Wikipédia"
+  - title: "Geomagnetic Storms"
+    url: "https://www.maine.gov/mema/maine-prepares/preparedness-library/geomagnetic-storms"
+    publisher: "Maine Emergency Management Agency"
 quiz:
   - question: "Qu'est-ce qui déclenche le plus souvent une forte tempête géomagnétique ?"
     options:
@@ -3412,6 +3499,24 @@ Les tempêtes créent aussi des courants électriques dans le sol et dans les lo
 En 1859, lors de la plus forte tempête connue, appelée événement de Carrington, des lignes de télégraphe sont tombées en panne. Certaines ont pris feu et des opérateurs ont reçu des décharges électriques.
 
 Aujourd'hui, les tempêtes peuvent aussi abîmer les satellites et brouiller les signaux du GPS. Les scientifiques les classent sur une échelle de G1, la plus faible, à G5, la plus forte.
+
+```schema
+titre: D'une éruption solaire aux aurores
+legende: >-
+  Une éjection dirigée vers la Terre peut produire une perturbation ; toutes ne provoquent ni forte
+  aurore ni panne.
+type: etapes
+elements:
+  - titre: Éjection
+    texte: Le Soleil lance un nuage de particules.
+    icone: sun
+  - titre: Voyage
+    texte: Quelques jours jusqu'à la Terre.
+  - titre: Bouclier secoué
+    texte: Le champ magnétique est perturbé.
+  - titre: Aurores et pannes
+    texte: Jusque loin des pôles.
+```
 
 ## À retenir
 
@@ -3558,18 +3663,158 @@ status: planned
 
 ---
 type: article
-title: L'etoile polaire et son role dans l'orientation
+title: L'étoile Polaire et l'orientation sans boussole
 slug: l-etoile-polaire-et-son-role-dans-l-orientation
 categoryPath: espace-et-astronomie/astrophysique/etoiles
 summary: >
-  Pourquoi cette etoile particuliere indique de maniere fiable le nord.
-tags: [etoiles, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'étoile Polaire indique le nord à moins d'un degré près. On la trouve grâce à la Grande Ourse.
+  Le jour, le Soleil et l'ombre d'un bâton donnent aussi les directions. Dans l'hémisphère Sud, la
+  Croix du Sud prend le relais.
+tags: [etoiles]
+relatedArticles: [lire-une-carte-topographique-principes-de-base, regle-des-trois-priorites-survie]
+sources:
+  - title: "Étoile polaire"
+    url: "https://fr.wikipedia.org/wiki/%C3%89toile_polaire"
+    publisher: "Wikipédia"
+  - title: "Polaris"
+    url: "https://en.wikipedia.org/wiki/Polaris"
+    publisher: "Wikipedia"
+  - title: "Croix du Sud"
+    url: "https://fr.wikipedia.org/wiki/Croix_du_Sud"
+    publisher: "Wikipédia"
+  - title: "Grande Ourse"
+    url: "https://fr.wikipedia.org/wiki/Grande_Ourse"
+    publisher: "Wikipédia"
+  - title: "EtoilePolaire enseignants"
+    url: "https://www.cite-sciences.fr/fileadmin/fileadmin_CSI/fichiers/vous-etes/enseignant/Documents-pedagogiques/_documents/Ressources-en-ligne/EtoilePolaire-enseignants.pdf"
+    publisher: "Cité des sciences et de l'industrie"
+  - title: "The Southern Cross is your guide to due south"
+    url: "https://earthsky.org/favorite-star-patterns/how-to-use-southern-cross-to-find-south-celestial-pole/"
+    publisher: "EarthSky"
+    date: "2025"
+  - title: "Star Navigation Guide: How to Navigate by the Stars"
+    url: "https://replogleglobes.com/blog/star-navigation-guide-how-to-navigate-by-the-stars/"
+    publisher: "Replogle Globes"
+    date: "2025"
+quiz:
+  - question: "Pourquoi l'étoile Polaire semble-t-elle immobile toute la nuit ?"
+    options:
+      - "Parce qu'elle se trouve presque exactement dans l'axe de rotation de la Terre, au-dessus du pôle Nord"
+      - "Parce qu'elle est la plus brillante"
+      - "Parce qu'elle est très proche de nous"
+    answer: 1
+    explanation: >
+      Toutes les étoiles semblent tourner autour d'elle au cours de la nuit, car la Terre tourne
+      sur un axe qui pointe vers elle.
+  - question: "Comment trouve-t-on l'étoile Polaire à partir de la Grande Ourse ?"
+    options:
+      - "En suivant le manche de la casserole"
+      - "En prolongeant environ cinq fois la distance entre les deux étoiles du bord de la casserole"
+      - "En regardant plein sud"
+    answer: 2
+    explanation: >
+      Les deux étoiles du bord extérieur de la casserole pointent vers la Polaire, une étoile
+      moyennement brillante.
+  - question: "Que nous apprend la hauteur de l'étoile Polaire au-dessus de l'horizon ?"
+    options:
+      - "L'heure exacte"
+      - "La date"
+      - "Notre latitude, à peu près"
+    answer: 3
+    explanation: >
+      À Paris, vers 49° de latitude nord, la Polaire est à environ 49° au-dessus de l'horizon. Au
+      pôle Nord, elle est au zénith ; à l'équateur, sur l'horizon.
+  - question: "Pourquoi la mousse sur les arbres ou l'orientation des églises sont-elles de mauvais repères pour s'orienter ?"
+    options:
+      - "Ces indices ne sont visibles que dans l'hémisphère Sud"
+      - "Ils dépendent de l'humidité, du relief et des traditions locales"
+      - "Ils changent de direction au fil des saisons"
+    answer: 2
+    explanation: "Ces indices varient selon l'humidité, le relief et les habitudes locales : ils sont donc trompeurs. Mieux vaut se fier au ciel, à une carte et à une boussole."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Toute la nuit, les étoiles semblent tourner lentement dans le ciel. L'une d'elles reste presque
+immobile : l'**étoile Polaire**. Elle se trouve, à moins d'un degré près, au-dessus du pôle Nord de la
+Terre. Se tourner vers elle, c'est regarder **vers le nord**. On la trouve facilement grâce à la
+**Grande Ourse**. Le jour, le **Soleil** et l'**ombre d'un bâton** donnent aussi les directions. Dans
+l'hémisphère Sud, où la Polaire est invisible, on utilise la **Croix du Sud**.
+
+## Pourquoi la Polaire indique le nord
+
+La Terre tourne sur elle-même autour d'un axe qui passe par les pôles. Vu de la Terre, le ciel semble
+tourner autour du prolongement de cet axe. Au nord, ce point est occupé, par chance, par une étoile
+assez brillante : la Polaire. Elle est le point fixe autour duquel tournent toutes les autres.
+
+Cette situation n'est pas éternelle : l'axe de la Terre décrit lentement un cercle en environ 26 000
+ans. Dans quelques milliers d'années, une autre étoile jouera ce rôle.
+
+## La trouver grâce à la Grande Ourse
+
+1. Repérer la **Grande Ourse**, sept étoiles brillantes en forme de **casserole**, visible toute
+   l'année depuis la France.
+2. Prendre les **deux étoiles du bord** de la casserole, opposées au manche.
+3. Prolonger la ligne qui les relie, vers le haut de la casserole, d'environ **cinq fois** leur
+   écartement.
+4. On tombe sur une étoile moyennement brillante, isolée : la **Polaire**. Elle est aussi au bout du
+   manche de la **Petite Ourse**, plus pâle.
+
+```schema
+titre: Trouver l'étoile Polaire
+legende: Repérage dans l’hémisphère Nord ; l’orientation de la casserole change au cours de la nuit.
+type: etapes
+elements:
+  - titre: Repérer la Grande Ourse
+    texte: Sept étoiles en forme de casserole.
+    icone: star
+  - titre: Prendre les deux étoiles du bord
+    texte: Celles opposées au manche.
+  - titre: Prolonger cinq fois
+    texte: Dans la suite des deux étoiles repères, du côté de Dubhe.
+  - titre: Trouver la Polaire
+    texte: Face à elle, on regarde le nord.
+```
+
+Face à la Polaire, on regarde vers le nord : le sud est dans le dos, l'est à droite, l'ouest à gauche.
+
+## Une indication de latitude
+
+La hauteur de la Polaire au-dessus de l'horizon est à peu près égale à la **latitude** de l'observateur.
+À Paris, vers 49° nord, elle est à environ 49° de hauteur. Au pôle Nord, elle serait juste au-dessus de
+la tête ; à l'équateur, sur l'horizon. Les navigateurs s'en sont servis pendant des siècles.
+
+## Dans l'hémisphère Sud
+
+La Polaire n'y est pas visible. On utilise la **Croix du Sud**, petite constellation de quatre étoiles
+brillantes. En prolongeant son grand axe d'environ **quatre fois et demie** sa longueur, on arrive près
+du pôle Sud céleste, qui n'est marqué par aucune étoile brillante. En dessous, sur l'horizon, se trouve
+le sud.
+
+## Le jour, avec le Soleil
+
+- **Le Soleil** se lève à peu près à l'est et se couche à peu près à l'ouest, avec un fort décalage
+  selon la saison. Dans l'hémisphère Nord, hors des tropiques, il est **plein sud** vers le milieu de la
+  journée solaire, vers 13 h en hiver et 14 h en été à l'heure légale française.
+- **La méthode du bâton** : on plante un bâton droit, on marque l'extrémité de son ombre, on attend
+  15 à 20 minutes et on marque la nouvelle extrémité. La ligne qui va de la première marque à la seconde
+  pointe à peu près vers **l'est**.
+
+## Les indices peu fiables
+
+La mousse sur les arbres, la forme des fourmilières ou l'orientation des églises sont des indices
+trompeurs : ils dépendent de l'humidité, du relief et des traditions locales. Mieux vaut s'en tenir au
+ciel, à une carte et à une boussole.
+
+## À retenir
+
+- L'étoile Polaire se trouve, à moins d'un degré près, au-dessus du pôle Nord : elle indique le nord.
+- On la trouve en prolongeant d'environ cinq fois les deux étoiles du bord de la Grande Ourse.
+- Sa hauteur au-dessus de l'horizon donne approximativement la latitude.
+- Dans l'hémisphère Sud, la Croix du Sud indique la direction du sud.
+- Le jour, la méthode de l'ombre d'un bâton donne l'axe est-ouest.
 
 ---
 type: article
@@ -4381,6 +4626,21 @@ En théorie, trois distances suffisent à fixer une position ; en pratique, un q
 ## Quelle précision
 
 Un récepteur grand public se situe en général à quelques mètres près ; les récepteurs les plus évolués descendent à quelques centimètres. Pendant longtemps, le signal civil a été volontairement dégradé ; l'accès sans restriction a ensuite été autorisé.
+
+```schema
+type: etapes
+titre: Comment le GPS calcule votre position
+elements:
+  - titre: Horloges atomiques
+    texte: Chaque satellite émet l'heure d'émission.
+    icone: satellite
+  - titre: Temps de voyage
+    texte: Le récepteur le mesure.
+  - titre: Distance
+    texte: Temps multiplié par la vitesse de la lumière.
+  - titre: Quatre satellites
+    texte: Pour la position et la correction de l'horloge.
+```
 
 ## À retenir
 
@@ -5322,6 +5582,24 @@ Un autre appareil, le réacteur de Sabatier, réutilise une partie de ce dioxyde
 
 Ce recyclage sera indispensable pour les futurs voyages vers la Lune ou Mars, trop loin pour être ravitaillés souvent.
 
+```schema
+titre: Recycler l’eau et produire de l’oxygène à bord
+legende: >-
+  Une grande partie de l’eau est récupérée, mais la station ne constitue pas une boucle parfaitement
+  fermée.
+type: systeme
+centre: Systèmes de vie à bord
+parties:
+  - nom: Eaux à traiter
+    role: Urine et humidité de l’air collectées.
+  - nom: Recyclage
+    role: L’eau est traitée et contrôlée pour être réutilisée.
+  - nom: Oxygène
+    role: Une partie de l’eau alimente un électrolyseur.
+  - nom: Appoints et pertes
+    role: Des réserves et ravitaillements restent nécessaires.
+```
+
 ## À retenir
 
 - Dans la Station spatiale, l'urine, la sueur et l'humidité de l'haleine sont recyclées en eau potable.
@@ -5462,6 +5740,21 @@ En revenant, l'astronaute doit tout réapprendre. Il a du mal à garder l'équil
 Sans pesanteur, la colonne vertébrale n'est plus tassée. En un mois, un astronaute grandit d'environ 2,5 centimètres. Il retrouve sa taille habituelle après son retour sur Terre.
 
 La vue peut aussi changer. Environ la moitié des astronautes de longues missions disent avoir eu des problèmes de vision de près ou de loin. Ces effets sont étudiés de près pour préparer les futurs voyages vers Mars.
+
+```schema
+type: systeme
+titre: Le corps en apesanteur
+centre: Astronaute
+parties:
+  - nom: Os
+    role: 1 à 1,5 % de densité perdue par mois.
+  - nom: Muscles
+    role: Deux heures de sport par jour au moins.
+  - nom: Sang
+    role: Il monte vers la tête.
+  - nom: Équilibre
+    role: Il se dérègle.
+```
 
 ## À retenir
 
@@ -6373,6 +6666,13 @@ sources:
   - title: "Light pollution"
     url: "https://en.wikipedia.org/wiki/Light_pollution"
     publisher: "Wikipedia"
+  - title: "New atlas describes light pollution's global impact"
+    url: "https://www.optica-opn.org/home/newsroom/2016/june/new_atlas_describes_light_pollution_s_global_impac"
+    publisher: "Optica"
+    date: "2016"
+  - title: "Suomi NPP data used to create world atlas of artificial sky brightness"
+    url: "https://scijinks.gov/news/suomi-npp-data-used-create-world-atlas-of-artificial-sky-brightness"
+    publisher: "NOAA SciJinks"
 quiz:
   - question: "Pourquoi le ciel des villes est-il clair la nuit ?"
     options:
@@ -6447,6 +6747,16 @@ Les bébés tortues marines naissent sur la plage et se dirigent vers la lueur l
 ## Des solutions simples
 
 On peut diriger la lumière vers le sol plutôt que vers le ciel. On peut aussi éteindre les lumières inutiles et choisir des éclairages moins forts. En France, un texte de 2018 limite l'éclairage nocturne des bâtiments.
+
+```schema
+type: chiffres
+titre: La pollution lumineuse
+chiffres:
+  - valeur: 1 tiers
+    texte: de l'humanité ne voit plus la Voie lactée, selon une étude de 2016
+  - valeur: 60 %
+    texte: des Européens dans ce cas
+```
 
 ## À retenir
 
@@ -6788,6 +7098,9 @@ sources:
   - title: "Lunar phase"
     url: "https://en.wikipedia.org/wiki/Lunar_phase"
     publisher: "Wikipedia"
+  - title: "PHASES, astronomie"
+    url: "https://www.universalis.fr/encyclopedie/phases-astronomie/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Combien de temps dure un cycle complet des phases de la Lune ?"
     options:
@@ -6863,6 +7176,16 @@ Quand la Lune est un fin croissant, on peut voir faiblement le reste de son disq
 
 La Lune montre toujours la même face à la Terre. C'est pourquoi on voit, d'un mois à l'autre, à peu près les mêmes taches sombres à chaque phase.
 
+```schema
+type: cycle
+titre: Les phases de la Lune
+elements:
+  - titre: Nouvelle Lune
+  - titre: Premier quartier
+  - titre: Pleine Lune
+  - titre: Dernier quartier
+```
+
 ## À retenir
 
 - La Lune ne produit pas de lumière : elle est éclairée par le Soleil.
@@ -6930,92 +7253,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-type: article
-title: Pourquoi la mer monte-t-elle et descend-elle deux fois par jour ?
-slug: pourquoi-la-mer-monte-t-elle-et-descend-elle-deux-fois-par-jour
-categoryPath: espace-et-astronomie/systeme-solaire/lune
-summary: >
-  L'attraction de la Lune, aidée par celle du Soleil, déforme l'eau des océans en deux bosses.
-  La Terre tourne à travers elles : on voit la mer monter et descendre.
-tags: [lune]
-sources:
-  - title: "Tides"
-    url: "https://science.nasa.gov/moon/tides/"
-    publisher: "NASA Science"
-  - title: "What are spring and neap tides?"
-    url: "https://oceanservice.noaa.gov/facts/springtide.html"
-    publisher: "NOAA, Service national de l'océan"
-  - title: "Marée"
-    url: "https://fr.wikipedia.org/wiki/Mar%C3%A9e"
-    publisher: "Wikipédia"
-  - title: "Tide"
-    url: "https://en.wikipedia.org/wiki/Tide"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Quelle est la cause principale des marées ?"
-    options:
-      - "L'attraction de la Lune"
-      - "Les vents"
-      - "Les courants de rivière"
-    answer: 1
-    explanation: >
-      L'attraction de la Lune est la cause principale des marées.
-  - question: "Combien de marées hautes la plupart des côtes connaissent-elles par jour ?"
-    options:
-      - "Deux"
-      - "Une"
-      - "Quatre"
-    answer: 1
-    explanation: >
-      En tournant, la Terre fait passer les côtes à travers ces deux renflements : la plupart
-      des rivages connaissent donc deux marées hautes et deux marées basses par jour.
-  - question: "Quand les marées de vive-eau ont-elles lieu ?"
-    options:
-      - "Aux quartiers de Lune"
-      - "À la pleine et à la nouvelle Lune"
-      - "Seulement au printemps"
-    answer: 2
-    explanation: >
-      Quand la Terre, la Lune et le Soleil sont alignés, à la pleine et à la nouvelle Lune,
-      leurs forces s'ajoutent : ce sont les marées de vive-eau, très marquées.
-  - question: "Pourquoi la Méditerranée a-t-elle de très faibles marées ?"
-    options:
-      - "La Lune ne l'attire pas"
-      - "Son eau est trop salée"
-      - "C'est une mer presque fermée"
-    answer: 3
-    explanation: >
-      L'amplitude varie selon la forme des côtes : les baies en entonnoir amplifient la marée,
-      alors que les mers fermées comme la Méditerranée en ont très peu.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-L'attraction de la Lune, aidée par celle du Soleil, déforme l'eau des océans en deux bosses. La Terre tourne à travers elles : on voit la mer monter et descendre.
-
-## Deux bosses d'eau
-
-L'attraction de la Lune est la cause principale des marées. L'eau forme un renflement du côté tourné vers la Lune et un autre du côté opposé. En tournant, la Terre fait passer les côtes à travers ces deux renflements : la plupart des rivages connaissent donc deux marées hautes et deux marées basses par jour. Entre deux marées hautes, il s'écoule un peu plus de douze heures.
-
-## Le Soleil donne un coup de main
-
-Le Soleil agit aussi, mais il est bien plus loin : sa force de marée est plus faible que celle de la Lune. Quand la Terre, la Lune et le Soleil sont alignés, à la pleine et à la nouvelle Lune, leurs forces s'ajoutent : ce sont les marées de vive-eau, très marquées. Quand le Soleil et la Lune forment un angle droit, vers les quartiers de Lune, leurs effets se compensent en partie : ce sont les marées de morte-eau, plus modérées. En anglais, la marée de vive-eau se dit « spring tide » : le mot vient de l'idée que la marée « jaillit » et n'a rien à voir avec la saison du printemps.
-
-## Pourquoi la marée varie d'un lieu à l'autre
-
-L'amplitude varie selon la forme des côtes : les baies en entonnoir amplifient la marée, alors que les mers fermées comme la Méditerranée en ont très peu.
-
-## À retenir
-
-- L'attraction de la Lune est la cause principale des marées.
-- L'eau forme un renflement du côté tourné vers la Lune et un autre du côté opposé.
-- La Terre tourne à travers deux renflements d'eau : la plupart des côtes ont deux marées hautes par jour.
-- Quand la Terre, la Lune et le Soleil sont alignés, leurs forces s'ajoutent : ce sont les marées de vive-eau.
-- Les baies en entonnoir amplifient la marée ; les mers fermées comme la Méditerranée en ont très peu.
 
 ---
 type: article
@@ -8204,6 +8441,12 @@ sources:
   - title: "Hubble's law"
     url: "https://en.wikipedia.org/wiki/Hubble%27s_law"
     publisher: "Wikipedia"
+  - title: "Hubble cosmological redshift"
+    url: "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift"
+    publisher: "NASA"
+  - title: "Cosmic Times, 1929 expanding universe"
+    url: "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/online_edition/1929/expanding.html"
+    publisher: "NASA Goddard Space Flight Center"
 quiz:
   - question: "Que montre la lumière des galaxies lointaines ?"
     options:
@@ -8274,6 +8517,20 @@ Avant ces découvertes, Albert Einstein pensait que l'Univers était immobile. I
 ## Une expansion qui accélère
 
 En 1998, deux équipes de chercheurs ont fait une découverte inattendue : l'expansion accélère. Pour l'expliquer, les scientifiques parlent d'une « énergie sombre », dont on ignore encore la nature. Des mesures publiées en 2024 et 2025 suggèrent que cette accélération pourrait varier dans le temps.
+
+```schema
+titre: La preuve de l'expansion
+legende: Expansion moyenne à grande échelle ; les mouvements locaux créent des exceptions.
+type: etapes
+elements:
+  - titre: Lumière décalée vers le rouge
+    texte: Les galaxies s'éloignent.
+  - titre: Loi de Hubble-Lemaître
+    texte: Plus elles sont loin, plus elles s'éloignent vite.
+  - titre: L'espace gonfle
+  - titre: Données complémentaires
+    texte: Des mesures de distance servent aussi à étudier l’accélération de l’expansion.
+```
 
 ## À retenir
 
@@ -9786,6 +10043,21 @@ Les sondes Voyager n'ont pas de panneaux solaires. Elles tirent leur électricit
 Chaque sonde emporte aussi un disque de cuivre doré de 30 centimètres. Il contient des salutations en 55 langues, 90 minutes de musique et 115 images de la Terre. C'est un message pour d'éventuels habitants d'autres mondes.
 
 En 1990, Voyager 1 s'est retournée pour photographier les planètes. Sur une image, la Terre n'est qu'un minuscule point bleu pâle.
+
+```schema
+type: frise
+titre: Le voyage des sondes Voyager
+evenements:
+  - date: 1977
+    titre: Lancement
+    texte: Vers les planètes géantes.
+  - date: Ensuite
+    titre: Uranus et Neptune
+    texte: Visitées seulement par Voyager 2.
+  - date: Plus tard
+    titre: Sortie de l'héliosphère
+    texte: La bulle créée par le vent solaire.
+```
 
 ## À retenir
 
@@ -11387,6 +11659,9 @@ sources:
   - title: "Comet tail"
     url: "https://en.wikipedia.org/wiki/Comet_tail"
     publisher: "Wikipedia"
+  - title: "Comets An overview"
+    url: "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Comets_An_overview"
+    publisher: "ESA"
 quiz:
   - question: "Dans quelle direction pointe la queue d'une comète ?"
     options:
@@ -11462,6 +11737,18 @@ La queue ne suit donc pas toujours la comète comme la traîne d'une robe. Quand
 Beaucoup de comètes viennent du nuage d'Oort, une région lointaine aux confins du Système solaire. D'autres, qui reviennent souvent, viennent de la ceinture de Kuiper, au-delà de Neptune.
 
 La comète de Halley revient environ tous les 76 ans. Son dernier passage date de 1986. Le prochain est attendu en 2061.
+
+```schema
+titre: Une comète près du Soleil
+type: etapes
+elements:
+  - titre: Noyau
+    texte: Glace et poussières.
+  - titre: Chevelure
+    texte: La glace se change en gaz.
+  - titre: Deux queues
+    texte: Queue ionique presque opposée au Soleil ; queue de poussières souvent courbée.
+```
 
 ## À retenir
 
@@ -11788,6 +12075,9 @@ sources:
   - title: "Atmosphere of Venus"
     url: "https://en.wikipedia.org/wiki/Atmosphere_of_Venus"
     publisher: "Wikipedia"
+  - title: "Vénus contre l'effet de serre"
+    url: "https://www.enseignementsup-recherche.gouv.fr/ressources-pedagogiques/notice/view/oai%253Auved.fr%253A2685.venus-contre-leffet-de-serre/lom/xml"
+    publisher: "Ministère de l'Enseignement supérieur et de la Recherche"
 quiz:
   - question: "De quel gaz l'atmosphère de Vénus est-elle surtout composée ?"
     options:
@@ -11859,6 +12149,16 @@ Vénus a presque la taille de la Terre : son diamètre vaut 95 % de celui de not
 Mais elle tourne très lentement sur elle-même, en 243 jours terrestres, et dans le sens inverse des autres planètes. Sur Vénus, le Soleil se lève à l'ouest.
 
 En 1970, la sonde soviétique Venera 7 a été la première à se poser en douceur sur une autre planète.
+
+```schema
+type: chiffres
+titre: Vénus
+chiffres:
+  - valeur: 460 °C
+    texte: au sol, environ
+  - valeur: 96,5 %
+    texte: de dioxyde de carbone dans l'atmosphère
+```
 
 ## À retenir
 
@@ -11985,6 +12285,16 @@ Les scientifiques ne sont pas encore d'accord. Une idée est qu'une lune se sera
 Leur âge fait aussi débat. Certaines études leur donnent seulement 100 à 400 millions d'années. D'autres, publiées en 2024, remettent en cause ce résultat.
 
 Les anneaux ne sont pas éternels. Des morceaux de glace tombent peu à peu dans l'atmosphère de Saturne. Selon une estimation, ils pourraient disparaître dans environ 300 millions d'années.
+
+```schema
+type: chiffres
+titre: Les anneaux de Saturne
+chiffres:
+  - valeur: Milliards
+    texte: de morceaux de glace et de roche en orbite
+  - valeur: 95 à 99 %
+    texte: de glace d'eau
+```
 
 ## À retenir
 
@@ -12195,8 +12505,9 @@ title: Retrouver l'heure avec le Soleil
 slug: retrouver-l-heure-avec-le-soleil
 categoryPath: espace-et-astronomie/observation-astronomique
 summary: >
-  Un cadran solaire donne l'heure grâce à l'ombre d'un style parallèle à l'axe de la Terre. Les
-  plus anciennes horloges à ombre connues datent d'Égypte, vers 1500 av. J.-C.
+  Un cadran solaire lit l'heure dans l'ombre d'un style parallèle à l'axe de la Terre. Pour
+  retrouver l'heure de la montre, il faut encore corriger l'équation du temps et la longitude du
+  lieu.
 tags: [cadran-solaire, mesure-du-temps, essentiel-reconstruction, reconstruction]
 sources:
   - title: "Sundial"
@@ -12208,6 +12519,9 @@ sources:
   - title: "Noon"
     url: "https://en.wikipedia.org/wiki/Noon"
     publisher: "Wikipedia"
+  - title: "Equation of Time charts and tables"
+    url: "https://sundialsoc.org.uk/making-sundials/equation-of-time-charts-tables/"
+    publisher: "British Sundial Society"
 quiz:
   - question: "Quelle est l'inclinaison du style d'un cadran solaire ?"
     options:
@@ -12244,7 +12558,7 @@ quiz:
     explanation: >
       Chaque degré de longitude d'écart avec le méridien du fuseau horaire décale l'heure
       solaire d'environ 4 minutes.
-lastVerified: 2026-09-29
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -12252,7 +12566,20 @@ status: published
 
 Un cadran solaire donne l'heure grâce à l'ombre d'un bâton, le style. Pour que le cadran soit précis, le style doit être parallèle à l'axe de rotation de la Terre : son inclinaison est égale à la latitude du lieu. Les plus anciennes horloges à ombre connues apparaissent en Égypte vers 1500 av. J.-C.
 
-[Emplacement image : curseur interactif « Inclinez le style selon votre latitude ». L'utilisateur fait glisser la latitude de 0° à 90° et voit l'inclinaison du style suivre la même valeur : 0° à l'équateur, 90° au pôle. Légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Lire l'heure avec une ombre
+legende: Le cadran et son style doivent être adaptés au lieu ; l’heure solaire diffère de l’heure légale.
+type: etapes
+elements:
+  - titre: Planter un style
+    texte: Incliné selon la latitude.
+  - titre: Observer l'ombre
+    icone: sun
+  - titre: Midi solaire
+    texte: 'Le Soleil passe au méridien local : l’heure indiquée est solaire.'
+  - titre: Corriger
+    texte: Pour retrouver l'heure légale.
+```
 
 ## L'ombre à midi
 
@@ -12264,15 +12591,23 @@ Le style du cadran doit être parallèle à l'axe de rotation de la Terre. Son i
 
 ## Deux corrections
 
-L'heure solaire s'écarte de l'heure des montres de jusqu'à environ un quart d'heure selon la saison : c'est l'équation du temps. Chaque degré de longitude d'écart avec le méridien du fuseau horaire décale en plus l'heure solaire d'environ 4 minutes.
+L'heure solaire s'écarte de l'heure des montres de jusqu'à environ un quart d'heure selon la saison : c'est l'équation du temps. Elle vient de l'inclinaison de l'axe de la Terre et de la forme elliptique de son orbite, qui font varier le rythme apparent du Soleil au fil de l'année.
+
+Chaque degré de longitude d'écart avec le méridien du fuseau horaire décale en plus l'heure solaire d'environ 4 minutes.
+
+## Lire l'heure de la montre
+
+Les sociétés de gnomonique publient des tableaux de l'équation du temps, en minutes, pour chaque jour. Si la valeur est positive, il faut l'ajouter à l'heure du cadran ; si elle est négative, il faut la retrancher. Une formule simple permet aussi de la calculer.
+
+Exemple : un cadran situé 5 degrés à l'ouest du méridien de son fuseau retarde de 20 minutes (5 fois 4). Si l'équation du temps vaut ce jour-là +10 minutes, l'heure de la montre est celle du cadran plus 30 minutes.
 
 ## Un savoir ancien
 
-Vers 1500 av. J.-C., les plus anciennes horloges à ombre connues apparaissent en Égypte. Au Ier siècle avant notre ère, Vitruve décrit une douzaine de styles de cadrans en usage autour de la Méditerranée.
+Vers 1500 av. J.-C., les plus anciennes horloges à ombre connues apparaissent en Égypte. Au Ier siècle avant notre ère, Vitruve recense les cadrans et horloges à ombre connus à son époque.
 
-## Avant de commencer
+## Essayer chez soi
 
-Il faut un bâton droit, un sol plat et une journée ensoleillée.
+Il faut un bâton droit, un sol plat et une journée ensoleillée. Marquer le bout de l'ombre à intervalles réguliers : le moment où elle est la plus courte est le midi solaire, qui ne tombe presque jamais à midi sur la montre.
 
 ## À retenir
 
@@ -12281,96 +12616,6 @@ Il faut un bâton droit, un sol plat et une journée ensoleillée.
 - L'inclinaison du style est égale à la latitude du lieu.
 - L'heure solaire s'écarte de l'heure des montres de jusqu'à environ un quart d'heure selon la saison.
 - Chaque degré de longitude d'écart avec le méridien du fuseau décale l'heure solaire d'environ 4 minutes.
-
----
-type: article
-title: Les marées et l'effet de la Lune sur les océans
-slug: les-marees-et-l-effet-de-la-lune-sur-les-oceans
-categoryPath: espace-et-astronomie/systeme-solaire/lune
-summary: >
-  La gravité de la Lune produit la force de marée. Un jour lunaire dure 24 h 50, et deux marées
-  hautes se succèdent à environ 12 h 25.
-tags: [lune, marees, gravite]
-sources:
-  - title: "Frequency of Tides - The Lunar Day"
-    url: "https://oceanservice.noaa.gov/education/tutorial_tides/tides05_lunarday.html"
-    publisher: "NOAA National Ocean Service"
-  - title: "How frequent are tides?"
-    url: "https://oceanservice.noaa.gov/facts/tidefrequency.html"
-    publisher: "NOAA National Ocean Service"
-  - title: "What Causes Tides?"
-    url: "https://www.nesdis.noaa.gov/about/k-12-education/oceans-coasts/what-causes-tides"
-    publisher: "NOAA NESDIS"
-  - title: "Tide"
-    url: "https://en.wikipedia.org/wiki/Tide"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Combien dure un jour lunaire ?"
-    options:
-      - "24 heures"
-      - "24 heures et 50 minutes"
-      - "25 heures et 50 minutes"
-    answer: 2
-    explanation: >
-      Un jour lunaire dure 24 heures et 50 minutes.
-  - question: "Combien de marées hautes par jour lunaire sur la plupart des côtes ?"
-    options:
-      - "Une"
-      - "Deux"
-      - "Quatre"
-    answer: 2
-    explanation: >
-      La plupart des côtes connaissent deux marées hautes et deux marées basses par jour
-      lunaire.
-  - question: "Quand a-t-on des marées de vives-eaux ?"
-    options:
-      - "À la pleine lune et à la nouvelle lune"
-      - "Au seul premier quartier"
-      - "Jamais en hiver"
-    answer: 1
-    explanation: >
-      Quand la Terre, la Lune et le Soleil sont alignés, à la pleine lune et à la nouvelle lune,
-      les effets se renforcent : ce sont les marées de vives-eaux.
-  - question: "Quelle baie est souvent citée pour avoir les plus hautes marées du monde ?"
-    options:
-      - "La baie de Fundy"
-      - "La mer Méditerranée"
-      - "La mer Morte"
-    answer: 1
-    explanation: >
-      La baie de Fundy est souvent citée comme ayant les plus hautes marées du monde.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-La gravité de la Lune produit la force de marée. Un jour lunaire dure 24 h 50, et deux marées hautes se succèdent à environ 12 h 25.
-
-## Deux marées hautes par jour
-
-La plupart des côtes connaissent deux marées hautes et deux marées basses par jour lunaire. Un jour lunaire dure 24 heures et 50 minutes, et deux marées hautes se succèdent à environ 12 heures et 25 minutes d'intervalle.
-
-## Pourquoi 24 h 50
-
-Le jour lunaire dépasse 24 heures de 50 minutes parce que la Lune tourne autour de la Terre dans le même sens que la rotation de la Terre : la Terre met 50 minutes de plus pour la « rattraper ».
-
-## La force de marée
-
-La gravité de la Lune produit la force de marée, une force qui vient des différences de gravité d'un point à l'autre de la Terre ; le Soleil y contribue, plus faiblement. Du côté tourné vers la Lune, la gravité est la plus forte et attire l'eau ; du côté opposé, elle est la plus faible et l'eau se renfle aussi.
-
-## Vives-eaux et mortes-eaux
-
-Quand la Terre, la Lune et le Soleil sont alignés, à la pleine lune et à la nouvelle lune, les effets se renforcent : ce sont les marées de vives-eaux. Quand ils s'opposent, ce sont les marées de mortes-eaux, inhabituellement faibles. La baie de Fundy est souvent citée comme ayant les plus hautes marées du monde.
-
-## À retenir
-
-- La gravité de la Lune produit la force de marée ; le Soleil y contribue, plus faiblement.
-- Du côté de la Lune, la gravité attire l'eau ; du côté opposé, elle est plus faible et l'eau se renfle aussi.
-- La plupart des côtes ont deux marées hautes et deux marées basses par jour lunaire.
-- Un jour lunaire dure 24 h 50 : la Terre doit « rattraper » la Lune, qui tourne dans le même sens.
-- À la pleine lune et à la nouvelle lune, Terre, Lune et Soleil alignés donnent les marées de vives-eaux.
-
 ---
 type: article
 title: Comment une fusée fait-elle pour rester en orbite autour de la Terre ?
@@ -12378,7 +12623,8 @@ slug: comment-une-fusee-fait-elle-pour-rester-en-orbite-autour-de-la-terre
 categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
 summary: >
   Pour rester en orbite, une fusée doit surtout prendre une grande vitesse sur le côté. Un
-  satellite tombe sans cesse vers la Terre, mais avance si vite qu'il la manque toujours.
+  satellite tombe sans cesse vers la Terre, mais avance si vite qu'il la manque toujours, à
+  environ 8 km/s.
 tags: [lanceurs-et-orbites]
 sources:
   - title: "Orbital spaceflight"
@@ -12390,6 +12636,17 @@ sources:
   - title: "Orbite terrestre basse"
     url: "https://fr.wikipedia.org/wiki/Orbite_terrestre_basse"
     publisher: "Wikipédia"
+  - title: "Motions of Satellites and Spacecraft (Astronomy, section 3.5)"
+    url: "https://openstax.org/books/astronomy/pages/3-5-motions-of-satellites-and-spacecraft"
+    publisher: "OpenStax (Université Rice)"
+  - title: "Orbits"
+    url: "https://science.nasa.gov/learn/basics-of-space-flight/"
+    publisher: "NASA"
+    date: "2025"
+  - title: "Orbit"
+    url: "https://www.britannica.com/science/orbit-astronomy"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
 quiz:
   - question: "Que doit surtout acquérir une fusée pour atteindre l'orbite ?"
     options:
@@ -12425,7 +12682,7 @@ quiz:
     answer: 1
     explanation: >
       Plusieurs étages sont nécessaires pour atteindre la vitesse requise.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -12437,6 +12694,14 @@ Pour rester en orbite, une fusée doit surtout prendre une grande vitesse sur le
 
 Pour atteindre l'orbite, une fusée doit surtout acquérir une très grande vitesse horizontale, et pas seulement monter en altitude. Un satellite en orbite tombe en permanence vers la Terre, mais comme il avance assez vite sur le côté, il ne la touche jamais. Si la vitesse est trop grande, l'objet s'échappe dans l'espace ; si elle est trop faible, la gravité le fait retomber.
 
+## Le canon de Newton
+
+Imaginons un canon tirant horizontalement depuis une très haute montagne, sans frottement de l'air. À faible vitesse, le boulet retombe près du canon. Plus il part vite, plus il va loin. À une vitesse suffisante, la courbure de la Terre fuit sous le boulet à mesure qu'il tombe : il garde la même hauteur et tourne autour de la planète. Un satellite fait exactement cela.
+
+## Des vitesses vertigineuses
+
+En orbite basse, la vitesse circulaire est d'environ 8 kilomètres par seconde, soit près de 29 000 km/h. À cette allure, un satellite fait le tour de la Terre en une heure et demie environ. Pour quitter définitivement la Terre, il faut atteindre environ 11 kilomètres par seconde : c'est la vitesse de libération.
+
 ## Un décollage en deux temps
 
 Une fusée décolle presque à la verticale, puis incline progressivement sa trajectoire pour accélérer à l'horizontale pendant quelques minutes, jusqu'à la vitesse orbitale. Plusieurs étages sont nécessaires pour atteindre la vitesse requise. Il faut aussi monter assez haut pour que le frottement de l'air devienne très faible.
@@ -12445,14 +12710,26 @@ Une fusée décolle presque à la verticale, puis incline progressivement sa tra
 
 L'orbite terrestre basse commence à la ligne de Kármán, à la limite de l'espace, et s'étend sur quelques milliers de kilomètres. Un tour complet en orbite basse dure environ 90 minutes. L'orbite basse accueille la Station spatiale internationale, des satellites d'observation et des constellations de télécommunications. La plupart des objets suivis en orbite basse sont des débris, pas des satellites en service.
 
+```schema
+type: etapes
+titre: Atteindre l'orbite
+elements:
+  - titre: Monter
+    texte: Traverser l'atmosphère.
+    icone: rocket
+  - titre: S'incliner
+  - titre: Accélérer à l'horizontale
+    texte: C'est l'essentiel de l'effort.
+  - titre: Tomber sans toucher le sol
+```
+
 ## À retenir
 
 - Pour atteindre l'orbite, une fusée doit surtout acquérir une très grande vitesse horizontale, et pas seulement monter en altitude.
 - Un satellite tombe sans cesse vers la Terre, mais il avance si vite sur le côté qu'il ne la touche jamais.
+- En orbite basse, la vitesse est d'environ 8 km/s ; la vitesse de libération est d'environ 11 km/s.
 - Une fusée décolle presque à la verticale, puis incline sa trajectoire et accélère à l'horizontale jusqu'à la vitesse orbitale.
 - Un tour complet en orbite basse dure environ 90 minutes.
-- L'orbite basse accueille la Station spatiale internationale, des satellites d'observation et des constellations de télécommunications.
-
 ---
 type: article
 title: Comment naît une étoile à partir d'un nuage de gaz ?
@@ -12473,6 +12750,9 @@ sources:
   - title: "Protostar"
     url: "https://en.wikipedia.org/wiki/Protostar"
     publisher: "Wikipedia"
+  - title: "Protostars"
+    url: "https://solarsystem.nasa.gov/genesismission/educate/kitchen/resource/factsheets/Protostars.pdf"
+    publisher: "NASA"
 quiz:
   - question: "Où naissent les étoiles ?"
     options:
@@ -12530,6 +12810,20 @@ Une protoétoile est une étoile très jeune qui accumule encore de la matière 
 
 Quand le cœur devient assez chaud, l'hydrogène commence à fusionner : la protoétoile devient une étoile de la séquence principale. Il faut une masse minimale pour allumer la fusion de l'hydrogène ; en dessous, l'objet devient une naine brune.
 
+```schema
+type: etapes
+titre: La naissance d'une étoile
+elements:
+  - titre: Nuage moléculaire
+    texte: Gaz et poussière.
+  - titre: Effondrement
+    texte: Sous l'effet de la gravité.
+  - titre: Protoétoile
+  - titre: Allumage
+    texte: La fusion démarre au cœur.
+    icone: star
+```
+
 ## À retenir
 
 - Les étoiles se forment dans de grands nuages de gaz et de poussière, les nuages moléculaires géants, sous l'effet de la gravité.
@@ -12558,6 +12852,9 @@ sources:
   - title: "Lunar eclipse"
     url: "https://en.wikipedia.org/wiki/Lunar_eclipse"
     publisher: "Wikipedia"
+  - title: "Les éclipses solaires"
+    url: "https://cnes.fr/dossiers/eclipses-solaires"
+    publisher: "CNES"
 quiz:
   - question: "Que se passe-t-il pendant une éclipse de Soleil ?"
     options:
@@ -12617,6 +12914,24 @@ Une éclipse de Soleil peut être totale, annulaire ou partielle. Dans une écli
 
 Regarder le Soleil pendant une éclipse est aussi dangereux qu'en temps normal, sauf pendant la brève totalité : il faut des filtres solaires certifiés ou une projection indirecte. Une éclipse de Lune se regarde sans protection, et elle est visible de toute la face nocturne de la Terre. Une éclipse totale de Soleil se produit quelque part sur Terre assez souvent, mais très rarement au même endroit.
 
+```schema
+titre: Deux éclipses
+legende: >-
+  L’orbite lunaire est inclinée : un alignement près d’un nœud est nécessaire, d’où l’absence
+  d’éclipse à chaque lunaison.
+type: comparaison
+colonnes:
+  - titre: Éclipse de Soleil
+    icone: sun
+    points:
+      - La Lune passe entre la Terre et le Soleil
+      - À la nouvelle Lune
+  - titre: Éclipse de Lune
+    points:
+      - La Terre passe entre le Soleil et la Lune
+      - À la pleine Lune
+```
+
 ## À retenir
 
 - Une éclipse de Soleil a lieu quand la Lune passe entre la Terre et le Soleil, à la nouvelle Lune.
@@ -12644,6 +12959,9 @@ sources:
   - title: "Weightlessness"
     url: "https://en.wikipedia.org/wiki/Weightlessness"
     publisher: "Wikipedia"
+  - title: "What happens to bones in space?"
+    url: "https://www.asc-csa.gc.ca/eng/astronauts/space-medicine/bones.asp"
+    publisher: "Agence spatiale canadienne"
 quiz:
   - question: "Pourquoi les astronautes flottent-ils dans la station ?"
     options:
@@ -12700,6 +13018,16 @@ Sans pesanteur, les liquides du corps se déplacent vers la tête, ce qui donne 
 ## Rester en forme
 
 Pour limiter ces effets, les astronautes de la station font de longues séances d'exercice chaque jour, avec un tapis de course et des appareils de musculation. Au retour sur Terre, les astronautes récupèrent en général la densité osseuse perdue.
+
+```schema
+type: etapes
+titre: Pourquoi on flotte en orbite
+elements:
+  - titre: La gravité est toujours là
+  - titre: Chute libre permanente
+    texte: Avec le vaisseau.
+  - titre: Sensation d'apesanteur
+```
 
 ## À retenir
 
@@ -12784,6 +13112,24 @@ Dans le Système solaire, la zone habitable englobe la Terre et Mars, mais pas V
 
 Être dans la zone habitable ne garantit pas que la planète soit habitable : l'atmosphère, la surface et la protection magnétique comptent aussi. Les planètes proches d'une naine rouge reçoivent des rayons X et ultraviolets très intenses, qui pourraient stériliser une vie naissante. Le concept suppose que la vie ressemble à celle de la Terre, ce qui laisse de côté d'autres possibilités, comme des océans sous la glace d'Europe.
 
+```schema
+titre: La zone habitable
+legende: >-
+  Modèle lié au rayonnement reçu ; pression, atmosphère et autres propriétés conditionnent l’eau
+  liquide en surface.
+type: comparaison
+colonnes:
+  - titre: Trop près
+    points:
+      - L'eau s'évapore
+  - titre: Zone habitable
+    points:
+      - L'eau peut rester liquide en surface
+  - titre: Trop loin
+    points:
+      - L'eau gèle
+```
+
 ## À retenir
 
 - La zone habitable est la région autour d'une étoile où l'eau pourrait exister à l'état liquide à la surface d'une planète.
@@ -12811,6 +13157,10 @@ sources:
   - title: "Galaxy cluster"
     url: "https://en.wikipedia.org/wiki/Galaxy_cluster"
     publisher: "Wikipedia"
+  - title: "Gravitational lensing in the galaxy cluster Abell 370"
+    url: "https://www.esa.int/ESA_Multimedia/Images/2009/09/Gravitational_lensing_in_the_galaxy_cluster_Abell_370"
+    publisher: "ESA"
+    date: "2009"
 quiz:
   - question: "Que fait une lentille gravitationnelle à la lumière ?"
     options:
@@ -12867,6 +13217,18 @@ Un amas de galaxies réunit de quelques centaines à plusieurs milliers de galax
 ## Ce qu'on en tire
 
 En mesurant la déformation des images, on reconstitue la masse de l'amas, y compris la matière noire. Les retards entre les images multiples d'un même objet permettent de déterminer des paramètres cosmologiques, comme la constante de Hubble. L'observation de la courbure de la lumière d'une étoile lors d'une éclipse de Soleil a confirmé la prédiction d'Einstein. La première lentille gravitationnelle découverte est un quasar double. La microlentille permet aussi de détecter des exoplanètes.
+
+```schema
+type: etapes
+titre: La lentille gravitationnelle
+elements:
+  - titre: Galaxie lointaine
+  - titre: Amas massif au milieu
+    texte: Il courbe la lumière.
+  - titre: Image amplifiée
+    texte: Vue depuis la Terre.
+    icone: telescope
+```
 
 ## À retenir
 
@@ -12948,6 +13310,17 @@ Le télescope spatial James Webb est un observatoire infrarouge, fruit d'une col
 
 Quand une planète passe devant son étoile, la lumière de l'étoile traverse la haute atmosphère de la planète. En analysant finement le spectre, on repère les molécules qui absorbent certaines couleurs : eau, dioxyde de carbone, méthane. Webb a ainsi permis d'étudier l'atmosphère de l'exoplanète WASP-39 b, où du dioxyde de carbone a été détecté. Des nuages épais peuvent masquer les signaux, et les petites planètes, qui bloquent moins de lumière, donnent des signaux plus faibles.
 
+```schema
+titre: La méthode du transit
+type: etapes
+elements:
+  - titre: La planète passe devant son étoile
+  - titre: La lumière traverse son atmosphère
+  - titre: Certaines couleurs sont absorbées
+  - titre: Interpréter le spectre
+    texte: Comparer à des modèles, avec des incertitudes et parfois plusieurs interprétations.
+```
+
 ## À retenir
 
 - Le télescope spatial James Webb est un observatoire infrarouge, fruit d'une collaboration entre la NASA, l'ESA et l'agence spatiale canadienne.
@@ -12962,8 +13335,9 @@ title: Comment PLATO va-t-il chercher des planètes comme la Terre ?
 slug: comment-plato-va-t-il-chercher-des-planetes-comme-la-terre
 categoryPath: espace-et-astronomie/observation-astronomique/telescopes
 summary: >
-  PLATO est une mission de l'ESA qui cherchera des planètes rocheuses autour d'étoiles
-  semblables au Soleil, avec 26 caméras, par la méthode des transits.
+  PLATO est une mission de l'ESA qui cherchera des planètes rocheuses autour d'étoiles semblables
+  au Soleil, avec 26 caméras, par la méthode des transits. Elle surveillera plus de 200 000
+  étoiles pendant quatre ans.
 tags: [telescopes]
 sources:
   - title: "Plato"
@@ -12975,6 +13349,9 @@ sources:
   - title: "Methods of detecting exoplanets"
     url: "https://en.wikipedia.org/wiki/Methods_of_detecting_exoplanets"
     publisher: "Wikipedia"
+  - title: "PLATO: the space telescope searching for Earth-like planets in the Milky Way"
+    url: "https://www.dlr.de/en/research-and-transfer/projects-and-missions/plato"
+    publisher: "DLR (Centre aérospatial allemand)"
 quiz:
   - question: "Que cherche surtout PLATO ?"
     options:
@@ -13010,7 +13387,7 @@ quiz:
     answer: 3
     explanation: >
       Elle doit être lancée par une fusée Ariane 6 depuis Kourou, en Guyane.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -13026,18 +13403,37 @@ PLATO, pour PLAnetary Transits and Oscillations of stars, est une mission de l'E
 
 Elle repère les petites baisses de luminosité d'une étoile quand une planète passe devant elle : c'est la méthode des transits, qui donne la taille de la planète. Cette méthode ne fonctionne que si l'orbite de la planète est bien alignée avec notre ligne de visée, ce qui est rare pour une planète comme la Terre. Elle étudie aussi les oscillations des étoiles, l'astérosismologie, pour mesurer leur masse, leur âge et leur rayon. Elle doit aussi mesurer la taille des exoplanètes et chercher des exolunes et des anneaux.
 
+## Vingt-six caméras, deux rôles
+
+Les 26 caméras se répartissent en 24 caméras dites standard et 2 caméras rapides. Elles pointent légèrement en décalé les unes par rapport aux autres, ce qui leur permet de couvrir ensemble environ 5 % du ciel entier. Cette grande surface est la clé de la mission : comme les transits de planètes semblables à la Terre sont rares, il faut regarder beaucoup d'étoiles pour en attraper quelques-uns.
+
 ## Où et comment ?
 
-Elle sera placée au point de Lagrange L2, pour observer en continu avec une bonne stabilité thermique. Elle doit être lancée par une fusée Ariane 6 depuis Kourou, en Guyane. Elle vise la découverte de milliers d'exoplanètes, dont beaucoup de taille terrestre.
+Elle sera placée au point de Lagrange L2, à environ 1,5 million de kilomètres de la Terre, pour observer en continu avec une bonne stabilité thermique. Elle doit être lancée par une fusée Ariane 6 depuis Kourou, en Guyane, début 2027 selon l'ESA, la date restant à confirmer. Elle vise la découverte de milliers d'exoplanètes, dont beaucoup de taille terrestre.
+
+## Quatre ans d'observation
+
+La mission prévoit quatre années d'observation, pendant lesquelles plus de 200 000 étoiles seront suivies. Plus une planète met de temps à faire son tour, plus il faut attendre pour voir plusieurs transits : une orbite de type terrestre, d'un an, exige donc une surveillance longue et continue.
+
+```schema
+type: systeme
+titre: La mission PLATO
+centre: PLATO
+icone: satellite
+parties:
+  - nom: Agence
+    role: Mission de l'ESA.
+  - nom: Cible
+    role: Des planètes rocheuses en zone habitable.
+```
 
 ## À retenir
 
 - PLATO est une mission de l'ESA conçue pour découvrir et caractériser des exoplanètes de la taille de la Terre.
 - Elle cherche surtout des planètes rocheuses dans la zone habitable d'étoiles semblables au Soleil.
-- Elle emporte 26 caméras.
+- Elle emporte 26 caméras : 24 standard et 2 rapides, pour environ 5 % du ciel.
 - Elle repère la petite baisse de luminosité d'une étoile quand une planète passe devant elle : la méthode des transits.
 - Elle étudie aussi les oscillations des étoiles, l'astérosismologie, pour mesurer leur masse, leur âge et leur rayon.
-
 ---
 type: article
 title: Comment une étoile peut-elle servir de loupe pour trouver des planètes ?
@@ -13116,6 +13512,17 @@ Si une planète tourne autour de l'étoile-lentille, elle provoque une petite ir
 ## Résultats et suite
 
 Des études par microlentille ont montré que les systèmes planétaires sont courants dans notre galaxie. Le télescope spatial Roman de la NASA doit mener une grande enquête par microlentille pour trouver des exoplanètes.
+
+```schema
+titre: La microlentille
+type: etapes
+elements:
+  - titre: Étoile d'arrière-plan
+  - titre: Étoile de premier plan
+    texte: Sa gravité grossit la lumière.
+  - titre: Courbe de lumière
+    texte: Une planète peut y produire une anomalie brève.
+```
 
 ## À retenir
 
@@ -13208,6 +13615,18 @@ Les Géminides sont visibles à la mi-décembre, avec un maximum vers le 13 ou 1
 
 Le nombre de météores visibles varie d'une année à l'autre, de quelques dizaines à plus de cent par heure dans de bonnes conditions. Pour les voir, il suffit d'un ciel noir, loin des lumières, de préférence avant l'aube, sans aucun instrument.
 
+```schema
+type: comparaison
+titre: Deux pluies d'étoiles filantes
+colonnes:
+  - titre: Perséides
+    points:
+      - En août
+  - titre: Géminides
+    points:
+      - En décembre
+```
+
 ## À retenir
 
 - Une pluie d'étoiles filantes se produit quand la Terre traverse les débris d'une comète ou d'un astéroïde, qui brûlent dans l'atmosphère.
@@ -13222,8 +13641,9 @@ title: À quoi sert le télescope spatial Roman pour chasser les exoplanètes ?
 slug: a-quoi-sert-le-telescope-spatial-roman-pour-chasser-les-exoplanetes
 categoryPath: espace-et-astronomie/observation-astronomique/telescopes
 summary: >
-  Le télescope Roman de la NASA observe en infrarouge avec un champ de vision très large. Il
-  doit étudier l'énergie noire et chercher des exoplanètes par microlentille gravitationnelle.
+  Le télescope Roman de la NASA observe en infrarouge avec un champ de vision très large. Il doit
+  étudier l'énergie noire et chercher des exoplanètes par microlentille gravitationnelle, dont
+  plus de 1 000 planètes à grande orbite.
 tags: [telescopes]
 sources:
   - title: "Nancy Grace Roman Space Telescope"
@@ -13235,6 +13655,9 @@ sources:
   - title: "Gravitational microlensing"
     url: "https://en.wikipedia.org/wiki/Gravitational_microlensing"
     publisher: "Wikipedia"
+  - title: "Galactic Bulge Time Domain Survey"
+    url: "https://roman.gsfc.nasa.gov/science/Galactic_Bulge_Time_Domain_Survey.html"
+    publisher: "NASA Goddard Space Flight Center"
 quiz:
   - question: "Dans quelle lumière observe surtout Roman ?"
     options:
@@ -13271,7 +13694,7 @@ quiz:
     explanation: >
       Il porte le nom de Nancy Grace Roman, première astronome en chef de la NASA, surnommée la
       mère de Hubble.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -13283,9 +13706,27 @@ Le télescope Roman de la NASA observe en infrarouge avec un champ de vision tr�
 
 Le télescope spatial Nancy Grace Roman est un télescope infrarouge de la NASA, à grand champ. Son champ de vision est au moins cent fois plus grand que celui des caméras de Hubble. Il porte deux instruments : une caméra à grand champ et un coronographe, qui masque la lumière d'une étoile pour voir directement ses exoplanètes. Il porte le nom de Nancy Grace Roman, première astronome en chef de la NASA, surnommée la mère de Hubble.
 
+```schema
+type: chiffres
+titre: Le télescope Roman
+chiffres:
+  - valeur: Infrarouge
+    texte: télescope de la NASA à grand champ
+  - valeur: "× 100"
+    texte: champ au moins cent fois plus grand que les caméras de Hubble
+```
+
 ## Les objectifs
 
 Il doit étudier l'énergie noire et l'accélération de l'expansion de l'univers, chercher des exoplanètes par microlentille et faire de grands relevés infrarouges. Sa technique pour chasser les exoplanètes est la microlentille gravitationnelle, qui repère les planètes peu massives et éloignées de leur étoile. Il doit dresser un recensement statistique des systèmes planétaires. Il pourrait observer la lumière d'un très grand nombre de galaxies au cours de sa mission.
+
+## Comment marche une microlentille
+
+Quand une étoile passe exactement devant une autre, sa gravité courbe et amplifie la lumière de l'étoile lointaine, de façon passagère. Si cette étoile avant-plan possède une planète, celle-ci ajoute un bref sursaut de luminosité supplémentaire. Un tel alignement est rare et passager : il faut donc une surveillance très fréquente. Cette méthode détecte aussi des planètes errantes, sans étoile.
+
+## Le relevé du bulbe galactique
+
+Roman consacrera environ 15 mois de temps d'observation au renflement central de la Galaxie, où les étoiles sont si denses que les alignements sont fréquents. En mode rapide, il y prend une image environ toutes les 12 minutes. Ces séquences sont réparties sur six saisons d'observation, au début et à la fin de la mission de cinq ans. La NASA en attend plus de 1 000 planètes à grande orbite, un domaine complémentaire de celui de Kepler et de TESS.
 
 ## Lancement et fonctionnement
 
@@ -13296,9 +13737,8 @@ Il a été lancé le 30 août 2026 par une fusée Falcon Heavy. Il doit fonction
 - Le télescope spatial Nancy Grace Roman est un télescope infrarouge de la NASA, à grand champ.
 - Son champ de vision est au moins cent fois plus grand que celui des caméras de Hubble.
 - Il porte une caméra à grand champ et un coronographe, qui masque la lumière d'une étoile pour voir ses exoplanètes.
-- Sa technique pour chasser les exoplanètes est la microlentille gravitationnelle, qui repère les planètes peu massives et éloignées de leur étoile.
+- Par microlentille gravitationnelle, il doit détecter plus de 1 000 planètes à grande orbite, et même des planètes errantes.
 - Il porte le nom de Nancy Grace Roman, première astronome en chef de la NASA, surnommée la mère de Hubble.
-
 ---
 type: article
 title: Pourquoi y a-t-il des saisons sur Terre ?
@@ -13375,6 +13815,19 @@ La Terre est au plus près du Soleil en janvier, en plein hiver dans l'hémisph�
 
 Au solstice d'été, le jour est le plus long ; au solstice d'hiver, il est le plus court. Aux équinoxes, le jour et la nuit durent autant. Les températures extrêmes arrivent après les solstices, parce que les océans absorbent et libèrent la chaleur lentement. Près de l'équateur, le Soleil reste presque à la verticale toute l'année : les saisons se marquent surtout par des périodes sèches et humides. Selon une hypothèse, cette inclinaison viendrait d'un choc, il y a des milliards d'années, avec un objet nommé Théia, qui aurait aussi formé la Lune.
 
+```schema
+type: comparaison
+titre: Ce qui fait les saisons
+colonnes:
+  - titre: La vraie cause
+    points:
+      - L'axe de la Terre est penché
+      - L'hémisphère tourné vers le Soleil reçoit des rayons plus directs
+  - titre: La fausse explication
+    points:
+      - La distance au Soleil
+```
+
 ## À retenir
 
 - Les saisons viennent de l'inclinaison de l'axe de rotation de la Terre, et non de sa distance au Soleil.
@@ -13382,3 +13835,4 @@ Au solstice d'été, le jour est le plus long ; au solstice d'hiver, il est le p
 - Les deux hémisphères vivent des saisons opposées : quand c'est l'été au nord, c'est l'hiver au sud.
 - La Terre est au plus près du Soleil en janvier, en plein hiver au nord : la distance n'explique pas les saisons.
 - Les températures extrêmes arrivent après les solstices, parce que les océans absorbent et libèrent la chaleur lentement.
+

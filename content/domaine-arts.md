@@ -239,6 +239,20 @@ quiz:
       Sans référence commune, un hautbois de Vienne et un violon de Paris ne pouvaient pas
       jouer ensemble. La hauteur avait aussi tendance à monter, car un orchestre plus aigu
       sonne plus brillant.
+  - question: "Pourquoi l'absence de référence commune posait-elle problème aux musiciens ?"
+    options:
+      - "Les instruments sonnaient tous trop fort"
+      - "Les musiciens refusaient d'accorder"
+      - "Les instruments d'une ville ne pouvaient pas jouer avec ceux d'une autre"
+    answer: 3
+    explanation: "Chaque ville avait sa référence, avec des écarts jusqu'au demi-ton : un instrument de Venise ne pouvait pas jouer avec un ensemble de Dresde."
+  - question: "Que dit l'article sur la supposée supériorité du 432 hertz ?"
+    options:
+      - "Aucune étude sérieuse ne l'appuie : c'est un choix esthétique, pas scientifique"
+      - "Elle est prouvée par des études sérieuses"
+      - "Elle est imposée par la loi en France"
+    answer: 1
+    explanation: "L'oreille ne perçoit qu'une différence de hauteur très légère, et aucune étude n'appuie les vertus prétendues du 432 hertz."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -294,8 +308,15 @@ parfaitement légitime — simplement, ce n'est pas un choix scientifique.
 - La France a fixé 435 hertz par une loi en 1859, avant l'adoption de 440.
 - Les affirmations sur les vertus du 432 hertz ne reposent sur aucune donnée.
 
-[Emplacement image : évolution de la hauteur du diapason en Europe du XVIIe au XXe siècle,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le diapason
+chiffres:
+  - valeur: 440 Hz
+    texte: 440 vibrations par seconde pour le la
+  - valeur: Un demi-ton
+    texte: l'écart possible autrefois d'une ville à l'autre
+```
 
 ---
 
@@ -338,6 +359,20 @@ quiz:
       Tous les autres intervalles sont légèrement ajustés pour que l'on puisse jouer dans
       toutes les tonalités. La tierce majeure est celle qui s'éloigne le plus de la justesse
       naturelle.
+  - question: "Pourquoi est-il impossible de construire une gamme avec des intervalles tous parfaitement justes ?"
+    options:
+      - "Les instruments ne peuvent pas jouer les rapports simples"
+      - "Douze quintes justes ne retombent pas exactement sur sept octaves"
+      - "Les rapports simples sont trop compliqués à calculer"
+    answer: 2
+    explanation: "Aucune puissance de trois demis ne donne exactement une puissance de deux : douze quintes dépassent sept octaves du comma pythagoricien."
+  - question: "Quel avantage le tempérament égal apporte-t-il en échange de ses imperfections ?"
+    options:
+      - "Toutes les tierces deviennent justes"
+      - "Chaque tonalité garde sa couleur propre"
+      - "Toutes les tonalités deviennent équivalentes et on peut moduler partout"
+    answer: 3
+    explanation: "En répartissant l'erreur sur les douze demi-tons, on perd la pureté de certains intervalles mais on peut moduler librement."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -403,8 +438,21 @@ de l'octave, qui ne se ramènent pas à douze demi-tons.
 - Le tempérament égal répartit cet écart sur les douze demi-tons.
 - Seule l'octave reste parfaitement juste sur un piano.
 
-[Emplacement image : comparaison des intervalles purs et tempérés sur une octave, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les rapports des intervalles justes
+legende: Douze quintes justes ne tombent pas exactement sur sept octaves.
+colonnes:
+  - titre: Octave
+    points:
+      - Rapport 2 pour 1
+  - titre: Quinte
+    points:
+      - Rapport 3 pour 2
+  - titre: Tierce majeure
+    points:
+      - Rapport 5 pour 4
+```
 
 ---
 
@@ -446,6 +494,20 @@ quiz:
     explanation: >
       Eschyle ajoute un deuxième acteur au premier, Sophocle un troisième. Avec des masques,
       ces trois acteurs pouvaient jouer tous les personnages de la pièce.
+  - question: "Qu'a rendu possible le geste de Thespis ?"
+    options:
+      - "Le dialogue, car quelqu'un pouvait répondre au chœur"
+      - "La construction des théâtres"
+      - "Le port du masque"
+    answer: 1
+    explanation: "En devenant le premier acteur, Thespis a rendu le dialogue possible : quelqu'un pouvait désormais répondre au chœur."
+  - question: "Comment le rôle du chœur a-t-il évolué avec l'ajout d'acteurs ?"
+    options:
+      - "Il est devenu le personnage principal"
+      - "Il a reculé et est devenu commentateur"
+      - "Il a disparu immédiatement"
+    answer: 2
+    explanation: "Le chœur, personnage collectif central au départ, recule progressivement et devient commentateur."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -504,8 +566,19 @@ celles d'Aristophane, souvent d'une férocité politique qui surprend aujourd'hu
 - Eschyle ajoute un deuxième acteur, Sophocle un troisième.
 - Le mot « scène » vient de la skènè, bâtiment servant de coulisse.
 
-[Emplacement image : plan d'un théâtre grec antique avec gradins, orchestra et skènè, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: La naissance du théâtre à Athènes
+evenements:
+  - date: Fêtes de Dionysos
+    titre: Le cadre d'origine
+  - date: Vers 534 av. J.-C.
+    titre: Thespis
+    texte: Le premier à jouer un personnage.
+  - date: Ensuite
+    titre: Eschyle
+    texte: Il ajoute un deuxième acteur.
+```
 
 ---
 
@@ -547,6 +620,20 @@ quiz:
     explanation: >
       Dans une salle de cour, on regardait d'en haut et de trois côtés : les figures au sol
       étaient l'essentiel. Sur une scène frontale, tout se compose pour un regard unique.
+  - question: "Quelles furent les deux conséquences de l'académie fondée en 1661 ?"
+    options:
+      - "Elle interdit aux nobles de danser et supprime les figures"
+      - "Elle déplace le ballet en Italie"
+      - "Elle professionnalise les danseurs et codifie la technique"
+    answer: 3
+    explanation: "L'académie remplace progressivement les courtisans par des danseurs formés et fixe par écrit positions et nomenclature des pas."
+  - question: "Pourquoi le passage à la scène frontale a-t-il changé la composition des ballets ?"
+    options:
+      - "Les figures au sol devenaient invisibles pour un public assis d'un seul côté"
+      - "Les danseurs ne pouvaient plus sauter"
+      - "La musique ne pouvait plus être jouée"
+    answer: 1
+    explanation: "Face à un public d'un seul côté, les figures au sol deviennent invisibles : la composition se fait pour un regard unique et la virtuosité individuelle gagne en importance."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -607,8 +694,20 @@ l'enseignement mondial.
 - Le vocabulaire fixé alors est resté français dans le monde entier.
 - Le passage à la scène frontale a transformé la composition des ballets.
 
-[Emplacement image : les cinq positions académiques des pieds, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: frise
+titre: La naissance du ballet
+evenements:
+  - date: Renaissance
+    titre: Cours italiennes
+  - date: 1661
+    titre: Académie à Paris
+    texte: Le ballet est codifié, son vocabulaire est français.
+  - date: Ensuite
+    titre: Passage à la scène
+  - date: XIXe siècle
+    titre: Romantisme et Russie
+```
 
 ---
 
@@ -651,6 +750,20 @@ quiz:
     explanation: >
       L'opéra quitte alors les palais princiers pour devenir un spectacle public et commercial,
       ce qui change complètement ce qu'on y montre et pour qui.
+  - question: "Pourquoi la polyphonie était-elle un obstacle pour raconter une histoire en musique ?"
+    options:
+      - "Elle exigeait un trop grand orchestre"
+      - "Les paroles devenaient incompréhensibles, chaque voix chantant des syllabes différentes"
+      - "Elle interdisait les voix seules"
+    answer: 2
+    explanation: "Plusieurs voix chantant en même temps des syllabes différentes rendent les mots incompréhensibles, or on ne peut pas raconter une histoire sans être compris."
+  - question: "Qu'a changé l'ouverture des théâtres payants à Venise en 1637 ?"
+    options:
+      - "L'opéra a cessé d'utiliser des récitatifs"
+      - "L'opéra est devenu réservé aux princes"
+      - "L'opéra est devenu un spectacle commercial qui devait attirer un public"
+    answer: 3
+    explanation: "L'opéra cesse d'être un cadeau princier pour devenir un spectacle commercial : il faut plaire, avec effets, machineries et vedettes."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -711,8 +824,17 @@ Le genre se répand ensuite en Europe en s'adaptant partout aux goûts locaux.
 - L'Orfeo de Monteverdi, en 1607, fixe l'équilibre du genre.
 - Venise ouvre les premiers théâtres payants en 1637.
 
-[Emplacement image : représentation d'opéra au XVIIe siècle avec machinerie scénique, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'invention de l'opéra
+elements:
+  - titre: Reconstituer la tragédie grecque
+  - titre: Le récitatif
+    texte: Une voix seule sur une basse, des paroles compréhensibles.
+  - titre: Monteverdi
+    texte: Il donne sa forme au genre.
+  - titre: Le théâtre payant
+```
 
 ---
 
@@ -755,6 +877,20 @@ quiz:
     explanation: >
       Avant, il fallait chanter très fort dans un pavillon pour graver le sillon. Le microphone
       capte les sons faibles, ce qui a fait naître un style vocal intime, impossible auparavant.
+  - question: "Pourquoi l'enregistrement mécanique imposait-il de chanter très fort près du pavillon ?"
+    options:
+      - "Parce que le son faible ne faisait pas bouger l'aiguille, sans électricité pour l'amplifier"
+      - "Parce que le disque ne supportait que les sons graves"
+      - "Parce que le pavillon filtrait les voix aiguës"
+    answer: 1
+    explanation: "Sans électricité, seules les vibrations de l'air captées par le pavillon faisaient bouger l'aiguille, il fallait donc chanter ou jouer très fort."
+  - question: "Pourquoi la bande magnétique a-t-elle transformé le disque en construction plutôt qu'en trace d'une exécution ?"
+    options:
+      - "Parce qu'elle remplace les musiciens"
+      - "Parce qu'elle permet de couper, recoller et superposer des prises sur plusieurs pistes"
+      - "Parce qu'elle est plus dure à copier"
+    answer: 2
+    explanation: "Le montage et le multipiste permettent d'assembler des prises et de superposer des instruments, parfois impossibles à reproduire sur scène."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -815,8 +951,21 @@ recompose autour du concert, les revenus tirés de la diffusion étant très fai
 - La bande magnétique a introduit le montage et l'enregistrement multipiste.
 - La diffusion en flux a déplacé la valeur du support vers l'accès.
 
-[Emplacement image : frise des supports d'enregistrement, du cylindre au fichier, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: Les quatre ères de l'enregistrement
+evenements:
+  - date: 1877
+    titre: L'ère mécanique
+  - date: Années 1920
+    titre: L'ère électrique
+    texte: Le microphone permet le chant intime.
+  - date: Ensuite
+    titre: L'ère magnétique
+    texte: La bande permet le montage.
+  - date: Aujourd'hui
+    titre: L'ère numérique
+```
 
 ---
 
@@ -859,6 +1008,20 @@ quiz:
     explanation: >
       Avant la perspective, la taille exprimait le rang et non la distance. Un roi pouvait être
       peint deux fois plus grand que ses sujets placés juste à côté de lui.
+  - question: "Que signifiait la taille d'un personnage dans la peinture médiévale ?"
+    options:
+      - "Sa distance par rapport au spectateur"
+      - "La maladresse du peintre"
+      - "Son importance, selon une convention cohérente"
+    answer: 3
+    explanation: "Au Moyen Âge, la taille indiquait l'importance et non la distance : un saint ou un roi était peint plus grand."
+  - question: "Pourquoi dit-on que la perspective est une convention et non la vision réelle ?"
+    options:
+      - "Elle suppose un observateur unique, immobile, regardant d'un seul œil"
+      - "Elle ne fonctionne qu'avec un carrelage"
+      - "Elle ignore le point de fuite"
+    answer: 1
+    explanation: "Nous ne voyons pas ainsi : la perspective suppose un observateur unique, immobile et monoculaire."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -916,8 +1079,19 @@ ruptures.
 - Brunelleschi en fait la démonstration, Alberti l'explique par écrit en 1435.
 - Le système suppose un observateur unique, immobile et monoculaire.
 
-[Emplacement image : construction d'un pavement en perspective avec son point de fuite, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Avant et après la perspective
+type: comparaison
+colonnes:
+  - titre: Avant
+    points:
+      - Dans certaines conventions, la taille exprime l’importance.
+  - titre: Perspective linéaire
+    icone: eye
+    points:
+      - Des parallèles qui s’éloignent dans une même direction partagent un point de fuite.
+      - La taille indique la distance
+```
 
 ---
 
@@ -959,6 +1133,20 @@ quiz:
     explanation: >
       L'attribution combine analyse du style, radiographies, étude des pigments et recherche
       d'archives. Elle fait souvent l'objet de désaccords entre spécialistes.
+  - question: "Pourquoi le prix du tableau a-t-il explosé alors que la peinture n'avait pas changé ?"
+    options:
+      - "Parce qu'il a été repeint par un grand artiste moderne"
+      - "Parce qu'il a été attribué à Léonard de Vinci, dont presque aucune œuvre n'est à vendre"
+      - "Parce qu'il a été découvert dans un musée"
+    answer: 2
+    explanation: "Ce qui a changé est l'attribution à Léonard : moins de vingt peintures lui sont attribuées et presque toutes sont dans des musées."
+  - question: "Que montre la controverse sur l'attribution du Salvator Mundi ?"
+    options:
+      - "Que le tableau est sûrement un faux"
+      - "Que les restaurations n'affectent jamais la valeur"
+      - "Que le prix dépend d'un jugement d'expert, par nature révisable"
+    answer: 3
+    explanation: "L'attribution n'est pas unanime, mais la vente a eu lieu : le prix d'une œuvre dépend d'un jugement d'expert révisable."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1011,8 +1199,16 @@ Cette incertitude n'a pas empêché la vente. Elle rappelle que le prix d'une œ
 - Moins de vingt peintures sont attribuées à Léonard dans le monde.
 - L'attribution et l'ampleur de la restauration restent discutées.
 
-[Emplacement image : le tableau avant et après restauration, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le prix du Salvator Mundi
+legende: "Monnaies et années différentes : ces montants ne sont pas directement comparables."
+chiffres:
+  - valeur: 45 livres
+    texte: Prix de vente en 1958.
+  - valeur: 450,3 M$
+    texte: Prix de vente en 2017.
+```
 
 ---
 
@@ -1055,6 +1251,20 @@ quiz:
     explanation: >
       Le daguerréotype donnait une image unique, impossible à reproduire. Le négatif de Talbot
       a fondé toute la photographie moderne, jusqu'au numérique.
+  - question: "Pourquoi les premiers procédés de Niépce ne permettaient-ils pas de faire des portraits ?"
+    options:
+      - "Le bitume ne pouvait pas capter les traits d'un visage"
+      - "Les temps de pose se comptaient en heures"
+      - "L'image disparaissait dès qu'on la sortait de la boîte"
+    answer: 2
+    explanation: "Avec le bitume durci par la lumière, il fallait poser pendant des heures, ce qui rendait le portrait impossible."
+  - question: "Quelle conséquence la photographie a-t-elle eue sur la peinture ?"
+    options:
+      - "Elle a fait disparaître les peintres portraitistes dès les premières années"
+      - "Elle a poussé les peintres à reprendre le principe du négatif de Talbot"
+      - "Elle lui a fait perdre le monopole de la ressemblance, avec des réactions variées chez les peintres"
+    answer: 3
+    explanation: "La peinture n'est plus la seule à reproduire la ressemblance : certains peintres s'en inquiètent, d'autres s'en libèrent."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1117,8 +1327,22 @@ la voie au cinéma.
 - Le daguerréotype, en 1839, donne une image unique et très fine.
 - Le négatif de Talbot fonde la reproductibilité des images.
 
-[Emplacement image : daguerréotype et tirage papier comparés, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'invention de la photographie
+elements:
+  - titre: Chambre noire
+    texte: Connue depuis longtemps.
+    icone: camera
+  - titre: Sels d'argent
+    texte: Sensibles à la lumière.
+  - titre: Fixer l'image
+    texte: Le problème décisif.
+  - titre: Daguerréotype
+    texte: 1839.
+  - titre: Négatif
+    texte: Il permet de multiplier les tirages.
+```
 
 ---
 
@@ -1160,6 +1384,20 @@ quiz:
     explanation: >
       Chaque bobine faisait environ 17 mètres de pellicule, soit près de 50 secondes. Dix films
       étaient projetés à la suite, pour une séance d'environ vingt minutes.
+  - question: "Pourquoi n'est-il guère pertinent d'attribuer l'invention du cinéma à une seule personne ?"
+    options:
+      - "Des dizaines d'inventeurs travaillaient en même temps sur des dispositifs voisins"
+      - "Les Lumière ont repris l'appareil d'Edison sans rien y changer"
+      - "L'appareil des Lumière ne permettait pas la projection devant un public"
+    answer: 1
+    explanation: "De nombreux inventeurs travaillaient simultanément dans plusieurs pays. Les Lumière ont surtout réuni un appareil fiable, une projection publique et une exploitation commerciale."
+  - question: "Quel avantage la légèreté du Cinématographe, sans électricité, a-t-elle procuré ?"
+    options:
+      - "Elle permettait à chaque spectateur de regarder seul à travers une lucarne"
+      - "Elle dispensait d'utiliser une pellicule"
+      - "Elle a permis aux opérateurs Lumière d'aller filmer dans le monde entier"
+    answer: 3
+    explanation: "Léger, à manivelle et sans électricité, l'appareil était portable : les opérateurs Lumière ont pu partir filmer partout dès les années suivantes."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1215,8 +1453,17 @@ Ils pensaient d'ailleurs que leur invention n'avait pas d'avenir commercial dura
 - L'apport décisif des Lumière est la projection collective.
 - Le format 35 millimètres restera le standard pendant plus d'un siècle.
 
-[Emplacement image : le Cinématographe Lumière, caméra et projecteur, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La première séance, 28 décembre 1895
+chiffres:
+  - valeur: 33
+    texte: spectateurs environ
+  - valeur: 1 franc
+    texte: l'entrée
+  - valeur: 10 films
+    texte: d'environ 50 secondes
+```
 
 ---
 
@@ -1259,6 +1506,20 @@ quiz:
     explanation: >
       Ils ont d'abord été jugés grossiers. Ce sont les mouvements modernistes du XXe siècle qui
       en ont fait le symbole de la neutralité fonctionnelle.
+  - question: "Pourquoi l'axe des lettres se redresse-t-il aux XVIIe et XVIIIe siècles ?"
+    options:
+      - "Les imprimeurs cherchent à imiter les capitales gravées romaines"
+      - "La publicité réclame des lettres lisibles de loin"
+      - "La gravure sur cuivre et les papiers lisses permettent des traits très fins, qui s'éloignent du geste de la plume"
+    answer: 3
+    explanation: "Avec des traits beaucoup plus fins, l'axe devient vertical et le contraste s'accentue : ces lettres marquent la fin du geste manuscrit."
+  - question: "Qu'apportent les fontes variables que les procédés antérieurs n'offraient pas ?"
+    options:
+      - "La possibilité de faire varier en continu la graisse, la largeur ou l'optique d'un même caractère"
+      - "Un dessin simplifié adapté aux écrans de faible définition"
+      - "Un ajustement des contours à la grille de pixels"
+    answer: 1
+    explanation: "Les fontes variables offrent une souplesse continue sur un même caractère, ce qu'aucun procédé précédent ne permettait. Les deux autres réponses décrivent les contraintes des anciens écrans."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1322,8 +1583,20 @@ ou l'optique d'un même caractère — une souplesse qu'aucun procédé antérie
 - Les caractères sans empattements naissent de la publicité au XIXe siècle.
 - Les fontes variables font varier le dessin en continu.
 
-[Emplacement image : comparaison d'un caractère humaniste, d'une didone et d'une linéale,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: D'où viennent les formes des lettres
+evenements:
+  - date: Plume
+    titre: Pleins et déliés
+    texte: Hérités de la plume taillée en biseau.
+  - date: Imprimerie
+    titre: Le trait s'affine
+  - date: Publicité
+    titre: Les caractères sans empattement
+  - date: Écran
+    titre: Une nouvelle contrainte
+```
 
 ---
 
@@ -1366,6 +1639,20 @@ quiz:
       Une colonne parfaitement droite paraît creusée en son milieu. Les Grecs la renflaient
       légèrement pour compenser. Ils courbaient aussi le soubassement, qui semblerait
       autrement s'affaisser.
+  - question: "Pourquoi dit-on qu'un ordre est plus qu'un catalogue d'ornements ?"
+    options:
+      - "Chaque ordre impose le même décor à tous les bâtiments"
+      - "Une mesure de base, le diamètre de la colonne, commande toutes les autres dimensions du bâtiment"
+      - "Chaque ordre correspond à une fonction religieuse différente"
+    answer: 2
+    explanation: "L'ordre est une règle de composition complète : le diamètre de la colonne détermine l'espacement, la hauteur de l'entablement et la pente du fronton."
+  - question: "Pourquoi les colonnes d'angle d'un temple grec étaient-elles épaissies ?"
+    options:
+      - "Pour porter une charge plus lourde que les autres colonnes"
+      - "Pour compenser le renflement donné aux colonnes centrales"
+      - "Parce que, se détachant sur le ciel, elles paraissent plus fines"
+    answer: 3
+    explanation: "Les colonnes d'angle se découpent sur le ciel et semblent plus minces : les architectes les épaississaient pour corriger cette illusion d'optique."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1425,8 +1712,22 @@ droit.
 - Une colonne dorique fait 4 à 6 diamètres de haut, une corinthienne près de 10.
 - Les corrections optiques déforment volontairement pour paraître droites.
 
-[Emplacement image : les trois ordres grecs avec leurs proportions comparées, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les trois ordres grecs
+colonnes:
+  - titre: Dorique
+    icone: columns
+    points:
+      - Colonne sans base
+      - Chapiteau simple
+  - titre: Ionique
+    points:
+      - Chapiteau à volutes
+  - titre: Corinthien
+    points:
+      - Chapiteau à feuilles d'acanthe
+```
 
 ---
 
@@ -1469,6 +1770,20 @@ quiz:
     explanation: >
       Il enjambe le bas-côté et va chercher un massif de maçonnerie à l'extérieur. Le mur de la
       nef, déchargé, peut alors être percé de grandes verrières.
+  - question: "Qu'apporte l'arc brisé par rapport au demi-cercle ?"
+    options:
+      - "Il supprime toute poussée sur les murs porteurs"
+      - "Il remplace les arcs diagonaux par une surface continue"
+      - "Il réduit la poussée horizontale et permet de couvrir des travées de largeurs différentes à la même hauteur"
+    answer: 3
+    explanation: "Sa forme en pointe redresse la ligne de poussée, donc réduit la composante horizontale, et elle s'adapte à des travées inégales sans changer la hauteur."
+  - question: "Que montre l'effondrement partiel du chœur de la cathédrale de Beauvais ?"
+    options:
+      - "Que les arcs-boutants n'avaient aucune utilité"
+      - "Que la course à la hauteur avait atteint la limite du système"
+      - "Que de trop grandes verrières affaiblissaient les murs"
+    answer: 2
+    explanation: "Beauvais, la plus ambitieuse des cathédrales, a vu son chœur s'effondrer en partie : le système constructif avait trouvé sa limite."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1531,8 +1846,19 @@ partiellement. Le système avait trouvé sa limite.
 - L'arc brisé réduit la poussée horizontale.
 - L'arc-boutant reporte la poussée à l'extérieur, libérant le mur pour les verrières.
 
-[Emplacement image : coupe d'une nef gothique montrant croisée d'ogives et arcs-boutants,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les trois inventions du gothique
+centre: Cathédrale gothique
+parties:
+  - nom: Croisée d'ogives
+    role: Elle concentre les charges sur les angles.
+  - nom: Arc brisé
+  - nom: Arcs-boutants
+    role: Ils reprennent la poussée à l'extérieur.
+  - nom: Résultat
+    role: Des murs percés de grands vitraux.
+```
 
 ---
 
@@ -1575,6 +1901,20 @@ quiz:
     explanation: >
       Chaque retrait change la section offerte au vent. Les tourbillons se désorganisent au
       lieu de se synchroniser, ce qui réduit fortement les oscillations.
+  - question: "Pourquoi les tourbillons du vent sont-ils dangereux pour une tour très élancée ?"
+    options:
+      - "Ils usent le béton de la façade de plus en plus vite"
+      - "Ils font monter la température à l'intérieur du noyau central"
+      - "Si leur rythme coïncide avec la fréquence propre du bâtiment, les oscillations s'amplifient"
+    answer: 3
+    explanation: "Le lâcher alterné des tourbillons pousse la tour de droite à gauche à rythme régulier. En cas de coïncidence avec sa fréquence propre, les oscillations s'amplifient."
+  - question: "Quel est l'intérêt du plan en Y du Burj Khalifa ?"
+    options:
+      - "Il rigidifie l'ensemble, comme les nervures d'une poutre"
+      - "Il empêche à lui seul les tourbillons de se synchroniser"
+      - "Il permet de couler le béton de nuit"
+    answer: 1
+    explanation: "Le plan en Y, avec trois ailes autour d'un noyau, rigidifie d'abord la structure. Ce sont les retraits en spirale qui empêchent les tourbillons de se synchroniser."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1631,8 +1971,16 @@ vite. Il était pompé jusqu'à des hauteurs inédites pour un chantier de bâti
 - Le plan en Y rigidifie la structure comme les nervures d'une poutre.
 - Les retraits en spirale empêchent les tourbillons de se synchroniser.
 
-[Emplacement image : silhouette du Burj Khalifa avec ses retraits successifs et schéma des
-tourbillons, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le vent et les gratte-ciel
+elements:
+  - titre: Le vent souffle sur la tour
+  - titre: Tourbillons alternés
+    texte: Ils peuvent la faire osciller de plus en plus.
+  - titre: Forme qui varie avec la hauteur
+    texte: Pour désorganiser le vent.
+```
 
 ---
 
@@ -1674,6 +2022,20 @@ quiz:
     explanation: >
       Le label attire le tourisme, ce qui apporte des revenus mais use les sites fragiles et
       transforme parfois la vie des habitants. Le suivi vise à limiter ces effets.
+  - question: "Qui décide en dernier ressort d'inscrire un site sur la Liste du patrimoine mondial ?"
+    options:
+      - "Les organisations consultatives qui évaluent le dossier"
+      - "Un comité intergouvernemental qui se réunit une fois par an"
+      - "L'État qui a présenté la candidature"
+    answer: 2
+    explanation: "Les organisations consultatives évaluent le dossier, mais c'est le comité intergouvernemental qui décide : inscription, renvoi pour complément ou rejet."
+  - question: "Pourquoi l'inscription sur la liste du patrimoine en péril est-elle à double tranchant ?"
+    options:
+      - "Elle attire davantage de touristes, ce qui menace les sites déjà fragiles"
+      - "Elle interdit toute aide internationale tant que le site est menacé"
+      - "Elle alerte et peut débloquer une aide, mais l'État peut la vivre comme une mise en accusation"
+    answer: 3
+    explanation: "Cette inscription donne l'alerte et peut débloquer une aide internationale, mais elle est parfois perçue comme une accusation, ce qui complique la coopération."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1730,8 +2092,17 @@ sérieuse de la fréquentation.
 - Une liste du patrimoine en péril signale les sites menacés.
 - L'inscription attire un tourisme qui peut menacer le site lui-même.
 
-[Emplacement image : répartition mondiale des sites inscrits par catégorie, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le patrimoine mondial
+chiffres:
+  - valeur: "> 1 200"
+    texte: sites inscrits
+  - valeur: 168
+    texte: pays
+  - valeur: Liste en péril
+    texte: pour les sites menacés
+```
 
 ---
 
@@ -1774,6 +2145,20 @@ quiz:
     explanation: >
       Chaque heure d'exposition ajoute un dommage qui ne s'efface jamais. Les musées limitent
       donc le nombre de semaines d'exposition sur plusieurs années.
+  - question: "Pourquoi les variations d'humidité abîment-elles les œuvres ?"
+    options:
+      - "Le bois, le papier ou le parchemin gonflent puis se rétractent, et les couches peintes finissent par se soulever"
+      - "Une humidité élevée est toujours fatale, même quand elle reste stable"
+      - "L'eau dissout les pigments des peintures"
+    answer: 1
+    explanation: "Les matériaux absorbent et rejettent l'eau selon l'air ambiant ; c'est la variation, plus que le niveau d'humidité, qui provoque le dégât."
+  - question: "Sur quoi portaient surtout les polémiques après les grands nettoyages de peintures murales ?"
+    options:
+      - "Sur les techniques de nettoyage employées"
+      - "Sur le choix de l'état à retrouver, qui relève de l'interprétation"
+      - "Sur le coût des opérations"
+    answer: 2
+    explanation: "Les débats portaient rarement sur la technique et presque toujours sur le choix entre l'état d'origine supposé et le respect des couches ajoutées par les siècles."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1840,8 +2225,18 @@ Elles portaient rarement sur la technique employée, presque toujours sur cette 
 - Toute restauration suppose de choisir un état à restituer, ce qui est un choix
   d'interprétation.
 
-[Emplacement image : atelier de restauration avec contrôle de l'éclairage et de l'humidité,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Conserver ou restaurer
+colonnes:
+  - titre: Conservation préventive
+    points:
+      - Agit sur l'environnement de l'œuvre
+      - Lumière, humidité, température
+  - titre: Restauration
+    points:
+      - Agit sur l'objet lui-même
+```
 
 ---
 
@@ -1883,6 +2278,20 @@ quiz:
     explanation: >
       C'est un principe fondateur de la convention : seule la communauté concernée peut dire ce
       qui fait partie de son héritage culturel.
+  - question: "Pourquoi l'inscription sur une liste internationale peut-elle figer une pratique ?"
+    options:
+      - "La loi interdit ensuite toute modification de la pratique"
+      - "Les communautés doivent pratiquer sans changement pour garder le label"
+      - "La version décrite dans le dossier devient la version officielle, au détriment des variantes locales"
+    answer: 3
+    explanation: "C'est l'effet pervers du figement : la description du dossier devient la référence officielle et les variantes locales passent au second plan."
+  - question: "Que perd-on quand une langue meurt, du point de vue du patrimoine immatériel ?"
+    options:
+      - "Tout ce qui n'avait jamais été écrit et qu'elle portait"
+      - "Seulement le vocabulaire, les récits étant conservés ailleurs"
+      - "Rien, si la langue a été enregistrée dans un dossier officiel"
+    answer: 1
+    explanation: "Les traditions orales sont portées par la langue : quand elle disparaît, elle emporte avec elle tout ce qui n'avait pas été écrit."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1951,8 +2360,18 @@ Et parfois des conflits, quand plusieurs pays revendiquent un élément qu'ils p
 - On parle de sauvegarde, car la pratique doit rester vivante et donc changeante.
 - Ce sont les communautés concernées qui définissent leur patrimoine.
 
-[Emplacement image : transmission d'un savoir-faire artisanal entre générations, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les cinq domaines du patrimoine immatériel
+legende: Convention de l'UNESCO de 2003.
+centre: Patrimoine immatériel
+parties:
+  - nom: Traditions orales
+  - nom: Arts du spectacle
+  - nom: Pratiques sociales et fêtes
+  - nom: Connaissances sur la nature
+  - nom: Artisanat
+```
 
 ---
 
@@ -1996,6 +2415,20 @@ quiz:
     explanation: >
       La publication en feuilleton a directement façonné la forme des œuvres : longueur,
       rythme, rappels réguliers et fins de chapitre suspendues.
+  - question: "En quoi consiste le discours indirect libre ?"
+    options:
+      - "Le narrateur cite exactement les paroles prononcées entre guillemets"
+      - "La voix du personnage passe dans celle du narrateur, sans guillemets ni il pensait que"
+      - "Le récit est rédigé sous forme de lettres échangées entre personnages"
+    answer: 2
+    explanation: "Ce procédé, généralisé au XIXe siècle, fait entendre la pensée du personnage dans la voix du narrateur, sans marque de citation."
+  - question: "Pourquoi l'absence de règles antiques est-elle plutôt une force pour le roman ?"
+    options:
+      - "Elle oblige chaque auteur à suivre le modèle des romans grecs"
+      - "Elle réserve le genre à un public cultivé"
+      - "Le roman peut tout absorber, faute de modèle prestigieux à respecter"
+    answer: 3
+    explanation: "Sans poétique ni règle héritée, le roman n'est pas contraint dans sa forme : cette liberté lui permet d'absorber tout ce qu'il veut."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2059,8 +2492,17 @@ Le genre le plus libre de règles est aussi celui qui dépend le plus étroiteme
 - Le XVIIIe siècle anglais invente le personnage ordinaire et l'accès aux pensées.
 - Le feuilleton de presse a façonné la forme des romans du XIXe siècle.
 
-[Emplacement image : édition ancienne de Don Quichotte, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: frise
+titre: Comment le roman est devenu un genre
+evenements:
+  - date: Avant
+    titre: Aucune règle héritée de l'Antiquité
+  - date: Don Quichotte
+    titre: Un roman sur la lecture des romans
+  - date: XVIIIe siècle
+    titre: L'intérieur des personnages
+```
 
 ---
 
@@ -2102,6 +2544,20 @@ quiz:
     explanation: >
       Il a fallu une encre grasse, à base d'huile, capable de tenir sur les caractères de plomb
       puis de se transférer sur le papier sous la pression.
+  - question: "Pourquoi le caractère mobile est-il plus rentable avec un alphabet qu'avec l'écriture chinoise ?"
+    options:
+      - "Un alphabet demande quelques dizaines de signes, réutilisables pour n'importe quel texte"
+      - "Les lettres de l'alphabet se gravent plus facilement dans le bois"
+      - "Un alphabet permet de se passer de presse"
+    answer: 1
+    explanation: "L'écriture chinoise compte des milliers de signes, ce qui rend la casse coûteuse et la recherche lente. Quelques dizaines de lettres suffisent pour tout imprimer."
+  - question: "Pourquoi la reproduction à l'identique change-t-elle le statut du texte ?"
+    options:
+      - "Elle réserve les textes aux seuls savants capables de les comparer"
+      - "Elle empêche toute correction une fois le livre imprimé"
+      - "Les erreurs ne se multiplient plus de copie en copie et l'on peut renvoyer à une page précise"
+    answer: 3
+    explanation: "Tous les exemplaires étant identiques, on peut citer une page précise et comparer des éditions, ce qui donne naissance à la critique textuelle."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2169,8 +2625,17 @@ l'identique, accélérera la construction des savoirs scientifiques.
 - Alliage, moule réglable, encre grasse et presse forment le système.
 - La reproduction à l'identique fonde la référence stable et la critique des textes.
 
-[Emplacement image : composition d'une forme typographique et presse à bras, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le système de Gutenberg
+centre: Imprimerie
+icone: book
+parties:
+  - nom: Alliage
+  - nom: Moule réglable
+  - nom: Encre grasse
+  - nom: Presse
+```
 
 ---
 
@@ -2619,6 +3084,20 @@ quiz:
     explanation: >
       Le lapis-lazuli provenait presque exclusivement d'Afghanistan et sa transformation en
       pigment était complexe, ce qui en faisait l'un des pigments les plus chers au monde.
+  - question: "Pourquoi un pigment en poudre ne suffit-il pas à faire une peinture ?"
+    options:
+      - "Il doit d'abord être chauffé pour changer de couleur"
+      - "Il lui faut un liant pour adhérer à la surface et rester fixé une fois sec"
+      - "Il doit être mélangé à de l'eau seule pour tenir"
+    answer: 2
+    explanation: "L'eau seule ne suffit pas : il faut une graisse, de l'œuf, une colle animale ou une résine pour que la couleur reste fixée."
+  - question: "Quel défaut ont souvent les pigments d'origine végétale ou animale ?"
+    options:
+      - "Ils ne peuvent pas être mélangés à un liant"
+      - "Ils sont toujours plus chers que le lapis-lazuli"
+      - "Ils résistent souvent moins bien à la lumière que les pigments minéraux"
+    answer: 3
+    explanation: "Les pigments organiques, comme le noir de fumée ou les colorants de baies et d'insectes, sont souvent moins résistants à la lumière que les pigments minéraux."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -2671,8 +3150,18 @@ d'années.
   couleur.
 - Ce savoir-faire ancien reste utilisable avec des matériaux trouvés localement.
 
-[Emplacement image : pigments naturels en poudre, de l'ocre rouge au bleu outremer, à côté des
-matériaux bruts dont ils sont issus, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: D'où viennent les pigments
+centre: Pigments
+icone: palette
+parties:
+  - nom: Terres
+    role: L'ocre, riche en oxyde de fer.
+  - nom: Minéraux rares
+    role: Le lapis-lazuli pour le bleu outremer.
+  - nom: Végétaux et animaux
+```
 
 ---
 
@@ -2730,6 +3219,12 @@ sources:
   - title: "Sound film"
     url: "https://en.wikipedia.org/wiki/Sound_film"
     publisher: "Wikipedia"
+  - title: "Parlant (cinéma) - repères chronologiques"
+    url: "https://www.universalis.fr/encyclopedie/parlant-cinema-reperes-chronologiques/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "Cinéma (aspects généraux) - Histoire, le parlant, les années 1930"
+    url: "https://www.universalis.fr/encyclopedie/cinema-aspects-generaux-histoire/3-le-parlant-les-annees-1930/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Quel film de 1927 est considéré comme le premier long métrage parlant ?"
     options:
@@ -2790,6 +3285,20 @@ Un disque peut se décaler ou se rayer. D'autres inventeurs ont donc inscrit le 
 ## Un monde qui change
 
 Pour que les voix ne sonnent pas faux, la vitesse de projection a été fixée à 24 images par seconde. Les films muets défilaient plus lentement, souvent à 16 à 18 images par seconde. Le parlant a coûté cher : certains petits studios ont disparu. Des vedettes du muet dont la voix ne plaisait pas ont perdu leur place. Aux États-Unis, environ 22 000 musiciens de cinéma ont perdu leur emploi entre 1926 et 1928.
+
+```schema
+type: frise
+titre: Le cinéma devient parlant
+evenements:
+  - date: Muet
+    titre: Intertitres et musique en salle
+  - date: Disque
+    titre: Le son sur un disque
+  - date: 6 octobre 1927
+    titre: Le Chanteur de jazz
+  - date: Ensuite
+    titre: Le son sur la pellicule
+```
 
 ## À retenir
 
@@ -3078,6 +3587,20 @@ quiz:
     explanation: >
       Une forte pente permet à l'eau de ruisseler rapidement sans stagner, ce qui protège la
       toiture et limite les risques d'infiltration dans les régions très pluvieuses.
+  - question: "Pourquoi construire avec des matériaux trouvés sur place est-il avantageux ?"
+    options:
+      - "Cela réduit les besoins de transport et rend la construction accessible sans industrie lourde"
+      - "Cela garantit des bâtiments plus durables que le béton"
+      - "Cela dispense de tenir compte du climat"
+    answer: 1
+    explanation: "Les matériaux locaux évitent de longs transports et permettent de bâtir sans industrie lourde."
+  - question: "Pourquoi construit-on des maisons sur pilotis dans les régions humides ?"
+    options:
+      - "Pour retarder l'entrée de la chaleur dans la maison"
+      - "Pour faire sécher les récoltes sur le toit"
+      - "Pour se protéger des inondations et favoriser la circulation de l'air"
+    answer: 3
+    explanation: "Surélevée sur pilotis, la maison est protégée des crues et l'air circule mieux en dessous, ce qui convient aux régions humides."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3132,8 +3655,19 @@ laissent aussi une empreinte environnementale bien plus faible que la constructi
 - Ce savoir-faire se transmet par la pratique, sans plans architecturaux formels.
 - Il reste utile là où l'accès aux matériaux industriels est limité.
 
-[Emplacement image : plusieurs habitations traditionnelles du monde, maison en adobe, trullo et
-maison sur pilotis, cote a cote, legende et texte alternatif a fournir ulterieurement.]
+```schema
+type: systeme
+titre: L'architecture vernaculaire
+centre: Maison traditionnelle
+icone: house
+parties:
+  - nom: Matériaux locaux
+    role: Terre, bois, pierre, bambou.
+  - nom: Climat
+    role: S'y adapter plutôt que le combattre.
+  - nom: Savoir transmis
+    role: Sans plan.
+```
 
 ---
 
@@ -3279,6 +3813,20 @@ quiz:
     explanation: >
       La chaleur accélère les réactions chimiques qui fragilisent le papier, et la lumière,
       surtout ultraviolette, décolore et affaiblit les fibres au fil du temps.
+  - question: "Pourquoi des variations brutales de température ou d'humidité sont-elles à éviter ?"
+    options:
+      - "Elles favorisent seulement les insectes"
+      - "Elles sont souvent plus dommageables qu'une condition légèrement défavorable mais constante"
+      - "Elles sont sans effet tant que l'air n'est pas trop sec"
+    answer: 2
+    explanation: "La stabilité compte plus que la perfection : des variations brutales abîment souvent davantage qu'une condition un peu défavorable mais constante."
+  - question: "Pourquoi dupliquer un document important le protège-t-il ?"
+    options:
+      - "Une copie vieillit moins vite que l'original"
+      - "Une copie numérique ne peut jamais être détruite"
+      - "Cela répartit le risque : une copie conservée ailleurs survit à la destruction de l'original"
+    answer: 3
+    explanation: "Si l'original brûle ou est inondé, une copie située ailleurs préserve l'information : la duplication répartit le risque de perte totale."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3328,9 +3876,17 @@ retrouver un document précis.
 - Dupliquer un document important répartit le risque de perte totale.
 - Un classement clair rend une collection réellement utilisable, pas seulement conservée.
 
-[Emplacement image : rayonnages d'archives dans une pièce fraîche et sombre, avec des documents
-rangés à plat et verticalement selon leur format, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: Les ennemis des documents anciens
+centre: Document ancien
+icone: book
+parties:
+  - nom: Chaleur
+  - nom: Humidité
+  - nom: Lumière
+  - nom: Insectes
+```
 
 ---
 
@@ -3426,6 +3982,20 @@ quiz:
     explanation: >
       Un objet ancien peut survivre sans que personne ne sache encore le fabriquer : c'est la
       transmission vivante du geste, de maître à apprenti, qui maintient un savoir-faire en vie.
+  - question: "Comment le compagnonnage organise-t-il la transmission d'un métier ?"
+    options:
+      - "Par des manuels détaillés que l'apprenti étudie seul"
+      - "Par un apprentissage long, souvent itinérant, où l'apprenti répète le geste du maître"
+      - "Par des concours entre ateliers qui retiennent les meilleurs gestes"
+    answer: 2
+    explanation: "Le compagnonnage repose sur un apprentissage long où l'apprenti observe, répète et perfectionne le geste du maître jusqu'à le maîtriser."
+  - question: "Que peut-on tenter quand un savoir-faire a disparu ?"
+    options:
+      - "Le retrouver à l'identique en observant simplement les objets fabriqués"
+      - "Y renoncer, car aucune méthode ne permet de le retrouver"
+      - "Le reconstituer par l'étude d'objets, de textes ou par essais successifs, mais rarement avec la même précision"
+    answer: 3
+    explanation: "Objets anciens, textes techniques et essais permettent parfois de reconstituer une technique, rarement aussi précisément qu'avec une transmission continue."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3477,8 +4047,15 @@ qu'une transmission directe et continue.
 - Reconstruire une technique perdue est possible, mais rarement aussi précis qu'une transmission
   directe.
 
-[Emplacement image : un artisan expérimenté montrant un geste précis à un jeune apprenti dans un
-atelier, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Transmettre un savoir-faire
+elements:
+  - titre: Le maître montre le geste
+  - titre: L'apprenti répète
+  - titre: Le geste devient maîtrisé
+  - titre: L'apprenti transmet à son tour
+```
 
 ---
 
@@ -3675,6 +4252,20 @@ quiz:
     explanation: >
       Le tamis de bambou, trempé dans la cuve puis secoué doucement, retenait les fibres en une
       fine couche uniforme qui, une fois pressée et séchée, devenait une feuille de papier.
+  - question: "Pourquoi secoue-t-on régulièrement le tamis après l'avoir plongé dans la cuve ?"
+    options:
+      - "Pour faire écouler la colle du papier"
+      - "Pour séparer les fibres de cellulose"
+      - "Pour répartir les fibres uniformément en une fine couche entrelacée"
+    answer: 3
+    explanation: "Le mouvement de secousse répartit les fibres de façon homogène et forme la fine couche qui deviendra la feuille."
+  - question: "À quoi sert le pilage des fibres bouillies ?"
+    options:
+      - "À former une pâte fibreuse homogène en séparant les fibres de cellulose"
+      - "À faire sécher les fibres avant de les presser"
+      - "À fixer l'encre dans le support"
+    answer: 1
+    explanation: "Après ébullition, le pilage au maillet ou au mortier sépare les fibres de cellulose et produit la pâte homogène."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3724,8 +4315,16 @@ diffusion des connaissances et de l'écrit.
 - Un tamis de bambou capture les fibres en une fine couche qui deviendra la feuille.
 - Cette invention s'est diffusée du monde chinois vers le Moyen-Orient puis l'Europe.
 
-[Emplacement image : étapes de la fabrication du papier, du tamis de bambou plongé dans la pâte
-jusqu'aux feuilles séchant au soleil, légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Fabriquer du papier
+type: etapes
+elements:
+  - titre: Pâte de fibres
+  - titre: Tamis
+    texte: Il capture les fibres.
+  - titre: Presser
+  - titre: Sécher
+```
 
 ---
 
@@ -3802,6 +4401,20 @@ quiz:
     explanation: >
       Contrairement à d'autres encres, celle au fer et à la noix de galle pénètre dans les fibres
       du support et résiste à l'eau après séchage, ce qui explique sa longévité d'usage.
+  - question: "Pourquoi la plume d'oiseau est-elle taillée en biseau puis légèrement fendue ?"
+    options:
+      - "Pour la rendre plus rigide qu'un calame"
+      - "Pour retenir l'encre et la laisser s'écouler régulièrement"
+      - "Pour l'utiliser uniquement avec de l'encre au carbone"
+    answer: 2
+    explanation: "La taille en biseau et la fente permettent à la plume de retenir l'encre et de la libérer de façon régulière sur le support."
+  - question: "Quel défaut présente l'encre au carbone une fois appliquée ?"
+    options:
+      - "Elle abîme les fibres du support"
+      - "Elle est très difficile à fabriquer"
+      - "Elle reste sensible à l'eau"
+    answer: 3
+    explanation: "L'encre au carbone, faite de suie et de liant, est simple à fabriquer mais reste sensible à l'eau, contrairement à l'encre au fer et à la noix de galle."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3852,8 +4465,18 @@ calame taillé à la main.
 - Le calame de roseau reste une alternative plus rigide, adaptée à certaines calligraphies.
 - Une encre simple peut se fabriquer avec de la suie broyée et un liant comme la gomme arabique.
 
-[Emplacement image : une plume d'oiseau taillée trempée dans un encrier, à côté d'un calame de
-roseau, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux encres anciennes
+colonnes:
+  - titre: Encre au carbone
+    points:
+      - Suie et liant
+      - Depuis environ 2700 av. J.-C.
+  - titre: Encre au fer et à la noix de galle
+    points:
+      - Permanente
+```
 
 ---
 
@@ -4211,6 +4834,12 @@ sources:
   - title: "Musical notation"
     url: "https://en.wikipedia.org/wiki/Musical_notation"
     publisher: "Wikipedia"
+  - title: "Notation musicale"
+    url: "https://www.larousse.fr/encyclopedie/musdico/notation_musicale/169355"
+    publisher: "Larousse"
+  - title: "Musical notation - Introduction"
+    url: "https://www.britannica.com/art/musical-notation/Introduction"
+    publisher: "Encyclopaedia Britannica"
 quiz:
   - question: "Combien de lignes compte une portée ?"
     options:
@@ -4269,6 +4898,19 @@ La forme de la note dit combien de temps elle dure. Une ronde est un rond vide. 
 ## Do, ré, mi, fa, sol, la
 
 Les noms des notes viennent d'un moine italien, Guido d'Arezzo, qui a vécu vers 992-1050. Pour aider les chanteurs à retenir les sons, il a utilisé un hymne latin à saint Jean-Baptiste, « Ut queant laxis ». Chaque vers commence une note plus haut que le précédent. Il a gardé la première syllabe de chaque vers : ut, ré, mi, fa, sol, la. Plus tard, « ut » est devenu « do », plus facile à chanter. Dans les pays de langue anglaise ou allemande, on désigne plutôt les notes par des lettres, de A à G.
+
+```schema
+type: systeme
+titre: Lire une partition
+centre: Note
+icone: note
+parties:
+  - nom: Portée
+    role: Cinq lignes ; plus haut, plus aigu.
+  - nom: Clé
+  - nom: Forme de la note
+    role: Elle donne la durée.
+```
 
 ## À retenir
 
@@ -4463,6 +5105,9 @@ sources:
   - title: "Hohle Fels"
     url: "https://en.wikipedia.org/wiki/Hohle_Fels"
     publisher: "Wikipedia"
+  - title: "Flûte"
+    url: "https://www.universalis.fr/encyclopedie/flute/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Sur quoi le souffle se brise-t-il dans une flûte ?"
     options:
@@ -4522,6 +5167,19 @@ Dans la flûte à bec, un petit conduit dirige le souffle vers le biseau. Dans l
 ## Le plus vieil instrument connu
 
 Des fragments de flûte ont été trouvés dans la grotte de Hohle Fels, en Allemagne. Ils ont environ 35 000 ans et sont taillés dans un os de vautour. Ce sont parmi les plus anciens instruments de musique connus. Au XIXe siècle, Theobald Boehm a perfectionné le système de clés de la flûte traversière moderne.
+
+```schema
+type: etapes
+titre: Le son d'une flûte
+elements:
+  - titre: Souffle
+  - titre: Biseau
+    texte: Le souffle s'y brise et oscille.
+  - titre: Colonne d'air
+    texte: Elle vibre dans le tube.
+  - titre: Trous
+    texte: Ils changent la note.
+```
 
 ## À retenir
 
@@ -5736,6 +6394,9 @@ sources:
   - title: "ISO 7001"
     url: "https://en.wikipedia.org/wiki/ISO_7001"
     publisher: "Wikipedia"
+  - title: "NF ISO 7001 - Graphical symbols - Public information symbols"
+    url: "https://www.boutique.afnor.org/en-gb/standard/nf-iso-7001/graphical-symbols-public-information-symbols/fa132773/30493"
+    publisher: "AFNOR"
 quiz:
   - question: "Qu'est-ce qui rend un pictogramme compréhensible sans mots ?"
     options:
@@ -5798,6 +6459,16 @@ Pour qu'un pictogramme soit compris partout, il faut que tout le monde utilise l
 ## Les pictogrammes olympiques
 
 Les Jeux olympiques accueillent des sportifs et des spectateurs de nombreux pays. Depuis les Jeux de Tokyo en 1964, dessinés par l'équipe de Masaru Katsumi, chaque sport y a son pictogramme. Ceux des Jeux de Munich, en 1972, ont eu une très grande influence sur le dessin des pictogrammes. Depuis, chaque édition des Jeux crée sa propre série.
+
+```schema
+type: systeme
+titre: Un bon pictogramme
+centre: Pictogramme
+parties:
+  - nom: Ressemblance
+  - nom: Simplicité
+  - nom: Règles partagées
+```
 
 ## À retenir
 
@@ -5947,6 +6618,12 @@ sources:
   - title: "Estampe"
     url: "https://fr.wikipedia.org/wiki/Estampe"
     publisher: "Wikipédia"
+  - title: "Estampe"
+    url: "https://www.larousse.fr/encyclopedie/divers/estampe/49453"
+    publisher: "Larousse"
+  - title: "Estampe"
+    url: "https://www.universalis.fr/encyclopedie/estampe/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Comment appelle-t-on l'image imprimée à partir d'une gravure ?"
     options:
@@ -6006,6 +6683,21 @@ Dans la taille-douce, c'est l'inverse. Le graveur creuse les traits du dessin da
 ## Des images pour beaucoup de monde
 
 La gravure sur bois existait en Chine dès le VIIe siècle. En Europe, elle apparaît vers 1400, et la gravure sur cuivre vers 1430. Grâce à elle, une même image pouvait être vendue à de nombreux exemplaires, bien moins cher qu'une peinture. Des artistes comme Albrecht Dürer ou Rembrandt sont devenus célèbres grâce à leurs gravures. Au XIXe siècle, la photographie lui fait concurrence.
+
+```schema
+type: comparaison
+titre: Deux familles de gravure
+legende: L'image imprimée est inversée, comme dans un miroir.
+colonnes:
+  - titre: En relief
+    points:
+      - On creuse autour du dessin
+      - L'encre reste sur les parties hautes
+  - titre: En creux
+    points:
+      - On creuse le dessin
+      - L'encre reste dans les creux
+```
 
 ## À retenir
 
@@ -6560,6 +7252,9 @@ sources:
   - title: "Ceramic"
     url: "https://en.wikipedia.org/wiki/Ceramic"
     publisher: "Wikipedia"
+  - title: "Document pédagogique (Lillonum)"
+    url: "https://lillonum.univ-lille.fr/files/original/204d63940a429eeb3746d0b45261ef2332c6dbab.pdf"
+    publisher: "Université de Lille"
 quiz:
   - question: "Que devient une poterie d'argile sèche mais non cuite si on la plonge dans l'eau ?"
     options:
@@ -6625,6 +7320,19 @@ La terre cuite reste poreuse : elle garde de minuscules trous où l'eau peut pas
 ## Le plus vieil art du feu
 
 La céramique est née avant le travail des métaux et du verre. Les plus anciens morceaux de poterie connus ont été trouvés en Chine : ils ont environ 20 000 ans avant notre ère. Aujourd'hui, la céramique sert aussi bien pour la vaisselle et les lavabos que pour les briques, les tuiles ou des pièces d'industrie.
+
+```schema
+type: etapes
+titre: De l'argile à la céramique
+elements:
+  - titre: Modeler
+    texte: L'argile mouillée.
+  - titre: Sécher
+    texte: Elle reste fragile.
+  - titre: Cuire
+    texte: Les grains se soudent.
+    icone: fire
+```
 
 ## À retenir
 
@@ -6799,6 +7507,17 @@ L'enduit sèche en quelques heures. Le peintre n'en étale donc chaque jour que 
 
 En Italie, entre 1303 et 1305, Giotto couvre de fresques la chapelle des Scrovegni, à Padoue. Entre 1508 et 1512, Michel-Ange peint à fresque le plafond de la chapelle Sixtine, à Rome, à la demande du pape Jules II.
 
+```schema
+titre: La fresque
+type: etapes
+elements:
+  - titre: Enduit de chaux frais
+  - titre: Pigments et eau
+  - titre: Carbonatation
+    texte: La chaux réagit avec le gaz carbonique.
+  - titre: Pigments pris dans la pierre
+```
+
 ## À retenir
 
 - Une fresque est peinte avec des pigments et de l'eau sur un enduit de chaux encore frais.
@@ -6914,6 +7633,12 @@ sources:
   - title: "Camera obscura"
     url: "https://en.wikipedia.org/wiki/Camera_obscura"
     publisher: "Wikipedia"
+  - title: "Chambre noire, chambre optique, reproduction graphique"
+    url: "https://www.universalis.fr/encyclopedie/chambre-noire-chambre-optique/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "La camera obscura immobilis, ou les origines mouvementées de la photographie"
+    url: "https://books.openedition.org/septentrion/46706"
+    publisher: "Presses universitaires du Septentrion"
 quiz:
   - question: "Dans quel sens apparaît l'image au fond de la chambre noire ?"
     options:
@@ -6974,6 +7699,16 @@ Si le trou est grand, il laisse entrer beaucoup de lumière, mais chaque point d
 ## Une idée très ancienne
 
 Le premier texte connu sur ce phénomène a été écrit en Chine vers 500 avant notre ère, par le penseur Mozi. Vers l'an 1000, le savant arabe Ibn al-Haytham a étudié la chambre noire en détail. Plus tard, on a remplacé le trou par une lentille pour obtenir une image plus lumineuse, puis on a posé au fond un matériau sensible à la lumière : l'appareil photo était né. La nature fabrique aussi des sténopés. Pendant une éclipse partielle, les trous entre les feuilles d'un arbre projettent au sol de petits croissants de Soleil.
+
+```schema
+type: etapes
+titre: La chambre noire
+elements:
+  - titre: Lumière en ligne droite
+  - titre: Les rayons se croisent dans le trou
+  - titre: Image inversée sur le fond
+    icone: camera
+```
 
 ## À retenir
 
@@ -7870,6 +8605,9 @@ sources:
   - title: "Papyrus"
     url: "https://en.wikipedia.org/wiki/Papyrus"
     publisher: "Wikipedia"
+  - title: "Papyrus making in Egypt"
+    url: "https://www.metmuseum.org/fr/essays/papyrus-making-in-egypt"
+    publisher: "The Metropolitan Museum of Art"
 quiz:
   - question: "Quelle partie de la plante utilisait-on pour fabriquer le papyrus ?"
     options:
@@ -7935,6 +8673,16 @@ Le plus ancien papyrus connu date d'environ 2900 avant notre ère. Il a été tr
 ## La fin du papyrus
 
 Au Moyen Âge, il devient plus difficile d'en faire venir d'Égypte jusqu'en Europe. Le parchemin, fait de peau d'animal et plus solide, prend sa place. En France, il le remplace vers 670. Le papier, inventé en Chine, s'impose ensuite en Europe à partir du XIIe siècle. Le mot « papier » vient d'ailleurs du mot « papyrus ».
+
+```schema
+type: etapes
+titre: Fabriquer du papyrus
+elements:
+  - titre: Moelle de la tige
+  - titre: Lamelles en deux couches croisées
+  - titre: Presser
+  - titre: Sécher
+```
 
 ## À retenir
 
@@ -8423,95 +9171,6 @@ status: planned
 ---
 
 À rédiger.
-
----
-type: article
-title: Comment un arc en pierre tient-il debout grâce à son propre poids ?
-slug: comment-un-arc-en-pierre-tient-il-debout-grace-a-son-propre-poids
-categoryPath: arts-et-culture/patrimoine/architecture
-summary: >
-  Un arc en plein cintre est un demi-cercle de pierres taillées en coin. Chaque pierre pousse
-  sur ses voisines, et le poids descend le long de l'arc jusqu'aux piliers. Les pierres sont
-  serrées les unes contre les autres au lieu de tomber.
-tags: [architecture]
-sources:
-  - title: "Arc en plein cintre"
-    url: "https://fr.wikipedia.org/wiki/Arc_en_plein_cintre"
-    publisher: "Wikipédia"
-  - title: "Arch"
-    url: "https://en.wikipedia.org/wiki/Arch"
-    publisher: "Wikipedia"
-  - title: "Voussoir"
-    url: "https://en.wikipedia.org/wiki/Voussoir"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Quelle forme a un arc en plein cintre ?"
-    options:
-      - "Un triangle"
-      - "Un demi-cercle"
-      - "Un carré"
-    answer: 2
-    explanation: >
-      Un arc en plein cintre forme un demi-cercle parfait, sans pointe.
-  - question: "Comment s'appellent les pierres taillées en coin qui forment l'arc ?"
-    options:
-      - "Les voussoirs"
-      - "Les briques plates"
-      - "Les galets"
-    answer: 1
-    explanation: >
-      Les pierres de l'arc s'appellent des voussoirs. Leur forme en coin les empêche de
-      glisser vers le bas.
-  - question: "À quoi sert le cintre en bois pendant la construction ?"
-    options:
-      - "À décorer l'arc"
-      - "À le peindre"
-      - "À soutenir les pierres tant que l'arc n'est pas fermé"
-    answer: 3
-    explanation: >
-      Le cintre est un gabarit en bois qui porte les pierres pendant la pose. On le retire
-      quand la dernière pierre est en place.
-  - question: "Quelle construction romaine célèbre utilise des arcs en plein cintre ?"
-    options:
-      - "La tour Eiffel"
-      - "Le pont du Gard"
-      - "Le Burj Khalifa"
-    answer: 2
-    explanation: >
-      Le pont du Gard, un aqueduc romain, aligne plusieurs étages d'arcs en plein cintre.
-lastVerified: 2026-10-09
-status: published
----
-
-## En bref
-
-Un arc en plein cintre est un demi-cercle de pierres taillées en coin. Chaque pierre pousse sur ses voisines, et le poids descend le long de l'arc jusqu'aux piliers. Les pierres sont serrées les unes contre les autres au lieu de tomber.
-
-## Un demi-cercle de pierres
-
-Un arc en plein cintre forme un demi-cercle parfait. Il est fait de pierres taillées en forme de coin, appelées voussoirs. Elles sont plus larges en haut qu'en bas. La pierre placée tout en haut, au centre, s'appelle la clé. L'arc repose de chaque côté sur un support vertical, le piédroit.
-
-## Le poids qui serre au lieu de faire tomber
-
-Une pierre posée en l'air tombe. Mais dans un arc, chaque voussoir est coincé entre ses deux voisins. Son poids le pousse vers le bas, et sa forme en coin l'empêche de passer entre les autres. Il appuie donc sur eux. De pierre en pierre, le poids descend le long de la courbe jusqu'aux piédroits. Toutes les pierres sont comprimées, c'est-à-dire serrées les unes contre les autres. Or la pierre résiste très bien à la compression.
-
-L'arc ne pousse pas seulement vers le bas. Il pousse aussi vers l'extérieur, sur les côtés. Les supports doivent donc être assez épais et lourds pour ne pas s'écarter.
-
-## Un échafaudage en bois
-
-Tant que la clé n'est pas posée, l'arc ne tient pas. Les bâtisseurs construisent d'abord un gabarit en bois en forme de demi-cercle : le cintre. Ils posent les voussoirs dessus, des deux côtés à la fois, puis placent la clé au sommet. L'arc se tient alors tout seul, et le cintre peut être retiré.
-
-## Des Romains aux églises romanes
-
-Les Romains ont beaucoup utilisé l'arc en plein cintre, dans leurs bâtiments comme dans leurs aqueducs. Le pont du Gard en aligne plusieurs étages. Au Moyen Âge, il devient l'élément principal de l'architecture romane. À la Renaissance, les architectes le reprennent comme un modèle venu de l'Antiquité.
-
-## À retenir
-
-- Un arc en plein cintre est un demi-cercle de pierres taillées en coin, les voussoirs.
-- Le poids de chaque pierre la serre contre ses voisines au lieu de la faire tomber.
-- Le poids descend le long de l'arc jusqu'aux supports, qui doivent aussi résister à une poussée vers l'extérieur.
-- Pendant la construction, un cintre en bois porte les pierres jusqu'à la pose de la clé.
-- Les Romains l'ont beaucoup utilisé, par exemple au pont du Gard.
 
 ---
 type: article
@@ -13168,6 +13827,12 @@ sources:
   - title: "Scriptorium"
     url: "https://en.wikipedia.org/wiki/Scriptorium"
     publisher: "Wikipedia"
+  - title: "carolingiens2"
+    url: "https://multimedia-ext.bnf.fr/pdf/carolingiens2.pdf"
+    publisher: "Bibliothèque nationale de France"
+  - title: "Expo 2016 : Trésors enluminés de Normandie"
+    url: "https://mbarouen.fr/sites/default/files/upload/expo_2016_tresors_enlumines_de_normandie.pdf"
+    publisher: "Musée des Beaux-Arts de Rouen"
 quiz:
   - question: "Sur quoi écrivait-on les manuscrits enluminés ?"
     options:
@@ -13229,6 +13894,18 @@ Les moines copiaient les textes dans le scriptorium, une salle d'écriture des m
 
 Le Livre de Kells et les Très Riches Heures sont des exemples célèbres de manuscrits enluminés. L'imprimerie a fait décliner l'enluminure : on en a encore produit au début du XVIe siècle, mais en bien plus petit nombre et pour les très riches. Une analyse dentaire publiée en 2019 a montré que des femmes ont aussi enluminé des manuscrits.
 
+```schema
+type: etapes
+titre: Fabriquer un manuscrit enluminé
+elements:
+  - titre: Préparer le parchemin
+  - titre: Copier le texte à la main
+  - titre: Peindre les miniatures
+    icone: palette
+  - titre: Poser l'or
+  - titre: Relier
+```
+
 ## À retenir
 
 - Un manuscrit enluminé est un livre copié à la main, dont le texte est décoré de bordures et de miniatures.
@@ -13256,6 +13933,9 @@ sources:
   - title: "Movable type"
     url: "https://en.wikipedia.org/wiki/Movable_type"
     publisher: "Wikipedia"
+  - title: "Gutenberg (Johannes Gensfleisch dit)"
+    url: "https://www.universalis.fr/encyclopedie/gutenberg/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Qui a d'abord inventé le caractère mobile, avec de la céramique ?"
     options:
@@ -13317,6 +13997,18 @@ Les typographes plaçaient à la main les caractères dans un composteur, pris d
 
 Avec la photocomposition puis la publication assistée par ordinateur, les méthodes au plomb ont laissé place à des méthodes numériques. La lisibilité désigne la facilité à distinguer chaque lettre ; la lecturabilité, la facilité à comprendre le texte dans son ensemble.
 
+```schema
+type: frise
+titre: Du plomb à l'écran
+evenements:
+  - date: Caractères mobiles
+    titre: Le plomb
+  - date: Composition au plomb
+    titre: Lignes fondues
+  - date: Numérique
+    titre: Polices sur écran
+```
+
 ## À retenir
 
 - La typographie est l'art et la technique de composer des caractères pour rendre un texte lisible quand on l'affiche ou l'imprime.
@@ -13359,6 +14051,9 @@ sources:
   - title: "Timbre"
     url: "https://en.wikipedia.org/wiki/Timbre"
     publisher: "Wikipedia"
+  - title: "Document Éduscol (fichier 25447)"
+    url: "https://eduscol.education.fr/document/25447/download"
+    publisher: "Éduscol"
 quiz:
   - question: "Que permet de reconnaître le timbre ?"
     options:
@@ -13419,6 +14114,22 @@ Un musicien peut changer le timbre par sa technique : un violoniste qui joue pr�
 ## Consonance, battements et cerveau
 
 Deux notes dont les fréquences sont dans des rapports simples, comme 2/1, 3/2 ou 5/4, sonnent de façon harmonieuse. Un intervalle légèrement désaccordé produit des battements : le son pulse, ce que l'on perçoit comme une dissonance. Une part du timbre est psychologique : elle est perçue par le cerveau et ne se mesure pas directement avec la physique.
+
+```schema
+titre: Ce qui fait le timbre
+type: comparaison
+colonnes:
+  - titre: Fondamentale
+    points:
+      - Elle détermine la hauteur de la note
+  - titre: Harmoniques
+    points:
+      - Leur mélange donne le timbre
+      - Il distingue les instruments
+  - titre: Évolution du son
+    points:
+      - Attaque, décroissance et autres variations participent au timbre.
+```
 
 ## À retenir
 
@@ -13510,6 +14221,17 @@ Des catalogues illustrés, comme le Museum Wormianum d'Ole Worm, faisaient conna
 
 Au XVIIIe siècle, sous l'influence des Lumières, on a classé les objets par nature, ce qui a conduit à la création de musées. Ces collections ont formé le noyau de musées modernes, comme l'Ashmolean Museum d'Oxford et le British Museum.
 
+```schema
+type: etapes
+titre: Du cabinet de curiosités au musée
+elements:
+  - titre: Renaissance
+    texte: Des objets rares naturels, artistiques et scientifiques.
+  - titre: Catalogues
+    texte: Pour les savants.
+  - titre: Musée
+```
+
 ## À retenir
 
 - Un cabinet de curiosités rassemble des objets rares : naturels, artistiques et scientifiques.
@@ -13537,6 +14259,12 @@ sources:
   - title: "Mobilier national"
     url: "https://fr.wikipedia.org/wiki/Mobilier_national"
     publisher: "Wikipédia"
+  - title: "Le Mobilier national et les Manufactures"
+    url: "https://www.culture.gouv.fr/fr/thematiques/arts-plastiques/les-arts-plastiques-en-france/le-mobilier-national-et-les-manufactures"
+    publisher: "Ministère de la Culture"
+  - title: "Manufacture des Gobelins"
+    url: "https://www.universalis.fr/encyclopedie/manufacture-des-gobelins/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Qui étaient les Gobelins à l'origine ?"
     options:
@@ -13597,6 +14325,20 @@ La manufacture est spécialisée dans la tapisserie de haute lisse, tissée par 
 ## Le Mobilier national
 
 Le Mobilier national gère les manufactures des Gobelins, de Beauvais et de la Savonnerie, ainsi que des ateliers de dentelle à Alençon et au Puy-en-Velay. Le Mobilier national meuble les bâtiments officiels de la République, comme l'Élysée, Matignon, les ministères et les ambassades, et gère leurs collections. Le Mobilier national a fusionné avec la Cité de la céramique pour former les Manufactures nationales, Sèvres et Mobilier national. Aujourd'hui, elle fonctionne comme une institution d'État, relevant du ministère de la Culture, et propose des visites et des expositions.
+
+```schema
+type: frise
+titre: Les Gobelins
+evenements:
+  - date: XVe siècle
+    titre: Une famille de teinturiers
+    texte: À Paris, faubourg Saint-Marcel.
+  - date: Louis XIV
+    titre: Manufacture royale
+    texte: Voulue par Colbert.
+  - date: Aujourd'hui
+    titre: Le Mobilier national
+```
 
 ## À retenir
 
@@ -13686,6 +14428,18 @@ La Chine passe pour le berceau du théâtre d'ombres ; des traditions existent a
 
 Dominique Séraphin a installé le théâtre d'ombres en France au XVIIIe siècle, et le cabaret du Chat Noir l'a popularisé à la fin du XIXe siècle.
 
+```schema
+type: systeme
+titre: Les familles de marionnettes
+centre: Marionnette
+parties:
+  - nom: À fils
+  - nom: À gaine
+  - nom: À tringle
+  - nom: Ombres
+    role: Silhouettes derrière un écran.
+```
+
 ## À retenir
 
 - Une marionnette est un objet de jeu théâtral ou à usage sacré, manipulé par un marionnettiste.
@@ -13713,6 +14467,9 @@ sources:
   - title: "Verdigris"
     url: "https://en.wikipedia.org/wiki/Verdigris"
     publisher: "Wikipedia"
+  - title: "Plomb dans les collections muséales"
+    url: "https://www.canada.ca/fr/institut-conservation/services/publications-conservation-preservation/notes-institut-canadien-conservation/plomb-collections-museales.html"
+    publisher: "Institut canadien de conservation (gouvernement du Canada)"
 quiz:
   - question: "De quel métal est fait le blanc de plomb ?"
     options:
@@ -13769,6 +14526,21 @@ Le vermillon est un pigment rouge toxique, fabriqué à partir du cinabre, un mi
 
 Le vert-de-gris est un nom courant pour des sels de cuivre de l'acide acétique, un peu toxiques, qui vont du vert au vert bleuté. Le vert-de-gris a été l'un des principaux pigments verts des artistes, de l'Antiquité à la fin du XXe siècle. Avec le temps, ce pigment vert peut brunir ou s'assombrir. Son usage a reculé au XIXe siècle, quand le vert émeraude et le viridian sont devenus disponibles.
 
+```schema
+type: comparaison
+titre: Trois pigments dangereux
+colonnes:
+  - titre: Blanc de plomb
+    points:
+      - Carbonate de plomb
+  - titre: Vermillon
+    points:
+      - Sulfure de mercure
+  - titre: Vert-de-gris
+    points:
+      - À base de cuivre
+```
+
 ## À retenir
 
 - Le blanc de plomb, ou céruse, est un carbonate basique de plomb utilisé comme pigment blanc.
@@ -13776,93 +14548,6 @@ Le vert-de-gris est un nom courant pour des sels de cuivre de l'acide acétique,
 - Le vermillon est un pigment rouge toxique, fait à partir du cinabre, un minéral de sulfure de mercure.
 - Comme la plupart des composés du mercure, le vermillon est toxique, et l'extraction du cinabre était difficile, chère et dangereuse.
 - Le vert-de-gris est un nom courant pour des sels de cuivre de l'acide acétique, un peu toxiques, qui vont du vert au vert bleuté.
-
----
-type: article
-title: Comment les frères Lumière ont-ils inventé la projection de films ?
-slug: comment-les-freres-lumiere-ont-ils-invente-la-projection-de-films
-categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
-summary: >
-  Les frères Lumière ont breveté le cinématographe en 1895 et donné à Paris la première
-  projection publique payante, avec dix films d'environ cinquante secondes.
-tags: [photographie-et-cinema]
-sources:
-  - title: "Frères Lumière"
-    url: "https://fr.wikipedia.org/wiki/Fr%C3%A8res_Lumi%C3%A8re"
-    publisher: "Wikipédia"
-  - title: "Auguste and Louis Lumière"
-    url: "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re"
-    publisher: "Wikipedia"
-  - title: "Cinématographe"
-    url: "https://fr.wikipedia.org/wiki/Cin%C3%A9matographe"
-    publisher: "Wikipédia"
-quiz:
-  - question: "Que peut faire le cinématographe Lumière ?"
-    options:
-      - "Filmer, tirer des copies et projeter"
-      - "Seulement filmer"
-      - "Seulement projeter"
-    answer: 1
-    explanation: >
-      Le cinématographe Lumière est un appareil trois-en-un qui permet de filmer, de tirer des
-      copies et de projeter des images animées.
-  - question: "Où a lieu la première projection publique payante ?"
-    options:
-      - "Au Salon indien du Grand Café, à Paris"
-      - "À l'Opéra de Lyon"
-      - "Au Louvre"
-    answer: 1
-    explanation: >
-      La première projection publique payante a lieu le 28 décembre 1895, au Salon indien du
-      Grand Café, à Paris.
-  - question: "Combien de films sont projetés ce jour-là ?"
-    options:
-      - "Dix"
-      - "Un seul"
-      - "Cent"
-    answer: 1
-    explanation: >
-      Ce jour-là, dix films très courts sont projetés, d'environ cinquante secondes chacun.
-  - question: "Quelle différence avec le kinétoscope d'Edison ?"
-    options:
-      - "Le cinématographe projette sur un grand écran"
-      - "Il ne montre que des photos fixes"
-      - "Il est muet"
-    answer: 1
-    explanation: >
-      À la différence du kinétoscope d'Edison, qui se regarde seul, le cinématographe projette
-      les images sur un grand écran.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Les frères Lumière ont breveté le cinématographe en 1895 et donné à Paris la première projection publique payante, avec dix films d'environ cinquante secondes.
-
-## Un appareil trois-en-un
-
-Auguste et Louis Lumière étaient des fabricants français de matériel photographique. Le cinématographe Lumière est un appareil trois-en-un qui permet de filmer, de tirer des copies et de projeter des images animées. Le cinématographe utilise une pellicule souple de 35 mm, avec une perforation ronde de chaque côté de chaque image. Une griffe entraîne la pellicule de façon intermittente, image par image, grâce à une came de Reuleaux. À la différence du kinétoscope d'Edison, qui se regarde seul, le cinématographe projette les images sur un grand écran.
-
-## Le brevet et la première séance
-
-Les frères Lumière ont déposé le brevet du cinématographe le 13 février 1895, à Paris. La première projection publique payante a lieu le 28 décembre 1895, au Salon indien du Grand Café, à Paris. Ce jour-là, dix films très courts sont projetés, d'environ cinquante secondes chacun.
-
-## Des films célèbres
-
-La Sortie de l'usine Lumière à Lyon est le premier film de Louis Lumière ; L'Arroseur arrosé est considéré comme le premier film de fiction, une comédie. L'Arrivée d'un train en gare de La Ciotat figure parmi leurs films célèbres.
-
-## Après 1895
-
-En 1896, les frères Lumière font des tournées avec le cinématographe en Europe, au Mexique et en Amérique du Sud. Les frères Lumière ont aussi mis au point l'Autochrome, un procédé de photographie en couleurs. L'Institut Lumière, à Lyon, est installé dans la maison de leur père.
-
-## À retenir
-
-- Le cinématographe est un appareil trois-en-un : il filme, tire des copies et projette.
-- Les frères Lumière ont déposé le brevet du cinématographe le 13 février 1895, à Paris.
-- La première projection publique payante a lieu le 28 décembre 1895, au Salon indien du Grand Café, à Paris.
-- Ce jour-là, dix films très courts sont projetés, d'environ cinquante secondes chacun.
-- La Sortie de l'usine Lumière à Lyon est le premier film de Louis Lumière.
 
 ---
 type: article
@@ -13884,6 +14569,12 @@ sources:
   - title: "Conservation and restoration of cultural property"
     url: "https://en.wikipedia.org/wiki/Conservation_and_restoration_of_cultural_property"
     publisher: "Wikipedia"
+  - title: "Restauration (art contemporain)"
+    url: "https://www.universalis.fr/encyclopedie/art-restauration/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "Restauration (peinture)"
+    url: "https://www.larousse.fr/encyclopedie/peinture/restauration/154081"
+    publisher: "Larousse"
 quiz:
   - question: "Que fait la conservation d'une œuvre ?"
     options:
@@ -13944,6 +14635,18 @@ Le nettoyage des tableaux fait débat : pour certains historiens, il déforme l'
 
 Avant de traiter un tableau, on l'examine et on l'analyse avec des techniques comme l'imagerie multispectrale ou la fluorescence X. La charte de Venise est un texte international fondateur pour la conservation des monuments ; elle pose que la restauration s'arrête là où commence l'hypothèse. En France, des formations publiques délivrent des diplômes d'État qui permettent d'intervenir sur les collections publiques.
 
+```schema
+type: systeme
+titre: Les règles de la restauration
+centre: Restauration
+parties:
+  - nom: Réversibilité
+    role: Pouvoir revenir en arrière.
+  - nom: Lisibilité
+  - nom: Analyse préalable
+  - nom: Documentation
+```
+
 ## À retenir
 
 - La conservation prévient la dégradation ; la restauration intervient directement pour améliorer la lisibilité.
@@ -13959,7 +14662,8 @@ slug: pourquoi-fouille-t-on-avant-de-construire-une-route
 categoryPath: arts-et-culture/patrimoine/musees-et-conservation
 summary: >
   L'archéologie préventive étudie les vestiges menacés par des travaux avant qu'ils ne
-  disparaissent. En France, l'Inrap réalise les diagnostics et les fouilles.
+  disparaissent. En France, l'Inrap et d'autres opérateurs réalisent chaque année environ 2 000
+  diagnostics et plus de 200 fouilles, financés par les aménageurs.
 tags: [musees-et-conservation]
 sources:
   - title: "Archéologie préventive"
@@ -13974,6 +14678,10 @@ sources:
   - title: "Inrap, Institut national de recherches archéologiques préventives"
     url: "https://www.inrap.fr/"
     publisher: "Inrap"
+  - title: "Chiffres clés 2023, archéologie (fiche DEPS)"
+    url: "https://www.culture.gouv.fr/Media/Medias-creation-rapide-Ne-pas-supprimer/Chiffres-cles-2023_DEPS_Arche-ologie_Fiche.pdf"
+    publisher: "Ministère de la Culture"
+    date: "2023"
 quiz:
   - question: "Quand fouille-t-on en archéologie préventive ?"
     options:
@@ -14011,7 +14719,7 @@ quiz:
     explanation: >
       La convention de Malte a fixé un cadre européen de protection du patrimoine archéologique
       menacé par les aménagements.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -14031,9 +14739,29 @@ La convention de Malte a fixé un cadre européen de protection du patrimoine ar
 
 En France, une loi de 2001 a organisé l'archéologie préventive, avec des diagnostics et un financement par les aménageurs. L'Inrap, Institut national de recherches archéologiques préventives, réalise des diagnostics et des fouilles avant les travaux d'aménagement. L'Inrap est un établissement public administratif, placé sous la tutelle des ministères de la Culture et de la Recherche. L'Inrap a remplacé l'Afan, l'Association pour les fouilles archéologiques nationales. L'Inrap assure l'exploitation scientifique des opérations et la diffusion de leurs résultats.
 
+## Deux temps : diagnostic, puis fouille
+
+Le diagnostic vient d'abord. Il consiste en sondages sur le terrain du projet, pour savoir s'il contient des vestiges. En 2022, la France en a réalisé 2 096, contre 2 019 en 2021. Une fouille n'est prescrite que si ces sondages révèlent des vestiges qui méritent d'être étudiés : 238 fouilles ont été menées en 2022.
+
+La différence de nombre montre que la plupart des terrains ne donnent pas lieu à une fouille complète. Mais quand elle a lieu, elle est longue : environ 146 500 journées de travail en 2022, contre 81 460 pour l'ensemble des diagnostics.
+
+## Qui travaille sur le terrain ?
+
+L'Inrap n'est pas seul. Les services archéologiques de collectivités assurent environ 20 % des diagnostics. Treize entreprises privées ou associations agréées réalisent environ 40 % des fouilles. L'Inrap employait 2 280 personnes fin 2021, pour un budget d'environ 189 millions d'euros.
+
 ## Une découverte qui marque
 
 À Dublin, la démolition de Wood Quay a révélé des vestiges vikings exceptionnellement bien conservés et provoqué une vive réaction du public.
+
+```schema
+type: etapes
+titre: L'archéologie préventive
+elements:
+  - titre: Projet d'aménagement
+  - titre: Diagnostic par sondages
+  - titre: Fouille si nécessaire
+  - titre: Étude et publication
+```
 
 ## À retenir
 
@@ -14042,7 +14770,6 @@ En France, une loi de 2001 a organisé l'archéologie préventive, avec des diag
 - La convention de Malte a fixé un cadre européen de protection du patrimoine archéologique menacé par les aménagements.
 - Dans de nombreux pays, c'est l'aménageur qui finance l'archéologie préventive.
 - L'Inrap, Institut national de recherches archéologiques préventives, réalise des diagnostics et des fouilles avant les travaux d'aménagement.
-
 ---
 type: article
 title: Le Laboratoire du Louvre et l'étude des oeuvres

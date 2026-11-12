@@ -1,3 +1,7 @@
+Le travail quotidien est désormais décrit dans [la file backend des illustrations](ILLUSTRATION_BACKEND.md) ; les exports d’audit ci-dessous sont une photographie initiale.
+
+> Suivi obligatoire avant création ou reprise : [inventaire courant](VISUAL_INVENTORY_SUMMARY.md) et [protocole anti-doublons](VISUAL_WORKFLOW.md).
+
 # Créer les visuels d’Anakalypto
 
 Les vingt découvertes fonctionnent maintenant avec des schémas SVG dessinés dans l’application. Le levier, la flottaison, les engrenages, les phases de la Lune et les saisons complètent les quinze premiers sujets. Aucune image à générer n’est nécessaire pour les tester. Le catalogue et les expériences se consultent sur `/decouvrir`. L’inventaire initial figure dans `VISUAL_DELIVERY.md`, les cinq ajouts et leurs limites dans `NEW_VISUAL_SUBJECTS_DELIVERY.md`. Commencer par la justesse pédagogique ; affiner ensuite le style.

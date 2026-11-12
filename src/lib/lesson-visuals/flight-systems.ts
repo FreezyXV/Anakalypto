@@ -71,7 +71,6 @@ export const FLIGHT_SYSTEM_DIAGRAMS: readonly LessonDiagramSpec[] = [
     title: "Du terrain aux secteurs en route",
     paths: [
       "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/controle-du-trafic-aerien-principes",
-      "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/comment-le-controle-aerien-gere-des-milliers-de-vols",
     ],
     steps: [
       {

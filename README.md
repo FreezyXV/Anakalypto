@@ -9,8 +9,8 @@ droit et institutions, géographie, arts et culture, communication et médias, s
 au public curieux à partir de dix ans. Chaque article est rédigé de manière originale,
 cite ses sources et indique la date de leur dernière vérification.
 
-État du corpus au 10 octobre 2026 : 299 catégories sur trois niveaux, 896 articles publiés dans
-les dix-neuf domaines, 2 212 sources citées et 2 646 questions de quiz. S'y ajoutent 11 619 sujets
+État du corpus au 7 novembre 2026 : 299 catégories sur trois niveaux, 1 010 articles publiés dans
+les dix-neuf domaines, 2 660 sources citées et 2 988 questions de quiz. S'y ajoutent 11 538 sujets
 planifiés, présents dans les fichiers mais non publiés. Les articles visent un lectorat à partir de
 dix ans : chacun s'ouvre sur une section `## En bref`, se ferme sur `## À retenir`, et se termine
 par un quiz de deux à quatre questions.
@@ -22,6 +22,11 @@ statut `published` et liées à un article publié. Ce format est disponible en 
 sur `/decouvrir` ; il n'est pas encore déployé en production. Le contrat de données est décrit
 dans `docs/collaboration/DISCOVERY_CONTRACT.md`, l'audit éditorial associé dans
 `docs/EDITORIAL_REVIEW.md`.
+
+Les articles peuvent contenir des **schémas pédagogiques** écrits en YAML dans un bloc
+`schema` : étapes, cycle, pyramide, frise, système, comparaison, barres, chiffres clés et
+échelle. Ils sont rendus en HTML accessible, sans image à produire, et validés à l'import. Le
+format est décrit dans `docs/SCHEMAS.md`.
 
 Le moteur visuel propose aussi des chaînes bouclées, des points d’arrêt explicites et un piston
 animé par curseur pour les quatre temps. L’intégration de la livraison Claude et les limites du

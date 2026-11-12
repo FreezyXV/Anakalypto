@@ -302,7 +302,7 @@ summary: >
   Énoncées en 1687, elles suffisent encore aujourd'hui à calculer la trajectoire d'une sonde
   spatiale vers Jupiter.
 tags: [Newton, mecanique, forces, inertie, mouvement]
-relatedArticles: [energie-et-conservation, physique-portance-aerodynamique]
+relatedArticles: [energie-et-conservation, pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air]
 sources:
   - title: "Newton's laws of motion"
     url: "https://www.britannica.com/science/Newtons-laws-of-motion"
@@ -312,6 +312,9 @@ sources:
     url: "https://www.britannica.com/science/physics-science"
     publisher: "Encyclopaedia Britannica"
     date: "2025"
+  - title: "Newton's Laws of Motion"
+    url: "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/"
+    publisher: "NASA Glenn Research Center"
 quiz:
   - question: "Que dit le principe d'inertie ?"
     options:
@@ -331,6 +334,20 @@ quiz:
     explanation: >
       C'est la troisième loi. Sans cette réaction du sol, vous ne pourriez pas avancer — ce
       qu'on constate sur une surface parfaitement glissante.
+  - question: "Pourquoi doit-on continuer d'appuyer sur l'accélérateur pour maintenir une vitesse constante ?"
+    options:
+      - "Parce qu'une force est toujours nécessaire pour entretenir une vitesse."
+      - "Parce que le moteur compense simplement les frottements."
+      - "Parce que la voiture perd de la masse en roulant."
+    answer: 2
+    explanation: "Une force produit un changement de vitesse, pas une vitesse. À vitesse constante, le moteur ne fait que compenser les frottements."
+  - question: "Pourquoi une fusée peut-elle fonctionner dans le vide ?"
+    options:
+      - "Parce qu'elle s'appuie sur la haute atmosphère pour avancer."
+      - "Parce qu'elle utilise le frottement des gaz contre l'espace."
+      - "Parce qu'elle projette des gaz vers l'arrière et que ceux-ci la poussent vers l'avant, sans rien contre quoi s'appuyer."
+    answer: 3
+    explanation: "C'est la troisième loi : l'action des gaz expulsés entraîne une réaction égale et opposée sur la fusée. Aucun appui extérieur n'est nécessaire."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -399,8 +416,24 @@ Newton restent d'une précision suffisante.
 - Toute action s'accompagne d'une réaction égale et opposée.
 - Ces lois cessent d'être exactes près de la vitesse de la lumière et à l'échelle atomique.
 
-[Emplacement image : les trois lois de Newton illustrées par des situations concrètes, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+titre: Les trois lois de Newton
+type: comparaison
+colonnes:
+  - titre: Inertie
+    points:
+      - >-
+        Si la résultante des forces est nulle, le mouvement rectiligne uniforme ou le repos est
+        conservé.
+  - titre: Force et accélération
+    points:
+      - La résultante des forces est liée à l’accélération ; pour une masse constante, F = m × a.
+  - titre: Action et réaction
+    points:
+      - >-
+        Deux corps exercent l’un sur l’autre des forces égales et opposées, appliquées à des corps
+        différents.
+```
 
 ---
 
@@ -442,6 +475,20 @@ quiz:
     explanation: >
       Rien ne se perd, mais tout ne revient pas sous forme utilisable. Le bruit du rebond est
       littéralement de l'énergie qui part ailleurs.
+  - question: "Pourquoi doubler la vitesse d'une voiture multiplie-t-il par quatre son énergie cinétique ?"
+    options:
+      - "Parce que l'énergie cinétique dépend de la masse et du carré de la vitesse."
+      - "Parce que la masse de la voiture double aussi avec la vitesse."
+      - "Parce que l'énergie cinétique dépend du double de la vitesse."
+    answer: 1
+    explanation: "L'énergie cinétique varie comme le carré de la vitesse : vitesse deux fois plus grande, énergie quatre fois plus grande, et choc beaucoup plus violent."
+  - question: "Pourquoi un moteur thermique ne peut-il jamais atteindre 100 % de rendement ?"
+    options:
+      - "Parce que la technique actuelle n'est pas encore assez avancée."
+      - "Parce que c'est une loi de la nature, pas un problème de technique."
+      - "Parce que l'énergie du carburant disparaît en cours de route."
+    answer: 2
+    explanation: "Aucune machine thermique ne peut convertir toute son énergie en mouvement : ce n'est pas un défaut technique mais une loi de la nature."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -516,8 +563,20 @@ de technique : c'est une loi de la nature.
 - Une énergie dispersée en chaleur n'est plus utilisable, même si elle existe toujours.
 - Le rendement mesure la part réellement convertie sous la forme voulue.
 
-[Emplacement image : transformations de l'énergie d'une balle qui tombe et rebondit, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les formes de l'énergie
+legende: L'énergie change de forme mais ne se crée ni ne se détruit.
+centre: Énergie
+icone: bolt
+parties:
+  - nom: Cinétique
+    role: Elle varie comme le carré de la vitesse.
+  - nom: Potentielle
+  - nom: Chimique
+  - nom: Thermique
+    role: Une énergie dispersée, difficile à récupérer.
+```
 
 ---
 
@@ -560,6 +619,20 @@ quiz:
     explanation: >
       C'est le point le plus troublant. Le simple fait d'obtenir l'information sur le chemin
       suivi détruit le comportement ondulatoire.
+  - question: "Que verrait-on sur l'écran si les particules se comportaient comme de simples billes ?"
+    options:
+      - "Une succession de franges claires et sombres."
+      - "Un écran uniformément éclairé."
+      - "Deux bandes, une derrière chaque fente."
+    answer: 3
+    explanation: "Des billes passeraient par l'une ou l'autre fente et formeraient deux bandes. Les franges observées montrent un comportement d'onde."
+  - question: "Que sait-on et que débat-on à propos de ces résultats quantiques ?"
+    options:
+      - "Les équations sont bien établies et prédisent les résultats, mais leur interprétation reste débattue."
+      - "L'interprétation est tranchée, mais les équations ne prédisent pas bien les résultats."
+      - "Ni les équations ni l'interprétation ne sont acceptées par les physiciens."
+    answer: 1
+    explanation: "La description mathématique est la mieux vérifiée de la physique. C'est ce qui se passe réellement entre l'émission et la détection qui reste discuté."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -625,8 +698,17 @@ propriété de la nature, vérifiée des milliers de fois.
 - Mesurer par quelle fente elles passent détruit la figure.
 - Les équations sont parfaitement établies ; leur interprétation reste débattue.
 
-[Emplacement image : figure d'interférence obtenue avec des particules envoyées une par une,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'expérience des deux fentes
+elements:
+  - titre: Envoyer des particules
+  - titre: Deux fentes
+  - titre: Figure d'interférence
+    texte: Comme des ondes, même envoyées une par une.
+  - titre: Observer par quelle fente
+    texte: La figure disparaît.
+```
 
 ---
 
@@ -668,6 +750,20 @@ quiz:
     explanation: >
       Une vibration, un champ magnétique parasite, un photon suffisent. Sans correction
       efficace, l'erreur s'accumule bien avant la fin d'un calcul utile.
+  - question: "Pourquoi les qubits sont-ils maintenus à des températures proches du zéro absolu et isolés ?"
+    options:
+      - "Parce que le froid leur permet de contenir deux fois plus d'information."
+      - "Parce que la chaleur est nécessaire pour déclencher la mesure."
+      - "Parce qu'une vibration, un champ parasite ou un photon égaré peut détruire leur superposition."
+    answer: 3
+    explanation: "Les qubits sont extrêmement fragiles. La décohérence détruit leur état quantique en une fraction de seconde, d'où cet isolement, qui ne suffit pourtant pas à supprimer les erreurs."
+  - question: "Que se passe-t-il avec la correction d'erreurs quand le taux d'erreur individuel est trop élevé ?"
+    options:
+      - "Ajouter des qubits réduit encore plus les erreurs."
+      - "Le nombre de qubits n'a aucune influence sur le taux d'erreur."
+      - "Agrandir le système empire les choses, car chaque qubit ajoute des sources d'erreur."
+    answer: 3
+    explanation: "Il existe un seuil : en dessous, plus de qubits réduisent les erreurs, au-dessus c'est l'inverse. Franchir ce seuil est l'étape décisive."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -739,8 +835,19 @@ sous-estimés.
 - La décohérence détruit l'état quantique en une fraction de seconde.
 - Le seuil de correction d'erreurs est l'étape décisive vers un calcul utile.
 
-[Emplacement image : bit classique et qubit superposé, principe de la correction d'erreurs,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Bit et qubit
+type: comparaison
+colonnes:
+  - titre: Bit
+    points:
+      - Vaut 0 ou 1
+  - titre: Qubit
+    icone: atom
+    points:
+      - Peut être dans une superposition des états 0 et 1 ; la mesure dans cette base donne 0 ou 1.
+      - Très sensible aux erreurs
+```
 
 ---
 
@@ -783,6 +890,20 @@ quiz:
     explanation: >
       Les équations prédisaient des ondes se déplaçant à une vitesse calculable, qui s'est
       révélée être exactement celle de la lumière. La conclusion s'est imposée d'elle-même.
+  - question: "Que montre l'aiguille de boussole qui dévie près d'un fil parcouru par un courant ?"
+    options:
+      - "Qu'un courant électrique produit du magnétisme."
+      - "Qu'un aimant produit de l'électricité même immobile."
+      - "Que la Terre cesse un instant d'être magnétique."
+    answer: 1
+    explanation: "En 1820, cette observation a révélé que l'électricité produit du magnétisme. Elle a mené à l'électroaimant, qu'on allume et éteint à volonté."
+  - question: "Pourquoi le transformateur est-il indispensable au réseau électrique ?"
+    options:
+      - "Il produit l'électricité à partir du mouvement d'un aimant."
+      - "Il permet d'élever ou d'abaisser une tension, sans quoi le transport sur de longues distances serait impossible."
+      - "Il transforme directement la lumière en courant électrique."
+    answer: 2
+    explanation: "Sans transformateur, on ne pourrait pas adapter la tension pour transporter l'électricité sur de longues distances."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -852,8 +973,19 @@ production des premières ondes radio.
 - Toute l'électricité mondiale est produite par des alternateurs fondés sur ce principe.
 - Les équations de Maxwell ont révélé que la lumière est une onde électromagnétique.
 
-[Emplacement image : induction dans une bobine et principe de l'alternateur, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Deux découvertes symétriques
+type: comparaison
+colonnes:
+  - titre: Courant vers aimant
+    points:
+      - Un courant électrique crée un champ magnétique
+  - titre: Aimant vers courant
+    icone: magnet
+    points:
+      - Une variation du flux magnétique induit une tension.
+      - 'Un courant peut alors circuler dans un circuit fermé : c’est l’induction.'
+```
 
 ---
 
@@ -895,6 +1027,20 @@ quiz:
     explanation: >
       Au-delà d'une température caractéristique, l'agitation devient plus forte que ce qui
       maintient l'alignement. Les domaines se désorientent et le magnétisme disparaît.
+  - question: "Pourquoi un morceau de fer ordinaire n'est-il pas un aimant ?"
+    options:
+      - "Parce que ses électrons ne possèdent aucune propriété magnétique."
+      - "Parce qu'il est trop pur pour pouvoir s'aimanter."
+      - "Parce qu'il est divisé en domaines orientés dans des directions différentes, qui s'annulent."
+    answer: 3
+    explanation: "Dans chaque domaine tout est aligné, mais les domaines pointent dans des directions variées et leurs effets s'annulent. Dans un aimant permanent, l'alignement est figé."
+  - question: "Comment la Terre produit-elle son champ magnétique ?"
+    options:
+      - "Par un gros aimant permanent enfoui près de sa surface."
+      - "Par le mouvement de métal liquide dans son noyau externe, selon un mécanisme de dynamo."
+      - "Par la chaleur des particules chargées venues du Soleil."
+    answer: 2
+    explanation: "Le noyau externe, fait de métal liquide en mouvement, engendre le champ par un mécanisme de dynamo. Ce champ oriente les boussoles et dévie des particules solaires."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -969,8 +1115,18 @@ puisque c'est vers lui que pointe le nord d'une boussole.
 - La chaleur détruit l'alignement au-delà d'une température caractéristique.
 - On ne peut pas isoler un pôle magnétique, contrairement à une charge électrique.
 
-[Emplacement image : domaines magnétiques désorganisés puis alignés, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+titre: D'où vient le magnétisme
+type: etapes
+elements:
+  - titre: Électrons
+    texte: Une propriété des électrons des atomes.
+  - titre: Domaines
+    texte: Des zones où les moments magnétiques sont orientés ensemble.
+  - titre: Aimant
+    texte: Quand les domaines s'alignent ensemble.
+    icone: magnet
+```
 
 ---
 
@@ -1013,6 +1169,20 @@ quiz:
     explanation: >
       Il y a beaucoup plus de façons d'être en désordre que d'être rangé. C'est pourquoi, sans
       apport d'énergie, tout tend spontanément vers le désordre.
+  - question: "Pourquoi est-il pratiquement impossible de retrouver l'ordre initial d'un jeu de cartes en le battant ?"
+    options:
+      - "Parce que les lois de la physique interdisent formellement ce retour"
+      - "Parce que cet arrangement est un seul parmi un nombre astronomique de dispositions possibles"
+      - "Parce que battre les cartes détruit l'énergie qui les maintenait rangées"
+    answer: 2
+    explanation: "Ce n'est pas impossible en théorie, mais l'ordre initial n'est qu'un arrangement parmi un nombre astronomique d'arrangements désordonnés. Il y a énormément plus de façons d'être en désordre que d'être rangé."
+  - question: "Un être vivant construit de l'ordre. Pourquoi cela ne viole-t-il pas le second principe ?"
+    options:
+      - "Parce qu'il n'est pas isolé : il rejette chaleur et déchets, ce qui crée un désordre plus grand à l'extérieur"
+      - "Parce que les êtres vivants échappent aux lois de la thermodynamique"
+      - "Parce que l'ordre construit est trop petit pour compter dans le bilan global"
+    answer: 1
+    explanation: "Le second principe concerne les systèmes isolés. Un être vivant prend de l'énergie à son environnement et y rejette chaleur et déchets : l'ordre local se paie par un désordre plus grand ailleurs."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1087,8 +1257,18 @@ Le bilan global augmente toujours.
 - La chaleur va spontanément du chaud vers le froid, jamais l'inverse.
 - Le second principe est la seule loi qui distingue le passé du futur.
 
-[Emplacement image : diffusion spontanée d'un gaz et notion d'entropie, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Les deux principes
+type: comparaison
+colonnes:
+  - titre: Premier principe
+    points:
+      - L'énergie se conserve
+  - titre: Second principe
+    points:
+      - L’entropie d’un système isolé ne diminue pas.
+      - La chaleur se transfère spontanément du chaud vers le froid.
+```
 
 ---
 
@@ -1130,6 +1310,20 @@ quiz:
     explanation: >
       Vos pieds ne mesurent pas la température mais la vitesse à laquelle ils perdent de la
       chaleur. Le carrelage l'évacue rapidement, le tapis beaucoup moins.
+  - question: "Pourquoi une étincelle à plus de mille degrés ne brûle-t-elle pas la peau, alors qu'un bain à soixante degrés est insupportable ?"
+    options:
+      - "Parce que la peau résiste mieux aux très hautes températures qu'à l'eau chaude"
+      - "Parce que l'étincelle est en réalité moins chaude que le bain"
+      - "Parce que l'étincelle contient très peu de matière et ne peut donc transmettre qu'une énergie dérisoire"
+    answer: 3
+    explanation: "La température mesure l'agitation des particules, mais l'énergie transmise dépend aussi de la quantité de matière. L'étincelle est minuscule, alors que le bain contient des dizaines de kilogrammes d'eau."
+  - question: "Comment un radiateur chauffe-t-il principalement une pièce ?"
+    options:
+      - "En rayonnant directement vers chaque objet de la pièce"
+      - "En mettant l'air en mouvement : l'air chaud monte et l'air froid descend"
+      - "En chauffant les murs par contact, de proche en proche"
+    answer: 2
+    explanation: "Un radiateur chauffe surtout par convection : l'air chaud, moins dense, monte tandis que l'air froid descend, ce qui met l'air de la pièce en mouvement."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1200,8 +1394,19 @@ ralentit sa fuite.
 - Conduction, convection et rayonnement sont les trois modes de transfert.
 - On ressent la vitesse de perte de chaleur, pas la température elle-même.
 
-[Emplacement image : trois modes de transfert de chaleur illustrés, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+titre: Température ou chaleur
+type: comparaison
+colonnes:
+  - titre: Température
+    icone: thermometer
+    points:
+      - Mesure l'agitation des particules
+  - titre: Chaleur
+    points:
+      - Énergie transférée à cause d’une différence de température.
+      - L’eau possède une grande capacité thermique.
+```
 
 ---
 
@@ -1243,6 +1448,20 @@ quiz:
     explanation: >
       Ce sont ces électrons externes qui participent aux liaisons chimiques. Même nombre, même
       comportement : tous les gaz de la dernière colonne sont inertes pour cette raison.
+  - question: "Pourquoi les gaz nobles réagissent-ils pratiquement avec rien ?"
+    options:
+      - "Leur couche externe est complète, ils n'ont donc rien à gagner à se lier"
+      - "Ils n'ont aucun électron autour de leur noyau"
+      - "Leur noyau contient trop de protons pour permettre une liaison"
+    answer: 1
+    explanation: "Les gaz nobles ont une couche externe complète. Comme ce sont les électrons externes qui participent aux liaisons, ils n'ont aucun intérêt à se lier."
+  - question: "Qu'est-ce qui fait la force de la classification de Mendeleïev ?"
+    options:
+      - "Elle ne laissait aucune case vide, ce qui la rendait complète"
+      - "Elle rangeait les éléments selon leur abondance sur Terre"
+      - "Elle permettait de prédire les propriétés d'éléments encore inconnus grâce aux cases laissées vides"
+    answer: 3
+    explanation: "Mendeleïev a laissé des cases vides et prédit les propriétés des éléments manquants, qui ont été découverts ensuite. Une bonne classification ne range pas seulement ce qu'on connaît, elle prédit ce qu'on ignore."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1311,8 +1530,19 @@ hydrogène, azote, calcium et phosphore.
 - Une même colonne signifie un même nombre d'électrons externes.
 - Mendeleïev a laissé des cases vides et prédit les propriétés des éléments manquants.
 
-[Emplacement image : structure du tableau périodique et signification des colonnes, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Lire le tableau périodique
+centre: Élément
+icone: atom
+parties:
+  - nom: Rangement
+    role: Par nombre de protons.
+  - nom: Colonnes
+    role: Des propriétés qui se répètent.
+  - nom: Cases vides de Mendeleïev
+    role: Des éléments prédits avant leur découverte.
+```
 
 ---
 
@@ -1354,6 +1584,20 @@ quiz:
     explanation: >
       Dans le diamant, chaque atome est lié à quatre voisins en réseau rigide. Dans le
       graphite, les atomes forment des feuillets qui glissent les uns sur les autres.
+  - question: "Pourquoi le nom chimie organique est-il trompeur ?"
+    options:
+      - "Parce que ces molécules peuvent être fabriquées à partir de composés minéraux, comme l'urée en 1828"
+      - "Parce que la plupart de ces molécules ne contiennent pas de carbone"
+      - "Parce que seules les plantes sont capables d'en produire"
+    answer: 1
+    explanation: "On croyait que ces molécules exigeaient une force vitale propre aux êtres vivants. La synthèse de l'urée à partir de composés minéraux en 1828 a montré que c'était faux, mais le nom est resté."
+  - question: "Qu'est-ce qui détermine surtout le comportement d'une molécule organique ?"
+    options:
+      - "Sa taille, c'est-à-dire le nombre d'atomes qu'elle contient"
+      - "Le nombre de liaisons doubles de son squelette"
+      - "Les groupes fonctionnels greffés sur son squelette de carbone"
+    answer: 3
+    explanation: "Le comportement d'une molécule organique dépend moins de sa taille que des groupes fonctionnels (alcool, acide, amine...) greffés sur le squelette de carbone."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1426,8 +1670,18 @@ Même élément, arrangement différent, propriétés opposées.
 - Deux molécules de même composition peuvent différer par leur forme.
 - Diamant et graphite sont du carbone pur, arrangé différemment.
 
-[Emplacement image : structures du diamant et du graphite comparées, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Pourquoi le carbone est unique
+centre: Carbone
+parties:
+  - nom: Quatre liaisons
+  - nom: Chaînes sans limite
+  - nom: Groupes fonctionnels
+    role: Ils déterminent le comportement.
+  - nom: Forme
+    role: Diamant ou graphite, même atome.
+```
 
 ---
 
@@ -1470,6 +1724,20 @@ quiz:
     explanation: >
       Rien ne s'arrête au niveau moléculaire. Les proportions restent simplement constantes,
       car il se forme autant de produits qu'il s'en défait.
+  - question: "Quel est le rôle d'un catalyseur dans une réaction chimique ?"
+    options:
+      - "Il rend possible une réaction qui ne pouvait pas se produire"
+      - "Il abaisse la barrière d'activation sans être consommé et accélère ce qui pouvait déjà se produire"
+      - "Il fournit l'énergie de départ en étant consommé par la réaction"
+    answer: 2
+    explanation: "Un catalyseur abaisse la barrière d'activation sans être consommé. Il ne rend pas possible une réaction impossible : il accélère ce qui pouvait déjà se produire."
+  - question: "Pourquoi des copeaux fins de bois brûlent-ils beaucoup plus vite qu'une bûche de même masse ?"
+    options:
+      - "Le bois en copeaux contient plus d'énergie que le bois en bûche"
+      - "Les copeaux n'ont pas de barrière d'activation à franchir"
+      - "La surface de contact est bien plus grande, ce qui multiplie les rencontres entre molécules"
+    answer: 3
+    explanation: "Une grande surface de contact multiplie les rencontres entre molécules et accélère la réaction. C'est aussi pourquoi les poussières de farine ou de bois peuvent exploser."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1544,8 +1812,16 @@ fait l'industrie chimique pour pousser une réaction vers le produit souhaité.
 - Température, concentration, surface et catalyseur accélèrent une réaction.
 - À l'équilibre, les deux sens se produisent à la même vitesse.
 
-[Emplacement image : profil énergétique d'une réaction avec et sans catalyseur, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le déroulement d'une réaction
+elements:
+  - titre: Réactifs
+  - titre: Barrière d'activation
+    texte: Il faut un coup de pouce pour démarrer.
+  - titre: Atomes réorganisés
+  - titre: Produits
+```
 
 ---
 
@@ -1587,6 +1863,20 @@ quiz:
     explanation: >
       C'est le geste décisif : on manipule l'inconnue selon les règles habituelles jusqu'à
       l'isoler. Sans cela, chaque problème devrait être résolu par un raisonnement particulier.
+  - question: "Quel est le geste décisif de l'algèbre ?"
+    options:
+      - "Essayer des valeurs successives jusqu'à tomber sur la bonne"
+      - "Traiter l'inconnu comme s'il était connu et laisser les règles de calcul faire le travail"
+      - "Raisonner en mots sur la situation décrite par le problème"
+    answer: 2
+    explanation: "L'algèbre écrit une relation entre une lettre et des nombres, puis la manipule selon des règles précises jusqu'à isoler la lettre. Elle traite donc l'inconnu comme s'il était connu."
+  - question: "Pourquoi une formule algébrique générale est-elle si précieuse ?"
+    options:
+      - "Elle résout d'un coup tous les problèmes du même type, pour toutes les valeurs possibles"
+      - "Elle évite d'avoir à utiliser des lettres dans les calculs"
+      - "Elle ne fonctionne que pour une valeur précise, mais très rapidement"
+    answer: 1
+    explanation: "Une formule générale répond pour toutes les valeurs possibles, alors que le tâtonnement demanderait un travail nouveau à chaque problème."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1655,8 +1945,17 @@ ces structures.
 - La notation symbolique moderne ne s'impose qu'au XVIe siècle.
 - L'algèbre moderne étudie des structures, avec des applications au chiffrement et aux codes.
 
-[Emplacement image : résolution d'une équation simple étape par étape, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: L'histoire de l'algèbre
+evenements:
+  - date: IXe siècle
+    titre: Al-Khwarizmi
+    texte: Son traité donne son nom à l'algèbre.
+  - date: Ensuite
+    titre: Notation symbolique
+    texte: Des lettres pour l'inconnu.
+```
 
 ---
 
@@ -1699,6 +1998,20 @@ quiz:
     explanation: >
       La théorie des nombres, longtemps jugée inutile, fonde aujourd'hui le chiffrement. La
       géométrie non euclidienne a servi à la relativité générale.
+  - question: "Quelle différence y a-t-il entre la médaille Fields et le prix Abel ?"
+    options:
+      - "Le prix Abel est réservé aux mathématiciens de moins de quarante ans"
+      - "La médaille Fields est décernée chaque année, le prix Abel tous les quatre ans"
+      - "La médaille Fields est réservée aux moins de quarante ans, alors que le prix Abel n'a pas de limite d'âge"
+    answer: 3
+    explanation: "La médaille Fields est décernée tous les quatre ans à des mathématiciens de moins de quarante ans. Le prix Abel est annuel, sans limite d'âge, et récompense une contribution d'ensemble."
+  - question: "En quoi une démonstration mathématique diffère-t-elle d'une théorie en physique ou en biologie ?"
+    options:
+      - "Elle est révisée à chaque nouvelle observation"
+      - "Une démonstration correcte est définitive, alors qu'une théorie empirique reste provisoire"
+      - "Elle repose uniquement sur des expériences répétées"
+    answer: 2
+    explanation: "Une théorie empirique tient tant qu'une observation ne la contredit pas. Une démonstration correcte reste valide indéfiniment dans son cadre, comme le théorème de Pythagore."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1762,8 +2075,18 @@ cadre.
 - Des mathématiques jugées inutiles ont fondé le chiffrement et la relativité.
 - Une démonstration correcte reste vraie indéfiniment, contrairement à une théorie empirique.
 
-[Emplacement image : liens entre grands domaines mathématiques, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les grands prix de mathématiques
+legende: Il n'existe pas de prix Nobel de mathématiques.
+colonnes:
+  - titre: Prix Abel
+    points:
+      - Récompense une carrière
+  - titre: Médaille Fields
+    points:
+      - Récompense de jeunes mathématiciens
+```
 
 ---
 
@@ -1807,6 +2130,20 @@ quiz:
     explanation: >
       On ne compare pas une personne aux autres mais toutes les paires possibles : il y en a
       253 dans un groupe de 23. C'est pourquoi le résultat surprend tant.
+  - question: "Pourquoi des coïncidences extraordinaires se produisent-elles régulièrement ?"
+    options:
+      - "Parce que le hasard compense ses écarts en produisant des coïncidences"
+      - "Parce que les occasions sont si nombreuses que l'improbable devient quasi certain quelque part"
+      - "Parce que les événements rares sont plus fréquents que leur probabilité ne l'indique"
+    answer: 2
+    explanation: "Une chance sur un million devient quasi certaine si la situation se répète des millions de fois. L'erreur est de s'étonner qu'elle arrive à quelqu'un plutôt qu'à soi."
+  - question: "Un test détecte 99 % des malades et se trompe dans 1 % des cas sur les personnes saines. Pourquoi un test positif ne signifie-t-il qu'environ 1 % de risque d'être malade si la maladie touche une personne sur dix mille ?"
+    options:
+      - "Parce que le test détecte très mal les vrais malades"
+      - "Parce que le test se trompe une fois sur deux"
+      - "Parce que la maladie est rare : les faux positifs sont bien plus nombreux que les vrais malades détectés"
+    answer: 3
+    explanation: "Sur un million de personnes testées, environ cent malades sont détectés mais environ dix mille personnes saines sont positives à tort. La probabilité dépend donc de la fréquence de la maladie."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1887,8 +2224,16 @@ professionnels.
 - L'interprétation d'un test dépend de la fréquence de la maladie, pas seulement de sa
   fiabilité.
 
-[Emplacement image : paradoxe des anniversaires et nombre de paires selon la taille du groupe,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Les surprises du hasard
+legende: 'Pour les anniversaires : modèle de 365 dates équiprobables et naissances indépendantes.'
+type: chiffres
+chiffres:
+  - valeur: '23'
+    texte: personnes suffisent pour plus d'une chance sur deux d'un anniversaire commun
+  - valeur: Sans mémoire
+    texte: une pièce ne se souvient pas des lancers précédents
+```
 
 ---
 
@@ -1930,6 +2275,20 @@ quiz:
     explanation: >
       Sur une surface courbe, les règles changent. Un triangle tracé entre le pôle Nord et deux
       points de l'équateur peut avoir trois angles droits, soit 270 degrés.
+  - question: "Qu'ont découvert les mathématiciens du XIXe siècle en supposant le cinquième axiome faux ?"
+    options:
+      - "Une contradiction qui prouvait que l'axiome était un théorème"
+      - "Des géométries parfaitement cohérentes, simplement différentes"
+      - "Que les quatre autres axiomes devaient aussi être faux"
+    answer: 2
+    explanation: "Ils n'ont trouvé aucune contradiction. Ils ont au contraire construit des géométries parfaitement cohérentes, simplement différentes de celle d'Euclide."
+  - question: "Pourquoi la géométrie des espaces courbes a-t-elle servi à Einstein ?"
+    options:
+      - "Elle permettait de calculer la vitesse de la lumière"
+      - "Elle prouvait que la gravité est une force au sens de Newton"
+      - "Dans la relativité générale, la gravité est une déformation de l'espace-temps, qu'il fallait décrire avec une géométrie courbe"
+    answer: 3
+    explanation: "Pour Einstein, la gravité est une déformation de l'espace-temps par les masses, et un objet suit le chemin le plus direct dans un espace courbé. Il lui fallait donc une géométrie des espaces courbes, qui existait déjà."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2000,8 +2359,17 @@ cinquante ans plus tôt par pure curiosité mathématique, sans la moindre appli
 - Nier cet axiome produit des géométries cohérentes et différentes.
 - La relativité générale repose sur ces géométries des espaces courbes.
 
-[Emplacement image : triangle sur un plan, sur une sphère et sur une selle, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: De la géométrie d'Euclide aux autres
+elements:
+  - titre: Cinq axiomes
+    texte: Euclide en déduit toute la géométrie.
+  - titre: Le cinquième résiste
+    texte: Celui des parallèles, pendant deux mille ans.
+  - titre: D'autres géométries
+    texte: En changeant ce cinquième axiome.
+```
 
 ---
 
@@ -2045,6 +2413,20 @@ quiz:
       C'est la différence essentielle avec les théories antérieures. Un caractère acquis
       pendant la vie ne se transmet pas : c'est la variation héréditaire préexistante qui est
       triée.
+  - question: "Pourquoi le nerf de la girafe fait-il un long détour entre le cerveau et le larynx ?"
+    options:
+      - "Parce que ce trajet est le plus efficace possible pour un long cou"
+      - "Parce qu'il suivait déjà ce trajet chez un ancêtre poisson : l'évolution bricole avec l'existant"
+      - "Parce que le besoin d'atteindre les feuilles a allongé ce nerf au cours de la vie de chaque girafe"
+    answer: 2
+    explanation: "L'évolution ne repart jamais de zéro. Le nerf suivait déjà ce trajet chez un ancêtre au cou inexistant, d'où cette imperfection."
+  - question: "Comment la génétique et la découverte de l'ADN ont-elles complété la théorie de Darwin ?"
+    options:
+      - "Elles ont montré que les caractères acquis pendant la vie se transmettent"
+      - "Elles ont prouvé que l'évolution poursuit un but"
+      - "Elles ont fourni le mécanisme de l'hérédité, que Darwin ignorait"
+    answer: 3
+    explanation: "Darwin ignorait comment fonctionnait l'hérédité. La génétique, puis la découverte de l'ADN, ont apporté ce mécanisme manquant."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2119,8 +2501,18 @@ d'insectes aux insecticides, changements mesurés chez des espèces suivies sur 
 - Les caractères acquis pendant la vie ne se transmettent pas.
 - L'évolution bricole à partir de l'existant, ce qui explique de nombreuses imperfections.
 
-[Emplacement image : sélection d'un caractère au fil des générations, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+titre: Les conditions de la sélection naturelle
+type: systeme
+centre: Sélection naturelle
+parties:
+  - nom: Variation
+    role: Les individus diffèrent.
+  - nom: Hérédité
+    role: Ces différences se transmettent.
+  - nom: Reproduction inégale
+    role: Certains laissent plus de descendants.
+```
 
 ---
 
@@ -2162,6 +2554,20 @@ quiz:
     explanation: >
       Les clichés obtenus par Rosalind Franklin, notamment le cliché 51, montraient un motif
       caractéristique d'une structure hélicoïdale.
+  - question: "Pourquoi, dans n'importe quel ADN, la quantité de A égale-t-elle celle de T ?"
+    options:
+      - "Parce que face à un A se trouve toujours un T sur le brin complémentaire"
+      - "Parce que A et T sont les deux seules bases présentes dans l'ADN"
+      - "Parce que A et T sont fabriquées ensemble par la cellule en quantités égales"
+    answer: 1
+    explanation: "Les deux brins sont complémentaires : face à un A se trouve toujours un T, et face à un G toujours un C. Cela explique la régularité observée."
+  - question: "Comment la structure de l'ADN permet-elle de le copier ?"
+    options:
+      - "La cellule fabrique une molécule entièrement nouvelle sans modèle"
+      - "On sépare les deux brins et on complète chacun, ce qui donne deux molécules identiques"
+      - "On copie un seul brin et l'autre est détruit"
+    answer: 2
+    explanation: "Chaque brin contient la totalité de l'information. Il suffit de séparer les deux brins et de compléter chacun pour obtenir deux molécules identiques à l'original."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2234,8 +2640,18 @@ Et finalement modifier des séquences précises, ce qui a conduit aux thérapies
 - Chaque brin contient la totalité de l'information.
 - Les clichés de Rosalind Franklin ont fourni les données décisives.
 
-[Emplacement image : double hélice et appariement complémentaire des bases, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Comment l'ADN se copie
+legende: La double hélice a été établie en 1953.
+elements:
+  - titre: Double hélice
+    icone: dna
+  - titre: Les brins se séparent
+  - titre: Bases complémentaires
+    texte: Chaque brin sert de modèle.
+  - titre: Deux copies identiques
+```
 
 ---
 
@@ -2278,6 +2694,20 @@ quiz:
     explanation: >
       Elles possèdent leur propre ADN, se divisent indépendamment et ont une double membrane.
       Ces indices convergent vers une origine par symbiose.
+  - question: "Quelle différence y a-t-il entre une cellule de bactérie et une cellule à noyau ?"
+    options:
+      - "La cellule bactérienne est plus grande et plus compartimentée"
+      - "La cellule bactérienne est petite et simple, avec un ADN qui flotte librement sans noyau"
+      - "La cellule bactérienne ne contient pas d'ADN"
+    answer: 2
+    explanation: "Les bactéries ont des cellules sans noyau, petites et simples, dont l'ADN flotte librement. Les cellules à noyau sont plus grandes et compartimentées."
+  - question: "Quel indice appuie l'idée que les mitochondries descendent de bactéries ?"
+    options:
+      - "Elles contiennent des chloroplastes comme les cellules végétales"
+      - "Elles possèdent un noyau qui leur est propre"
+      - "Elles ont leur propre ADN, se divisent de façon indépendante et ont une double membrane"
+    answer: 3
+    explanation: "L'ADN propre, la division indépendante et la double membrane convergent vers l'idée d'une bactérie autrefois absorbée puis conservée dans la cellule."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2357,8 +2787,21 @@ atteindre un mètre de long.
 - Les cellules à noyau sont compartimentées, celles des bactéries non.
 - Les mitochondries descendent probablement de bactéries absorbées puis conservées.
 
-[Emplacement image : schéma d'une cellule animale et de ses principaux composants, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+titre: Deux grandes catégories de cellules
+legende: Toute cellule vient d'une cellule.
+type: comparaison
+colonnes:
+  - titre: Procaryotes
+    points:
+      - Sans noyau
+      - Bactéries et archées
+  - titre: Eucaryotes
+    icone: microscope
+    points:
+      - Avec un noyau
+      - Animaux, plantes, champignons
+```
 
 ---
 
@@ -2400,6 +2843,20 @@ quiz:
     explanation: >
       Son influence dépasse largement son abondance. Le retour du loup dans un parc américain a
       modifié la végétation et jusqu'au tracé des rivières.
+  - question: "Pourquoi les décomposeurs sont-ils indispensables à un écosystème ?"
+    options:
+      - "Sans eux, les éléments nutritifs resteraient bloqués dans les cadavres et les déchets, et les producteurs finiraient par manquer de tout"
+      - "Sans eux, les herbivores ne pourraient plus digérer les plantes"
+      - "Sans eux, l'énergie du Soleil ne pourrait plus être captée"
+    answer: 1
+    explanation: "Les décomposeurs recyclent ce qui meurt à tous les niveaux. Sans ce recyclage, les éléments nutritifs resteraient bloqués et les producteurs manqueraient de tout."
+  - question: "Pourquoi un réseau alimentaire simplifié est-il plus fragile qu'un réseau enchevêtré ?"
+    options:
+      - "Parce qu'il contient trop d'espèces en concurrence"
+      - "Parce qu'il offre moins de solutions de rechange si une proie disparaît"
+      - "Parce que l'énergie s'y perd davantage à chaque niveau"
+    answer: 2
+    explanation: "Dans un réseau enchevêtré, la redondance permet à un prédateur de se reporter sur une autre proie. Un réseau simplifié n'a pas cette marge de sécurité."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2474,8 +2931,19 @@ une autre. Un réseau simplifié, à l'inverse, est beaucoup plus fragile.
 - Les décomposeurs sont indispensables au recyclage des éléments.
 - Une espèce peu abondante peut structurer tout un écosystème.
 
-[Emplacement image : pyramide énergétique d'un écosystème, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+titre: La pyramide de l'énergie
+legende: >-
+  Seule une fraction de l’énergie passe au niveau suivant, souvent de l’ordre de 10 % ; le reste
+  sert au métabolisme ou rejoint d’autres voies.
+type: pyramide
+niveaux:
+  - titre: Superprédateurs
+  - titre: Carnivores
+  - titre: Herbivores
+  - titre: Végétaux
+    texte: Ils captent l'énergie du Soleil.
+```
 
 ---
 
@@ -2517,6 +2985,20 @@ quiz:
     explanation: >
       Les bandes magnétiques symétriques de part et d'autre des dorsales ont fourni une preuve
       décisive : le plancher océanique s'écarte comme un tapis roulant.
+  - question: "Comment explique-t-on les bandes de roches aimantées en sens alterné, disposées symétriquement de part et d'autre d'une dorsale ?"
+    options:
+      - "Par le glissement latéral des plaques le long de la dorsale"
+      - "Du magma remonte en permanence, se solidifie en enregistrant le champ magnétique du moment, puis s'écarte de part et d'autre"
+      - "Par des séismes qui aimantent la roche à intervalles réguliers"
+    answer: 2
+    explanation: "Le champ magnétique terrestre s'inverse périodiquement et les roches volcaniques enregistrent son orientation en se solidifiant. Le magma qui s'écarte comme un tapis roulant produit des bandes symétriques."
+  - question: "Que se passe-t-il à la frontière de deux plaques qui glissent latéralement l'une contre l'autre ?"
+    options:
+      - "De la croûte neuve est créée"
+      - "De la croûte est détruite"
+      - "La croûte n'est ni créée ni détruite, mais les blocages provoquent de puissants séismes"
+    answer: 3
+    explanation: "Dans un glissement latéral, la croûte n'est ni créée ni détruite. Les blocages entre les plaques produisent toutefois des séismes puissants."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2587,8 +3069,20 @@ les blocages produisent des séismes puissants.
 - Les bandes magnétiques symétriques des dorsales ont fourni la preuve décisive.
 - Les frontières de plaques sont divergentes, convergentes ou coulissantes.
 
-[Emplacement image : les trois types de frontières de plaques, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois types de frontières de plaques
+colonnes:
+  - titre: Divergentes
+    points:
+      - Les plaques s'écartent
+  - titre: Convergentes
+    points:
+      - Les plaques se rapprochent
+  - titre: Transformantes
+    points:
+      - Les plaques coulissent
+```
 
 ---
 
@@ -2631,6 +3125,20 @@ quiz:
     explanation: >
       Les systèmes d'alerte existants ne prédisent rien : ils détectent les premières ondes,
       plus rapides, et préviennent quelques secondes avant l'arrivée des ondes destructrices.
+  - question: "De quoi dépend surtout la violence d'une éruption volcanique ?"
+    options:
+      - "De la taille du volcan"
+      - "De la température du magma au départ"
+      - "De la viscosité du magma : un magma visqueux emprisonne les gaz jusqu'à l'explosion"
+    answer: 3
+    explanation: "Un magma fluide laisse les gaz s'échapper et donne des coulées de lave. Un magma visqueux emprisonne les gaz jusqu'à l'explosion."
+  - question: "À quoi servent les systèmes d'alerte précoce pour les séismes ?"
+    options:
+      - "À prédire la date exacte d'un séisme plusieurs jours à l'avance"
+      - "À détecter les premières ondes, rapides et peu destructrices, pour prévenir quelques secondes avant les suivantes"
+      - "À empêcher la libération brutale de l'énergie accumulée"
+    answer: 2
+    explanation: "Ces systèmes ne prédisent pas la date d'un séisme. Ils détectent les premières ondes et laissent quelques secondes pour arrêter un train, fermer une vanne de gaz ou se mettre à l'abri."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2713,8 +3221,19 @@ C'est pourquoi l'on dit que ce ne sont pas les séismes qui tuent, mais les bât
 - La violence d'une éruption dépend surtout de la viscosité du magma.
 - On sait où mais pas quand ; les normes de construction sauvent des vies.
 
-[Emplacement image : accumulation de contrainte puis rupture le long d'une faille, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: L'énergie d'un séisme selon la magnitude
+legende: Un point de magnitude en plus, environ trente fois plus d'énergie.
+unite: ×
+valeurs:
+  - label: Magnitude 5
+    valeur: 1
+  - label: Magnitude 6
+    valeur: 30
+  - label: Magnitude 7
+    valeur: 900
+```
 
 ---
 
@@ -2757,6 +3276,20 @@ quiz:
     explanation: >
       Ajouter de l'eau douce diminue la salinité, donc la densité. Si l'eau ne plonge plus, le
       moteur de la circulation s'affaiblit.
+  - question: "Qu'est-ce qui organise les courants de surface en grandes boucles circulaires ?"
+    options:
+      - "Les différences de salinité entre les océans"
+      - "Les marées provoquées par la Lune"
+      - "Les vents dominants, dont les mouvements sont déviés par la rotation de la Terre"
+    answer: 3
+    explanation: "Les courants de surface sont poussés par les vents dominants, et la rotation de la Terre dévie ces mouvements, ce qui les organise en boucles dans chaque bassin."
+  - question: "Quel est l'intérêt de la remontée d'eaux profondes ailleurs dans l'océan ?"
+    options:
+      - "Elle apporte des nutriments qui alimentent la vie marine et les zones de pêche productives"
+      - "Elle réchauffe l'Europe occidentale"
+      - "Elle renvoie le carbone stocké vers l'atmosphère en quelques années"
+    answer: 1
+    explanation: "La circulation profonde fait remonter des eaux riches en nutriments, ce qui nourrit une grande partie de la vie marine et les zones de pêche les plus productives."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2829,8 +3362,18 @@ les régimes de pluie et sur la vie marine. C'est l'un des points de basculement
 - L'eau froide et salée plonge dans l'Atlantique Nord et entretient le système.
 - L'apport d'eau douce par la fonte des glaces pourrait ralentir cette circulation.
 
-[Emplacement image : circulation océanique de surface et profonde à l'échelle du globe, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux circulations océaniques
+colonnes:
+  - titre: Courants de surface
+    points:
+      - Poussés par les vents
+      - Déviés par la rotation de la Terre
+  - titre: Circulation profonde
+    points:
+      - Entraînée par les différences de température et de salinité
+```
 
 ---
 
@@ -2927,6 +3470,20 @@ quiz:
       Bien que Galilée ait étudié les propriétés du pendule, c'est le savant néerlandais
       Christian Huygens qui a construit en 1657 la première horloge à pendule réellement
       fonctionnelle et précise.
+  - question: "Si l'on remplace le poids au bout d'un pendule par un poids plus lourd, sans changer la longueur du fil, que devient la durée d'oscillation ?"
+    options:
+      - "Elle augmente nettement"
+      - "Elle diminue nettement"
+      - "Elle reste presque la même"
+    answer: 3
+    explanation: "La durée d'oscillation dépend presque uniquement de la longueur du fil, et non du poids ni de l'amplitude du balancement."
+  - question: "Pourquoi Foucault a-t-il suspendu un lourd pendule au plafond du Panthéon en 1851 ?"
+    options:
+      - "Pour mesurer le temps avec plus de précision que les horloges"
+      - "Pour démontrer, sans observation astronomique, que la Terre tourne sur elle-même"
+      - "Pour vérifier que la durée d'oscillation ne dépend pas de l'amplitude"
+    answer: 2
+    explanation: "Le pendule de Foucault a permis de démontrer la rotation de la Terre sur elle-même, sans télescope ni observation astronomique."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2976,8 +3533,18 @@ mesure électronique.
 - Cette invention a considérablement amélioré la précision de la mesure du temps.
 - Le pendule de Foucault a démontré en 1851 la rotation de la Terre sur elle-même.
 
-[Emplacement image : pendule oscillant suspendu à un fil de longueur mesurée, illustrant la
-régularité de son mouvement, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: Le pendule et le temps
+evenements:
+  - date: Galilée
+    titre: La régularité des oscillations
+    texte: La durée dépend de la longueur du fil.
+  - date: Ensuite
+    titre: La première horloge à pendule
+  - date: Foucault
+    titre: La preuve de la rotation de la Terre
+```
 
 ---
 
@@ -3047,6 +3614,20 @@ quiz:
       La loi d'Ohm indique que le courant est inversement proportionnel à la résistance : à
       tension égale, augmenter la résistance d'un circuit réduit la quantité de courant qui y
       circule.
+  - question: "Dans l'image du circuit d'eau, à quoi correspond la résistance électrique ?"
+    options:
+      - "À la pression de l'eau"
+      - "Au débit d'eau qui circule"
+      - "À l'étroitesse du tuyau qui freine le débit"
+    answer: 3
+    explanation: "Dans cette analogie, la tension est la pression, le courant est le débit, et la résistance est l'étroitesse du tuyau qui freine ce débit."
+  - question: "Pourquoi un interrupteur ouvert à un seul endroit éteint-il toute la lampe ?"
+    options:
+      - "Parce que le courant ne circule que dans un chemin fermé"
+      - "Parce qu'il ramène la tension de la pile à zéro"
+      - "Parce qu'il augmente la résistance de tous les fils du circuit"
+    answer: 1
+    explanation: "Le courant a besoin d'un chemin fermé de la pile à l'appareil et retour. Ouvrir ce chemin à un seul endroit l'arrête dans tout le circuit."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3104,8 +3685,19 @@ résistance correspond à l'étroitesse du tuyau qui freine ce débit.
 - Le courant ne circule que dans un chemin fermé : un interrupteur ouvert l'arrête dans tout le
   circuit.
 
-[Emplacement image : circuit électrique simple avec une pile, un fil et une ampoule, annoté avec
-tension, courant et résistance, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les trois grandeurs électriques
+centre: Circuit
+icone: bolt
+parties:
+  - nom: Tension
+    role: En volts, elle met les charges en mouvement.
+  - nom: Courant
+    role: En ampères, le débit des charges.
+  - nom: Résistance
+    role: En ohms, ce qui freine le courant.
+```
 
 ---
 
@@ -3165,6 +3757,20 @@ quiz:
     explanation: >
       Une lentille concave fait diverger les rayons lumineux, ce qui compense l'excès de
       convergence de l'œil myope et permet de mieux voir les objets éloignés.
+  - question: "Pourquoi la lumière est-elle déviée quand elle passe de l'air au verre ?"
+    options:
+      - "Parce que le verre absorbe une partie de la lumière"
+      - "Parce que sa vitesse change, ce qui dévie sa trajectoire"
+      - "Parce que le verre modifie sa couleur"
+    answer: 2
+    explanation: "Ce phénomène s'appelle la réfraction : la lumière change de vitesse en passant de l'air au verre, ce qui dévie sa trajectoire."
+  - question: "Pourquoi un microscope associe-t-il plusieurs lentilles ?"
+    options:
+      - "Chacune agrandit l'image produite par la précédente, ce qui donne des grossissements impossibles avec une seule lentille"
+      - "Pour faire diverger les rayons lumineux plutôt que de les rapprocher"
+      - "Pour corriger la myopie de la personne qui observe"
+    answer: 1
+    explanation: "En combinant des lentilles, chacune agrandit l'image de la précédente. On atteint ainsi des grossissements impossibles avec une seule lentille."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3214,8 +3820,19 @@ impossibles avec une seule lentille.
 - Combiner plusieurs lentilles, comme dans un microscope, permet d'atteindre de forts
   grossissements.
 
-[Emplacement image : rayons de lumière traversant une lentille convexe et convergeant vers un
-point focal, légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Deux familles de lentilles
+legende: Pour des lentilles simples en verre ou matériau similaire dans l’air.
+type: comparaison
+colonnes:
+  - titre: Convexe
+    points:
+      - Fait converger la lumière
+      - Loupe, objectif
+  - titre: Concave
+    points:
+      - Fait diverger la lumière
+```
 
 ---
 
@@ -3345,6 +3962,18 @@ Les miroirs renvoient la lumière dans le milieu, qui l'amplifie à chaque passa
 
 Einstein a prévu l'émission stimulée avant que Theodore Maiman ne fasse fonctionner le premier laser, avec un cristal de rubis. On trouve des lasers dans les lecteurs de codes-barres et de disques, les communications par fibre optique, la chirurgie, et la découpe ou le soudage de matériaux.
 
+```schema
+type: etapes
+titre: Le principe du laser
+elements:
+  - titre: Atomes excités
+  - titre: Émission stimulée
+    texte: Un photon en fait émettre un identique.
+  - titre: Miroirs
+    texte: La lumière fait des allers-retours et s'amplifie.
+  - titre: Faisceau
+```
+
 ## À retenir
 
 - Dans l'émission stimulée, un photon incitant un atome excité à libérer de l'énergie fait émettre un photon identique au premier.
@@ -3445,6 +4074,20 @@ quiz:
       Contrairement à la conduction et à la convection, le rayonnement transporte l'énergie sous
       forme d'ondes électromagnétiques et ne nécessite aucun support matériel, ce qui lui permet
       de traverser le vide spatial.
+  - question: "Pourquoi un bon isolant piège-t-il de l'air dans de petites poches ?"
+    options:
+      - "Parce que l'air réfléchit le rayonnement de la chaleur"
+      - "Parce que l'air est un excellent conducteur de chaleur"
+      - "Parce que l'air est un mauvais conducteur de chaleur, ce qui limite la conduction"
+    answer: 3
+    explanation: "L'air conduit mal la chaleur. Le piéger dans de petites poches limite donc la conduction."
+  - question: "Comment l'eau qui bout dans une casserole répartit-elle la chaleur ?"
+    options:
+      - "Les parties chaudes, moins denses, montent et les parties froides, plus denses, descendent"
+      - "Par des ondes électromagnétiques sans support matériel"
+      - "Uniquement par contact direct de proche en proche"
+    answer: 1
+    explanation: "C'est la convection : dans un liquide ou un gaz, les parties chaudes montent et les froides descendent, créant un mouvement continu qui répartit la chaleur."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3493,9 +4136,21 @@ l'énergie plutôt que de l'absorber.
 - Ces trois modes agissent souvent simultanément dans une même situation, comme un feu de camp.
 - Un bon isolant limite la conduction en piégeant de l'air, un mauvais conducteur de chaleur.
 
-[Emplacement image : feu de camp illustrant les trois modes de transfert thermique, conduction
-dans les bûches, convection dans l'air chaud, rayonnement vers les personnes proches, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois transferts de chaleur
+colonnes:
+  - titre: Conduction
+    points:
+      - Par contact direct
+  - titre: Convection
+    points:
+      - Par mouvement de liquide ou de gaz
+  - titre: Rayonnement
+    icone: sun
+    points:
+      - Sans support, même dans le vide
+```
 
 ---
 
@@ -3571,6 +4226,20 @@ quiz:
     explanation: >
       L'alcool bout à une température inférieure à celle de l'eau. En chauffant le mélange,
       l'alcool s'évapore en premier et peut être recueilli séparément après condensation.
+  - question: "Pourquoi la vapeur est-elle dirigée vers un tube refroidi de l'extérieur ?"
+    options:
+      - "Pour chauffer le reste du mélange plus vite"
+      - "Pour la faire recondenser en liquide, recueilli séparément du mélange d'origine"
+      - "Pour séparer les gaz qui la composent"
+    answer: 2
+    explanation: "Le refroidissement fait recondenser la vapeur en liquide, qui s'écoule alors séparément du mélange d'origine."
+  - question: "Comment la distillation permet-elle de purifier de l'eau salée ?"
+    options:
+      - "On la vaporise puis on la recondense, les impuretés non volatiles restant derrière"
+      - "On la fait bouillir jusqu'à ce que le sel s'évapore avec l'eau"
+      - "On la refroidit pour que le sel se sépare du liquide"
+    answer: 1
+    explanation: "L'eau est vaporisée puis recondensée sans les impuretés non volatiles, comme le sel, qui restent dans le récipient."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3620,8 +4289,16 @@ meilleurs systèmes de refroidissement de la vapeur.
 - Cette technique sert aussi à purifier l'eau et à extraire des huiles essentielles de plantes.
 - La distillation est utilisée depuis l'Antiquité, notamment pour les parfums et les remèdes.
 
-[Emplacement image : montage de distillation avec ballon chauffé, tube de refroidissement et
-récipient de collecte du liquide condensé, légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: La distillation
+type: etapes
+elements:
+  - titre: Chauffer le mélange
+    icone: fire
+  - titre: Une vapeur enrichie en composé plus volatil
+  - titre: Refroidir la vapeur
+  - titre: Recueillir le liquide
+```
 
 ---
 
@@ -3679,6 +4356,20 @@ quiz:
     explanation: >
       Une réaction de neutralisation combine les ions d'un acide et d'une base pour former de
       l'eau et un sel, ramenant généralement la solution vers un pH proche de la neutralité.
+  - question: "Qu'est-ce qui distingue chimiquement un acide d'une base ?"
+    options:
+      - "Un acide libère des ions hydrogène dans l'eau, une base libère des ions hydroxyde"
+      - "Un acide libère des ions hydroxyde dans l'eau, une base libère des ions hydrogène"
+      - "Un acide a toujours un pH de 14, une base un pH de 0"
+    answer: 1
+    explanation: "Dans l'eau, un acide libère des ions hydrogène chargés positivement, tandis qu'une base libère des ions hydroxyde chargés négativement."
+  - question: "Pourquoi faut-il diluer un produit concentré dans l'eau plutôt que verser l'eau sur le produit ?"
+    options:
+      - "Pour que la neutralisation soit complète"
+      - "Pour que le produit devienne plus acide"
+      - "Pour réduire le risque de projection dangereuse"
+    answer: 3
+    explanation: "Diluer progressivement une substance concentrée dans l'eau, plutôt que l'inverse, réduit le risque de projection dangereuse."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3729,8 +4420,21 @@ projection dangereuse.
   courantes.
 - Toujours diluer un produit concentré dans l'eau, jamais l'inverse, pour limiter les risques.
 
-[Emplacement image : échelle de pH illustrée avec des exemples courants, du citron acide au
-savon basique, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Acide, neutre ou basique
+legende: Repères en solution aqueuse à 25 °C ; le pH seul ne mesure pas tout le danger d’un produit.
+colonnes:
+  - titre: pH inférieur à 7
+    points:
+      - Solution acide.
+  - titre: pH égal à 7
+    points:
+      - Neutralité à 25 °C, comme l’eau pure.
+  - titre: pH supérieur à 7
+    points:
+      - Solution basique.
+```
 
 ---
 
@@ -3807,6 +4511,20 @@ quiz:
       Dans toute réaction de ce type, les électrons perdus par une substance qui s'oxyde sont
       exactement gagnés par une autre substance qui se réduit : les deux processus sont
       indissociables.
+  - question: "Comment une pile produit-elle du courant électrique ?"
+    options:
+      - "Par la combustion d'un des deux métaux dans l'air"
+      - "Par une réaction d'oxydoréduction contrôlée : les électrons échangés entre deux métaux sont forcés de passer par un circuit extérieur"
+      - "Par la formation de rouille entre les deux bornes"
+    answer: 2
+    explanation: "Une pile repose sur une oxydoréduction contrôlée. Les électrons échangés entre deux métaux différents sont contraints de circuler dans un circuit extérieur."
+  - question: "Pourquoi une peinture protège-t-elle un métal de la rouille ?"
+    options:
+      - "Elle l'isole de l'air et de l'humidité, ce qui ralentit son oxydation"
+      - "Elle lui apporte des électrons supplémentaires"
+      - "Elle chauffe le métal pour le garder sec"
+    answer: 1
+    explanation: "Un revêtement protecteur ralentit l'oxydation du métal en l'isolant de l'air et de l'humidité."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -3857,9 +4575,18 @@ volontairement une réaction, comme dans un feu bien attisé.
   l'humidité.
 - Augmenter la température ou l'apport en oxygène accélère volontairement ces réactions.
 
-[Emplacement image : comparaison visuelle entre un clou rouillé et une flamme de combustion,
-illustrant deux vitesses d'une même famille de réactions, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: comparaison
+titre: Oxydation et réduction
+legende: Les deux se produisent toujours ensemble.
+colonnes:
+  - titre: Oxydation
+    points:
+      - Perte d'électrons
+  - titre: Réduction
+    points:
+      - Gain d'électrons
+```
 
 ---
 
@@ -3935,6 +4662,20 @@ quiz:
     explanation: >
       En privant le feu d'oxygène, l'un des trois éléments indispensables du triangle du feu,
       la combustion ne peut plus se poursuivre et s'éteint.
+  - question: "Que désigne l'énergie d'activation dans une combustion ?"
+    options:
+      - "Une énergie à fournir en continu pour que le feu ne s'éteigne pas"
+      - "L'énergie libérée par le feu sous forme de lumière"
+      - "Une énergie initiale pour rompre les premières liaisons, après quoi la combustion s'entretient d'elle-même"
+    answer: 3
+    explanation: "Il faut apporter une énergie de départ pour démarrer la réaction. Une fois amorcée, la combustion produit elle-même assez de chaleur pour continuer."
+  - question: "Pourquoi la combustion incomplète est-elle dangereuse ?"
+    options:
+      - "Elle produit surtout du dioxyde de carbone en excès"
+      - "Quand l'oxygène manque, elle produit du monoxyde de carbone, un gaz dangereux et invisible"
+      - "Elle libère plus de chaleur qu'une combustion complète"
+    answer: 2
+    explanation: "Quand l'oxygène manque, la combustion est incomplète et produit de la fumée, de la suie et du monoxyde de carbone, gaz dangereux et invisible."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3985,8 +4726,18 @@ fumée, de la suie et du monoxyde de carbone, un gaz dangereux et invisible.
 - Une énergie initiale est nécessaire pour démarrer la réaction, qui s'entretient ensuite
   elle-même.
 
-[Emplacement image : schéma du triangle du feu illustrant combustible, comburant et chaleur,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le triangle du feu
+legende: Trois conditions réunies, pas trois étapes successives.
+centre: Combustion
+parties:
+  - nom: Combustible
+  - nom: Comburant
+    role: L'oxygène de l'air.
+  - nom: Chaleur
+    icone: fire
+```
 
 ---
 
@@ -4048,6 +4799,20 @@ quiz:
     explanation: >
       Sans un symbole pour marquer une position vide, il devient impossible de distinguer par
       exemple 205 de 25 : le zéro rend explicite l'absence de valeur à une position précise.
+  - question: "Pourquoi appelle-t-on chiffres arabes des chiffres d'origine indienne ?"
+    options:
+      - "Parce qu'ils ont été inventés par des mathématiciens arabes au Moyen-Orient"
+      - "Parce que des savants arabes les ont adoptés et transmis jusqu'en Europe"
+      - "Parce que les Romains les ont rapportés d'Arabie"
+    answer: 2
+    explanation: "Le système est né en Inde, s'est diffusé vers le Moyen-Orient où des savants arabes l'ont adopté et transmis, avant d'atteindre l'Europe."
+  - question: "Quelle avancée attribue-t-on à Brahmagupta ?"
+    options:
+      - "Avoir établi le zéro comme un nombre à part entière, utilisable dans les calculs"
+      - "Avoir posé les bases de la numération de position vers l'an 500"
+      - "Avoir introduit ce système en Europe au neuvième siècle"
+    answer: 1
+    explanation: "Au septième siècle, Brahmagupta a fait du zéro un nombre à part entière, utilisable dans les calculs. Les bases de la numération de position sont attribuées à Aryabhata."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -4098,9 +4863,18 @@ avancée, contrairement aux systèmes de numération antérieurs bien plus lourd
 - Cette invention a rendu les calculs complexes accessibles sans connaissance mathématique
   avancée.
 
-[Emplacement image : comparaison entre un nombre écrit en chiffres romains et le même nombre
-écrit avec la numération de position moderne, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: La numération de position
+centre: Nombre
+parties:
+  - nom: Place des chiffres
+    role: Elle fixe leur valeur.
+  - nom: Le zéro
+    role: Il marque une position vide.
+  - nom: Origine
+    role: Développée en Inde.
+```
 
 ---
 
@@ -4350,6 +5124,20 @@ quiz:
       Un triangle dont les côtés respectent le rapport trois, quatre, cinq forme toujours un
       angle droit exact entre les deux côtés les plus courts, une méthode connue et utilisée
       depuis l'Antiquité.
+  - question: "Que faut-il faire pour mesurer une distance à la corde sur un terrain irrégulier ?"
+    options:
+      - "Corriger la mesure pour tenir compte de la pente"
+      - "Doubler la mesure pour compenser les creux"
+      - "Remplacer la corde par un triangle de proportions trois, quatre et cinq"
+    answer: 1
+    explanation: "Sur un terrain plat, la corde donne directement la distance. Sur un terrain irrégulier, il faut corriger cette mesure pour tenir compte de la pente."
+  - question: "Comment calcule-t-on la surface d'un terrain de forme irrégulière ?"
+    options:
+      - "On mesure son périmètre et on le multiplie par deux"
+      - "On le remplace par un rectangle de même longueur"
+      - "On le décompose en figures simples dont on additionne les surfaces"
+    answer: 3
+    explanation: "Un terrain irrégulier se décompose en plusieurs figures simples, comme des rectangles ou des triangles, dont on additionne ensuite les surfaces."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -4402,8 +5190,17 @@ triangulation à grande échelle sur des territoires entiers.
 - Le théodolite, un instrument historique, mesure précisément les angles pour l'arpentage à
   grande échelle.
 
-[Emplacement image : arpenteur utilisant une corde nouée pour tracer un angle droit sur un
-terrain, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Mesurer un terrain sans électronique
+centre: Arpentage
+icone: map
+parties:
+  - nom: Triangulation
+    role: Des distances calculées par les angles.
+  - nom: Corde à nœuds 3, 4, 5
+    role: Pour tracer un angle droit.
+```
 
 ---
 
@@ -4770,6 +5567,20 @@ quiz:
       Certains minéraux, retrouvés dans les sédiments ou les roches, servent d'indices qui
       orientent les prospecteurs vers une zone où un gisement plus important pourrait se
       trouver.
+  - question: "Comment se forment de nombreux gisements de minerais ?"
+    options:
+      - "Par l'érosion lente des montagnes, qui concentre les minerais en surface"
+      - "Des fluides chauds chargés de minéraux dissous refroidissent dans les fractures de la roche et y déposent leur contenu"
+      - "Par l'accumulation de sédiments au fond des rivières"
+    answer: 2
+    explanation: "Des fluides chauds chargés de minéraux dissous circulent dans les fractures, puis refroidissent et déposent progressivement leur contenu minéral en un même endroit."
+  - question: "Que suggère la présence d'un minéral indicateur en petite quantité dans les sédiments d'une rivière ?"
+    options:
+      - "Que le gisement a déjà été entièrement exploité"
+      - "Que la rivière a changé de cours récemment"
+      - "Qu'un gisement plus important se trouve en amont ou à proximité"
+    answer: 3
+    explanation: "Ces minéraux servent d'indices précieux : leur présence suggère qu'un gisement plus important existe quelque part en amont ou à proximité."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -4822,8 +5633,15 @@ signaler la présence d'un gisement.
 - Des mesures magnétiques ou électriques modernes complètent aujourd'hui l'observation directe
   du terrain.
 
-[Emplacement image : affleurement rocheux montrant des veines de quartz et des traces de
-minéralisation, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les indices d'un gisement
+centre: Minerai
+parties:
+  - nom: Failles et fractures
+  - nom: Couleur des roches
+  - nom: Minéraux indicateurs
+```
 
 ---
 
@@ -4884,6 +5702,20 @@ quiz:
       L'eau souterraine, comme l'eau de surface, a tendance à s'écouler vers les points les plus
       bas du relief sous l'effet de la gravité, ce qui rend la nappe généralement plus proche de
       la surface dans les vallées.
+  - question: "Que révèle un cours d'eau qui continue de couler pendant une sécheresse prolongée ?"
+    options:
+      - "Une forte pluie tombée récemment en amont"
+      - "Une alimentation souterraine continue"
+      - "Une couche d'argile compacte en surface"
+    answer: 2
+    explanation: "Un cours d'eau qui coule malgré la sécheresse révèle une alimentation souterraine continue, donc la présence d'une nappe."
+  - question: "À quoi servent les mesures de résistivité électrique du sol ?"
+    options:
+      - "À révéler des différences de composition invisibles à l'œil nu et à localiser plus précisément une nappe avant de creuser"
+      - "À remplacer toute observation du relief et de la végétation"
+      - "À chauffer le sol pour faire remonter l'eau"
+    answer: 1
+    explanation: "Cette technique de professionnels révèle des différences de composition du sol invisibles à l'œil nu et localise plus précisément une nappe d'eau avant de creuser."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -4935,8 +5767,18 @@ et localise plus précisément une nappe d'eau souterraine avant de creuser.
 - Des mesures de résistivité électrique du sol permettent une localisation plus précise avant de
   creuser.
 
-[Emplacement image : paysage montrant une végétation dense dans une vallée signalant la présence
-d'eau souterraine peu profonde, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les indices d'eau souterraine
+centre: Nappe
+icone: droplet
+parties:
+  - nom: Relief
+    role: L'eau descend vers les points bas.
+  - nom: Végétation verte en saison sèche
+  - nom: Sources et suintements
+  - nom: Nature du sol
+```
 
 ---
 
@@ -5497,6 +6339,21 @@ Dans les chloroplastes se trouvent des petits sacs aplatis, les thylakoïdes. L'
 ## Étape 2, le sucre est assemblé
 
 Dans le stroma, le liquide qui remplit le chloroplaste, une série de réactions utilise ces piles. C'est le cycle de Calvin. Il accroche le dioxyde de carbone de l'air à d'autres molécules pour construire des sucres. Une enzyme, la RuBisCO, réalise la toute première étape. La plante utilise ces sucres pour grandir et vivre. Elle en garde une partie en réserve sous forme d'amidon.
+
+```schema
+type: etapes
+titre: La photosynthèse
+elements:
+  - titre: Lumière, eau, CO2
+    icone: sun
+  - titre: Chlorophylle
+    texte: Elle absorbe le bleu et le rouge.
+    icone: leaf
+  - titre: Étape 1
+    texte: La lumière casse l'eau et libère l'oxygène.
+  - titre: Étape 2
+    texte: Le sucre est assemblé.
+```
 
 ## À retenir
 
@@ -6334,6 +7191,9 @@ sources:
   - title: "Antimicrobial resistance"
     url: "https://en.wikipedia.org/wiki/Antimicrobial_resistance"
     publisher: "Wikipedia"
+  - title: "Résistance aux antimicrobiens"
+    url: "https://www.who.int/fr/news-room/fact-sheets/detail/r%C3%A9sistance-aux-antimicrobiens"
+    publisher: "Organisation mondiale de la Santé"
 quiz:
   - question: "Quel mécanisme de l'évolution explique la résistance aux antibiotiques ?"
     options:
@@ -6404,6 +7264,17 @@ Dès 1945, Alexander Fleming avait prévenu que l'abus de pénicilline rendrait 
 Plus on utilise d'antibiotiques, plus on favorise les bactéries résistantes. L'élevage est le premier utilisateur d'antibiotiques dans le monde : environ 70 % en tonnage. Les antibiotiques pris sans raison, par exemple contre un virus, aggravent aussi le problème.
 
 Les conséquences sont graves. Une étude publiée en 2022 a compté 1,27 million de décès dans le monde directement dus à l'antibiorésistance en 2019. Pour ralentir cette course, les médecins demandent de ne prendre des antibiotiques que lorsqu'ils sont nécessaires, et de mieux prévenir les infections.
+
+```schema
+titre: Comment naît la résistance
+type: etapes
+elements:
+  - titre: Variation génétique ou acquisition de gènes
+  - titre: Antibiotique
+    texte: L’antibiotique sélectionne les bactéries dont la résistance permet la survie.
+  - titre: Les résistantes survivent
+  - titre: Partage des gènes
+```
 
 ## À retenir
 
@@ -6970,6 +7841,23 @@ Ainsi, deux parents des groupes A et B peuvent avoir un enfant de n'importe quel
 
 Les groupes ne sont pas répartis de la même façon partout. En France, le groupe le plus fréquent est A positif, avec environ 38 % des habitants. Chez les Inuits, 86 % des personnes sont du groupe O. En 2025, on connaît 48 systèmes de groupes sanguins, mais ABO et Rhésus restent les plus importants pour les transfusions.
 
+```schema
+type: comparaison
+titre: Les groupes sanguins ABO
+legende: Découverts par Karl Landsteiner en 1901.
+colonnes:
+  - titre: A
+    points:
+      - Antigène A
+  - titre: B
+    points:
+      - Antigène B
+  - titre: AB et O
+    points:
+      - AB, les deux antigènes
+      - O, aucun des deux
+```
+
 ## À retenir
 
 - Les groupes A, B, AB et O dépendent des antigènes présents sur les globules rouges.
@@ -7280,18 +8168,155 @@ status: planned
 
 ---
 type: article
-title: L'eau, une molecule aux proprietes exceptionnelles
+title: L'eau, une molécule aux propriétés exceptionnelles
 slug: l-eau-une-molecule-aux-proprietes-exceptionnelles
 categoryPath: sciences-fondamentales/chimie/chimie-inorganique
 summary: >
-  Pourquoi cette molecule simple presente des caracteristiques chimiques uniques.
-tags: [chimie-inorganique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Deux atomes d'hydrogène et un d'oxygène : la molécule d'eau est minuscule, mais sa forme coudée et
+  ses liaisons hydrogène lui donnent des propriétés hors du commun. Elle dissout beaucoup de
+  substances, stocke la chaleur, et sa glace flotte, ce qui a permis à la vie de se développer.
+tags: [chimie-inorganique]
+relatedArticles: [pourquoi-le-sel-disparait-il-dans-l-eau-alors-que-l-huile-reste-a-part, pourquoi-un-lac-gele-t-il-par-la-surface-plutot-que-par-le-fond, temperature-et-chaleur, comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre]
+sources:
+  - title: "Eau"
+    url: "https://fr.wikipedia.org/wiki/Eau"
+    publisher: "Wikipédia"
+  - title: "Properties of water"
+    url: "https://en.wikipedia.org/wiki/Properties_of_water"
+    publisher: "Wikipedia"
+  - title: "Hydrogen bond"
+    url: "https://en.wikipedia.org/wiki/Hydrogen_bond"
+    publisher: "Wikipedia"
+  - title: "Specific heat capacity"
+    url: "https://en.wikipedia.org/wiki/Specific_heat_capacity"
+    publisher: "Wikipedia"
+  - title: "Eau"
+    url: "https://www.larousse.fr/encyclopedie/divers/eau/45222"
+    publisher: "Larousse"
+quiz:
+  - question: "Pourquoi la molécule d'eau est-elle dite polaire ?"
+    options:
+      - "Parce qu'on la trouve surtout aux pôles"
+      - "Parce que l'oxygène attire les électrons, créant un côté légèrement négatif et un côté légèrement positif"
+      - "Parce qu'elle contient un aimant"
+    answer: 2
+    explanation: >
+      L'oxygène attire davantage les électrons que l'hydrogène. Avec la forme coudée de la molécule,
+      cela crée deux pôles électriques opposés.
+  - question: "Pourquoi la glace flotte-t-elle sur l'eau liquide ?"
+    options:
+      - "Parce qu'elle contient de l'air"
+      - "Parce que ses molécules s'organisent en un réseau ouvert, moins dense que le liquide"
+      - "Parce qu'elle est plus chaude"
+    answer: 2
+    explanation: >
+      En gelant, les liaisons hydrogène figent les molécules dans un réseau aéré. La glace est environ
+      9 % moins dense que l'eau liquide.
+  - question: "Pourquoi les régions côtières ont-elles des températures plus douces ?"
+    options:
+      - "Parce que l'eau de mer stocke beaucoup de chaleur et la restitue lentement"
+      - "Parce que le vent y est plus fort"
+      - "Parce que le sel réchauffe l'air"
+    answer: 1
+    explanation: >
+      L'eau a une capacité calorifique très élevée : elle se réchauffe et se refroidit lentement, ce
+      qui adoucit les écarts de température.
+  - question: "Pourquoi l'eau dissout-elle le sel et le sucre, mais pas les huiles ?"
+    options:
+      - "Parce que l'eau est plus dense que les huiles"
+      - "Parce que sa polarité lui permet d'entourer les ions et les molécules chargées, alors que les huiles ne sont pas polaires"
+      - "Parce que les huiles forment des liaisons hydrogène trop fortes avec l'eau"
+    answer: 2
+    explanation: "Grâce à sa polarité, l'eau entoure et sépare les ions et les molécules chargées. Les graisses et les huiles, qui ne sont pas polaires, restent à l'écart."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'eau, **H₂O**, est formée d'un atome d'oxygène lié à deux atomes d'hydrogène. Pour une si petite
+molécule, elle se comporte de façon étonnante : elle est **liquide** à température ambiante alors que
+des molécules de taille voisine sont des gaz, elle **dissout** un grand nombre de substances, elle
+**stocke la chaleur** mieux que presque tout autre liquide, et sa forme solide, la glace, **flotte**.
+Toutes ces particularités viennent de sa forme coudée et des **liaisons hydrogène** qui unissent les
+molécules entre elles.
+
+## Une molécule coudée et polaire
+
+Les trois atomes ne sont pas alignés : ils forment un angle d'environ **104,5°**. L'oxygène attire plus
+fortement les électrons que l'hydrogène. Le côté oxygène porte donc une légère charge **négative**, les
+deux hydrogènes une légère charge **positive**. On dit que la molécule est **polaire** : elle se
+comporte comme un minuscule aimant électrique.
+
+## Les liaisons hydrogène
+
+Le côté positif d'une molécule attire le côté négatif de sa voisine. Ces attractions, appelées
+**liaisons hydrogène**, sont bien plus faibles qu'une liaison chimique, mais très nombreuses. Elles se
+font et se défont sans cesse dans l'eau liquide, et retiennent les molécules les unes aux autres. Il
+faut beaucoup d'énergie pour les séparer : c'est pourquoi l'eau bout à 100 °C, alors que le sulfure
+d'hydrogène, une molécule voisine, est un gaz bien en dessous de 0 °C.
+
+```schema
+titre: Ce que les liaisons hydrogène donnent à l'eau
+legende: La forme coudée de la molécule et sa polarité expliquent la plupart de ses propriétés.
+type: systeme
+centre: Molécule d'eau
+icone: droplet
+parties:
+  - nom: Solvant
+    role: Dissout sels, sucres et gaz
+    icone: flask
+  - nom: Réservoir de chaleur
+    role: Se réchauffe et refroidit lentement
+    icone: thermometer
+  - nom: Glace qui flotte
+    role: Solide moins dense que le liquide
+    icone: snowflake
+  - nom: Tension de surface
+    role: Une cohésion de surface qui résiste à son étirement, sans former une véritable peau.
+    icone: bubbles
+  - nom: Capillarité
+    role: Monte dans les tubes fins
+    icone: leaf
+```
+
+## Un solvant presque universel
+
+Grâce à sa polarité, l'eau entoure les ions et les molécules chargées et les sépare les uns des
+autres : le sel, le sucre, de nombreux gaz s'y dissolvent. C'est ce qui permet au sang de transporter
+les nutriments, à la sève de nourrir les plantes, et aux réactions chimiques de la vie de se dérouler
+dans les cellules. Les graisses et les huiles, qui ne sont pas polaires, restent en revanche à l'écart.
+
+## Un réservoir de chaleur
+
+Il faut beaucoup d'énergie pour réchauffer l'eau : sa **capacité calorifique** est environ quatre fois
+plus élevée que celle de l'air pour une même masse. Les océans absorbent ainsi d'immenses quantités de
+chaleur et la restituent lentement, ce qui adoucit le climat des côtes. Notre corps, composé en grande
+partie d'eau, garde lui aussi une température stable. L'évaporation de l'eau consomme de plus beaucoup
+d'énergie : c'est le principe de la transpiration qui nous rafraîchit.
+
+## La glace qui flotte
+
+La plupart des substances sont plus denses à l'état solide. Pas l'eau : en gelant, les liaisons
+hydrogène figent les molécules dans un **réseau ouvert**, plein de vides. La glace est environ **9 %
+moins dense** que l'eau liquide et flotte. Sur un lac en hiver, la glace se forme en surface et isole
+l'eau dessous, qui reste liquide : poissons et plantes survivent. L'eau liquide est la plus dense vers
+**4 °C**, la température du fond des lacs profonds.
+
+## Tension de surface et capillarité
+
+À la surface, les molécules s'attirent fortement entre elles et forment une sorte de **peau** : certains
+insectes marchent sur l'eau, et une goutte prend une forme ronde. L'eau adhère aussi aux parois : elle
+monte dans les tubes très fins, les fibres d'un papier ou les vaisseaux des plantes, c'est la
+**capillarité**.
+
+## À retenir
+
+- La molécule d'eau est coudée et polaire : un côté légèrement négatif, l'autre légèrement positif.
+- Les liaisons hydrogène entre molécules expliquent son point d'ébullition élevé.
+- L'eau dissout de nombreuses substances, ce qui en fait le milieu de la vie.
+- Elle stocke beaucoup de chaleur, ce qui adoucit les climats et stabilise notre température.
+- La glace est moins dense que l'eau liquide et flotte, ce qui protège la vie aquatique en hiver.
 
 ---
 type: article
@@ -7767,6 +8792,14 @@ sources:
   - title: "Recherches chimiques sur les corps gras d'origine animale (1823), notice"
     url: "https://wellcomecollection.org/works/u93ydsgv"
     publisher: "Wellcome Collection"
+  - title: "Saponification"
+    url: "https://www.ebsco.com/research-starters/chemistry/saponification"
+    publisher: "EBSCO Research Starters"
+    date: "2025"
+  - title: "The Chemistry of Soap Making"
+    url: "https://www.chagrinvalleysoapandsalve.com/blogs/idas-soap-box-blog/the-chemistry-of-soap-making"
+    publisher: "Chagrin Valley Soap & Salve"
+    date: "2025"
 quiz:
   - question: "Avec quoi mélange-t-on l'huile pour fabriquer du savon ?"
     options:
@@ -7835,6 +8868,17 @@ Quand on se lave les mains, les queues des molécules de savon s'accrochent aux 
 ## Une recette très ancienne
 
 Le savon est une invention très ancienne. Vers 2800 avant notre ère, à Babylone, en Mésopotamie, on faisait déjà bouillir des graisses avec des cendres pour obtenir une matière proche du savon. Les cendres de bois contiennent en effet de la potasse, une base. En Égypte, des papyrus médicaux datés d'environ 1550 avant notre ère décrivent un savon fait de graisses animales, d'huiles végétales et de sels alcalins.
+
+```schema
+type: etapes
+titre: La saponification
+elements:
+  - titre: Corps gras
+  - titre: Base forte
+    texte: Soude ou potasse.
+  - titre: Réaction
+  - titre: Savon et glycérine
+```
 
 ## À retenir
 
@@ -8315,6 +9359,9 @@ sources:
   - title: "Chlorure de sodium"
     url: "https://fr.wikipedia.org/wiki/Chlorure_de_sodium"
     publisher: "Wikipédia"
+  - title: "11.3 : Solubilité (Chimie 1re, OpenStax)"
+    url: "https://query.libretexts.org/Francais/Chimie_1e_(OpenStax)/11%3A_Solutions_et_collo%C3%AFdes/11.3%3A_Solubilit%C3%A9"
+    publisher: "OpenStax, Rice University (LibreTexts)"
 quiz:
   - question: "Dans de l'eau salée, comment appelle-t-on le sel ?"
     options:
@@ -8385,6 +9432,20 @@ La vitesse compte aussi. Un solide en grains fins se dissout plus vite qu'un gro
 ## Une eau froide et salée
 
 Dissoudre du sel prend un peu de chaleur à ce qui l'entoure. Quand on répand du sel sur la neige, il se dissout dans la glace qui fond et forme de l'eau salée. Cette eau salée ne gèle qu'en dessous de 0 °C. Avec 23 % de sel, elle reste liquide jusqu'à -21 °C. C'est pourquoi on sale les routes en hiver.
+
+```schema
+type: comparaison
+titre: Le semblable dissout le semblable
+colonnes:
+  - titre: Se dissout dans l'eau
+    icone: droplet
+    points:
+      - Sel
+      - Sucre
+  - titre: Reste à part
+    points:
+      - Huile
+```
 
 ## À retenir
 
@@ -9727,6 +10788,16 @@ La lettre π n'a été choisie qu'en 1706, par le Gallois William Jones. C'est l
 
 En 1844, Zacharias Dase calcule de tête 200 décimales de pi. Avec les ordinateurs, les records ont explosé. En 1973, on atteint un million de décimales. En 2025, on en connaît environ 314 000 milliards. Pourtant, quelques centaines de décimales suffisent pour tous les calculs scientifiques pratiques.
 
+```schema
+type: chiffres
+titre: Le nombre pi
+chiffres:
+  - valeur: 3,14
+    texte: environ, le tour divisé par le diamètre
+  - valeur: Sans fin
+    texte: ses décimales ne s'arrêtent jamais
+```
+
 ## À retenir
 
 - Pi est le tour d'un cercle divisé par son diamètre : il est le même pour tous les cercles.
@@ -9918,6 +10989,12 @@ sources:
   - title: "Eratosthenes"
     url: "https://en.wikipedia.org/wiki/Eratosthenes"
     publisher: "Wikipedia"
+  - title: "Énigme 1 : Ératosthène et la mesure de la circonférence de la Terre"
+    url: "https://www.pedagogie.ac-nice.fr/mathematiques/wp-content/uploads/sites/30/2013/01/Enigme-1-LUNDI-Eratosth%C3%A8ne-et-la-mesure-de-la-circonf%C3%A9rence-de-la-Terre.pdf"
+    publisher: "Académie de Nice"
+  - title: "Eratosthène et la mesure de la Terre"
+    url: "https://www.umoncton.ca/umcm-sciences/sites/umcm-sciences.prod.umoncton.ca/files/wf/eratosthene_et_la_mesure_de_la_terre.pdf"
+    publisher: "Université de Moncton"
 quiz:
   - question: "Que se passait-il à Syène, à midi, le jour du solstice d'été ?"
     options:
@@ -9987,6 +11064,21 @@ On ne connaît pas exactement la longueur du stade qu'il utilisait. Selon la val
 Ératosthène avait pourtant fait deux petites erreurs. Syène n'est pas exactement sur la ligne où le Soleil passe à la verticale, et elle n'est pas tout à fait au sud d'Alexandrie. Ces deux erreurs se sont en partie compensées.
 
 Il a laissé d'autres travaux. Il a inventé le crible d'Ératosthène, une méthode pour trouver les nombres premiers. Il est aussi considéré comme l'un des pères de la géographie.
+
+```schema
+type: etapes
+titre: La mesure d'Ératosthène
+elements:
+  - titre: Syène
+    texte: Pas d'ombre au solstice à midi.
+    icone: sun
+  - titre: Alexandrie
+    texte: Une ombre au même moment.
+  - titre: Mesurer l'angle
+  - titre: Calculer le tour de la Terre
+    texte: 250 000 stades.
+    icone: globe
+```
 
 ## À retenir
 
@@ -10227,29 +11319,289 @@ title: La loi des grands nombres
 slug: la-loi-des-grands-nombres
 categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
 summary: >
-  Pourquoi les resultats aleatoires se stabilisent progressivement sur un grand nombre d'essais.
-tags: [probabilites-et-statistiques, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Lancez une pièce dix fois et vous obtiendrez peut-être sept piles. Lancez-la dix mille fois et la
+  proportion de piles sera très proche de la moitié. Ce principe explique pourquoi les casinos et
+  les assureurs gagnent à coup sûr, et pourquoi un petit échantillon peut tromper.
+tags: [probabilites-et-statistiques]
+relatedArticles: [le-hasard-et-les-probabilites, la-moyenne-la-mediane-et-le-mode-trois-mesures-distinctes, le-contrat-d-assurance-principes-de-base, pourquoi-notre-cerveau-se-trompe]
+sources:
+  - title: "Loi des grands nombres"
+    url: "https://fr.wikipedia.org/wiki/Loi_des_grands_nombres"
+    publisher: "Wikipédia"
+  - title: "Law of large numbers"
+    url: "https://en.wikipedia.org/wiki/Law_of_large_numbers"
+    publisher: "Wikipedia"
+  - title: "Gambler's fallacy"
+    url: "https://en.wikipedia.org/wiki/Gambler%27s_fallacy"
+    publisher: "Wikipedia"
+  - title: "Jacob Bernoulli"
+    url: "https://en.wikipedia.org/wiki/Jacob_Bernoulli"
+    publisher: "Wikipedia"
+  - title: "Calcul des probabilités : lois des grands nombres et théorème central limite"
+    url: "https://www.universalis.fr/encyclopedie/calcul-des-probabilites/8-lois-des-grands-nombres-et-theoreme-central-limite/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "loi des grands nombres"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17699757/loi-des-grands-nombres"
+    publisher: "Office québécois de la langue française"
+quiz:
+  - question: "Que dit la loi des grands nombres ?"
+    options:
+      - "Que les événements rares n'arrivent jamais"
+      - "Que, sur un grand nombre d'essais, la fréquence observée se rapproche de la probabilité"
+      - "Qu'après cinq piles, face devient plus probable"
+    answer: 2
+    explanation: >
+      Plus on répète l'expérience, plus la proportion observée tend vers la probabilité théorique.
+  - question: "Après dix piles de suite avec une pièce équilibrée, quelle est la probabilité d'obtenir face au lancer suivant ?"
+    options:
+      - "Une chance sur deux"
+      - "Presque certaine"
+      - "Presque nulle"
+    answer: 1
+    explanation: >
+      La pièce n'a pas de mémoire. Croire que face « doit » sortir est l'erreur du joueur : la loi
+      des grands nombres ne corrige pas le passé, elle le dilue.
+  - question: "Pourquoi un casino est-il assuré de gagner sur l'année ?"
+    options:
+      - "Parce qu'il triche"
+      - "Parce que les joueurs perdent toujours"
+      - "Parce qu'il a un léger avantage sur chaque mise et que des millions de mises rendent le résultat prévisible"
+    answer: 3
+    explanation: >
+      Un joueur isolé peut gagner, mais sur des millions de parties, le petit avantage de la maison
+      se transforme en bénéfice quasi certain.
+  - question: "Pourquoi un hôpital qui accueille peu de naissances connaît-il plus souvent des journées exceptionnelles qu'une grande maternité ?"
+    options:
+      - "Parce que les petits hôpitaux ont moins de personnel"
+      - "Parce que le hasard rattrape ses écarts sur de petits effectifs"
+      - "Parce que sur peu d'essais, les résultats extrêmes sont fréquents"
+    answer: 3
+    explanation: "La loi des grands nombres ne rend pas fiables les petits échantillons : sur peu d'essais, des résultats extrêmes sont fréquents. Ils se diluent dans un grand nombre de cas."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La **loi des grands nombres** dit que, lorsqu'on répète un grand nombre de fois une expérience
+aléatoire, la **fréquence** observée d'un résultat se rapproche de sa **probabilité**. Sur dix lancers,
+une pièce peut donner sept piles ; sur dix mille, la proportion de piles sera très proche de 50 %. Le
+hasard reste imprévisible au coup par coup, mais devient très régulier en masse. Ce principe, démontré
+par le mathématicien suisse **Jacques Bernoulli** et publié en 1713, fonde les sondages, l'assurance
+et toute la statistique.
+
+## Une expérience simple
+
+Prenons un dé. La probabilité d'obtenir un 6 est d'une sur six, soit environ 16,7 %.
+
+- Sur **6 lancers**, on peut n'avoir aucun 6, ou en avoir trois : la fréquence varie énormément.
+- Sur **600 lancers**, on obtient le plus souvent entre 80 et 120 six.
+- Sur **60 000 lancers**, la proportion de 6 sera très proche de 16,7 %.
+
+Les écarts en nombre absolu peuvent grandir, mais l'écart **en proportion** se réduit : il devient
+négligeable par rapport au total.
+
+```schema
+titre: Plus on répète, plus la fréquence se stabilise
+legende: >-
+  Pour des lancers indépendants d’un dé équilibré, la fréquence se rapproche de 1/6 sans garantie
+  pour un nombre fixé de lancers.
+type: etapes
+elements:
+  - titre: 6 lancers
+    texte: Aucun 6 ou trois 6, tout est possible.
+    icone: cube
+  - titre: 600 lancers
+    texte: Le plus souvent entre 80 et 120 six.
+    icone: chart
+  - titre: 60 000 lancers
+    texte: Une proportion très proche de 16,7 %.
+    icone: scales
+```
+
+## Ce que la loi ne dit pas
+
+Une erreur répandue, l'**erreur du joueur**, consiste à croire que le hasard « rattrape » ses écarts :
+après une série de rouges à la roulette, le noir serait « dû ». C'est faux. Chaque tirage est
+indépendant : la bille n'a pas de mémoire. La loi des grands nombres ne compense pas les écarts
+passés, elle les **dilue** dans une masse de tirages toujours plus grande.
+
+Elle ne dit pas non plus que les petits échantillons sont fiables. Au contraire : sur peu d'essais, des
+résultats extrêmes sont fréquents. Un hôpital qui accueille peu de naissances connaîtra plus souvent
+des journées « exceptionnelles » qu'une grande maternité.
+
+## Pourquoi elle fait vivre des industries entières
+
+- **Les casinos** : sur chaque mise, la maison a un petit avantage, quelques pour cent. Un joueur peut
+  gagner une soirée, mais sur des millions de mises, le gain du casino devient presque certain.
+- **Les assureurs** : impossible de savoir quelle maison brûlera, mais sur des centaines de milliers de
+  contrats, le nombre de sinistres devient prévisible, ce qui permet de fixer les primes.
+- **Les sondages** : interroger un échantillon assez grand et bien choisi suffit à estimer l'opinion de
+  millions de personnes avec une marge d'erreur connue.
+- **La médecine** : un traitement se juge sur des centaines ou des milliers de patients, car quelques
+  cas isolés ne prouvent rien.
+
+## À retenir
+
+- Sur un grand nombre d'essais, la fréquence d'un résultat se rapproche de sa probabilité.
+- Le hasard est imprévisible au coup par coup, mais très régulier en grand nombre.
+- La loi ne rattrape pas les écarts passés : chaque tirage reste indépendant.
+- Les petits échantillons produisent souvent des résultats extrêmes et trompeurs.
+- Casinos, assurances, sondages et essais médicaux reposent sur ce principe.
 
 ---
 type: article
-title: La moyenne, la mediane et le mode, trois mesures distinctes
+title: La moyenne, la médiane et le mode, trois mesures distinctes
 slug: la-moyenne-la-mediane-et-le-mode-trois-mesures-distinctes
 categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
 summary: >
-  Des indicateurs statistiques qui ne racontent pas toujours la meme histoire.
-tags: [probabilites-et-statistiques, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Pour résumer une série de nombres en un seul, on dispose de trois outils qui peuvent donner des
+  résultats très différents. La moyenne est sensible aux valeurs extrêmes, la médiane coupe la série
+  en deux, le mode désigne la valeur la plus fréquente. Choisir le bon évite de se laisser tromper.
+tags: [probabilites-et-statistiques]
+relatedArticles: [le-hasard-et-les-probabilites, inegalites-de-revenu-et-de-patrimoine, pourquoi-ne-regarder-que-les-reussites-nous-trompe-t-il, interets-composes]
+sources:
+  - title: "Médiane (statistiques)"
+    url: "https://fr.wikipedia.org/wiki/M%C3%A9diane_(statistiques)"
+    publisher: "Wikipédia"
+  - title: "Mean"
+    url: "https://en.wikipedia.org/wiki/Mean"
+    publisher: "Wikipedia"
+  - title: "Mode (statistics)"
+    url: "https://en.wikipedia.org/wiki/Mode_(statistics)"
+    publisher: "Wikipedia"
+  - title: "Central tendency"
+    url: "https://en.wikipedia.org/wiki/Central_tendency"
+    publisher: "Wikipedia"
+  - title: "Pour les statisticiens, avoir la moyenne ne suffit pas"
+    url: "https://blog.insee.fr/wp-content/uploads/2023/07/blogInsee_2023_07-pour_les_statisticiens_avoir_la_moyenne_ne_suffit_pas.pdf"
+    publisher: "INSEE"
+    date: "2023"
+quiz:
+  - question: "Dans une entreprise, neuf salariés gagnent 2 000 € et le patron 50 000 €. Quelle mesure décrit le mieux le salaire typique ?"
+    options:
+      - "La moyenne, 6 800 €"
+      - "La médiane, 2 000 €"
+      - "Le salaire du patron"
+    answer: 2
+    explanation: >
+      Le salaire du patron tire la moyenne vers le haut. La médiane, insensible à cette valeur
+      extrême, reflète la situation de la majorité.
+  - question: "Qu'est-ce que la médiane d'une série ?"
+    options:
+      - "La valeur qui partage la série classée en deux moitiés égales"
+      - "La valeur la plus fréquente"
+      - "La somme divisée par le nombre de valeurs"
+    answer: 1
+    explanation: >
+      Une moitié des valeurs se trouve en dessous de la médiane, l'autre moitié au-dessus.
+  - question: "Pour connaître la pointure de chaussures la plus vendue, quelle mesure utiliser ?"
+    options:
+      - "La moyenne"
+      - "La médiane"
+      - "Le mode"
+    answer: 3
+    explanation: >
+      Le mode désigne la valeur qui revient le plus souvent : c'est exactement ce que cherche un
+      commerçant pour remplir son stock.
+  - question: "Que signale une moyenne nettement supérieure à la médiane ?"
+    options:
+      - "Que la série est parfaitement équilibrée"
+      - "Que la série contient quelques valeurs très élevées qui tirent la moyenne vers le haut"
+      - "Que la plupart des valeurs sont très faibles et dispersées"
+    answer: 2
+    explanation: "L'écart entre moyenne et médiane est un signal. Une moyenne bien au-dessus de la médiane indique quelques valeurs très élevées, comme les hauts revenus dans les salaires."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand on a beaucoup de chiffres, des notes, des salaires ou des tailles, on veut souvent les résumer
+par une seule valeur « centrale ». Trois mesures servent à cela. La **moyenne** additionne tout et
+divise par le nombre de valeurs. La **médiane** est la valeur du milieu quand on range la série dans
+l'ordre. Le **mode** est la valeur la plus fréquente. Sur une série bien équilibrée, les trois se
+ressemblent. Sur une série déséquilibrée, elles peuvent raconter des histoires très différentes.
+
+## La moyenne, le partage équitable
+
+La moyenne répond à la question : « Si l'on partageait le total également entre tous, combien
+chacun aurait-il ? » Pour les notes 8, 10, 12 et 14, la somme vaut 44 et la moyenne 11.
+
+Sa force : elle utilise toutes les valeurs. Sa faiblesse : une seule valeur extrême la déplace
+fortement. Si un milliardaire entre dans un café, le patrimoine moyen des clients explose, alors que
+personne d'autre ne s'est enrichi.
+
+## La médiane, la valeur du milieu
+
+On range les valeurs de la plus petite à la plus grande et l'on prend celle du milieu. Pour 3, 5, 7,
+20, 95, la médiane vaut 7. Avec un nombre pair de valeurs, on prend la moyenne des deux valeurs
+centrales.
+
+La médiane partage la population en **deux moitiés** : 50 % des valeurs en dessous, 50 % au-dessus.
+Elle ignore la taille des valeurs extrêmes, ce qui la rend précieuse pour les revenus, les prix des
+logements ou les délais d'attente, où quelques cas exceptionnels faussent la moyenne. C'est pourquoi
+les statisticiens publics parlent souvent de **revenu médian**.
+
+## Le mode, la valeur la plus fréquente
+
+Le mode est simplement la valeur qui revient le plus souvent. Dans 2, 3, 3, 3, 5, 8, le mode vaut 3.
+Une série peut avoir **plusieurs modes**, ou aucun si toutes les valeurs sont différentes.
+
+C'est la seule des trois mesures qui fonctionne aussi pour des données qui ne sont pas des nombres :
+la couleur de voiture la plus vendue, le prénom le plus donné, la réponse la plus choisie à un
+sondage.
+
+```schema
+type: comparaison
+titre: Trois façons de résumer une série
+legende: Sur la série 2, 3, 3, 4, 38, la moyenne vaut 10, la médiane 3 et le mode 3.
+colonnes:
+  - titre: Moyenne
+    icone: scales
+    points:
+      - Somme divisée par l'effectif
+      - Utilise toutes les valeurs
+      - Tirée par les extrêmes
+  - titre: Médiane
+    icone: chart
+    points:
+      - Valeur du milieu de la série classée
+      - Coupe la série en deux moitiés
+      - Résiste aux extrêmes
+  - titre: Mode
+    icone: medal
+    points:
+      - Valeur la plus fréquente
+      - Peut être multiple ou absent
+      - Marche aussi sans nombres
+```
+
+## Quand elles divergent
+
+L'écart entre moyenne et médiane est un **signal**. Si la moyenne dépasse nettement la médiane, la
+série contient quelques valeurs très élevées : c'est typique des salaires, où une minorité de hauts
+revenus tire la moyenne vers le haut. Si la moyenne est plus basse, quelques valeurs très faibles
+pèsent sur elle.
+
+Un exemple : dans une entreprise de dix personnes, neuf gagnent 2 000 € par mois et le dirigeant
+50 000 €. Le salaire moyen est de 6 800 €, un chiffre qui ne correspond à personne. La médiane et le
+mode valent 2 000 €, ce que touche réellement presque tout le monde.
+
+## Lire les chiffres avec esprit critique
+
+Quand un article annonce un « revenu moyen », un « prix moyen » ou une « durée moyenne », on peut se
+demander : la médiane serait-elle très différente ? Choisir la mesure qui arrange est un moyen
+classique de présenter une réalité sous un jour flatteur. Une bonne pratique consiste à donner la
+moyenne **et** la médiane, et à préciser comment les valeurs sont dispersées.
+
+## À retenir
+
+- La moyenne partage le total également, mais une valeur extrême la déplace beaucoup.
+- La médiane est la valeur du milieu de la série classée : moitié en dessous, moitié au-dessus.
+- Le mode est la valeur la plus fréquente, utilisable même pour des catégories.
+- Un grand écart entre moyenne et médiane révèle une série déséquilibrée.
+- Pour les revenus et les prix, la médiane décrit souvent mieux la situation typique.
 
 ---
 type: article
@@ -10766,6 +12118,15 @@ sources:
   - title: "Bottle dynamo"
     url: "https://en.wikipedia.org/wiki/Bottle_dynamo"
     publisher: "Wikipedia"
+  - title: "Electromagnetism - Induction, Faraday, Magnetism"
+    url: "https://www.britannica.com/science/electromagnetism/Faradays-discovery-of-electric-induction"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+  - title: "The birth of the electric machines: a commentary on Faraday (1832) 'Experimental
+      researches in electricity'"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4360079/"
+    publisher: "Philosophical Transactions of the Royal Society / PMC"
+    date: "2025"
 quiz:
   - question: "Comment s'appelle le phénomène qui crée un courant quand un aimant bouge près d'une bobine ?"
     options:
@@ -10836,6 +12197,18 @@ Quand la dynamo est en marche, il faut pédaler un peu plus fort. L'électricit�
 Presque toute l'électricité du monde est produite de cette façon. Dans une centrale, on fait tourner un alternateur géant avec de la vapeur, du gaz, de l'eau ou du vent. Dans une centrale nucléaire, un seul alternateur peut fournir jusqu'à 1 800 mégawatts. Pour un réseau électrique à 50 hertz comme en France, il tourne souvent à 3 000 tours par minute.
 
 Le même principe sert aussi dans les lampes de poche et les radios à manivelle : on tourne, et l'appareil se recharge.
+
+```schema
+type: etapes
+titre: La dynamo
+elements:
+  - titre: La roue tourne
+  - titre: L'aimant tourne
+    icone: magnet
+  - titre: Près d'une bobine
+  - titre: Courant électrique
+    icone: bulb
+```
 
 ## À retenir
 
@@ -11270,6 +12643,9 @@ sources:
   - title: "Weight"
     url: "https://en.wikipedia.org/wiki/Weight"
     publisher: "Wikipedia"
+  - title: "Masse (physique)"
+    url: "https://www.universalis.fr/encyclopedie/masse-physique/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Dans quelle unité mesure-t-on un poids ?"
     options:
@@ -11340,6 +12716,22 @@ Pourtant, il n'est pas plus facile de les arrêter quand ils sont lancés. La ma
 Une balance à deux plateaux compare la masse d'un objet à des masses connues. Comme les deux côtés sont attirés de la même façon, elle donne le même résultat sur la Terre et sur la Lune.
 
 Un pèse-personne, lui, mesure en réalité une force, grâce à un ressort ou à un capteur. Il est réglé pour la pesanteur terrestre et affiche des kilogrammes. Sur la Lune, il afficherait un nombre environ six fois plus petit, alors que ta masse n'aurait pas changé.
+
+```schema
+type: comparaison
+titre: Masse ou poids
+colonnes:
+  - titre: Masse
+    points:
+      - Quantité de matière
+      - En kilogrammes
+      - La même partout
+  - titre: Poids
+    points:
+      - Force d'attraction de la planète
+      - En newtons
+      - Six fois plus faible sur la Lune
+```
 
 ## À retenir
 
@@ -12206,18 +13598,156 @@ status: planned
 
 ---
 type: article
-title: Les echelles de temperature, Celsius, Fahrenheit et Kelvin
+title: Les échelles de température, Celsius, Fahrenheit et Kelvin
 slug: les-echelles-de-temperature-celsius-fahrenheit-et-kelvin
 categoryPath: sciences-fondamentales/physique/thermodynamique
 summary: >
-  Trois systemes de mesure avec des points de reference historiques differents.
-tags: [thermodynamique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Trois échelles mesurent la même grandeur avec des points de repère différents. Le Celsius
+  s'appuie sur l'eau, le Fahrenheit sur des repères historiques, le Kelvin part du zéro absolu,
+  la température la plus basse possible. Savoir passer de l'une à l'autre évite bien des erreurs.
+tags: [thermodynamique]
+relatedArticles: [temperature-et-chaleur, les-deux-principes-de-la-thermodynamique, conduction-convection-rayonnement, pourquoi-un-lac-gele-t-il-par-la-surface-plutot-que-par-le-fond]
+sources:
+  - title: "Échelle de température"
+    url: "https://fr.wikipedia.org/wiki/%C3%89chelle_de_temp%C3%A9rature"
+    publisher: "Wikipédia"
+  - title: "Kelvin"
+    url: "https://en.wikipedia.org/wiki/Kelvin"
+    publisher: "Wikipedia"
+  - title: "Fahrenheit"
+    url: "https://en.wikipedia.org/wiki/Fahrenheit"
+    publisher: "Wikipedia"
+  - title: "Absolute zero"
+    url: "https://en.wikipedia.org/wiki/Absolute_zero"
+    publisher: "Wikipedia"
+  - title: "Brochure SI, 9e édition"
+    url: "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9-FR.pdf"
+    publisher: "Bureau international des poids et mesures (BIPM)"
+quiz:
+  - question: "À quelle température en degrés Celsius correspond le zéro absolu ?"
+    options:
+      - "0 °C"
+      - "−100 °C"
+      - "−273,15 °C"
+    answer: 3
+    explanation: >
+      0 K, le zéro absolu, vaut −273,15 °C. Aucune matière ne peut être plus froide.
+  - question: "Une variation de 1 kelvin correspond à une variation de combien de degrés Celsius ?"
+    options:
+      - "1 °C exactement"
+      - "1,8 °C"
+      - "273 °C"
+    answer: 1
+    explanation: >
+      Les deux échelles ont des degrés de même taille : seul leur point de départ diffère.
+  - question: "Combien vaut 100 °F, une forte fièvre, en degrés Celsius ?"
+    options:
+      - "Environ 20 °C"
+      - "Environ 38 °C"
+      - "Environ 100 °C"
+    answer: 2
+    explanation: >
+      (100 − 32) ÷ 1,8 ≈ 37,8 °C. Fahrenheit avait choisi des repères tels que la température du
+      corps soit proche de 100.
+  - question: "Pourquoi 20 °C n'est-il pas deux fois plus chaud que 10 °C ?"
+    options:
+      - "Parce que le degré Celsius change de taille selon la température"
+      - "Parce que l'échelle Celsius ne mesure pas l'agitation des particules"
+      - "Parce que le zéro Celsius n'est pas le zéro absolu : seul le kelvin double vraiment l'agitation quand il double"
+    answer: 3
+    explanation: "Le zéro Celsius est un repère lié à l'eau, pas le point où l'agitation est minimale. Seule une température absolue, en kelvins, a un sens quand on parle de la doubler."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une température mesure l'**agitation des particules** d'une matière. Pour la chiffrer, il faut une
+échelle, c'est-à-dire deux choses : un **point zéro** et une **taille de degré**. Trois échelles
+dominent. Le **Celsius**, utilisé presque partout dans le monde, place 0 à la fonte de la glace et 100
+à l'ébullition de l'eau. Le **Fahrenheit**, encore courant aux États-Unis, utilise d'autres repères. Le
+**kelvin**, unité officielle du Système international, part du **zéro absolu**, le froid le plus
+extrême qui puisse exister.
+
+## Le Celsius, une échelle bâtie sur l'eau
+
+Le savant suédois Anders Celsius propose en 1742 une échelle à **cent graduations** entre deux
+repères faciles à reproduire : la glace qui fond et l'eau qui bout, sous la pression atmosphérique
+normale. Curieusement, il avait placé 100 à la glace et 0 à l'ébullition ; l'échelle fut inversée peu
+après sa mort. Simple et liée à l'eau omniprésente, elle s'est imposée dans la vie courante.
+
+## Le Fahrenheit, des repères historiques
+
+Daniel Gabriel Fahrenheit, fabricant d'instruments, crée son échelle vers 1724. Il place le zéro au
+plus froid qu'il obtient avec un mélange de glace, d'eau et de sel, et prend la température du corps
+humain comme autre repère, vers 96 à l'époque. Résultat : l'eau gèle à **32 °F** et bout à **212 °F**,
+soit 180 degrés d'écart au lieu de 100. Un degré Fahrenheit est donc plus petit : il vaut 1/1,8 degré
+Celsius.
+
+## Le kelvin, une échelle absolue
+
+Au XIXe siècle, les physiciens comprennent qu'il existe une température limite où l'agitation des
+particules est minimale : le **zéro absolu**, à **−273,15 °C**. Lord Kelvin propose d'en faire le point
+de départ. Le kelvin garde la **taille du degré Celsius**, mais il commence au zéro absolu : il n'existe
+donc pas de température négative en kelvins. On écrit « 300 K », sans le mot « degré ».
+
+Cette échelle est indispensable en physique : dans les lois des gaz ou du rayonnement, les formules ne
+fonctionnent qu'avec des températures absolues. Doubler une température en kelvins double vraiment
+l'agitation moyenne, ce qui n'a pas de sens en Celsius : 20 °C n'est pas « deux fois plus chaud » que
+10 °C.
+
+```schema
+titre: Trois échelles, mêmes phénomènes
+legende: >-
+  Repères pour l’eau pure à pression atmosphérique usuelle. Celsius et kelvin ont le même intervalle
+  ; 1 °C correspond à 1,8 °F.
+type: comparaison
+colonnes:
+  - titre: Celsius (°C)
+    icone: thermometer
+    points:
+      - L'eau gèle à 0
+      - L'eau bout à 100
+      - Usage courant dans le monde
+  - titre: Fahrenheit (°F)
+    icone: thermometer
+    points:
+      - L'eau gèle à 32
+      - L'eau bout à 212
+      - Usage courant aux États-Unis
+  - titre: Kelvin (K)
+    icone: atom
+    points:
+      - Zéro absolu à 0
+      - L'eau gèle à 273,15
+      - Unité du Système international
+```
+
+## Passer d'une échelle à l'autre
+
+- **Celsius vers kelvin** : ajouter 273,15. 20 °C font 293,15 K.
+- **Kelvin vers Celsius** : retirer 273,15.
+- **Celsius vers Fahrenheit** : multiplier par 1,8 puis ajouter 32. 20 °C font 68 °F.
+- **Fahrenheit vers Celsius** : retirer 32 puis diviser par 1,8. 100 °F font environ 37,8 °C.
+
+Une valeur se correspond dans les deux échelles : **−40**, où Celsius et Fahrenheit affichent le même
+nombre. Pour un calcul de tête, « doubler et ajouter 30 » donne une approximation acceptable du
+Fahrenheit pour les températures de la vie courante.
+
+## Pourquoi c'est important
+
+Une confusion d'unités peut coûter cher : une recette américaine qui demande un four à 350 °F
+attend environ 177 °C, pas 350 °C. En médecine, un thermomètre réglé dans la mauvaise unité fausse
+le diagnostic. En science, oublier de convertir en kelvins rend les calculs faux. Toujours vérifier
+l'unité avant de lire un chiffre est le meilleur réflexe.
+
+## À retenir
+
+- Une échelle de température se définit par un point zéro et une taille de degré.
+- Le Celsius place 0 et 100 à la fonte de la glace et à l'ébullition de l'eau.
+- Le Fahrenheit place ces mêmes repères à 32 et 212 : ses degrés sont 1,8 fois plus petits.
+- Le kelvin part du zéro absolu, −273,15 °C, avec des degrés de même taille que le Celsius.
+- On ajoute 273,15 pour passer du Celsius au kelvin, on multiplie par 1,8 puis ajoute 32 pour le Fahrenheit.
 
 ---
 type: article
@@ -13151,6 +14681,28 @@ sources:
   - title: "Tide"
     url: "https://en.wikipedia.org/wiki/Tide"
     publisher: "Wikipedia"
+  - title: "Tides"
+    url: "https://science.nasa.gov/moon/tides/"
+    publisher: "NASA Science"
+  - title: "What are spring and neap tides?"
+    url: "https://oceanservice.noaa.gov/facts/springtide.html"
+    publisher: "NOAA, Service national de l'océan"
+  - title: "Frequency of Tides - The Lunar Day"
+    url: "https://oceanservice.noaa.gov/education/tutorial_tides/tides05_lunarday.html"
+    publisher: "NOAA National Ocean Service"
+  - title: "How frequent are tides?"
+    url: "https://oceanservice.noaa.gov/facts/tidefrequency.html"
+    publisher: "NOAA National Ocean Service"
+  - title: "What Causes Tides?"
+    url: "https://www.nesdis.noaa.gov/about/k-12-education/oceans-coasts/what-causes-tides"
+    publisher: "NOAA NESDIS"
+  - title: "Marée lunaire"
+    url: "https://www.imcce.fr/newsletter/docs/2015_03_Maree_lunaire.pdf"
+    publisher: "IMCCE (Observatoire de Paris)"
+    date: "2015"
+  - title: "Marées (dossier)"
+    url: "https://mobile.aviso.altimetry.fr/fileadmin/documents/kiosque/dossiers/marees_fr.pdf"
+    publisher: "AVISO+ (CNES)"
 quiz:
   - question: "Quels sont les deux astres qui causent les marées sur Terre ?"
     options:
@@ -13220,6 +14772,17 @@ La forme des côtes change beaucoup la hauteur des marées. Dans une baie en for
 À l'inverse, la Méditerranée a très peu de marée. Le détroit de Gibraltar, qui la relie à l'océan, est trop étroit pour qu'elle se remplisse et se vide beaucoup.
 
 Les marées ne touchent pas que la mer. La croûte terrestre elle-même se soulève un peu au passage de la Lune, d'environ 40 centimètres, sans qu'on le sente.
+
+```schema
+type: etapes
+titre: Les marées
+elements:
+  - titre: La Lune attire l'océan
+  - titre: Deux renflements d'eau
+    icone: wave
+  - titre: Le Soleil renforce ou atténue
+  - titre: Marées différentes selon les lieux
+```
 
 ## À retenir
 
@@ -13771,6 +15334,18 @@ Parfois, l'eau s'accumule dans une cavité sous terre et dépasse 100 °C sans b
 L'eau chaude dissout mieux les roches que l'eau froide. Les sources chaudes sont donc souvent très chargées en minéraux, comme le calcium, et parfois en lithium. Autour de certaines sources, ces minéraux se déposent et forment de la roche, comme le travertin.
 
 Des microbes appelés thermophiles vivent dans ces eaux, entre 45 et 80 °C. Depuis des milliers d'années, les humains s'y baignent et s'y soignent. En France, à Chaudes-Aigues, dans le Cantal, la source du Par sort à 82 °C. Ces bains étaient déjà connus à l'époque romaine.
+
+```schema
+titre: Le voyage d'une eau thermale
+type: etapes
+elements:
+  - titre: Infiltration
+  - titre: Descente en profondeur
+    texte: Un gradient souvent de l’ordre de 3 °C par 100 m, variable selon le lieu.
+  - titre: Réchauffement
+  - titre: Remontée
+    texte: Chargée de minéraux.
+```
 
 ## À retenir
 
@@ -17802,18 +19377,153 @@ status: planned
 
 ---
 type: article
-title: Les transformateurs electriques et leur role dans l'ajustement de la tension
+title: Les transformateurs électriques et leur rôle dans l'ajustement de la tension
 slug: les-transformateurs-electriques-et-leur-role-dans-l-ajustement-de-la-tension
 categoryPath: sciences-fondamentales/physique/electromagnetisme
 summary: >
-  Un dispositif essentiel qui permet d'adapter le niveau de tension du courant electrique.
-tags: [electromagnetisme, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Deux bobines de fil enroulées autour d'un noyau de fer suffisent à élever ou abaisser une tension
+  alternative presque sans perte. Le transformateur permet de transporter l'électricité à très haute
+  tension sur des centaines de kilomètres, puis de la ramener à 230 volts dans nos prises.
+tags: [electromagnetisme]
+relatedArticles: [electricite-et-magnetisme-un-seul-phenomene, tension-courant-resistance, comment-l-electricite-voyage-t-elle-de-la-centrale-jusqu-a-votre-prise, comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite]
+sources:
+  - title: "Transformateur électrique"
+    url: "https://fr.wikipedia.org/wiki/Transformateur_%C3%A9lectrique"
+    publisher: "Wikipédia"
+  - title: "Transformer"
+    url: "https://en.wikipedia.org/wiki/Transformer"
+    publisher: "Wikipedia"
+  - title: "Electromagnetic induction"
+    url: "https://en.wikipedia.org/wiki/Electromagnetic_induction"
+    publisher: "Wikipedia"
+  - title: "Electric power transmission"
+    url: "https://en.wikipedia.org/wiki/Electric_power_transmission"
+    publisher: "Wikipedia"
+  - title: "Transformateurs (cours IUT GMP)"
+    url: "https://iut-gmp.univ-lille.fr/upload/LPMICVI/05%20TransformateursCAT.pdf"
+    publisher: "Université de Lille, IUT GMP"
+quiz:
+  - question: "Un transformateur a 100 spires au primaire et 10 au secondaire. Si l'on applique 230 V, quelle tension obtient-on ?"
+    options:
+      - "2 300 V"
+      - "23 V"
+      - "230 V"
+    answer: 2
+    explanation: >
+      La tension est divisée dans le rapport des spires : 10 fois moins de spires, 10 fois moins de
+      tension.
+  - question: "Pourquoi transporte-t-on l'électricité à très haute tension ?"
+    options:
+      - "Pour qu'elle aille plus vite"
+      - "Parce qu'à puissance égale, le courant est plus faible et les pertes dans les câbles bien moindres"
+      - "Pour décourager les voleurs de câbles"
+    answer: 2
+    explanation: >
+      Les pertes par échauffement dépendent du carré du courant. Élever la tension réduit le courant
+      et donc les pertes.
+  - question: "Pourquoi un transformateur ne fonctionne-t-il pas en courant continu ?"
+    options:
+      - "Parce qu'il faut un champ magnétique qui varie pour induire une tension dans la seconde bobine"
+      - "Parce que le courant continu est trop fort"
+      - "Parce que le fer conduit mal le courant continu"
+    answer: 1
+    explanation: >
+      L'induction n'existe que si le champ magnétique change. Un courant continu crée un champ fixe,
+      qui n'induit rien au secondaire.
+  - question: "Si un transformateur multiplie la tension par dix, que devient le courant disponible ?"
+    options:
+      - "Il est multiplié par dix"
+      - "Il est divisé par dix, aux pertes près"
+      - "Il reste inchangé"
+    answer: 2
+    explanation: "L'énergie ne se crée pas : si la tension est multipliée par dix, le courant disponible est divisé par dix, aux pertes près."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un **transformateur** modifie la **tension** d'un courant alternatif. Il élève la tension à la sortie
+d'une centrale pour le transport, puis l'abaisse en plusieurs étapes jusqu'aux **230 volts** de nos
+prises, et encore davantage dans les chargeurs de téléphone. Il ne contient aucune pièce mobile : deux
+bobines de fil de cuivre enroulées sur un **noyau de fer**. Son fonctionnement repose sur
+l'**induction électromagnétique**, découverte par Michael Faraday en 1831.
+
+## Comment il fonctionne
+
+1. Le courant alternatif traverse la **première bobine**, le primaire. Il change de sens 50 fois par
+   seconde en Europe.
+2. Ce courant crée un **champ magnétique** qui varie au même rythme.
+3. Le **noyau de fer** canalise ce champ jusqu'à la seconde bobine.
+4. Dans la **seconde bobine**, le secondaire, le champ variable **induit** une tension.
+
+Les deux bobines ne se touchent pas : l'énergie passe uniquement par le champ magnétique. Cette
+séparation électrique sert aussi à la sécurité, par exemple dans les chargeurs.
+
+```schema
+titre: Le chemin de l'énergie dans un transformateur
+legende: >-
+  Exemple de transformateur à deux bobines électriquement séparées ; un champ magnétique variable
+  transmet l’énergie.
+type: etapes
+elements:
+  - titre: Primaire
+    texte: Le courant alternatif traverse la première bobine.
+    icone: bolt
+  - titre: Champ variable
+    texte: Il crée un champ magnétique qui change sans cesse.
+    icone: magnet
+  - titre: Noyau de fer
+    texte: Le fer canalise ce champ vers l'autre bobine.
+    icone: gear
+  - titre: Secondaire
+    texte: Le champ variable y induit une nouvelle tension.
+    icone: bolt
+```
+
+## La règle des spires
+
+Le rapport des tensions est égal au rapport des **nombres de tours de fil**, ou spires. Si le
+secondaire compte dix fois moins de spires que le primaire, la tension est divisée par dix : on parle
+de transformateur **abaisseur**. S'il en compte dix fois plus, elle est multipliée par dix :
+transformateur **élévateur**.
+
+L'énergie, elle, ne se crée pas : si la tension est multipliée par dix, le courant disponible est
+divisé par dix, aux pertes près. Les grands transformateurs ont un rendement qui dépasse souvent 99 %.
+
+## Pourquoi transporter en haute tension
+
+Un câble électrique chauffe quand le courant le traverse, et cette chaleur est de l'énergie perdue.
+Les pertes augmentent avec le **carré du courant** : deux fois plus de courant, quatre fois plus de
+pertes. Pour transporter une même puissance, on a donc intérêt à **élever la tension** et réduire le
+courant. En France, les grandes lignes fonctionnent à **400 000 volts**.
+
+La chaîne est la suivante : la centrale produit à quelques dizaines de milliers de volts, un
+transformateur élève à 400 000 volts, des postes abaissent ensuite vers 225 000, puis 63 000, puis
+20 000 volts pour la distribution locale, et un dernier transformateur de quartier fournit les 230
+volts des maisons.
+
+## Le courant alternatif l'a emporté grâce à lui
+
+À la fin du XIXe siècle, Thomas Edison défendait le **courant continu**, George Westinghouse et Nikola
+Tesla le **courant alternatif**. Le transformateur a fait la différence : lui seul permettait de changer
+facilement de tension, et il ne fonctionne qu'avec un courant qui varie. Le courant alternatif s'est
+imposé pour les réseaux du monde entier.
+
+## Pertes et bruit
+
+Un transformateur n'est pas parfait. Le cuivre des bobines chauffe, et le fer du noyau perd un peu
+d'énergie à chaque inversion du champ. Pour limiter ces pertes, le noyau est fait de **tôles fines**
+isolées les unes des autres, et les gros transformateurs baignent dans une huile qui les refroidit. Le
+léger bourdonnement qu'ils émettent vient des tôles qui vibrent au rythme du courant.
+
+## À retenir
+
+- Un transformateur élève ou abaisse une tension alternative grâce à l'induction électromagnétique.
+- Il est formé de deux bobines enroulées sur un noyau de fer, sans contact électrique entre elles.
+- Le rapport des tensions est égal au rapport des nombres de spires.
+- Transporter en haute tension réduit le courant, donc les pertes dans les câbles.
+- Il ne fonctionne qu'en courant alternatif, ce qui a assuré la victoire de ce dernier.
 
 ---
 type: article
@@ -19947,6 +21657,19 @@ La théorie explique parfaitement l'avance de l'orbite de Mercure. Elle prévoit
 
 Les satellites GPS ont besoin de corrections relativistes, car leurs horloges ne battent pas au même rythme que celles du sol. Les trous noirs sont des déformations extrêmes de l'espace-temps.
 
+```schema
+type: comparaison
+titre: Deux visions de la gravité
+colonnes:
+  - titre: Newton
+    points:
+      - Une force d'attraction
+  - titre: Einstein
+    points:
+      - La masse courbe l'espace-temps
+      - Les objets suivent cette courbure
+```
+
 ## À retenir
 
 - Pour la relativité générale, la gravité n'est pas une force : c'est la manifestation de la courbure de l'espace-temps.
@@ -20032,6 +21755,19 @@ L'interaction faible provoque des désintégrations comme la radioactivité bêt
 
 Le modèle standard de la physique des particules décrit trois des quatre interactions : électromagnétique, forte et faible. La gravitation n'en fait pas partie : l'y intégrer s'est révélé un défi difficile, et aucune théorie quantique de la gravitation n'a abouti. Les interactions électromagnétique et faible ont été unifiées dans la théorie électrofaible. Les théories au-delà du modèle standard restent très spéculatives, faute de preuves expérimentales solides.
 
+```schema
+type: systeme
+titre: Les quatre interactions fondamentales
+centre: Univers
+icone: atom
+parties:
+  - nom: Gravitationnelle
+  - nom: Électromagnétique
+  - nom: Forte
+    role: Elle tient le noyau.
+  - nom: Faible
+```
+
 ## À retenir
 
 - Les phénomènes physiques s'expliquent par quatre interactions fondamentales : gravitationnelle, électromagnétique, forte et faible.
@@ -20039,91 +21775,6 @@ Le modèle standard de la physique des particules décrit trois des quatre inter
 - L'électromagnétisme agit sur les particules chargées, avec une portée infinie ; son médiateur est le photon.
 - L'interaction forte lie les quarks par l'intermédiaire de gluons et assure la cohésion des noyaux.
 - La gravitation n'en fait pas partie : aucune théorie quantique de la gravitation n'a abouti.
-
----
-type: article
-title: Pourquoi la glace flotte sur l'eau
-slug: pourquoi-la-glace-flotte-sur-l-eau
-categoryPath: sciences-fondamentales/physique/thermodynamique
-summary: >
-  L'eau devient environ 9 % moins dense en gelant : la glace flotte. Et l'eau est la plus dense
-  vers 4 °C, ce qui évite qu'un lac gèle du fond vers la surface.
-tags: [eau, glace, densite]
-sources:
-  - title: "Water Density"
-    url: "https://www.usgs.gov/water-science-school/science/water-density"
-    publisher: "U.S. Geological Survey"
-  - title: "Facts About Water"
-    url: "https://www.usgs.gov/water-science-school/science/facts-about-water"
-    publisher: "U.S. Geological Survey"
-  - title: "Properties of water"
-    url: "https://en.wikipedia.org/wiki/Properties_of_water"
-    publisher: "Wikipedia"
-quiz:
-  - question: "À quelle température l'eau liquide est-elle la plus dense ?"
-    options:
-      - "0 °C"
-      - "4 °C environ"
-      - "10 °C"
-    answer: 2
-    explanation: >
-      L'eau liquide est la plus dense à environ 4 °C.
-  - question: "De combien l'eau devient-elle moins dense en gelant ?"
-    options:
-      - "Environ 0,9 %"
-      - "Environ 9 %"
-      - "Environ 90 %"
-    answer: 2
-    explanation: >
-      En gelant, l'eau devient environ 9 % moins dense.
-  - question: "Pourquoi la glace flotte-t-elle ?"
-    options:
-      - "Elle est moins dense que l'eau liquide"
-      - "Elle est pleine de sel"
-      - "Elle est plus froide que l'air"
-    answer: 1
-    explanation: >
-      La glace est moins dense que l'eau liquide : c'est pourquoi elle flotte.
-  - question: "Si l'eau était la plus dense à son point de congélation, que pourrait-il arriver à un lac en hiver ?"
-    options:
-      - "Il pourrait geler du fond vers la surface"
-      - "Il ne gèlerait jamais"
-      - "Il deviendrait salé"
-    answer: 1
-    explanation: >
-      Si l'eau était la plus dense au point de congélation, l'eau très froide de la surface
-      coulerait en hiver et le lac pourrait geler du fond vers la surface.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-L'eau devient environ 9 % moins dense en gelant : la glace flotte. Et l'eau est la plus dense vers 4 °C, ce qui évite qu'un lac gèle du fond vers la surface.
-
-## Un glaçon qui flotte
-
-La glace est moins dense que l'eau liquide : c'est pourquoi elle flotte. En gelant, l'eau devient environ 9 % moins dense. Dans la glace, les molécules d'eau forment un réseau où elles sont plus espacées que dans le liquide.
-
-## La densité maximale à 4 °C
-
-L'eau liquide est la plus dense à environ 4 °C, et non à 0 °C. Dans un lac, l'eau la plus dense descend donc sous l'eau moins dense.
-
-## Et si ce n'était pas le cas ?
-
-Si l'eau était la plus dense au point de congélation, l'eau très froide de la surface coulerait en hiver et le lac pourrait geler du fond vers la surface.
-
-## Un couvercle isolant
-
-La glace flotte et isole l'eau qui se trouve dessous : même un grand lac comme le lac Baïkal ne gèle que sur une épaisseur limitée en hiver.
-
-## À retenir
-
-- La glace est moins dense que l'eau liquide : c'est pourquoi elle flotte.
-- En gelant, l'eau devient environ 9 % moins dense.
-- Dans la glace, les molécules forment un réseau où elles sont plus espacées que dans le liquide.
-- L'eau liquide est la plus dense à environ 4 °C, et non à 0 °C.
-- Dans un lac, l'eau la plus dense descend donc sous l'eau moins dense.
 
 ---
 type: article
@@ -20145,6 +21796,9 @@ sources:
   - title: "Glace"
     url: "https://fr.wikipedia.org/wiki/Glace"
     publisher: "Wikipédia"
+  - title: "Facts About Water"
+    url: "https://www.usgs.gov/water-science-school/science/facts-about-water"
+    publisher: "U.S. Geological Survey"
 quiz:
   - question: "À quelle température environ l'eau liquide est-elle la plus dense ?"
     options:
@@ -20201,6 +21855,20 @@ En hiver, l'eau de surface se refroidit, devient plus dense et coule, jusqu'à c
 
 Les matières dissoutes augmentent la densité de l'eau, comme le sel dans l'eau de mer. Même un lac très profond comme le Baïkal ne gèle que sur une épaisseur limitée, et ses eaux profondes restent froides, près de la température de densité maximale.
 
+```schema
+titre: Comment un lac se refroidit
+legende: >-
+  Modèle simplifié d’un lac d’eau douce : la densité maximale est proche de 4 °C ; le vent et les
+  conditions locales modifient le brassage.
+type: etapes
+elements:
+  - titre: L'eau de surface refroidit
+  - titre: À 4 °C, elle coule au fond
+  - titre: L'eau plus froide reste en haut
+  - titre: La glace se forme en surface
+    icone: snowflake
+```
+
 ## À retenir
 
 - L'eau liquide est la plus dense à environ 4 °C.
@@ -20208,92 +21876,6 @@ Les matières dissoutes augmentent la densité de l'eau, comme le sel dans l'eau
 - Dans la glace, les molécules forment un réseau ouvert, tenu par des liaisons hydrogène, avec plus de vide entre elles.
 - En hiver, l'eau de surface refroidie coule, jusqu'à ce que tout le lac soit proche de sa densité maximale.
 - La glace de surface isole l'eau du dessous, qui reste liquide, et protège les animaux aquatiques.
-
----
-type: article
-title: Qu'est-ce qu'un qubit, et en quoi diffère-t-il d'un bit ordinaire ?
-slug: qu-est-ce-qu-un-qubit-et-en-quoi-differe-t-il-d-un-bit-ordinaire
-categoryPath: sciences-fondamentales/physique/physique-quantique
-summary: >
-  Un bit vaut 0 ou 1. Un qubit peut être en superposition de 0 et de 1 ; quand on le mesure, on
-  obtient 0 ou 1. Plusieurs qubits peuvent être intriqués, mais ils perdent vite leur état
-  quantique.
-tags: [physique-quantique]
-sources:
-  - title: "Qubit"
-    url: "https://en.wikipedia.org/wiki/Qubit"
-    publisher: "Wikipedia"
-  - title: "Ordinateur quantique"
-    url: "https://fr.wikipedia.org/wiki/Ordinateur_quantique"
-    publisher: "Wikipédia"
-  - title: "Superconducting quantum computing"
-    url: "https://en.wikipedia.org/wiki/Superconducting_quantum_computing"
-    publisher: "Wikipedia"
-  - title: "Shor's algorithm"
-    url: "https://en.wikipedia.org/wiki/Shor%27s_algorithm"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Qu'est-ce qui distingue un qubit d'un bit ?"
-    options:
-      - "Il peut être en superposition de 0 et de 1"
-      - "Il est plus gros"
-      - "Il n'a jamais de valeur"
-    answer: 1
-    explanation: >
-      Un bit classique vaut 0 ou 1, alors qu'un qubit peut se trouver dans une superposition
-      cohérente de plusieurs états à la fois.
-  - question: "Que donne la mesure d'un qubit ?"
-    options:
-      - "Toujours 0,5"
-      - "Une image"
-      - "0 ou 1, et elle détruit la superposition"
-    answer: 3
-    explanation: >
-      Quand on mesure un qubit, il donne 0 ou 1, et la mesure détruit sa superposition.
-  - question: "Qu'est-ce que la décohérence ?"
-    options:
-      - "La perte de l'état quantique du qubit"
-      - "Un défaut de couleur"
-      - "Un bruit de ventilateur"
-    answer: 1
-    explanation: >
-      Un qubit perd vite son état quantique : c'est la décohérence, qui produit des erreurs de
-      calcul.
-  - question: "Comment pilote-t-on un qubit supraconducteur ?"
-    options:
-      - "Avec un marteau"
-      - "Avec un aimant jouet"
-      - "Avec des impulsions micro-ondes"
-    answer: 3
-    explanation: >
-      Une impulsion micro-onde fait tourner l'état d'un qubit sur la sphère de Bloch.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Un bit vaut 0 ou 1. Un qubit peut être en superposition de 0 et de 1 ; quand on le mesure, on obtient 0 ou 1. Plusieurs qubits peuvent être intriqués, mais ils perdent vite leur état quantique.
-
-## Du bit au qubit
-
-Un qubit, ou bit quantique, est l'unité de base de l'information quantique : il peut être réalisé par un système quantique à deux niveaux. Un bit classique vaut 0 ou 1, alors qu'un qubit peut se trouver dans une superposition cohérente de plusieurs états à la fois. Quand on mesure un qubit, il donne 0 ou 1, et la mesure détruit sa superposition. Les chances d'obtenir 0 ou 1 dépendent des amplitudes qui décrivent l'état du qubit. Plusieurs qubits peuvent être intriqués : leurs mesures sont alors corrélées de façon impossible en physique classique.
-
-## Comment on fabrique un qubit
-
-On réalise des qubits avec des circuits supraconducteurs, des ions piégés, des photons, des atomes neutres ou des spins dans le silicium. Les qubits supraconducteurs sont des circuits refroidis très près du zéro absolu, et pilotés par des impulsions micro-ondes. Une impulsion micro-onde fait tourner l'état d'un qubit sur la sphère de Bloch.
-
-## Fragile mais prometteur
-
-Un qubit perd vite son état quantique : c'est la décohérence, qui produit des erreurs de calcul. Pour calculer de façon fiable, il faut des codes de correction d'erreurs quantiques, qui demandent beaucoup de qubits physiques. L'algorithme de Shor, conçu pour un ordinateur quantique, factorise de grands nombres en temps polynomial. Google a annoncé avoir atteint la suprématie quantique avec son processeur Sycamore.
-
-## À retenir
-
-- Un qubit, ou bit quantique, est l'unité de base de l'information quantique : il peut être réalisé par un système quantique à deux niveaux.
-- Un bit classique vaut 0 ou 1, alors qu'un qubit peut se trouver dans une superposition cohérente de plusieurs états à la fois.
-- Quand on mesure un qubit, il donne 0 ou 1, et la mesure détruit sa superposition.
-- Plusieurs qubits peuvent être intriqués : leurs mesures sont alors corrélées de façon impossible en physique classique.
-- Un qubit perd vite son état quantique : c'est la décohérence, qui produit des erreurs de calcul.
 
 ---
 type: article
@@ -20373,6 +21955,18 @@ Elle progresse vite à haute température ; une chaleur trop forte mène à la c
 
 À haute température, elle peut former de l'acrylamide, à partir d'un acide aminé, l'asparagine, et de sucres. Dans des expériences sur des animaux, de fortes doses d'acrylamide ont provoqué des cancers, mais ces doses étaient bien plus grandes que celles de l'alimentation. On peut réduire la formation d'acrylamide avec des cuissons à plus basse température ou des traitements par enzymes. En médecine, l'hémoglobine glyquée, issue d'une réaction proche, sert de marqueur du diabète à long terme.
 
+```schema
+titre: La réaction de Maillard
+type: systeme
+centre: Brunissement et arômes
+parties:
+  - nom: Groupes aminés
+    role: Notamment dans les acides aminés et protéines.
+  - nom: Sucres réducteurs
+  - nom: Chauffage
+    role: Accélère un ensemble de réactions, selon les conditions.
+```
+
 ## À retenir
 
 - La réaction de Maillard est une réaction chimique entre des acides aminés et des sucres réducteurs, qui produit des pigments bruns, les mélanoïdines.
@@ -20401,6 +21995,12 @@ sources:
   - title: "Grands fonds marins"
     url: "https://fr.wikipedia.org/wiki/Grands_fonds_marins"
     publisher: "Wikipédia"
+  - title: "How fish survive extreme pressures of ocean life"
+    url: "https://www.leeds.ac.uk/news/article/5155/how-fish-survive-extreme-pressures-of-ocean-life"
+    publisher: "University of Leeds"
+  - title: "Squishy survivor"
+    url: "https://www.whoi.edu/oceanus/feature/squishy-survivor-snailfish-hadal-zone/"
+    publisher: "Woods Hole Oceanographic Institution"
 quiz:
   - question: "Pourquoi beaucoup de poissons des profondeurs n'ont-ils pas de vessie natatoire à gaz ?"
     options:
@@ -20462,6 +22062,17 @@ Une molécule, le TMAO, stabilise les protéines et contrecarre l'effet déforma
 
 Beaucoup d'animaux produisent leur propre lumière par bioluminescence, pour chasser, communiquer et se camoufler. Leur métabolisme est lent, et leur croissance aussi, car la nourriture, la neige marine, est rare.
 
+```schema
+type: systeme
+titre: S'adapter à la pression
+centre: Animal des profondeurs
+parties:
+  - nom: Membranes souples
+    role: Plus d'acides gras insaturés.
+  - nom: Molécules protectrices
+  - nom: Vie économe
+```
+
 ## À retenir
 
 - Dans les grands fonds, la pression de l'eau est très élevée et augmente avec la profondeur.
@@ -20492,6 +22103,9 @@ sources:
   - title: "Theorema Egregium"
     url: "https://en.wikipedia.org/wiki/Theorema_Egregium"
     publisher: "Wikipedia"
+  - title: "Theorema egregium (concept)"
+    url: "https://graphsearch.epfl.ch/fr/concept/15346132"
+    publisher: "EPFL"
 quiz:
   - question: "Que prouve le théorème remarquable de Gauss pour les cartes ?"
     options:
@@ -20548,6 +22162,22 @@ Une projection conforme conserve les angles et les formes locales. Une projectio
 
 La projection de Mercator est cylindrique et conforme : elle transforme les routes à cap constant en lignes droites, ce qui sert à la navigation maritime. Mais elle exagère les surfaces loin de l'équateur : le Groenland y paraît aussi grand que l'Afrique, alors que l'Afrique est bien plus vaste. Une variante, le Web Mercator, est utilisée par les grands services de cartes en ligne. Le choix dépend de l'usage : les cartes nationales emploient souvent la projection de Mercator transverse, les planisphères des compromis comme Winkel tripel ou Robinson.
 
+```schema
+type: comparaison
+titre: Ce qu'une projection peut conserver
+legende: Le théorème de Gauss interdit une carte plane parfaite.
+colonnes:
+  - titre: Les angles
+    points:
+      - Mercator
+  - titre: Les surfaces
+    points:
+      - Projections équivalentes
+  - titre: Pas les deux à la fois
+    points:
+      - Toujours une déformation
+```
+
 ## À retenir
 
 - Le théorème remarquable de Gauss montre qu'on ne peut pas représenter la surface d'une sphère sur un plan sans déformation.
@@ -20562,85 +22192,98 @@ title: Les fosses océaniques et la zone hadale
 slug: les-fosses-oceaniques-et-la-zone-hadale
 categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
 summary: >
-  La zone hadale commence vers 6 000 mètres sous la surface et atteint 11 000 mètres. Dans ses
-  fosses, sans lumière et sous une pression extrême, des animaux vivent.
+  Sous 6 000 mètres, la zone hadale n'existe que dans les fosses : noir total, froid et pression
+  écrasante. Des animaux y vivent pourtant, et on commence à peine à les étudier.
 tags: [oceanographie, grands-fonds, fosses]
+relatedArticles: []
 sources:
-  - title: "The Hadal Zone: Aqua Incognita"
-    url: "https://oceanexplorer.noaa.gov/expedition-feature/okeanos-ex2102-features-hadalzone/"
+  - title: "Hadal Zone"
+    url: "https://whoi.edu/know-your-ocean/ocean-topics/how-the-ocean-works/ocean-zones/hadal-zone"
+    publisher: "Woods Hole Oceanographic Institution"
+  - title: "The Hadal Zone (Okeanos Explorer EX2102)"
+    url: "https://oceanexplorer.noaa.gov/okeanos/explorations/ex2102/features/hadalzone/hadalzone.html"
     publisher: "NOAA Ocean Exploration"
-  - title: "Hadal zone"
-    url: "https://en.wikipedia.org/wiki/Hadal_zone"
-    publisher: "Wikipedia"
-  - title: "Challenger Deep"
-    url: "https://en.wikipedia.org/wiki/Challenger_Deep"
-    publisher: "Wikipedia"
+    date: "2021"
 quiz:
   - question: "À partir de quelle profondeur commence la zone hadale ?"
     options:
-      - "Environ 600 mètres"
+      - "Environ 200 mètres"
       - "Environ 6 000 mètres"
-      - "Environ 60 000 mètres"
+      - "Environ 11 000 mètres"
     answer: 2
-    explanation: >
-      La zone hadale s'étend d'environ 6 000 à 11 000 mètres sous la surface.
+    explanation: "Elle va d'environ 6 000 à 11 000 mètres et ne se trouve que dans les fosses."
   - question: "D'où vient le nom de la zone hadale ?"
     options:
-      - "D'Hadès, dieu grec des enfers"
-      - "D'un explorateur nommé Hadal"
-      - "D'une île du Pacifique"
+      - "Du dieu grec des enfers"
+      - "D'un explorateur danois"
+      - "D'un mot latin pour le froid"
     answer: 1
-    explanation: >
-      Son nom vient d'Hadès, le dieu grec des enfers.
-  - question: "À quelle surface les fosses hadales sont-elles comparables ?"
+    explanation: "Son nom vient d'Hadès, le dieu grec des enfers."
+  - question: "Quelle est la température de l'eau dans la zone hadale ?"
     options:
-      - "À la moitié de l'Australie"
-      - "À la France"
-      - "À une piscine"
-    answer: 1
-    explanation: >
-      Les fosses et les grands creux hadaux occupent ensemble une surface à peu près égale à la
-      moitié de l'Australie.
-  - question: "Quel poisson vit dans la zone hadale ?"
+      - "Environ 20 °C"
+      - "Juste au-dessus de zéro"
+      - "Plus de 100 °C"
+    answer: 2
+    explanation: "Selon le WHOI, l'eau y reste juste au-dessus du point de congélation."
+  - question: "Quel véhicule du WHOI, testé en 2009, a été perdu en 2014 ?"
     options:
-      - "Le poisson-limace"
-      - "Le requin blanc"
-      - "Le thon rouge"
+      - "Nereus"
+      - "Alvin"
+      - "Orpheus"
     answer: 1
-    explanation: >
-      Des crustacés et des poissons comme les poissons-limaces vivent dans la zone hadale.
-lastVerified: 2026-09-30
+    explanation: "Le Nereus, premier véhicule pleine profondeur du WHOI, a été perdu vers 10 000 m dans la fosse des Kermadec."
+lastVerified: 2026-11-11
 status: published
 ---
 
 ## En bref
 
-La zone hadale commence vers 6 000 mètres sous la surface et atteint 11 000 mètres. Dans ses fosses, sans lumière et sous une pression extrême, des animaux vivent.
+La zone hadale est la partie la plus profonde de l'océan. Elle commence vers 6 000 mètres sous la surface et descend jusqu'à environ 11 000 mètres. On ne la trouve que dans les fosses océaniques, de longues cicatrices étroites séparées les unes des autres. Malgré le noir, le froid et la pression, la vie y est diverse.
 
-## Sous 6 000 mètres
+## Un nom venu des enfers
 
-La zone hadale s'étend d'environ 6 000 à 11 000 mètres sous la surface. Son nom vient d'Hadès, le dieu grec des enfers.
+Les océanographes découpent la colonne d'eau en zones selon la profondeur. La zone hadale est la dernière, et son nom vient d'Hadès, le dieu grec des enfers. Selon l'institut océanographique WHOI, elle s'étend de 6 000 à 11 000 mètres et ne se trouve que dans les fosses.
+
+Ces fosses sont rares et isolées. Elles se forment là où une plaque tectonique plonge sous une autre. Ce sont des fosses et des creux étroits, mais leur surface cumulée est considérable. Selon la NOAA, elle équivaut à environ la moitié de l'Australie ; selon le WHOI, elle est comparable à celle du continent. Les sources divergent, mais toutes soulignent que cette zone est vaste.
 
 ## Noir, froid, sous pression
 
-Il n'y a aucune lumière du soleil, l'eau est froide, les nutriments sont rares et la pression est extrêmement élevée.
+Aucune lumière du Soleil n'atteint ces profondeurs. L'eau y reste juste au-dessus de zéro degré, d'après le WHOI. La pression dépasse mille fois celle de la surface : les véhicules robotisés conçus pour ces fonds, comme les Orpheus du WHOI, sont construits pour la supporter.
 
-## Des fosses immenses
+La nourriture est rare. Certains organismes dépendent de la matière organique qui tombe des couches supérieures. D'autres utilisent l'énergie chimique de suintements hydrothermaux. Les microbes forment la base du réseau alimentaire.
 
-Les fosses et les grands creux hadaux occupent ensemble une surface à peu près égale à la moitié de l'Australie.
+## Des animaux étonnants
 
-## Des animaux y vivent
+La NOAA rappelle que cette zone abrite des espèces distinctives : un ver a ainsi été photographié vers 10 kilomètres de profondeur. Plusieurs organismes utilisent la bioluminescence, une lumière produite par l'animal lui-même, pour communiquer, selon le WHOI.
 
-Des crustacés comme des amphipodes, des mysides et des isopodes y atteignent parfois de grandes tailles, et des poissons comme les poissons-limaces y vivent. La première descente habitée au fond du Challenger Deep a été réalisée à bord du Trieste, par Jacques Piccard et le lieutenant Don Walsh.
+Les chercheurs étudient aussi leur physiologie : la NOAA indique que certains processus pourraient aider à mettre au point des médicaments, par exemple contre la maladie d'Alzheimer.
+
+## Une exploration récente
+
+Au XIXe siècle, on pensait que les grands fonds étaient sans vie : en 1859, Forbes et Austen suggéraient qu'ils étaient vides. Dans les années 1950, les expéditions danoise Galathea et soviétique Vitiaz ont dressé les premiers catalogues d'espèces hadales, sans échantillonnage systématique.
+
+Les moyens techniques ont suivi plus tard : la pression extrême et l'éloignement de la surface restent de gros obstacles. En 2021, le navire Okeanos Explorer de la NOAA a testé les véhicules autonomes Orpheus. Cette zone reste peu connue.
 
 ## À retenir
 
-- La zone hadale s'étend d'environ 6 000 à 11 000 mètres sous la surface.
+- La zone hadale s'étend d'environ 6 000 à 11 000 mètres et n'existe que dans les fosses.
 - Son nom vient d'Hadès, le dieu grec des enfers.
-- Il n'y a aucune lumière du soleil ; l'eau est froide, les nutriments rares et la pression extrême.
-- Ses fosses occupent ensemble une surface à peu près égale à la moitié de l'Australie.
-- Des crustacés et des poissons-limaces y vivent ; certains crustacés atteignent de grandes tailles.
+- L'eau y est à peine au-dessus de zéro et la pression dépasse mille fois celle de la surface.
+- Des espèces distinctives, dont des vers, vivent à ces profondeurs.
+- Son exploration systématique est récente : les premiers catalogues d'espèces datent des années 1950.
 
+```schema
+type: chiffres
+titre: La zone hadale
+chiffres:
+  - valeur: 6 000 à 11 000 m
+    texte: de profondeur
+  - valeur: Hadès
+    texte: le dieu grec qui lui donne son nom
+  - valeur: Noir total
+    texte: aucune lumière du Soleil n'y arrive
+```
 ---
 type: article
 title: Un matériau peut-il être isolant à l'intérieur et conducteur en surface ?
@@ -20661,6 +22304,10 @@ sources:
   - title: "Topological superconductor"
     url: "https://en.wikipedia.org/wiki/Topological_superconductor"
     publisher: "Wikipedia"
+  - title: "ALS Reveals New State of Matter"
+    url: "https://als.lbl.gov/als-reveals-new-state-of-matter/"
+    publisher: "Advanced Light Source, Lawrence Berkeley National Laboratory"
+    date: "2011"
 quiz:
   - question: "Où un isolant topologique conduit-il l'électricité ?"
     options:
@@ -20696,7 +22343,7 @@ quiz:
     answer: 3
     explanation: >
       Les preuves restent limitées : on parle de matériaux candidats, comme l'UTe2.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -20706,7 +22353,17 @@ Un isolant topologique isole dans son volume, mais sa surface conduit, protégé
 
 ## Un isolant qui conduit en surface
 
-Un isolant topologique est un matériau dont l'intérieur isole, alors que sa surface conduit l'électricité. Il ne peut pas être déformé progressivement en un isolant ordinaire sans passer par une phase conductrice. Les états de surface sont protégés contre les perturbations locales, comme certaines impuretés. À la surface, le spin des électrons est lié à leur direction de déplacement, ce qui supprime certains types de diffusion. Beaucoup de ces matériaux sont des composés du bismuth, comme Bi2Se3 et Bi2Te3. Leur classement repose sur des invariants topologiques, qui dépendent de symétries comme l'invariance par renversement du temps.
+Un isolant topologique est un matériau dont l'intérieur isole, alors que sa surface conduit l'électricité. Il ne peut pas être déformé progressivement en un isolant ordinaire sans passer par une phase conductrice. Les états de surface sont protégés contre les perturbations locales, comme certaines impuretés. À la surface, le spin des électrons est lié à leur direction de déplacement, ce qui supprime certains types de diffusion. Leur classement repose sur des invariants topologiques, qui dépendent de symétries comme l'invariance par renversement du temps.
+
+## Comment on l'a trouvé
+
+En 2007, une équipe de Princeton dirigée par M. Zahid Hasan a identifié un alliage de bismuth et d'antimoine comme premier isolant topologique en trois dimensions. En 2009, plusieurs groupes ont confirmé qu'une famille plus large de composés, formés de bismuth ou d'antimoine avec du sélénium ou du tellure, se comporte de cette façon. Bi2Se3 et Bi2Te3 en font partie.
+
+Le séléniure de bismuth a retenu l'attention : son écart d'énergie dans le volume, mesuré à environ 0,3 eV, est assez grand pour que l'état reste stable bien au-delà des très basses températures.
+
+## Voir la surface conduire
+
+La technique clé est la photoémission résolue en angle (ARPES). Elle arrache des électrons au cristal avec de la lumière et analyse leur énergie et leur direction, ce qui dessine la structure électronique. Elle a montré que les électrons de surface se comportent comme s'ils n'avaient pas de masse. Leur spin est polarisé, ce qui les empêche de rebondir en arrière sur les défauts du cristal.
 
 ## Des supraconducteurs topologiques
 
@@ -20716,14 +22373,26 @@ Un supraconducteur topologique est un matériau de résistance électrique nulle
 
 On en attend des applications en spintronique, en optoélectronique et en informatique quantique. Les preuves restent limitées : on parle de matériaux candidats, comme l'UTe2.
 
+```schema
+type: comparaison
+titre: L'isolant topologique
+colonnes:
+  - titre: Intérieur
+    points:
+      - Isolant
+  - titre: Surface
+    points:
+      - Conductrice
+      - États de surface protégés
+```
+
 ## À retenir
 
 - Un isolant topologique est un matériau dont l'intérieur isole, alors que sa surface conduit l'électricité.
 - Les états de surface sont protégés contre les perturbations locales, comme certaines impuretés.
+- Le premier isolant topologique en trois dimensions a été identifié en 2007 : un alliage de bismuth et d'antimoine.
 - À la surface, le spin des électrons est lié à leur direction, ce qui limite la diffusion.
-- Un supraconducteur topologique est un matériau de résistance électrique nulle, doté d'une topologie non triviale.
-- Les preuves restent limitées : on parle de matériaux candidats, comme l'UTe2.
-
+- Pour les supraconducteurs topologiques, les preuves restent limitées : on parle de matériaux candidats.
 ---
 type: article
 title: Que révèle le génome des derniers mammouths sur les dangers d'une toute petite population ?
@@ -20803,6 +22472,19 @@ Le génome de l'île montre un excès de mutations nuisibles : suppressions d'AD
 ## Ce que cela enseigne
 
 L'extinction des mammouths est attribuée à plusieurs facteurs, comme le climat et la chasse, et pas à une cause unique. Les auteurs avertissent que protéger un petit groupe isolé ne suffit pas à éviter l'effondrement génomique, ce qui concerne aussi des espèces menacées aujourd'hui.
+
+```schema
+titre: Les derniers mammouths de l'île Wrangel
+legende: >-
+  Résultats génétiques de l’étude citée ; cette chaîne ne démontre pas à elle seule la cause de
+  l’extinction.
+type: etapes
+elements:
+  - titre: Une petite population isolée
+  - titre: Mutations accumulées
+  - titre: Gènes abîmés
+  - titre: Une leçon pour les espèces menacées
+```
 
 ## À retenir
 
@@ -20889,6 +22571,18 @@ Un métal kagome est un matériau quantique dont les atomes forment des couches 
 
 La recherche vise l'informatique quantique, les supraconducteurs à spin et l'électronique à faible consommation.
 
+```schema
+type: systeme
+titre: Le réseau kagome
+centre: Métal kagome
+parties:
+  - nom: Triangles
+    role: Qui se touchent par leurs sommets.
+  - nom: Trous hexagonaux
+  - nom: Frustration
+    role: Les électrons ne trouvent pas d'arrangement simple.
+```
+
 ## À retenir
 
 - Le réseau est fait de triangles qui se touchent par leurs sommets, avec de grands trous hexagonaux.
@@ -20904,7 +22598,8 @@ slug: un-refrigerateur-fabrique-t-il-vraiment-du-froid
 categoryPath: sciences-fondamentales/physique/thermodynamique
 summary: >
   Un réfrigérateur ne crée pas de froid : il déplace la chaleur de l'intérieur vers l'extérieur,
-  grâce à un fluide qui se vaporise puis se liquéfie, en boucle.
+  grâce à un fluide qui se vaporise puis se liquéfie, en boucle. Et il consomme souvent plus chez
+  soi qu'au laboratoire.
 tags: [thermodynamique]
 sources:
   - title: "How A Compression Refrigeration System Works"
@@ -20919,6 +22614,10 @@ sources:
   - title: "Vapor-compression refrigeration"
     url: "https://en.wikipedia.org/wiki/Vapor-compression_refrigeration"
     publisher: "Wikipedia"
+  - title: "Energy performance of domestic cold appliances in laboratory and home environments (Energy, vol. 204)"
+    url: "https://agris.fao.org/search/en/records/65dffbd94c5aef494fe74dcf"
+    publisher: "AGRIS (FAO), notice de l'étude publiée dans Energy"
+    date: "2020"
 quiz:
   - question: "Que fait un réfrigérateur de la chaleur de l'intérieur ?"
     options:
@@ -20956,7 +22655,7 @@ quiz:
     explanation: >
       Le même cycle fait fonctionner les climatiseurs, les chambres froides et les pompes à
       chaleur.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -20972,17 +22671,41 @@ Un réfrigérateur ne crée pas de froid : il déplace la chaleur d'un espace fr
 
 Le compresseur, entraîné par un moteur, aspire le gaz et augmente sa pression et sa température. Dans le condenseur, le gaz se refroidit et redevient liquide en cédant sa chaleur : c'est pourquoi le condenseur est chaud au toucher. Au détendeur, la pression chute brusquement, ce qui prépare le fluide à absorber de la chaleur. Dans l'évaporateur, le fluide frigorigène absorbe la chaleur de l'intérieur et se vaporise : c'est cette partie qui refroidit vraiment.
 
+## Pourquoi la cuisine se réchauffe
+
+Le raisonnement est un simple bilan d'énergie. La chaleur rejetée à l'arrière est égale à la chaleur extraite de l'intérieur, plus le travail fourni par le compresseur. Un réfrigérateur réchauffe donc toujours un peu la pièce où il se trouve. Laisser sa porte ouverte pour rafraîchir une cuisine ne marche pas : l'appareil y rejette plus de chaleur qu'il n'en retire.
+
+C'est aussi pour cela que le pouvoir de refroidissement dépend de la facilité avec laquelle le condenseur évacue sa chaleur. Une grille poussiéreuse ou collée au mur gêne l'échange.
+
+## Ce que l'étiquette ne dit pas toujours
+
+La consommation affichée vient d'un test en laboratoire. Une enquête sur 998 appareils domestiques, dont 124 ont été analysés dans une étude publiée en 2020, a montré que 61 % d'entre eux consommaient davantage chez les particuliers qu'au laboratoire. Les conditions réelles diffèrent : température de la pièce, ouvertures de porte, remplissage.
+
 ## Un cycle qu'on retrouve partout
 
 Le même cycle fait fonctionner les climatiseurs, les chambres froides et les pompes à chaleur. Les fluides évoluent : on s'éloigne des composés chlorés à cause de la couche d'ozone, au profit de fluides comme le dioxyde de carbone.
+
+```schema
+type: cycle
+titre: Le cycle du réfrigérateur
+legende: Il déplace la chaleur de l'intérieur vers l'extérieur.
+elements:
+  - titre: Évaporateur
+    texte: Le fluide absorbe la chaleur à l'intérieur.
+    icone: snowflake
+  - titre: Compresseur
+  - titre: Condenseur
+    texte: La chaleur est rejetée derrière l'appareil.
+  - titre: Détendeur
+```
 
 ## À retenir
 
 - Un réfrigérateur ne crée pas de froid : il déplace la chaleur de l'intérieur vers l'extérieur.
 - Dans l'évaporateur, le fluide absorbe la chaleur de l'intérieur en se vaporisant : c'est lui qui refroidit.
 - Dans le condenseur, le gaz se refroidit et redevient liquide en cédant sa chaleur : c'est pourquoi le condenseur est chaud au toucher.
+- La chaleur rejetée dépasse la chaleur extraite, car elle inclut le travail du compresseur.
 - Le même cycle sert aux climatiseurs, aux chambres froides et aux pompes à chaleur.
-
 ---
 type: article
 title: Pourquoi un bateau en acier flotte-t-il ?
@@ -21057,6 +22780,17 @@ L'acier est plus dense que l'eau, mais la coque enferme de l'air : la masse volu
 ## Sous-marins, ballons et stabilité
 
 Un sous-marin règle sa flottabilité en remplissant ou en vidant des ballasts d'eau de mer. La stabilité d'un navire dépend de la position de son centre de gravité par rapport à son centre de poussée : plus le centre de gravité est bas, plus il est stable. Le même principe fait monter une montgolfière : l'air chaud la rend plus légère que l'air qui l'entoure. Selon la tradition, Archimède aurait utilisé ce principe pour vérifier si la couronne du roi Hiéron II cachait de l'argent.
+
+```schema
+type: etapes
+titre: La poussée d'Archimède
+elements:
+  - titre: La coque déplace de l'eau
+  - titre: L'eau pousse vers le haut
+    texte: Autant que le poids de l'eau déplacée.
+  - titre: Le bateau flotte
+    texte: Si la poussée égale son poids.
+```
 
 ## À retenir
 
@@ -21140,6 +22874,17 @@ Dans l'arc principal, le rouge est à l'extérieur et le violet à l'intérieur.
 ## Un arc rien qu'à vous
 
 Un arc-en-ciel n'existe pas à un endroit précis : chaque observateur voit son propre arc, selon sa position par rapport au Soleil et aux gouttes.
+
+```schema
+type: etapes
+titre: Un arc-en-ciel
+elements:
+  - titre: La lumière entre dans la goutte
+    texte: Elle dévie.
+  - titre: Les couleurs se séparent
+  - titre: Réflexion au fond de la goutte
+  - titre: Sortie vers l'observateur
+```
 
 ## À retenir
 
@@ -21229,6 +22974,21 @@ Au lever et au coucher du Soleil, la lumière traverse beaucoup plus d'atmosphè
 
 La couleur du ciel dépend de la composition de l'atmosphère : sur Mars, le ciel de jour paraît orangé et devient bleu-gris autour du Soleil au crépuscule.
 
+```schema
+titre: Le bleu du jour, le rouge du soir
+type: comparaison
+colonnes:
+  - titre: En journée
+    icone: sun
+    points:
+      - Les courtes longueurs d’onde sont davantage diffusées que les rouges.
+      - Le ciel paraît bleu
+  - titre: Au coucher
+    points:
+      - La lumière traverse beaucoup d'air
+      - Les bleus sont davantage retirés du faisceau direct ; les rouges dominent.
+```
+
 ## À retenir
 
 - La lumière du Soleil est diffusée dans toutes les directions par les gaz et les particules de l'air.
@@ -21236,93 +22996,6 @@ La couleur du ciel dépend de la composition de l'atmosphère : sur Mars, le cie
 - On voit donc du bleu en regardant loin du Soleil : c'est la lumière diffusée vers nos yeux par les molécules d'azote et d'oxygène.
 - Au lever et au coucher du Soleil, la lumière traverse beaucoup plus d'atmosphère qu'à midi.
 - Sur un long trajet, le bleu est diffusé hors du rayon : il reste l'orange et le rouge.
-
----
-type: article
-title: Quelles sont les trois lois de Newton qui régissent tout mouvement ?
-slug: quelles-sont-les-trois-lois-de-newton-qui-regissent-tout-mouvement
-categoryPath: sciences-fondamentales/physique/mecanique
-summary: >
-  Trois règles suffisent pour décrire le mouvement des objets de tous les jours : l'inertie, la
-  force qui accélère, et l'action qui provoque toujours une réaction.
-tags: [mecanique]
-sources:
-  - title: "Newton's Laws of Motion"
-    url: "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/"
-    publisher: "NASA Glenn Research Center"
-  - title: "Lois du mouvement de Newton"
-    url: "https://fr.wikipedia.org/wiki/Lois_du_mouvement_de_Newton"
-    publisher: "Wikipédia"
-  - title: "Newton's laws of motion"
-    url: "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Que dit la première loi de Newton ?"
-    options:
-      - "Sans force non équilibrée, un objet garde son mouvement"
-      - "Tout objet finit par s'arrêter seul"
-      - "Les objets lourds tombent plus vite"
-    answer: 1
-    explanation: >
-      Première loi : un objet au repos reste au repos, et un objet en mouvement garde sa vitesse
-      en ligne droite, sauf si une force non équilibrée agit sur lui.
-  - question: "Que vaut la force selon la deuxième loi ?"
-    options:
-      - "La masse multipliée par l'accélération"
-      - "La masse divisée par la vitesse"
-      - "La vitesse multipliée par le temps"
-    answer: 1
-    explanation: >
-      Deuxième loi : l'accélération d'un objet dépend de sa masse et de la force appliquée, ce
-      qu'on écrit F = m × a.
-  - question: "Sur quoi s'appliquent l'action et la réaction ?"
-    options:
-      - "Sur deux objets différents"
-      - "Sur le même objet"
-      - "Seulement sur les objets immobiles"
-    answer: 1
-    explanation: >
-      L'action et la réaction s'appliquent à des objets différents, jamais au même.
-  - question: "Quand les lois de Newton cessent-elles d'être valables ?"
-    options:
-      - "Dès qu'il pleut"
-      - "Près de la vitesse de la lumière ou à l'échelle des atomes"
-      - "Au-dessus de mille mètres d'altitude"
-    answer: 2
-    explanation: >
-      Ces lois décrivent très bien les objets de la vie courante, mais elles cessent d'être
-      valables près de la vitesse de la lumière et à l'échelle des atomes.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Trois règles suffisent pour décrire le mouvement des objets de tous les jours : l'inertie, la force qui accélère, et l'action qui provoque toujours une réaction.
-
-## Loi 1, l'inertie
-
-Première loi : un objet au repos reste au repos, et un objet en mouvement garde sa vitesse en ligne droite, sauf si une force non équilibrée agit sur lui. Cette tendance d'un objet à résister aux changements de son mouvement s'appelle l'inertie.
-
-## Loi 2, la force qui accélère
-
-Deuxième loi : l'accélération d'un objet dépend de sa masse et de la force appliquée, ce qu'on écrit F = m × a. La même force donne donc une accélération plus petite à un objet plus massif.
-
-## Loi 3, action et réaction
-
-Troisième loi : quand un objet exerce une force sur un autre, le second exerce sur le premier une force égale et opposée. L'action et la réaction s'appliquent à des objets différents, jamais au même. Dans un moteur à réaction, les gaz sont éjectés vers l'arrière et la poussée pousse l'avion vers l'avant ; une aile dévie l'air vers le bas et l'air pousse l'aile vers le haut.
-
-## Jusqu'où ça marche
-
-Ces lois décrivent très bien les objets de la vie courante, mais elles cessent d'être valables près de la vitesse de la lumière et à l'échelle des atomes.
-
-## À retenir
-
-- Première loi : sans force qui s'y oppose, un objet garde son repos ou sa vitesse en ligne droite.
-- Deuxième loi : l'accélération d'un objet dépend de sa masse et de la force appliquée, ce qu'on écrit F = m × a.
-- La même force donne donc une accélération plus petite à un objet plus massif.
-- Troisième loi : quand un objet exerce une force sur un autre, le second exerce sur le premier une force égale et opposée.
-- Ces lois valent pour la vie courante, mais pas près de la vitesse de la lumière ni à l'échelle des atomes.
 
 ---
 type: article
@@ -21404,6 +23077,18 @@ L'eau, les graisses et les sucres absorbent les micro-ondes ; les aliments riche
 
 L'enceinte métallique agit comme une cage de Faraday : les trous de la grille de la porte sont bien plus petits que la longueur d'onde, donc les micro-ondes ne passent pas, alors que la lumière visible passe. Aux États-Unis, la réglementation impose deux systèmes de verrouillage indépendants qui coupent les micro-ondes dès que la porte s'ouvre. L'énergie des micro-ondes se change en chaleur dans l'aliment, qui ne devient pas radioactif. L'effet a été découvert par hasard par Percy Spencer, ingénieur chez Raytheon : près d'un radar en marche, une barre chocolatée a fondu dans sa poche.
 
+```schema
+titre: Le four à micro-ondes
+type: etapes
+elements:
+  - titre: Champ électrique alternatif
+  - titre: Les molécules d'eau tournent
+    texte: Pour s'aligner sans cesse.
+  - titre: Pertes diélectriques et agitation moléculaire
+  - titre: Chaleur
+    icone: fire
+```
+
 ## À retenir
 
 - Les molécules d'eau, polaires, tournent pour s'aligner sur un champ électrique qui change sans cesse.
@@ -21411,3 +23096,175 @@ L'enceinte métallique agit comme une cage de Faraday : les trous de la grille d
 - Les ondes se répartissent mal, avec des zones trop chaudes ou trop froides ; un plateau tournant corrige ce défaut.
 - Les trous de la grille de la porte sont bien plus petits que la longueur d'onde : la lumière passe, pas les micro-ondes.
 - Percy Spencer, ingénieur chez Raytheon, a découvert l'effet par hasard quand une barre chocolatée a fondu près d'un radar.
+
+---
+type: article
+title: Allumer et entretenir un feu
+slug: allumer-entretenir-feu
+categoryPath: sciences-fondamentales/chimie
+summary: >
+  Un feu a besoin de trois choses : un combustible, de l'oxygène et de la chaleur. Le réussir
+  dehors, c'est préparer un allume-feu très fin, du petit bois et du bois plus gros, puis les
+  ajouter dans le bon ordre. Le feu chauffe, cuit, purifie l'eau et rassure, mais il reste dangereux.
+tags: [chimie]
+relatedArticles: [regle-des-trois-priorites-survie, hypothermie-coup-de-chaleur, purifier-eau-situation-urgence, charbon-bois, bois-chauffage]
+sources:
+  - title: "Triangle du feu"
+    url: "https://fr.wikipedia.org/wiki/Triangle_du_feu"
+    publisher: "Wikipédia"
+  - title: "Combustion"
+    url: "https://fr.wikipedia.org/wiki/Combustion"
+    publisher: "Wikipédia"
+  - title: "Fire making"
+    url: "https://en.wikipedia.org/wiki/Fire_making"
+    publisher: "Wikipedia"
+  - title: "Ferrocerium"
+    url: "https://en.wikipedia.org/wiki/Ferrocerium"
+    publisher: "Wikipedia"
+  - title: "Lutte contre les feux de forêt : conseils de prévention"
+    url: "https://www.interieur.gouv.fr/actualites/grands-dossiers/lutte-contre-feux-de-foret-conseils-prevention"
+    publisher: "Ministère de l'Intérieur"
+quiz:
+  - question: "Quels sont les trois éléments du triangle du feu ?"
+    options:
+      - "Un combustible, de l'oxygène et de la chaleur"
+      - "De l'eau, du sable et du vent"
+      - "Du bois, de la pierre et du métal"
+    answer: 1
+    explanation: >
+      Supprimer l'un des trois éteint le feu : c'est le principe de tous les moyens
+      d'extinction.
+  - question: "Pourquoi commence-t-on avec des matériaux très fins ?"
+    options:
+      - "Parce qu'ils sont plus jolis"
+      - "Parce qu'ils s'échauffent et s'enflamment très vite, puis allument le bois plus gros"
+      - "Parce qu'ils brûlent plus longtemps"
+    answer: 2
+    explanation: >
+      Une étincelle ou une allumette ne fournit que peu de chaleur. Elle suffit à enflammer des
+      fibres sèches, pas une bûche.
+  - question: "Pourquoi ne faut-il jamais faire brûler un feu dans une tente ou une pièce fermée ?"
+    options:
+      - "Parce que cela salit"
+      - "Parce que la fumée gêne les yeux"
+      - "Parce qu'il produit du monoxyde de carbone, un gaz invisible et mortel"
+    answer: 3
+    explanation: >
+      Une combustion avec peu d'air produit du monoxyde de carbone. Il faut toujours une
+      ventilation importante.
+  - question: "Pourquoi préfère-t-on le bois mort encore accroché aux arbres à celui posé au sol ?"
+    options:
+      - "Parce qu'il brûle plus lentement"
+      - "Parce qu'il contient davantage de gaz combustibles"
+      - "Parce qu'il est plus sec que celui posé sur un sol humide"
+    answer: 3
+    explanation: "Le bois humide gaspille la chaleur à évaporer son eau. Le bois mort encore accroché aux arbres est plus sec que celui qui repose sur le sol humide."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Le feu est une réaction chimique : un **combustible**, comme le bois, se combine à l'**oxygène** de
+l'air quand il est assez **chaud**, et libère chaleur et lumière. Ces trois éléments forment le
+**triangle du feu**. Pour allumer un feu dehors, on prépare trois tas : un **allume-feu** très fin et
+très sec, du **petit bois** et du **bois plus gros**. On les ajoute dans cet ordre, sans étouffer les
+flammes. En situation difficile, le feu réchauffe, sèche les vêtements, cuit les aliments, permet de
+faire bouillir l'eau et de se signaler.
+
+## Le triangle du feu
+
+Le bois ne brûle pas directement : chauffé, il dégage des **gaz combustibles** qui s'enflamment au
+contact de l'air. Il faut donc :
+
+- un **combustible** sec : le bois humide gaspille la chaleur à évaporer son eau ;
+- de l'**oxygène** : un feu trop serré ou recouvert s'étouffe ;
+- de la **chaleur**, apportée au départ par une flamme ou une étincelle, puis entretenue par le feu
+  lui-même.
+
+Retirer l'un des trois côtés éteint le feu : on étouffe avec de la terre, on refroidit avec de l'eau,
+on éloigne le combustible.
+
+## Préparer avant d'allumer
+
+1. **Choisir l'emplacement** : à l'abri du vent, loin des arbres, des herbes sèches et des racines,
+   sur un sol minéral ou dégagé. Entourer de pierres sèches, jamais de galets de rivière, qui peuvent
+   éclater.
+2. **L'allume-feu** : herbes sèches, écorce de bouleau, fibres de chardon, brindilles mortes très
+   fines, copeaux, coton imbibé de vaseline ou papier.
+3. **Le petit bois** : branches mortes de l'épaisseur d'une allumette à celle d'un doigt, cassées
+   net, donc sèches. On prend le bois mort encore accroché aux arbres plutôt que celui posé au sol
+   humide.
+4. **Le bois de combustion** : de l'épaisseur du poignet et plus, en quantité, avant que la nuit
+   tombe.
+
+```schema
+type: systeme
+titre: Le triangle du feu
+legende: Trois conditions réunies, pas trois étapes successives.
+centre: Combustion
+parties:
+  - nom: Combustible
+    role: Du bois sec, du plus fin au plus gros.
+    icone: tree
+  - nom: Oxygène
+    role: L'air doit circuler entre les morceaux.
+  - nom: Chaleur
+    role: Une flamme ou une étincelle, puis le feu lui-même.
+    icone: fire
+```
+
+```schema
+type: etapes
+titre: Les trois tas à préparer
+elements:
+  - titre: Allume-feu
+    texte: Herbes sèches, écorce de bouleau, brindilles très fines.
+  - titre: Petit bois
+    texte: De l'allumette au doigt, cassé net.
+  - titre: Bois de combustion
+    texte: Du poignet et plus, en quantité.
+```
+
+## Allumer
+
+- On pose l'allume-feu au centre, puis on dresse le petit bois autour en **tipi**, ou en petit carré
+  de bûchettes croisées, en laissant passer l'air.
+- On allume par le bas, côté vent.
+- On souffle doucement sur les braises naissantes.
+- On ajoute du bois **progressivement**, du plus fin au plus gros.
+
+## Sans allumettes
+
+- **Le briquet ou la pierre à feu** : une tige de ferrocérium, grattée vigoureusement avec une lame,
+  projette des étincelles à près de 3 000 °C, même mouillée. Elle allume l'allume-feu fin.
+- **La loupe** : par grand soleil, une loupe ou le fond concave d'une canette poli concentre la
+  lumière sur un amadou sombre.
+- **La friction**, comme l'archet à feu, fonctionne mais demande beaucoup d'entraînement et de bois
+  bien choisi.
+
+Dans un kit d'urgence, on garde plusieurs moyens : allumettes dans une boîte étanche, briquet, pierre à
+feu.
+
+## Entretenir et éteindre
+
+Un feu de survie n'a pas besoin d'être grand : un petit feu bien alimenté chauffe mieux et consomme
+moins. Un réflecteur de pierres ou de bûches derrière soi renvoie la chaleur. Pour éteindre, on noie
+le feu, on remue les cendres et on noie encore, jusqu'à ce que tout soit froid au toucher.
+
+## Les dangers
+
+- **Le monoxyde de carbone** : jamais de feu, de brasero ou de barbecue dans une tente, une voiture ou
+  une pièce fermée.
+- **Les incendies de forêt** : faire du feu en forêt est très souvent **interdit**, surtout en été ;
+  on respecte les arrêtés et l'on évite tout feu par vent fort.
+- **Les brûlures** : on refroidit immédiatement sous l'eau tiède pendant une vingtaine de minutes.
+
+## À retenir
+
+- Un feu a besoin d'un combustible, d'oxygène et de chaleur : c'est le triangle du feu.
+- On prépare allume-feu fin, petit bois et bois plus gros avant d'allumer.
+- On ajoute le bois progressivement, du plus fin au plus gros, sans étouffer les flammes.
+- Une pierre à feu en ferrocérium fonctionne même mouillée.
+- Jamais de feu en lieu clos, et respect des interdictions en forêt.
+

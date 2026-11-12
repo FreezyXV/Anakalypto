@@ -1,0 +1,53 @@
+domaine;slug;titre;mots;sources;wikipedia_seul
+aeronautique;comment-peut-on-suivre-sur-internet-les-avions-en-plein-vol;Comment peut-on suivre sur Internet les avions en plein vol ?;510;3;oui
+aeronautique;le-mur-du-son-et-le-bang-supersonique;Le mur du son et le bang supersonique;348;3;oui
+automobile;le-systeme-d-allumage-electronique-moderne;L'allumage, bougies et bobines;595;4;oui
+automobile;le-systeme-de-depollution-des-moteurs-diesel-adblue;La dépollution diesel, du FAP à l'AdBlue;610;4;oui
+automobile;embrayage-volant-moteur-bimasse;L'embrayage et le volant moteur bimasse;630;3;oui
+automobile;train-roulant-rotules-silentblocs;Le train roulant, triangles, rotules et silentblocs;620;4;oui
+automobile;circuit-electrique-12v-batterie-alternateur-demarreur;Batterie, démarreur et alternateur, le circuit électrique d'une voiture;642;4;oui
+automobile;calculateur-moteur-capteurs;Le calculateur moteur et ses capteurs;649;4;oui
+automobile;pompes-voiture-thermique;Les pompes d'une voiture thermique;595;4;oui
+communication;pourquoi-un-sms-est-il-limite-a-160-caracteres;Pourquoi un SMS est-il limité à 160 caractères ?;552;2;oui
+corps-humain;pourquoi-sent-on-son-coeur-battre-au-poignet;Pourquoi sent-on son cœur battre au poignet ?;491;2;oui
+corps-humain;pourquoi-la-main-se-retire-t-elle-toute-seule-d-une-surface-brulante;Pourquoi la main se retire-t-elle toute seule d'une surface brûlante ?;327;3;oui
+corps-humain;regle-des-trois-priorites-survie;Les priorités de survie, la règle des trois;567;4;oui
+geographie;pourquoi-la-mousson-apporte-t-elle-des-pluies-torrentielles-en-inde-chaque-ete;Pourquoi la mousson apporte-t-elle des pluies torrentielles en Inde chaque été ?;530;2;oui
+industries;pourquoi-la-fonte-le-fer-et-l-acier-ne-se-comportent-ils-pas-de-la-meme-facon;Pourquoi la fonte, le fer et l'acier ne se comportent-ils pas de la même façon ?;501;3;oui
+industries;pourquoi-l-europe-construit-elle-des-usines-geantes-de-batteries-et-reussissent-elles;Pourquoi l'Europe construit-elle des usines géantes de batteries, et réussissent-elles ?;348;3;oui
+informatique;tsmc-geopolitique-puces;TSMC et la géopolitique des puces;633;4;oui
+informatique;comment-un-ordinateur-demarre-t-il-quand-on-appuie-sur-le-bouton;Comment un ordinateur démarre-t-il quand on appuie sur le bouton ?;466;2;oui
+informatique;comment-une-imprimante-depose-t-elle-l-encre-exactement-au-bon-endroit;Comment une imprimante dépose-t-elle l'encre exactement au bon endroit ?;512;3;oui
+informatique;les-processeurs-specialises-pour-l-intelligence-artificielle;Les processeurs spécialisés pour l'intelligence artificielle;585;4;oui
+informatique;comment-une-chaine-de-blocs-rend-elle-le-passe-presque-impossible-a-modifier;Comment une chaîne de blocs rend-elle le passé presque impossible à modifier ?;337;3;oui
+informatique;comment-un-antivirus-repere-t-il-un-programme-malveillant;Comment un antivirus repère-t-il un programme malveillant ?;504;2;oui
+informatique;comment-internet-arrive-t-il-par-satellite-dans-les-endroits-isoles;Comment Internet arrive-t-il par satellite dans les endroits isolés ?;526;3;oui
+informatique;les-langages-de-programmation-compiles-et-interpretes-une-distinction-fondamentale;Les langages de programmation compilés et interprétés, une distinction fondamentale;532;4;oui
+informatique;pourquoi-un-ordinateur-a-t-il-besoin-d-un-ventilateur;Pourquoi un ordinateur a-t-il besoin d'un ventilateur ?;479;3;oui
+informatique;quelle-difference-y-a-t-il-entre-un-ssd-et-un-disque-dur;Quelle différence y a-t-il entre un SSD et un disque dur ?;331;4;oui
+informatique;que-change-le-fait-qu-une-architecture-de-processeur-soit-libre-comme-risc-v;Que change le fait qu'une architecture de processeur soit libre, comme RISC-V ?;371;3;oui
+intelligence-artificielle;pourquoi-une-ia-doit-elle-parfois-tenter-des-choix-au-hasard-pour-mieux-apprendre;Pourquoi une IA doit-elle parfois tenter des choix au hasard pour mieux apprendre ?;478;3;oui
+intelligence-artificielle;comment-l-intelligence-artificielle-aide-t-elle-les-personnes-aveugles-ou-sourdes;Comment l'intelligence artificielle aide-t-elle les personnes aveugles ou sourdes ?;487;3;oui
+sciences-du-vivant;comment-un-rouleau-de-papier-a-t-il-donne-naissance-au-stethoscope;Comment un rouleau de papier a-t-il donné naissance au stéthoscope ?;536;2;oui
+sciences-fondamentales;pourquoi-n-avons-nous-pas-tous-le-meme-groupe-sanguin;Pourquoi n'avons-nous pas tous le même groupe sanguin ?;605;3;oui
+sciences-fondamentales;pourquoi-le-nombre-pi-se-cache-t-il-dans-tous-les-cercles;Pourquoi le nombre pi se cache-t-il dans tous les cercles ?;557;2;oui
+sciences-fondamentales;pourquoi-certaines-sources-sortent-elles-du-sol-deja-chaudes;Pourquoi certaines sources sortent-elles du sol déjà chaudes ?;565;3;oui
+sciences-humaines;effondrement-civilisations;L'effondrement des civilisations;351;2;oui
+sciences-humaines;comment-les-humains-de-la-prehistoire-allumaient-ils-un-feu;Comment les humains de la préhistoire allumaient-ils un feu ?;525;3;oui
+sciences-humaines;pourquoi-reviser-en-plusieurs-fois-aide-t-il-a-mieux-retenir;Pourquoi réviser en plusieurs fois aide-t-il à mieux retenir ?;480;3;oui
+sciences-humaines;pourquoi-un-nouveau-ne-serre-t-il-fort-le-doigt-qu-on-lui-tend;Pourquoi un nouveau-né serre-t-il fort le doigt qu'on lui tend ?;523;2;oui
+sciences-humaines;pourquoi-la-pollution-d-une-usine-coute-t-elle-aussi-a-ses-voisins;Pourquoi la pollution d'une usine coûte-t-elle aussi à ses voisins ?;523;2;oui
+sciences-humaines;pourquoi-perdre-une-somme-fait-il-plus-mal-que-gagner-la-meme-somme-ne-fait-plaisir;Pourquoi perdre une somme fait-il plus mal que gagner la même somme ne fait plaisir ?;405;4;oui
+sciences-humaines;pourquoi-les-humains-inventent-ils-toujours-une-monnaie-meme-dans-un-camp-de-prisonniers;Pourquoi les humains inventent-ils toujours une monnaie, même dans un camp de prisonniers ?;352;3;oui
+sciences-humaines;gerer-son-temps-priorites;Gérer son temps et ses priorités;586;4;oui
+sciences-humaines;reussir-entretien-embauche;Réussir un entretien d'embauche;647;4;oui
+sciences-humaines;prendre-de-meilleures-decisions;Prendre de meilleures décisions;574;4;oui
+sport;pourquoi-le-coeur-bat-il-plus-vite-quand-on-fait-du-sport;Pourquoi le cœur bat-il plus vite quand on fait du sport ?;486;3;oui
+sport;les-champions-d-endurance-s-entrainent-en-montagne-pourquoi-leur-sang-produit-il-plus-de-globules-rouges;Les champions d'endurance s'entraînent en montagne, pourquoi leur sang produit-il plus de globules rouges ?;350;4;oui
+sport;l-acide-lactique-est-il-vraiment-responsable-des-courbatures;L'acide lactique est-il vraiment responsable des courbatures ?;351;4;oui
+sport;faut-il-manger-tout-de-suite-apres-l-entrainement-pour-mieux-progresser;Faut-il manger tout de suite après l'entraînement pour mieux progresser ?;351;3;oui
+sport;que-mesure-vraiment-le-capteur-au-dos-d-une-montre-connectee-et-peut-on-s-y-fier;Que mesure vraiment le capteur au dos d'une montre connectée, et peut-on s'y fier ?;357;3;oui
+technologies;comment-construire-des-batiments-qui-resistent-aux-tremblements-de-terre;Comment construire des bâtiments qui résistent aux tremblements de terre ?;493;3;oui
+technologies;comment-un-drone-a-quatre-helices-tient-il-immobile-dans-les-airs;Comment un drone à quatre hélices tient-il immobile dans les airs ?;485;2;oui
+technologies;comment-un-verin-hydraulique-donne-t-il-une-force-enorme-a-une-machine;Comment un vérin hydraulique donne-t-il une force énorme à une machine ?;519;3;oui
+technologies;comment-une-structure-peut-elle-tenir-dans-un-sac-puis-se-deployer-ou-se-gonfler;Comment une structure peut-elle tenir dans un sac, puis se déployer ou se gonfler ?;403;3;oui

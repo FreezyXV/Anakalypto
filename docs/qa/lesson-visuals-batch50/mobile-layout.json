@@ -1,0 +1,1502 @@
+[
+  {
+    "caption": "Le chariot garde sa vitesse lorsque les forces horizontales se compensent.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "newtonmotion",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une force résultante vers la droite accélère le même chariot dans ce sens.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "1",
+    "id": "newtonmotion",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Les deux chariots se poussent avec des forces opposées, appliquées sur des objets différents.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "newtonmotion",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La balle immobile possède une énergie de position par rapport au sol.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "energyball",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La balle immobile possède une énergie de position par rapport au sol.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "energyball",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’énergie se retrouve aussi dans la déformation, le son et l’échauffement du milieu.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "energyball",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Dans une barre métallique, l’énergie se transmet de proche en proche.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "heatpaths",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Dans une barre métallique, l’énergie se transmet de proche en proche.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "heatpaths",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le Soleil transfère de l’énergie à un objet à travers l’espace.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "heatpaths",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Les domaines d’un matériau ferromagnétique ont des orientations différentes.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "magnetdomains",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Les domaines d’un matériau ferromagnétique ont des orientations différentes.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "magnetdomains",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Couper un aimant donne deux morceaux possédant chacun un nord et un sud.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "magnetdomains",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une tension alternative alimente la première bobine sur le noyau.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "transformercoil",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le flux magnétique variable traverse aussi la seconde bobine.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "1",
+    "id": "transformercoil",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Avec deux fois moins de spires au secondaire, la tension idéale est divisée par deux.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "transformercoil",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La lumière solaire se réfracte en entrant dans une goutte d’eau.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "rainbowdrop",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La lumière solaire se réfracte en entrant dans une goutte d’eau.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "rainbowdrop",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une seconde réfraction sépare davantage les directions des couleurs qui ressortent.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "rainbowdrop",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La lumière solaire contient plusieurs couleurs avant de traverser l’air.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "skyscatter",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La lumière solaire contient plusieurs couleurs avant de traverser l’air.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "skyscatter",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Sur un trajet plus long dans l’air, le faisceau direct s’appauvrit davantage en bleu.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "skyscatter",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un magnétron alimente l’enceinte métallique en micro-ondes.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "microwavefood",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un magnétron alimente l’enceinte métallique en micro-ondes.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "microwavefood",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’énergie absorbée chauffe l’aliment, avec des zones plus ou moins chaudes.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "microwavefood",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’eau de surface se densifie en refroidissant vers 4 °C et peut descendre.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "lakeice",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’eau de surface se densifie en refroidissant vers 4 °C et peut descendre.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "lakeice",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’eau de surface se densifie en refroidissant vers 4 °C et peut descendre.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "lakeice",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Dans le cristal de sel, ions sodium et chlorure occupent un réseau ordonné.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "saltdissolve",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Dans le cristal de sel, ions sodium et chlorure occupent un réseau ordonné.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "saltdissolve",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’huile forme une phase distincte au-dessus de l’eau salée.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "saltdissolve",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’eau entre dans une installation avec ses sels dissous.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "desalination",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’eau entre dans une installation avec ses sels dissous.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "desalination",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une eau appauvrie en sels traverse ; une saumure plus concentrée est évacuée.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "desalination",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Les restes humides et les matières sèches apportent différents éléments au compost.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "compostlife",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Les restes humides et les matières sèches apportent différents éléments au compost.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "compostlife",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le matériau devient plus homogène et stable pendant la maturation.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "compostlife",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’eau et le brassage séparent les fibres d’un ancien journal.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "paperloop",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’eau et le brassage séparent les fibres d’un ancien journal.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "paperloop",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Les fibres épurées sont étalées, pressées et séchées pour former une feuille.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "paperloop",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une vague arrive depuis la mer vers une mangrove.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "mangroveroots",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une vague arrive depuis la mer vers une mangrove.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "mangroveroots",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’eau ralentie favorise le dépôt de sédiments autour des racines.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "mangroveroots",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le rayonnement solaire atteint le sol minéral exposé.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "citycanopy",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le rayonnement solaire atteint le sol minéral exposé.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "citycanopy",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’eau puisée par les racines passe aussi en vapeur par les feuilles.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "citycanopy",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des molécules d’ozone de la stratosphère absorbent une partie des ultraviolets.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "ozonecycle",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des molécules d’ozone de la stratosphère absorbent une partie des ultraviolets.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "ozonecycle",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une couche appauvrie laisse davantage d’UV atteindre les altitudes plus basses.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "ozonecycle",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des nutriments peuvent être entraînés des sols vers les cours d’eau.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "algaebloom",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des nutriments peuvent être entraînés des sols vers les cours d’eau.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "algaebloom",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La décomposition de la biomasse peut consommer l’oxygène dissous de l’eau.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "algaebloom",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La gouttière rassemble l’eau qui ruisselle sur le toit.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "rainharvest",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La gouttière rassemble l’eau qui ruisselle sur le toit.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "rainharvest",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’eau rejoint une cuve fermée et opaque, pour un usage adapté.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "rainharvest",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une haie perméable ralentit le vent derrière elle.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "hedgerows",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une haie perméable ralentit le vent derrière elle.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "hedgerows",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des arbres et arbustes variés offrent abris et continuités aux êtres vivants.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "hedgerows",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un ver anécique peut tirer un débris de feuille vers son terrier.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "wormsoil",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un ver anécique peut tirer un débris de feuille vers son terrier.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "wormsoil",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le ver rejette des mélanges de matière organique et minérale appelés turricules.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "wormsoil",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le porte-greffe fournit les racines et le greffon la partie supérieure.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "graftunion",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le porte-greffe fournit les racines et le greffon la partie supérieure.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "graftunion",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des tissus se reforment et peuvent rétablir la continuité des vaisseaux.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "graftunion",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une légumineuse occupe la parcelle pendant une première saison.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "croprotation",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une légumineuse occupe la parcelle pendant une première saison.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "croprotation",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une troisième culture change encore la famille végétale présente.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "croprotation",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des bactéries vivent dans des nodules sur les racines d’une légumineuse.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "rootnodules",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des bactéries vivent dans des nodules sur les racines d’une légumineuse.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "rootnodules",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La plante fournit en retour des composés carbonés issus de la photosynthèse.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "rootnodules",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des pucerons se nourrissent sur une plante cultivée.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "biocontrol",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des pucerons se nourrissent sur une plante cultivée.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "biocontrol",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des habitats variés peuvent entretenir des auxiliaires sans supprimer tous les ravageurs.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "biocontrol",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un réseau conduit l’eau le long de la rangée de plantes.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "dripwater",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un réseau conduit l’eau le long de la rangée de plantes.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "dripwater",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’eau se répartit dans une zone du sol autour du goutteur.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "dripwater",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un sol découvert reçoit directement pluie, soleil et vent.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "mulchsoil",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un sol découvert reçoit directement pluie, soleil et vent.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "mulchsoil",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le paillis limite l’évaporation et amortit l’impact des gouttes.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "mulchsoil",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une banque de semences conserve des lots de variétés cultivées.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "seedvault",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une banque de semences conserve des lots de variétés cultivées.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "seedvault",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La banque déposante peut récupérer ses propres duplicatas après une perte.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "seedvault",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une séquence codant un précurseur de l’insuline est intégrée à un ADN vecteur.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "insulinmicrobe",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une séquence codant un précurseur de l’insuline est intégrée à un ADN vecteur.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "insulinmicrobe",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La production est récupérée, transformée si nécessaire et purifiée avant formulation.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "insulinmicrobe",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une enzyme de lessive rencontre une molécule de tache compatible.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "washenzyme",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une enzyme de lessive rencontre une molécule de tache compatible.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "washenzyme",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Les fragments se séparent et l’enzyme peut agir sur une autre molécule.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "washenzyme",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Quelques bactéries libèrent des molécules signal qui restent peu concentrées.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "quorumlight",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Quelques bactéries libèrent des molécules signal qui restent peu concentrées.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "quorumlight",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Au-delà d’un seuil, un système de régulation peut activer les gènes de bioluminescence.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "quorumlight",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des fibres sont étirées et torsadées pour former un fil.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "weaveloom",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des fibres sont étirées et torsadées pour former un fil.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "weaveloom",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La trame passe alternativement au-dessus et au-dessous des fils de chaîne.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "weaveloom",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un modèle retiré laisse une cavité dans un moule de sable.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "foundrycast",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un modèle retiré laisse une cavité dans un moule de sable.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "foundrycast",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Après solidification, le moule est ouvert pour récupérer la pièce.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "foundrycast",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un acier adapté est chauffé pour préparer sa transformation structurale.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "steeltemper",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un acier adapté est chauffé pour préparer sa transformation structurale.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "steeltemper",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un réchauffage modéré ajuste ensuite le compromis entre dureté et ténacité.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "steeltemper",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La réaction suit un chemin demandant une énergie d’activation élevée.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "catalystpath",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La réaction suit un chemin demandant une énergie d’activation élevée.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "catalystpath",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Les niveaux d’énergie des réactifs et des produits restent les mêmes.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "catalystpath",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le caoutchouc contient de longues chaînes moléculaires.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "rubberlinks",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le caoutchouc contient de longues chaînes moléculaires.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "rubberlinks",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le réseau s’étire et ses liaisons contribuent au retour vers la forme initiale.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "rubberlinks",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Dans un thermoplastique, les chaînes ne forment pas un réseau covalent continu.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "thermoplastic",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Dans un thermoplastique, les chaînes ne forment pas un réseau covalent continu.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "thermoplastic",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un thermodurcissable durci garde ses liaisons entre chaînes et ne refond pas comme un thermoplastique.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "thermoplastic",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Sur un tour, la pièce tourne face à un outil de coupe.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "lathemill",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Sur un tour, la pièce tourne face à un outil de coupe.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "lathemill",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Sur une fraiseuse, la fraise tourne et la pièce est déplacée relativement à elle.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "lathemill",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une buse dépose un trajet de matière sur un plateau.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "printlayers",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une buse dépose un trajet de matière sur un plateau.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "printlayers",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le volume final résulte de l’empilement des trajets déposés.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "printlayers",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une charge vers le bas courbe une poutre simplement appuyée.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "rebarbeam",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une charge vers le bas courbe une poutre simplement appuyée.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "rebarbeam",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des barres placées dans la zone tendue reprennent une partie de la traction.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "rebarbeam",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une pièce subit des efforts répétés, même sans surcharge unique.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "fatiguecrack",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une pièce subit des efforts répétés, même sans surcharge unique.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "fatiguecrack",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La fissure avance et réduit progressivement la section résistante.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "fatiguecrack",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un cadre articulé à quatre côtés peut se déformer en parallélogramme.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "rooftruss",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’ajout d’une diagonale forme des triangles qui stabilisent le cadre.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "1",
+    "id": "rooftruss",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Dans une ferme simple chargée symétriquement, les arbalétriers se compriment et l’entrait travaille en traction.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "rooftruss",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une terre argileuse préparée prend la forme du moule.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "claybrick",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une terre argileuse préparée prend la forme du moule.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "claybrick",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La cuisson transforme durablement la matière en une céramique.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "claybrick",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un canal à surface libre descend légèrement vers sa destination.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "aqueductslope",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Un canal à surface libre descend légèrement vers sa destination.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "aqueductslope",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La différence d’altitude permet l’écoulement sans pompe sur ce tronçon.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "aqueductslope",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une secousse déplace les fondations d’un bâtiment ordinaire.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "baseisolation",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une secousse déplace les fondations d’un bâtiment ordinaire.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "baseisolation",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le mouvement transmis à la superstructure peut être réduit dans les conditions prévues par le calcul.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "baseisolation",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Deux paires diagonales de rotors tournent en sens opposés.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "quadcopter",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Deux paires diagonales de rotors tournent en sens opposés.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "quadcopter",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "En s’inclinant, le drone donne une composante horizontale à sa poussée.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "quadcopter",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le lidar envoie une impulsion lumineuse vers un obstacle.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "lidarmap",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le lidar envoie une impulsion lumineuse vers un obstacle.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "lidarmap",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des distances mesurées dans plusieurs directions placent des points autour du capteur.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "lidarmap",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une bobine mobile est placée dans le champ d’un stator.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "motortorque",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une bobine mobile est placée dans le champ d’un stator.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "motortorque",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’inversion du courant au bon moment entretient la rotation dans le même sens.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "motortorque",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une éprouvette de métal est d’abord rectiligne.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "elasticplastic",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Une éprouvette de métal est d’abord rectiligne.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "elasticplastic",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Après une sollicitation suffisante puis décharge, une déformation permanente subsiste.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "elasticplastic",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le son entoure l’amande riche en amidon ; le germe occupe une petite zone.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "wheatflour",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Le son entoure l’amande riche en amidon ; le germe occupe une petite zone.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "wheatflour",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "La farine blanche contient surtout l’amande, la complète conserve aussi son et germe.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "wheatflour",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des bactéries lactiques sont ajoutées à un lait préparé.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "yogurtculture",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "Des bactéries lactiques sont ajoutées à un lait préparé.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "0",
+    "id": "yogurtculture",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  },
+  {
+    "caption": "L’acidification déstabilise les caséines, qui forment le réseau du yaourt.",
+    "focusOutline": "3px",
+    "font": 12.55,
+    "frame": "2",
+    "id": "yogurtculture",
+    "outside": [],
+    "overflow": false,
+    "visible": 1
+  }
+]

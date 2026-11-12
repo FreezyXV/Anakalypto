@@ -236,6 +236,20 @@ quiz:
     explanation: >
       Historiquement, ce chiffre mesurait une dimension réelle. Ce n'est plus le cas : c'est
       devenu une appellation marketing pour désigner un palier de performance.
+  - question: "Pourquoi la gravure passe-t-elle à l'ultraviolet extrême ?"
+    options:
+      - "Sa très courte longueur d'onde permet de dessiner des motifs plus fins"
+      - "Elle est absorbée par l'air, ce qui protège les puces"
+      - "Elle est plus facile à produire que la lumière visible"
+    answer: 1
+    explanation: "On ne peut pas dessiner plus fin que la longueur d'onde de la lumière utilisée. L'ultraviolet extrême a une longueur d'onde très courte, mais il exige travail sous vide et miroirs."
+  - question: "Pourquoi a-t-on changé la forme des transistors, de plat à arête puis entouré par la commande ?"
+    options:
+      - "Pour les rendre visibles à l'oeil nu"
+      - "Parce qu'un transistor plat fuit à ces dimensions"
+      - "Pour pouvoir utiliser la lumière visible"
+    answer: 2
+    explanation: "À ces dimensions, un transistor plat laisse passer du courant même quand il devrait être bloqué. Entourer le canal par la commande limite ces fuites."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -303,8 +317,18 @@ les circuits pour certaines tâches, rapprocher la mémoire du calcul.
 - La gravure utilise de l'ultraviolet extrême, sous vide et avec des miroirs.
 - Les transistors sont désormais entourés par leur commande pour éviter les fuites.
 
-[Emplacement image : évolution de l'architecture des transistors, du plan aux nanofeuilles,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Comment les transistors ont changé de forme
+legende: 'La grille est séparée du canal par un isolant : elle agit par un champ électrique.'
+type: etapes
+elements:
+  - titre: Transistor plan
+    texte: Commande électrostatique depuis une face du canal.
+  - titre: Ailettes
+    texte: Le canal se dresse et la commande l'entoure sur trois côtés.
+  - titre: Nanofeuilles
+    texte: Des nappes empilées, entourées entièrement par la commande.
+```
 
 ---
 
@@ -347,6 +371,20 @@ quiz:
     explanation: >
       La consommation et la chaleur augmentent très vite avec la fréquence. Multiplier les
       cœurs permet de faire plusieurs choses en parallèle à fréquence raisonnable.
+  - question: "Comment le travail à la chaîne, ou pipeline, accélère-t-il un processeur ?"
+    options:
+      - "Il exécute chaque instruction deux fois pour vérifier"
+      - "Il réduit la fréquence pour économiser la chaleur"
+      - "Pendant qu'une instruction s'exécute, la suivante est décodée et la troisième cherchée"
+    answer: 3
+    explanation: "Comme dans une usine, plusieurs instructions sont à des étapes différentes en même temps, ce qui améliore le débit réel."
+  - question: "Que fait un processeur quand son pari sur un branchement se révèle faux ?"
+    options:
+      - "Il jette le travail commencé"
+      - "Il s'arrête jusqu'à intervention de l'utilisateur"
+      - "Il garde le résultat quand même"
+    answer: 1
+    explanation: "Face à un si, le processeur parie sur le résultat et commence à travailler. Si le pari est mauvais, le travail est jeté ; s'il est bon, du temps est gagné."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -415,8 +453,18 @@ entraîner des réseaux de neurones.
 - Les cœurs multiples n'accélèrent que les programmes capables de se découper.
 - Pipeline, prédiction de branchement et réordonnancement améliorent le débit réel.
 
-[Emplacement image : cycle d'exécution et traitement en pipeline, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: cycle
+titre: Le cycle de base du processeur
+elements:
+  - titre: Chercher
+    texte: L'instruction suivante est lue en mémoire.
+  - titre: Décoder
+    texte: Le processeur comprend ce qu'il doit faire.
+  - titre: Exécuter
+    texte: Le calcul ou le déplacement est réalisé.
+    icone: chip
+```
 
 ---
 
@@ -459,6 +507,20 @@ quiz:
     explanation: >
       Registres, caches, mémoire vive et stockage forment une pyramide : du très rapide et très
       petit vers le lent et très grand.
+  - question: "Pourquoi un SSD est-il bien plus réactif qu'un disque dur classique ?"
+    options:
+      - "Il utilise des plateaux magnétiques plus rapides"
+      - "Il n'a aucune pièce mobile, donc pas d'attente mécanique"
+      - "Il est branché directement sur le processeur"
+    answer: 2
+    explanation: "Un disque dur doit attendre que le bon secteur passe sous la tête de lecture. Un SSD, en mémoire flash, accède presque instantanément à n'importe quelle donnée."
+  - question: "Pourquoi les fabricants empilent-ils les cellules de mémoire en couches ?"
+    options:
+      - "Pour accélérer la rotation des plateaux"
+      - "Pour rendre la mémoire volatile"
+      - "Pour augmenter la capacité sans agrandir la puce"
+    answer: 3
+    explanation: "L'empilement en plus de deux cents couches augmente la capacité sans agrandir la puce, ce qui explique la baisse continue du prix du stockage."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -518,8 +580,19 @@ C'est ce qui explique la chute continue du prix du stockage, à capacité consta
 - Un SSD n'a aucune pièce mobile, d'où son accès quasi immédiat.
 - L'empilement en trois dimensions augmente la capacité sans agrandir la puce.
 
-[Emplacement image : pyramide de la hiérarchie mémoire avec capacités et temps d'accès, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: La hiérarchie de la mémoire
+legende: Du très rapide et très petit au très grand et plus lent.
+niveaux:
+  - titre: Registres
+    texte: Dans le processeur, les plus rapides.
+  - titre: Mémoire cache
+  - titre: Mémoire vive
+    texte: Rapide, mais volatile.
+  - titre: Stockage
+    texte: SSD ou disque dur, non volatile et très grand.
+```
 
 ---
 
@@ -562,6 +635,20 @@ quiz:
     explanation: >
       C'est pourquoi un OLED affiche un vrai noir : le pixel est simplement éteint. Un écran à
       cristaux liquides laisse toujours passer un peu de la lumière de fond.
+  - question: "Pourquoi le noir d'un écran à cristaux liquides apparaît-il gris foncé ?"
+    options:
+      - "On ne peut jamais bloquer complètement la lumière de fond"
+      - "Les cristaux émettent eux-mêmes un peu de lumière"
+      - "Le filtre coloré est toujours légèrement transparent"
+    answer: 1
+    explanation: "Ces écrans ont une lumière blanche permanente derrière la dalle, qu'on ne peut pas bloquer entièrement. Un écran OLED, lui, éteint simplement le pixel."
+  - question: "Pourquoi un téléphone exige-t-il une densité de pixels plus élevée qu'un téléviseur ?"
+    options:
+      - "Il a un écran plus lumineux"
+      - "Il consomme moins d'énergie"
+      - "On le regarde de beaucoup plus près"
+    answer: 3
+    explanation: "La densité décide si l'on distingue les points. Un téléphone regardé à trente centimètres demande une densité bien supérieure à un téléviseur regardé à trois mètres."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -621,8 +708,20 @@ le mouvement paraît plus fluide, ce qui compte surtout pour les jeux.
 - Un écran OLED affiche un vrai noir car le pixel s'éteint.
 - La densité de pixels compte plus que la définition brute, selon la distance de vision.
 
-[Emplacement image : structure d'un pixel et de ses trois sous-pixels, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Un pixel RVB à trois composantes
+legende: Exemple d’écran RVB ; les couleurs affichables restent limitées.
+type: systeme
+centre: Pixel
+icone: monitor
+parties:
+  - nom: Rouge
+    role: Premier sous-pixel.
+  - nom: Vert
+    role: Deuxième sous-pixel.
+  - nom: Bleu
+    role: Troisième sous-pixel.
+```
 
 ---
 
@@ -664,6 +763,20 @@ quiz:
     explanation: >
       C'est une protection matérielle et logicielle. Sans elle, un programme défaillant ou
       malveillant pourrait corrompre ou espionner tous les autres.
+  - question: "À quoi servent les pilotes dans un système d'exploitation ?"
+    options:
+      - "À distribuer le temps de processeur"
+      - "À permettre à une application de demander d'afficher quelque chose sans connaître le modèle d'écran"
+      - "À isoler la mémoire de chaque programme"
+    answer: 2
+    explanation: "Grâce aux pilotes, une application demande simplement d'afficher ceci, et le système se charge de parler au matériel précis."
+  - question: "Pourquoi utilise-t-on Linux plusieurs fois par jour sans le savoir, alors qu'il est minoritaire sur les ordinateurs personnels ?"
+    options:
+      - "Il fait tourner la plupart des serveurs web et il est le noyau d'Android"
+      - "Il est installé sur tous les ordinateurs de bureau"
+      - "Il a remplacé MS-DOS dans les années 1980"
+    answer: 1
+    explanation: "Linux domine les serveurs, les superordinateurs et les smartphones via Android, et se trouve dans les box internet, téléviseurs et voitures."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -720,8 +833,17 @@ Vous en utilisez plusieurs par jour sans le savoir.
 - L'isolation mémoire empêche un programme d'en corrompre un autre.
 - Linux, minoritaire sur ordinateur personnel, domine serveurs et smartphones.
 
-[Emplacement image : couches entre le matériel, le système et les applications, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Les couches d'un ordinateur
+niveaux:
+  - titre: Applications
+    texte: Navigateur, traitement de texte, jeux.
+  - titre: Système d'exploitation
+    texte: Distribue processeur, mémoire, fichiers et accès au matériel.
+  - titre: Matériel
+    texte: Processeur, mémoire, disques, écran.
+```
 
 ---
 
@@ -765,6 +887,20 @@ quiz:
       Au XIXe siècle, elle a conçu un algorithme destiné à une machine à calculer mécanique
       qui n'a jamais été construite, et pressenti que de telles machines pourraient manipuler
       autre chose que des nombres.
+  - question: "Quel avantage l'interprétation présente-t-elle par rapport à la compilation ?"
+    options:
+      - "Elle produit un programme plus rapide"
+      - "Elle supprime tout besoin de traduction"
+      - "Le même programme fonctionne partout où l'interpréteur existe, et l'on teste immédiatement"
+    answer: 3
+    explanation: "L'interprétation est plus lente, mais le programme reste portable et testable sans attendre de compilation. La compilation donne un exécutable rapide mais lié à un type de machine."
+  - question: "Quel est le compromis d'un langage proche de la machine ?"
+    options:
+      - "Un contrôle fin et de bonnes performances, au prix d'une écriture exigeante et de risques d'erreur"
+      - "Une écriture rapide, mais des performances faibles"
+      - "Une grande sécurité, mais aucun contrôle sur la machine"
+    answer: 1
+    explanation: "Un langage proche de la machine donne un contrôle fin et des performances maximales, mais exige plus d'efforts et expose davantage aux erreurs."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -835,8 +971,19 @@ Apprendre un deuxième langage demande beaucoup moins d'efforts que le premier.
 - Ada Lovelace est considérée comme la première programmeuse de l'histoire.
 - Chaque langage fait un compromis différent entre contrôle, sécurité et rapidité d'écriture.
 
-[Emplacement image : du code source au code machine, compilation et interprétation, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+titre: Deux façons de traduire un programme
+legende: Approches simplifiées ; elles peuvent être combinées, notamment avec la compilation à la volée.
+type: comparaison
+colonnes:
+  - titre: Compilation
+    points:
+      - Traduit le code vers une autre représentation.
+      - Peut produire du code machine ou intermédiaire.
+  - titre: Interprétation
+    points:
+      - Un moteur exécute le code ou une représentation intermédiaire.
+```
 
 ---
 
@@ -879,6 +1026,20 @@ quiz:
     explanation: >
       Sur dix éléments, toutes les méthodes se valent. Sur un million, l'une répond
       instantanément et l'autre ne termine jamais.
+  - question: "Quelle condition est indispensable pour utiliser la recherche dichotomique ?"
+    options:
+      - "La liste doit contenir moins de mille éléments"
+      - "La liste doit être triée"
+      - "La liste doit être lue du début à la fin"
+    answer: 2
+    explanation: "Pour éliminer la moitié des éléments à chaque étape, la liste doit être triée. C'est pourquoi le tri est un problème si étudié."
+  - question: "Pourquoi mesure-t-on un algorithme en comptant les opérations plutôt qu'en le chronométrant ?"
+    options:
+      - "Les chronomètres ne sont pas assez précis"
+      - "Le temps dépend du langage choisi uniquement"
+      - "Le chronométrage dépendrait de la machine utilisée"
+    answer: 3
+    explanation: "On compte les opérations en fonction de la taille des données et on observe comment ce nombre grandit. C'est cette croissance qui compte, pas la vitesse sur de petits exemples."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -945,8 +1106,19 @@ rapidement.
 - On mesure un algorithme par la croissance de son coût avec la taille des données.
 - Pour certains problèmes, on ne sait que vérifier vite, pas trouver vite.
 
-[Emplacement image : comparaison de la croissance du temps de calcul selon l'algorithme, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Chercher un nom dans une liste triée
+colonnes:
+  - titre: Recherche une à une
+    points:
+      - On regarde chaque élément à la suite
+      - Le coût grandit comme la taille de la liste
+  - titre: Recherche dichotomique
+    points:
+      - On coupe la liste en deux à chaque étape
+      - Une dizaine d'étapes là où il en faudrait des centaines
+```
 
 ---
 
@@ -988,6 +1160,20 @@ quiz:
     explanation: >
       C'est l'annuaire d'internet. Sans lui, il faudrait retenir des suites de chiffres pour
       joindre chaque service.
+  - question: "Pourquoi les paquets permettent-ils de contourner une panne sans intervention ?"
+    options:
+      - "Ils peuvent emprunter des chemins différents"
+      - "Ils sont envoyés en double sur tous les liens"
+      - "Ils attendent que le lien soit réparé"
+    answer: 1
+    explanation: "Les paquets partent indépendamment et peuvent passer par des chemins différents. Si un lien tombe, ils contournent la panne."
+  - question: "Pourquoi l'organisation en couches explique-t-elle la longévité d'internet ?"
+    options:
+      - "Chaque couche est contrôlée par une seule entreprise"
+      - "On peut changer un niveau, comme la fibre, sans toucher aux autres, comme le web"
+      - "Les couches basses sont protégées par un centre de commande"
+    answer: 2
+    explanation: "Chaque couche ignore le détail des autres : on peut remplacer le support physique ou inventer une application sans modifier le reste."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1052,8 +1238,23 @@ toucher au web, et inventer une nouvelle application sans modifier le réseau.
 - Le système de noms de domaine traduit les noms en adresses numériques.
 - L'organisation en couches permet de faire évoluer chaque niveau indépendamment.
 
-[Emplacement image : trajet de paquets empruntant des chemins différents, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Le voyage d'une information sur internet
+legende: >-
+  Exemple simplifié de transport ordonné, comme TCP ; tous les protocoles n’offrent pas les mêmes
+  garanties.
+type: etapes
+elements:
+  - titre: Nom de domaine
+    texte: L'annuaire le traduit en adresse numérique.
+  - titre: Découpage
+    texte: L'information est coupée en paquets numérotés.
+  - titre: Acheminement
+    texte: Les paquets passent de réseau en réseau, parfois par des chemins différents.
+    icone: network
+  - titre: Réassemblage
+    texte: À l'arrivée, les paquets sont remis dans l'ordre.
+```
 
 ---
 
@@ -1095,6 +1296,20 @@ quiz:
     explanation: >
       Même si quelqu'un obtient votre mot de passe, il lui manque le code ou la clé physique.
       C'est la mesure individuelle au meilleur rapport effort-protection.
+  - question: "Pourquoi la sauvegarde ne suffit-elle plus à se protéger de certains rançongiciels ?"
+    options:
+      - "Les sauvegardes sont toujours chiffrées par l'attaquant"
+      - "Les rançongiciels détruisent définitivement le matériel"
+      - "Les attaquants volent les données avant de les chiffrer et menacent de les publier"
+    answer: 3
+    explanation: "Avec le vol préalable des données, restaurer une sauvegarde n'empêche pas la menace de publication. La sauvegarde ne suffit donc plus."
+  - question: "Pourquoi faut-il garder au moins une sauvegarde déconnectée du réseau ?"
+    options:
+      - "Sinon elle sera chiffrée avec le reste"
+      - "Pour qu'elle prenne moins de place"
+      - "Pour qu'elle se mette à jour plus vite"
+    answer: 1
+    explanation: "Une sauvegarde connectée au réseau peut être chiffrée par les attaquants en même temps que le reste des données."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1148,6 +1363,16 @@ avec le reste.
 Et la vigilance devant l'urgence : les messages frauduleux créent presque toujours une pression
 temporelle. Un message qui vous presse d'agir immédiatement mérite qu'on ralentisse.
 
+```schema
+type: chiffres
+titre: Les deux protections les plus efficaces
+chiffres:
+  - valeur: Mises à jour
+    texte: installées sans tarder
+  - valeur: Double authentification
+    texte: activée sur les comptes importants
+```
+
 ## À retenir
 
 - La plupart des attaques commencent par un courriel piégé ou un mot de passe réutilisé.
@@ -1155,8 +1380,20 @@ temporelle. Un message qui vous presse d'agir immédiatement mérite qu'on ralen
 - Hôpitaux, collectivités et petites structures sont des cibles fréquentes.
 - Mises à jour et double authentification sont les protections les plus efficaces.
 
-[Emplacement image : étapes d'une attaque par rançongiciel, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: etapes
+titre: Le déroulement d'une attaque par rançongiciel
+elements:
+  - titre: Entrée
+    texte: Un courriel piégé ou un mot de passe réutilisé.
+  - titre: Installation
+    texte: Le logiciel malveillant s'installe.
+  - titre: Chiffrement
+    texte: Les données deviennent illisibles.
+    icone: lock
+  - titre: Chantage
+    texte: Rançon, et menace de publier les données.
+```
 
 ---
 
@@ -1199,6 +1436,20 @@ quiz:
     explanation: >
       Attention : un site frauduleux peut parfaitement avoir un cadenas. Celui-ci garantit la
       confidentialité du transport, pas l'honnêteté de l'interlocuteur.
+  - question: "Pourquoi le cadenas du navigateur ne garantit-il pas qu'un site est honnête ?"
+    options:
+      - "Il n'est affiché que sur les sites officiels"
+      - "Il atteste seulement que la communication est chiffrée et l'identité vérifiée"
+      - "Il disparaît dès qu'un site est piraté"
+    answer: 2
+    explanation: "Le cadenas signifie chiffrement et identité vérifiée, mais ne dit rien de l'honnêteté du site. Un site frauduleux peut afficher un cadenas."
+  - question: "Pourquoi la menace quantique concerne-t-elle des messages interceptés aujourd'hui ?"
+    options:
+      - "Les ordinateurs quantiques actuels les déchiffrent déjà"
+      - "Les clés publiques sont diffusées avec les messages"
+      - "Ils pourraient être déchiffrés plus tard par une machine assez puissante"
+    answer: 3
+    explanation: "Aucune machine de ce type n'existe aujourd'hui, mais des messages interceptés maintenant pourraient être déchiffrés plus tard. D'où les nouveaux algorithmes résistants."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1279,8 +1530,18 @@ commencent à être déployés.
 - Le cadenas garantit le chiffrement et l'identité, pas l'honnêteté du site.
 - Des algorithmes résistants aux ordinateurs quantiques sont en cours de déploiement.
 
-[Emplacement image : principe du chiffrement à clé publique, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le chiffrement à clé publique
+elements:
+  - titre: Publier une clé
+    texte: La clé publique est diffusée à tous.
+    icone: lock
+  - titre: Chiffrer
+    texte: N'importe qui chiffre un message avec elle.
+  - titre: Déchiffrer
+    texte: Seule la clé privée, gardée secrète, peut le lire.
+```
 
 ---
 
@@ -1323,6 +1584,20 @@ quiz:
     explanation: >
       Un son faible juste après un son fort est inaudible. Inutile de le coder. C'est la
       psychoacoustique appliquée à la compression.
+  - question: "Pourquoi recompresser plusieurs fois une image avec perte dégrade-t-il le résultat ?"
+    options:
+      - "L'information jetée est perdue définitivement à chaque compression"
+      - "Le fichier grossit à chaque fois"
+      - "Les couleurs sont converties en noir et blanc"
+    answer: 1
+    explanation: "La compression avec perte supprime ce que les sens ne perçoivent pas, et cette information ne revient pas. Chaque nouvelle compression dégrade donc l'image."
+  - question: "Pourquoi la vidéo se compresse-t-elle si bien ?"
+    options:
+      - "Les films contiennent peu d'images par seconde"
+      - "Deux images successives se ressemblent, on code surtout ce qui change"
+      - "L'oeil ne voit pas les images en mouvement"
+    answer: 2
+    explanation: "On enregistre une image de référence puis seulement les blocs qui se déplacent ou changent. Une scène statique occupe très peu de place."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1391,8 +1666,21 @@ explique les baisses de qualité visibles lors des mouvements rapides en diffusi
 - La compression avec perte supprime ce que l'œil ou l'oreille ne perçoit pas.
 - La vidéo se compresse en ne codant que ce qui change d'une image à l'autre.
 
-[Emplacement image : image avant et après compression avec perte, agrandissement d'un détail,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Deux façons de compresser
+type: comparaison
+colonnes:
+  - titre: Sans perte
+    points:
+      - Restitue exactement l'original
+      - Utile pour les textes et les programmes
+  - titre: Avec perte
+    points:
+      - >-
+        Supprime ou approxime des détails jugés moins perceptibles, avec des pertes parfois visibles
+        ou audibles.
+      - Images, sons et vidéos bien plus légers
+```
 
 ---
 
@@ -1434,6 +1722,20 @@ quiz:
     explanation: >
       Un virement retire d'un compte et ajoute sur un autre. Si la machine s'arrête entre les
       deux, la transaction est annulée intégralement : l'argent ne disparaît pas.
+  - question: "Pourquoi stocke-t-on un identifiant de client plutôt que de recopier son adresse dans chaque commande ?"
+    options:
+      - "Pour réduire la taille des adresses"
+      - "Pour empêcher le client de changer d'adresse"
+      - "Pour que l'information n'existe qu'à un seul endroit et reste à jour"
+    answer: 3
+    explanation: "Si le client déménage, on corrige une ligne et toutes les commandes sont à jour. Dupliquer l'information, c'est garantir qu'elle finira par diverger."
+  - question: "Pourquoi n'est-il pas judicieux d'indexer toutes les colonnes d'une table ?"
+    options:
+      - "Chaque index occupe de l'espace et ralentit légèrement les écritures"
+      - "Un index empêche de retrouver rapidement une ligne"
+      - "Un index ne fonctionne que sur une seule colonne"
+    answer: 1
+    explanation: "Chaque index doit être mis à jour à chaque écriture et prend de la place. Indexer tout serait donc contre-productif."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1502,8 +1804,18 @@ de panne réseau.
 - Chaque index coûte de l'espace et ralentit les écritures.
 - Une transaction s'exécute entièrement ou pas du tout.
 
-[Emplacement image : deux tables reliées par un identifiant et rôle de l'index, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les notions clés d'une base de données
+centre: Base relationnelle
+parties:
+  - nom: Tables liées
+    role: Un identifiant relie les tables et évite les doublons.
+  - nom: Index
+    role: Trouve une ligne sans tout parcourir, mais ralentit les écritures.
+  - nom: Transaction
+    role: S'exécute entièrement ou pas du tout.
+```
 
 ---
 
@@ -1527,6 +1839,9 @@ sources:
   - title: "MOSFET"
     url: "https://en.wikipedia.org/wiki/MOSFET"
     publisher: "Wikipedia"
+  - title: "CHAP 4elec quere"
+    url: "https://brive.unilim.fr/wp-content/uploads/sites/6/2016/12/CHAP_4elec_quere.pdf"
+    publisher: "Université de Limoges"
 quiz:
   - question: "Que fait la tension sur la grille d'un MOSFET ?"
     options:
@@ -1582,6 +1897,21 @@ En associant des transistors, on construit des portes logiques, qui sont la base
 
 Les transistors ont remplacé les tubes à vide, plus gros et moins efficaces. Les premiers transistors sont nés aux Bell Labs, et leurs inventeurs, Bardeen, Brattain et Shockley, ont reçu un prix Nobel de physique. Le MOSFET est le composant électronique le plus fabriqué de l'histoire.
 
+```schema
+type: etapes
+titre: Du transistor à l'ordinateur
+elements:
+  - titre: Transistor
+    texte: La tension sur la grille ouvre ou ferme le passage entre source et drain.
+  - titre: Porte logique
+    texte: Quelques transistors associés réalisent une opération logique.
+  - titre: Circuits de calcul
+    texte: Des portes assemblées additionnent et comparent.
+  - titre: Processeur
+    texte: Des milliards de transistors.
+    icone: chip
+```
+
 ## À retenir
 
 - Un petit signal appliqué à une borne commande un courant plus grand entre deux autres bornes.
@@ -1598,16 +1928,141 @@ title: La loi de Moore
 slug: loi-moore
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Le nombre de transistors double environ tous les deux ans : une prédiction qui a tenu cinquante ans.
+  En 1965, Gordon Moore prédit que le nombre de transistors sur une puce doublera à intervalles
+  réguliers. Pendant cinquante ans, cette prédiction a guidé toute l'industrie. Elle ralentit
+  aujourd'hui, et les ingénieurs cherchent d'autres voies.
 tags: [processeurs]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [fabrique-puce, asml-lithographie-euv, comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur, gravure-2-nanometres-tsmc]
+sources:
+  - title: "Loi de Moore"
+    url: "https://fr.wikipedia.org/wiki/Loi_de_Moore"
+    publisher: "Wikipédia"
+  - title: "Moore's law"
+    url: "https://en.wikipedia.org/wiki/Moore%27s_law"
+    publisher: "Wikipedia"
+  - title: "Intel 4004"
+    url: "https://en.wikipedia.org/wiki/Intel_4004"
+    publisher: "Wikipedia"
+  - title: "Dennard scaling"
+    url: "https://en.wikipedia.org/wiki/Dennard_scaling"
+    publisher: "Wikipedia"
+  - title: "Loi de Moore"
+    url: "https://www.universalis.fr/encyclopedie/loi-de-moore/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "Loi de Moore : la loi de 1975"
+    url: "https://www.universalis.fr/encyclopedie/loi-de-moore/2-la-loi-de-1975/"
+    publisher: "Encyclopaedia Universalis"
+quiz:
+  - question: "Que prédit la loi de Moore, dans sa version de 1975 ?"
+    options:
+      - "Que le nombre de transistors sur une puce double environ tous les deux ans"
+      - "Que les ordinateurs deviendront deux fois plus lourds"
+      - "Que le prix de l'électricité doublera"
+    answer: 1
+    explanation: >
+      Gordon Moore prévoyait d'abord un doublement chaque année, puis, en 1975, tous les deux ans.
+  - question: "Combien de transistors comptait le premier microprocesseur, l'Intel 4004, en 1971 ?"
+    options:
+      - "Deux"
+      - "Environ 2 300"
+      - "Un milliard"
+    answer: 2
+    explanation: >
+      Les puces les plus grandes d'aujourd'hui dépassent cent milliards de transistors, soit des
+      dizaines de millions de fois plus.
+  - question: "Pourquoi les processeurs ont-ils plusieurs cœurs depuis le milieu des années 2000 ?"
+    options:
+      - "Pour être plus jolis"
+      - "Parce que les transistors ont grossi"
+      - "Parce qu'augmenter encore la fréquence faisait trop chauffer les puces"
+    answer: 3
+    explanation: >
+      Vers 2005, les puces ne pouvaient plus évacuer la chaleur produite à plus haute fréquence.
+      On a préféré multiplier les cœurs.
+  - question: "Pourquoi la loi de Moore n'est-elle pas une loi de la nature ?"
+    options:
+      - "Elle ne s'applique qu'aux puces d'Intel"
+      - "C'est une observation devenue un objectif pour toute l'industrie"
+      - "Elle a été démentie dès 1975"
+    answer: 2
+    explanation: "Moore a constaté un doublement régulier, et l'industrie en a fait un objectif à tenir. Elle a duré un demi-siècle avant de ralentir."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+En 1965, l'ingénieur américain Gordon Moore, futur cofondateur d'Intel, observe que le nombre de
+composants sur une puce double chaque année et prévoit que cela continuera. En 1975, il corrige sa
+prévision : un doublement environ tous les **deux ans**. Ce n'est pas une loi de la nature, mais
+une observation devenue objectif pour toute l'industrie. Elle a tenu un demi-siècle et explique
+pourquoi un téléphone d'aujourd'hui est des millions de fois plus puissant que les ordinateurs des
+missions Apollo. Elle ralentit désormais.
+
+## Un doublement qui change tout
+
+Doubler tous les deux ans, c'est multiplier par 32 en dix ans et par environ un million en
+quarante ans. Le premier microprocesseur commercial, l'**Intel 4004**, sorti en 1971, comptait
+environ 2 300 transistors, espacés de 10 micromètres. Les plus grandes puces actuelles en
+comptent plus de cent milliards.
+
+Pendant longtemps, rétrécir les transistors apportait tout à la fois :
+
+- **plus de transistors** sur la même surface, donc plus de fonctions ;
+- des transistors **plus rapides**, donc une fréquence plus élevée ;
+- une **consommation par transistor plus faible** ;
+- un **coût par transistor en baisse**.
+
+```schema
+type: chiffres
+titre: Un demi-siècle de miniaturisation
+chiffres:
+  - valeur: 2 ans
+    texte: doublement du nombre de transistors, selon Moore en 1975
+  - valeur: 2 300
+    texte: transistors dans l'Intel 4004 de 1971
+  - valeur: "> 100 milliards"
+    texte: transistors dans les plus grandes puces actuelles
+```
+
+## Le mur de la chaleur
+
+Vers 2005, une partie de ce cercle vertueux se brise. Les transistors devenus minuscules laissent
+passer des courants de fuite, et la puissance dissipée par centimètre carré devient impossible à
+évacuer à plus haute fréquence. Les fréquences plafonnent autour de 3 à 5 gigahertz.
+
+L'industrie change de stratégie : plutôt qu'un cœur plus rapide, elle met **plusieurs cœurs** sur
+la même puce, puis des circuits spécialisés pour les images, la vidéo ou l'intelligence
+artificielle.
+
+## Des nanomètres qui ne mesurent plus rien
+
+Les générations de fabrication portent des noms comme « 5 nm », « 3 nm » ou « 2 nm ». Ces chiffres
+ne correspondent plus à une dimension réelle du transistor : ce sont des noms commerciaux qui
+indiquent une nouvelle génération, plus dense. Pour continuer à progresser, les fabricants
+changent la forme des transistors, d'abord en ailettes verticales, puis en nappes empilées entourées
+par la grille, et utilisent la lithographie extrême ultraviolet.
+
+## Ralentissement et nouvelles voies
+
+Chaque nouvelle génération coûte plus cher à développer et ses usines aussi. Le coût par
+transistor baisse beaucoup moins vite qu'avant. Beaucoup estiment que la loi de Moore, au sens
+strict, a ralenti.
+
+Les ingénieurs explorent d'autres voies :
+
+- **l'empilement en trois dimensions**, de mémoire ou de logique, comme des étages ;
+- **les puces en morceaux**, ou *chiplets*, assemblées dans un même boîtier ;
+- **les puces spécialisées**, plus efficaces qu'un processeur généraliste pour une tâche donnée ;
+- de nouveaux matériaux et, à plus long terme, d'autres formes de calcul.
+
+## À retenir
+
+- En 1965, Gordon Moore prédit un doublement régulier du nombre de composants par puce ; en 1975, il le fixe à environ deux ans.
+- L'Intel 4004, en 1971, comptait environ 2 300 transistors ; les plus grandes puces en dépassent aujourd'hui cent milliards.
+- Vers 2005, la chaleur a stoppé la hausse des fréquences : les processeurs sont devenus multicœurs.
+- Les noms de gravure en nanomètres sont désormais commerciaux.
+- La loi de Moore ralentit ; l'empilement, les chiplets et les puces spécialisées prennent le relais.
 
 ---
 type: article
@@ -1615,16 +2070,146 @@ title: Les cartes graphiques
 slug: cartes-graphiques
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Des milliers de petits cœurs en parallèle, devenus indispensables à l'intelligence artificielle.
+  Un processeur graphique, ou GPU, contient des milliers de petits cœurs qui font le même calcul
+  en même temps sur des données différentes. Conçu pour les images des jeux vidéo, il est devenu
+  le moteur de l'intelligence artificielle.
 tags: [processeurs]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [les-processeurs-specialises-pour-l-intelligence-artificielle, comment-fonctionne-un-processeur, fabrique-puce]
+sources:
+  - title: "Processeur graphique"
+    url: "https://fr.wikipedia.org/wiki/Processeur_graphique"
+    publisher: "Wikipédia"
+  - title: "Graphics processing unit"
+    url: "https://en.wikipedia.org/wiki/Graphics_processing_unit"
+    publisher: "Wikipedia"
+  - title: "CUDA"
+    url: "https://en.wikipedia.org/wiki/CUDA"
+    publisher: "Wikipedia"
+  - title: "AlexNet"
+    url: "https://en.wikipedia.org/wiki/AlexNet"
+    publisher: "Wikipedia"
+  - title: "Cours I03 GPU"
+    url: "https://perso.ensta-paris.fr/~tajchman/Seance05/Cours_I03_GPU.pdf"
+    publisher: "ENSTA Paris"
+quiz:
+  - question: "Quelle est la grande différence entre un CPU et un GPU ?"
+    options:
+      - "Le CPU a quelques cœurs très polyvalents, le GPU des milliers de cœurs simples qui travaillent en parallèle"
+      - "Le GPU ne fait que de l'affichage de texte"
+      - "Le CPU est toujours plus rapide pour tout"
+    answer: 1
+    explanation: >
+      Le CPU excelle dans les tâches variées et séquentielles. Le GPU excelle quand le même
+      calcul doit être répété sur une énorme quantité de données.
+  - question: "Pourquoi les GPU sont-ils si utilisés pour l'intelligence artificielle ?"
+    options:
+      - "Parce qu'ils ont un écran intégré"
+      - "Parce que l'apprentissage des réseaux de neurones repose sur d'immenses multiplications de tableaux de nombres"
+      - "Parce qu'ils consomment peu"
+    answer: 2
+    explanation: >
+      Les calculs d'un réseau de neurones sont surtout des multiplications de matrices, très
+      faciles à répartir entre des milliers de cœurs.
+  - question: "À quoi sert la mémoire vidéo d'une carte graphique ?"
+    options:
+      - "À stocker les fichiers de l'utilisateur"
+      - "À brancher un écran supplémentaire"
+      - "À fournir très vite au GPU les données sur lesquelles il calcule"
+    answer: 3
+    explanation: >
+      Des milliers de cœurs consomment énormément de données. La mémoire vidéo, très rapide,
+      est placée juste à côté du GPU pour les alimenter.
+  - question: "Pourquoi une carte graphique haut de gamme exige-t-elle un refroidissement important ?"
+    options:
+      - "Sa mémoire vidéo chauffe à cause de la lumière"
+      - "Ses sorties vidéo émettent beaucoup de chaleur"
+      - "Elle peut consommer plusieurs centaines de watts"
+    answer: 3
+    explanation: "Une carte haut de gamme consomme plusieurs centaines de watts, d'où les radiateurs, caloducs et ventilateurs nécessaires."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une carte graphique est une carte électronique dont le cœur est un **processeur graphique**, ou
+**GPU**. Là où le processeur central, le **CPU**, possède quelques cœurs puissants et polyvalents,
+le GPU en possède des milliers, plus simples, qui exécutent tous le même calcul en même temps sur
+des données différentes. Inventé pour calculer les millions de pixels d'une image de jeu vidéo, ce
+fonctionnement en parallèle s'est révélé idéal pour la science et pour l'intelligence
+artificielle.
+
+## CPU et GPU, deux philosophies
+
+Le **CPU** est un chef d'orchestre. Il exécute le système d'exploitation, les programmes, les
+décisions. Ses quelques cœurs, souvent entre 4 et 24 sur un ordinateur personnel, sont très
+rapides et savent prendre des décisions complexes, prévoir la suite d'un programme et passer d'une
+tâche à l'autre.
+
+Le **GPU** est une armée de calculateurs. Une image de 1920 × 1080 pixels en compte plus de deux
+millions, et il faut calculer la couleur de chacun soixante fois par seconde ou plus. Le même
+calcul, appliqué à des millions de points : c'est exactement ce que le GPU fait de mieux. Une carte
+récente compte plusieurs milliers à plus de vingt mille cœurs de calcul.
+
+## Ce que contient une carte graphique
+
+- **Le GPU**, la puce de calcul.
+- **La mémoire vidéo**, de 8 à plus de 24 gigaoctets sur les cartes grand public, de types GDDR
+  ou HBM. Elle est placée juste à côté du GPU, avec un débit énorme, pour alimenter tous ses cœurs.
+- **L'étage d'alimentation**, qui transforme le courant de l'ordinateur en tensions précises et
+  stables pour le GPU.
+- **Le refroidissement** : radiateurs, caloducs et ventilateurs, car une carte haut de gamme peut
+  consommer plusieurs centaines de watts.
+- **Les sorties vidéo** et le connecteur qui la relie à la carte mère.
+
+```schema
+type: comparaison
+titre: CPU ou GPU
+colonnes:
+  - titre: CPU
+    icone: chip
+    points:
+      - Quelques cœurs, souvent 4 à 24
+      - Très polyvalents et rapides
+      - Décisions, programmes, système
+  - titre: GPU
+    icone: monitor
+    points:
+      - Des milliers de cœurs simples
+      - Le même calcul sur des millions de données
+      - Images, science, intelligence artificielle
+```
+
+## Du jeu vidéo au calcul scientifique
+
+Dans les années 1990, des cartes spécialisées accélèrent l'affichage en trois dimensions. En 1999,
+l'entreprise américaine Nvidia présente sa GeForce 256 comme le premier « GPU ». Au fil des années,
+les cœurs deviennent programmables : on peut leur confier d'autres calculs que des images.
+
+En 2007, Nvidia publie **CUDA**, un outil qui permet de programmer facilement ses GPU pour des
+calculs généraux. Les chercheurs s'en emparent pour simuler le climat, des molécules ou des
+galaxies.
+
+## Le moteur de l'intelligence artificielle
+
+Un réseau de neurones artificiels est, pour l'essentiel, une succession d'immenses multiplications
+de tableaux de nombres, les matrices. Ces calculs se répartissent très bien entre des milliers de
+cœurs. En 2012, le réseau AlexNet, entraîné sur deux cartes graphiques de jeu, remporte de loin
+un grand concours de reconnaissance d'images. C'est le début de l'essor de l'apprentissage
+profond.
+
+Depuis, les GPU pour centres de données intègrent des unités spécialisées dans le calcul de
+matrices, de la mémoire HBM empilée et des liaisons très rapides qui relient des milliers de
+cartes entre elles pour entraîner les grands modèles de langage. Nvidia domine ce marché, devant
+AMD. Des puces encore plus spécialisées, les NPU et les TPU, sont apparues pour certaines tâches.
+
+## À retenir
+
+- Le GPU contient des milliers de cœurs simples qui font le même calcul en parallèle.
+- Le CPU, lui, a peu de cœurs, mais très polyvalents et rapides.
+- Une carte graphique associe le GPU, une mémoire vidéo très rapide, une alimentation et un refroidissement.
+- CUDA, en 2007, a ouvert les GPU au calcul scientifique.
+- Les GPU sont devenus le moteur de l'intelligence artificielle depuis 2012.
 
 ---
 type: article
@@ -1632,16 +2217,161 @@ title: Comment on fabrique une puce
 slug: fabrique-puce
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Photolithographie, salles blanches, machines ASML : l'industrie la plus complexe du monde.
+  Une puce électronique naît d'un disque de silicium ultra-pur. Des centaines d'étapes de
+  lithographie, de gravure, de dopage et de dépôt y sculptent des milliards de transistors, dans
+  des salles plus propres qu'un bloc opératoire.
 tags: [processeurs]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [asml-lithographie-euv, loi-moore, tsmc-geopolitique-puces, comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur]
+sources:
+  - title: "Fabrication des dispositifs à semi-conducteurs"
+    url: "https://fr.wikipedia.org/wiki/Fabrication_des_dispositifs_%C3%A0_semi-conducteurs"
+    publisher: "Wikipédia"
+  - title: "Semiconductor device fabrication"
+    url: "https://en.wikipedia.org/wiki/Semiconductor_device_fabrication"
+    publisher: "Wikipedia"
+  - title: "Photolithography"
+    url: "https://en.wikipedia.org/wiki/Photolithography"
+    publisher: "Wikipedia"
+  - title: "Procédé de Czochralski"
+    url: "https://fr.wikipedia.org/wiki/Proc%C3%A9d%C3%A9_de_Czochralski"
+    publisher: "Wikipédia"
+  - title: "FeteScience09 FicheDemo08R"
+    url: "https://sites.laas.fr/laas/files/RE-COM/FeteScience09/FeteScience09_FicheDemo08R.pdf"
+    publisher: "LAAS-CNRS"
+  - title: "Cours 2 Phy568"
+    url: "https://www.enseignement.polytechnique.fr/profs/physique/Francois.Anceau/Phy568/Amphis/cours2.pdf"
+    publisher: "École polytechnique"
+quiz:
+  - question: "Comment dessine-t-on les motifs des transistors sur le silicium ?"
+    options:
+      - "Avec de la lumière projetée à travers un masque sur une résine photosensible"
+      - "Avec un stylo très fin"
+      - "Avec une imprimante à jet d'encre"
+    answer: 1
+    explanation: >
+      C'est la photolithographie : la lumière durcit ou ramollit la résine selon le motif du
+      masque, puis la gravure reporte ce motif dans le matériau.
+  - question: "Pourquoi fabrique-t-on les puces en salle blanche ?"
+    options:
+      - "Pour que les ouvriers aient moins chaud"
+      - "Parce qu'une poussière invisible suffit à détruire un circuit"
+      - "Pour économiser l'électricité"
+    answer: 2
+    explanation: >
+      Les motifs mesurent quelques dizaines de nanomètres. Une poussière mille fois plus grosse
+      couvre des centaines de transistors et rend la puce inutilisable.
+  - question: "Combien de temps faut-il environ pour fabriquer une plaque de puces avancées ?"
+    options:
+      - "Une heure"
+      - "Une journée"
+      - "Environ trois mois"
+    answer: 3
+    explanation: >
+      Une plaque passe par des centaines, parfois plus de mille étapes, ce qui demande de
+      l'ordre de trois mois dans l'usine.
+  - question: "Que fait l'étape de dopage dans la fabrication d'une puce ?"
+    options:
+      - "Elle grave le motif dans la couche à l'aide d'un plasma, là où la résine ne protège plus."
+      - "Elle modifie la façon dont le silicium conduit l'électricité, ce qui crée les transistors."
+      - "Elle aplanit la surface de la plaque avant le dépôt de la couche suivante."
+    answer: 2
+    explanation: "On bombarde certaines zones d'atomes comme le bore ou le phosphore, ce qui change la conduction électrique du silicium. C'est ce qui forme les transistors."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une puce électronique est un petit carré de silicium où sont gravés des millions, voire des
+dizaines de milliards de **transistors**, reliés par des fils de cuivre microscopiques. On la
+fabrique par lots, sur des disques de silicium appelés **plaques** ou *wafers*. Chaque plaque
+passe par des centaines d'étapes répétées : on dépose une couche, on y dessine un motif avec de la
+lumière, on grave, on dope. La fabrication dure environ trois mois dans une usine où l'air est des
+milliers de fois plus propre qu'à l'extérieur.
+
+## Du sable au lingot
+
+Le silicium vient du quartz, un oxyde de silicium présent dans le sable et les roches. On le
+réduit au four électrique, puis on le purifie chimiquement jusqu'à une pureté extraordinaire :
+moins d'un atome étranger pour un milliard d'atomes de silicium.
+
+Le silicium purifié est fondu dans un creuset. On y trempe un petit germe de cristal qu'on remonte
+très lentement en le faisant tourner : c'est le **procédé de Czochralski**. On obtient un lingot
+cylindrique formé d'un seul cristal parfait, qui peut dépasser deux mètres. Il est découpé en
+plaques d'un peu moins d'un millimètre d'épaisseur, de 300 mm de diamètre pour les usines modernes,
+puis poli comme un miroir.
+
+## Le cycle de base, répété des dizaines de fois
+
+Une puce est construite couche par couche. Pour chaque couche, on répète à peu près le même cycle :
+
+1. **Dépôt** : on recouvre la plaque d'une fine couche d'isolant, de métal ou de silicium.
+2. **Résine** : on étale une résine sensible à la lumière.
+3. **Lithographie** : une machine projette, à travers un masque, l'image réduite du motif à
+   dessiner. Les zones éclairées de la résine changent de nature.
+4. **Développement** : un produit dissout la résine éclairée, ou au contraire celle restée dans
+   l'ombre. Le motif apparaît en relief.
+5. **Gravure** : un plasma, gaz ionisé, attaque la couche là où elle n'est plus protégée.
+6. **Dopage** : on bombarde certaines zones d'atomes comme le bore ou le phosphore, qui changent la
+   manière dont le silicium conduit l'électricité. C'est ce qui crée les transistors.
+7. **Nettoyage et polissage** : on retire la résine et on aplanit la surface avant la couche
+   suivante.
+
+```schema
+titre: Des opérations répétées pendant la fabrication
+legende: Ordre et répétition varient selon la couche ; tous ces traitements ne s’appliquent pas à chacune.
+type: etapes
+elements:
+  - titre: Dépôt
+    texte: Une fine couche d'isolant, de métal ou de silicium.
+  - titre: Lithographie
+    texte: La lumière dessine le motif sur une résine.
+  - titre: Gravure
+    texte: Un plasma attaque la couche non protégée.
+  - titre: Dopage
+    texte: Des atomes changent la conduction du silicium.
+  - titre: Nettoyage
+    texte: On retire la résine et on aplanit.
+```
+
+Les transistors occupent les premières couches. Au-dessus, une dizaine de niveaux de fils de
+cuivre, séparés par des isolants, les relient entre eux comme les étages d'un échangeur
+autoroutier. Pour une puce de pointe, on compte des centaines, parfois plus de mille étapes.
+
+## Les salles blanches
+
+Un transistor moderne mesure quelques dizaines de nanomètres, soit des milliers de fois moins que
+l'épaisseur d'un cheveu. Une seule poussière peut couvrir des centaines de transistors et tuer la
+puce. Les usines sont donc des **salles blanches** : l'air y est filtré en continu et circule du
+plafond vers le sol, les opérateurs portent des combinaisons intégrales, et les plaques voyagent
+entre les machines dans des boîtiers fermés, transportés par des robots suspendus.
+
+Les usines consomment aussi d'énormes quantités d'**eau ultrapure**, pour rincer les plaques, et
+d'électricité.
+
+## Tester, découper, emballer
+
+Une plaque de 300 mm porte des dizaines à des centaines de puces. Chacune est testée
+électriquement par de fines pointes. La part des puces qui fonctionnent s'appelle le
+**rendement** ; il est faible au lancement d'un nouveau procédé et s'améliore avec le temps.
+
+La plaque est ensuite découpée au laser ou à la scie diamantée. Chaque puce est collée dans un
+boîtier, reliée à ses broches ou à de minuscules billes de soudure, et protégée. Les puces les plus
+récentes assemblent même plusieurs morceaux de silicium côte à côte ou empilés dans un seul boîtier.
+
+## Une industrie très concentrée
+
+Une usine de puces avancées coûte aujourd'hui plus de 20 milliards de dollars. Seules quelques
+entreprises savent produire les puces les plus fines, comme TSMC, Samsung et Intel. Leurs machines
+de lithographie les plus avancées viennent toutes d'un seul fournisseur, le néerlandais ASML.
+
+## À retenir
+
+- Une puce est fabriquée sur une plaque de silicium ultra-pur, découpée dans un lingot monocristallin.
+- Elle est construite couche par couche : dépôt, résine, lithographie, gravure, dopage.
+- Les transistors sont reliés par une dizaine de niveaux de fils de cuivre.
+- Une poussière suffit à détruire une puce : la fabrication se fait en salle blanche.
+- Une puce avancée demande des centaines d'étapes et environ trois mois de fabrication.
 
 ---
 type: article
@@ -1649,16 +2379,148 @@ title: TSMC et la géopolitique des puces
 slug: tsmc-geopolitique-puces
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Pourquoi une entreprise taïwanaise est devenue un enjeu stratégique mondial.
+  Les puces les plus avancées du monde sont presque toutes fabriquées à Taïwan, par TSMC, avec
+  des machines néerlandaises et sur des plans américains. Cette chaîne mondiale très concentrée
+  est devenue un enjeu stratégique majeur.
 tags: [processeurs]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [asml-lithographie-euv, fabrique-puce, gravure-2-nanometres-tsmc, loi-moore]
+sources:
+  - title: "Taiwan Semiconductor Manufacturing Company"
+    url: "https://fr.wikipedia.org/wiki/Taiwan_Semiconductor_Manufacturing_Company"
+    publisher: "Wikipédia"
+  - title: "TSMC"
+    url: "https://en.wikipedia.org/wiki/TSMC"
+    publisher: "Wikipedia"
+  - title: "CHIPS and Science Act"
+    url: "https://en.wikipedia.org/wiki/CHIPS_and_Science_Act"
+    publisher: "Wikipedia"
+  - title: "European Chips Act"
+    url: "https://en.wikipedia.org/wiki/European_Chips_Act"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qu'une fonderie de semi-conducteurs comme TSMC ?"
+    options:
+      - "Une entreprise qui fabrique les puces conçues par d'autres"
+      - "Une usine qui fond des métaux"
+      - "Une entreprise qui vend des ordinateurs"
+    answer: 1
+    explanation: >
+      TSMC ne vend pas de puces sous sa marque. Elle fabrique celles d'Apple, de Nvidia, d'AMD et
+      de nombreuses autres entreprises qui les conçoivent.
+  - question: "Pourquoi la chaîne des puces est-elle fragile ?"
+    options:
+      - "Parce que les puces sont trop lourdes"
+      - "Parce que chaque étape clé dépend de quelques entreprises, parfois d'une seule"
+      - "Parce que le silicium est rare"
+    answer: 2
+    explanation: >
+      ASML pour les machines EUV, TSMC pour la fabrication de pointe, quelques sociétés pour les
+      logiciels de conception : une crise chez l'un bloque toute la chaîne.
+  - question: "Comment les États-Unis et l'Europe ont-ils réagi à cette dépendance ?"
+    options:
+      - "En interdisant les puces"
+      - "En arrêtant d'utiliser des ordinateurs"
+      - "En finançant la construction d'usines sur leur sol"
+    answer: 3
+    explanation: >
+      Le CHIPS Act américain de 2022 et le règlement européen sur les semi-conducteurs de 2023
+      subventionnent l'installation d'usines de puces.
+  - question: "Pourquoi le modèle de la fonderie pure a-t-il permis à TSMC de progresser plus vite que ses concurrents ?"
+    options:
+      - "Elle conçoit elle-même toutes les puces qu'elle fabrique, ce qui lui évite de dépendre de clients."
+      - "Elle reçoit gratuitement de l'État taïwanais les machines de lithographie les plus avancées."
+      - "Elle regroupe les commandes du monde entier, ce qui lui permet de financer les usines les plus coûteuses."
+    answer: 3
+    explanation: "TSMC fabrique les puces conçues par d'autres. En rassemblant les commandes de nombreux clients, elle finance des usines très chères et avance plus vite."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une puce de téléphone ou de serveur d'IA est conçue en Californie, fabriquée à Taïwan avec des
+machines néerlandaises, des produits chimiques japonais et des logiciels américains, puis
+assemblée en Asie. Au centre de cette chaîne se trouve **TSMC**, une entreprise taïwanaise qui
+fabrique l'essentiel des puces les plus avancées du monde. Cette concentration rend l'économie
+mondiale vulnérable et fait des semi-conducteurs un enjeu géopolitique majeur.
+
+## Le modèle de la fonderie
+
+Jusqu'aux années 1980, les fabricants de puces les concevaient et les produisaient eux-mêmes. En
+1987, Morris Chang fonde TSMC à Hsinchu, à Taïwan, avec le soutien de l'État taïwanais, sur une
+idée nouvelle : fabriquer uniquement les puces conçues par d'autres. C'est une **fonderie pure**.
+
+Ce modèle a permis la naissance d'entreprises dites *fabless*, sans usine, comme Nvidia, Qualcomm
+ou AMD, et Apple pour ses propres puces. Elles conçoivent, TSMC fabrique. En regroupant les
+commandes du monde entier, TSMC peut financer les usines les plus coûteuses et progresser plus vite
+que ses concurrents. En 2024, elle réalise plus de 60 % du chiffre d'affaires mondial de la
+fonderie, et la très grande majorité des puces les plus fines.
+
+## Une chaîne aux maillons uniques
+
+La production d'une puce avancée mobilise plusieurs étapes, chacune dominée par très peu
+d'acteurs :
+
+1. **Les logiciels de conception**, dominés par les américains Synopsys et Cadence.
+2. **La conception de la puce**, par Apple, Nvidia, AMD, Qualcomm, Google et d'autres.
+3. **Les machines de fabrication** : ASML aux Pays-Bas, seule à produire les machines de
+   lithographie EUV, et des américains et japonais pour le dépôt et la gravure.
+4. **Les matériaux** : plaques de silicium, gaz et résines, en bonne partie japonais.
+5. **La fabrication** : TSMC, puis Samsung en Corée du Sud et Intel aux États-Unis.
+6. **L'assemblage et le test**, surtout à Taïwan, en Chine et en Asie du Sud-Est.
+
+```schema
+type: etapes
+titre: La chaîne mondiale d'une puce avancée
+legende: Chaque étape est dominée par très peu d'acteurs.
+elements:
+  - titre: Logiciels de conception
+    texte: Surtout Synopsys et Cadence.
+  - titre: Conception
+    texte: Apple, Nvidia, AMD, Qualcomm, Google.
+  - titre: Machines
+    texte: ASML seule pour l'EUV.
+  - titre: Matériaux
+    texte: Plaques, gaz et résines, souvent japonais.
+  - titre: Fabrication
+    texte: TSMC, puis Samsung et Intel.
+  - titre: Assemblage et test
+    texte: Surtout en Asie.
+```
+
+Si un seul de ces maillons s'arrête, toute la chaîne se bloque. Entre 2020 et 2022, une pénurie de
+puces a ainsi paralysé des chaînes de montage automobiles dans le monde entier.
+
+## Taïwan au cœur des tensions
+
+La République populaire de Chine considère Taïwan comme une partie de son territoire. Un blocus ou
+un conflit autour de l'île interromprait la production de la plupart des puces avancées, avec des
+conséquences pour toute l'économie mondiale. Certains parlent de « bouclier de silicium » : la
+dépendance mondiale envers TSMC dissuaderait une attaque. D'autres y voient au contraire un risque.
+
+## La course aux usines
+
+Pour réduire leur dépendance, les grandes puissances subventionnent la production locale :
+
+- les **États-Unis** adoptent en 2022 le CHIPS and Science Act, qui prévoit environ 52 milliards de
+  dollars pour les semi-conducteurs ; TSMC construit des usines en Arizona ;
+- l'**Union européenne** adopte en 2023 son règlement sur les semi-conducteurs, avec l'objectif de
+  doubler sa part de la production mondiale, pour la porter à 20 % d'ici à 2030 ;
+- le **Japon** finance une usine de TSMC à Kumamoto ;
+- la **Chine** investit massivement dans sa propre industrie, freinée par les restrictions
+  américaines et néerlandaises sur les machines et les puces les plus avancées.
+
+Mais une usine de pointe coûte plus de 20 milliards de dollars, met plusieurs années à sortir de
+terre et demande des milliers d'ingénieurs expérimentés : la géographie de la production change
+lentement.
+
+## À retenir
+
+- TSMC, fondée en 1987 à Taïwan, fabrique les puces conçues par d'autres entreprises.
+- Elle réalise plus de 60 % du chiffre d'affaires mondial de la fonderie en 2024.
+- La chaîne des puces repose sur des maillons uniques, comme ASML pour les machines EUV.
+- Les tensions autour de Taïwan font de cette concentration un risque mondial.
+- États-Unis, Europe, Japon et Chine subventionnent de nouvelles usines pour réduire leur dépendance.
 
 ---
 type: article
@@ -1770,6 +2632,20 @@ quiz:
       Même un support physique en parfait état devient inutile si le format du fichier ou le
       logiciel nécessaire pour l'ouvrir n'est plus disponible, un problème appelé obsolescence
       logicielle.
+  - question: "Pourquoi recopier régulièrement des données importantes vers des supports plus récents ?"
+    options:
+      - "Pour agir avant que l'ancien support devienne défaillant ou illisible, ce qui reste la stratégie la plus fiable à très long terme."
+      - "Pour profiter de supports qui ne s'abîment jamais, ce qui dispense ensuite de toute surveillance."
+      - "Pour réduire le nombre de copies à conserver, car un support récent suffit à protéger une donnée."
+    answer: 1
+    explanation: "Aucun support ne dure indéfiniment. Migrer les données avant la défaillance ou l'obsolescence de l'ancien support est la seule stratégie véritablement fiable sur le très long terme."
+  - question: "Que recommande la règle des trois copies pour protéger une donnée importante ?"
+    options:
+      - "Faire trois copies sur le même disque de qualité archive pour gagner du temps."
+      - "Conserver trois copies dans un même lieu bien protégé, à température stable."
+      - "Garder au moins trois copies sur au moins deux supports différents, dont une dans un lieu distinct."
+    answer: 3
+    explanation: "Cette redondance protège contre la défaillance simultanée de plusieurs copies : supports variés et un lieu physiquement séparé limitent les risques communs."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -1823,8 +2699,17 @@ fiable pour une conservation numérique sur le très long terme.
 - Migrer régulièrement les données vers de nouveaux supports reste la stratégie la plus fiable à
   long terme.
 
-[Emplacement image : différents supports de stockage, disque dur, bande magnétique et disque
-optique, côte à côte, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La règle des trois copies
+chiffres:
+  - valeur: 3 copies
+    texte: au moins, de chaque donnée importante
+  - valeur: Supports différents
+    texte: pour ne pas tout perdre d'un coup
+  - valeur: Migrer
+    texte: régulièrement vers de nouveaux supports
+```
 
 ---
 
@@ -2090,6 +2975,20 @@ quiz:
       Les systèmes d'exploitation modernes exigent souvent des ressources matérielles
       importantes. Un système plus léger, conçu pour du matériel plus modeste, permet à un vieil
       ordinateur de continuer à fonctionner correctement.
+  - question: "Pourquoi remplacer un disque dur mécanique par un support à mémoire flash aide-t-il un vieil ordinateur ?"
+    options:
+      - "Parce qu'il augmente la quantité de mémoire vive disponible pour les programmes."
+      - "Parce qu'il refroidit mieux le processeur et supprime le besoin de pâte thermique."
+      - "Parce qu'il est plus rapide et n'a pas de pièce mobile susceptible de tomber en panne."
+    answer: 3
+    explanation: "Le support flash est plus rapide qu'un disque mécanique et, sans pièce mobile, il évite les pannes mécaniques propres aux anciens disques durs."
+  - question: "Pourquoi un nettoyage à l'air comprimé peut-il résoudre une partie des problèmes d'un ordinateur ancien ?"
+    options:
+      - "La poussière accumulée nuit à la ventilation et peut provoquer une surchauffe."
+      - "La poussière use la mémoire vive et ralentit les échanges de données avec le disque."
+      - "La poussière fait durcir la pâte thermique et la rend définitivement inutilisable."
+    answer: 1
+    explanation: "La poussière gêne la circulation de l'air dans la machine et peut la faire surchauffer. Un nettoyage règle souvent le problème sans changer de pièce."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2143,8 +3042,21 @@ récents compatibles, permettent souvent de contourner ce problème.
 - Des pièces d'occasion ou des équivalents compatibles permettent de contourner la rareté de
   certains composants anciens.
 
-[Emplacement image : ordinateur ancien ouvert en cours de nettoyage et de maintenance, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Redonner vie à un vieil ordinateur
+elements:
+  - titre: Diagnostiquer
+    texte: Le disque dur est souvent le premier à faiblir.
+  - titre: Nettoyer
+    texte: Poussière et contacts.
+  - titre: Installer un système léger
+    texte: Adapté au matériel.
+  - titre: Remplacer le disque
+    texte: Une mémoire flash change tout.
+  - titre: Trouver des pièces
+    texte: Occasion ou équivalents compatibles.
+```
 
 ---
 
@@ -2375,8 +3287,8 @@ title: Comment Internet traverse-t-il les océans ?
 slug: comment-internet-traverse-t-il-les-oceans
 categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
 summary: >
-  Presque tout le trafic entre continents passe par des câbles à fibres optiques posés au fond
-  de la mer, pas par des satellites. La lumière y transporte les données.
+  Presque tout le trafic entre continents passe par des câbles à fibres optiques posés au fond de
+  la mer, pas par des satellites. La lumière y transporte les données, jusque sous les océans.
 tags: [internet]
 sources:
   - title: "Submarine Cables"
@@ -2388,6 +3300,10 @@ sources:
   - title: "Submarine communications cable"
     url: "https://en.wikipedia.org/wiki/Submarine_communications_cable"
     publisher: "Wikipedia"
+  - title: "2023 Mythbusting Part 3: Do Submarine Cables Account For Over 99% of Intercontinental Data Traffic?"
+    url: "https://resources.telegeography.com/2023-mythbusting-part-3"
+    publisher: "TeleGeography"
+    date: "2023"
 quiz:
   - question: "Par où passe presque tout le trafic Internet entre continents ?"
     options:
@@ -2423,7 +3339,7 @@ quiz:
     answer: 1
     explanation: >
       Le premier câble transatlantique à fibre optique, TAT-8, est entré en service en 1988.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -2443,13 +3359,38 @@ Des navires câbliers spécialisés déroulent le câble sur le fond de la mer. 
 
 Un premier câble télégraphique transatlantique en cuivre n'a fonctionné qu'environ un mois ; un câble durable a suivi quelques années plus tard. Le premier câble transatlantique à fibre optique, TAT-8, est entré en service en 1988. Des câbles sous-marins servent aussi à transporter l'électricité, notamment pour des installations d'énergie renouvelable en mer.
 
+```schema
+type: systeme
+titre: Un câble sous-marin
+legende: La quasi-totalité du trafic entre continents passe par ces câbles.
+centre: Câble sous-marin
+icone: wave
+parties:
+  - nom: Fibres optiques
+    role: La lumière y est guidée par réflexion totale interne.
+  - nom: Répéteurs
+    role: Ils amplifient le signal, alimentés par le câble lui-même.
+  - nom: Ensouillage côtier
+    role: Le câble est enterré près des côtes.
+  - nom: Menaces
+    role: Chaluts, ancres et séismes.
+```
+
+## Quelle part exactement ?
+
+On lit souvent que les câbles sous-marins transportent plus de 99 % du trafic de données entre continents. Le cabinet d'analyse TeleGeography, spécialiste du secteur, juge cette affirmation exacte. Un indice vient des États-Unis : d'après les dernières données publiques de la FCC, datant de 2013, les satellites ne représentaient que 0,37 % de la capacité internationale du pays.
+
+## Des chiffres à manier avec prudence
+
+Ce 99 % est un ordre de grandeur, pas une mesure précise. Pour le calculer exactement, il faudrait connaître le trafic réel des satellites entre continents, et ces données manquent : l'autorité américaine a depuis changé ses règles et n'oblige plus les opérateurs de satellites à déclarer leurs circuits. La conclusion reste solide, mais le chiffre exact ne l'est pas.
+
 ## À retenir
 
 - La quasi-totalité du trafic de données entre continents passe par des câbles sous-marins, et non par des satellites.
 - Dans une fibre optique, la lumière est guidée par réflexion totale interne ; l'information est codée en impulsions lumineuses.
 - Des répéteurs, qui amplifient le signal, jalonnent le câble ; ils sont alimentés en électricité par le câble lui-même.
-- Près des côtes, le câble est généralement enterré pour le protéger, notamment de la pêche.
 - Les pannes viennent surtout des chaluts de pêche, des ancres de navires et des séismes.
+- Le chiffre de plus de 99 % des échanges entre continents est un ordre de grandeur : les données satellites précises manquent.
 
 ---
 
@@ -2545,6 +3486,20 @@ quiz:
       Dans un réseau maillé, chaque appareil peut relayer les communications des autres. La
       panne d'un seul nœud n'empêche donc pas le reste du réseau de continuer à fonctionner,
       contrairement à un réseau dépendant d'un unique point central.
+  - question: "Quelle est la principale limite d'un réseau local isolé d'internet ?"
+    options:
+      - "Il ne permet pas de partager de fichiers entre les appareils connectés."
+      - "Il reste limité à la portée de ses appareils et ne donne pas accès aux ressources d'internet."
+      - "Il ne fonctionne que si un fournisseur d'accès est relié au routeur."
+    answer: 2
+    explanation: "Un réseau local fonctionne sans internet, mais il est limité géographiquement et n'offre pas l'accès aux ressources extérieures normalement disponibles en ligne."
+  - question: "Comment une base de connaissances peut-elle être consultable sur un réseau local sans internet ?"
+    options:
+      - "Chaque appareil doit en stocker une copie complète avant de se connecter au réseau."
+      - "Elle doit être téléchargée depuis un serveur extérieur à chaque consultation."
+      - "Elle est stockée sur un seul appareil et consultable par tous les autres connectés au même réseau."
+    answer: 3
+    explanation: "Un seul appareil peut héberger la base, et les autres y accèdent directement par le réseau local, sans jamais passer par internet."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2597,8 +3552,20 @@ néanmoins précieux pour maintenir une communication de proximité en toutes ci
 - Cette solution reste limitée géographiquement mais utile en cas de coupure des infrastructures
   habituelles.
 
-[Emplacement image : schéma d'un réseau maillé reliant plusieurs appareils entre eux sans passer
-par internet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Réseau avec point central ou réseau maillé
+type: comparaison
+colonnes:
+  - titre: Autour d'un routeur
+    points:
+      - Un routeur allumé suffit, sans fournisseur d'accès
+      - Une panne du point central peut couper les échanges qui en dépendent.
+  - titre: Maillé
+    icone: network
+    points:
+      - Des nœuds peuvent relayer les données.
+      - Des chemins alternatifs peuvent maintenir les échanges après une panne.
+```
 
 ---
 
@@ -3477,6 +4444,9 @@ sources:
   - title: "American Standard Code for Information Interchange"
     url: "https://fr.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange"
     publisher: "Wikipédia"
+  - title: "Représentation des données : code ASCII étendu et entiers naturels"
+    url: "https://ent2d.ac-bordeaux.fr/disciplines/sti-college/wp-content/uploads/sites/63/2024/06/SFC1l-Representation-des-donnees-_-representation-des-booleens-des-mots-code-ASCII-etendu-des-nombres-entiers-naturels-1.docx.pdf"
+    publisher: "Académie de Bordeaux"
 quiz:
   - question: "Combien vaut le nombre binaire 1101 en écriture décimale ?"
     options:
@@ -3542,6 +4512,20 @@ Pour écrire du texte, on donne un numéro à chaque caractère. Le code ASCII, 
 ## Une vieille idée
 
 Des formes proches du binaire apparaissent très tôt, par exemple dans les hexagrammes du Yi Jing, un livre chinois très ancien. En 1703, le savant allemand Gottfried Wilhelm Leibniz a publié une étude du calcul binaire. En 1847, le mathématicien anglais George Boole a inventé une algèbre qui n'accepte que deux valeurs, 0 et 1. Ces idées sont devenues la base des ordinateurs du 20e siècle.
+
+```schema
+titre: Les repères du binaire
+type: chiffres
+chiffres:
+  - valeur: 2 chiffres
+    texte: 0 et 1, représentés par deux états physiques distinguables
+  - valeur: 8 bits
+    texte: forment un octet
+  - valeur: '256'
+    texte: valeurs possibles pour un octet
+  - valeur: '65'
+    texte: le code de la lettre A en ASCII
+```
 
 ## À retenir
 
@@ -4498,6 +5482,10 @@ sources:
   - title: "Structured program theorem"
     url: "https://en.wikipedia.org/wiki/Structured_program_theorem"
     publisher: "Wikipedia"
+  - title: "Un modèle fonctionnel des structures de contrôle"
+    url: "https://www.numdam.org/item/ITA_1977__11_3_213_0"
+    publisher: "RAIRO - Informatique théorique"
+    date: "1977"
 quiz:
   - question: "À quoi sert une condition « si... alors... sinon » ?"
     options:
@@ -4575,6 +5563,23 @@ Une boucle doit pouvoir s'arrêter. Si la condition de sortie n'est jamais attei
 En 1966, Corrado Böhm et Giuseppe Jacopini ont démontré un résultat important. Tout calcul qu'un ordinateur peut faire peut s'écrire avec seulement trois structures : la suite d'instructions, le choix par une condition et la répétition par une boucle.
 
 Ce résultat a soutenu une idée défendue en 1968 par Edsger Dijkstra. Il critiquait l'instruction « goto », qui fait sauter le programme n'importe où et rend le code difficile à suivre. Il proposait d'utiliser plutôt ces structures bien rangées. Aujourd'hui, les conditions et les boucles se retrouvent dans presque tous les langages.
+
+```schema
+type: comparaison
+titre: Les trois briques de tout programme
+legende: Böhm et Jacopini ont montré en 1966 qu'elles suffisent.
+colonnes:
+  - titre: La suite
+    points:
+      - Les instructions dans l'ordre
+  - titre: Le choix
+    points:
+      - Si, alors, sinon
+  - titre: La répétition
+    points:
+      - Tant que, pour
+      - Attention à la boucle infinie
+```
 
 ## À retenir
 
@@ -5252,6 +6257,21 @@ Sur cet appareil, le micrologiciel trouve un petit programme : le chargeur d'amo
 Le noyau prend alors le contrôle de la machine. Il gère la mémoire, partage le temps du processeur entre les programmes et dialogue avec les appareils. Puis il lance un premier programme, qui démarre à son tour tous les autres. Sous Linux, c'est souvent systemd. Il vérifie et rend accessibles les disques, puis lance les services, comme le réseau ou l'écran de connexion.
 
 Quand l'écran d'accueil apparaît, l'ordinateur a franchi toutes ces étapes. Chacune a préparé la suivante, comme une course de relais.
+
+```schema
+type: etapes
+titre: Du bouton à l'écran d'accueil
+elements:
+  - titre: Micrologiciel
+    texte: BIOS ou UEFI vérifie le matériel, c'est le test POST.
+  - titre: Appareil de démarrage
+    texte: Le micrologiciel le cherche.
+  - titre: Chargeur d'amorçage
+    texte: Il place le noyau en mémoire vive.
+  - titre: Système d'exploitation
+    texte: Le noyau lance les autres programmes.
+    icone: monitor
+```
 
 ## À retenir
 
@@ -6103,6 +7123,20 @@ Le corps humain conduit l'électricité, et c'est ce que détectent les écrans 
 
 Un écran capacitif simple ne détecte pas un doigt à travers un matériau isolant comme un gant ; les écrans capacitifs projetés détectent un doigt proche et permettent de toucher à plusieurs doigts. Les premiers travaux publiés sur les écrans tactiles capacitifs sont ceux d'Eric Johnson, au Royal Radar Establishment.
 
+```schema
+type: comparaison
+titre: Deux familles d'écrans tactiles
+colonnes:
+  - titre: Résistif
+    points:
+      - Deux couches se touchent là où l'on appuie
+      - Fonctionne avec n'importe quel objet
+  - titre: Capacitif
+    points:
+      - Détecte le doigt, conducteur d'électricité
+      - Un gant simple l'empêche de fonctionner
+```
+
 ## À retenir
 
 - Dans un écran résistif, deux couches transparentes se touchent là où l'on appuie, et l'appareil repère la position.
@@ -6243,6 +7277,20 @@ L'imprimante laser fonctionne autrement. Elle contient un tambour, un cylindre c
 L'encre est une poudre appelée toner, faite de particules très fines de plastique. Grâce aux charges électriques, le toner se colle seulement aux bons endroits du tambour. Le tambour roule ensuite sur la feuille, qui attire le toner. Enfin, la feuille passe entre deux rouleaux chauffés à au moins 180 °C. Le plastique fond et se fixe au papier. C'est pourquoi une feuille sort chaude d'une imprimante laser.
 
 Gary Starkweather, chez Xerox, a construit le premier prototype en 1971. La première imprimante laser commerciale, l'IBM 3800, est sortie en 1976. En 1984, la LaserJet de Hewlett-Packard a été la première destinée au grand public.
+
+```schema
+titre: Jet d'encre ou laser
+type: comparaison
+colonnes:
+  - titre: Jet d'encre
+    points:
+      - Gouttes de quelques picolitres
+      - Projetées par une bulle de vapeur ou un cristal
+  - titre: Laser
+    points:
+      - Image dessinée en charges sur un tambour
+      - Poudre de toner fixée par chaleur et pression, selon le procédé de l’imprimante.
+```
 
 ## À retenir
 
@@ -6824,18 +7872,142 @@ status: planned
 
 ---
 type: article
-title: Les processeurs specialises pour l'intelligence artificielle
+title: Les processeurs spécialisés pour l'intelligence artificielle
 slug: les-processeurs-specialises-pour-l-intelligence-artificielle
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Des puces concues specifiquement pour accelerer certains types de calculs.
+  NPU dans les téléphones, TPU dans les centres de données : ces puces sont conçues pour une seule
+  famille de calculs, les multiplications de matrices des réseaux de neurones. Elles les font plus
+  vite et avec moins d'énergie qu'un processeur classique.
 tags: [processeurs]
-priority: 3
-essentiel: false
-status: planned
+relatedArticles: [cartes-graphiques, comment-fonctionne-un-processeur, fabrique-puce]
+sources:
+  - title: "Neural processing unit"
+    url: "https://en.wikipedia.org/wiki/Neural_processing_unit"
+    publisher: "Wikipedia"
+  - title: "Tensor Processing Unit"
+    url: "https://en.wikipedia.org/wiki/Tensor_Processing_Unit"
+    publisher: "Wikipedia"
+  - title: "Systolic array"
+    url: "https://en.wikipedia.org/wiki/Systolic_array"
+    publisher: "Wikipedia"
+  - title: "Accélérateur d'IA"
+    url: "https://fr.wikipedia.org/wiki/Acc%C3%A9l%C3%A9rateur_d%27IA"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle opération un NPU accélère-t-il avant tout ?"
+    options:
+      - "Les multiplications suivies d'additions sur de grands tableaux de nombres"
+      - "La lecture des vidéos"
+      - "La gestion des fichiers"
+    answer: 1
+    explanation: >
+      Un réseau de neurones multiplie des entrées par des poids et additionne les résultats,
+      des milliards de fois. Le NPU est construit pour cette opération.
+  - question: "Pourquoi les NPU utilisent-ils des nombres moins précis ?"
+    options:
+      - "Parce qu'ils ne savent pas compter"
+      - "Parce qu'un réseau de neurones tolère bien une précision réduite, ce qui économise énergie et mémoire"
+      - "Pour cacher les résultats"
+    answer: 2
+    explanation: >
+      Un nombre codé sur 8 bits au lieu de 32 prend quatre fois moins de place et se calcule avec
+      bien moins de transistors, pour un résultat presque identique.
+  - question: "Que signifie l'unité TOPS utilisée pour comparer les NPU ?"
+    options:
+      - "Des tours par seconde"
+      - "Des téléchargements par seconde"
+      - "Des milliers de milliards d'opérations par seconde"
+    answer: 3
+    explanation: >
+      Un NPU de 40 TOPS peut effectuer environ 40 000 milliards d'opérations simples par seconde,
+      souvent en précision réduite.
+  - question: "Pourquoi un NPU place-t-il des réserves de mémoire au plus près de ses unités de calcul ?"
+    options:
+      - "Parce que déplacer une donnée coûte souvent plus d'énergie que la calculer."
+      - "Parce que la mémoire proche permet de calculer avec des nombres plus précis."
+      - "Parce que cela évite d'utiliser des grilles de multiplicateurs, plus coûteuses en énergie."
+    answer: 1
+    explanation: "Le déplacement des données consomme souvent plus d'énergie que le calcul lui-même. Une mémoire proche des unités de calcul réduit donc la dépense d'énergie."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le **CPU** sait tout faire, le **GPU** calcule en parallèle, et le **NPU**, pour *neural
+processing unit*, ne fait presque qu'une chose : les calculs des réseaux de neurones. Cette
+spécialisation lui permet d'aller plus vite et surtout de consommer beaucoup moins d'énergie. On en
+trouve dans les téléphones, les ordinateurs portables récents et les voitures. Dans les centres de
+données, des puces géantes du même type, comme les **TPU** de Google, entraînent et font tourner
+les grands modèles d'IA.
+
+## Le calcul au cœur des réseaux de neurones
+
+Un neurone artificiel reçoit des nombres, les multiplie chacun par un **poids**, additionne le
+tout et applique une règle simple. Un réseau compte des millions ou des milliards de poids. Faire
+fonctionner un réseau revient donc à enchaîner d'innombrables opérations « multiplier puis
+additionner », regroupées en multiplications de matrices.
+
+Un CPU fait ce calcul, mais il dépense beaucoup d'énergie à lire chaque instruction, à décider et à
+aller chercher les données en mémoire. Un NPU supprime une grande partie de ce travail.
+
+## Les astuces d'un NPU
+
+- **Des réseaux de multiplicateurs** : des milliers d'unités de calcul disposées en grille. Dans
+  un réseau dit systolique, les données passent d'une unité à sa voisine à chaque battement
+  d'horloge, comme le sang pulsé par le cœur, sans retourner en mémoire entre deux calculs.
+- **Une précision réduite** : au lieu de nombres sur 32 bits, le NPU calcule souvent sur 16, 8 ou
+  même 4 bits. Un réseau de neurones tolère bien cette approximation, et chaque calcul demande
+  beaucoup moins de transistors et d'énergie.
+- **Une mémoire proche** : des réserves de mémoire placées au plus près des unités de calcul, car
+  déplacer une donnée coûte souvent plus d'énergie que la calculer.
+
+```schema
+type: systeme
+titre: Les trois astuces d'un NPU
+centre: NPU
+icone: chip
+parties:
+  - nom: Grilles de multiplicateurs
+    role: Les données passent d'une unité à la voisine sans retourner en mémoire.
+  - nom: Précision réduite
+    role: Des nombres sur 16, 8 ou 4 bits au lieu de 32.
+  - nom: Mémoire proche
+    role: Déplacer une donnée coûte souvent plus qu'un calcul.
+```
+
+## Dans nos poches et nos ordinateurs
+
+En 2017, Apple et Huawei intègrent les premiers NPU dans les puces de leurs téléphones. Ils servent
+à reconnaître un visage pour déverrouiller l'appareil, améliorer les photos, détecter la voix ou
+traduire hors connexion. Faire ces calculs sur l'appareil, plutôt que sur un serveur, protège la
+vie privée et économise la batterie.
+
+Depuis 2024, les processeurs pour ordinateurs portables d'Intel, d'AMD et de Qualcomm intègrent
+aussi un NPU. Leur puissance s'exprime en **TOPS**, des milliers de milliards d'opérations par
+seconde : Microsoft exige au moins 40 TOPS pour ses PC dits « Copilot+ ».
+
+## Dans les centres de données
+
+Google a mis en service en 2015 sa première **TPU**, *tensor processing unit*, présentée
+publiquement en 2016, pour faire tourner ses services d'IA. Les générations suivantes servent
+aussi à l'entraînement des modèles. Amazon, Microsoft et Meta conçoivent également leurs propres
+puces. Elles concurrencent les GPU de Nvidia, plus polyvalents, qui restent dominants.
+
+## Les limites
+
+Un NPU est rapide pour les calculs prévus par ses concepteurs, mais peu adapté aux autres. Les
+méthodes d'IA évoluant vite, une puce trop spécialisée peut vieillir rapidement. C'est pourquoi les
+ordinateurs combinent CPU, GPU et NPU, et répartissent chaque tâche vers la puce la plus adaptée.
+
+## À retenir
+
+- Un NPU est une puce spécialisée dans les multiplications de matrices des réseaux de neurones.
+- Il gagne en vitesse et en énergie grâce à des grilles de multiplicateurs, une précision réduite et une mémoire proche.
+- Les téléphones en intègrent depuis 2017, les ordinateurs portables depuis 2024.
+- Leur puissance se mesure en TOPS, des milliers de milliards d'opérations par seconde.
+- Les TPU de Google sont des accélérateurs du même type pour les centres de données.
 
 ---
 type: article
@@ -7038,6 +8210,9 @@ sources:
   - title: "Chiffrement par décalage"
     url: "https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage"
     publisher: "Wikipédia"
+  - title: "Vigenere cipher"
+    url: "https://britannica.com/topic/Vigenere-cipher"
+    publisher: "Encyclopaedia Britannica"
 quiz:
   - question: "De combien de rangs Jules César décalait-il les lettres ?"
     options:
@@ -7104,6 +8279,22 @@ Au 19e siècle, cette méthode a été attribuée par erreur au diplomate franç
 On l'a surnommé « le chiffre indéchiffrable ». Pourtant, il a une faiblesse : la clé se répète. Si un même morceau du message tombe deux fois sous les mêmes lettres de la clé, il donne deux fois le même morceau chiffré. L'écart entre ces répétitions révèle la longueur de la clé. On découpe ensuite le message en plusieurs petits chiffres de César, faciles à casser.
 
 Le savant Charles Babbage a cassé une variante de ce chiffre dès 1854, sans rien publier. En 1863, Friedrich Kasiski a publié la première méthode générale. Depuis, le chiffre de Vigenère n'offre plus aucune sécurité.
+
+```schema
+type: comparaison
+titre: César contre Vigenère
+colonnes:
+  - titre: César
+    points:
+      - Même décalage pour toutes les lettres
+      - 26 clés possibles
+      - Cassé par l'analyse des fréquences
+  - titre: Vigenère
+    points:
+      - Un mot-clé, un décalage différent par lettre
+      - Décrit par Bellaso en 1553
+      - Cassé par Kasiski en 1863
+```
 
 ## À retenir
 
@@ -7278,6 +8469,20 @@ Chaque bloc contient l'empreinte du bloc précédent, un horodatage et les donn�
 ## Énergie, usages et limites
 
 La preuve de travail consomme beaucoup d'énergie, alors que la preuve d'enjeu en consomme bien moins. La première chaîne de blocs décentralisée, conçue par Satoshi Nakamoto, a servi de base au Bitcoin. Les usages dépassent les cryptomonnaies : chaîne d'approvisionnement, droits musicaux, données de santé. L'impossibilité d'effacer une donnée pose des questions de protection des données, comme le droit à l'oubli du RGPD.
+
+```schema
+titre: Pourquoi modifier un ancien bloc est détectable
+type: etapes
+elements:
+  - titre: Une empreinte par bloc
+    texte: Elle change complètement si une lettre change.
+  - titre: Les blocs s'enchaînent
+    texte: Chaque bloc contient l'empreinte du précédent.
+  - titre: Modifier un ancien bloc
+    texte: Change son empreinte.
+  - titre: Chaîne à recalculer
+    texte: Les empreintes suivantes doivent être recalculées ; le consensus protège l’historique partagé.
+```
 
 ## À retenir
 
@@ -7689,6 +8894,24 @@ Enfin, l'antivirus peut lancer un programme douteux dans un bac à sable. C'est 
 En 1987, l'informaticien Fred Cohen a démontré qu'aucun algorithme ne peut détecter à coup sûr tous les virus possibles. La même année, Bernd Fix a été l'un des premiers à neutraliser un virus informatique réel.
 
 Les antivirus se trompent aussi dans l'autre sens. Un faux positif est une fausse alerte : un fichier sain est pris pour une menace. En 2022, Microsoft Defender a signalé à tort tous les navigateurs web basés sur Chromium. L'antivirus est donc une protection utile, mais il faut aussi faire les mises à jour et se méfier des pièces jointes inconnues.
+
+```schema
+type: systeme
+titre: Les méthodes d'un antivirus
+centre: Antivirus
+icone: shield
+parties:
+  - nom: Signatures
+    role: Comparer les fichiers aux empreintes connues.
+  - nom: Analyse du code
+    role: Repérer les menaces nouvelles.
+  - nom: Comportements
+    role: Surveiller ce que font les programmes.
+  - nom: Bac à sable
+    role: Tester un programme isolé.
+  - nom: Quarantaine
+    role: Isoler un fichier suspect.
+```
 
 ## À retenir
 
@@ -8284,6 +9507,19 @@ Plus on s'éloigne de la box, plus le signal faiblit. Les murs et les planchers 
 
 En 1999, la version 802.11b de la norme est approuvée. En 2000, les premiers appareils certifiés échangent jusqu'à 11 mégabits par seconde. Une association créée en 1999, devenue la Wi-Fi Alliance, vérifie que des appareils de marques différentes fonctionnent bien ensemble.
 
+```schema
+type: etapes
+titre: Le trajet des données en Wi-Fi
+elements:
+  - titre: Box
+    texte: Elle transforme les données en ondes radio.
+    icone: wifi
+  - titre: Ondes
+    texte: Autour de 2,4, 5 et 6 gigahertz.
+  - titre: Appareil
+    texte: Il retrouve les 0 et les 1.
+```
+
 ## À retenir
 
 - Le Wi-Fi transporte les données par des ondes radio, autour de 2,4, 5 et 6 gigahertz.
@@ -8606,6 +9842,18 @@ Comme ces satellites sont proches, le signal fait un trajet bien plus court. La 
 ## Les limites
 
 La pluie et l'humidité perturbent les ondes, surtout sur les fréquences les plus hautes. Les grandes constellations posent aussi des problèmes. Les astronomes s'inquiètent de la pollution lumineuse qu'elles créent. Et plus il y a de satellites, plus le risque de collisions et de débris dans l'espace augmente.
+
+```schema
+titre: Altitude des satellites internet
+legende: 'Altitudes illustratives : les constellations en orbite basse utilisent plusieurs altitudes.'
+type: barres
+unite: km
+valeurs:
+  - label: Orbite basse, Starlink
+    valeur: 550
+  - label: Géostationnaire
+    valeur: 35786
+```
 
 ## À retenir
 
@@ -9386,6 +10634,12 @@ sources:
   - title: "Tri fusion"
     url: "https://fr.wikipedia.org/wiki/Tri_fusion"
     publisher: "Wikipédia"
+  - title: "Tri Fusion"
+    url: "https://dept-info.labri.fr/ENSEIGNEMENT/algotab/cours/Tri-Fusion.pdf"
+    publisher: "LaBRI (Université de Bordeaux)"
+  - title: "trifusion"
+    url: "https://ufr-segmi.parisnanterre.fr/medias/fichier/trifusion__1190755500435.pdf"
+    publisher: "Université Paris Nanterre"
 quiz:
   - question: "À quoi ressemble le tri par insertion ?"
     options:
@@ -9455,6 +10709,20 @@ Pour une liste de 1 000 éléments en désordre, une méthode comme le tri par i
 Le tri rapide est une autre méthode très utilisée. Il est en général aussi rapide que le tri fusion, mais il peut devenir lent dans certains cas.
 
 Les informaticiens ont démontré qu'il existe une limite. Un algorithme qui trie en comparant les éléments deux à deux ne peut pas, en moyenne, faire beaucoup mieux que le tri fusion. Certains programmes combinent plusieurs méthodes : par exemple le tri par insertion pour les petits morceaux, et une méthode rapide pour le reste.
+
+```schema
+type: comparaison
+titre: Deux méthodes de tri
+colonnes:
+  - titre: Tri par insertion
+    points:
+      - Range les éléments un par un, comme des cartes
+      - Très lent sur de longues listes en désordre
+  - titre: Tri fusion
+    points:
+      - Coupe la liste en morceaux puis les fusionne
+      - Inventé par John von Neumann en 1945
+```
 
 ## À retenir
 
@@ -9841,18 +11109,144 @@ status: planned
 
 ---
 type: article
-title: Les langages de programmation compiles et interpretes, une distinction fondamentale
+title: Les langages de programmation compilés et interprétés, une distinction fondamentale
 slug: les-langages-de-programmation-compiles-et-interpretes-une-distinction-fondamentale
 categoryPath: micro-informatique-et-informatique/logiciel/programmation
 summary: >
-  Deux approches differentes de la maniere dont un ordinateur execute finalement le code ecrit.
-tags: [programmation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un processeur ne comprend que des instructions binaires. Pour exécuter un programme écrit en C,
+  Python ou JavaScript, il faut le traduire : d'un bloc à l'avance avec un compilateur, ou au fur et
+  à mesure avec un interpréteur. Ce choix influe sur la vitesse, la portabilité et le confort de travail.
+tags: [programmation]
+relatedArticles: [histoire-principes-langages-programmation, comment-un-programme-decide-t-il-quoi-faire-grace-aux-conditions-et-aux-boucles, le-role-du-noyau-dans-l-architecture-d-un-systeme-d-exploitation, algorithmes-et-complexite]
+sources:
+  - title: "Compilateur"
+    url: "https://fr.wikipedia.org/wiki/Compilateur"
+    publisher: "Wikipédia"
+  - title: "Interprète (informatique)"
+    url: "https://fr.wikipedia.org/wiki/Interpr%C3%A8te_(informatique)"
+    publisher: "Wikipédia"
+  - title: "Just-in-time compilation"
+    url: "https://en.wikipedia.org/wiki/Just-in-time_compilation"
+    publisher: "Wikipedia"
+  - title: "Bytecode"
+    url: "https://en.wikipedia.org/wiki/Bytecode"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait un compilateur ?"
+    options:
+      - "Il exécute le programme ligne par ligne"
+      - "Il traduit tout le programme en langage machine avant son exécution"
+      - "Il corrige automatiquement toutes les erreurs de logique"
+    answer: 2
+    explanation: >
+      Le compilateur produit un fichier exécutable que le processeur lancera directement, sans le code
+      source.
+  - question: "Quel est l'avantage principal d'un langage interprété ?"
+    options:
+      - "Il est toujours plus rapide"
+      - "On peut lancer et tester le code immédiatement, sans étape de compilation"
+      - "Il n'a besoin d'aucun programme pour fonctionner"
+    answer: 2
+    explanation: >
+      L'interpréteur lit et exécute le code directement, ce qui facilite l'essai et la mise au point.
+  - question: "Qu'est-ce que la compilation à la volée (JIT) ?"
+    options:
+      - "Une compilation faite pendant l'exécution, pour les parties du code les plus utilisées"
+      - "Une compilation faite une seule fois par an"
+      - "Une méthode pour effacer le code source"
+    answer: 1
+    explanation: >
+      Le moteur repère les portions souvent exécutées et les traduit en code machine pendant que le
+      programme tourne.
+  - question: "Pourquoi un programme Java peut-il tourner sur des systèmes différents sans être recompilé pour chacun ?"
+    options:
+      - "Parce qu'il est interprété ligne par ligne, sans aucune traduction préalable."
+      - "Parce qu'il est traduit en langage machine propre à chaque processeur au moment de l'écriture."
+      - "Parce qu'il est compilé en bytecode indépendant du processeur, qu'une machine virtuelle exécute sur chaque système."
+    answer: 3
+    explanation: "Java est compilé vers un bytecode indépendant du processeur. Une machine virtuelle l'exécute sur chaque système, ce qui apporte la portabilité."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un **processeur** n'exécute que du **langage machine**, une suite d'instructions binaires propre à son
+architecture. Les programmeurs, eux, écrivent dans des **langages** lisibles par des humains : C, Rust,
+Java, Python, JavaScript. Il faut donc **traduire**. Deux grandes approches existent. Le **compilateur**
+traduit tout le programme **à l'avance** et produit un fichier exécutable. L'**interpréteur** lit le
+programme et l'exécute **au fur et à mesure**. Dans la pratique, la plupart des langages modernes
+mélangent les deux.
+
+## La compilation, traduire à l'avance
+
+Le compilateur lit l'ensemble du code source, vérifie qu'il est correct, l'optimise et produit un
+**exécutable** en langage machine. On distribue ensuite cet exécutable, que le processeur lance
+directement. C, C++, Rust ou Go fonctionnent ainsi.
+
+- **Avantages** : des programmes **rapides**, car la traduction est faite une fois pour toutes et
+  optimisée ; de nombreuses erreurs repérées **avant** l'exécution.
+- **Inconvénients** : il faut recompiler après chaque modification, et l'exécutable dépend du
+  processeur et du système : un programme compilé pour Windows sur processeur Intel ne tourne pas tel
+  quel sur un Mac à puce Apple.
+
+## L'interprétation, traduire au fil de l'eau
+
+L'interpréteur lit le code source et exécute chaque instruction au moment où il la rencontre. Python,
+Ruby ou les scripts shell sont traditionnellement interprétés.
+
+- **Avantages** : on lance le code **immédiatement**, on teste une ligne dans une console, on corrige et
+  on relance ; le même code tourne partout où l'interpréteur est installé.
+- **Inconvénients** : l'exécution est en général **plus lente**, puisque le travail de traduction se
+  refait à chaque exécution, et certaines erreurs n'apparaissent qu'au moment où la ligne fautive est
+  atteinte.
+
+```schema
+titre: Compiler ou interpréter
+legende: Les approches peuvent se combiner ; la compilation à la volée en est un exemple.
+type: comparaison
+colonnes:
+  - titre: Compilé
+    icone: gear
+    points:
+      - Traduction préalable en code machine ou en représentation intermédiaire.
+      - L’exécutable dépend de la cible choisie.
+      - C, C++, Rust et Go sont couramment compilés.
+  - titre: Interprété
+    icone: book
+    points:
+      - Exécution par un moteur adapté.
+      - Peut aussi passer par un code intermédiaire compilé.
+      - Python, Ruby et les shells utilisent couramment ces mécanismes.
+```
+
+## Les solutions intermédiaires
+
+- **Le bytecode et la machine virtuelle** : Java et C# sont compilés vers un code intermédiaire, le
+  **bytecode**, indépendant du processeur. Une **machine virtuelle** l'exécute ensuite sur chaque
+  système. On obtient la portabilité de l'interprétation avec une partie de la vitesse de la compilation.
+- **La compilation à la volée**, ou *JIT* : la machine virtuelle observe le programme pendant qu'il
+  tourne et compile en code machine les parties les plus utilisées. Les moteurs **JavaScript** des
+  navigateurs fonctionnent ainsi, ce qui les rend bien plus rapides qu'un simple interpréteur.
+- Python lui-même compile d'abord le code en bytecode avant de l'interpréter.
+
+C'est pourquoi on parle plutôt d'**implémentations** compilées ou interprétées que de langages : un même
+langage peut avoir les deux.
+
+## Comment choisir
+
+On privilégie la compilation quand la **performance** compte : systèmes d'exploitation, jeux vidéo,
+logiciels embarqués, calcul scientifique intensif. On apprécie l'interprétation pour **prototyper**,
+automatiser des tâches, analyser des données ou apprendre à programmer. Beaucoup de projets combinent
+les deux : une interface en Python qui appelle des bibliothèques rapides écrites en C.
+
+## À retenir
+
+- Le processeur ne comprend que le langage machine : tout programme doit être traduit.
+- Le compilateur traduit tout à l'avance et produit un exécutable rapide, propre à un système.
+- L'interpréteur traduit au fil de l'exécution, ce qui permet de tester immédiatement.
+- Le bytecode, les machines virtuelles et la compilation à la volée combinent les deux approches.
+- On choisit selon le besoin : la vitesse d'exécution ou la rapidité de développement.
 
 ---
 type: article
@@ -10261,18 +11655,149 @@ status: planned
 
 ---
 type: article
-title: Le role du noyau dans l'architecture d'un systeme d'exploitation
+title: Le rôle du noyau dans l'architecture d'un système d'exploitation
 slug: le-role-du-noyau-dans-l-architecture-d-un-systeme-d-exploitation
 categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
 summary: >
-  Le coeur du systeme qui gere directement les interactions les plus fondamentales avec le materiel.
-tags: [systemes-d-exploitation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Au cœur de Windows, macOS, Linux ou Android se trouve le noyau, le programme qui gère le
+  processeur, la mémoire et les périphériques. Il partage les ressources entre les applications et
+  les protège les unes des autres. Sa conception influence la stabilité et la sécurité de tout le système.
+tags: [systemes-d-exploitation]
+relatedArticles: [histoire-principes-systemes-exploitation, comment-un-ordinateur-demarre-t-il-quand-on-appuie-sur-le-bouton, algorithmes-et-complexite, remettre-marche-vieil-ordinateur]
+sources:
+  - title: "Noyau de système d'exploitation"
+    url: "https://fr.wikipedia.org/wiki/Noyau_de_syst%C3%A8me_d%27exploitation"
+    publisher: "Wikipédia"
+  - title: "Kernel (operating system)"
+    url: "https://en.wikipedia.org/wiki/Kernel_(operating_system)"
+    publisher: "Wikipedia"
+  - title: "System call"
+    url: "https://en.wikipedia.org/wiki/System_call"
+    publisher: "Wikipedia"
+  - title: "Microkernel"
+    url: "https://en.wikipedia.org/wiki/Microkernel"
+    publisher: "Wikipedia"
+  - title: "Systèmes d'exploitation, informatique : structure d'un système d'exploitation"
+    url: "https://www.universalis.fr/encyclopedie/systemes-d-exploitation-informatique/1-structure-d-un-systeme-d-exploitation/"
+    publisher: "Encyclopædia Universalis"
+quiz:
+  - question: "Quel est le rôle principal du noyau ?"
+    options:
+      - "Afficher le fond d'écran"
+      - "Gérer le processeur, la mémoire et les périphériques, et les partager entre les programmes"
+      - "Naviguer sur Internet"
+    answer: 2
+    explanation: >
+      Le noyau est l'intermédiaire entre le matériel et les applications, et l'arbitre qui partage les
+      ressources.
+  - question: "Comment une application demande-t-elle au noyau d'écrire un fichier ?"
+    options:
+      - "Par un appel système"
+      - "En accédant directement au disque"
+      - "En redémarrant l'ordinateur"
+    answer: 1
+    explanation: >
+      Les applications n'ont pas accès direct au matériel : elles passent par des appels système que le
+      noyau vérifie et exécute.
+  - question: "Pourquoi un programme qui plante ne fait-il pas planter tout l'ordinateur, en général ?"
+    options:
+      - "Parce que le noyau isole chaque programme dans son propre espace de mémoire"
+      - "Parce que les programmes ne plantent jamais"
+      - "Parce que l'écran se met en veille"
+    answer: 1
+    explanation: >
+      Chaque processus a sa mémoire protégée : une erreur dans l'un ne peut pas écraser les autres ni le
+      noyau.
+  - question: "Pourquoi un pilote défaillant peut-il faire tomber tout le système avec un noyau monolithique ?"
+    options:
+      - "Parce que les applications peuvent écrire directement dans la mémoire du pilote."
+      - "Parce que les pilotes fonctionnent en mode noyau, dans le même grand programme."
+      - "Parce que le pilote empêche l'ordonnanceur de donner du temps aux autres programmes."
+    answer: 2
+    explanation: "Dans un noyau monolithique, pilotes et systèmes de fichiers tournent en mode noyau, avec tous les droits. Une erreur dans l'un d'eux arrête donc tout le système."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un **système d'exploitation** comme Windows, macOS, Linux, Android ou iOS comprend beaucoup de choses :
+interface graphique, outils, pilotes. Mais au centre se trouve le **noyau**, en anglais *kernel*. C'est
+le premier programme chargé au démarrage et le seul qui commande directement le **matériel**. Il
+partage le **processeur**, la **mémoire** et les **périphériques** entre les applications, et les
+**protège** les unes des autres. Les applications ne touchent jamais le matériel elles-mêmes : elles
+demandent au noyau, par des **appels système**.
+
+## Les quatre grandes missions
+
+```schema
+type: systeme
+titre: Les missions du noyau
+legende: Le noyau est l'intermédiaire obligé entre les applications et le matériel.
+centre: Noyau
+icone: chip
+parties:
+  - nom: Processus
+    role: Partager le temps de processeur
+    icone: hourglass
+  - nom: Mémoire
+    role: Attribuer et protéger la mémoire vive
+    icone: cube
+  - nom: Fichiers
+    role: Organiser les données sur les disques
+    icone: book
+  - nom: Périphériques
+    role: Piloter clavier, écran, réseau via les pilotes
+    icone: monitor
+  - nom: Sécurité
+    role: Vérifier les droits de chaque demande
+    icone: lock
+```
+
+- **Les processus** : un processeur ne peut exécuter que quelques programmes à la fois, un par cœur. Le
+  noyau fait alterner des dizaines de programmes en leur donnant chacun de minuscules **tranches de
+  temps**, quelques millisecondes : c'est l'**ordonnanceur**. L'utilisateur a l'impression que tout
+  tourne en même temps.
+- **La mémoire** : le noyau attribue à chaque programme son propre espace de mémoire, une **mémoire
+  virtuelle**, et l'empêche de lire ou d'écrire dans celle des autres.
+- **Les fichiers** : il organise les données sur le disque en fichiers et dossiers et contrôle qui a le
+  droit de les lire ou de les modifier.
+- **Les périphériques** : grâce aux **pilotes**, il dialogue avec le clavier, l'écran, la carte réseau ou
+  l'imprimante, et présente aux applications une interface uniforme.
+
+## Deux niveaux de privilège
+
+Le processeur distingue deux modes. Le **mode noyau** permet tout : accès au matériel et à toute la
+mémoire. Le **mode utilisateur**, celui des applications, est restreint. Quand une application veut lire
+un fichier, envoyer des données sur le réseau ou afficher une fenêtre, elle fait un **appel système** : le
+processeur bascule en mode noyau, le noyau vérifie que la demande est autorisée, l'exécute, puis rend la
+main. Cette séparation explique qu'un programme défaillant plante seul, sans emporter tout l'ordinateur.
+Une erreur dans le noyau lui-même, en revanche, arrête tout : c'est l'« écran bleu » de Windows ou la
+« panique du noyau » sous Linux et macOS.
+
+## Monolithique ou micronoyau
+
+- **Le noyau monolithique** regroupe presque tout, pilotes et systèmes de fichiers compris, dans un seul
+  grand programme en mode noyau. Il est rapide, mais un pilote défaillant peut faire tomber le système.
+  **Linux** en est l'exemple le plus connu.
+- **Le micronoyau** ne garde en mode noyau que l'essentiel, et fait tourner pilotes et services comme des
+  programmes ordinaires. Plus robuste et plus sûr, il est souvent un peu plus lent. On le trouve dans des
+  systèmes embarqués critiques, comme QNX.
+- **Les noyaux hybrides**, comme ceux de Windows et de macOS, mélangent les deux approches.
+
+## Linux, un noyau partout
+
+Créé en 1991 par l'étudiant finlandais **Linus Torvalds**, le noyau Linux est un logiciel libre développé
+par des milliers de contributeurs. Il fait tourner la grande majorité des serveurs d'Internet, les
+supercalculateurs, de nombreux objets connectés et, sous une forme adaptée, les téléphones **Android**.
+
+## À retenir
+
+- Le noyau est le cœur du système d'exploitation, seul à commander directement le matériel.
+- Il partage le processeur, attribue la mémoire, gère les fichiers et pilote les périphériques.
+- Les applications passent par des appels système, en mode utilisateur restreint.
+- Cette séparation isole les programmes : une application qui plante n'emporte pas le système.
+- Noyaux monolithiques, micronoyaux et hybrides font des compromis différents entre vitesse et robustesse.
 
 ---
 type: article
@@ -11263,6 +12788,21 @@ Tous les processeurs modernes se protègent. Si leur température dépasse une l
 
 Avec le temps, la poussière s'accumule dans les ailettes et le ventilateur. Elle agit comme une couverture : elle isole la chaleur et bloque le passage de l'air. Un ordinateur portable rempli de poussière peut se mettre à s'éteindre souvent à cause de la chaleur. Le nettoyer régulièrement l'aide à rester rapide et à durer plus longtemps.
 
+```schema
+type: etapes
+titre: Le trajet de la chaleur
+elements:
+  - titre: Processeur
+    texte: Le courant produit de la chaleur.
+    icone: chip
+  - titre: Dissipateur
+    texte: Ses ailettes en métal transmettent la chaleur à l'air.
+  - titre: Ventilateur
+    texte: Il pousse l'air à travers les ailettes.
+  - titre: Hors du boîtier
+    texte: L'air chaud est évacué.
+```
+
 ## À retenir
 
 - Le courant qui traverse le processeur et la puce graphique produit de la chaleur.
@@ -11270,100 +12810,6 @@ Avec le temps, la poussière s'accumule dans les ailettes et le ventilateur. Ell
 - Le ventilateur pousse l'air à travers les ailettes pour évacuer la chaleur plus vite.
 - Un processeur trop chaud ralentit de lui-même ou l'ordinateur s'éteint pour se protéger.
 - La poussière isole et bloque l'air : il faut nettoyer l'ordinateur de temps en temps.
-
----
-type: article
-title: Pourquoi une carte graphique calcule-t-elle si vite des millions de pixels ?
-slug: pourquoi-une-carte-graphique-calcule-t-elle-si-vite-des-millions-de-pixels
-categoryPath: micro-informatique-et-informatique/materiel/processeurs
-summary: >
-  Un processeur graphique, ou GPU, contient des centaines ou des milliers de petites unités de
-  calcul. Elles font toutes le même genre de calcul en même temps, ce qui est idéal pour les
-  pixels d'une image. Cette force sert aussi aujourd'hui à entraîner des intelligences
-  artificielles.
-tags: [processeurs]
-sources:
-  - title: "Processeur graphique"
-    url: "https://fr.wikipedia.org/wiki/Processeur_graphique"
-    publisher: "Wikipédia"
-  - title: "Graphics processing unit"
-    url: "https://en.wikipedia.org/wiki/Graphics_processing_unit"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Que contient un processeur graphique moderne ?"
-    options:
-      - "Une seule unité de calcul très lente"
-      - "Des centaines ou des milliers d'unités de calcul"
-      - "Uniquement de la mémoire"
-    answer: 2
-    explanation: >
-      Un GPU moderne possède des centaines, voire des milliers d'unités de calcul qui
-      travaillent en même temps.
-  - question: "Combien de pixels compte un écran de 1 920 sur 1 080 ?"
-    options:
-      - "Environ 2 millions"
-      - "Environ 2 000"
-      - "Environ 2 milliards"
-    answer: 1
-    explanation: >
-      1 920 multiplié par 1 080 donne 2 073 600 pixels, soit environ 2 millions.
-  - question: "Quelle entreprise a présenté CUDA en 2007 ?"
-    options:
-      - "Sony"
-      - "Apple"
-      - "Nvidia"
-    answer: 3
-    explanation: >
-      Nvidia a présenté CUDA en 2007. Ce fut le premier moyen très utilisé pour programmer
-      un GPU pour d'autres calculs que l'image.
-  - question: "Pour quel usage, en dehors des jeux, utilise-t-on beaucoup les GPU ?"
-    options:
-      - "Pour imprimer des documents"
-      - "Pour entraîner des réseaux de neurones"
-      - "Pour refroidir l'ordinateur"
-    answer: 2
-    explanation: >
-      Depuis les années 2010, les GPU servent à des calculs faciles à découper en
-      morceaux, comme l'entraînement des réseaux de neurones.
-lastVerified: 2026-10-09
-status: published
----
-
-## En bref
-
-Un processeur graphique, ou GPU, contient des centaines ou des milliers de petites unités de calcul. Elles font toutes le même genre de calcul en même temps, ce qui est idéal pour les pixels d'une image. Cette force sert aussi aujourd'hui à entraîner des intelligences artificielles.
-
-## Une montagne de petits calculs
-
-Un écran de 1 920 sur 1 080 pixels contient environ 2 millions de pixels. Dans un jeu vidéo, l'ordinateur doit calculer la couleur de chacun d'eux, puis recommencer pour chaque nouvelle image. Chaque calcul est assez simple, mais il y en a énormément.
-
-Le processeur principal d'un ordinateur, le CPU, possède quelques cœurs très puissants. Ils savent tout faire, mais ils ne sont pas assez nombreux pour ce travail. C'est pourquoi les ordinateurs ont un processeur graphique, ou GPU. C'est un circuit spécialisé dans le calcul des images.
-
-## Mille ouvriers plutôt qu'un génie
-
-Un GPU moderne contient des centaines, voire des milliers d'unités de calcul. Chacune est plus simple qu'un cœur de CPU. Mais elles travaillent toutes en même temps, chacune sur un petit morceau de l'image. C'est ce qu'on appelle le calcul parallèle.
-
-Imagine qu'il faut colorier un grand mur de carreaux. Un peintre très habile irait vite, mais un carreau à la fois. Mille peintres débutants, chacun devant son carreau, finiraient bien avant lui. Le GPU, ce sont les mille peintres.
-
-Pour mesurer la puissance d'un GPU, on compte le nombre d'opérations qu'il fait par seconde. On l'exprime souvent en téraflops, c'est-à-dire en milliers de milliards d'opérations par seconde.
-
-## Un nom apparu dans les années 1990
-
-Les premiers processeurs graphiques des années 1990 savaient tracer des lignes et du texte sans l'aide du processeur principal. Sony a utilisé le sigle GPU en 1994 pour la puce de sa console PlayStation. En 1999, Nvidia l'a employé pour sa carte GeForce 256.
-
-## Bien plus que des jeux
-
-Beaucoup d'autres problèmes se découpent, eux aussi, en milliers de petits calculs identiques. En 2007, l'entreprise Nvidia a présenté CUDA, un outil qui permet de programmer un GPU pour autre chose que des images. Ce fut le premier outil de ce type à être très utilisé.
-
-Depuis les années 2010, les GPU servent à entraîner des réseaux de neurones, la technique au cœur de l'intelligence artificielle moderne. Ils servent aussi au minage de bitcoins. Pour ces tâches, un GPU peut être des centaines de fois plus rapide qu'un processeur classique.
-
-## À retenir
-
-- Un processeur graphique, ou GPU, est un circuit spécialisé dans le calcul des images.
-- Il contient des centaines ou des milliers d'unités de calcul qui travaillent en même temps.
-- Ce calcul parallèle convient aux images, faites de millions de pixels à calculer de la même façon.
-- En 2007, Nvidia a présenté CUDA pour programmer les GPU pour d'autres usages.
-- Depuis les années 2010, les GPU servent beaucoup à entraîner des intelligences artificielles.
 
 ---
 type: article
@@ -12709,6 +14155,21 @@ Un sel est une donnée aléatoire ajoutée au mot de passe avant le hachage. Il 
 
 Il faut utiliser un algorithme volontairement lent, comme Argon2id, scrypt ou bcrypt, pour ralentir ceux qui essaient énormément de mots de passe. Les fonctions de hachage rapides ne conviennent pas pour stocker des mots de passe, car elles permettent à un attaquant d'essayer très vite. Ralentir chaque essai rend l'attaque par force brute bien plus chère : l'utilisateur ne calcule qu'une fois à la connexion, l'attaquant le fait à chaque essai. On règle le coût du calcul, par exemple le nombre d'itérations, et on l'augmente avec le temps, car la puissance des ordinateurs grandit. Argon2, vainqueur d'un concours public de hachage de mots de passe, est conçu pour utiliser beaucoup de mémoire, ce qui gêne les attaques sur du matériel spécialisé.
 
+```schema
+type: etapes
+titre: Ce que fait un site sérieux de votre mot de passe
+elements:
+  - titre: Ajouter un sel
+    texte: Une donnée aléatoire, unique pour chaque utilisateur.
+  - titre: Hacher lentement
+    texte: Argon2id, scrypt ou bcrypt.
+  - titre: Garder l'empreinte
+    texte: Jamais le mot de passe lui-même.
+    icone: lock
+  - titre: Comparer
+    texte: À la connexion, on recalcule et on compare les empreintes.
+```
+
 ## À retenir
 
 - Une fonction de hachage cryptographique est à sens unique : facile à calculer, mais pratiquement impossible à inverser.
@@ -12739,6 +14200,9 @@ sources:
   - title: "Cryptographie asymétrique"
     url: "https://fr.wikipedia.org/wiki/Cryptographie_asym%C3%A9trique"
     publisher: "Wikipédia"
+  - title: "Cryptographie RSA et factorisation"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/archives-th12/archives-reseaux-et-telecommunications-tiate/archive-1/rsa-la-fin-des-cles-de-768-bits-in131/cryptographie-rsa-et-factorisation-in131niv10001.html"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Quelle clé peut-on diffuser librement ?"
     options:
@@ -12799,6 +14263,19 @@ Les algorithmes asymétriques sont plus lents que les symétriques : on s'en ser
 ## Une menace à l'horizon
 
 Un ordinateur quantique assez puissant pourrait casser RSA grâce à l'algorithme de Shor.
+
+```schema
+type: etapes
+titre: RSA dans la pratique
+elements:
+  - titre: Clé publique
+    texte: Elle sert à chiffrer une clé symétrique.
+  - titre: Clé privée
+    texte: Seul son détenteur récupère cette clé.
+    icone: lock
+  - titre: Clé symétrique
+    texte: Plus rapide, elle chiffre ensuite les données.
+```
 
 ## À retenir
 
@@ -12915,6 +14392,22 @@ Le SSD est bien plus rapide, avec un temps d'accès beaucoup plus court. Sans pi
 
 Les cellules de mémoire flash supportent un nombre limité d'écritures : le SSD s'use. Le SSD coûte plus cher par gigaoctet, alors que le disque dur reste moins cher pour de très grandes capacités. Les SSD remplacent de plus en plus les disques durs, surtout pour les petites capacités.
 
+```schema
+type: comparaison
+titre: SSD ou disque dur
+colonnes:
+  - titre: Disque dur
+    points:
+      - Plateaux magnétiques qui tournent
+      - Plus fragile aux chocs
+      - Moins cher par gigaoctet
+  - titre: SSD
+    points:
+      - Mémoire flash, aucune pièce mobile
+      - Bien plus rapide et silencieux
+      - Plus cher par gigaoctet
+```
+
 ## À retenir
 
 - Un disque dur stocke les données sur des plateaux magnétiques qui tournent, lus et écrits par des têtes qui flottent juste au-dessus.
@@ -12972,6 +14465,9 @@ sources:
   - title: "Raster graphics"
     url: "https://en.wikipedia.org/wiki/Raster_graphics"
     publisher: "Wikipedia"
+  - title: "Profondeur de couleur"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26507029/profondeur-de-couleur"
+    publisher: "Office québécois de la langue française"
 quiz:
   - question: "Que signifie pixel ?"
     options:
@@ -13026,6 +14522,19 @@ La profondeur de couleur dit combien de bits décrivent chaque pixel : 1 bit pou
 ## Agrandir, vectoriser, compresser
 
 Une image matricielle perd en qualité quand on l'agrandit : les pixels deviennent visibles. Une image vectorielle, elle, est décrite par des formules mathématiques et peut être agrandie sans perte. On réduit la taille des fichiers par compression : sans perte, comme PNG, ou avec perte, comme JPEG. Sur le web, le pixel CSS est séparé des pixels physiques de l'écran, pour que l'affichage reste cohérent sur tous les appareils.
+
+```schema
+titre: Les repères du pixel
+legende: >-
+  Exemple courant d’affichage RVB ; la disposition des sous-pixels et la profondeur de couleur
+  peuvent varier.
+type: chiffres
+chiffres:
+  - valeur: 3 sous-pixels
+    texte: rouge, vert et bleu sur un écran
+  - valeur: 24 bits
+    texte: par pixel pour environ 16,7 millions de couleurs
+```
 
 ## À retenir
 
@@ -13142,6 +14651,21 @@ RISC-V est une architecture de jeu d'instructions ouverte et libre, créée à l
 
 Une organisation à but non lucratif de droit suisse, RISC-V International, maintient le standard. Elle réunit de nombreux acteurs, dont Google, Nvidia et Alibaba. On l'utilise surtout dans les microcontrôleurs, les systèmes embarqués, les accélérateurs d'IA, des serveurs et même l'espace avec le processeur NOEL-V de l'ESA. Elle représente aussi pour certains pays une alternative aux architectures contrôlées par les États-Unis ou le Royaume-Uni. L'Union européenne finance le développement de processeurs RISC-V pour les supercalculateurs et les centres de données.
 
+```schema
+type: comparaison
+titre: Architectures de processeur
+colonnes:
+  - titre: RISC-V
+    points:
+      - Spécifications ouvertes et libres
+      - Pas de licence payante
+      - Base modulaire avec extensions
+  - titre: ARM et x86
+    points:
+      - Architectures propriétaires
+      - Utilisation sous licence
+```
+
 ## À retenir
 
 - Une architecture de jeu d'instructions, ou ISA, définit les instructions qu'un processeur peut exécuter : c'est l'interface entre le logiciel et le matériel.
@@ -13169,6 +14693,12 @@ sources:
   - title: "Qubit"
     url: "https://en.wikipedia.org/wiki/Qubit"
     publisher: "Wikipedia"
+  - title: "Défis du CEA : infographie processeur quantique élémentaire"
+    url: "https://irig.cea.fr/multimedia/Documents/infographies/defis-du-cea-infographie-processeur-quantique-elementaire214.pdf"
+    publisher: "CEA"
+  - title: "Superconducting quantum computers"
+    url: "https://cordis.europa.eu/article/id/83207-superconducting-quantum-computers/fr"
+    publisher: "CORDIS (Commission européenne)"
 quiz:
   - question: "Qu'est-ce qu'un qubit ?"
     options:
@@ -13225,6 +14755,25 @@ Un qubit supraconducteur est un circuit électronique supraconducteur, avec des 
 
 Les qubits perdent leur état quantique rapidement : c'est la décohérence, et les opérations produisent des erreurs. Pour obtenir des calculs fiables, il faut des codes de correction d'erreurs quantiques, qui demandent beaucoup de qubits physiques par qubit utile. Google a annoncé avoir atteint la suprématie quantique avec son processeur Sycamore, à qubits supraconducteurs. Les processeurs supraconducteurs ont déjà atteint un très grand nombre de qubits physiques, comme le Condor d'IBM.
 
+```schema
+titre: Un processeur quantique supraconducteur
+type: systeme
+centre: Qubit supraconducteur
+icone: atom
+parties:
+  - nom: Superposition
+    role: Combinaison quantique des états 0 et 1 ; la mesure dans cette base donne l’un des deux.
+  - nom: Jonctions Josephson
+    role: Circuits supraconducteurs gravés sur une puce.
+  - nom: Réfrigérateur à dilution
+    role: Très près du zéro absolu.
+    icone: snowflake
+  - nom: Impulsions micro-ondes
+    role: Elles pilotent l'état des qubits.
+  - nom: Décohérence
+    role: L'état quantique se perd vite et crée des erreurs.
+```
+
 ## À retenir
 
 - Un qubit, ou bit quantique, peut être dans une superposition de 0 et de 1 ; quand on le mesure, on obtient 0 ou 1.
@@ -13232,3 +14781,172 @@ Les qubits perdent leur état quantique rapidement : c'est la décohérence, et 
 - Ces circuits sont refroidis dans des réfrigérateurs à dilution, à une température très proche du zéro absolu.
 - On les pilote avec des impulsions micro-ondes, qui font tourner l'état d'un qubit.
 - Les qubits perdent leur état quantique rapidement : c'est la décohérence, et les opérations produisent des erreurs.
+
+---
+type: article
+title: ASML et la lithographie extrême ultraviolet
+slug: asml-lithographie-euv
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Pour graver les puces les plus fines, il faut une lumière de 13,5 nanomètres de longueur
+  d'onde. Une seule entreprise au monde, le néerlandais ASML, sait construire les machines qui la
+  produisent. Chacune coûte des centaines de millions d'euros.
+tags: [processeurs]
+relatedArticles: [fabrique-puce, tsmc-geopolitique-puces, loi-moore, gravure-2-nanometres-tsmc]
+sources:
+  - title: "ASML Holding"
+    url: "https://fr.wikipedia.org/wiki/ASML_Holding"
+    publisher: "Wikipédia"
+  - title: "Extreme ultraviolet lithography"
+    url: "https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography"
+    publisher: "Wikipedia"
+  - title: "EUV lithography systems"
+    url: "https://www.asml.com/en/products/euv-lithography-systems"
+    publisher: "ASML"
+  - title: "Photolithographie"
+    url: "https://fr.wikipedia.org/wiki/Photolithographie"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi utilise-t-on une lumière de très courte longueur d'onde pour graver les puces ?"
+    options:
+      - "Parce qu'on ne peut pas dessiner de détail plus fin qu'environ la longueur d'onde de la lumière utilisée"
+      - "Parce qu'elle est moins chère"
+      - "Parce qu'elle est visible à l'œil nu"
+    answer: 1
+    explanation: >
+      Plus la longueur d'onde est courte, plus les détails dessinés peuvent être fins. L'EUV,
+      à 13,5 nm, est environ quatorze fois plus courte que la lumière ultraviolette de 193 nm.
+  - question: "Comment une machine EUV produit-elle sa lumière ?"
+    options:
+      - "Avec une ampoule très puissante"
+      - "En frappant au laser de minuscules gouttes d'étain, qui deviennent un plasma"
+      - "Grâce au soleil"
+    answer: 2
+    explanation: >
+      Des dizaines de milliers de gouttelettes d'étain par seconde sont pulvérisées par un laser.
+      Le plasma très chaud ainsi formé émet de la lumière à 13,5 nm.
+  - question: "Pourquoi la lumière EUV doit-elle voyager dans le vide ?"
+    options:
+      - "Pour aller plus vite"
+      - "Pour rester froide"
+      - "Parce que l'air, et même le verre, l'absorbent"
+    answer: 3
+    explanation: >
+      L'EUV est absorbé par presque toutes les matières. La machine fonctionne sous vide et
+      utilise des miroirs au lieu de lentilles.
+  - question: "Quel avantage l'EUV apporte-t-il par rapport à la lumière de 193 nm utilisée avec plusieurs passes ?"
+    options:
+      - "Elle dessine les motifs les plus fins en une seule fois, alors que chaque passe supplémentaire coûte du temps et augmente les risques de défauts."
+      - "Elle permet de se passer du masque, ce qui réduit fortement le coût des machines."
+      - "Elle peut traverser les lentilles en verre, ce qui rend les machines plus simples à construire."
+    answer: 1
+    explanation: "Avec le 193 nm, il faut exposer en plusieurs passes pour descendre très bas, ce qui coûte du temps et risque des défauts. L'EUV, bien plus courte, fait le même travail en une seule fois."
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Graver un transistor de quelques nanomètres demande une lumière à très courte longueur d'onde. La
+**lithographie extrême ultraviolet**, ou EUV, utilise une lumière de 13,5 nanomètres. Une seule
+entreprise au monde fabrique les machines capables de la produire et de la diriger : **ASML**,
+installée à Veldhoven, aux Pays-Bas. Sans elle, ni TSMC, ni Samsung, ni Intel ne pourraient
+produire les puces les plus avancées. C'est l'un des goulets d'étranglement les plus étroits de
+l'économie mondiale.
+
+## Pourquoi la longueur d'onde compte
+
+La lithographie projette l'image d'un circuit sur une résine photosensible, comme un projecteur de
+diapositives qui réduirait l'image. Mais la lumière ne peut pas dessiner nettement des détails
+beaucoup plus petits que sa propre longueur d'onde : au-delà, l'image devient floue.
+
+Pendant des décennies, l'industrie a raccourci la longueur d'onde utilisée : 436 nm, puis 365 nm,
+248 nm et enfin 193 nm, avec un laser ultraviolet. Grâce à des astuces, comme l'immersion de la
+plaque dans l'eau et l'exposition en plusieurs passes, ce 193 nm a permis de descendre très bas.
+Mais chaque passe supplémentaire coûte du temps et augmente les risques de défauts. L'EUV, quatorze
+fois plus courte, permet de dessiner les motifs les plus fins en une seule fois.
+
+```schema
+titre: Des lumières de plus en plus courtes
+legende: Longueurs d'onde successives de la lithographie, en nanomètres.
+type: barres
+unite: nm
+valeurs:
+  - label: Violet, raie g
+    valeur: 436
+  - label: Proche ultraviolet, raie i
+    valeur: 365
+  - label: Laser ultraviolet
+    valeur: 248
+  - label: Laser à 193 nm
+    valeur: 193
+  - label: EUV
+    valeur: 13.5
+```
+
+## Une machine hors norme
+
+Produire et maîtriser une lumière EUV est un exploit technique.
+
+- **La source** : des gouttelettes d'étain d'environ 25 micromètres tombent à raison de dizaines
+  de milliers par seconde. Un laser puissant frappe chacune deux fois. Elle se transforme en un
+  plasma bien plus chaud que la surface du Soleil, qui émet la lumière à 13,5 nm.
+- **Le vide** : l'air, l'eau et même le verre absorbent cette lumière. Toute la machine fonctionne
+  sous vide.
+- **Les miroirs** : pas de lentilles possibles. La lumière est guidée par des miroirs formés de
+  dizaines de couches alternées de molybdène et de silicium, fabriqués par l'allemand Zeiss. Ils
+  comptent parmi les surfaces les plus lisses jamais fabriquées.
+- **La précision** : la plaque et le masque se déplacent à grande vitesse, et chaque couche doit
+  se superposer à la précédente à quelques nanomètres près.
+
+Une machine EUV pèse environ 150 tonnes. ASML indique qu'elle voyage en pièces détachées dans
+40 conteneurs, à bord de plusieurs avions-cargos. Une machine coûte de l'ordre de 150 à
+200 millions d'euros ; la nouvelle génération dite *High-NA*, à plus forte ouverture, dépasse
+300 millions.
+
+```schema
+type: etapes
+titre: Le trajet de la lumière dans une machine EUV
+elements:
+  - titre: Gouttes d'étain
+    texte: Des dizaines de milliers par seconde.
+  - titre: Laser
+    texte: Chaque goutte devient un plasma qui émet à 13,5 nm.
+    icone: bolt
+  - titre: Miroirs sous vide
+    texte: L'EUV est absorbé par l'air et le verre.
+  - titre: Masque
+    texte: Il porte le motif du circuit.
+  - titre: Plaque
+    texte: Le motif réduit s'imprime dans la résine.
+    icone: chip
+```
+
+## Trente ans de développement
+
+ASML est née en 1984 d'une coentreprise entre le néerlandais Philips et ASM International.
+Les recherches sur l'EUV commencent dans les années 1990, avec des laboratoires américains, Intel
+et des consortiums européens. Beaucoup d'acteurs abandonnent devant les difficultés. ASML persiste,
+avec l'argent de ses grands clients, dont Intel, TSMC et Samsung, qui prennent des parts dans
+l'entreprise en 2012 pour financer le projet. Les premières puces produites en série avec l'EUV
+sortent vers 2019.
+
+La réussite repose sur un réseau de fournisseurs uniques : Zeiss pour l'optique, Trumpf pour le
+laser, et des centaines d'entreprises spécialisées.
+
+## Un enjeu géopolitique
+
+Comme personne d'autre ne sait construire ces machines, leur exportation est un levier
+stratégique. Depuis 2019, le gouvernement néerlandais n'accorde pas de licence d'exportation des
+machines EUV vers la Chine, et depuis 2023 il restreint aussi la vente de certaines machines de
+lithographie à 193 nm parmi les plus avancées. La Chine cherche à développer ses propres
+équipements, mais l'écart technologique reste important.
+
+## À retenir
+
+- La lithographie EUV utilise une lumière de 13,5 nm pour dessiner les motifs les plus fins des puces.
+- ASML, aux Pays-Bas, est le seul fabricant au monde de machines EUV.
+- La lumière est produite en frappant au laser des gouttelettes d'étain, puis guidée par des miroirs sous vide.
+- Une machine pèse environ 150 tonnes et coûte de l'ordre de 150 à plus de 300 millions d'euros.
+- Leur exportation est restreinte, ce qui en fait un instrument géopolitique.
+

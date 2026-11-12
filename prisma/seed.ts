@@ -66,6 +66,8 @@ async function main(): Promise<void> {
   try {
     const summary = await seedCorpus(prisma, result);
     console.log(formatSummary(summary));
+    const { bootstrapIllustrations } = await import("../src/lib/illustration-workflow/bootstrap");
+    console.log("Suivi des illustrations :", await bootstrapIllustrations(prisma));
   } finally {
     await prisma.$disconnect();
   }

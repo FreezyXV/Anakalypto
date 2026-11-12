@@ -199,6 +199,20 @@ quiz:
     explanation: >
       Il a été profondément réformé, notamment sur la famille et sur les contrats en 2016, mais
       c'est toujours le même texte qui s'applique aujourd'hui.
+  - question: "Pourquoi le Code civil a-t-il été écrit volontairement dans une langue simple et sans jargon ?"
+    options:
+      - "Pour qu'un citoyen ordinaire puisse le lire et le comprendre"
+      - "Pour que les juristes puissent le recopier plus vite dans chaque province"
+      - "Pour le traduire facilement dans les autres pays d'Europe"
+    answer: 1
+    explanation: "Le texte est volontairement accessible : l'idée est qu'un citoyen puisse le lire, et Stendhal disait même en lire quelques pages chaque matin."
+  - question: "Qu'est-ce qui montre que le Code civil est un texte vivant, malgré son âge ?"
+    options:
+      - "Il a été abrogé en 1807 puis remplacé par le Code Napoléon"
+      - "Il est resté totalement inchangé depuis 1804 et reste appliqué tel quel"
+      - "Il n'a jamais été abrogé mais il a été largement réécrit, par exemple en 2016 pour les contrats"
+    answer: 3
+    explanation: "Le Code n'a jamais été abrogé, mais il a été énormément réécrit : le droit de la famille à partir des années 1960, le droit des contrats par l'ordonnance de 2016."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -257,8 +271,17 @@ ordonnance du 10 février 2016.
 - Il est écrit volontairement dans une langue accessible.
 - Il est toujours en vigueur, largement réformé, notamment en 2016.
 
-[Emplacement image : page de titre d'une édition ancienne du Code civil, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le Code civil de 1804
+chiffres:
+  - valeur: 21 mars 1804
+    texte: promulgation
+  - valeur: 2 281
+    texte: articles en trois livres
+  - valeur: Un seul droit
+    texte: au lieu de règles différentes selon les régions
+```
 
 ---
 
@@ -301,6 +324,20 @@ quiz:
       Le droit pénal distingue l'élément matériel — ce qui a été fait — de l'élément moral —
       l'état d'esprit. Tuer volontairement et causer la mort par imprudence ne sont pas la même
       infraction.
+  - question: "Pourquoi une loi pénale plus sévère ne s'applique-t-elle pas aux faits déjà commis ?"
+    options:
+      - "Parce que les juges n'ont pas le temps de revoir les anciennes affaires"
+      - "Parce que sinon un pouvoir pourrait interdire rétroactivement ce que faisaient ses adversaires"
+      - "Parce que les peines doivent toujours rester identiques d'une époque à l'autre"
+    answer: 2
+    explanation: "Sans cette règle, un pouvoir pourrait punir après coup des comportements qui étaient permis. En revanche, une loi plus douce s'applique immédiatement."
+  - question: "Qu'est-ce qui distingue le meurtre de l'homicide involontaire ?"
+    options:
+      - "L'intention : l'acte et le résultat sont les mêmes, mais l'état d'esprit change tout"
+      - "Le résultat : dans un cas la victime décède, dans l'autre elle survit"
+      - "La juridiction : l'un est jugé par un tribunal de police, l'autre par un juge unique"
+    answer: 1
+    explanation: "L'élément moral, c'est-à-dire l'état d'esprit, fait la différence : l'acte et le résultat sont identiques, mais l'intention change la qualification et la peine."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -366,8 +403,16 @@ on ne peut plus poursuivre.
 - Une infraction suppose un acte et un état d'esprit.
 - Trois niveaux : contraventions, délits, crimes.
 
-[Emplacement image : les trois catégories d'infractions et leurs juridictions, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Trois niveaux de gravité des infractions
+niveaux:
+  - titre: Crimes
+    texte: Les plus graves.
+  - titre: Délits
+  - titre: Contraventions
+    texte: Les moins graves.
+```
 
 ---
 
@@ -409,6 +454,20 @@ quiz:
     explanation: >
       Une loi ordinaire peut être défaite par une autre loi ordinaire. En plaçant le principe
       dans la Constitution, on exige une majorité bien plus large pour revenir en arrière.
+  - question: "Pourquoi l'irréversibilité de l'erreur judiciaire est-elle un argument central des abolitionnistes ?"
+    options:
+      - "Parce que les erreurs judiciaires sont plus fréquentes pour les crimes graves"
+      - "Parce que cette peine coûte plus cher que les autres à l'État"
+      - "Parce que toutes les autres peines peuvent être révisées, mais pas celle-là"
+    answer: 3
+    explanation: "Une personne condamnée à tort à une autre peine peut voir la décision révisée ; une exécution ne peut plus être corrigée."
+  - question: "Pourquoi la ratification en 1986 d'un protocole à la Convention européenne des droits de l'homme rend-elle le retour en arrière plus difficile ?"
+    options:
+      - "Revenir en arrière supposerait de dénoncer un engagement international"
+      - "Elle a rendu l'abolition applicable seulement aux crimes commis en temps de paix"
+      - "Elle a transféré la décision au Sénat, qui doit voter chaque année"
+    answer: 1
+    explanation: "Une loi ordinaire peut être défaite par une autre loi ordinaire ; ici, rétablir la peine de mort exigerait de dénoncer un engagement international."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -468,8 +527,18 @@ exige une majorité très large.
 - L'irréversibilité de l'erreur judiciaire est l'argument central.
 - Le principe a été inscrit dans la Constitution en 2007.
 
-[Emplacement image : le débat parlementaire de septembre 1981, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: frise
+titre: L'abolition en France
+evenements:
+  - date: 1981
+    titre: Vote dans les deux chambres
+    texte: Contre une majorité de l'opinion de l'époque.
+  - date: 9 octobre 1981
+    titre: Promulgation de la loi
+  - date: Ensuite
+    titre: Rendre le retour difficile
+```
 
 ---
 
@@ -511,6 +580,20 @@ quiz:
     explanation: >
       Le système accepte délibérément de laisser échapper des coupables plutôt que de
       condamner des innocents. C'est un choix, et il est assumé.
+  - question: "Pourquoi n'est-ce pas à l'accusé de prouver son innocence ?"
+    options:
+      - "Parce que l'accusé n'a pas le droit de présenter de preuves au procès"
+      - "Parce que prouver qu'on n'a pas fait quelque chose est souvent impossible, surtout sans témoins"
+      - "Parce que la police est toujours sûre de ses accusations"
+    answer: 2
+    explanation: "Exiger cette preuve condamnerait systématiquement les personnes isolées, pauvres ou sans témoins, car il est très difficile de démontrer qu'on n'a pas commis un acte."
+  - question: "Pourquoi le droit de se taire découle-t-il de la présomption d'innocence ?"
+    options:
+      - "Parce que les juges n'ont pas besoin d'entendre l'accusé pour décider"
+      - "Parce que le silence est considéré comme un aveu discret de culpabilité"
+      - "Parce que, sans lui, la charge de la preuve se déplacerait en pratique vers l'accusé"
+    answer: 3
+    explanation: "Si le silence pouvait être retenu contre la personne, elle serait obligée de se défendre et de prouver son innocence, ce qui renverserait la charge de la preuve."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -575,8 +658,19 @@ coupable, il ne peut pas effacer ce que l'opinion a retenu.
 - Le droit au silence et l'accès au dossier en découlent directement.
 - Le principe résiste mal à l'exposition médiatique d'une affaire.
 
-[Emplacement image : répartition de la charge de la preuve dans un procès pénal, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: La présomption d'innocence
+centre: Personne poursuivie
+icone: scales
+parties:
+  - nom: Charge de la preuve
+    role: Elle pèse sur l'accusation.
+  - nom: Le doute
+    role: Il profite à l'accusé.
+  - nom: Droit au silence
+  - nom: Accès au dossier
+```
 
 ---
 
@@ -618,6 +712,20 @@ quiz:
     explanation: >
       Élu directement par les citoyens, le président tire de ce vote une légitimité qui dépasse
       celle que le texte de 1958 lui donnait initialement.
+  - question: "Pourquoi la Constitution de 1958 cherche-t-elle à renforcer l'exécutif ?"
+    options:
+      - "Pour mettre fin à l'instabilité gouvernementale chronique de la IVe République"
+      - "Pour réduire le rôle du président de la République"
+      - "Pour supprimer le référendum comme moyen de décision"
+    answer: 1
+    explanation: "La IVe République souffrait de gouvernements qui tombaient tous les quelques mois, faute de majorité stable : renforcer l'exécutif devait y mettre fin."
+  - question: "Quel est le rôle du Conseil constitutionnel créé en 1958 ?"
+    options:
+      - "Nommer le Premier ministre à la place du président"
+      - "Organiser les élections législatives et présidentielles"
+      - "Vérifier que les lois respectent la Constitution"
+    answer: 3
+    explanation: "Le Conseil constitutionnel est créé pour contrôler que les lois sont conformes à la Constitution."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -681,8 +789,20 @@ procès.
 - La révision de 1962 instaure l'élection présidentielle au suffrage universel direct.
 - Un Conseil constitutionnel vérifie la conformité des lois.
 
-[Emplacement image : organisation des pouvoirs sous la Ve République, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: La Constitution de la Ve République
+evenements:
+  - date: 28 septembre 1958
+    titre: Référendum
+    texte: Environ 82,6 % de oui.
+  - date: 4 octobre 1958
+    titre: Promulgation
+    texte: Un exécutif renforcé.
+  - date: 1962
+    titre: Révision décisive
+    texte: Élection du président au suffrage universel.
+```
 
 ---
 
@@ -724,6 +844,20 @@ quiz:
     explanation: >
       La justice nationale reste prioritaire. La Cour est un recours quand elle est défaillante
       ou complice, pas un tribunal d'appel mondial.
+  - question: "Pourquoi des mandats d'arrêt de la Cour pénale internationale restent-ils parfois inexécutés pendant des années ?"
+    options:
+      - "Parce que la Cour ne peut les émettre qu'après la fin des guerres"
+      - "Parce que la Cour n'a aucune force de police et dépend de la coopération des États"
+      - "Parce que les chefs d'État en exercice ne peuvent jamais être visés"
+    answer: 2
+    explanation: "La Cour n'a pas de police propre : elle dépend entièrement des États pour arrêter les personnes recherchées. Le texte précise aussi qu'elle juge des chefs d'État en exercice."
+  - question: "Pourquoi un mandat d'arrêt garde-t-il une utilité même s'il n'est pas exécuté ?"
+    options:
+      - "Il restreint les déplacements de la personne visée et inscrit les faits dans un dossier judiciaire"
+      - "Il suffit à entraîner automatiquement la condamnation de la personne visée"
+      - "Il oblige l'État de la personne visée à la juger lui-même immédiatement"
+    answer: 1
+    explanation: "Même sans arrestation, le mandat limite les déplacements de la personne et consigne les faits : c'est peu, mais plus que l'impunité totale d'avant."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -791,8 +925,18 @@ davantage que l'impunité totale qui prévalait auparavant.
 - Quatre crimes : génocide, crimes contre l'humanité, crimes de guerre, agression.
 - Elle n'intervient que si la justice nationale est défaillante.
 
-[Emplacement image : compétence et fonctionnement de la Cour pénale internationale, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: La Cour pénale internationale
+legende: Créée par le traité de Rome en 1998, en vigueur depuis 2002. Elle juge des individus.
+centre: Quatre crimes
+icone: scales
+parties:
+  - nom: Génocide
+  - nom: Crimes contre l'humanité
+  - nom: Crimes de guerre
+  - nom: Crime d'agression
+```
 
 ---
 
@@ -837,6 +981,20 @@ quiz:
     explanation: >
       On prévient une chute en installant une rampe : le risque est connu. On applique la
       précaution quand le danger est plausible mais pas encore démontré.
+  - question: "Contre quel schéma le principe de précaution a-t-il été écrit ?"
+    options:
+      - "Contre les innovations lancées sans aucune autorisation administrative"
+      - "Contre l'usage excessif des experts scientifiques dans les décisions publiques"
+      - "Contre l'attente d'une certitude scientifique pendant que l'exposition au danger continue"
+    answer: 3
+    explanation: "Face au tabac, à l'amiante ou au plomb, on a répété qu'il fallait attendre la certitude ; pendant ce temps le dommage s'aggravait, parfois de façon irréversible."
+  - question: "Quelle critique sérieuse adresse-t-on au principe de précaution ?"
+    options:
+      - "Il ne s'applique qu'aux risques déjà démontrés par la science"
+      - "Il ne regarde que le risque de l'action, pas celui de l'inaction"
+      - "Il interdit définitivement toute technologie jugée incertaine"
+    answer: 2
+    explanation: "Ne pas autoriser une technologie a aussi des conséquences parfois graves. Les formulations modernes demandent donc d'évaluer les risques des deux côtés."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -906,8 +1064,18 @@ En France, ce principe figure dans la Charte de l'environnement, adossée à la 
 - Les mesures doivent être proportionnées, provisoires et révisables.
 - La prévention vise un risque connu, la précaution un risque suspecté.
 
-[Emplacement image : différence entre prévention et précaution selon l'état des connaissances,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Précaution ou prévention
+colonnes:
+  - titre: Précaution
+    points:
+      - Risque grave et irréversible
+      - Incertitude scientifique réelle
+  - titre: Prévention
+    points:
+      - Risque connu et avéré
+```
 
 ---
 
@@ -949,6 +1117,20 @@ quiz:
     explanation: >
       Elle ne se prononce pas sur ce qui s'est réellement passé. Si elle casse une décision,
       elle renvoie l'affaire devant une autre cour d'appel qui la rejugera.
+  - question: "Quel type de litige relève de l'ordre administratif et non de l'ordre judiciaire ?"
+    options:
+      - "Un désaccord entre deux voisins sur une clôture"
+      - "Un permis de construire refusé par l'administration"
+      - "Un vol commis dans un magasin"
+    answer: 2
+    explanation: "L'ordre administratif juge les litiges entre un citoyen et l'administration, comme un permis de construire refusé, une sanction disciplinaire ou une expulsion."
+  - question: "Pourquoi a-t-on placé une Cour de cassation au sommet du système ?"
+    options:
+      - "Pour assurer l'unité d'interprétation de la loi sur tout le territoire"
+      - "Pour rejuger une troisième fois tous les faits de chaque affaire"
+      - "Pour remplacer les cours d'appel lorsqu'elles sont trop lentes"
+    answer: 1
+    explanation: "Si chaque cour d'appel interprétait la loi à sa façon, un même texte aurait un sens différent selon la région. La Cour de cassation unifie cette interprétation."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1012,8 +1194,16 @@ professionnels. C'est aussi une façon de rappeler que la justice est rendue au 
 - La Cour de cassation ne vérifie que l'application du droit.
 - Des citoyens tirés au sort jugent les crimes les plus graves.
 
-[Emplacement image : organisation des juridictions en étages, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+titre: Les étages de la justice judiciaire
+type: pyramide
+niveaux:
+  - titre: Cour de cassation
+    texte: Vérifie seulement l'application du droit.
+  - titre: Cour d'appel
+    texte: Réexamine en fait et en droit les points dont elle est saisie.
+  - titre: Tribunaux de première instance
+```
 
 ---
 
@@ -1056,6 +1246,20 @@ quiz:
     explanation: >
       Les crimes nazis avaient été commis en respectant les lois allemandes de l'époque. Il
       fallait affirmer des droits supérieurs aux lois nationales.
+  - question: "Si la Déclaration de 1948 n'est pas obligatoire, d'où vient sa force ?"
+    options:
+      - "Elle est automatiquement appliquée par les tribunaux de tous les pays"
+      - "Elle a servi de matrice à des textes contraignants, à des constitutions et à des systèmes régionaux"
+      - "Elle prévoit des sanctions financières contre les États qui l'ignorent"
+    answer: 2
+    explanation: "La Déclaration énonce des principes, mais elle a inspiré les pactes de 1966, des conventions, des constitutions nationales et des systèmes comme la Convention européenne des droits de l'homme."
+  - question: "Quel élément nuance l'idée que ces droits seraient une pure construction occidentale ?"
+    options:
+      - "Le texte a été rédigé uniquement par des juristes français réunis à Paris"
+      - "Le texte ne contient aucun droit économique ou social"
+      - "La commission de rédaction comprenait des membres venus de Chine, du Liban, du Chili et d'Inde"
+    answer: 3
+    explanation: "Le texte rappelle que la commission de rédaction n'était pas uniquement occidentale, et que l'argument du relativisme culturel vient surtout de gouvernements."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1123,8 +1327,17 @@ personnes dont les droits sont en cause.
 - Elle couvre des droits civils et politiques mais aussi économiques et sociaux.
 - Elle a inspiré les traités contraignants et les cours régionales.
 
-[Emplacement image : les trente articles de la Déclaration regroupés par catégorie, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La Déclaration universelle
+chiffres:
+  - valeur: 10 décembre 1948
+    texte: adoption
+  - valeur: 30
+    texte: articles
+  - valeur: Déclaration
+    texte: sans force obligatoire, ce n'est pas un traité
+```
 
 ---
 
@@ -1166,6 +1379,20 @@ quiz:
     explanation: >
       Le rôle de l'avocat est de faire valoir tous les arguments en faveur de son client et de
       vérifier que la procédure a été respectée. C'est ce qui rend le jugement légitime.
+  - question: "Pourquoi le greffier est-il indispensable à une audience ?"
+    options:
+      - "Il consigne ce qui se dit et authentifie les actes, ce qui donne une existence juridique à l'audience"
+      - "Il décide de la peine lorsque le juge est absent"
+      - "Il représente la société et requiert une peine contre l'accusé"
+    answer: 1
+    explanation: "Sans le greffier, une audience n'a pas d'existence juridique : c'est lui qui fait d'un jugement un document opposable."
+  - question: "Pourquoi l'indépendance du juge est-elle protégée, par exemple contre la révocation ?"
+    options:
+      - "Pour que le juge puisse choisir librement les avocats des parties"
+      - "Pour que le juge soit payé indépendamment du résultat de ses décisions"
+      - "Pour qu'il puisse, au besoin, donner tort à l'État sans craindre de sanction"
+    answer: 3
+    explanation: "Un juge qui pourrait être déplacé ou révoqué par mécontentement politique ne pourrait pas donner tort à l'État : son indépendance est la condition de son impartialité."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1226,8 +1453,20 @@ mariage.
 - L'avocat vérifie la procédure et la proportionnalité, il n'affirme pas l'innocence.
 - Le greffier donne son existence juridique à l'audience.
 
-[Emplacement image : disposition d'une salle d'audience et rôle de chacun, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+titre: Qui fait quoi dans un tribunal
+type: systeme
+centre: Procès pénal
+icone: scales
+parties:
+  - nom: Juge
+    role: Il tranche.
+  - nom: Procureur
+    role: Il accuse.
+  - nom: Avocat
+    role: Il défend et vérifie la procédure.
+  - nom: Greffier
+```
 
 ---
 
@@ -1277,7 +1516,7 @@ summary: >
   Un contrat n'a pas besoin d'être écrit pour exister. Acheter une baguette est un contrat,
   conclu en trois secondes.
 tags: [contrat, consentement, droit-civil, obligation, vente]
-relatedArticles: [code-civil-des-francais-1804, droit-de-retractation-et-garanties]
+relatedArticles: [code-civil-des-francais-1804, la-garantie-legale-de-conformite]
 sources:
   - title: "Code civil, des contrats"
     url: "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/"
@@ -1307,6 +1546,20 @@ quiz:
     explanation: >
       Erreur, tromperie et violence sont les trois vices du consentement. Ils permettent de
       demander l'annulation, c'est-à-dire d'effacer le contrat comme s'il n'avait jamais existé.
+  - question: "À quoi sert surtout l'écrit, puisqu'un accord verbal est un vrai contrat ?"
+    options:
+      - "À rendre le contrat valable dans tous les cas"
+      - "À prouver le contrat en cas de désaccord, et à respecter les rares actes qui l'exigent"
+      - "À permettre de modifier le contrat sans l'accord de l'autre partie"
+    answer: 2
+    explanation: "L'écrit est exigé pour certains actes importants, mais il sert surtout à prouver l'existence et le contenu du contrat quand il y a un litige."
+  - question: "Pourquoi un médecin n'est-il pas tenu de garantir la guérison ?"
+    options:
+      - "Parce qu'il a une obligation de moyens : soigner selon les règles de l'art"
+      - "Parce qu'il a une obligation de résultat limitée aux cas simples"
+      - "Parce que le contrat médical n'est jamais un vrai contrat"
+    answer: 1
+    explanation: "Avec une obligation de moyens, on promet de tout mettre en oeuvre sans garantir le résultat. Cette distinction change ce qu'il faut prouver en cas de litige."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1372,8 +1625,16 @@ pas la guérison. Cette distinction change entièrement ce qu'il faut prouver en
 - Erreur, dol et violence permettent d'annuler un contrat.
 - Obligation de moyens et de résultat n'engagent pas de la même façon.
 
-[Emplacement image : les trois conditions de validité d'un contrat, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+titre: Les trois conditions d'un contrat valable
+type: systeme
+centre: Contrat
+parties:
+  - nom: Consentement
+    role: Sans erreur, dol ni violence.
+  - nom: Capacité
+  - nom: Contenu licite et certain
+```
 
 ---
 
@@ -1416,6 +1677,20 @@ quiz:
       Si votre arbre tombe sur la voiture du voisin, vous répondez du dommage sans qu'aucune
       faute ne soit à démontrer. Cette responsabilité sans faute facilite beaucoup
       l'indemnisation.
+  - question: "Pourquoi le droit français ne pratique-t-il pas, en principe, les dommages et intérêts punitifs ?"
+    options:
+      - "Parce que les victimes ne peuvent pas demander d'argent à l'auteur du dommage"
+      - "Parce que seul le juge pénal peut fixer une somme d'argent"
+      - "Parce que la réparation vise à remettre la victime en l'état, sans l'enrichir ni punir"
+    answer: 3
+    explanation: "Le principe est la réparation intégrale, ni plus ni moins : on répare le préjudice, on ne dépasse pas volontairement la somme pour sanctionner."
+  - question: "Pourquoi certaines assurances, comme l'assurance automobile, sont-elles obligatoires ?"
+    options:
+      - "Pour garantir que la victime soit indemnisée même si le responsable est insolvable"
+      - "Pour permettre à l'État de punir plus facilement les conducteurs fautifs"
+      - "Pour éviter que les victimes aient à prouver un lien de causalité"
+    answer: 1
+    explanation: "L'obligation d'assurance assure l'indemnisation de la victime même si le responsable ne peut pas payer lui-même."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1483,8 +1758,16 @@ compagnies.
 - On répond des choses sous sa garde sans qu'une faute soit nécessaire.
 - Le principe est la réparation intégrale, ni plus ni moins.
 
-[Emplacement image : les trois conditions de la responsabilité civile, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Engager la responsabilité civile
+elements:
+  - titre: Fait générateur
+  - titre: Dommage
+  - titre: Lien de causalité
+  - titre: Réparation
+    texte: Souvent prise en charge par l'assurance.
+```
 
 ---
 
@@ -1526,6 +1809,20 @@ quiz:
     explanation: >
       Leur gravité a été jugée telle que le temps ne doit pas les effacer. C'est une exception
       délibérée au principe général.
+  - question: "Pourquoi le délai de prescription d'une infraction cachée ne court-il qu'à partir de la découverte des faits ?"
+    options:
+      - "Parce que les crimes cachés sont toujours les plus graves"
+      - "Parce que sinon il suffirait de bien dissimuler pendant quelques années pour échapper aux poursuites"
+      - "Parce que les enquêteurs ne travaillent que sur les faits récents"
+    answer: 2
+    explanation: "Sans cette règle, un auteur habile pourrait attendre l'expiration du délai en cachant les faits. Le délai ne court donc que lorsque les faits ont pu être découverts."
+  - question: "Qu'est-ce que la prescription de la peine, à ne pas confondre avec celle de l'action publique ?"
+    options:
+      - "Elle concerne une condamnation déjà prononcée mais jamais exécutée"
+      - "Elle empêche de poursuivre une personne soupçonnée trop longtemps après les faits"
+      - "Elle fixe le délai pour demander réparation en matière civile"
+    answer: 1
+    explanation: "La prescription de l'action publique empêche de poursuivre ; celle de la peine concerne une condamnation déjà prononcée mais non exécutée."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1591,8 +1888,18 @@ Et en matière civile, il existe des délais distincts pour agir en réparation 
 - Le délai peut courir à partir de la découverte des faits, pas de leur commission.
 - Les crimes contre l'humanité sont imprescriptibles.
 
-[Emplacement image : délais de prescription selon la gravité de l'infraction, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: La prescription
+centre: Délai de poursuite
+parties:
+  - nom: Raison
+    role: Les preuves se dégradent avec le temps.
+  - nom: Délais variables
+    role: Selon la gravité.
+  - nom: Exception absolue
+    role: Les crimes contre l'humanité sont imprescriptibles.
+```
 
 ---
 
@@ -1636,6 +1943,20 @@ quiz:
       Isolée, fatiguée et sans conseil, une personne peut faire des déclarations qu'elle
       regrettera. La présence d'un avocat dès les premières heures a été imposée par la
       jurisprudence européenne.
+  - question: "Quelle est la durée de principe de la garde à vue en droit commun ?"
+    options:
+      - "Quarante-huit heures, non prolongeables"
+      - "Vingt-quatre heures, prolongeables une fois sur décision d'un magistrat"
+      - "Soixante-douze heures, prolongeables sans limite par les enquêteurs"
+    answer: 2
+    explanation: "Le principe est de vingt-quatre heures, prolongeables une fois sur décision d'un magistrat. Les régimes plus longs sont des exceptions."
+  - question: "Pourquoi les régimes dérogatoires de garde à vue plus longue sont-ils régulièrement discutés ?"
+    options:
+      - "Parce qu'ils s'éloignent du droit commun"
+      - "Parce qu'ils s'appliquent à toutes les infractions sans distinction"
+      - "Parce qu'ils suppriment l'obligation d'informer la personne de ses droits"
+    answer: 1
+    explanation: "Ces régimes existent pour des infractions très graves comme le terrorisme, mais ils sont débattus précisément parce qu'ils s'écartent du droit commun."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1703,8 +2024,17 @@ pèseront lourd ensuite.
 - La durée de principe est de vingt-quatre heures, prolongeable une fois.
 - Droit au silence et assistance d'un avocat dès le début sont notifiés.
 
-[Emplacement image : déroulement et droits d'une garde à vue, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les droits en garde à vue
+centre: Personne gardée à vue
+parties:
+  - nom: Être informé
+  - nom: Avocat dès la première heure
+  - nom: Garder le silence
+  - nom: Prévenir un proche
+  - nom: Voir un médecin
+```
 
 ---
 
@@ -1748,6 +2078,20 @@ quiz:
     explanation: >
       Les pouvoirs collaborent nécessairement. Ce qui compte n'est pas l'étanchéité mais le
       fait que chacun puisse contrôler et freiner les autres.
+  - question: "Si la séparation des pouvoirs n'est jamais étanche, qu'est-ce qui compte vraiment ?"
+    options:
+      - "Que chaque pouvoir agisse sans jamais rien demander aux autres"
+      - "Que chacun puisse freiner les autres, dans un équilibre"
+      - "Que le gouvernement décide seul de toutes les lois"
+    answer: 2
+    explanation: "Les pouvoirs collaborent en permanence. Ce qui compte n'est pas l'étanchéité mais l'équilibre : chacun doit pouvoir freiner les autres."
+  - question: "Pourquoi le contrôle parlementaire s'affaiblit-il quand la même majorité tient durablement l'exécutif et le législatif ?"
+    options:
+      - "Parce que le Parlement n'a plus le droit de voter des lois"
+      - "Parce que les juges prennent alors le contrôle de l'Assemblée"
+      - "Parce que la majorité n'a guère d'intérêt à contrôler un gouvernement qui est le sien"
+    answer: 3
+    explanation: "Quand la même majorité contrôle l'exécutif et le législatif, le contrôle parlementaire perd de sa force : c'est l'un des points de vigilance classiques."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1818,8 +2162,20 @@ Ce sont les points de vigilance classiques, et ils valent pour tous les régimes
 - La séparation n'est jamais étanche : il s'agit d'équilibre et de contrôle mutuel.
 - Indépendance des juges et contrôle de constitutionnalité en sont les garanties centrales.
 
-[Emplacement image : les trois pouvoirs et leurs moyens de contrôle réciproques, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois fonctions séparées
+colonnes:
+  - titre: Législatif
+    points:
+      - Faire la loi
+  - titre: Exécutif
+    points:
+      - L'appliquer
+  - titre: Judiciaire
+    points:
+      - Juger
+```
 
 ---
 
@@ -1861,6 +2217,20 @@ quiz:
     explanation: >
       Les limites doivent être prévues par la loi, poursuivre un but légitime et rester
       proportionnées. C'est ce triple test qui distingue une limite acceptable d'une censure.
+  - question: "Pourquoi la liberté d'expression doit-elle protéger aussi les propos qui heurtent ou choquent ?"
+    options:
+      - "Parce qu'un propos consensuel n'a pas besoin de protection : une liberté qui ne protégerait que ce qui plaît ne servirait à rien"
+      - "Parce que les propos choquants sont toujours les plus vrais"
+      - "Parce qu'aucune restriction n'est jamais admise par le droit international"
+    answer: 1
+    explanation: "Personne ne cherche à interdire un propos consensuel : la protection n'a de sens que pour les idées qui dérangent."
+  - question: "Pourquoi une personne poursuivie pour diffamation peut-elle parfois échapper à la condamnation, contrairement à l'injure ?"
+    options:
+      - "Parce que la diffamation est toujours une infraction mineure"
+      - "Parce que la diffamation porte sur un fait vérifiable dont elle peut prouver la vérité"
+      - "Parce que la diffamation ne vise que les responsables publics"
+    answer: 2
+    explanation: "La diffamation allègue un fait précis : prouver que ce fait est vrai peut éviter la condamnation. L'injure, elle, n'énonce aucun fait."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1926,8 +2296,20 @@ visent uniquement à nuire à un particulier.
 - La diffamation porte sur un fait vérifiable, l'injure sur aucun fait.
 - Une restriction doit être prévue par la loi, légitime et proportionnée.
 
-[Emplacement image : le triple test des restrictions à la liberté d'expression, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Ce que protège la liberté d'expression
+colonnes:
+  - titre: Protégé
+    points:
+      - Les propos qui heurtent ou dérangent
+      - Le débat public
+  - titre: Sanctionné
+    points:
+      - Diffamation
+      - Injure
+      - Incitation à la haine
+```
 
 ---
 
@@ -1970,6 +2352,20 @@ quiz:
     explanation: >
       La cause doit être vérifiable et suffisamment grave. Sans elle, le licenciement est
       injustifié et ouvre droit à des indemnités supplémentaires.
+  - question: "Qu'est-ce qui permet à un juge de requalifier une prestation indépendante en emploi salarié ?"
+    options:
+      - "Le fait que le contrat porte le nom de contrat de travail"
+      - "Le lieu de travail ou le matériel fourni par l'entreprise"
+      - "Le fait que la relation fonctionne en réalité sous l'autorité de l'employeur"
+    answer: 3
+    explanation: "Le nom du contrat ne compte pas : c'est le lien de subordination, c'est-à-dire le pouvoir de donner des ordres, de contrôler et de sanctionner, qui décide."
+  - question: "Pourquoi la procédure de licenciement n'est-elle pas une simple formalité ?"
+    options:
+      - "Elle permet au salarié de s'expliquer avant que la décision ne soit prise"
+      - "Elle sert surtout à retarder le licenciement de plusieurs mois"
+      - "Elle remplace la nécessité d'avoir une cause réelle et sérieuse"
+    answer: 1
+    explanation: "Convocation, entretien préalable et notification motivée donnent au salarié la possibilité de s'expliquer avant la décision."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2037,8 +2433,18 @@ Le salarié, lui, peut démissionner librement, sous réserve d'un préavis.
 - Le contrat à durée indéterminée est la règle, le contrat à durée déterminée l'exception.
 - Un licenciement exige une cause réelle et sérieuse et une procédure.
 
-[Emplacement image : critères du lien de subordination, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: Le contrat de travail
+centre: Salarié
+parties:
+  - nom: Lien de subordination
+    role: Il définit le salariat.
+  - nom: Formes
+    role: CDI, CDD, intérim.
+  - nom: Rupture
+    role: Licenciement, démission, rupture conventionnelle.
+```
 
 ---
 
@@ -2080,6 +2486,20 @@ quiz:
     explanation: >
       Le contrat est suspendu, pas rompu. Le salarié ne travaille pas, donc il n'est pas payé
       pour ces heures, mais il conserve son emploi et son ancienneté.
+  - question: "Que devient le contrat de travail d'un salarié pendant la grève ?"
+    options:
+      - "Il est rompu, mais le salarié peut être réembauché ensuite"
+      - "Il est suspendu : le salarié garde son emploi et son ancienneté mais n'est pas payé"
+      - "Il continue normalement, avec le paiement intégral du salaire"
+    answer: 2
+    explanation: "Le contrat est suspendu, pas rompu : l'emploi, l'ancienneté et la protection sociale sont conservés, mais les heures non travaillées ne sont pas payées."
+  - question: "Un salarié qui ralentit volontairement son travail sans l'arrêter fait-il grève ?"
+    options:
+      - "Oui, car ralentir est une forme plus modérée de grève"
+      - "Oui, à condition de prévenir son employeur"
+      - "Non, la grève suppose une cessation complète du travail, et ralentir constitue une faute"
+    answer: 3
+    explanation: "Ralentir volontairement ou n'exécuter qu'une partie des tâches n'est pas une grève et constitue une faute."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2147,112 +2567,17 @@ blocage illicite — ne sont pas couvertes par la protection.
 - Le salarié n'est pas payé mais conserve son emploi et son ancienneté.
 - Préavis et service minimum encadrent la grève dans certains services publics.
 
-[Emplacement image : conditions de la grève et effets sur le contrat de travail, légende et texte
-alternatif à fournir ultérieurement.]
-
----
-
----
-type: article
-title: Rétractation et garanties
-slug: droit-de-retractation-et-garanties
-categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
-summary: >
-  Quatorze jours pour changer d'avis après un achat en ligne, et deux ans de garantie légale
-  que le vendeur ne peut pas réduire.
-tags: [consommation, retractation, garantie, achat-en-ligne, protection]
-relatedArticles: [contrat-conditions-de-validite, responsabilite-civile-et-reparation]
-sources:
-  - title: "Code de la consommation"
-    url: "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006069565/"
-    publisher: "Légifrance"
-    date: "2025"
-  - title: "Droits des consommateurs"
-    url: "https://www.economie.gouv.fr/dgccrf"
-    publisher: "DGCCRF"
-    date: "2025"
-quiz:
-  - question: "Pourquoi un délai de rétractation existe-t-il pour les achats à distance ?"
-    options:
-      - "Parce que la livraison peut être en retard"
-      - "Parce qu'on n'a pas pu voir ni essayer le produit avant d'acheter"
-      - "Parce que les prix changent souvent"
-    answer: 2
-    explanation: >
-      En magasin, on manipule l'objet avant de décider. À distance, on ne dispose que d'une
-      photo et d'une description. Le délai rétablit cette possibilité d'examen.
-  - question: "Qui doit prouver le défaut d'un produit dans les deux premières années ?"
-    options:
-      - "L'acheteur"
-      - "Personne : le défaut est présumé exister depuis l'achat, c'est au vendeur de prouver
-        le contraire"
-      - "Un expert indépendant"
-    answer: 2
-    explanation: >
-      C'est un renversement décisif. Sans lui, il faudrait démontrer techniquement qu'un
-      appareil était déjà défectueux à la livraison, ce qui est souvent impossible.
-lastVerified: 2026-09-23
-status: published
----
-
-## En bref
-
-Quand vous achetez à un professionnel, la loi vous accorde des protections que vous n'avez pas
-entre particuliers.
-
-La raison est le déséquilibre d'information : le vendeur connaît son produit, rédige le contrat,
-et conclut des milliers de ventes. L'acheteur, lui, découvre.
-
-## Le droit de rétractation
-
-Pour un achat à distance — en ligne, par téléphone — ou hors établissement commercial, vous
-disposez de quatorze jours pour changer d'avis, sans avoir à vous justifier.
-
-La logique est claire : en magasin, on voit, on touche, on essaie avant de décider. À distance,
-on n'a qu'une photo. Le délai restitue cette possibilité d'examen.
-
-Le délai court à partir de la réception du produit. Le remboursement doit intervenir rapidement,
-et il inclut les frais de livraison initiaux.
-
-Des exceptions existent : produits personnalisés, denrées périssables, contenus numériques
-téléchargés, produits d'hygiène descellés.
-
-Attention à une confusion fréquente : ce droit ne s'applique pas aux achats en magasin. Les
-retours acceptés par les enseignes y sont commerciaux, pas légaux.
-
-## La garantie légale de conformité
-
-Elle est due par le vendeur, elle dure deux ans, et elle est gratuite.
-
-Un produit doit correspondre à sa description, être propre à l'usage attendu, et fonctionner
-normalement.
-
-Le point décisif est le renversement de la charge de la preuve : pendant ces deux ans, un défaut
-qui apparaît est présumé exister depuis la livraison. C'est au vendeur de prouver le contraire.
-
-Sans cette règle, il faudrait démontrer techniquement qu'un appareil était déjà défectueux au
-départ, ce qu'aucun consommateur ne peut faire.
-
-Le vendeur doit alors réparer ou remplacer le produit. Si aucune des deux solutions n'est
-possible, l'acheteur peut demander une réduction du prix ou le remboursement.
-
-## Ne pas confondre avec la garantie commerciale
-
-La garantie proposée par le vendeur ou le fabricant, parfois payante, s'ajoute à la garantie
-légale. Elle ne la remplace jamais et ne peut pas la réduire.
-
-Une phrase comme « garantie un an » ne supprime donc pas vos deux ans légaux. C'est une source
-fréquente de malentendus, parfois entretenus.
-
-## À retenir
-
-- Quatorze jours de rétractation pour les achats à distance, sans justification.
-- Ce droit ne s'applique pas aux achats en magasin.
-- La garantie légale dure deux ans et est gratuite.
-- Pendant ces deux ans, le défaut est présumé antérieur à la livraison.
-
-[Emplacement image : délais et garanties applicables à un achat en ligne, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les conditions d'une grève
+centre: Grève
+parties:
+  - nom: Cessation complète du travail
+  - nom: Collective
+  - nom: Revendications professionnelles
+  - nom: Effet
+    role: Le contrat est suspendu, sans faute.
+```
 
 ---
 
@@ -2328,6 +2653,20 @@ quiz:
     explanation: >
       Un cadastre est un registre public qui documente les limites précises de chaque parcelle,
       son propriétaire et ses droits associés, servant de référence légale en cas de litige.
+  - question: "Pourquoi un cadastre écrit règle-t-il mieux un désaccord qu'une haie ou une pierre ?"
+    options:
+      - "Parce que les haies et les pierres sont interdites comme limites"
+      - "Parce que ces marqueurs sont fragiles, faciles à déplacer ou à oublier, alors que le registre tranche objectivement"
+      - "Parce que le cadastre est toujours plus récent que les marqueurs physiques"
+    answer: 2
+    explanation: "Sans document officiel, la limite repose sur la mémoire ou des repères fragiles. Un registre consultable permet de trancher objectivement."
+  - question: "Si les registres d'un cadastre sont détruits, comment peut-on reconstituer les limites ?"
+    options:
+      - "À partir des témoignages, des marqueurs physiques durables et d'anciennes cartes"
+      - "En attribuant les parcelles au premier occupant qui se présente"
+      - "En redistribuant les parcelles à parts égales entre les habitants"
+    answer: 1
+    explanation: "On s'appuie sur les témoignages des habitants, les marqueurs durables comme les murets de pierre, ou d'anciennes cartes conservées ailleurs."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -2379,8 +2718,17 @@ d'anciennes cartes conservées ailleurs.
 - Un cadastre détruit peut être reconstitué à partir de témoignages et de marqueurs physiques
   durables.
 
-[Emplacement image : carte cadastrale ancienne montrant les limites de parcelles numérotées d'un
-village, légende et texte alternatif à fournir ultérieurement.]
+```schema
+titre: Ce que contient le cadastre
+legende: Document à vocation fiscale ; il ne constitue pas à lui seul un titre de propriété.
+type: systeme
+centre: Parcelle
+icone: map
+parties:
+  - nom: Position
+  - nom: Surface
+  - nom: Propriétaire
+```
 
 ---
 
@@ -2424,16 +2772,155 @@ title: Le bail d'habitation
 slug: bail-habitation
 categoryPath: droit-et-justice/droit-prive/droit-civil
 summary: >
-  Droits et obligations du locataire et du propriétaire.
+  Louer un logement en France est encadré par la loi du 6 juillet 1989. Durée du bail, dépôt de
+  garantie, préavis, état des lieux, travaux et charges : connaître ces règles évite bien des
+  litiges, côté locataire comme côté propriétaire.
 tags: [droit-civil]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [le-contrat-d-assurance-principes-de-base, tenir-son-budget-personnel, credit-consommation]
+sources:
+  - title: "Loi du 6 juillet 1989 tendant à améliorer les rapports locatifs"
+    url: "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310"
+    publisher: "Légifrance"
+  - title: "Bail d'habitation en France"
+    url: "https://fr.wikipedia.org/wiki/Bail_d%27habitation_en_France"
+    publisher: "Wikipédia"
+  - title: "Dépôt de garantie"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9p%C3%B4t_de_garantie"
+    publisher: "Wikipédia"
+  - title: "Agence nationale pour l'information sur le logement"
+    url: "https://www.anil.org/"
+    publisher: "ANIL"
+quiz:
+  - question: "Quelle est la durée minimale d'un bail de location vide consenti par un particulier ?"
+    options:
+      - "Trois ans"
+      - "Un an"
+      - "Six mois"
+    answer: 1
+    explanation: >
+      Le bail d'un logement vide dure au moins trois ans quand le propriétaire est un particulier,
+      six ans quand c'est une société. Un meublé se loue en principe pour un an.
+  - question: "Quel est le montant maximal du dépôt de garantie pour un logement vide ?"
+    options:
+      - "Trois mois de loyer"
+      - "Un mois de loyer hors charges"
+      - "Il n'y a pas de limite"
+    answer: 2
+    explanation: >
+      Pour un logement meublé, il peut aller jusqu'à deux mois de loyer hors charges.
+  - question: "Pourquoi l'état des lieux d'entrée est-il si important ?"
+    options:
+      - "Parce qu'il fixe le loyer"
+      - "Parce qu'il remplace le bail"
+      - "Parce qu'il sert de comparaison à la sortie pour décider des retenues sur le dépôt de garantie"
+    answer: 3
+    explanation: >
+      Un défaut non noté à l'entrée risque d'être imputé au locataire à la sortie. On le remplit
+      avec soin, photos à l'appui.
+  - question: "Qui doit assurer les petites réparations et l'entretien courant d'un logement loué ?"
+    options:
+      - "Le propriétaire, qui doit tout réparer"
+      - "L'agence immobilière, dans tous les cas"
+      - "Le locataire, le propriétaire gardant les grosses réparations"
+    answer: 3
+    explanation: "Le locataire fait les petites réparations et l'entretien courant ; le propriétaire doit fournir un logement décent et faire les grosses réparations."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+En France, la location d'un logement servant de résidence principale est encadrée par la **loi du
+6 juillet 1989**. Elle fixe la durée minimale du bail, le montant du dépôt de garantie, les règles du
+préavis, les obligations de chacun et les documents obligatoires. Ces règles protègent le locataire,
+mais aussi le propriétaire. Les connaître avant de signer évite de nombreux litiges, en particulier au
+moment de la sortie, quand se pose la question du dépôt de garantie.
+
+## Le contrat de location
+
+Le bail est un **contrat écrit**, sur un modèle type, qui précise notamment : les parties, la
+description du logement et sa surface, la date d'effet et la durée, le loyer et les modalités de
+révision, les charges et le dépôt de garantie.
+
+- **Logement vide** : au moins **trois ans** si le propriétaire est un particulier, **six ans** s'il
+  s'agit d'une société. Le bail se renouvelle automatiquement.
+- **Logement meublé** : **un an** renouvelable, ou **neuf mois** non renouvelables pour un étudiant.
+
+Le propriétaire doit remettre un **dossier de diagnostics** : performance énergétique, risques naturels
+et technologiques, plomb dans les logements anciens, électricité et gaz pour les installations de plus
+de quinze ans, entre autres. Les logements les plus énergivores sont progressivement interdits à la
+location.
+
+## L'argent
+
+- **Le loyer** est fixé librement, sauf dans les villes où il est encadré. Sa révision annuelle est
+  plafonnée par un indice officiel.
+- **Les charges** couvrent des dépenses précises : eau, entretien des parties communes, ordures
+  ménagères. Elles font l'objet d'une régularisation annuelle.
+- **Le dépôt de garantie** ne peut pas dépasser **un mois de loyer hors charges** pour un logement vide,
+  **deux mois** pour un meublé.
+- Le propriétaire ne peut pas exiger certains documents ou pratiques : relevés bancaires, attestation
+  de bonne tenue de compte, chèque de réservation.
+
+```schema
+titre: Location vide ou meublée
+legende: >-
+  Repères pour la résidence principale, hors baux et situations particuliers ; les règles dépendent
+  aussi du bailleur.
+type: comparaison
+colonnes:
+  - titre: Vide
+    icone: house
+    points:
+      - Bail d'au moins 3 ans avec un particulier
+      - Dépôt de garantie d'un mois au plus
+      - Préavis du locataire de 3 mois, 1 mois en zone tendue
+  - titre: Meublée
+    points:
+      - Bail d'un an, 9 mois pour un étudiant
+      - Dépôt de garantie de deux mois au plus
+      - Préavis du locataire d'un mois
+```
+
+## L'état des lieux
+
+À l'entrée et à la sortie, locataire et propriétaire établissent ensemble un **état des lieux**, pièce
+par pièce. C'est le document clé : à la sortie, on compare les deux. Un défaut non noté à l'entrée
+risque d'être imputé au locataire. On le remplit avec soin, on teste équipements et robinets, et l'on
+prend des **photos datées**. Le locataire peut demander à le compléter dans les dix jours suivant son
+entrée.
+
+## Les obligations de chacun
+
+**Le propriétaire** doit fournir un **logement décent**, en bon état, assurer la jouissance paisible du
+logement et faire les grosses réparations.
+
+**Le locataire** doit payer loyer et charges, utiliser le logement paisiblement, faire les **petites
+réparations et l'entretien courant**, et souscrire une **assurance habitation** contre les risques
+locatifs, dont il doit fournir l'attestation chaque année.
+
+## Partir
+
+- **Le préavis du locataire** est de **trois mois** pour un logement vide, réduit à **un mois** en zone
+  tendue, pour un meublé et dans certaines situations, mutation, perte d'emploi, raisons de santé.
+- **Le propriétaire** ne peut donner congé qu'à l'échéance du bail, avec un préavis plus long, et
+  seulement pour vendre, reprendre le logement pour l'habiter ou un motif légitime et sérieux.
+- **Le dépôt de garantie** doit être restitué dans **un mois** si l'état des lieux de sortie est
+  conforme à celui d'entrée, **deux mois** sinon, déduction faite des sommes justifiées.
+
+## En cas de litige
+
+On commence par un échange écrit, puis un courrier recommandé. La **commission départementale de
+conciliation** peut être saisie gratuitement. Les agences départementales d'information sur le logement
+donnent des conseils juridiques gratuits.
+
+## À retenir
+
+- La location d'une résidence principale est encadrée par la loi du 6 juillet 1989.
+- Un bail vide dure au moins trois ans avec un particulier, un meublé un an.
+- Le dépôt de garantie est limité à un mois de loyer hors charges en vide, deux mois en meublé.
+- L'état des lieux d'entrée, rempli avec soin et photos, protège le locataire à la sortie.
+- Le préavis du locataire est de trois mois, ou d'un mois en zone tendue et pour un meublé.
 
 ---
 type: article
@@ -2678,6 +3165,20 @@ quiz:
     explanation: >
       La médiation cherche un accord accepté par les deux parties, ce qui aide à préserver la
       relation entre elles, contrairement à une décision imposée par un tiers.
+  - question: "Pourquoi la médiation est-elle généralement plus rapide et moins coûteuse qu'un arbitrage ou un procès ?"
+    options:
+      - "Parce que le médiateur impose sa décision sans écouter les parties"
+      - "Parce qu'elle ne nécessite pas de constituer un dossier de preuves aussi complet"
+      - "Parce que les parties n'ont pas besoin de se rencontrer"
+    answer: 2
+    explanation: "La médiation repose sur le dialogue et ne demande pas un dossier de preuves aussi complet, ce qui la rend plus rapide et moins chère."
+  - question: "À quelle condition une médiation informelle, sans cadre juridique officiel, peut-elle fonctionner ?"
+    options:
+      - "Les deux parties acceptent librement la personne neutre et s'engagent à respecter l'accord trouvé"
+      - "Un juge doit désigner la personne qui mène la médiation"
+      - "La personne qui médie doit trancher à la place des parties"
+    answer: 1
+    explanation: "Une personne respectée et neutre peut médier sans cadre officiel si les deux parties acceptent librement sa présence et s'engagent à respecter l'accord."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -2726,8 +3227,19 @@ présence et s'engagent à respecter l'accord trouvé.
 - Une médiation informelle peut être menée par une personne neutre respectée, sans cadre
   juridique officiel.
 
-[Emplacement image : deux personnes en conflit assises de part et d'autre d'un médiateur neutre
-autour d'une table, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Médiation ou arbitrage
+colonnes:
+  - titre: Médiation
+    points:
+      - Aide les parties à trouver un accord
+      - N'impose rien
+  - titre: Arbitrage
+    points:
+      - Un tiers neutre décide
+      - La décision s'impose
+```
 
 ---
 
@@ -2856,6 +3368,20 @@ quiz:
     explanation: >
       Une procédure de révision, généralement plus exigeante qu'une loi ordinaire, permet à la
       constitution de s'adapter dans le temps tout en la protégeant de changements arbitraires.
+  - question: "Pourquoi réunir une assemblée constituante représentative pour rédiger une constitution ?"
+    options:
+      - "Pour que le texte soit écrit plus vite que par un seul rédacteur"
+      - "Pour supprimer toute procédure de révision future"
+      - "Pour donner au texte une légitimité qu'un document imposé sans discussion n'aurait pas"
+    answer: 3
+    explanation: "Une assemblée représentative débat et approuve le texte avant son entrée en vigueur, ce qui lui donne une légitimité."
+  - question: "Pourquoi une constitution commence-t-elle souvent par énoncer des principes généraux comme la liberté ou l'égalité ?"
+    options:
+      - "Parce qu'ils orientent ensuite toutes les règles plus précises"
+      - "Parce qu'ils remplacent la nécessité de décrire les institutions"
+      - "Parce qu'ils sont les seuls à pouvoir être modifiés par une loi ordinaire"
+    answer: 1
+    explanation: "Ces principes posés avant l'organisation des institutions orientent toutes les règles plus précises qui suivent."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -2907,8 +3433,16 @@ concernée, chargée de débattre et d'approuver le texte avant qu'il n'entre en
 - Une procédure de révision permet au texte d'évoluer sans faciliter des changements arbitraires.
 - Une assemblée constituante représentative donne au texte sa légitimité.
 
-[Emplacement image : une assemblée constituante en pleine délibération autour d'un texte
-constitutionnel en cours de rédaction, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Écrire une constitution
+elements:
+  - titre: Principes fondateurs
+  - titre: Répartir le pouvoir
+    texte: Séparer décider, appliquer et juger.
+  - titre: Garantir des droits
+  - titre: Prévoir la révision
+```
 
 ---
 
@@ -3530,16 +4064,157 @@ title: Le crédit à la consommation
 slug: credit-consommation
 categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
 summary: >
-  Taux, assurance, surendettement : ce que la loi impose aux prêteurs.
+  Emprunter pour une voiture ou un équipement peut être utile, mais coûte cher. Le TAEG permet de
+  comparer les offres, la loi accorde quatorze jours pour se rétracter, et le crédit renouvelable
+  est le plus dangereux. Avant de signer, il faut savoir ce que l'on paiera au total.
 tags: [droit-de-la-consommation]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [interets-composes, tenir-son-budget-personnel, epargne-de-precaution, la-garantie-legale-de-conformite]
+sources:
+  - title: "Crédit à la consommation"
+    url: "https://fr.wikipedia.org/wiki/Cr%C3%A9dit_%C3%A0_la_consommation"
+    publisher: "Wikipédia"
+  - title: "Taux annuel effectif global"
+    url: "https://fr.wikipedia.org/wiki/Taux_annuel_effectif_global"
+    publisher: "Wikipédia"
+  - title: "Taux d'usure"
+    url: "https://fr.wikipedia.org/wiki/Taux_d%27usure"
+    publisher: "Wikipédia"
+  - title: "Surendettement"
+    url: "https://fr.wikipedia.org/wiki/Surendettement"
+    publisher: "Wikipédia"
+  - title: "Crédit à la consommation : obligations de la banque"
+    url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F2440?ori=mcmga"
+    publisher: "Service-Public.fr"
+  - title: "Crédit à la consommation : quelle formule choisir pour vos besoins"
+    url: "https://economie.gouv.fr/dgccrf/les-fiches-pratiques/credit-la-consommation-quelle-formule-choisir-pour-vos-besoins"
+    publisher: "DGCCRF"
+    date: "2026"
+quiz:
+  - question: "Quel taux permet de comparer le coût réel de deux crédits ?"
+    options:
+      - "Le TAEG, qui inclut intérêts, frais et assurance obligatoire"
+      - "Le taux affiché sur la vitrine"
+      - "Le montant de la mensualité seule"
+    answer: 1
+    explanation: >
+      Le taux annuel effectif global intègre tous les coûts obligatoires du crédit. C'est le seul
+      chiffre comparable d'une offre à l'autre.
+  - question: "De combien de jours dispose-t-on pour renoncer à un crédit à la consommation signé ?"
+    options:
+      - "De 2 jours"
+      - "De 14 jours calendaires"
+      - "D'aucun"
+    answer: 2
+    explanation: >
+      Le code de la consommation accorde un délai de rétractation de quatorze jours à compter de
+      l'acceptation de l'offre.
+  - question: "Pourquoi le crédit renouvelable est-il particulièrement risqué ?"
+    options:
+      - "Parce qu'il est interdit"
+      - "Parce qu'il est gratuit"
+      - "Parce que ses taux sont élevés et que la réserve se reconstitue, ce qui pousse à réemprunter sans fin"
+    answer: 3
+    explanation: >
+      Avec de petites mensualités, le capital baisse lentement, les intérêts s'accumulent et la
+      dette peut durer des années.
+  - question: "Que devient un crédit affecté si la vente qu'il finance est annulée ?"
+    options:
+      - "Il se transforme automatiquement en crédit renouvelable"
+      - "Il continue normalement jusqu'au dernier remboursement"
+      - "Il est annulé lui aussi, car il est lié à l'achat précis"
+    answer: 3
+    explanation: "Le crédit affecté est lié à un achat précis : si la vente est annulée, le crédit l'est aussi."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Le **crédit à la consommation** finance un achat, une voiture, des travaux, un équipement, ou
+fournit une réserve d'argent. En France, il concerne des montants de 200 à 75 000 € et il est
+encadré par le code de la consommation. Il a un **coût**, qui s'exprime par le **TAEG**, et il engage
+pour des années. La loi protège l'emprunteur par une information obligatoire et un **délai de
+rétractation de quatorze jours**. Le crédit renouvelable, lui, est la principale porte d'entrée du
+surendettement.
+
+## Les principaux types
+
+- **Le prêt personnel** : une somme versée en une fois, remboursée par mensualités fixes, sans
+  obligation de justifier l'usage.
+- **Le crédit affecté** : lié à un achat précis, une voiture par exemple. Si la vente est annulée,
+  le crédit l'est aussi.
+- **La location avec option d'achat**, fréquente pour les voitures : on loue, puis on peut acheter
+  à la fin.
+- **Le crédit renouvelable**, ou permanent : une réserve d'argent qui se reconstitue à mesure qu'on
+  rembourse, souvent associée à une carte de magasin.
+- **Le paiement fractionné** en trois ou quatre fois, et les solutions « acheter maintenant, payer
+  plus tard », qui multiplient les petites dettes.
+
+## Lire le coût réel
+
+Le **TAEG**, taux annuel effectif global, inclut les intérêts, les frais de dossier et l'assurance
+quand elle est obligatoire. C'est le seul taux qui permet de comparer deux offres. L'offre doit aussi
+indiquer le **coût total du crédit** en euros, c'est-à-dire tout ce que l'on paie en plus de la
+somme empruntée.
+
+Un TAEG ne peut pas dépasser le **taux d'usure**, plafond fixé chaque trimestre par la Banque de
+France selon le type et le montant du prêt.
+
+```schema
+titre: Les repères du crédit à la consommation
+legende: >-
+  Le cadre évolue notamment à compter du 20 novembre 2026 ; consulter les règles applicables à la
+  date du contrat.
+type: chiffres
+chiffres:
+  - valeur: TAEG
+    texte: Indicateur du coût global, à comparer pour un même montant et une même durée.
+  - valeur: 14 jours
+    texte: pour renoncer après avoir accepté l'offre
+  - valeur: Champ encadré
+    texte: Montants et règles dépendent du type de crédit et des textes en vigueur.
+```
+
+## Les protections de l'emprunteur
+
+- **Une information précontractuelle** : une fiche standardisée et une offre écrite détaillée.
+- **La vérification de solvabilité** : le prêteur doit vérifier que l'emprunteur peut rembourser et
+  consulter le **fichier des incidents de remboursement** de la Banque de France.
+- **Le délai de rétractation de quatorze jours** après l'acceptation de l'offre, sans avoir à se
+  justifier.
+- **Le remboursement anticipé** possible à tout moment, avec des indemnités encadrées.
+- La publicité doit contenir la mention « Un crédit vous engage et doit être remboursé. Vérifiez vos
+  capacités de remboursement avant de vous engager. »
+
+## Le piège du crédit renouvelable
+
+Ses taux sont parmi les plus élevés autorisés. Avec des mensualités faibles, la part d'intérêts est
+importante et le capital baisse lentement. Comme la réserve se reconstitue, on est tenté de
+réemprunter. Une dette de quelques milliers d'euros peut ainsi durer des années et coûter bien plus
+que l'achat initial.
+
+## Avant de signer
+
+1. Se demander si l'achat est vraiment nécessaire maintenant, ou s'il peut attendre quelques mois
+   d'épargne.
+2. Comparer plusieurs offres sur le **TAEG** et le **coût total**, pas sur la mensualité.
+3. Vérifier que l'ensemble des mensualités de crédit reste supportable : les banques retiennent
+   souvent un plafond d'environ un tiers des revenus pour l'ensemble des crédits.
+4. Refuser la vente forcée d'une carte de crédit renouvelable en magasin.
+
+## En cas de difficulté
+
+Il faut réagir tôt : contacter le prêteur pour étaler les remboursements, se faire aider par un point
+conseil budget, et, si les dettes deviennent impossibles à payer, déposer un dossier de
+**surendettement** auprès de la Banque de France. La procédure est gratuite.
+
+## À retenir
+
+- Le TAEG, qui inclut intérêts et frais obligatoires, est le seul taux comparable entre deux crédits.
+- La loi accorde quatorze jours pour renoncer à un crédit signé.
+- Le prêteur doit vérifier la solvabilité de l'emprunteur.
+- Le crédit renouvelable, cher et qui se reconstitue, est la principale cause de surendettement.
+- En cas de difficulté, on peut saisir gratuitement la commission de surendettement de la Banque de France.
 
 ---
 type: article
@@ -3715,6 +4390,21 @@ L'émancipation permet à un mineur d'être traité presque comme un adulte. Il 
 
 Le mineur émancipé peut signer un contrat de travail ou choisir où il habite. Certaines limites restent : il ne peut voter qu'à 18 ans et conduire qu'à partir de 17 ans.
 
+```schema
+titre: Avoir des droits et pouvoir les exercer
+type: comparaison
+colonnes:
+  - titre: Mineur
+    points:
+      - Des droits dès la naissance
+      - Les parents agissent pour lui
+      - Petits achats du quotidien possibles
+  - titre: Majeur
+    points:
+      - À 18 ans
+      - Peut en principe signer seul, sous réserve d’une éventuelle mesure de protection.
+```
+
 ## À retenir
 
 - Toute personne a des droits dès sa naissance, mais ne peut pas toujours les exercer seule.
@@ -3755,18 +4445,153 @@ status: planned
 
 ---
 type: article
-title: La possession et la propriete, deux notions distinctes
+title: La possession et la propriété, deux notions distinctes
 slug: la-possession-et-la-propriete-deux-notions-distinctes
 categoryPath: droit-et-justice/droit-prive/droit-civil
 summary: >
-  Pourquoi detenir un bien ne signifie pas toujours en etre juridiquement proprietaire.
-tags: [droit-civil, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Avoir une chose entre les mains ne signifie pas en être propriétaire. Le droit distingue la
+  possession, un pouvoir de fait, de la propriété, un droit. Cette distinction protège celui qui
+  possède paisiblement et permet, avec le temps, de devenir propriétaire.
+tags: [droit-civil]
+relatedArticles: [propriete-cadastre, code-civil-des-francais-1804, contrat-conditions-de-validite, bail-habitation]
+sources:
+  - title: "Possession (droit)"
+    url: "https://fr.wikipedia.org/wiki/Possession_(droit)"
+    publisher: "Wikipédia"
+  - title: "Droit de propriété en France"
+    url: "https://fr.wikipedia.org/wiki/Droit_de_propri%C3%A9t%C3%A9_en_France"
+    publisher: "Wikipédia"
+  - title: "Prescription acquisitive"
+    url: "https://fr.wikipedia.org/wiki/Prescription_acquisitive"
+    publisher: "Wikipédia"
+  - title: "Code civil, article 2276"
+    url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006438859"
+    publisher: "Légifrance"
+quiz:
+  - question: "Quelle est la différence entre possession et propriété ?"
+    options:
+      - "Aucune, ce sont deux mots pour la même chose"
+      - "La possession est un pouvoir de fait sur une chose, la propriété un droit sur elle"
+      - "La propriété concerne les meubles, la possession les immeubles"
+    answer: 2
+    explanation: >
+      On peut posséder sans être propriétaire, comme un voleur, ou être propriétaire sans posséder,
+      comme celui qui a prêté sa voiture.
+  - question: "Que signifie la règle « en fait de meubles, possession vaut titre » ?"
+    options:
+      - "Que celui qui possède de bonne foi un objet mobilier en est présumé propriétaire"
+      - "Que les meubles appartiennent toujours au propriétaire de la maison"
+      - "Qu'on ne peut jamais revendiquer un objet volé"
+    answer: 1
+    explanation: >
+      Pour un bien meuble, la possession de bonne foi vaut titre de propriété, ce qui sécurise les
+      échanges du quotidien.
+  - question: "Au bout de combien de temps peut-on, en règle générale, devenir propriétaire d'un immeuble par une possession continue ?"
+    options:
+      - "Un an"
+      - "Trente ans"
+      - "Cent ans"
+    answer: 2
+    explanation: >
+      La prescription acquisitive est de trente ans en principe, réduite à dix ans pour celui qui a
+      acquis de bonne foi avec un titre.
+  - question: "Pourquoi un locataire n'est-il pas possesseur de son logement, mais seulement détenteur ?"
+    options:
+      - "Parce qu'il n'utilise pas matériellement le logement"
+      - "Parce qu'il sait que le logement appartient à un autre et ne se comporte donc pas en propriétaire"
+      - "Parce que la loi interdit à un locataire de posséder quoi que ce soit"
+    answer: 2
+    explanation: "La possession suppose à la fois de détenir la chose et de se comporter en propriétaire. Le locataire détient le logement mais sait qu'il appartient à autrui."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans le langage courant, « avoir » une chose et en être « propriétaire » se confondent. Le droit les
+distingue soigneusement. La **propriété** est un **droit** : celui d'user d'une chose, d'en tirer des
+revenus et d'en disposer, par exemple en la vendant. La **possession** est un **fait** : le pouvoir
+concret qu'on exerce sur une chose en se comportant comme son propriétaire. Le plus souvent, les deux
+coïncident. Mais ils peuvent se séparer, et la loi protège alors le possesseur, au point de lui
+permettre, avec le temps, de devenir propriétaire.
+
+## La propriété, un droit complet
+
+Le Code civil définit la propriété comme le droit de jouir et disposer des choses de la manière la plus
+absolue, dans les limites fixées par la loi. On en décrit traditionnellement trois attributs :
+
+- l'**usus**, le droit d'utiliser la chose ;
+- le **fructus**, le droit d'en percevoir les fruits, comme un loyer ou une récolte ;
+- l'**abusus**, le droit d'en disposer : la vendre, la donner, la transformer.
+
+Le propriétaire peut céder une partie de ces droits : en louant son appartement, il confie l'usage au
+locataire mais reste propriétaire.
+
+## La possession, un pouvoir de fait
+
+La possession suppose deux éléments :
+
+- le **corpus** : on détient matériellement la chose, on l'utilise, on l'entretient ;
+- l'**animus** : on se comporte en propriétaire, avec l'intention de l'être.
+
+Le locataire, l'emprunteur ou le dépositaire détiennent la chose mais savent qu'elle appartient à un
+autre : ils ne sont pas possesseurs, mais **détenteurs**. Un voleur, à l'inverse, est possesseur,
+mais il est de **mauvaise foi**.
+
+```schema
+titre: Propriété, possession et détention
+legende: Les trois situations coïncident souvent, mais le droit les distingue.
+type: comparaison
+colonnes:
+  - titre: Propriétaire
+    icone: house
+    points:
+      - A le droit sur la chose
+      - Peut user, louer, vendre
+      - Ex. celui qui a acheté sa maison
+  - titre: Possesseur
+    icone: shield
+    points:
+      - Agit comme propriétaire
+      - Exerce une maîtrise de fait en se comportant comme propriétaire.
+      - Ex. l'occupant d'un terrain depuis des années
+  - titre: Détenteur
+    icone: lock
+    points:
+      - Tient la chose pour autrui
+      - Reconnaît, en cette qualité, le droit d’autrui sur la chose.
+      - Ex. le locataire, l'emprunteur
+```
+
+## Pourquoi le droit protège le possesseur
+
+La possession fait **présumer la propriété** : celui qui se comporte en propriétaire l'est le plus
+souvent. Exiger de chacun qu'il prouve ses droits à tout moment paralyserait la vie quotidienne. Pour
+les **meubles**, l'article 2276 du Code civil pose une règle célèbre : « **en fait de meubles,
+possession vaut titre** ». Celui qui a acquis de bonne foi un objet est protégé, même si le vendeur n'en
+était pas propriétaire. Une exception : le propriétaire d'un objet **perdu ou volé** peut le revendiquer
+pendant trois ans.
+
+## Devenir propriétaire par le temps
+
+Pour les **immeubles**, une possession prolongée peut faire acquérir la propriété : c'est la
+**prescription acquisitive**, ou usucapion. Elle exige une possession **continue**, **paisible**,
+**publique** et **non équivoque**, à titre de propriétaire.
+
+- En principe, il faut **trente ans**.
+- Ce délai tombe à **dix ans** pour celui qui a acquis de bonne foi avec un titre, par exemple un acte de
+  vente signé par quelqu'un qui n'était pas propriétaire.
+
+Ce mécanisme stabilise les situations anciennes : après des décennies, il devient impossible de remettre
+en cause une occupation que tout le monde connaissait.
+
+## À retenir
+
+- La propriété est un droit : user, percevoir les fruits et disposer de la chose.
+- La possession est un pouvoir de fait, exercé en se comportant comme propriétaire.
+- Le locataire ou l'emprunteur ne sont pas possesseurs mais détenteurs.
+- Pour les meubles, la possession de bonne foi vaut titre de propriété.
+- Une possession paisible et publique d'un immeuble pendant trente ans, ou dix ans avec un titre, fait acquérir la propriété.
 
 ---
 type: article
@@ -4434,14 +5259,153 @@ title: Le contrat d'assurance, principes de base
 slug: le-contrat-d-assurance-principes-de-base
 categoryPath: droit-et-justice/droit-prive/droit-civil
 summary: >
-  Ce que garantit reellement un contrat d'assurance, et a quelles conditions.
-tags: [droit-civil, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une assurance transfère un risque contre le paiement d'une prime. Garanties, exclusions,
+  franchise, plafond et délais de déclaration déterminent ce que l'on touchera vraiment en cas de
+  sinistre. Certaines assurances sont obligatoires, d'autres très utiles.
+tags: [droit-civil]
+relatedArticles: [bail-habitation, epargne-de-precaution, tenir-son-budget-personnel]
+sources:
+  - title: "Contrat d'assurance"
+    url: "https://fr.wikipedia.org/wiki/Contrat_d%27assurance"
+    publisher: "Wikipédia"
+  - title: "Franchise (assurance)"
+    url: "https://fr.wikipedia.org/wiki/Franchise_(assurance)"
+    publisher: "Wikipédia"
+  - title: "Loi Hamon"
+    url: "https://fr.wikipedia.org/wiki/Loi_Hamon"
+    publisher: "Wikipédia"
+  - title: "Responsabilité civile"
+    url: "https://fr.wikipedia.org/wiki/Responsabilit%C3%A9_civile"
+    publisher: "Wikipédia"
+  - title: "Obligation du locataire : assurance habitation couvrant les risques locatifs"
+    url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F1349?quest0=0"
+    publisher: "Service-Public.fr"
+  - title: "Assurance habitation : souscription du contrat"
+    url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F2598"
+    publisher: "Service-Public.fr"
+quiz:
+  - question: "Qu'est-ce que la franchise d'une assurance ?"
+    options:
+      - "La part du dommage qui reste à la charge de l'assuré"
+      - "Le prix annuel de l'assurance"
+      - "Un cadeau de l'assureur"
+    answer: 1
+    explanation: >
+      Avec une franchise de 300 €, un dommage de 1 000 € est remboursé 700 €. Une franchise plus
+      élevée réduit en général la prime.
+  - question: "Quelle assurance est obligatoire pour tout véhicule en circulation en France ?"
+    options:
+      - "L'assurance tous risques"
+      - "L'assurance de responsabilité civile, qui couvre les dommages causés aux autres"
+      - "L'assurance vol"
+    answer: 2
+    explanation: >
+      Elle indemnise les victimes des dommages qu'on provoque. Les garanties pour son propre
+      véhicule sont facultatives.
+  - question: "Depuis la loi Hamon, quand peut-on résilier son assurance auto ou habitation ?"
+    options:
+      - "Jamais avant dix ans"
+      - "Uniquement à la date anniversaire, avec deux mois de préavis"
+      - "À tout moment après la première année de contrat"
+    answer: 3
+    explanation: >
+      Depuis 2015, la résiliation est possible à tout moment après un an, sans frais. Cela permet
+      de faire jouer la concurrence.
+  - question: "Pourquoi une fausse déclaration intentionnelle est-elle dangereuse pour l'assuré ?"
+    options:
+      - "Elle peut entraîner la nullité du contrat et le refus de toute indemnisation"
+      - "Elle augmente seulement la franchise de quelques dizaines d'euros"
+      - "Elle oblige l'assureur à résilier le contrat à la fin de l'année"
+    answer: 1
+    explanation: "Mentir volontairement à la souscription ou lors d'un sinistre peut annuler le contrat, priver l'assuré de toute indemnisation et mener à des poursuites pour fraude."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une **assurance** est un contrat par lequel un assureur s'engage, contre le paiement d'une **prime**,
+à indemniser l'assuré si un événement prévu au contrat se produit : accident, incendie, dégât des eaux,
+vol, maladie. Elle permet de transformer un risque rare mais ruineux en une dépense régulière et
+prévisible. Mais ce que l'on touche vraiment dépend des détails : **garanties**, **exclusions**,
+**franchise**, **plafonds** et respect des **délais de déclaration**. Lire ces points avant de signer
+évite de mauvaises surprises.
+
+## Le vocabulaire essentiel
+
+- **La prime**, ou cotisation : le prix de l'assurance, souvent annuel.
+- **Le sinistre** : l'événement qui déclenche la garantie.
+- **Les garanties** : les risques couverts, listés au contrat.
+- **Les exclusions** : les situations non couvertes, qui doivent être écrites de façon claire et
+  visible.
+- **La franchise** : la part du dommage qui reste à la charge de l'assuré. Avec une franchise de 300 €,
+  un dommage de 1 000 € est remboursé 700 €.
+- **Le plafond** : le montant maximal remboursé.
+- **La valeur à neuf** ou **la vétusté** : un bien ancien peut être remboursé à sa valeur d'usage,
+  inférieure à son prix neuf, sauf garantie spécifique.
+
+## Les assurances obligatoires
+
+- **La responsabilité civile automobile**, pour tout véhicule terrestre à moteur, même à l'arrêt. Elle
+  indemnise les dommages causés aux autres.
+- **L'assurance habitation du locataire**, au moins pour les risques locatifs, incendie, explosion,
+  dégât des eaux.
+- **Certaines assurances professionnelles**, comme la garantie décennale des constructeurs.
+
+## Les assurances très utiles
+
+- **La responsabilité civile vie privée**, souvent incluse dans l'assurance habitation, qui couvre les
+  dommages qu'on cause aux autres dans la vie quotidienne, y compris par ses enfants ou son animal.
+- **La complémentaire santé**, qui complète les remboursements de l'Assurance maladie.
+- **La garantie des accidents de la vie**, qui indemnise les accidents domestiques graves.
+- **L'assurance emprunteur**, exigée en pratique pour un crédit immobilier.
+
+```schema
+type: barres
+titre: Un sinistre de 1 000 € avec une franchise de 300 €
+unite: €
+valeurs:
+  - label: Dommage
+    valeur: 1000
+  - label: Franchise, à ma charge
+    valeur: 300
+  - label: Remboursé
+    valeur: 700
+```
+
+## En cas de sinistre
+
+1. **Prendre les mesures** pour limiter les dégâts : couper l'eau, protéger les biens.
+2. **Déclarer le sinistre** dans le délai prévu au contrat, en général **cinq jours ouvrés**, **deux
+   jours** pour un vol, et dix jours après la publication de l'arrêté pour une catastrophe naturelle.
+3. **Rassembler les preuves** : photos, factures, devis, dépôt de plainte en cas de vol, constat amiable
+   pour un accident de voiture.
+4. **Conserver les biens endommagés** jusqu'au passage de l'expert, si l'assureur le demande.
+
+Conserver les factures des objets de valeur et photographier régulièrement son logement facilite
+l'indemnisation.
+
+## Bien choisir et changer
+
+- Comparer les **garanties** et les **franchises**, pas seulement le prix.
+- Vérifier les **exclusions** et les **plafonds** pour les objets de valeur.
+- Éviter les **doublons** : une assurance de carte bancaire couvre souvent déjà certains risques.
+- Depuis la **loi Hamon**, en vigueur en 2015, on peut résilier son assurance auto, moto ou habitation
+  **à tout moment après la première année**, sans frais. Le nouvel assureur se charge souvent des
+  démarches.
+
+## Ne jamais mentir
+
+Une fausse déclaration intentionnelle à la souscription ou lors d'un sinistre peut entraîner la
+**nullité du contrat** et le refus de toute indemnisation, voire des poursuites pour fraude.
+
+## À retenir
+
+- Une assurance transforme un risque rare et coûteux en dépense régulière, la prime.
+- Garanties, exclusions, franchise et plafonds déterminent ce que l'on touche vraiment.
+- La responsabilité civile automobile et l'assurance habitation du locataire sont obligatoires.
+- Un sinistre se déclare vite, souvent dans les cinq jours ouvrés, deux jours pour un vol.
+- Depuis la loi Hamon, on peut résilier son assurance auto ou habitation à tout moment après un an.
 
 ---
 type: article
@@ -5104,6 +6068,16 @@ La demande se fait en ligne ou avec un formulaire. Elle est envoyée au bureau d
 
 Le bénéficiaire choisit librement son avocat. S'il n'en a pas trouvé, il peut demander au bâtonnier, le responsable de l'ordre des avocats, d'en désigner un.
 
+```schema
+titre: Obtenir l'aide juridictionnelle
+type: etapes
+elements:
+  - titre: Revenus modestes
+  - titre: Demande
+  - titre: Prise en charge partielle ou totale si les conditions sont remplies
+    icone: scales
+```
+
 ## À retenir
 
 - L'aide juridictionnelle permet aux personnes aux revenus modestes de faire payer leurs frais de justice par l'État.
@@ -5477,6 +6451,12 @@ sources:
   - title: "Hans Kelsen"
     url: "https://fr.wikipedia.org/wiki/Hans_Kelsen"
     publisher: "Wikipédia"
+  - title: "Qu'est-ce que la question prioritaire de constitutionnalité (QPC) ?"
+    url: "https://www.vie-publique.fr/fiches/19560-quest-ce-que-la-question-prioritaire-de-constitutionnalite-qpc"
+    publisher: "Vie publique"
+  - title: "La question prioritaire de constitutionnalité devant la juridiction administrative"
+    url: "https://www.conseil-etat.fr/decisions-de-justice/jurisprudence/dossiers-thematiques/la-question-prioritaire-de-constitutionnalite-devant-la-juridiction-administrative"
+    publisher: "Conseil d'État"
 quiz:
   - question: "Quelle règle se trouve tout en haut de la pyramide des normes en France ?"
     options:
@@ -5545,6 +6525,16 @@ Le Conseil d'État ou la Cour de cassation ont trois mois pour décider de trans
 ## Un débat avec l'Europe
 
 Le droit européen passe avant les lois françaises. Mais les juges français considèrent que la Constitution reste au sommet en France. La Cour de justice de l'Union européenne ne partage pas tout à fait cet avis.
+
+```schema
+type: pyramide
+titre: La pyramide des normes
+niveaux:
+  - titre: Constitution et Déclaration de 1789
+  - titre: Traités internationaux
+  - titre: Lois
+  - titre: Règlements
+```
 
 ## À retenir
 
@@ -6136,6 +7126,19 @@ En août 2026, la France en compte 60. Ils couvrent environ 17,2 % du territoire
 ## Protéger plus ou moins fort
 
 Le parc national protège donc plus strictement qu'un parc naturel régional. Le premier pose des interdictions. Le second repose surtout sur l'accord des habitants et des communes.
+
+```schema
+type: frise
+titre: Les parcs nationaux en France
+evenements:
+  - date: 22 juillet 1960
+    titre: Loi créant les parcs nationaux
+  - date: 1963
+    titre: La Vanoise
+    texte: Le premier parc national.
+  - date: Aujourd'hui
+    titre: 11 parcs nationaux
+```
 
 ## À retenir
 
@@ -7136,6 +8139,18 @@ En France, l'article 45 de la loi Informatique et libertés protège les plus je
 
 Depuis le 25 mai 2018, la CNIL peut punir les organismes qui ne respectent pas le RGPD. L'amende peut atteindre 20 millions d'euros ou 4 % du chiffre d'affaires mondial d'une entreprise. Chacun peut aussi porter plainte auprès de la CNIL. En 2025, elle a reçu 20 150 plaintes.
 
+```schema
+type: frise
+titre: La protection des données personnelles
+evenements:
+  - date: 6 janvier 1978
+    titre: Loi Informatique et libertés
+    texte: Création de la CNIL.
+  - date: Ensuite
+    titre: Le règlement européen
+    texte: Une règle pour toute l'Europe.
+```
+
 ## À retenir
 
 - Une donnée personnelle est une information sur une personne, comme son nom ou sa photo.
@@ -8092,6 +9107,16 @@ S'il l'est, une mise à l'épreuve éducative peut commencer. Elle dure entre si
 
 Le casier judiciaire d'un mineur est effacé au bout de trois ans.
 
+```schema
+titre: Le procès d'un mineur en deux temps
+legende: Schéma de la procédure en deux temps ; des exceptions et d’autres modalités existent.
+type: etapes
+elements:
+  - titre: Juger la culpabilité
+  - titre: Période de mise à l'épreuve
+  - titre: Décider de la sanction
+```
+
 ## À retenir
 
 - Depuis le 30 septembre 2021, les règles sont réunies dans le code de la justice pénale des mineurs.
@@ -8222,6 +9247,12 @@ sources:
   - title: "Jury criminel en France"
     url: "https://fr.wikipedia.org/wiki/Jury_criminel_en_France"
     publisher: "Wikipédia"
+  - title: "Les jurés des cours d'assises"
+    url: "https://www.cours-appel.justice.fr/nancy/les-jures-des-cours-dassises"
+    publisher: "Cour d'appel de Nancy (justice.fr)"
+  - title: "Cour d'assises"
+    url: "https://www.larousse.fr/encyclopedie/divers/cour_dassises/187220"
+    publisher: "Larousse"
 quiz:
   - question: "Combien de jurés siègent dans une cour d'assises en premier ressort ?"
     options:
@@ -8291,6 +9322,20 @@ Pendant le procès, les jurés écoutent les témoins et peuvent poser des quest
 Une décision défavorable à l'accusé demande au moins sept voix en premier ressort, et huit en appel. Ainsi, les trois juges seuls ne peuvent jamais condamner sans l'accord d'une majorité de jurés.
 
 Depuis le 1er janvier 2023, une partie des crimes est jugée autrement. Les crimes punis de 15 à 20 ans, commis par des majeurs, vont devant la cour criminelle départementale. Elle est composée de cinq magistrats, sans jurés.
+
+```schema
+type: comparaison
+titre: La cour d'assises
+colonnes:
+  - titre: Premier ressort
+    points:
+      - Trois magistrats
+      - Six jurés
+  - titre: Appel
+    points:
+      - Trois magistrats
+      - Neuf jurés
+```
 
 ## À retenir
 
@@ -8557,18 +9602,156 @@ status: planned
 
 ---
 type: article
-title: La garantie legale de conformite
+title: La garantie légale de conformité
 slug: la-garantie-legale-de-conformite
 categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
 summary: >
-  Un droit protecteur souvent moins connu que la garantie commerciale du vendeur.
-tags: [droit-de-la-consommation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un produit acheté neuf qui tombe en panne ou ne correspond pas à ce qui était promis doit être
+  réparé ou remplacé par le vendeur, gratuitement, pendant au moins deux ans en France et dans
+  l'Union européenne. Cette garantie est gratuite, automatique et ne peut pas être écartée.
+tags: [droit-de-la-consommation]
+relatedArticles: [peut-on-changer-d-avis-apres-un-achat-en-ligne, pourquoi-une-publicite-n-a-t-elle-pas-le-droit-de-tromper, reparer-plutot-jeter]
+sources:
+  - title: "Garantie légale de conformité pour un bien (contrat depuis le 1er janvier 2022)"
+    url: "https://www.service-public.fr/particuliers/vosdroits/F11094"
+    publisher: "Service-Public.fr"
+  - title: "Garantie légale de conformité"
+    url: "https://fr.wikipedia.org/wiki/Garantie_l%C3%A9gale_de_conformit%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Directive (UE) 2019/771 relative à certains aspects concernant les contrats de vente de biens"
+    url: "https://eur-lex.europa.eu/eli/dir/2019/771/oj"
+    publisher: "EUR-Lex"
+  - title: "Code de la consommation, articles L217-1 et suivants"
+    url: "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000044142422/"
+    publisher: "Légifrance"
+  - title: "Code de la consommation"
+    url: "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006069565/"
+    publisher: "Légifrance"
+    date: "2025"
+  - title: "Droits des consommateurs"
+    url: "https://www.economie.gouv.fr/dgccrf"
+    publisher: "DGCCRF"
+    date: "2025"
+quiz:
+  - question: "Combien de temps dure la garantie légale de conformité pour un bien neuf en France ?"
+    options:
+      - "Six mois"
+      - "Deux ans"
+      - "Dix ans"
+    answer: 2
+    explanation: >
+      Elle dure deux ans à compter de la livraison pour un bien neuf, et au moins un an pour un bien
+      d'occasion vendu par un professionnel.
+  - question: "Pendant les deux premières années, qui doit prouver que le défaut existait dès la livraison ?"
+    options:
+      - "L'acheteur"
+      - "Personne : le défaut est présumé exister dès la livraison"
+      - "Le fabricant uniquement"
+    answer: 2
+    explanation: >
+      Pour un bien neuf, le défaut apparu dans les deux ans est présumé exister dès la livraison. C'est
+      au vendeur de prouver le contraire.
+  - question: "Auprès de qui faire jouer la garantie légale de conformité ?"
+    options:
+      - "Le vendeur"
+      - "Le transporteur"
+      - "L'association de consommateurs"
+    answer: 1
+    explanation: >
+      C'est le vendeur professionnel qui est responsable, même s'il renvoie souvent vers le fabricant.
+  - question: "En quoi la garantie commerciale diffère-t-elle de la garantie légale de conformité ?"
+    options:
+      - "Elle est automatique et gratuite, alors que la garantie légale est facultative"
+      - "Elle est facultative, souvent payante, et s'ajoute à la garantie légale sans la remplacer"
+      - "Elle remplace la garantie légale dès qu'on la souscrit"
+    answer: 2
+    explanation: "La garantie commerciale est offerte par le vendeur ou le fabricant, souvent payante, et ne supprime jamais la garantie légale."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand on achète un bien à un **vendeur professionnel**, celui-ci doit livrer un produit **conforme** :
+qui fonctionne, qui correspond à sa description et à ce qu'on peut raisonnablement en attendre. S'il
+présente un défaut, l'acheteur peut exiger qu'il soit **réparé** ou **remplacé**, sans frais. C'est la
+**garantie légale de conformité**. En France, elle dure **deux ans** pour un bien neuf, découle d'une
+directive européenne et s'applique dans toute l'Union européenne. Elle est **gratuite**, **automatique**
+et aucune clause ne peut la supprimer.
+
+## Ce que couvre la garantie
+
+Un bien est non conforme quand :
+
+- il ne fonctionne pas ou tombe en panne sans mauvaise utilisation ;
+- il ne correspond pas à la description, à l'échantillon ou à la publicité ;
+- il lui manque un accessoire, une notice ou une mise à jour promise ;
+- il a été mal installé, si l'installation était prévue au contrat.
+
+Elle s'applique aux biens neufs et d'occasion vendus par un professionnel, en magasin comme en ligne,
+y compris aux biens qui contiennent des logiciels, comme un téléphone ou un téléviseur. Les **mises à
+jour** nécessaires au bon fonctionnement font partie de la garantie. Elle ne s'applique pas entre
+particuliers.
+
+## La durée et la preuve
+
+- **Bien neuf** : deux ans à compter de la livraison.
+- **Bien d'occasion** : au moins un an, deux ans en principe, sauf accord pour réduire à un an.
+
+Avantage majeur : pendant ce délai, pour un bien neuf, le défaut est **présumé exister** dès la
+livraison. L'acheteur n'a pas à prouver l'origine de la panne ; c'est au vendeur de démontrer une
+mauvaise utilisation s'il refuse.
+
+## Comment la faire jouer
+
+```schema
+type: etapes
+titre: Faire jouer la garantie légale de conformité
+legende: Le vendeur est le seul interlocuteur responsable, même s'il propose de passer par le fabricant.
+elements:
+  - titre: Contacter le vendeur
+    texte: Décrire le défaut et demander réparation ou remplacement.
+    icone: newspaper
+  - titre: Choisir la solution
+    texte: Réparation ou remplacement, au choix de l'acheteur en principe.
+    icone: gear
+  - titre: Délai de 30 jours
+    texte: La solution doit intervenir sans frais dans les 30 jours.
+    icone: hourglass
+  - titre: À défaut, remboursement
+    texte: Réduction du prix ou annulation de la vente.
+    icone: coin
+```
+
+1. S'adresser au **vendeur**, avec la facture ou le ticket de caisse, de préférence par écrit.
+2. Choisir entre **réparation** et **remplacement**. Le vendeur peut refuser si la solution choisie est
+   impossible ou disproportionnée, et proposer l'autre.
+3. La réparation ou le remplacement doit être fait **sans frais**, dans un délai de **30 jours**.
+4. Si rien n'est fait dans ce délai, si la solution échoue ou si le défaut est grave, l'acheteur peut
+   obtenir une **réduction du prix** ou l'**annulation** de la vente avec remboursement.
+
+Un bien réparé dans le cadre de la garantie bénéficie de **six mois** de garantie supplémentaires.
+
+## À ne pas confondre
+
+- **La garantie commerciale** : facultative, souvent payante, offerte par le vendeur ou le fabricant.
+  Elle s'ajoute à la garantie légale sans la remplacer.
+- **La garantie des vices cachés** : prévue par le Code civil, elle couvre un défaut caché grave et
+  s'applique aussi entre particuliers, pendant deux ans après sa découverte.
+- **Le droit de rétractation** : quatorze jours pour changer d'avis après un achat à distance, même sans
+  défaut.
+
+Un vendeur qui affirme qu'« il n'y a pas de garantie » ou que seule une extension payante protège
+l'acheteur a tort. En cas de litige, on peut saisir le **médiateur de la consommation** dont dépend le
+vendeur, puis la justice.
+
+## À retenir
+
+- Le vendeur professionnel doit livrer un bien qui fonctionne et correspond à sa description.
+- La garantie dure deux ans pour un bien neuf et au moins un an pour un bien d'occasion.
+- Pendant ce délai, le défaut est présumé exister dès la livraison, sans preuve à fournir.
+- On choisit réparation ou remplacement, sans frais, sous 30 jours, sinon remboursement ou réduction du prix.
+- Elle est gratuite et automatique, et ne se confond pas avec la garantie commerciale payante.
 
 ---
 type: article
@@ -8706,6 +9889,18 @@ Le juge peut ajouter d'autres sanctions. Il peut interdire au responsable d'exer
 ## Qui surveille ?
 
 En France, la DGCCRF contrôle les vendeurs. Son nom complet est direction générale de la concurrence, de la consommation et de la répression des fraudes. Elle est née en 1985 de la fusion de deux services. Elle dépend du ministère de l'Économie et veille à la loyauté des échanges entre vendeurs et clients. L'Union européenne interdit aussi la publicité trompeuse par une directive.
+
+```schema
+type: comparaison
+titre: Deux façons de tromper
+colonnes:
+  - titre: Par action
+    points:
+      - Un mensonge
+  - titre: Par omission
+    points:
+      - Cacher une information importante
+```
 
 ## À retenir
 
@@ -9126,14 +10321,146 @@ title: Le bulletin de salaire, comment le lire
 slug: le-bulletin-de-salaire-comment-le-lire
 categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
 summary: >
-  Un document souvent complexe qui contient pourtant des informations essentielles.
-tags: [droit-du-travail, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le bulletin de salaire indique le salaire brut, les cotisations prélevées pour la santé, le
+  chômage et la retraite, le net avant impôt et le net réellement versé. Savoir le lire permet de
+  vérifier ses droits et de négocier en connaissance de cause.
+tags: [droit-du-travail]
+relatedArticles: [contrat-de-travail-et-licenciement, tenir-son-budget-personnel, negocier-efficacement]
+sources:
+  - title: "Bulletin de paie"
+    url: "https://fr.wikipedia.org/wiki/Bulletin_de_paie"
+    publisher: "Wikipédia"
+  - title: "Prélèvement à la source de l'impôt sur le revenu"
+    url: "https://fr.wikipedia.org/wiki/Pr%C3%A9l%C3%A8vement_%C3%A0_la_source_de_l%27imp%C3%B4t_sur_le_revenu_en_France"
+    publisher: "Wikipédia"
+  - title: "Bulletin de paie"
+    url: "https://www.service-public.fr/particuliers/vosdroits/F559"
+    publisher: "Service-public.fr"
+quiz:
+  - question: "Quelle est la différence entre salaire brut et salaire net ?"
+    options:
+      - "Le net est le brut moins les cotisations sociales du salarié"
+      - "Le brut est toujours plus faible que le net"
+      - "Il n'y a aucune différence"
+    answer: 1
+    explanation: >
+      Les cotisations salariales financent l'assurance maladie, la retraite et le chômage. Elles
+      représentent souvent un peu plus de 20 % du brut dans le secteur privé.
+  - question: "Depuis quand l'impôt sur le revenu est-il prélevé directement sur le salaire en France ?"
+    options:
+      - "Depuis 1950"
+      - "Depuis janvier 2019"
+      - "Il ne l'est pas"
+    answer: 2
+    explanation: >
+      Le prélèvement à la source applique un taux transmis par l'administration fiscale. Le
+      bulletin distingue le net avant impôt et le net à payer.
+  - question: "Combien de temps conseille-t-on de garder ses bulletins de salaire ?"
+    options:
+      - "Un mois"
+      - "Un an"
+      - "Jusqu'à la liquidation de sa retraite, voire toute sa vie"
+    answer: 3
+    explanation: >
+      Ils prouvent les périodes travaillées et les salaires, utiles pour calculer la retraite ou
+      en cas de litige.
+  - question: "Pourquoi le coût total d'un salarié pour l'entreprise est-il nettement supérieur à son salaire brut ?"
+    options:
+      - "Parce que l'employeur paie en plus les cotisations patronales"
+      - "Parce que l'employeur reverse au salarié les cotisations salariales"
+      - "Parce que le salarié doit rembourser l'employeur de l'impôt prélevé à la source"
+    answer: 1
+    explanation: "Les cotisations patronales sont payées par l'employeur en plus du salaire brut, ce qui fait monter le coût total."
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Chaque mois, l'employeur remet au salarié un **bulletin de salaire**, ou fiche de paie. Il indique
+le **salaire brut** prévu au contrat, les **cotisations** prélevées pour la protection sociale, les
+éventuelles primes, absences et heures supplémentaires, le **net avant impôt**, l'impôt prélevé à la
+source et enfin le **net à payer**, réellement versé sur le compte. Le lire permet de vérifier que
+tout est juste, de comprendre ce que finance son travail et de parler de salaire en sachant de quoi
+on parle.
+
+## Du brut au net
+
+1. **Le salaire de base** : le salaire brut prévu au contrat, pour la durée de travail convenue.
+2. **Les éléments variables** : heures supplémentaires, primes, avantages en nature, retenues pour
+   absence.
+3. **Le brut total**, somme des éléments précédents.
+4. **Les cotisations salariales** : santé, retraite de base et complémentaire, assurance chômage,
+   CSG et CRDS. Dans le secteur privé, elles représentent souvent un peu plus de 20 % du brut ; le
+   net vaut alors environ 75 à 80 % du brut, selon le statut.
+5. **Le net à payer avant impôt**.
+6. **Le prélèvement à la source** de l'impôt sur le revenu, en vigueur depuis janvier 2019, avec le
+   taux transmis par l'administration fiscale.
+7. **Le net à payer**, versé au salarié.
+
+Le bulletin mentionne aussi le **montant net social**, qui sert au calcul de certaines aides comme
+la prime d'activité, et les **cotisations patronales**, payées en plus par l'employeur. Le coût total
+d'un salarié pour l'entreprise est donc nettement supérieur à son salaire brut.
+
+```schema
+type: etapes
+titre: Du brut au net à payer
+elements:
+  - titre: Salaire de base
+    texte: Prévu au contrat.
+  - titre: Éléments variables
+    texte: Heures supplémentaires, primes, absences.
+  - titre: Brut total
+  - titre: Cotisations salariales
+    texte: Souvent un peu plus de 20 % du brut.
+  - titre: Net avant impôt
+  - titre: Prélèvement à la source
+  - titre: Net à payer
+    texte: Versé sur le compte.
+    icone: coin
+```
+
+## Les autres informations à vérifier
+
+- L'identité de l'employeur et du salarié, l'emploi occupé et la **classification** dans la
+  convention collective.
+- La **convention collective** applicable, qui fixe souvent des salaires minimaux et des primes.
+- La **période** et le nombre d'heures payées.
+- Les **congés payés** acquis et pris.
+- La date de paiement.
+
+## Les erreurs à repérer
+
+- Des heures supplémentaires effectuées mais non payées, ou payées sans majoration.
+- Une classification inférieure au poste réellement occupé.
+- Un salaire inférieur au **SMIC** ou au minimum de la convention collective.
+- Des congés payés mal décomptés.
+- Une absence retenue à tort.
+
+En cas de doute, on demande une explication au service de paie, puis, si besoin, on s'adresse aux
+représentants du personnel ou à l'inspection du travail. Un salarié dispose en principe de **trois
+ans** pour réclamer des salaires non versés.
+
+## Brut ou net, lors d'une négociation
+
+En France, les salaires se discutent généralement en **brut annuel**. Pour comparer deux offres, il
+faut tenir compte des primes, du treizième mois, de la mutuelle, des tickets-restaurant, de
+l'intéressement et du statut, cadre ou non, qui modifie les cotisations.
+
+## Conserver ses bulletins
+
+L'employeur doit en garder une copie pendant cinq ans, mais il est conseillé au salarié de conserver
+ses bulletins **jusqu'à la liquidation de sa retraite**, ou toute sa vie. Ils prouvent les périodes
+travaillées et les salaires perçus. Beaucoup d'employeurs les remettent sous forme électronique,
+dans un coffre-fort numérique.
+
+## À retenir
+
+- Le bulletin de salaire va du salaire brut au net à payer.
+- Les cotisations salariales, souvent un peu plus de 20 % du brut, financent santé, retraite et chômage.
+- Depuis 2019, l'impôt sur le revenu est prélevé à la source sur le salaire.
+- On vérifie heures, primes, classification, convention collective et congés.
+- Il faut conserver ses bulletins jusqu'à la retraite, voire toute sa vie.
 
 ---
 type: article
@@ -9224,6 +10551,21 @@ Les congés principaux se prennent entre le 1er mai et le 31 octobre. Le salari�
 ## Ailleurs dans le monde
 
 Les règles changent selon les pays. En Allemagne, la loi prévoit au moins 24 jours de congés, mais les accords entre syndicats et entreprises en donnent souvent 30. Aux États-Unis, dans les grandes entreprises, deux semaines sont la règle courante.
+
+```schema
+type: barres
+titre: Les semaines de congés payés
+unite: semaines
+valeurs:
+  - label: 1936
+    valeur: 2
+  - label: 1956
+    valeur: 3
+  - label: 1969
+    valeur: 4
+  - label: 1982
+    valeur: 5
+```
 
 ## À retenir
 
@@ -9670,6 +11012,10 @@ sources:
   - title: "Légitime défense"
     url: "https://fr.wikipedia.org/wiki/L%C3%A9gitime_d%C3%A9fense"
     publisher: "Wikipédia"
+  - title: "Qu'est-ce que la légitime défense ?"
+    url: "https://www.justice.fr/fiche/legitime-defense"
+    publisher: "Ministère de la Justice"
+    date: "2024"
 quiz:
   - question: "Quel article du Code pénal prévoit la légitime défense ?"
     options:
@@ -9738,6 +11084,23 @@ On peut aussi se défendre pour arrêter un vol ou une destruction. Les conditio
 L'article 122-6 du Code pénal prévoit deux situations où la légitime défense est présumée. La première est de repousser quelqu'un qui entre la nuit dans un lieu habité, par effraction, violence ou ruse. La seconde est de se défendre contre des voleurs ou des pilleurs qui agissent avec violence. Dans ces cas, la personne n'a pas à prouver elle-même qu'elle se défendait.
 
 La légitime défense existe aussi entre États. L'article 51 de la Charte des Nations unies permet à un pays attaqué par les armes de se défendre.
+
+```schema
+type: comparaison
+titre: Les conditions de la légitime défense
+legende: Article 122-5 du Code pénal.
+colonnes:
+  - titre: L'attaque
+    points:
+      - Actuelle
+      - Injustifiée
+      - Réelle
+  - titre: La riposte
+    points:
+      - Nécessaire
+      - Simultanée
+      - Proportionnée
+```
 
 ## À retenir
 
@@ -13094,6 +14457,21 @@ Le droit d'auteur protège les œuvres originales : livres, musique, peintures, 
 
 Un brevet protège une invention, un produit ou un procédé, pour une durée limitée : son titulaire a le droit exclusif de la fabriquer, de l'utiliser et de la vendre, en échange de la description de l'invention. Une marque est un signe, un nom ou un logo qui distingue les produits ou services d'une entreprise de ceux des concurrents ; sa protection peut être renouvelée sans limite. Un dessin ou modèle protège l'apparence d'un objet : sa forme, ses motifs, ses couleurs. Le secret d'affaires protège des informations confidentielles utiles à une entreprise, comme une formule ou un procédé de fabrication. Une indication géographique identifie un produit dont les qualités sont liées à son lieu d'origine.
 
+```schema
+type: comparaison
+titre: Trois protections
+colonnes:
+  - titre: Droit d'auteur
+    points:
+      - Les œuvres
+  - titre: Brevet
+    points:
+      - Les inventions
+  - titre: Marque
+    points:
+      - Les signes et les noms
+```
+
 ## À retenir
 
 - La propriété intellectuelle désigne les droits sur les créations de l'esprit : inventions, œuvres, dessins, signes et noms.
@@ -13201,6 +14579,22 @@ Le règlement européen sur les services numériques, le DSA, renforce ce cadre 
 ## Qui contrôle et sanctionne ?
 
 Chaque pays désigne une autorité indépendante chargée de faire respecter le règlement ; en France, c'est l'Arcom. Une plateforme qui ne respecte pas les règles risque de lourdes amendes, calculées sur son chiffre d'affaires mondial.
+
+```schema
+titre: Éditeur ou hébergeur
+type: comparaison
+colonnes:
+  - titre: Éditeur
+    points:
+      - Choisit et publie les contenus
+      - Responsable de ce qu'il publie
+  - titre: Hébergeur
+    points:
+      - Stocke ce que publient les utilisateurs
+      - >-
+        Doit agir promptement lorsqu’il a effectivement connaissance d’un contenu illicite, selon le
+        cadre applicable.
+```
 
 ## À retenir
 
@@ -13310,6 +14704,18 @@ En Europe, l'article 6 de la Convention européenne des droits de l'homme garant
 
 L'indépendance de la justice signifie que les tribunaux ne doivent subir aucune pression indue des autres pouvoirs ni d'intérêts privés ou partisans. Elle protège les citoyens contre les excès du pouvoir : les décisions reposent alors sur la loi et sur les faits, pas sur une pression politique. Parmi les garanties figurent l'inamovibilité des juges, l'indépendance de l'institution et la sécurité financière des magistrats. La séparation des pouvoirs, entre la justice, le gouvernement et le Parlement, protège l'autonomie des juges. En France, la Constitution de 1958 reconnaît l'indépendance de l'autorité judiciaire, et les magistrats du siège sont inamovibles, selon l'article 64.
 
+```schema
+type: systeme
+titre: Le procès équitable
+centre: Droit à un juge
+icone: scales
+parties:
+  - nom: Indépendant
+  - nom: Impartial
+  - nom: Audience publique
+  - nom: Délai raisonnable
+```
+
 ## À retenir
 
 - Selon la Déclaration universelle, toute personne a droit à une audience équitable et publique devant un tribunal indépendant et impartial.
@@ -13393,6 +14799,19 @@ On l'exerce en prévenant le vendeur avant la fin du délai, avec le formulaire 
 ## Des exceptions
 
 Le droit ne s'applique pas à tous les achats : biens personnalisés, biens périssables, contenus numériques déjà téléchargés, services déjà exécutés avec l'accord du client, billets de transport ou de spectacle, services financiers. Ce droit vaut pour les achats auprès de vendeurs professionnels, pas pour les ventes entre particuliers.
+
+```schema
+titre: Exercer son droit de rétractation
+legende: >-
+  Achat à distance par un consommateur auprès d’un professionnel, sous réserve des exceptions et du
+  point de départ légal du délai.
+type: etapes
+elements:
+  - titre: Achat à distance
+  - titre: Délai de 14 jours
+  - titre: Informer le vendeur
+  - titre: Renvoyer le produit et être remboursé
+```
 
 ## À retenir
 
@@ -13482,6 +14901,20 @@ Cette séparation vient de la Révolution française : par méfiance envers les 
 ## Le Tribunal des conflits
 
 Le Tribunal des conflits veille à la séparation entre les deux ordres et tranche les conflits de compétence entre eux.
+
+```schema
+type: comparaison
+titre: Deux ordres de juridictions
+legende: Le Tribunal des conflits tranche quand on hésite entre les deux.
+colonnes:
+  - titre: Judiciaire
+    points:
+      - Litiges entre personnes privées
+      - Infractions pénales
+  - titre: Administratif
+    points:
+      - Litiges avec l'administration
+```
 
 ## À retenir
 
@@ -13585,6 +15018,18 @@ L'employeur fournit et entretient les équipements nécessaires, et il assure la
 
 Un salarié en télétravail a les mêmes droits que les autres : formation, santé et sécurité, avantages sociaux, charge de travail équivalente. Un accident survenu pendant le télétravail est présumé être un accident du travail. Le droit à la déconnexion permet de ne pas répondre aux sollicitations professionnelles en dehors des horaires convenus.
 
+```schema
+type: systeme
+titre: Le télétravail
+centre: Télétravail
+icone: house
+parties:
+  - nom: Volontariat
+  - nom: Accord ou charte
+  - nom: Obligations de l'employeur
+  - nom: Mêmes droits que sur site
+```
+
 ## À retenir
 
 - Le télétravail est un travail qui aurait pu être fait dans les locaux de l'employeur, effectué volontairement ailleurs.
@@ -13683,6 +15128,19 @@ Les modèles d'IA à usage général, comme ceux qui font fonctionner des chatbo
 ## Ce qui est interdit, et ce qui est libre
 
 Certaines pratiques sont interdites, par exemple la manipulation nuisible et la notation sociale. La Commission range aussi parmi les pratiques interdites la création de contenus intimes non consentis par IA. La plupart des usages de l'IA, comme les filtres anti-spam ou les jeux vidéo, relèvent du risque minimal et n'ont pas d'obligation spécifique.
+
+```schema
+type: systeme
+titre: Transparence de l'IA
+centre: Contenu généré par IA
+icone: robot
+parties:
+  - nom: Savoir qu'on parle à une IA
+  - nom: Contenus repérables
+    role: Marquage des contenus générés.
+  - nom: Modèles à usage général
+    role: Obligations spécifiques.
+```
 
 ## À retenir
 

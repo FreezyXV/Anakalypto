@@ -1,0 +1,132 @@
+[
+  {
+    "id": "broadcast",
+    "states": [
+      {
+        "bad": [],
+        "caption": "Un studio fournit un programme à un émetteur radio.",
+        "frame": "0",
+        "scroll": 320,
+        "width": 320
+      },
+      {
+        "bad": [],
+        "caption": "Plusieurs récepteurs peuvent écouter la même émission.",
+        "frame": "1",
+        "scroll": 320,
+        "width": 320
+      },
+      {
+        "bad": [],
+        "caption": "Le poste transforme le signal reçu en son pour les auditeurs.",
+        "frame": "2",
+        "scroll": 320,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "shortwave",
+    "states": [
+      {
+        "bad": [],
+        "caption": "Un trajet retournant vers le sol peut dépasser l’horizon local.",
+        "frame": "0",
+        "scroll": 320,
+        "width": 320
+      },
+      {
+        "bad": [],
+        "caption": "Des trajets successifs peuvent alterner retour par l’ionosphère et passage au sol.",
+        "frame": "1",
+        "scroll": 320,
+        "width": 320
+      },
+      {
+        "bad": [],
+        "caption": "D’autres conditions peuvent empêcher le même trajet d’atteindre le récepteur.",
+        "frame": "2",
+        "scroll": 320,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "crystalradio",
+    "states": [
+      {
+        "bad": [],
+        "caption": "Un accord, un détecteur à cristal et un écouteur reçoivent l’énergie de l’antenne.",
+        "frame": "0",
+        "scroll": 320,
+        "width": 320
+      },
+      {
+        "bad": [],
+        "caption": "Le détecteur rend le signal asymétrique et permet de retrouver sa variation lente.",
+        "frame": "1",
+        "scroll": 320,
+        "width": 320
+      },
+      {
+        "bad": [],
+        "caption": "Le circuit ne comporte ni pile ni amplificateur alimenté.",
+        "frame": "2",
+        "scroll": 320,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "wirelessmorse",
+    "states": [
+      {
+        "bad": [],
+        "caption": "La lettre S est représentée par trois signaux courts.",
+        "frame": "0",
+        "scroll": 320,
+        "width": 320
+      },
+      {
+        "bad": [],
+        "caption": "La lettre O utilise trois signaux trois fois plus longs.",
+        "frame": "1",
+        "scroll": 320,
+        "width": 320
+      },
+      {
+        "bad": [],
+        "caption": "Le récepteur permet de reconnaître le rythme transmis sans fil.",
+        "frame": "2",
+        "scroll": 320,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "colourtv",
+    "states": [
+      {
+        "bad": [],
+        "caption": "L’écran couleur combine des composantes rouge, verte et bleue.",
+        "frame": "0",
+        "scroll": 320,
+        "width": 320
+      },
+      {
+        "bad": [],
+        "caption": "Le codage analogique distingue une information de luminosité et des différences de couleur.",
+        "frame": "1",
+        "scroll": 320,
+        "width": 320
+      },
+      {
+        "bad": [],
+        "caption": "Un poste monochrome compatible utilise la luma ; un poste couleur utilise aussi la chrominance.",
+        "frame": "2",
+        "scroll": 320,
+        "width": 320
+      }
+    ]
+  }
+]

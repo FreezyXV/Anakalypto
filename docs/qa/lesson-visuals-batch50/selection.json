@@ -1,0 +1,302 @@
+[
+  {
+    "id": "newtonmotion",
+    "group": 0,
+    "path": "/sciences-fondamentales/physique/mecanique/lois-de-newton-mecanique-classique",
+    "ref": "LEC-CD94769882CF"
+  },
+  {
+    "id": "energyball",
+    "group": 0,
+    "path": "/sciences-fondamentales/physique/mecanique/energie-et-conservation",
+    "ref": "LEC-16E541445C21"
+  },
+  {
+    "id": "heatpaths",
+    "group": 0,
+    "path": "/sciences-fondamentales/physique/thermodynamique/conduction-convection-rayonnement",
+    "ref": "LEC-F6C8875D506B"
+  },
+  {
+    "id": "magnetdomains",
+    "group": 0,
+    "path": "/sciences-fondamentales/physique/electromagnetisme/comment-fonctionne-un-aimant",
+    "ref": "LEC-8927182D1EAC"
+  },
+  {
+    "id": "transformercoil",
+    "group": 0,
+    "path": "/sciences-fondamentales/physique/electromagnetisme/les-transformateurs-electriques-et-leur-role-dans-l-ajustement-de-la-tension",
+    "ref": "LEC-33EB12F4F5DC"
+  },
+  {
+    "id": "rainbowdrop",
+    "group": 0,
+    "path": "/sciences-fondamentales/physique/electromagnetisme/comment-se-forme-un-arc-en-ciel",
+    "ref": "LEC-652A7632EAF9"
+  },
+  {
+    "id": "skyscatter",
+    "group": 0,
+    "path": "/sciences-fondamentales/physique/electromagnetisme/pourquoi-le-ciel-est-il-bleu-et-le-soleil-couchant-rouge",
+    "ref": "LEC-F9FB95F6A3EA"
+  },
+  {
+    "id": "microwavefood",
+    "group": 0,
+    "path": "/sciences-fondamentales/physique/electromagnetisme/comment-un-four-a-micro-ondes-chauffe-t-il-les-aliments",
+    "ref": "LEC-986113EC21DD"
+  },
+  {
+    "id": "lakeice",
+    "group": 0,
+    "path": "/sciences-fondamentales/physique/thermodynamique/pourquoi-un-lac-gele-t-il-par-la-surface-plutot-que-par-le-fond",
+    "ref": "LEC-921E17C91667"
+  },
+  {
+    "id": "saltdissolve",
+    "group": 0,
+    "path": "/sciences-fondamentales/chimie/chimie-physique/pourquoi-le-sel-disparait-il-dans-l-eau-alors-que-l-huile-reste-a-part",
+    "ref": "LEC-ABCF6D8301C5"
+  },
+  {
+    "id": "desalination",
+    "group": 1,
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/comment-transforme-t-on-l-eau-de-mer-en-eau-douce",
+    "ref": "LEC-E17F8A1C316A"
+  },
+  {
+    "id": "compostlife",
+    "group": 1,
+    "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/comment-des-epluchures-se-transforment-elles-en-compost",
+    "ref": "LEC-15CBBE933AD2"
+  },
+  {
+    "id": "paperloop",
+    "group": 1,
+    "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/comment-un-vieux-journal-redevient-il-du-papier-neuf",
+    "ref": "LEC-FD7B3BB15F42"
+  },
+  {
+    "id": "mangroveroots",
+    "group": 1,
+    "path": "/environnement-et-climat/biodiversite/ecosystemes/comment-les-mangroves-protegent-elles-les-cotes-des-vagues",
+    "ref": "LEC-027FE0393F3A"
+  },
+  {
+    "id": "citycanopy",
+    "group": 1,
+    "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/comment-les-arbres-rafraichissent-ils-une-ville-en-ete",
+    "ref": "LEC-26EAB4A19BE4"
+  },
+  {
+    "id": "ozonecycle",
+    "group": 1,
+    "path": "/environnement-et-climat/changement-climatique/gaz-a-effet-de-serre/pourquoi-un-trou-s-est-il-forme-dans-la-couche-d-ozone",
+    "ref": "LEC-0830CD946693"
+  },
+  {
+    "id": "algaebloom",
+    "group": 1,
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/pourquoi-des-algues-vertes-envahissent-elles-certaines-plages-de-bretagne",
+    "ref": "LEC-97864407A8B4"
+  },
+  {
+    "id": "rainharvest",
+    "group": 1,
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/recuperer-eau-pluie",
+    "ref": "LEC-FE56C55DEA31"
+  },
+  {
+    "id": "hedgerows",
+    "group": 1,
+    "path": "/environnement-et-climat/biodiversite/ecosystemes/haies-bocage",
+    "ref": "LEC-1365D448F288"
+  },
+  {
+    "id": "wormsoil",
+    "group": 1,
+    "path": "/environnement-et-climat/biodiversite/ecosystemes/comment-les-vers-de-terre-rendent-ils-le-sol-fertile",
+    "ref": "LEC-51038463BCDB"
+  },
+  {
+    "id": "graftunion",
+    "group": 2,
+    "path": "/sciences-du-vivant-appliquees/agronomie/selection-vegetale/greffage",
+    "ref": "LEC-9EB21845E38B"
+  },
+  {
+    "id": "croprotation",
+    "group": 2,
+    "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/rotation-cultures",
+    "ref": "LEC-0ED3FAED931A"
+  },
+  {
+    "id": "rootnodules",
+    "group": 2,
+    "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/legumineuses-azote",
+    "ref": "LEC-9ACD2D5D22ED"
+  },
+  {
+    "id": "biocontrol",
+    "group": 2,
+    "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/lutte-biologique-contre-ravageurs",
+    "ref": "LEC-F42AAC4354E1"
+  },
+  {
+    "id": "dripwater",
+    "group": 2,
+    "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/irrigation-econome-eau",
+    "ref": "LEC-CAC499602CD5"
+  },
+  {
+    "id": "mulchsoil",
+    "group": 2,
+    "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/comment-une-couche-de-paille-protege-t-elle-le-sol-d-un-potager",
+    "ref": "LEC-95B1BDBDFA0A"
+  },
+  {
+    "id": "seedvault",
+    "group": 2,
+    "path": "/sciences-du-vivant-appliquees/agronomie/selection-vegetale/pourquoi-garde-t-on-des-millions-de-graines-dans-une-montagne-glacee-pres-du-pole-nord",
+    "ref": "LEC-2B54BDCB018A"
+  },
+  {
+    "id": "insulinmicrobe",
+    "group": 2,
+    "path": "/sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese/comment-des-bacteries-fabriquent-elles-l-insuline-des-diabetiques",
+    "ref": "LEC-CE7F7BCB0A5F"
+  },
+  {
+    "id": "washenzyme",
+    "group": 2,
+    "path": "/sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese/comment-des-enzymes-produites-par-des-microbes-aident-elles-la-lessive-a-laver-a-froid",
+    "ref": "LEC-C1A2DE345AAF"
+  },
+  {
+    "id": "quorumlight",
+    "group": 2,
+    "path": "/sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese/comment-des-bacteries-produisent-elles-de-la-lumiere-et-pourquoi-le-font-elles-ensemble",
+    "ref": "LEC-40230F703D37"
+  },
+  {
+    "id": "weaveloom",
+    "group": 3,
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/filer-tisser",
+    "ref": "LEC-61BF6660EAE7"
+  },
+  {
+    "id": "foundrycast",
+    "group": 3,
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/fonderie",
+    "ref": "LEC-C7747624891C"
+  },
+  {
+    "id": "steeltemper",
+    "group": 3,
+    "path": "/industries/industrie-lourde/siderurgie/trempe-revenu",
+    "ref": "LEC-1BE8E15DC109"
+  },
+  {
+    "id": "catalystpath",
+    "group": 3,
+    "path": "/industries/industrie-lourde/chimie-industrielle/les-catalyseurs-accelerer-une-reaction-chimique",
+    "ref": "LEC-567FF98BA154"
+  },
+  {
+    "id": "rubberlinks",
+    "group": 3,
+    "path": "/industries/materiaux-et-procedes/composites-et-polymeres/comment-le-soufre-a-t-il-rendu-le-caoutchouc-solide-et-elastique",
+    "ref": "LEC-9779032E6A69"
+  },
+  {
+    "id": "thermoplastic",
+    "group": 3,
+    "path": "/industries/materiaux-et-procedes/composites-et-polymeres/pourquoi-certains-plastiques-fondent-ils-a-la-chaleur-et-d-autres-non",
+    "ref": "LEC-836C8CCD5C96"
+  },
+  {
+    "id": "lathemill",
+    "group": 3,
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/comment-un-tour-et-une-fraiseuse-taillent-ils-une-piece-dans-un-bloc-de-metal",
+    "ref": "LEC-B552365DD069"
+  },
+  {
+    "id": "printlayers",
+    "group": 3,
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/comment-une-imprimante-3d-peut-elle-fabriquer-une-piece-detachee-sur-place",
+    "ref": "LEC-2F986C77E170"
+  },
+  {
+    "id": "rebarbeam",
+    "group": 3,
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/pourquoi-met-on-des-barres-d-acier-dans-le-beton",
+    "ref": "LEC-60F14261AE47"
+  },
+  {
+    "id": "fatiguecrack",
+    "group": 3,
+    "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/pourquoi-une-piece-de-metal-peut-elle-casser-a-force-d-etre-secouee",
+    "ref": "LEC-72421F31AB48"
+  },
+  {
+    "id": "rooftruss",
+    "group": 4,
+    "path": "/technologies-et-ingenierie/genie-civil/structures/charpente-bois",
+    "ref": "LEC-662700C383B8"
+  },
+  {
+    "id": "claybrick",
+    "group": 4,
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/brique-terre-cuite",
+    "ref": "LEC-A4801A70544F"
+  },
+  {
+    "id": "aqueductslope",
+    "group": 4,
+    "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/aqueducs-canaux",
+    "ref": "LEC-5C366692B779"
+  },
+  {
+    "id": "baseisolation",
+    "group": 4,
+    "path": "/technologies-et-ingenierie/genie-civil/structures/comment-construire-des-batiments-qui-resistent-aux-tremblements-de-terre",
+    "ref": "LEC-769B647B926C"
+  },
+  {
+    "id": "quadcopter",
+    "group": 4,
+    "path": "/technologies-et-ingenierie/robotique/robots-mobiles/comment-un-drone-a-quatre-helices-tient-il-immobile-dans-les-airs",
+    "ref": "LEC-420609400C6A"
+  },
+  {
+    "id": "lidarmap",
+    "group": 4,
+    "path": "/technologies-et-ingenierie/robotique/perception/comment-un-lidar-permet-il-a-un-robot-de-dessiner-une-carte-de-ce-qui-l-entoure",
+    "ref": "LEC-E39FF0AD8380"
+  },
+  {
+    "id": "motortorque",
+    "group": 4,
+    "path": "/technologies-et-ingenierie/robotique/actionneurs/comment-un-moteur-electrique-transforme-t-il-le-courant-en-mouvement",
+    "ref": "LEC-213B5B859B7D"
+  },
+  {
+    "id": "elasticplastic",
+    "group": 4,
+    "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/l-elasticite-et-la-plasticite-des-materiaux",
+    "ref": "LEC-D1592BB56815"
+  },
+  {
+    "id": "wheatflour",
+    "group": 4,
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/comment-un-grain-de-ble-devient-il-de-la-farine",
+    "ref": "LEC-F10455CFE1BE"
+  },
+  {
+    "id": "yogurtculture",
+    "group": 4,
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/fermentation/comment-des-bacteries-transforment-elles-le-lait-en-yaourt",
+    "ref": "LEC-170E1805C847"
+  }
+]

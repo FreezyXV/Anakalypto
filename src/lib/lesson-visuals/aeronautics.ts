@@ -4,10 +4,7 @@ export const AERONAUTICS_DIAGRAMS: readonly LessonDiagramSpec[] = [
   {
     id: "winglet",
     title: "Une aile, ses extrémités et son sillage",
-    paths: [
-      "/aeronautique/aerodynamique/trainee/winglets-trainee-induite",
-      "/aeronautique/aerodynamique/trainee/les-winglets-petits-ailerons-contre-la-trainee",
-    ],
+    paths: ["/aeronautique/aerodynamique/trainee/les-winglets-petits-ailerons-contre-la-trainee"],
     steps: [
       {
         label: "Aile finie",

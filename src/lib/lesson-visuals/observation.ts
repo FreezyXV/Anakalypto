@@ -235,7 +235,9 @@ export const OBSERVATION_DIAGRAMS: readonly LessonDiagramSpec[] = [
   {
     id: "polaris",
     title: "Prolonger les deux étoiles repères",
-    paths: ["/espace-et-astronomie/astrophysique/etoiles/reperer-grace-etoiles"],
+    paths: [
+      "/espace-et-astronomie/astrophysique/etoiles/l-etoile-polaire-et-son-role-dans-l-orientation",
+    ],
     steps: [
       {
         label: "Trouver la casserole",
