@@ -28,6 +28,8 @@
     "prisma:studio": "prisma studio",
     "seed": "tsx prisma/seed.ts",
     "seed:check": "tsx prisma/seed.ts --dry-run",
+    "content:sync-published": "tsx scripts/sync-published-content.ts",
+    "content:verify-published": "tsx scripts/verify-published-content.ts",
     "setup:db": "prisma migrate deploy && tsx prisma/seed.ts",
     "start": "next start",
     "test": "vitest run",

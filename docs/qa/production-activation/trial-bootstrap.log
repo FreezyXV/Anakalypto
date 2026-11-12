@@ -1,0 +1,8 @@
+Target: trial
+{
+  "initialized": 241,
+  "stale": 191,
+  "skipped": 0,
+  "inlineInitialized": 948,
+  "rendererMatches": true
+}

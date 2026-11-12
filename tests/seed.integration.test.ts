@@ -3,6 +3,7 @@ import { afterAll, beforeEach, describe, expect, it } from "vitest";
 
 import { loadContentBlocks } from "../src/lib/content/load";
 import { seedCorpus } from "../src/lib/content/seed";
+import { publishedCorpus } from "../src/lib/content/published";
 import { validateCorpus } from "../src/lib/content/validate";
 import type { RawBlock } from "../src/lib/content/types";
 import { prisma } from "../src/lib/prisma";
@@ -89,6 +90,31 @@ describe("seedCorpus", () => {
   afterAll(async () => {
     await resetDatabase(prisma);
     await prisma.$disconnect();
+  });
+
+  it("importe seulement les publiés sans toucher aux brouillons et données hors sélection", async () => {
+    await run(corpus({ status: "draft", relatedArticles: [] }, "Brouillon à conserver."));
+    const draft = await prisma.article.findUniqueOrThrow({
+      where: { slug: "relativite-generale" },
+    });
+    await prisma.tag.create({ data: { name: "À conserver", slug: "a-conserver" } });
+    const validated = validateCorpus(
+      corpus({ status: "draft", relatedArticles: [] }, "Ne pas importer."),
+    );
+    const selected = publishedCorpus(validated);
+    expect(selected.articles.map((article) => article.slug)).toEqual(["ondes-gravitationnelles"]);
+    expect(selected.articles[0]?.relatedArticles).toEqual([]);
+    selected.articles[0]!.content = "Contenu publié actualisé.";
+    const summary = await seedCorpus(prisma, selected, { prune: false });
+    expect(summary.removed).toEqual({ articles: 0, categories: 0, tags: 0 });
+    expect(await prisma.article.findUnique({ where: { slug: draft.slug } })).toEqual(draft);
+    expect(await prisma.tag.findUnique({ where: { slug: "a-conserver" } })).not.toBeNull();
+    expect(
+      (await prisma.article.findUniqueOrThrow({ where: { slug: "ondes-gravitationnelles" } }))
+        .content,
+    ).toBe("Contenu publié actualisé.");
+    const second = await seedCorpus(prisma, selected, { prune: false });
+    expect(second.articles).toEqual({ created: 0, updated: 0, unchanged: 1 });
   });
 
   it("cree l'arborescence, les articles et leurs relations", async () => {

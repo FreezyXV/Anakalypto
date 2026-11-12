@@ -5,6 +5,8 @@ export default defineConfig({
   test: {
     environment: "node",
     include: ["tests/**/*.test.ts"],
+    // Cette suite a sa propre base et son propre garde-fou, sans reset global.
+    exclude: ["tests/illustration-workflow.integration.test.ts"],
     globalSetup: ["tests/globalSetup.ts"],
     setupFiles: ["tests/setup.ts"],
     // Les tests d'integration partagent une meme base et la vident entre les cas:
