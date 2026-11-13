@@ -1,0 +1,242 @@
+[
+  {
+    "ref": "LEC-5062405EAFEF",
+    "path": "/sciences-fondamentales/chimie/chimie-physique/pourquoi-la-croute-du-pain-et-la-viande-grillee-ont-elles-ce-gout-et-cette-couleur",
+    "visualRefs": ["schema:maillardfood"],
+    "contentHash": "9eb0918470f59eda5ac3a78adb6a986909f5f992f96dbfc851a7a63b29a3b25d",
+    "fingerprint": "1cdbf356d95673a6e94c0f2c536c72ae4697b281608a7c92719dbc0d8c110912",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-4203FE13E7A0",
+    "path": "/sciences-fondamentales/mathematiques/geometrie/pourquoi-aucune-carte-du-monde-a-plat-ne-peut-elle-etre-parfaitement-fidele",
+    "visualRefs": ["schema:mapprojection"],
+    "contentHash": "7919e284a55e668f7759dcd2b8ed7ba4e03196ea1280a85c1ef3811d71411ded",
+    "fingerprint": "ece5cf4df93c94480483982e04dbacb9911193fd6c0beebb61a3a195252eff12",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-BD8A6750BAD9",
+    "path": "/sciences-fondamentales/biologie/cellule/la-cellule-unite-du-vivant",
+    "visualRefs": ["schema:cellmap"],
+    "contentHash": "f7f166e279c0f84226ec706db5305609559e193d41d452f9d4315dccda03fa1d",
+    "fingerprint": "18ece4d59dda784866d5addc4821e52eea5eb55c92bafb88f829e1789ff446fc",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-E12CAA472289",
+    "path": "/sciences-fondamentales/sciences-de-la-terre/oceanographie/courants-oceaniques-role-climatique",
+    "visualRefs": ["schema:oceancirculation"],
+    "contentHash": "8a3c7af8f108336f30c5daf7488cfd50a38d9843781489aeba9fda455d9b2e66",
+    "fingerprint": "f537c6a11655759b78de3b2a40040a5428cf71e22d6372bc2320092f45792cbd",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-0D7569645001",
+    "path": "/sciences-fondamentales/chimie/chimie-inorganique/tableau-periodique-des-elements",
+    "visualRefs": ["schema:periodicmap"],
+    "contentHash": "10ce6e283790ca8d6e28bbef45af4d39a88a82960ba6fe5afba64ecda46a1ed9",
+    "fingerprint": "8a8e53ad15d4cd19fd9521a5d9b50ea3d9a5636134813d058a31059335b05ec6",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-FB0B988C368B",
+    "path": "/sciences-fondamentales/physique/mecanique/pourquoi-peserait-on-six-fois-moins-sur-la-lune-sans-perdre-un-gramme",
+    "visualRefs": ["schema:moonweight"],
+    "contentHash": "4651be28829c87014b4ffe3e301770132727bd92b91d5b2f5ac6671949396a98",
+    "fingerprint": "e432dfedbe226a3c8a70cef4547092193ef8e55df73b60703419ae9747d4d0aa",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-D9CA5BC87357",
+    "path": "/technologies-et-ingenierie/nanotechnologies/nanomateriaux/graphene-et-nanomateriaux",
+    "visualRefs": ["schema:graphenelattice"],
+    "contentHash": "09e3c891cff4c95e0f3ac75ccb670778210e364e627941733d5722fb1ab68ad6",
+    "fingerprint": "7b59068c8b076928c3c3fd6d0cee9ea4a6c608e0de63749b7702b88498b94620",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-482C9F4AF9C4",
+    "path": "/sciences-fondamentales/biologie/ecologie/chaines-alimentaires-et-ecosystemes",
+    "visualRefs": ["schema:foodweb"],
+    "contentHash": "ef92865f32eccf012488f9a66a222430a8f733064f63abb6ab6389c0f71c2bfe",
+    "fingerprint": "88c28f0485eed7852f224d1f517f0d7f0708f6ed0fc1d410ef5cc5aaf93a3373",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-E2A4777A8BF4",
+    "path": "/sciences-fondamentales/biologie/evolution/theorie-evolution-selection-naturelle",
+    "visualRefs": ["schema:selectionbeetles"],
+    "contentHash": "8e04c24daea60dc861f8dd028cf684b9f988152960f4f654c98bdf88133de6dc",
+    "fingerprint": "e40809baa90ad6ac0a17c06d0512ab93c3f6179c0c82e275706c31e9f066f337",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-0152D71DF33E",
+    "path": "/sciences-fondamentales/physique/thermodynamique/temperature-et-chaleur",
+    "visualRefs": ["schema:thermalcontact"],
+    "contentHash": "2032da13ed81976733205baf0be341f1c61688cbcc79a7b754849b2ee595b697",
+    "fingerprint": "41bd6f724681e92d9ebd5c020e4b105501f14dd017afa6849a318be2cd45f2c3",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-F7DF87BA0740",
+    "path": "/sciences-fondamentales/chimie/chimie-physique/reactions-chimiques-et-equilibre",
+    "visualRefs": ["schema:dynamicbalance"],
+    "contentHash": "b9eac002f0480f90b9f1df1c7dba3547b8a4365aab339d34c8483823f5375973",
+    "fingerprint": "99abd19deb128d386012c3cd2b0f9784b0b919cbe852b9b8031c20453a1199f2",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-8D3BB215585C",
+    "path": "/industries/materiaux-et-procedes/composites-et-polymeres/composites-et-materiaux-combines",
+    "visualRefs": ["schema:compositeply"],
+    "contentHash": "908dc051536cbea747bf6b67654b53a20773791c8aee86685a47074eab75417c",
+    "fingerprint": "b9e3ff92342864415a6d4b88e8b03efc8c89a1fdaf396715063265be0efb653c",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-543DEF1CB011",
+    "path": "/sciences-fondamentales/chimie/chimie-organique/molecule-carbone-composes-organiques",
+    "visualRefs": ["schema:carbonbonds"],
+    "contentHash": "1c8ccb45134329d54ee465f6db1b3ac240a23fe321c29fba3b6f9fa60cb65b9c",
+    "fingerprint": "ae1bcf682d17cea7cf5117135f496d550453088f4714735b379b2b9b85a41844",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-5DE3CD051512",
+    "path": "/sciences-fondamentales/chimie/chimie-physique/combustion",
+    "visualRefs": ["schema:methaneflame"],
+    "contentHash": "82e7297cf1bda2d961a2117f7e0b5648a0603333f677c452d5f6179838b55fef",
+    "fingerprint": "7608929fdeb830738623792d30072b95da2517080b0d9ca06e6008b7584388a2",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-8CDB7A95BC49",
+    "path": "/sciences-fondamentales/mathematiques/probabilites-et-statistiques/la-moyenne-la-mediane-et-le-mode-trois-mesures-distinctes",
+    "visualRefs": ["schema:meanmedian"],
+    "contentHash": "be80b909cdc2ecbea71ab8dbf4758a0d3e96155bba70994063cbb3e79049767f",
+    "fingerprint": "b5abe6ad4178800a27d39a293be4a123d24873595c539e72951a9109fe5dce2a",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-E44D72BC4A9B",
+    "path": "/sciences-fondamentales/chimie/chimie-inorganique/acides-bases",
+    "visualRefs": ["schema:phscale"],
+    "contentHash": "dfb258189898caa38f660407631cf450d93317ab21eb4d634f6c93b535ca8746",
+    "fingerprint": "b15d0bdee1b56c785a3c47b22190640fecbf01dcb8600a139b3c8e33584be35c",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-373E3AC8FBD6",
+    "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/les-alliages-a-memoire-de-forme",
+    "visualRefs": ["schema:memoryalloy"],
+    "contentHash": "084f9f6ea4677208a22dda74945cbe1b4d42d4015f19693a8cb35f0b032f6c4b",
+    "fingerprint": "13364ad55d76993f2ca5352a83412fb7cbcab1b9769af684c34cb570ba9eeee2",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-B94BE1EE513E",
+    "path": "/sciences-fondamentales/biologie/genetique/pourquoi-n-avons-nous-pas-tous-le-meme-groupe-sanguin",
+    "visualRefs": ["schema:abomarkers"],
+    "contentHash": "38de7cbc268e1b5cd85dc14ec9b02842a6d049a60e8efd1024229e0cfc057f97",
+    "fingerprint": "75143012cbd90400073dfebfb28bcdd4477a28df5cda071fb366ee436699d7c5",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-AFE4313B5782",
+    "path": "/sciences-fondamentales/mathematiques/geometrie/comment-eratosthene-a-t-il-mesure-la-terre-avec-une-ombre",
+    "visualRefs": ["schema:eratosthenes"],
+    "contentHash": "f5dc06a880c3cad2d8034496823e0803a6eada04b57e87605558583a150a74d6",
+    "fingerprint": "c131f190c169ca568c8b2c7cc71ee103813eb24d6beffbb41c4aa3a5c50f9933",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-1D656117C160",
+    "path": "/sciences-fondamentales/mathematiques/geometrie/pourquoi-le-nombre-pi-se-cache-t-il-dans-tous-les-cercles",
+    "visualRefs": ["schema:circlepi"],
+    "contentHash": "3b103aa0c07f928eb78682a2f8fe1f99b8ae8da44f1b73e19a47d9ecae4f267e",
+    "fingerprint": "e0cb0cb3a5096ad2e3b9c0c6727bdcc72003e625fed9a6b5aa91d6469cc78f92",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-A7AABE875D4A",
+    "path": "/sciences-fondamentales/physique/thermodynamique/un-refrigerateur-fabrique-t-il-vraiment-du-froid",
+    "visualRefs": ["schema:fridgecycle"],
+    "contentHash": "ae8fb31e63a109c184a9899662320a85f4b377d303b7c13a79df00ddb7125795",
+    "fingerprint": "1bc37cee4e612daade4edd398823a4b0e89126a5d513c9ee33431566cc571cdd",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-2B67D7914614",
+    "path": "/sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes/pourquoi-certaines-sources-sortent-elles-du-sol-deja-chaudes",
+    "visualRefs": ["schema:hotspring"],
+    "contentHash": "893145880e5e70ef109fdd9ba12cbc3938970d09d9a911b10d8b864818056360",
+    "fingerprint": "b40de6d523959302aa85309ea0e0617e834823c6a028854483f83fe923fa7438",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-F0D12CD1F3FF",
+    "path": "/sciences-fondamentales/biologie/evolution/comment-les-bacteries-deviennent-elles-resistantes-aux-antibiotiques",
+    "visualRefs": ["schema:resistantpopulation"],
+    "contentHash": "8a7fae512e27f0480d2f5546dfb87a58004a70b7d216e93e4c648a1fd642a631",
+    "fingerprint": "9a20c5f6a58d83cb680186526200c7dd55fb25814c287060e14b243a7bfad489",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-2B6531B276A3",
+    "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/pourquoi-l-acier-inoxydable-ne-rouille-t-il-pas",
+    "visualRefs": ["schema:passivelayer"],
+    "contentHash": "47ab0a311736389ce73d07ca581582e67b36819e5b4a8101596777d65de9ebc3",
+    "fingerprint": "3d27a85dc447c9c24d7cc1bfb8a3fda50283f6655c6cf305173e64e3482aa0d8",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-DEBC0D00C3F9",
+    "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/comment-un-barrage-resiste-t-il-a-la-poussee-de-l-eau",
+    "visualRefs": ["schema:gravitydam"],
+    "contentHash": "4c9af59451fc20c44a39b2f19217952acae310d62b20406cfee28d6abfa12ebb",
+    "fingerprint": "2bb22140b95f102c8b9655b366adf04b651887d2013da26516956257fc9503e1",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-8D76CA37764E",
+    "path": "/sciences-fondamentales/physique/physique-quantique/pourquoi-la-lumiere-d-un-laser-est-elle-si-differente-de-celle-d-une-lampe",
+    "visualRefs": ["schema:laserbeam"],
+    "contentHash": "c4447a637a0ce1789bf0e168a5414951f5752b434b8278e233b4d7457c5474e8",
+    "fingerprint": "815490b06987c427ab3f0c3b880e805c69acee9e63a3087e82bc685ff58e17da",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-76FF959256D0",
+    "path": "/sciences-fondamentales/chimie/chimie-inorganique/oxydation-reduction",
+    "visualRefs": ["schema:redoxpair"],
+    "contentHash": "fee2ddd73e49703373ef239a76e4d44770822befc5c0d3d20e868ba055d640e4",
+    "fingerprint": "4976d5854af37b155fcfd9f3180a912be5523be9cf35ef8eaea83913e9f9fad4",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-DAAE11792655",
+    "path": "/sciences-fondamentales/mathematiques/probabilites-et-statistiques/la-loi-des-grands-nombres",
+    "visualRefs": ["schema:samplingmeans"],
+    "contentHash": "db53e48faef5728bba2882164258d364c1f0ce0402e2a0237a7a8b5fce04fe62",
+    "fingerprint": "c44719183327e360b081255f8cfd62f7bd074230d44c5648a33dfc2994e80b29",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-A4D8F80D11BF",
+    "path": "/sciences-fondamentales/chimie/chimie-inorganique/l-eau-une-molecule-aux-proprietes-exceptionnelles",
+    "visualRefs": ["schema:waterbonds"],
+    "contentHash": "bf655fa20a1c70afb95642e54555d8297e69d518aace3474df25cef17c695f3a",
+    "fingerprint": "f200fa8cec297d7e6862834fab759dbf2536409b201f5c5e89ddf0f384e3c461",
+    "evidence": "docs/qa/sciences30/README.md"
+  },
+  {
+    "ref": "LEC-9BC1AA9FE6E6",
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/comment-des-bacteries-des-capsules-ou-la-chaux-romaine-reparent-elles-les-fissures-du-beton",
+    "visualRefs": ["schema:healingcapsule"],
+    "contentHash": "a1aa0f4a67cdc0763c28a9113a8ea84ecbe9dc81de04da857973496695563f4e",
+    "fingerprint": "d81601b568009aac2418195f6a4c56c9f29a8bc9b6d12a1b24e28639250e6250",
+    "evidence": "docs/qa/sciences30/README.md"
+  }
+]

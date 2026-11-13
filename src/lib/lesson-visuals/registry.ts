@@ -1,3 +1,4 @@
+import { SCIENCES30_DIAGRAMS } from "./sciences30";
 import { ORGANS_DIAGRAMS } from "./organs";
 import { BATCH50_DIAGRAMS } from "./batch50";
 import { ENERGY29_DIAGRAMS } from "./energy29";
@@ -14,6 +15,36 @@ import { ASTRONOMY_DIAGRAMS } from "./astronomy";
 
 /** Associations éditoriales explicites. Aucune recherche de mots-clés au rendu. */
 export type LessonDiagramKind =
+  | "cellmap"
+  | "foodweb"
+  | "selectionbeetles"
+  | "resistantpopulation"
+  | "abomarkers"
+  | "phscale"
+  | "waterbonds"
+  | "redoxpair"
+  | "periodicmap"
+  | "carbonbonds"
+  | "methaneflame"
+  | "dynamicbalance"
+  | "maillardfood"
+  | "eratosthenes"
+  | "mapprojection"
+  | "circlepi"
+  | "meanmedian"
+  | "samplingmeans"
+  | "moonweight"
+  | "laserbeam"
+  | "thermalcontact"
+  | "fridgecycle"
+  | "hotspring"
+  | "oceancirculation"
+  | "gravitydam"
+  | "memoryalloy"
+  | "passivelayer"
+  | "graphenelattice"
+  | "compositeply"
+  | "healingcapsule"
   | "heartloop"
   | "clotmesh"
   | "pulsewave"
@@ -1444,6 +1475,7 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
   ...AI_USAGE_DIAGRAMS,
   ...AI_CONTEXT_DIAGRAMS,
   ...RADIO_DIAGRAMS,
+  ...SCIENCES30_DIAGRAMS,
   ...ORGANS_DIAGRAMS,
   ...BATCH50_DIAGRAMS,
   ...ENERGY29_DIAGRAMS,

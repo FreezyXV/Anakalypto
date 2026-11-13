@@ -1,3 +1,9 @@
+import { Biology30Drawing } from "./Biology30Drawings";
+import { Chemistry30Drawing } from "./Chemistry30Drawings";
+import { Thermo30Drawing } from "./Thermo30Drawings";
+import { Math30Drawing } from "./Math30Drawings";
+import { EarthPhysics30Drawing } from "./EarthPhysics30Drawings";
+import { Materials30Drawing } from "./Materials30Drawings";
 import { CardioOrgansDrawing } from "./CardioOrgansDrawings";
 import { DigestiveOrgansDrawing } from "./DigestiveOrgansDrawings";
 import { NeuroOrgansDrawing } from "./NeuroOrgansDrawings";
@@ -64,6 +70,12 @@ export function LessonDiagramCanvas({
         style={{ fontFamily: "var(--font-sans), system-ui, sans-serif" } as CSSProperties}
       >
         <DiagramSurface id={id} tint="#eef3f8" />
+        <Biology30Drawing {...props} />
+        <Chemistry30Drawing {...props} />
+        <Thermo30Drawing {...props} />
+        <Math30Drawing {...props} />
+        <EarthPhysics30Drawing {...props} />
+        <Materials30Drawing {...props} />
         <CardioOrgansDrawing {...props} />
         <DigestiveOrgansDrawing {...props} />
         <NeuroOrgansDrawing {...props} />

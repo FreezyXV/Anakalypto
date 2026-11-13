@@ -1,0 +1,962 @@
+[
+  {
+    "ref": "LEC-BD8A6750BAD9",
+    "key": "cellmap",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "cellmap",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-0",
+    "url": "http://localhost:3002/sciences-fondamentales/biologie/cellule/la-cellule-unite-du-vivant"
+  },
+  {
+    "ref": "LEC-482C9F4AF9C4",
+    "key": "foodweb",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "foodweb",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-1",
+    "url": "http://localhost:3002/sciences-fondamentales/biologie/ecologie/chaines-alimentaires-et-ecosystemes"
+  },
+  {
+    "ref": "LEC-E2A4777A8BF4",
+    "key": "selectionbeetles",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "selectionbeetles",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-2",
+    "url": "http://localhost:3002/sciences-fondamentales/biologie/evolution/theorie-evolution-selection-naturelle"
+  },
+  {
+    "ref": "LEC-F0D12CD1F3FF",
+    "key": "resistantpopulation",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "resistantpopulation",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-3",
+    "url": "http://localhost:3002/sciences-fondamentales/biologie/evolution/comment-les-bacteries-deviennent-elles-resistantes-aux-antibiotiques"
+  },
+  {
+    "ref": "LEC-B94BE1EE513E",
+    "key": "abomarkers",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "abomarkers",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-4",
+    "url": "http://localhost:3002/sciences-fondamentales/biologie/genetique/pourquoi-n-avons-nous-pas-tous-le-meme-groupe-sanguin"
+  },
+  {
+    "ref": "LEC-E44D72BC4A9B",
+    "key": "phscale",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "phscale",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-5",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-inorganique/acides-bases"
+  },
+  {
+    "ref": "LEC-A4D8F80D11BF",
+    "key": "waterbonds",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "waterbonds",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-6",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-inorganique/l-eau-une-molecule-aux-proprietes-exceptionnelles"
+  },
+  {
+    "ref": "LEC-76FF959256D0",
+    "key": "redoxpair",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "redoxpair",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-7",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-inorganique/oxydation-reduction"
+  },
+  {
+    "ref": "LEC-0D7569645001",
+    "key": "periodicmap",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "periodicmap",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-8",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-inorganique/tableau-periodique-des-elements"
+  },
+  {
+    "ref": "LEC-543DEF1CB011",
+    "key": "carbonbonds",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "carbonbonds",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-9",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-organique/molecule-carbone-composes-organiques"
+  },
+  {
+    "ref": "LEC-5DE3CD051512",
+    "key": "methaneflame",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "methaneflame",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-10",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-physique/combustion"
+  },
+  {
+    "ref": "LEC-F7DF87BA0740",
+    "key": "dynamicbalance",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "dynamicbalance",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-11",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-physique/reactions-chimiques-et-equilibre"
+  },
+  {
+    "ref": "LEC-5062405EAFEF",
+    "key": "maillardfood",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "maillardfood",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-12",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-physique/pourquoi-la-croute-du-pain-et-la-viande-grillee-ont-elles-ce-gout-et-cette-couleur"
+  },
+  {
+    "ref": "LEC-AFE4313B5782",
+    "key": "eratosthenes",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "eratosthenes",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-13",
+    "url": "http://localhost:3002/sciences-fondamentales/mathematiques/geometrie/comment-eratosthene-a-t-il-mesure-la-terre-avec-une-ombre"
+  },
+  {
+    "ref": "LEC-4203FE13E7A0",
+    "key": "mapprojection",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "mapprojection",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-14",
+    "url": "http://localhost:3002/sciences-fondamentales/mathematiques/geometrie/pourquoi-aucune-carte-du-monde-a-plat-ne-peut-elle-etre-parfaitement-fidele"
+  },
+  {
+    "ref": "LEC-1D656117C160",
+    "key": "circlepi",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "circlepi",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-15",
+    "url": "http://localhost:3002/sciences-fondamentales/mathematiques/geometrie/pourquoi-le-nombre-pi-se-cache-t-il-dans-tous-les-cercles"
+  },
+  {
+    "ref": "LEC-8CDB7A95BC49",
+    "key": "meanmedian",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "meanmedian",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-16",
+    "url": "http://localhost:3002/sciences-fondamentales/mathematiques/probabilites-et-statistiques/la-moyenne-la-mediane-et-le-mode-trois-mesures-distinctes"
+  },
+  {
+    "ref": "LEC-DAAE11792655",
+    "key": "samplingmeans",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "samplingmeans",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-17",
+    "url": "http://localhost:3002/sciences-fondamentales/mathematiques/probabilites-et-statistiques/la-loi-des-grands-nombres"
+  },
+  {
+    "ref": "LEC-FB0B988C368B",
+    "key": "moonweight",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "moonweight",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-18",
+    "url": "http://localhost:3002/sciences-fondamentales/physique/mecanique/pourquoi-peserait-on-six-fois-moins-sur-la-lune-sans-perdre-un-gramme"
+  },
+  {
+    "ref": "LEC-8D76CA37764E",
+    "key": "laserbeam",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "laserbeam",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-19",
+    "url": "http://localhost:3002/sciences-fondamentales/physique/physique-quantique/pourquoi-la-lumiere-d-un-laser-est-elle-si-differente-de-celle-d-une-lampe"
+  },
+  {
+    "ref": "LEC-0152D71DF33E",
+    "key": "thermalcontact",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "thermalcontact",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-20",
+    "url": "http://localhost:3002/sciences-fondamentales/physique/thermodynamique/temperature-et-chaleur"
+  },
+  {
+    "ref": "LEC-A7AABE875D4A",
+    "key": "fridgecycle",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "fridgecycle",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-21",
+    "url": "http://localhost:3002/sciences-fondamentales/physique/thermodynamique/un-refrigerateur-fabrique-t-il-vraiment-du-froid"
+  },
+  {
+    "ref": "LEC-2B67D7914614",
+    "key": "hotspring",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "hotspring",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-22",
+    "url": "http://localhost:3002/sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes/pourquoi-certaines-sources-sortent-elles-du-sol-deja-chaudes"
+  },
+  {
+    "ref": "LEC-E12CAA472289",
+    "key": "oceancirculation",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "oceancirculation",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-23",
+    "url": "http://localhost:3002/sciences-fondamentales/sciences-de-la-terre/oceanographie/courants-oceaniques-role-climatique"
+  },
+  {
+    "ref": "LEC-DEBC0D00C3F9",
+    "key": "gravitydam",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "gravitydam",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-24",
+    "url": "http://localhost:3002/technologies-et-ingenierie/genie-civil/ouvrages-dart/comment-un-barrage-resiste-t-il-a-la-poussee-de-l-eau"
+  },
+  {
+    "ref": "LEC-373E3AC8FBD6",
+    "key": "memoryalloy",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "memoryalloy",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-25",
+    "url": "http://localhost:3002/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/les-alliages-a-memoire-de-forme"
+  },
+  {
+    "ref": "LEC-2B6531B276A3",
+    "key": "passivelayer",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "passivelayer",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-26",
+    "url": "http://localhost:3002/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/pourquoi-l-acier-inoxydable-ne-rouille-t-il-pas"
+  },
+  {
+    "ref": "LEC-D9CA5BC87357",
+    "key": "graphenelattice",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "graphenelattice",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-27",
+    "url": "http://localhost:3002/technologies-et-ingenierie/nanotechnologies/nanomateriaux/graphene-et-nanomateriaux"
+  },
+  {
+    "ref": "LEC-8D3BB215585C",
+    "key": "compositeply",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "compositeply",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-28",
+    "url": "http://localhost:3002/industries/materiaux-et-procedes/composites-et-polymeres/composites-et-materiaux-combines"
+  },
+  {
+    "ref": "LEC-9BC1AA9FE6E6",
+    "key": "healingcapsule",
+    "width": 1280,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "healingcapsule",
+        "width": 614.5234375
+      }
+    ],
+    "overflow": 0,
+    "tag": "1280-29",
+    "url": "http://localhost:3002/technologies-et-ingenierie/genie-civil/materiaux/comment-des-bacteries-des-capsules-ou-la-chaux-romaine-reparent-elles-les-fissures-du-beton"
+  },
+  {
+    "ref": "LEC-BD8A6750BAD9",
+    "key": "cellmap",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "cellmap",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-0",
+    "url": "http://localhost:3002/sciences-fondamentales/biologie/cellule/la-cellule-unite-du-vivant"
+  },
+  {
+    "ref": "LEC-482C9F4AF9C4",
+    "key": "foodweb",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "foodweb",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-1",
+    "url": "http://localhost:3002/sciences-fondamentales/biologie/ecologie/chaines-alimentaires-et-ecosystemes"
+  },
+  {
+    "ref": "LEC-E2A4777A8BF4",
+    "key": "selectionbeetles",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "selectionbeetles",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-2",
+    "url": "http://localhost:3002/sciences-fondamentales/biologie/evolution/theorie-evolution-selection-naturelle"
+  },
+  {
+    "ref": "LEC-F0D12CD1F3FF",
+    "key": "resistantpopulation",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "resistantpopulation",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-3",
+    "url": "http://localhost:3002/sciences-fondamentales/biologie/evolution/comment-les-bacteries-deviennent-elles-resistantes-aux-antibiotiques"
+  },
+  {
+    "ref": "LEC-B94BE1EE513E",
+    "key": "abomarkers",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "abomarkers",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-4",
+    "url": "http://localhost:3002/sciences-fondamentales/biologie/genetique/pourquoi-n-avons-nous-pas-tous-le-meme-groupe-sanguin"
+  },
+  {
+    "ref": "LEC-E44D72BC4A9B",
+    "key": "phscale",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "phscale",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-5",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-inorganique/acides-bases"
+  },
+  {
+    "ref": "LEC-A4D8F80D11BF",
+    "key": "waterbonds",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "waterbonds",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-6",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-inorganique/l-eau-une-molecule-aux-proprietes-exceptionnelles"
+  },
+  {
+    "ref": "LEC-76FF959256D0",
+    "key": "redoxpair",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "redoxpair",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-7",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-inorganique/oxydation-reduction"
+  },
+  {
+    "ref": "LEC-0D7569645001",
+    "key": "periodicmap",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "periodicmap",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-8",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-inorganique/tableau-periodique-des-elements"
+  },
+  {
+    "ref": "LEC-543DEF1CB011",
+    "key": "carbonbonds",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "carbonbonds",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-9",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-organique/molecule-carbone-composes-organiques"
+  },
+  {
+    "ref": "LEC-5DE3CD051512",
+    "key": "methaneflame",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "methaneflame",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-10",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-physique/combustion"
+  },
+  {
+    "ref": "LEC-F7DF87BA0740",
+    "key": "dynamicbalance",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "dynamicbalance",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-11",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-physique/reactions-chimiques-et-equilibre"
+  },
+  {
+    "ref": "LEC-5062405EAFEF",
+    "key": "maillardfood",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "maillardfood",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-12",
+    "url": "http://localhost:3002/sciences-fondamentales/chimie/chimie-physique/pourquoi-la-croute-du-pain-et-la-viande-grillee-ont-elles-ce-gout-et-cette-couleur"
+  },
+  {
+    "ref": "LEC-AFE4313B5782",
+    "key": "eratosthenes",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "eratosthenes",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-13",
+    "url": "http://localhost:3002/sciences-fondamentales/mathematiques/geometrie/comment-eratosthene-a-t-il-mesure-la-terre-avec-une-ombre"
+  },
+  {
+    "ref": "LEC-4203FE13E7A0",
+    "key": "mapprojection",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "mapprojection",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-14",
+    "url": "http://localhost:3002/sciences-fondamentales/mathematiques/geometrie/pourquoi-aucune-carte-du-monde-a-plat-ne-peut-elle-etre-parfaitement-fidele"
+  },
+  {
+    "ref": "LEC-1D656117C160",
+    "key": "circlepi",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "circlepi",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-15",
+    "url": "http://localhost:3002/sciences-fondamentales/mathematiques/geometrie/pourquoi-le-nombre-pi-se-cache-t-il-dans-tous-les-cercles"
+  },
+  {
+    "ref": "LEC-8CDB7A95BC49",
+    "key": "meanmedian",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "meanmedian",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-16",
+    "url": "http://localhost:3002/sciences-fondamentales/mathematiques/probabilites-et-statistiques/la-moyenne-la-mediane-et-le-mode-trois-mesures-distinctes"
+  },
+  {
+    "ref": "LEC-DAAE11792655",
+    "key": "samplingmeans",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "samplingmeans",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-17",
+    "url": "http://localhost:3002/sciences-fondamentales/mathematiques/probabilites-et-statistiques/la-loi-des-grands-nombres"
+  },
+  {
+    "ref": "LEC-FB0B988C368B",
+    "key": "moonweight",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "moonweight",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-18",
+    "url": "http://localhost:3002/sciences-fondamentales/physique/mecanique/pourquoi-peserait-on-six-fois-moins-sur-la-lune-sans-perdre-un-gramme"
+  },
+  {
+    "ref": "LEC-8D76CA37764E",
+    "key": "laserbeam",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "laserbeam",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-19",
+    "url": "http://localhost:3002/sciences-fondamentales/physique/physique-quantique/pourquoi-la-lumiere-d-un-laser-est-elle-si-differente-de-celle-d-une-lampe"
+  },
+  {
+    "ref": "LEC-0152D71DF33E",
+    "key": "thermalcontact",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "thermalcontact",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-20",
+    "url": "http://localhost:3002/sciences-fondamentales/physique/thermodynamique/temperature-et-chaleur"
+  },
+  {
+    "ref": "LEC-A7AABE875D4A",
+    "key": "fridgecycle",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "fridgecycle",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-21",
+    "url": "http://localhost:3002/sciences-fondamentales/physique/thermodynamique/un-refrigerateur-fabrique-t-il-vraiment-du-froid"
+  },
+  {
+    "ref": "LEC-2B67D7914614",
+    "key": "hotspring",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "hotspring",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-22",
+    "url": "http://localhost:3002/sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes/pourquoi-certaines-sources-sortent-elles-du-sol-deja-chaudes"
+  },
+  {
+    "ref": "LEC-E12CAA472289",
+    "key": "oceancirculation",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "oceancirculation",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-23",
+    "url": "http://localhost:3002/sciences-fondamentales/sciences-de-la-terre/oceanographie/courants-oceaniques-role-climatique"
+  },
+  {
+    "ref": "LEC-DEBC0D00C3F9",
+    "key": "gravitydam",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "gravitydam",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-24",
+    "url": "http://localhost:3002/technologies-et-ingenierie/genie-civil/ouvrages-dart/comment-un-barrage-resiste-t-il-a-la-poussee-de-l-eau"
+  },
+  {
+    "ref": "LEC-373E3AC8FBD6",
+    "key": "memoryalloy",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "memoryalloy",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-25",
+    "url": "http://localhost:3002/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/les-alliages-a-memoire-de-forme"
+  },
+  {
+    "ref": "LEC-2B6531B276A3",
+    "key": "passivelayer",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "passivelayer",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-26",
+    "url": "http://localhost:3002/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/pourquoi-l-acier-inoxydable-ne-rouille-t-il-pas"
+  },
+  {
+    "ref": "LEC-D9CA5BC87357",
+    "key": "graphenelattice",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "graphenelattice",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-27",
+    "url": "http://localhost:3002/technologies-et-ingenierie/nanotechnologies/nanomateriaux/graphene-et-nanomateriaux"
+  },
+  {
+    "ref": "LEC-8D3BB215585C",
+    "key": "compositeply",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "compositeply",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-28",
+    "url": "http://localhost:3002/industries/materiaux-et-procedes/composites-et-polymeres/composites-et-materiaux-combines"
+  },
+  {
+    "ref": "LEC-9BC1AA9FE6E6",
+    "key": "healingcapsule",
+    "width": 320,
+    "states": ["true", "true", "true"],
+    "frames": [
+      {
+        "frame": "2",
+        "kind": "healingcapsule",
+        "width": 251
+      }
+    ],
+    "overflow": 0,
+    "tag": "320-29",
+    "url": "http://localhost:3002/technologies-et-ingenierie/genie-civil/materiaux/comment-des-bacteries-des-capsules-ou-la-chaux-romaine-reparent-elles-les-fissures-du-beton"
+  }
+]
