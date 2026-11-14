@@ -1,3 +1,4 @@
+import { EXPLORATIONS50_DIAGRAMS } from "./explorations50";
 import { SCIENCES30_DIAGRAMS } from "./sciences30";
 import { ORGANS_DIAGRAMS } from "./organs";
 import { BATCH50_DIAGRAMS } from "./batch50";
@@ -15,6 +16,56 @@ import { ASTRONOMY_DIAGRAMS } from "./astronomy";
 
 /** Associations éditoriales explicites. Aucune recherche de mots-clés au rendu. */
 export type LessonDiagramKind =
+  | "fridgezones"
+  | "fooddates"
+  | "lactase"
+  | "honeywater"
+  | "osmotickeeping"
+  | "freezefood"
+  | "vinegarair"
+  | "lactojar"
+  | "crossboard"
+  | "solardryer"
+  | "musicscore"
+  | "fluteair"
+  | "shadowstage"
+  | "leadtype"
+  | "claykiln"
+  | "pigmentbinder"
+  | "pinholebox"
+  | "papyrussheet"
+  | "paperfibres"
+  | "gothicvault"
+  | "regenbrake"
+  | "dieselignition"
+  | "clutchplates"
+  | "gearboxpair"
+  | "intercoolerair"
+  | "enginecoolant"
+  | "differentialturn"
+  | "abscontrol"
+  | "discbrake"
+  | "engineoil"
+  | "flowerpollination"
+  | "agroforestrows"
+  | "coralbleach"
+  | "oceanacid"
+  | "sealevelrise"
+  | "wetlandsponge"
+  | "sewageplant"
+  | "stormcharges"
+  | "waterjourney"
+  | "watershedridge"
+  | "htmltree"
+  | "searchindex"
+  | "cookietoken"
+  | "ssdanddisk"
+  | "capacitivetouch"
+  | "inkjetdrops"
+  | "transistorgate"
+  | "cpucooling"
+  | "passwordhash"
+  | "blocklinks"
   | "cellmap"
   | "foodweb"
   | "selectionbeetles"
@@ -1475,6 +1526,7 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
   ...AI_USAGE_DIAGRAMS,
   ...AI_CONTEXT_DIAGRAMS,
   ...RADIO_DIAGRAMS,
+  ...EXPLORATIONS50_DIAGRAMS,
   ...SCIENCES30_DIAGRAMS,
   ...ORGANS_DIAGRAMS,
   ...BATCH50_DIAGRAMS,

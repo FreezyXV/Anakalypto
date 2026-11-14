@@ -1,0 +1,3902 @@
+[
+  {
+    "focus": "1Mesurer",
+    "overflow": 0,
+    "tag": "fridgezones-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "fridgezones",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Séparer",
+    "overflow": 0,
+    "tag": "fridgezones-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "fridgezones",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Ralentir",
+    "overflow": 0,
+    "tag": "fridgezones-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "fridgezones",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1DLC",
+    "overflow": 0,
+    "tag": "fooddates-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "fooddates",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2DDM",
+    "overflow": 0,
+    "tag": "fooddates-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "fooddates",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Après ouverture",
+    "overflow": 0,
+    "tag": "fooddates-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "fooddates",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Le lactose",
+    "overflow": 0,
+    "tag": "lactase-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "lactase",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Avec la lactase",
+    "overflow": 0,
+    "tag": "lactase-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "lactase",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Peu de lactase",
+    "overflow": 0,
+    "tag": "lactase-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "lactase",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Du nectar",
+    "overflow": 0,
+    "tag": "honeywater-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "honeywater",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Du miel concentré",
+    "overflow": 0,
+    "tag": "honeywater-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "honeywater",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Refermer",
+    "overflow": 0,
+    "tag": "honeywater-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "honeywater",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Milieu dilué",
+    "overflow": 0,
+    "tag": "osmotickeeping-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "osmotickeeping",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Milieu concentré",
+    "overflow": 0,
+    "tag": "osmotickeeping-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "osmotickeeping",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Croissance freinée",
+    "overflow": 0,
+    "tag": "osmotickeeping-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "osmotickeeping",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Tissu végétal",
+    "overflow": 0,
+    "tag": "freezefood-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "freezefood",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Congeler",
+    "overflow": 0,
+    "tag": "freezefood-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "freezefood",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Décongeler",
+    "overflow": 0,
+    "tag": "freezefood-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "freezefood",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Le vin",
+    "overflow": 0,
+    "tag": "vinegarair-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "vinegarair",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Apporter de l’oxygène",
+    "overflow": 0,
+    "tag": "vinegarair-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "vinegarair",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Le vinaigre",
+    "overflow": 0,
+    "tag": "vinegarair-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "vinegarair",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Sous le liquide",
+    "overflow": 0,
+    "tag": "lactojar-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "lactojar",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Transformer les sucres",
+    "overflow": 0,
+    "tag": "lactojar-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "lactojar",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Acidifier",
+    "overflow": 0,
+    "tag": "lactojar-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "lactojar",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Le cru",
+    "overflow": 0,
+    "tag": "crossboard-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "crossboard",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Le transfert",
+    "overflow": 0,
+    "tag": "crossboard-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "crossboard",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Séparer",
+    "overflow": 0,
+    "tag": "crossboard-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "crossboard",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Capter",
+    "overflow": 0,
+    "tag": "solardryer-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "solardryer",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Faire circuler",
+    "overflow": 0,
+    "tag": "solardryer-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "solardryer",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Évacuer",
+    "overflow": 0,
+    "tag": "solardryer-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "solardryer",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1La hauteur",
+    "overflow": 0,
+    "tag": "musicscore-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "musicscore",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2La durée",
+    "overflow": 0,
+    "tag": "musicscore-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "musicscore",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Une mesure",
+    "overflow": 0,
+    "tag": "musicscore-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "musicscore",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Le biseau",
+    "overflow": 0,
+    "tag": "fluteair-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "fluteair",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Colonne longue",
+    "overflow": 0,
+    "tag": "fluteair-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "fluteair",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Colonne raccourcie",
+    "overflow": 0,
+    "tag": "fluteair-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "fluteair",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1La disposition",
+    "overflow": 0,
+    "tag": "shadowstage-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "shadowstage",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Agrandir",
+    "overflow": 0,
+    "tag": "shadowstage-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "shadowstage",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Animer",
+    "overflow": 0,
+    "tag": "shadowstage-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "shadowstage",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Le caractère",
+    "overflow": 0,
+    "tag": "leadtype-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "leadtype",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Composer",
+    "overflow": 0,
+    "tag": "leadtype-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "leadtype",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Le contour numérique",
+    "overflow": 0,
+    "tag": "leadtype-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "leadtype",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Modeler",
+    "overflow": 0,
+    "tag": "claykiln-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "claykiln",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Sécher",
+    "overflow": 0,
+    "tag": "claykiln-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "claykiln",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Cuire",
+    "overflow": 0,
+    "tag": "claykiln-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "claykiln",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1La poudre",
+    "overflow": 0,
+    "tag": "pigmentbinder-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "pigmentbinder",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Le liant",
+    "overflow": 0,
+    "tag": "pigmentbinder-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "pigmentbinder",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3La couche peinte",
+    "overflow": 0,
+    "tag": "pigmentbinder-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "pigmentbinder",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Un rayon",
+    "overflow": 0,
+    "tag": "pinholebox-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "pinholebox",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Deux rayons",
+    "overflow": 0,
+    "tag": "pinholebox-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "pinholebox",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3L’image inversée",
+    "overflow": 0,
+    "tag": "pinholebox-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "pinholebox",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1La moelle",
+    "overflow": 0,
+    "tag": "papyrussheet-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "papyrussheet",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Croiser",
+    "overflow": 0,
+    "tag": "papyrussheet-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "papyrussheet",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Presser et sécher",
+    "overflow": 0,
+    "tag": "papyrussheet-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "papyrussheet",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Disperser",
+    "overflow": 0,
+    "tag": "paperfibres-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "paperfibres",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Égoutter",
+    "overflow": 0,
+    "tag": "paperfibres-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "paperfibres",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Presser puis sécher",
+    "overflow": 0,
+    "tag": "paperfibres-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "paperfibres",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1La voûte",
+    "overflow": 0,
+    "tag": "gothicvault-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "gothicvault",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Les appuis",
+    "overflow": 0,
+    "tag": "gothicvault-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "gothicvault",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3La verrière",
+    "overflow": 0,
+    "tag": "gothicvault-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "gothicvault",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Accélérer",
+    "overflow": 0,
+    "tag": "regenbrake-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "regenbrake",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Récupérer",
+    "overflow": 0,
+    "tag": "regenbrake-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "regenbrake",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Compléter",
+    "overflow": 0,
+    "tag": "regenbrake-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "regenbrake",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Air seul",
+    "overflow": 0,
+    "tag": "dieselignition-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "dieselignition",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Comprimer",
+    "overflow": 0,
+    "tag": "dieselignition-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "dieselignition",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Injecter",
+    "overflow": 0,
+    "tag": "dieselignition-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "dieselignition",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Embrayé",
+    "overflow": 0,
+    "tag": "clutchplates-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "clutchplates",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Débrayé",
+    "overflow": 0,
+    "tag": "clutchplates-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "clutchplates",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Volant bimasse",
+    "overflow": 0,
+    "tag": "clutchplates-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "clutchplates",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Réduire",
+    "overflow": 0,
+    "tag": "gearboxpair-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "gearboxpair",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Augmenter",
+    "overflow": 0,
+    "tag": "gearboxpair-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "gearboxpair",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Choisir",
+    "overflow": 0,
+    "tag": "gearboxpair-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "gearboxpair",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Comprimer",
+    "overflow": 0,
+    "tag": "intercoolerair-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "intercoolerair",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Échanger",
+    "overflow": 0,
+    "tag": "intercoolerair-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "intercoolerair",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Admettre",
+    "overflow": 0,
+    "tag": "intercoolerair-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "intercoolerair",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1À froid",
+    "overflow": 0,
+    "tag": "enginecoolant-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "enginecoolant",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2À chaud",
+    "overflow": 0,
+    "tag": "enginecoolant-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "enginecoolant",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Évacuer la chaleur",
+    "overflow": 0,
+    "tag": "enginecoolant-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "enginecoolant",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Ligne droite",
+    "overflow": 0,
+    "tag": "differentialturn-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "differentialturn",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Virage",
+    "overflow": 0,
+    "tag": "differentialturn-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "differentialturn",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Le différentiel",
+    "overflow": 0,
+    "tag": "differentialturn-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "differentialturn",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Surveiller",
+    "overflow": 0,
+    "tag": "abscontrol-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "abscontrol",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Relâcher un instant",
+    "overflow": 0,
+    "tag": "abscontrol-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "abscontrol",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Réappliquer",
+    "overflow": 0,
+    "tag": "abscontrol-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "abscontrol",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Libre",
+    "overflow": 0,
+    "tag": "discbrake-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "discbrake",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Serrer",
+    "overflow": 0,
+    "tag": "discbrake-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "discbrake",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Dissiper",
+    "overflow": 0,
+    "tag": "discbrake-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "discbrake",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Sans film suffisant",
+    "overflow": 0,
+    "tag": "engineoil-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "engineoil",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Avec un film",
+    "overflow": 0,
+    "tag": "engineoil-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "engineoil",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Faire circuler",
+    "overflow": 0,
+    "tag": "engineoil-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "engineoil",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Prendre du pollen",
+    "overflow": 0,
+    "tag": "flowerpollination-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "flowerpollination",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Déposer",
+    "overflow": 0,
+    "tag": "flowerpollination-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "flowerpollination",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Former des graines",
+    "overflow": 0,
+    "tag": "flowerpollination-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "flowerpollination",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Associer",
+    "overflow": 0,
+    "tag": "agroforestrows-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "agroforestrows",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Abriter",
+    "overflow": 0,
+    "tag": "agroforestrows-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "agroforestrows",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Partager les ressources",
+    "overflow": 0,
+    "tag": "agroforestrows-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "agroforestrows",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1En association",
+    "overflow": 0,
+    "tag": "coralbleach-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "coralbleach",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Sous stress",
+    "overflow": 0,
+    "tag": "coralbleach-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "coralbleach",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Blanchi",
+    "overflow": 0,
+    "tag": "coralbleach-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "coralbleach",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Absorber du CO₂",
+    "overflow": 0,
+    "tag": "oceanacid-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "oceanacid",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Changer l’équilibre",
+    "overflow": 0,
+    "tag": "oceanacid-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "oceanacid",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Calcifier",
+    "overflow": 0,
+    "tag": "oceanacid-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "oceanacid",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Un repère",
+    "overflow": 0,
+    "tag": "sealevelrise-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "sealevelrise",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Se dilater",
+    "overflow": 0,
+    "tag": "sealevelrise-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "sealevelrise",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Ajouter de l’eau",
+    "overflow": 0,
+    "tag": "sealevelrise-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "sealevelrise",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Avant la crue",
+    "overflow": 0,
+    "tag": "wetlandsponge-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "wetlandsponge",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Stocker",
+    "overflow": 0,
+    "tag": "wetlandsponge-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "wetlandsponge",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Restituer",
+    "overflow": 0,
+    "tag": "wetlandsponge-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "wetlandsponge",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Retirer les gros déchets",
+    "overflow": 0,
+    "tag": "sewageplant-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "sewageplant",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Traiter biologiquement",
+    "overflow": 0,
+    "tag": "sewageplant-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "sewageplant",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Clarifier",
+    "overflow": 0,
+    "tag": "sewageplant-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "sewageplant",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Les collisions",
+    "overflow": 0,
+    "tag": "stormcharges-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "stormcharges",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2La séparation",
+    "overflow": 0,
+    "tag": "stormcharges-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "stormcharges",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3La décharge",
+    "overflow": 0,
+    "tag": "stormcharges-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "stormcharges",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Évaporer",
+    "overflow": 0,
+    "tag": "waterjourney-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "waterjourney",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Condenser et précipiter",
+    "overflow": 0,
+    "tag": "waterjourney-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "waterjourney",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Ruisseler et infiltrer",
+    "overflow": 0,
+    "tag": "waterjourney-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "waterjourney",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1La limite",
+    "overflow": 0,
+    "tag": "watershedridge-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "watershedridge",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Deux versants",
+    "overflow": 0,
+    "tag": "watershedridge-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "watershedridge",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Un exutoire par bassin",
+    "overflow": 0,
+    "tag": "watershedridge-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "watershedridge",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Baliser",
+    "overflow": 0,
+    "tag": "htmltree-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "htmltree",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Emboîter",
+    "overflow": 0,
+    "tag": "htmltree-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "htmltree",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Afficher",
+    "overflow": 0,
+    "tag": "htmltree-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "htmltree",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Explorer",
+    "overflow": 0,
+    "tag": "searchindex-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "searchindex",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Indexer",
+    "overflow": 0,
+    "tag": "searchindex-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "searchindex",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Interroger",
+    "overflow": 0,
+    "tag": "searchindex-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "searchindex",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Répondre",
+    "overflow": 0,
+    "tag": "cookietoken-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "cookietoken",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Conserver",
+    "overflow": 0,
+    "tag": "cookietoken-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "cookietoken",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Renvoyer",
+    "overflow": 0,
+    "tag": "cookietoken-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "cookietoken",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Disque dur",
+    "overflow": 0,
+    "tag": "ssdanddisk-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "ssdanddisk",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2SSD",
+    "overflow": 0,
+    "tag": "ssdanddisk-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "ssdanddisk",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Accéder aux données",
+    "overflow": 0,
+    "tag": "ssdanddisk-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "ssdanddisk",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1La grille",
+    "overflow": 0,
+    "tag": "capacitivetouch-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "capacitivetouch",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Le doigt",
+    "overflow": 0,
+    "tag": "capacitivetouch-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "capacitivetouch",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3La position",
+    "overflow": 0,
+    "tag": "capacitivetouch-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "capacitivetouch",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Les buses",
+    "overflow": 0,
+    "tag": "inkjetdrops-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "inkjetdrops",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Éjecter",
+    "overflow": 0,
+    "tag": "inkjetdrops-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "inkjetdrops",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Former l’image",
+    "overflow": 0,
+    "tag": "inkjetdrops-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "inkjetdrops",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Bloquer",
+    "overflow": 0,
+    "tag": "transistorgate-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "transistorgate",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Commander",
+    "overflow": 0,
+    "tag": "transistorgate-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "transistorgate",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Commuter",
+    "overflow": 0,
+    "tag": "transistorgate-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "transistorgate",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Conduire",
+    "overflow": 0,
+    "tag": "cpucooling-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "cpucooling",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Échanger",
+    "overflow": 0,
+    "tag": "cpucooling-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "cpucooling",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Ventiler",
+    "overflow": 0,
+    "tag": "cpucooling-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "cpucooling",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Créer",
+    "overflow": 0,
+    "tag": "passwordhash-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "passwordhash",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Vérifier",
+    "overflow": 0,
+    "tag": "passwordhash-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "passwordhash",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Distinguer",
+    "overflow": 0,
+    "tag": "passwordhash-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "passwordhash",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Relier",
+    "overflow": 0,
+    "tag": "blocklinks-0-320",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "blocklinks",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "2Modifier",
+    "overflow": 0,
+    "tag": "blocklinks-1-320",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "blocklinks",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "3Vérifier collectivement",
+    "overflow": 0,
+    "tag": "blocklinks-2-320",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "blocklinks",
+        "width": 251
+      }
+    ],
+    "w": 320
+  },
+  {
+    "focus": "1Mesurer",
+    "overflow": 0,
+    "tag": "fridgezones-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "fridgezones",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Séparer",
+    "overflow": 0,
+    "tag": "fridgezones-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "fridgezones",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Ralentir",
+    "overflow": 0,
+    "tag": "fridgezones-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "fridgezones",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1DLC",
+    "overflow": 0,
+    "tag": "fooddates-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "fooddates",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2DDM",
+    "overflow": 0,
+    "tag": "fooddates-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "fooddates",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Après ouverture",
+    "overflow": 0,
+    "tag": "fooddates-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "fooddates",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Le lactose",
+    "overflow": 0,
+    "tag": "lactase-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "lactase",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Avec la lactase",
+    "overflow": 0,
+    "tag": "lactase-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "lactase",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Peu de lactase",
+    "overflow": 0,
+    "tag": "lactase-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "lactase",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Du nectar",
+    "overflow": 0,
+    "tag": "honeywater-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "honeywater",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Du miel concentré",
+    "overflow": 0,
+    "tag": "honeywater-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "honeywater",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Refermer",
+    "overflow": 0,
+    "tag": "honeywater-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "honeywater",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Milieu dilué",
+    "overflow": 0,
+    "tag": "osmotickeeping-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "osmotickeeping",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Milieu concentré",
+    "overflow": 0,
+    "tag": "osmotickeeping-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "osmotickeeping",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Croissance freinée",
+    "overflow": 0,
+    "tag": "osmotickeeping-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "osmotickeeping",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Tissu végétal",
+    "overflow": 0,
+    "tag": "freezefood-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "freezefood",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Congeler",
+    "overflow": 0,
+    "tag": "freezefood-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "freezefood",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Décongeler",
+    "overflow": 0,
+    "tag": "freezefood-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "freezefood",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Le vin",
+    "overflow": 0,
+    "tag": "vinegarair-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "vinegarair",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Apporter de l’oxygène",
+    "overflow": 0,
+    "tag": "vinegarair-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "vinegarair",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Le vinaigre",
+    "overflow": 0,
+    "tag": "vinegarair-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "vinegarair",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Sous le liquide",
+    "overflow": 0,
+    "tag": "lactojar-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "lactojar",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Transformer les sucres",
+    "overflow": 0,
+    "tag": "lactojar-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "lactojar",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Acidifier",
+    "overflow": 0,
+    "tag": "lactojar-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "lactojar",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Le cru",
+    "overflow": 0,
+    "tag": "crossboard-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "crossboard",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Le transfert",
+    "overflow": 0,
+    "tag": "crossboard-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "crossboard",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Séparer",
+    "overflow": 0,
+    "tag": "crossboard-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "crossboard",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Capter",
+    "overflow": 0,
+    "tag": "solardryer-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "solardryer",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Faire circuler",
+    "overflow": 0,
+    "tag": "solardryer-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "solardryer",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Évacuer",
+    "overflow": 0,
+    "tag": "solardryer-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "solardryer",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1La hauteur",
+    "overflow": 0,
+    "tag": "musicscore-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "musicscore",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2La durée",
+    "overflow": 0,
+    "tag": "musicscore-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "musicscore",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Une mesure",
+    "overflow": 0,
+    "tag": "musicscore-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "musicscore",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Le biseau",
+    "overflow": 0,
+    "tag": "fluteair-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "fluteair",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Colonne longue",
+    "overflow": 0,
+    "tag": "fluteair-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "fluteair",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Colonne raccourcie",
+    "overflow": 0,
+    "tag": "fluteair-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "fluteair",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1La disposition",
+    "overflow": 0,
+    "tag": "shadowstage-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "shadowstage",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Agrandir",
+    "overflow": 0,
+    "tag": "shadowstage-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "shadowstage",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Animer",
+    "overflow": 0,
+    "tag": "shadowstage-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "shadowstage",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Le caractère",
+    "overflow": 0,
+    "tag": "leadtype-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "leadtype",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Composer",
+    "overflow": 0,
+    "tag": "leadtype-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "leadtype",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Le contour numérique",
+    "overflow": 0,
+    "tag": "leadtype-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "leadtype",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Modeler",
+    "overflow": 0,
+    "tag": "claykiln-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "claykiln",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Sécher",
+    "overflow": 0,
+    "tag": "claykiln-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "claykiln",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Cuire",
+    "overflow": 0,
+    "tag": "claykiln-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "claykiln",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1La poudre",
+    "overflow": 0,
+    "tag": "pigmentbinder-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "pigmentbinder",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Le liant",
+    "overflow": 0,
+    "tag": "pigmentbinder-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "pigmentbinder",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3La couche peinte",
+    "overflow": 0,
+    "tag": "pigmentbinder-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "pigmentbinder",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Un rayon",
+    "overflow": 0,
+    "tag": "pinholebox-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "pinholebox",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Deux rayons",
+    "overflow": 0,
+    "tag": "pinholebox-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "pinholebox",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3L’image inversée",
+    "overflow": 0,
+    "tag": "pinholebox-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "pinholebox",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1La moelle",
+    "overflow": 0,
+    "tag": "papyrussheet-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "papyrussheet",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Croiser",
+    "overflow": 0,
+    "tag": "papyrussheet-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "papyrussheet",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Presser et sécher",
+    "overflow": 0,
+    "tag": "papyrussheet-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "papyrussheet",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Disperser",
+    "overflow": 0,
+    "tag": "paperfibres-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "paperfibres",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Égoutter",
+    "overflow": 0,
+    "tag": "paperfibres-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "paperfibres",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Presser puis sécher",
+    "overflow": 0,
+    "tag": "paperfibres-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "paperfibres",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1La voûte",
+    "overflow": 0,
+    "tag": "gothicvault-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "gothicvault",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Les appuis",
+    "overflow": 0,
+    "tag": "gothicvault-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "gothicvault",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3La verrière",
+    "overflow": 0,
+    "tag": "gothicvault-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "gothicvault",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Accélérer",
+    "overflow": 0,
+    "tag": "regenbrake-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "regenbrake",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Récupérer",
+    "overflow": 0,
+    "tag": "regenbrake-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "regenbrake",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Compléter",
+    "overflow": 0,
+    "tag": "regenbrake-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "regenbrake",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Air seul",
+    "overflow": 0,
+    "tag": "dieselignition-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "dieselignition",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Comprimer",
+    "overflow": 0,
+    "tag": "dieselignition-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "dieselignition",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Injecter",
+    "overflow": 0,
+    "tag": "dieselignition-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "dieselignition",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Embrayé",
+    "overflow": 0,
+    "tag": "clutchplates-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "clutchplates",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Débrayé",
+    "overflow": 0,
+    "tag": "clutchplates-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "clutchplates",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Volant bimasse",
+    "overflow": 0,
+    "tag": "clutchplates-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "clutchplates",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Réduire",
+    "overflow": 0,
+    "tag": "gearboxpair-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "gearboxpair",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Augmenter",
+    "overflow": 0,
+    "tag": "gearboxpair-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "gearboxpair",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Choisir",
+    "overflow": 0,
+    "tag": "gearboxpair-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "gearboxpair",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Comprimer",
+    "overflow": 0,
+    "tag": "intercoolerair-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "intercoolerair",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Échanger",
+    "overflow": 0,
+    "tag": "intercoolerair-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "intercoolerair",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Admettre",
+    "overflow": 0,
+    "tag": "intercoolerair-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "intercoolerair",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1À froid",
+    "overflow": 0,
+    "tag": "enginecoolant-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "enginecoolant",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2À chaud",
+    "overflow": 0,
+    "tag": "enginecoolant-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "enginecoolant",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Évacuer la chaleur",
+    "overflow": 0,
+    "tag": "enginecoolant-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "enginecoolant",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Ligne droite",
+    "overflow": 0,
+    "tag": "differentialturn-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "differentialturn",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Virage",
+    "overflow": 0,
+    "tag": "differentialturn-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "differentialturn",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Le différentiel",
+    "overflow": 0,
+    "tag": "differentialturn-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "differentialturn",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Surveiller",
+    "overflow": 0,
+    "tag": "abscontrol-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "abscontrol",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Relâcher un instant",
+    "overflow": 0,
+    "tag": "abscontrol-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "abscontrol",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Réappliquer",
+    "overflow": 0,
+    "tag": "abscontrol-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "abscontrol",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Libre",
+    "overflow": 0,
+    "tag": "discbrake-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "discbrake",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Serrer",
+    "overflow": 0,
+    "tag": "discbrake-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "discbrake",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Dissiper",
+    "overflow": 0,
+    "tag": "discbrake-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "discbrake",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Sans film suffisant",
+    "overflow": 0,
+    "tag": "engineoil-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "engineoil",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Avec un film",
+    "overflow": 0,
+    "tag": "engineoil-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "engineoil",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Faire circuler",
+    "overflow": 0,
+    "tag": "engineoil-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "engineoil",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Prendre du pollen",
+    "overflow": 0,
+    "tag": "flowerpollination-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "flowerpollination",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Déposer",
+    "overflow": 0,
+    "tag": "flowerpollination-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "flowerpollination",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Former des graines",
+    "overflow": 0,
+    "tag": "flowerpollination-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "flowerpollination",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Associer",
+    "overflow": 0,
+    "tag": "agroforestrows-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "agroforestrows",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Abriter",
+    "overflow": 0,
+    "tag": "agroforestrows-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "agroforestrows",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Partager les ressources",
+    "overflow": 0,
+    "tag": "agroforestrows-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "agroforestrows",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1En association",
+    "overflow": 0,
+    "tag": "coralbleach-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "coralbleach",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Sous stress",
+    "overflow": 0,
+    "tag": "coralbleach-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "coralbleach",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Blanchi",
+    "overflow": 0,
+    "tag": "coralbleach-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "coralbleach",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Absorber du CO₂",
+    "overflow": 0,
+    "tag": "oceanacid-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "oceanacid",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Changer l’équilibre",
+    "overflow": 0,
+    "tag": "oceanacid-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "oceanacid",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Calcifier",
+    "overflow": 0,
+    "tag": "oceanacid-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "oceanacid",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Un repère",
+    "overflow": 0,
+    "tag": "sealevelrise-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "sealevelrise",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Se dilater",
+    "overflow": 0,
+    "tag": "sealevelrise-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "sealevelrise",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Ajouter de l’eau",
+    "overflow": 0,
+    "tag": "sealevelrise-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "sealevelrise",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Avant la crue",
+    "overflow": 0,
+    "tag": "wetlandsponge-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "wetlandsponge",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Stocker",
+    "overflow": 0,
+    "tag": "wetlandsponge-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "wetlandsponge",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Restituer",
+    "overflow": 0,
+    "tag": "wetlandsponge-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "wetlandsponge",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Retirer les gros déchets",
+    "overflow": 0,
+    "tag": "sewageplant-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "sewageplant",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Traiter biologiquement",
+    "overflow": 0,
+    "tag": "sewageplant-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "sewageplant",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Clarifier",
+    "overflow": 0,
+    "tag": "sewageplant-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "sewageplant",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Les collisions",
+    "overflow": 0,
+    "tag": "stormcharges-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "stormcharges",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2La séparation",
+    "overflow": 0,
+    "tag": "stormcharges-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "stormcharges",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3La décharge",
+    "overflow": 0,
+    "tag": "stormcharges-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "stormcharges",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Évaporer",
+    "overflow": 0,
+    "tag": "waterjourney-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "waterjourney",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Condenser et précipiter",
+    "overflow": 0,
+    "tag": "waterjourney-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "waterjourney",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Ruisseler et infiltrer",
+    "overflow": 0,
+    "tag": "waterjourney-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "waterjourney",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1La limite",
+    "overflow": 0,
+    "tag": "watershedridge-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "watershedridge",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Deux versants",
+    "overflow": 0,
+    "tag": "watershedridge-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "watershedridge",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Un exutoire par bassin",
+    "overflow": 0,
+    "tag": "watershedridge-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "watershedridge",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Baliser",
+    "overflow": 0,
+    "tag": "htmltree-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "htmltree",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Emboîter",
+    "overflow": 0,
+    "tag": "htmltree-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "htmltree",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Afficher",
+    "overflow": 0,
+    "tag": "htmltree-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "htmltree",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Explorer",
+    "overflow": 0,
+    "tag": "searchindex-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "searchindex",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Indexer",
+    "overflow": 0,
+    "tag": "searchindex-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "searchindex",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Interroger",
+    "overflow": 0,
+    "tag": "searchindex-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "searchindex",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Répondre",
+    "overflow": 0,
+    "tag": "cookietoken-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "cookietoken",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Conserver",
+    "overflow": 0,
+    "tag": "cookietoken-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "cookietoken",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Renvoyer",
+    "overflow": 0,
+    "tag": "cookietoken-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "cookietoken",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Disque dur",
+    "overflow": 0,
+    "tag": "ssdanddisk-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "ssdanddisk",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2SSD",
+    "overflow": 0,
+    "tag": "ssdanddisk-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "ssdanddisk",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Accéder aux données",
+    "overflow": 0,
+    "tag": "ssdanddisk-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "ssdanddisk",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1La grille",
+    "overflow": 0,
+    "tag": "capacitivetouch-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "capacitivetouch",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Le doigt",
+    "overflow": 0,
+    "tag": "capacitivetouch-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "capacitivetouch",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3La position",
+    "overflow": 0,
+    "tag": "capacitivetouch-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "capacitivetouch",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Les buses",
+    "overflow": 0,
+    "tag": "inkjetdrops-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "inkjetdrops",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Éjecter",
+    "overflow": 0,
+    "tag": "inkjetdrops-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "inkjetdrops",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Former l’image",
+    "overflow": 0,
+    "tag": "inkjetdrops-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "inkjetdrops",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Bloquer",
+    "overflow": 0,
+    "tag": "transistorgate-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "transistorgate",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Commander",
+    "overflow": 0,
+    "tag": "transistorgate-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "transistorgate",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Commuter",
+    "overflow": 0,
+    "tag": "transistorgate-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "transistorgate",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Conduire",
+    "overflow": 0,
+    "tag": "cpucooling-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "cpucooling",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Échanger",
+    "overflow": 0,
+    "tag": "cpucooling-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "cpucooling",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Ventiler",
+    "overflow": 0,
+    "tag": "cpucooling-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "cpucooling",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Créer",
+    "overflow": 0,
+    "tag": "passwordhash-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "passwordhash",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Vérifier",
+    "overflow": 0,
+    "tag": "passwordhash-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "passwordhash",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Distinguer",
+    "overflow": 0,
+    "tag": "passwordhash-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "passwordhash",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "1Relier",
+    "overflow": 0,
+    "tag": "blocklinks-0-1280",
+    "visible": [
+      {
+        "frame": 0,
+        "kind": "blocklinks",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "2Modifier",
+    "overflow": 0,
+    "tag": "blocklinks-1-1280",
+    "visible": [
+      {
+        "frame": 1,
+        "kind": "blocklinks",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  },
+  {
+    "focus": "3Vérifier collectivement",
+    "overflow": 0,
+    "tag": "blocklinks-2-1280",
+    "visible": [
+      {
+        "frame": 2,
+        "kind": "blocklinks",
+        "width": 614.5234375
+      }
+    ],
+    "w": 1280
+  }
+]

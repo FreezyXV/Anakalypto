@@ -1,3 +1,13 @@
+import { FoodConservation50Drawing } from "./FoodConservation50Drawings";
+import { FoodProcesses50Drawing } from "./FoodProcesses50Drawings";
+import { MusicOptics50Drawing } from "./MusicOptics50Drawings";
+import { ArtsCrafts50Drawing } from "./ArtsCrafts50Drawings";
+import { AutoPower50Drawing } from "./AutoPower50Drawings";
+import { AutoControl50Drawing } from "./AutoControl50Drawings";
+import { Ecology50Drawing } from "./Ecology50Drawings";
+import { Hydrology50Drawing } from "./Hydrology50Drawings";
+import { Web50Drawing } from "./Web50Drawings";
+import { Hardware50Drawing } from "./Hardware50Drawings";
 import { Biology30Drawing } from "./Biology30Drawings";
 import { Chemistry30Drawing } from "./Chemistry30Drawings";
 import { Thermo30Drawing } from "./Thermo30Drawings";
@@ -70,6 +80,16 @@ export function LessonDiagramCanvas({
         style={{ fontFamily: "var(--font-sans), system-ui, sans-serif" } as CSSProperties}
       >
         <DiagramSurface id={id} tint="#eef3f8" />
+        <FoodConservation50Drawing {...props} />
+        <FoodProcesses50Drawing {...props} />
+        <MusicOptics50Drawing {...props} />
+        <ArtsCrafts50Drawing {...props} />
+        <AutoPower50Drawing {...props} />
+        <AutoControl50Drawing {...props} />
+        <Ecology50Drawing {...props} />
+        <Hydrology50Drawing {...props} />
+        <Web50Drawing {...props} />
+        <Hardware50Drawing {...props} />
         <Biology30Drawing {...props} />
         <Chemistry30Drawing {...props} />
         <Thermo30Drawing {...props} />
