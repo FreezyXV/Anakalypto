@@ -1,0 +1,301 @@
+[
+  {
+    "id": "fridgezones",
+    "url": "https://www.anses.fr/fr/content/comment-garantir-lhygiene-des-aliments-dans-son-refrigerateur",
+    "status": 200,
+    "finalUrl": "https://www.anses.fr/fr/article/comment-garantir-lhygiene-aliments-son-refrigerateur"
+  },
+  {
+    "id": "fooddates",
+    "url": "https://www.anses.fr/fr/content/date-limite-de-consommation-dlc-et-date-de-durabilite-minimale-ddm",
+    "status": 200,
+    "finalUrl": "https://www.anses.fr/fr/article/date-limite-consommation-dlc-date-durabilite-minimale-ddm"
+  },
+  {
+    "id": "lactase",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/definition-facts",
+    "status": 200,
+    "finalUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/definition-facts"
+  },
+  {
+    "id": "honeywater",
+    "url": "https://www.agroscope.admin.ch/fr/nutrition-abeilles",
+    "status": 200,
+    "finalUrl": "https://www.agroscope.admin.ch/fr/nutrition-abeilles"
+  },
+  {
+    "id": "osmotickeeping",
+    "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-technical-guides/water-activity-aw-foods",
+    "status": 200,
+    "finalUrl": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-technical-guides/water-activity-aw-foods"
+  },
+  {
+    "id": "freezefood",
+    "url": "https://extension.psu.edu/understanding-the-process-of-freezing",
+    "status": 200,
+    "finalUrl": "https://extension.psu.edu/understanding-the-process-of-freezing"
+  },
+  {
+    "id": "vinegarair",
+    "url": "https://www.fao.org/4/x0560e/x0560e10.htm",
+    "status": 200,
+    "finalUrl": "https://www.fao.org/4/x0560e/x0560e10.htm"
+  },
+  {
+    "id": "lactojar",
+    "url": "https://stlo.rennes.hub.inrae.fr/Media/apprendre-comprendre/cartel-stlo-legumes-fermentes",
+    "status": 200,
+    "finalUrl": "https://stlo.rennes.hub.inrae.fr/content/download/1337/18940?version=1"
+  },
+  {
+    "id": "crossboard",
+    "url": "https://www.anses.fr/fr/content/eviter-les-toxi-infections-alimentaires-en-confinement-les-bonnes-pratiques",
+    "status": 200,
+    "finalUrl": "https://www.anses.fr/fr/actualite/eviter-toxi-infections-alimentaires-confinement-bonnes-pratiques"
+  },
+  {
+    "id": "solardryer",
+    "url": "https://agris.fao.org/search/en/records/647761d5f2e6fe92b367b956",
+    "status": 200,
+    "finalUrl": "https://agris.fao.org/search/en/records/647761d5f2e6fe92b367b956"
+  },
+  {
+    "id": "musicscore",
+    "url": "https://www.larousse.fr/encyclopedie/musdico/notation_musicale/169355",
+    "status": 200,
+    "finalUrl": "https://www.larousse.fr/encyclopedie/musdico/notation_musicale/169355"
+  },
+  {
+    "id": "fluteair",
+    "url": "https://www.yamaha.com/en/musical_instrument_guide/flute/mechanism/mechanism002.html",
+    "status": 200,
+    "finalUrl": "https://www.yamaha.com/en/musical_instrument_guide/flute/mechanism/mechanism002.html"
+  },
+  {
+    "id": "shadowstage",
+    "url": "https://ich.unesco.org/en/RL/wayang-puppet-theatre-00063",
+    "status": 200,
+    "finalUrl": "https://ich.unesco.org/en/RL/wayang-puppet-theatre-00063"
+  },
+  {
+    "id": "leadtype",
+    "url": "https://www.universalis.fr/encyclopedie/gutenberg/",
+    "status": 200,
+    "finalUrl": "https://www.universalis.fr/encyclopedie/gutenberg/"
+  },
+  {
+    "id": "claykiln",
+    "url": "https://lillonum.univ-lille.fr/files/original/204d63940a429eeb3746d0b45261ef2332c6dbab.pdf",
+    "status": 200,
+    "finalUrl": "https://lillonum.univ-lille.fr/files/original/204d63940a429eeb3746d0b45261ef2332c6dbab.pdf"
+  },
+  {
+    "id": "pigmentbinder",
+    "url": "https://www.beyondeveryart.com/natural-pigments-and-the-geology-of-color-through-history/",
+    "status": 200,
+    "finalUrl": "https://www.beyondeveryart.com/natural-pigments-and-the-geology-of-color-through-history/"
+  },
+  {
+    "id": "pinholebox",
+    "url": "https://www.universalis.fr/encyclopedie/chambre-noire-chambre-optique/",
+    "status": 200,
+    "finalUrl": "https://www.universalis.fr/encyclopedie/chambre-noire-chambre-optique/"
+  },
+  {
+    "id": "papyrussheet",
+    "url": "https://www.metmuseum.org/essays/papyrus-making-in-egypt",
+    "status": 429,
+    "finalUrl": "https://www.metmuseum.org/essays/papyrus-making-in-egypt"
+  },
+  {
+    "id": "paperfibres",
+    "url": "https://paper.gatech.edu/washi/washi-history-japanese-papermaking",
+    "status": 200,
+    "finalUrl": "https://paper.gatech.edu/washi/washi-history-japanese-papermaking"
+  },
+  {
+    "id": "gothicvault",
+    "url": "https://www.notredamedeparis.fr/comprendre/architecture/facades-architecture-exterieure/",
+    "status": 403,
+    "finalUrl": "https://www.notredamedeparis.fr/comprendre/architecture/facades-architecture-exterieure/"
+  },
+  {
+    "id": "regenbrake",
+    "url": "https://www.fueleconomy.gov/feg/hybridtech.shtml",
+    "status": 200,
+    "finalUrl": "https://www.fueleconomy.gov/feg/hybridtech.shtml"
+  },
+  {
+    "id": "dieselignition",
+    "url": "https://direns.minesparis.psl.eu/Sites/Thopt/fr/res/TechnoMACI.pdf",
+    "status": 200,
+    "finalUrl": "https://direns.minesparis.psl.eu/Sites/Thopt/fr/res/TechnoMACI.pdf"
+  },
+  {
+    "id": "clutchplates",
+    "url": "https://vehiclelifetimesolutions.schaeffler.in/en-gb/luk-dmf",
+    "status": 200,
+    "finalUrl": "https://vehiclelifetimesolutions.schaeffler.in/en-gb/luk-dmf"
+  },
+  {
+    "id": "gearboxpair",
+    "url": "https://www.teachengineering.org/activities/nyu_getingear_activity1",
+    "status": 200,
+    "finalUrl": "https://www.teachengineering.org/activities/nyu_getingear_activity1"
+  },
+  {
+    "id": "intercoolerair",
+    "url": "https://dieselnet.com/tech/air_cool.php",
+    "status": 200,
+    "finalUrl": "https://dieselnet.com/tech/air_cool.php"
+  },
+  {
+    "id": "enginecoolant",
+    "url": "https://www.caltech.edu/about/news/question-week-why-does-engine-cooling-system-have-thermostat-and-hos-does-it-relate-coolant",
+    "status": 200,
+    "finalUrl": "https://www.caltech.edu/about/news/question-week-why-does-engine-cooling-system-have-thermostat-and-hos-does-it-relate-coolant"
+  },
+  {
+    "id": "differentialturn",
+    "url": "https://web.mit.edu/2.972/OldFiles/www/reports/differential/differential.html",
+    "status": 200,
+    "finalUrl": "https://web.mit.edu/2.972/OldFiles/www/reports/differential/differential.html"
+  },
+  {
+    "id": "abscontrol",
+    "url": "https://www.bosch-mobility.com/en/solutions/braking-systems/antilock-braking-system/",
+    "status": 200,
+    "finalUrl": "https://www.bosch-mobility.com/en/solutions/braking-systems/antilock-braking-system/"
+  },
+  {
+    "id": "discbrake",
+    "url": "https://www.bremboparts.com/europe/en/support/car/how-to-choose-the-right-product/brake-discs-with-vane-vs-pillar-ventilation-the-differences-204921",
+    "status": 200,
+    "finalUrl": "https://www.bremboparts.com/europe/en/support/car/how-to-choose-the-right-product/brake-discs-with-vane-vs-pillar-ventilation-the-differences-204921"
+  },
+  {
+    "id": "engineoil",
+    "url": "https://www.tcs.ch/mam/Digital-Media/PDF/Booklets/Ce-qu-il-faut-savoir-sur-les-huiles-moteurs.pdf",
+    "status": 200,
+    "finalUrl": "https://www.tcs.ch/mam/Digital-Media/PDF/Booklets/Ce-qu-il-faut-savoir-sur-les-huiles-moteurs.pdf"
+  },
+  {
+    "id": "flowerpollination",
+    "url": "https://www.fondationbiodiversite.fr/wp-content/uploads/2016/02/IPBES-Rapport-V-longue.pdf",
+    "status": 200,
+    "finalUrl": "https://www.fondationbiodiversite.fr/wp-content/uploads/2016/02/IPBES-Rapport-V-longue.pdf"
+  },
+  {
+    "id": "agroforestrows",
+    "url": "https://www.fao.org/sustainable-forest-management-toolbox/modules/agroforestry/2/en",
+    "status": 200,
+    "finalUrl": "https://www.fao.org/sustainable-forest-management-toolbox/modules/agroforestry/2/en"
+  },
+  {
+    "id": "coralbleach",
+    "url": "https://oceanservice.noaa.gov/facts/coral_bleach.html",
+    "status": 200,
+    "finalUrl": "https://oceanservice.noaa.gov/facts/coral_bleach.html"
+  },
+  {
+    "id": "oceanacid",
+    "url": "https://oceanservice.noaa.gov/facts/acidification.html",
+    "status": 200,
+    "finalUrl": "https://oceanservice.noaa.gov/facts/acidification.html"
+  },
+  {
+    "id": "sealevelrise",
+    "url": "https://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level",
+    "status": 200,
+    "finalUrl": "https://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level"
+  },
+  {
+    "id": "wetlandsponge",
+    "url": "https://www.ecologie.gouv.fr/protection-des-milieux-humides",
+    "status": 200,
+    "finalUrl": "https://www.ecologie.gouv.fr/politiques-publiques/protection-milieux-humides"
+  },
+  {
+    "id": "sewageplant",
+    "url": "https://www.usgs.gov/water-science-school/science/wastewater-treatment-water-use",
+    "status": 403,
+    "finalUrl": "https://www.usgs.gov/water-science-school/science/wastewater-treatment-water-use"
+  },
+  {
+    "id": "stormcharges",
+    "url": "https://www.weather.gov/fgz/Lightning",
+    "status": 200,
+    "finalUrl": "https://www.weather.gov/fgz/Lightning"
+  },
+  {
+    "id": "waterjourney",
+    "url": "https://ugc.berkeley.edu/background-content/water-cycle/",
+    "error": "fetch failed"
+  },
+  {
+    "id": "watershedridge",
+    "url": "https://www.eaufrance.fr/sites/default/files/2018-07/fiche-le-bassin-versant-Agence-de-l-eau-onema-2012.pdf",
+    "status": 200,
+    "finalUrl": "https://www.eaufrance.fr/sites/default/files/2018-07/fiche-le-bassin-versant-Agence-de-l-eau-onema-2012.pdf"
+  },
+  {
+    "id": "htmltree",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content",
+    "status": 200,
+    "finalUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content"
+  },
+  {
+    "id": "searchindex",
+    "url": "https://developers.google.com/search/docs/fundamentals/how-search-works",
+    "status": 200,
+    "finalUrl": "https://developers.google.com/search/docs/fundamentals/how-search-works?hl=ru"
+  },
+  {
+    "id": "cookietoken",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies",
+    "status": 200,
+    "finalUrl": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies"
+  },
+  {
+    "id": "ssdanddisk",
+    "url": "https://www.ibm.com/think/topics/solid-state-drives",
+    "status": 200,
+    "finalUrl": "https://www.ibm.com/think/topics/solid-state-drives"
+  },
+  {
+    "id": "capacitivetouch",
+    "url": "https://engineering.mit.edu/ask-an-engineer/how-do-touch-sensitive-screens-work",
+    "status": 200,
+    "finalUrl": "https://engineering.mit.edu/ask-an-engineer/how-do-touch-sensitive-screens-work"
+  },
+  {
+    "id": "inkjetdrops",
+    "url": "https://corporate.epson/en/technology/overview/printer-inkjet/micro-piezo.html",
+    "status": 200,
+    "finalUrl": "https://corporate.epson/en/technology/overview/printer-inkjet/micro-piezo.html"
+  },
+  {
+    "id": "transistorgate",
+    "url": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/2d2c867fe21d0750631c5eac664c4da2_6_0022007L012.pdf",
+    "status": 200,
+    "finalUrl": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/2d2c867fe21d0750631c5eac664c4da2_6_0022007L012.pdf"
+  },
+  {
+    "id": "cpucooling",
+    "url": "https://www.intel.com/content/www/us/en/gaming/resources/cpu-cooler-liquid-cooling-vs-air-cooling.html",
+    "status": 200,
+    "finalUrl": "https://www.intel.com/content/www/us/en/gaming/resources/cpu-cooler-liquid-cooling-vs-air-cooling.html"
+  },
+  {
+    "id": "passwordhash",
+    "url": "https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html",
+    "status": 200,
+    "finalUrl": "https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html"
+  },
+  {
+    "id": "blocklinks",
+    "url": "https://doi.org/10.6028/NIST.IR.8202",
+    "status": 200,
+    "finalUrl": "https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf"
+  }
+]

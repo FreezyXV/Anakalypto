@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "8ed78d0ffed2873da203cd395aad6293b120775014e31021301f571d10e1e1e8",
+  "sourceDigest": "8b420971dae86d931b84db9f9d4d45746473d30cf212ee86729a5147bccfa749",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -336,6 +336,78 @@
       "reviewedAt": "2026-11-12T13:50:52.688Z"
     },
     {
+      "path": "/alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire/la-conservation-des-aliments-par-sechage-solaire",
+      "visualRefs": ["schema:solardryer"],
+      "fingerprint": "79ebeb49722091781939f888ef2ba4a067bf7cbffc8d9cb3655a4e6aa7c4b637",
+      "contentHash": "d04616d485f47a81ea9017f82c3e47aba30ab67394c49d2f1d67da8dc94b035f",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:46.532Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire/la-conservation-optimale-des-aliments-au-refrigerateur",
+      "visualRefs": ["schema:fridgezones"],
+      "fingerprint": "5cf1dc9bdb641edce20f34dc19cc453860a4bb08ccc062bee87855547de3751f",
+      "contentHash": "4c85cb8de64dcc9ca90609490c15c26b02158678f490007dce5074e06c07a1a1",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:48.948Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire/pourquoi-certains-aliments-ont-ils-une-date-limite-et-d-autres-une-date-conseillee",
+      "visualRefs": ["schema:fooddates"],
+      "fingerprint": "4d3410865e443ff012163ccdcc6c3534b89f5982d5da2f26e17128e3422025dc",
+      "contentHash": "99c9ccd55b7bf6c7566884630336e6c27ce4ed09b84c943e7573781efb0799e5",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:51.393Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/lactose-et-intolerance",
+      "visualRefs": ["schema:lactase"],
+      "fingerprint": "09922df8defedce2d910b9c9780157a46caef89d619430d090f87da42f3f9480",
+      "contentHash": "c61aadb5669e0f0047c2b13aa3545fbcc384cb81c1e879b0e3aeb06ff584e816",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:50.038Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/pourquoi-ne-faut-il-pas-couper-la-salade-sur-la-planche-du-poulet-cru",
+      "visualRefs": ["schema:crossboard"],
+      "fingerprint": "063d6bed30e399069296a6a5f4e4c6b7f43372a39e2a53a1eee6431b4df15023",
+      "contentHash": "f62f797616440367f1213ef4c74c149ffa3d6d61445c6666fac6d6c7e4dff7d0",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:51.561Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/comment-le-miel-peut-il-se-conserver-presque-sans-fin",
+      "visualRefs": ["schema:honeywater"],
+      "fingerprint": "fd0de7fbf58b12d210c87fef1f63d076a72f90d0e9b2ababbe23f264aeb1eef6",
+      "contentHash": "4f88d9ed6a3bd690fa205e3d3fb8222b12476f6bc99e60d8985256fcbc355d70",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:46.367Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/pourquoi-le-sel-et-le-sucre-conservent-les-aliments",
+      "visualRefs": ["schema:osmotickeeping"],
+      "fingerprint": "e4370c5a3f2b02d6b77d736cdc0096c8a6d4f88ea54f8f665dec23573d270f22",
+      "contentHash": "ed214dc03678bd19471367a311496632c847bd2c145cff8b349d7c3411e0550f",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:53.359Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/pourquoi-un-aliment-decongele-devient-il-parfois-tout-mou",
+      "visualRefs": ["schema:freezefood"],
+      "fingerprint": "1a913124e4baf3ea63d360dc9da69e9cf9e4266b88e43398a0835752002ff056",
+      "contentHash": "69c2ed80c0cd8e49ec8ad7cd836df84dd2b0335a10f35cf8cdc25595124d3e73",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:51.710Z"
+    },
+    {
       "path": "/alimentation-et-nutrition/technologies-alimentaires/fermentation/comment-des-bacteries-transforment-elles-le-lait-en-yaourt",
       "visualRefs": ["schema:yogurtculture"],
       "fingerprint": "b38b5a9719bf1f274284053765d38336a4f0b039b6ddf1c50ae7d9276e440e6b",
@@ -354,6 +426,24 @@
       "reviewedAt": "2026-11-12T13:50:52.808Z"
     },
     {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/fermentation/comment-le-vin-se-transforme-t-il-en-vinaigre",
+      "visualRefs": ["schema:vinegarair"],
+      "fingerprint": "756ed0368242f0e6d5cce2e72f36de746f36ae29ba380284218a9b4b0a7a958d",
+      "contentHash": "eef5cdfb6827d3ab90b474e1b21ecaaaa12aa0e63041d609138f5090b04f23b3",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:49.252Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/fermentation/la-conservation-des-legumes-par-lactofermentation",
+      "visualRefs": ["schema:lactojar"],
+      "fingerprint": "3893e4edae0959d39e1ebaf385d573796db7b27e0fd799e9227ca8bdb42bdbb3",
+      "contentHash": "da08bd681c7a11d6bbfd340415a63d7ce59528b17b37987033efa254045ac155",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:50.173Z"
+    },
+    {
       "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/comment-un-grain-de-ble-devient-il-de-la-farine",
       "visualRefs": ["schema:wheatflour"],
       "fingerprint": "b1fdab20e1a27698ece60b56609f6218686a2fd183a58cb941fde3c3b3423e99",
@@ -361,6 +451,24 @@
       "quality": "validee",
       "evidence": "docs/qa/lesson-visuals-batch50/README.md",
       "reviewedAt": "2026-11-12T08:39:12.588Z"
+    },
+    {
+      "path": "/arts-et-culture/arts-du-spectacle/musique/comment-ecrit-on-de-la-musique-sur-une-partition",
+      "visualRefs": ["schema:musicscore"],
+      "fingerprint": "5c028e98cd38956a8e3f7b901d85ce16c1d8c76730fdd4a996fc382d95f67155",
+      "contentHash": "66cd47107ebb6838d9d9656f49bbf70650c5a4f4a8c81dd3f3317d60e4e6915f",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:51.840Z"
+    },
+    {
+      "path": "/arts-et-culture/arts-du-spectacle/musique/comment-une-flute-transforme-t-elle-un-souffle-en-musique",
+      "visualRefs": ["schema:fluteair"],
+      "fingerprint": "3980732d2a86318167edadfe470041fd137ef79a4abff3a1cc3a79012e2609b0",
+      "contentHash": "4ff9803540a5cf48a8861bca925d7d21c982b081d33e1b6b51b1910bc7fae035",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:49.547Z"
     },
     {
       "path": "/arts-et-culture/arts-du-spectacle/musique/pourquoi-deux-instruments-ne-sonnent-ils-pas-pareil-sur-la-meme-note",
@@ -372,6 +480,24 @@
       "reviewedAt": "2026-11-12T13:50:52.923Z"
     },
     {
+      "path": "/arts-et-culture/arts-du-spectacle/theatre-et-danse/d-ou-viennent-les-marionnettes-et-le-theatre-d-ombres",
+      "visualRefs": ["schema:shadowstage"],
+      "fingerprint": "e73229df8ce47e78347efe2724d49ea0046cf160a6e0077e74b63a5d1a880e27",
+      "contentHash": "633a93986035edf38e720fad98baed2fd39cfc02b13fb3b3552cb656e4c41126",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:53.502Z"
+    },
+    {
+      "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/comment-la-typographie-est-elle-passee-du-plomb-a-l-ecran",
+      "visualRefs": ["schema:leadtype"],
+      "fingerprint": "e24a1585f52cff827be7a796bf42c8f6daa217f5afd9315053cfb431877b5950",
+      "contentHash": "302b9cc4aa77c38294f2b4c1b8853c21772af0d568506500b25f4140fd8badc0",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:47.157Z"
+    },
+    {
       "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/comment-une-gravure-permet-elle-d-imprimer-la-meme-image-des-dizaines-de-fois",
       "visualRefs": ["schema:engraving"],
       "fingerprint": "9a459cd734f4e93212cccff89c01a0f0f9e03fc5b812592c1decf3c8c81b6065",
@@ -379,6 +505,15 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:50:53.057Z"
+    },
+    {
+      "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/comment-l-argile-devient-elle-dure-comme-de-la-pierre-dans-un-four",
+      "visualRefs": ["schema:claykiln"],
+      "fingerprint": "86e361f46d5d45ca4a7bb2dcce83fd2383a1140dac0c135cdc46f21684aecf72",
+      "contentHash": "65e908ca52f271c73b992848199c83e52866bd2206400131ab0b0f7436ad3b18",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:52.555Z"
     },
     {
       "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/comment-une-fresque-reste-t-elle-accrochee-au-mur-pendant-des-siecles",
@@ -399,6 +534,24 @@
       "reviewedAt": "2026-11-12T13:50:53.281Z"
     },
     {
+      "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/pigments-fabrication-couleurs",
+      "visualRefs": ["schema:pigmentbinder"],
+      "fingerprint": "8749638770965f7bc5549d820e1c7ebb493ce5589b0f2599ace42603b8d2c260",
+      "contentHash": "06b6f9e2521f8abd8b9994442c74e6745381744c0b91616ff7118c066054269e",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:46.780Z"
+    },
+    {
+      "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/comment-une-boite-percee-d-un-petit-trou-fabrique-t-elle-une-image",
+      "visualRefs": ["schema:pinholebox"],
+      "fingerprint": "f97de4c73a19ef10f1f1e5870f786d78eaa50da09e10b29ea11cd7af6326fc6e",
+      "contentHash": "ac46cc80c82f9637d51ee8bc63aa49a20e538b9c48523feaf792836889fc2164",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:52.091Z"
+    },
+    {
       "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/invention-de-la-photographie",
       "visualRefs": ["schema:camera"],
       "fingerprint": "d3cb09b956d3489599e18fd87541e3adf33cb39d94479a9f9966bee0cb6bfb4a",
@@ -406,6 +559,24 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:50:53.366Z"
+    },
+    {
+      "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/comment-les-egyptiens-fabriquaient-ils-des-feuilles-avec-une-plante",
+      "visualRefs": ["schema:papyrussheet"],
+      "fingerprint": "541ba774db31a010733f972c228323a1e0c7b159821051d971b80fcc99945df1",
+      "contentHash": "81294e587b47ebda55ab7709675f62b96b326aa66de81c45c8f5da084bea1ad7",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:52.231Z"
+    },
+    {
+      "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/fabriquer-papier",
+      "visualRefs": ["schema:paperfibres"],
+      "fingerprint": "f06a5db539096c1c607f6d66b435621141935b472a84ea077afb9ff983b73e53",
+      "contentHash": "3d994ceffd21fecc1fff1f4c0528d7ea98ba5cc3b7f5d4ae3aa968759a573586",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:53.649Z"
     },
     {
       "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/invention-de-limprimerie-a-caracteres-mobiles",
@@ -417,6 +588,15 @@
       "reviewedAt": "2026-11-12T13:50:53.489Z"
     },
     {
+      "path": "/arts-et-culture/patrimoine/architecture/art-gothique-et-croisee-dogives",
+      "visualRefs": ["schema:gothicvault"],
+      "fingerprint": "3edbd222a9c69e36cd394467cef9556d7e9ecce54059ca3a543b10ea94e9f88c",
+      "contentHash": "0555074abbaa3996391b7c1929085116530009b6d8492a4d92f3a900a96f666a",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:49.884Z"
+    },
+    {
       "path": "/automobile/motorisations/electrique/chimies-batteries-lithium-ion-automobile",
       "visualRefs": ["schema:battery"],
       "fingerprint": "4b6c9c0ce8f598929d75aff2e7f2c46144055620ceaf054b0fc2767821a5f1dd",
@@ -424,6 +604,15 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:50:53.573Z"
+    },
+    {
+      "path": "/automobile/motorisations/motorisations-hybrides/comment-une-voiture-electrique-recupere-t-elle-de-l-energie-en-freinant",
+      "visualRefs": ["schema:regenbrake"],
+      "fingerprint": "e0b5ca06345c5705dbfef0ff5c2aeafc710ac06a47cbcfb74f848f31ec7998af",
+      "contentHash": "a889b85b984c8e9ebad756768fcbb24541479e9d424fd2ba23203f967ec9eb0d",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:47.329Z"
     },
     {
       "path": "/automobile/motorisations/thermique/comment-un-moteur-a-quatre-temps-transforme-t-il-l-essence-en-mouvement",
@@ -435,6 +624,15 @@
       "reviewedAt": "2026-11-12T13:50:53.673Z"
     },
     {
+      "path": "/automobile/motorisations/thermique/comment-un-moteur-diesel-s-allume-t-il-sans-bougie-d-allumage",
+      "visualRefs": ["schema:dieselignition"],
+      "fingerprint": "da35fef33442b9d828bcf75e4e2302153f68255e238012b98e763065d12b5041",
+      "contentHash": "d2943fb629a3e7bebd45e95391bd167f35eeb5692f2de3d7cb08d4c5045e45ba",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:52.370Z"
+    },
+    {
       "path": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant",
       "visualRefs": ["atelier:le-turbo"],
       "fingerprint": "0bfa7e70e25527beac578b6466eefaece15aadd3d885b9c211726f5ee2283326",
@@ -442,6 +640,78 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:50:53.758Z"
+    },
+    {
+      "path": "/automobile/motorisations/thermique/embrayage-volant-moteur-bimasse",
+      "visualRefs": ["schema:clutchplates"],
+      "fingerprint": "6d8caeb6baedc1341867e981706bf187eee9b25ed31cc09a6232e15eb3f5e314",
+      "contentHash": "b34daa756a582b2ee12a0e102e75bb8dfd98b6585f3b71403305176f72374eb3",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:52.694Z"
+    },
+    {
+      "path": "/automobile/motorisations/thermique/fonctionnement-boite-de-vitesses",
+      "visualRefs": ["schema:gearboxpair"],
+      "fingerprint": "6b990e09aae8f14b0c2c8da20921f292e9c5a6cbbd6f00bed47da1367e5c8aca",
+      "contentHash": "5c07d0a4cc5fd22a7504616f7e0ad3c917f03f9fbd80cfee8bba11fc444454ad",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:50.317Z"
+    },
+    {
+      "path": "/automobile/motorisations/thermique/intercooler-circuit-admission",
+      "visualRefs": ["schema:intercoolerair"],
+      "fingerprint": "cbe779000752240c7e2759deb9839e49ca51546c9118f46b90d34b604b2fff0a",
+      "contentHash": "5176cbadcc05542c0efbaa47cf850c89540d2a3f27a8abdcc2e235260bb1fe8a",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:48.719Z"
+    },
+    {
+      "path": "/automobile/motorisations/thermique/refroidissement-moteur-thermique",
+      "visualRefs": ["schema:enginecoolant"],
+      "fingerprint": "542a6dbda37de538d95e75aa03ce4de9ad4b50541b2cdfd4df64e19e620870a6",
+      "contentHash": "0dfb6a06647d9c708b3085cbe191f19c396158572e7947ed943c80565a0c2c4c",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:49.103Z"
+    },
+    {
+      "path": "/automobile/motorisations/thermique/transmission-integrale-differentiel",
+      "visualRefs": ["schema:differentialturn"],
+      "fingerprint": "f7d3ae944f7036c040b23a245bc8d9a5cf6c8c8afa99f7f95ff53747cc95deb1",
+      "contentHash": "fcd2b6020d8dbd61de1a0a209d7e3f43e33ed0a81d130c23be56a6c65ffcbf1e",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:53.789Z"
+    },
+    {
+      "path": "/automobile/securite-et-conduite/aides-a-la-conduite/comment-l-abs-permet-il-de-tourner-le-volant-en-freinant-a-fond",
+      "visualRefs": ["schema:abscontrol"],
+      "fingerprint": "0df78621f9c8ce684973a7ca03bf69f63aea25a45d7aecb81214ca0fc6916d05",
+      "contentHash": "198cad4805366be3d89b1e968feed3680d519e3991ffc47313b1df7463ddef22",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:47.494Z"
+    },
+    {
+      "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/comment-les-freins-a-disque-arretent-ils-une-voiture",
+      "visualRefs": ["schema:discbrake"],
+      "fingerprint": "ab1eccf3393198ae2502b91b4b51a86a7454a10c52b3bffec9fe96509cc22d36",
+      "contentHash": "37af6d026c1f3c79669245ce7b67eba3db164ef29ea824d95755b924b28c7148",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:46.969Z"
+    },
+    {
+      "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/huile-moteur-lubrification",
+      "visualRefs": ["schema:engineoil"],
+      "fingerprint": "6babc32af6855dff434ab1eceae9f9fb0f95f7e2d28243063462adae3d53f76f",
+      "contentHash": "010912e86b437cba2e53c291048943971639a7b5dc3868ca73856e94b9ef59d6",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:50.461Z"
     },
     {
       "path": "/communication-et-medias/histoire-des-medias/radio-et-television/comment-la-television-est-elle-passee-du-noir-et-blanc-a-la-couleur",
@@ -487,6 +757,33 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:50:54.272Z"
+    },
+    {
+      "path": "/communication-et-medias/medias-numeriques/web/comment-le-langage-html-construit-il-une-page-web",
+      "visualRefs": ["schema:htmltree"],
+      "fingerprint": "7e984af55dcb631ea4db20077597cc4117577df1c4063c78c6815c0da5a06b76",
+      "contentHash": "b604c60ec48856dfe44daee8de3a511939760e72aea1f2804be883786e9c2ad6",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:49.408Z"
+    },
+    {
+      "path": "/communication-et-medias/medias-numeriques/web/comment-un-moteur-de-recherche-trouve-t-il-une-page-parmi-toutes-celles-du-web",
+      "visualRefs": ["schema:searchindex"],
+      "fingerprint": "51d8dd0dc7be9107a6e19c41a3c34b5510fca842883fcd2db314674f28271e61",
+      "contentHash": "775f134b978b2f5a23a45eb39085eb3d729cf53fdc80bb66068b240836c9c074",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:49.682Z"
+    },
+    {
+      "path": "/communication-et-medias/medias-numeriques/web/comment-un-site-web-se-souvient-il-de-vous-grace-aux-cookies",
+      "visualRefs": ["schema:cookietoken"],
+      "fingerprint": "f12754c9d334abe8ff2c984f8c7cbe1003c84e939b34466f7a0eeed13ffbbfed",
+      "contentHash": "8f20d9ed0d663faceb970e3c6a3e8161b139c6633a53c696ede3de1039730438",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:47.693Z"
     },
     {
       "path": "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/comment-la-lumiere-reste-t-elle-prisonniere-d-une-fibre-optique",
@@ -1020,6 +1317,42 @@
       "reviewedAt": "2026-11-12T08:39:13.181Z"
     },
     {
+      "path": "/environnement-et-climat/biodiversite/ecosystemes/pourquoi-les-abeilles-sauvages-et-autres-pollinisateurs-sont-ils-precieux-pour-nos-cultures",
+      "visualRefs": ["schema:flowerpollination"],
+      "fingerprint": "225e53b545373c26997a1bc71d9fb99b2f26d03725a41c8adf8015a4caecd8f6",
+      "contentHash": "175c5d9499a195ad30c37d547d5f71581b7806667bea97885127abf0106fe42f",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:48.123Z"
+    },
+    {
+      "path": "/environnement-et-climat/biodiversite/forets-et-oceans/l-agroforesterie-combiner-arbres-et-cultures",
+      "visualRefs": ["schema:agroforestrows"],
+      "fingerprint": "6f8cf70042b626048db3c52f8ada2f9000eb30bd6d13ca95f6b37d6b1f6bfc51",
+      "contentHash": "7d9ab76e3b06baecab8cb5d044cbf5f8e1d9166ba93e13098204d554c675017f",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:50.593Z"
+    },
+    {
+      "path": "/environnement-et-climat/biodiversite/forets-et-oceans/le-blanchissement-des-coraux",
+      "visualRefs": ["schema:coralbleach"],
+      "fingerprint": "863d3d57be87383c1f7719edcd2857b51d5c25e2f097b25299921635503258b8",
+      "contentHash": "df7651d86e83bb113b6b70dede7dc50206f0e7cde58dba449b1c36ad6803eb38",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:50.742Z"
+    },
+    {
+      "path": "/environnement-et-climat/biodiversite/forets-et-oceans/pourquoi-l-acidification-des-oceans-menace-t-elle-les-recifs-coralliens",
+      "visualRefs": ["schema:oceanacid"],
+      "fingerprint": "317720a73bdbfb7ad819575ab16f57522fdd8b13b9f51d67b1212f414b71172d",
+      "contentHash": "c1af03d90bae05ac6845856a1c3dd07f0d6a054f6ab8bfb6a1f31aeeb7e191d5",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:53.936Z"
+    },
+    {
       "path": "/environnement-et-climat/changement-climatique/gaz-a-effet-de-serre/concentration-record-de-co2-dans-latmosphere",
       "visualRefs": ["schema:greenhouse"],
       "fingerprint": "8c7a20ab55f1a8911f8a5730918070cf1b82dfa69b2f26567d70b17916e54003",
@@ -1054,6 +1387,15 @@
       "quality": "validee",
       "evidence": "docs/qa/lesson-visuals-batch50/README.md",
       "reviewedAt": "2026-11-12T08:39:13.208Z"
+    },
+    {
+      "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/pourquoi-le-niveau-de-la-mer-monte-t-il-et-que-devient-le-littoral",
+      "visualRefs": ["schema:sealevelrise"],
+      "fingerprint": "aa4896a8c4f1d50d94db15b822d19079e6c9981ac18d789a905b4ea84bb1ac05",
+      "contentHash": "3375cbd59ed9f7291876f0dcd5bc75e13db7e5854daf40e3b53666e552cc539c",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:48.271Z"
     },
     {
       "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/comment-des-epluchures-se-transforment-elles-en-compost",
@@ -1108,6 +1450,24 @@
       "quality": "validee",
       "evidence": "docs/qa/lesson-visuals-batch50/README.md",
       "reviewedAt": "2026-11-12T08:39:13.237Z"
+    },
+    {
+      "path": "/environnement-et-climat/pollution-et-ressources/eau/pourquoi-dit-on-que-les-zones-humides-sont-des-eponges-naturelles",
+      "visualRefs": ["schema:wetlandsponge"],
+      "fingerprint": "4ed5416ebbcff3ebf21f655541b8a217cced7f2e9330baac4a6579738d6fcd89",
+      "contentHash": "202bd9344467ffc8e758e724313042c9c33ed19172e138313c2094ff8840c483",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:50.931Z"
+    },
+    {
+      "path": "/environnement-et-climat/pollution-et-ressources/eau/que-devient-l-eau-de-l-evier-et-des-toilettes-dans-une-station-d-epuration",
+      "visualRefs": ["schema:sewageplant"],
+      "fingerprint": "f723dea822f09288d398f4c82c961b3fb99c72caf80ffb5a001bedee41955e85",
+      "contentHash": "ab76ae357befa6ad92b6db0bcdd3f8ba841ef92908111c3cb1947007c1eb8bc4",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:47.956Z"
     },
     {
       "path": "/environnement-et-climat/pollution-et-ressources/eau/recuperer-eau-pluie",
@@ -1452,6 +1812,15 @@
       "reviewedAt": "2026-11-12T13:51:02.964Z"
     },
     {
+      "path": "/geographie-et-territoires/geographie-physique/climatologie/comment-nait-un-eclair-pendant-un-orage",
+      "visualRefs": ["schema:stormcharges"],
+      "fingerprint": "f7b4952cba41516eaaf60d27a5f4c85268937da78d27ce14dd1113aa0123d016",
+      "contentHash": "403be34b63240b81af6b7559d3f5e28446967b1a631f7ee086ff1d0c77da3be2",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:48.579Z"
+    },
+    {
       "path": "/geographie-et-territoires/geographie-physique/climatologie/comment-un-cyclone-tropical-nait-il-au-dessus-d-une-mer-chaude",
       "visualRefs": ["atelier:naissance-d-un-cyclone"],
       "fingerprint": "1806bd7c335c7c309ced1ea1db57afcdf6d9adffc1aa5d8a9e52f4e284113946",
@@ -1459,6 +1828,24 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:51:03.045Z"
+    },
+    {
+      "path": "/geographie-et-territoires/geographie-physique/hydrographie/comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre",
+      "visualRefs": ["schema:waterjourney"],
+      "fingerprint": "40f86341b07d18ac76f8127989980007f8a74238625760b6759f3f0bcf960ce8",
+      "contentHash": "fa03ee91816fd32103be43820b648efdf704ef6f7f8736a0700f00608661ba44",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:52.832Z"
+    },
+    {
+      "path": "/geographie-et-territoires/geographie-physique/hydrographie/ou-va-la-pluie-qui-tombe-de-chaque-cote-d-une-crete",
+      "visualRefs": ["schema:watershedridge"],
+      "fingerprint": "549d946cce6175a99824331c66a0a3f7c2bcea869fdb6681d8042eee7d9a85f2",
+      "contentHash": "6b4b9e3aaa7015b7df5a443d31892337374acac4518220013f3b16f0aae21c31",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:51.092Z"
     },
     {
       "path": "/industries/industrie-lourde/chimie-industrielle/comment-le-bois-devient-il-une-feuille-de-papier",
@@ -1794,6 +2181,15 @@
       "reviewedAt": "2026-11-12T13:51:05.650Z"
     },
     {
+      "path": "/micro-informatique-et-informatique/materiel/memoire-et-stockage/quelle-difference-y-a-t-il-entre-un-ssd-et-un-disque-dur",
+      "visualRefs": ["schema:ssdanddisk"],
+      "fingerprint": "31396a9ef01afddf0625426319af33c212bd73d305fb04900c3a45f2f53cb156",
+      "contentHash": "d3a5c83e7fddf843010992a8063454ea2322262d9b6c38dd4d4d9f48aa02699d",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:51.244Z"
+    },
+    {
       "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-un-ecran-affiche-une-image",
       "visualRefs": ["schema:pixels"],
       "fingerprint": "e1549ea32b9bae73fb20f6e398fd03f0e94c0bd489e0d71c5b3ae11aad1af74b",
@@ -1803,6 +2199,24 @@
       "reviewedAt": "2026-11-12T13:51:05.746Z"
     },
     {
+      "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-un-ecran-tactile-sent-il-votre-doigt",
+      "visualRefs": ["schema:capacitivetouch"],
+      "fingerprint": "3d9083109731dc7f63d9db5d77e90c6e30503c9f8c69a40a6a16883583569113",
+      "contentHash": "8c507356d45df573f303f50f515d7627b204f059bdcc963ee64478f57b46a6f0",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:54.296Z"
+    },
+    {
+      "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-une-imprimante-depose-t-elle-l-encre-exactement-au-bon-endroit",
+      "visualRefs": ["schema:inkjetdrops"],
+      "fingerprint": "8418a4637bff93a16146442f2f0ff9265510b037f0aea87b778dcd1dada314f8",
+      "contentHash": "08d77bd6f87bbce7249621d4dc916b49188431511785f4d34a979fcf939c22ec",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:54.448Z"
+    },
+    {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-fonctionne-un-processeur",
       "visualRefs": ["schema:cpu"],
       "fingerprint": "37f4cf03f2501860b5e044b51c6f8e55efacb5e29b7f2749c8a1fd8dfdaaced7",
@@ -1810,6 +2224,42 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:51:05.830Z"
+    },
+    {
+      "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur",
+      "visualRefs": ["schema:transistorgate"],
+      "fingerprint": "f2a42fac57532088af4168192314a5a6668306fbf06ba6b414a1e5aea5aecced",
+      "contentHash": "fb2cbf59c7aaf877c3f86da122461fb67d1e4f7f0346f28bd6d557630bdbf5bb",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:54.596Z"
+    },
+    {
+      "path": "/micro-informatique-et-informatique/materiel/processeurs/pourquoi-un-ordinateur-a-t-il-besoin-d-un-ventilateur",
+      "visualRefs": ["schema:cpucooling"],
+      "fingerprint": "fee5ae026b22454de3d8f745da238369add7e251665fc141802c7143d84bf9a3",
+      "contentHash": "22cbe23a79e7ecd420ae99a8f6099853d2ad1420af93f28dbbc65fdf27d1f86f",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:53.072Z"
+    },
+    {
+      "path": "/micro-informatique-et-informatique/reseaux-et-securite/chiffrement/comment-un-site-protege-t-il-votre-mot-de-passe-sans-le-connaitre",
+      "visualRefs": ["schema:passwordhash"],
+      "fingerprint": "a66bd30e5040cd6781e9fdf61a4dcb5c5e3725bb3cad6e5773c33a4563b29ef9",
+      "contentHash": "f6f78166232ba75502d705cab54a0734e242895a99d6e009a55cdd0d33ef9a76",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:54.136Z"
+    },
+    {
+      "path": "/micro-informatique-et-informatique/reseaux-et-securite/chiffrement/comment-une-chaine-de-blocs-rend-elle-le-passe-presque-impossible-a-modifier",
+      "visualRefs": ["schema:blocklinks"],
+      "fingerprint": "7cfe62038d87296b3163fa060d717b61ab451c8324d79869625b9d259e0daf5f",
+      "contentHash": "300e4b827897497a01193679b4e641001a1c8d094dbaa1b2caf2e09dfeed4e46",
+      "quality": "validee",
+      "evidence": "docs/qa/explorations50/README.md",
+      "reviewedAt": "2026-11-14T21:33:53.215Z"
     },
     {
       "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-le-wi-fi-fait-il-voyager-des-donnees-a-travers-l-air",

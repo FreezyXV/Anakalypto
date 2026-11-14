@@ -1,16 +1,16 @@
 # Inventaire des illustrations
 
-Photographie du backend local exportée le 2026-11-12, sans audit du corpus. Aucun changement en production. Objectif : environ 1 000 leçons ; brouillons exclus.
+Photographie du backend local exportée le 2026-11-14, sans audit du corpus. Aucun changement en production. Objectif : environ 1 000 leçons ; brouillons exclus.
 
 | État                                       | Nombre |
 | ------------------------------------------ | -----: |
 | Leçons publiées                            |    948 |
 | Leçons avec schéma éditorial               |    948 |
 | Nombre de schémas éditoriaux               |    965 |
-| Leçons avec dessin ou atelier              |    283 |
+| Leçons avec dessin ou atelier              |    333 |
 | Sans aucun visuel                          |      0 |
-| Illustration incluse et vérifiée           |    283 |
-| En attente de dessin spécifique            |    665 |
+| Illustration incluse et vérifiée           |    333 |
+| En attente de dessin spécifique            |    615 |
 | À vérifier                                 |      0 |
 | À améliorer, défaut enregistré             |      0 |
 | Réservées, sous-ensemble non additionnable |      0 |
@@ -18,19 +18,19 @@ Photographie du backend local exportée le 2026-11-12, sans audit du corpus. Auc
 | Domaine                            | Publiées | Prêtes | À améliorer | À vérifier | Sans dessin |
 | ---------------------------------- | -------: | -----: | ----------: | ---------: | ----------: |
 | aeronautique                       |       37 |     37 |           0 |          0 |           0 |
-| alimentation-et-nutrition          |       92 |      3 |           0 |          0 |          89 |
-| arts-et-culture                    |       43 |      6 |           0 |          0 |          37 |
-| automobile                         |       90 |      3 |           0 |          0 |          87 |
-| communication-et-medias            |       45 |      8 |           0 |          0 |          37 |
+| alimentation-et-nutrition          |       92 |     13 |           0 |          0 |          79 |
+| arts-et-culture                    |       43 |     16 |           0 |          0 |          27 |
+| automobile                         |       90 |     13 |           0 |          0 |          77 |
+| communication-et-medias            |       45 |     11 |           0 |          0 |          34 |
 | corps-humain-et-sante              |       65 |     16 |           0 |          0 |          49 |
 | droit-et-justice                   |       44 |      0 |           0 |          0 |          44 |
 | energie                            |       60 |     37 |           0 |          0 |          23 |
-| environnement-et-climat            |       40 |     14 |           0 |          0 |          26 |
+| environnement-et-climat            |       40 |     21 |           0 |          0 |          19 |
 | espace-et-astronomie               |       37 |     37 |           0 |          0 |           0 |
-| geographie-et-territoires          |       37 |      1 |           0 |          0 |          36 |
+| geographie-et-territoires          |       37 |      4 |           0 |          0 |          33 |
 | industries                         |       41 |     11 |           0 |          0 |          30 |
 | intelligence-artificielle          |       23 |     23 |           0 |          0 |           0 |
-| micro-informatique-et-informatique |       43 |      6 |           0 |          0 |          37 |
+| micro-informatique-et-informatique |       43 |     13 |           0 |          0 |          30 |
 | sciences-du-vivant-appliquees      |       46 |     11 |           0 |          0 |          35 |
 | sciences-fondamentales             |       67 |     49 |           0 |          0 |          18 |
 | sciences-humaines-et-sociales      |       58 |      1 |           0 |          0 |          57 |

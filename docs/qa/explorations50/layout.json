@@ -1,0 +1,4082 @@
+[
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "fridgezones",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 319.125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "fridgezones",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 604.1875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "fridgezones",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 864.453125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "fooddates",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1162.4140625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "fooddates",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1447.4765625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "fooddates",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1707.7421875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "lactase",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1980.90625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "lactase",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2241.171875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "lactase",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2501.4375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "honeywater",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2774.6015625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "honeywater",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3034.8671875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "honeywater",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3319.9296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "osmotickeeping",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3593.09375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "osmotickeeping",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3853.359375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "osmotickeeping",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4138.421875
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 1,
+    "tag": "e50-320-0-1794691437310",
+    "url": "http://localhost:3002/qa-explorations50?page=0",
+    "width": 320
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "freezefood",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 348.0234375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "freezefood",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 633.0859375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "freezefood",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 918.1484375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "vinegarair",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1191.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "vinegarair",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1451.578125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "vinegarair",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1711.84375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "lactojar",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2013.90625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "lactojar",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2298.96875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "lactojar",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2559.234375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "crossboard",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2886.09375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "crossboard",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3146.359375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "crossboard",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3431.421875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "solardryer",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3758.28125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "solardryer",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4043.34375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "solardryer",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4303.609375
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 1,
+    "tag": "e50-320-1-1794691497915",
+    "url": "http://localhost:3002/qa-explorations50?page=1",
+    "width": 320
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "musicscore",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 319.125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "musicscore",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 579.390625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "musicscore",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 839.65625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "fluteair",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1112.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "fluteair",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1373.0859375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "fluteair",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1658.1484375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "shadowstage",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1985.0078125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "shadowstage",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2245.2734375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "shadowstage",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2530.3359375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "leadtype",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2857.1953125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "leadtype",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3117.4609375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "leadtype",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3377.7265625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "claykiln",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3704.5859375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "claykiln",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3964.8515625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "claykiln",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4249.9140625
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 1,
+    "tag": "e50-320-2-1794691499772",
+    "url": "http://localhost:3002/qa-explorations50?page=2",
+    "width": 320
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "pigmentbinder",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 348.0234375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "pigmentbinder",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 608.2890625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "pigmentbinder",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 868.5546875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "pinholebox",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1166.515625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "pinholebox",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1451.578125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "pinholebox",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1711.84375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "papyrussheet",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2013.90625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "papyrussheet",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2274.171875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "papyrussheet",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2559.234375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "paperfibres",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2832.3984375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "paperfibres",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3092.6640625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "paperfibres",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3352.9296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "gothicvault",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3626.09375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "gothicvault",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3886.359375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "gothicvault",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4171.421875
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 1,
+    "tag": "e50-320-3-1794691501644",
+    "url": "http://localhost:3002/qa-explorations50?page=3",
+    "width": 320
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "regenbrake",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 319.125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "regenbrake",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 604.1875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "regenbrake",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 889.25
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "dieselignition",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1216.109375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "dieselignition",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1476.375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "dieselignition",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1761.4375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "clutchplates",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2034.6015625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "clutchplates",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2319.6640625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "clutchplates",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2604.7265625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "gearboxpair",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2931.5859375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "gearboxpair",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3216.6484375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "gearboxpair",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3476.9140625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "intercoolerair",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3774.875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "intercoolerair",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4035.140625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "intercoolerair",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4320.203125
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 1,
+    "tag": "e50-320-4-1794691510652",
+    "url": "http://localhost:3002/qa-explorations50?page=4",
+    "width": 320
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "enginecoolant",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 348.0234375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "enginecoolant",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 633.0859375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "enginecoolant",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 893.3515625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "differentialturn",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1195.4140625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "differentialturn",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1455.6796875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "differentialturn",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1715.9453125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "abscontrol",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1989.109375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "abscontrol",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2249.375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "abscontrol",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2534.4375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "discbrake",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2861.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "discbrake",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3121.5625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "discbrake",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3381.828125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "engineoil",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3679.7890625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "engineoil",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3940.0546875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "engineoil",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4200.3203125
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 1,
+    "tag": "e50-320-5-1794691512512",
+    "url": "http://localhost:3002/qa-explorations50?page=5",
+    "width": 320
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "flowerpollination",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 348.0234375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "flowerpollination",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 608.2890625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "flowerpollination",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 893.3515625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "agroforestrows",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1220.2109375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "agroforestrows",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1480.4765625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "agroforestrows",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1765.5390625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "coralbleach",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2092.3984375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "coralbleach",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2352.6640625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "coralbleach",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2612.9296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "oceanacid",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2939.7890625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "oceanacid",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3200.0546875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "oceanacid",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3485.1171875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "sealevelrise",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3811.9765625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "sealevelrise",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4072.2421875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "sealevelrise",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4357.3046875
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 1,
+    "tag": "e50-320-6-1794691514391",
+    "url": "http://localhost:3002/qa-explorations50?page=6",
+    "width": 320
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "wetlandsponge",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 348.0234375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "wetlandsponge",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 608.2890625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "wetlandsponge",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 893.3515625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "sewageplant",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1166.515625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "sewageplant",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1426.78125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "sewageplant",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1711.84375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "stormcharges",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2038.703125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "stormcharges",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2323.765625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "stormcharges",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2608.828125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "waterjourney",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2910.890625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "waterjourney",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3171.15625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "waterjourney",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3456.21875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "watershedridge",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3758.28125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "watershedridge",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4018.546875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "watershedridge",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4278.8125
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 1,
+    "tag": "e50-320-7-1794691525187",
+    "url": "http://localhost:3002/qa-explorations50?page=7",
+    "width": 320
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "htmltree",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 319.125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "htmltree",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 579.390625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "htmltree",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 864.453125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "searchindex",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1137.6171875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "searchindex",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1397.8828125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "searchindex",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1658.1484375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "cookietoken",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1931.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "cookietoken",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2191.578125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "cookietoken",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2451.84375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "ssdanddisk",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2753.90625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "ssdanddisk",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3014.171875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "ssdanddisk",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3299.234375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "capacitivetouch",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3626.09375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "capacitivetouch",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3911.15625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "capacitivetouch",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4171.421875
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 1,
+    "tag": "e50-320-8-1794691529366",
+    "url": "http://localhost:3002/qa-explorations50?page=8",
+    "width": 320
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "inkjetdrops",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 348.0234375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "inkjetdrops",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 633.0859375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "inkjetdrops",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 918.1484375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "transistorgate",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1191.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "transistorgate",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1476.375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "transistorgate",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 1761.4375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "cpucooling",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2034.6015625
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "cpucooling",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2294.8671875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "cpucooling",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2555.1328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "passwordhash",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 2828.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "passwordhash",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3113.359375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "passwordhash",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3398.421875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "blocklinks",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 3725.28125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "blocklinks",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4010.34375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "blocklinks",
+        "minFont": 12.45,
+        "overlaps": [],
+        "rect": {
+          "height": 159.078125,
+          "width": 249,
+          "x": 35.5,
+          "y": 4270.609375
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 1,
+    "tag": "e50-320-9-1794691531145",
+    "url": "http://localhost:3002/qa-explorations50?page=9",
+    "width": 320
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "fridgezones",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "fridgezones",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "fridgezones",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "fooddates",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "fooddates",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "fooddates",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "lactase",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "lactase",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "lactase",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "honeywater",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "honeywater",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "honeywater",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "osmotickeeping",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "osmotickeeping",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "osmotickeeping",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1481.328125
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 2,
+    "tag": "e50-1280-0-1794691376340",
+    "url": "http://localhost:3002/qa-explorations50?page=0",
+    "width": 1280
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "freezefood",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "freezefood",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "freezefood",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "vinegarair",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "vinegarair",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "vinegarair",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "lactojar",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "lactojar",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "lactojar",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "crossboard",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "crossboard",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "crossboard",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "solardryer",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "solardryer",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "solardryer",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1481.328125
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 2,
+    "tag": "e50-1280-1-1794691377316",
+    "url": "http://localhost:3002/qa-explorations50?page=1",
+    "width": 1280
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "musicscore",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "musicscore",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "musicscore",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "fluteair",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "fluteair",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "fluteair",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "shadowstage",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "shadowstage",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "shadowstage",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "leadtype",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "leadtype",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "leadtype",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "claykiln",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "claykiln",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "claykiln",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1481.328125
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 2,
+    "tag": "e50-1280-2-1794691378212",
+    "url": "http://localhost:3002/qa-explorations50?page=2",
+    "width": 1280
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "pigmentbinder",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "pigmentbinder",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "pigmentbinder",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "pinholebox",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "pinholebox",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "pinholebox",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "papyrussheet",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "papyrussheet",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "papyrussheet",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "paperfibres",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "paperfibres",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "paperfibres",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "gothicvault",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "gothicvault",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "gothicvault",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1481.328125
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 2,
+    "tag": "e50-1280-3-1794691388056",
+    "url": "http://localhost:3002/qa-explorations50?page=3",
+    "width": 1280
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "regenbrake",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "regenbrake",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "regenbrake",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "dieselignition",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "dieselignition",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "dieselignition",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "clutchplates",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "clutchplates",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "clutchplates",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "gearboxpair",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "gearboxpair",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "gearboxpair",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "intercoolerair",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "intercoolerair",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "intercoolerair",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1481.328125
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 2,
+    "tag": "e50-1280-4-1794691389049",
+    "url": "http://localhost:3002/qa-explorations50?page=4",
+    "width": 1280
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "enginecoolant",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "enginecoolant",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "enginecoolant",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "differentialturn",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "differentialturn",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "differentialturn",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "abscontrol",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "abscontrol",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "abscontrol",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "discbrake",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "discbrake",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "discbrake",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "engineoil",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "engineoil",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "engineoil",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1481.328125
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 2,
+    "tag": "e50-1280-5-1794691425900",
+    "url": "http://localhost:3002/qa-explorations50?page=5",
+    "width": 1280
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "flowerpollination",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "flowerpollination",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "flowerpollination",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "agroforestrows",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "agroforestrows",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "agroforestrows",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "coralbleach",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 863.109375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "coralbleach",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 863.109375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "coralbleach",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 863.109375
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "oceanacid",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1184.6171875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "oceanacid",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1184.6171875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "oceanacid",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1184.6171875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "sealevelrise",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1530.921875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "sealevelrise",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1530.921875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "sealevelrise",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1530.921875
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 2,
+    "tag": "e50-1280-6-1794691426918",
+    "url": "http://localhost:3002/qa-explorations50?page=6",
+    "width": 1280
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "wetlandsponge",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "wetlandsponge",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "wetlandsponge",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "sewageplant",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "sewageplant",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "sewageplant",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "stormcharges",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "stormcharges",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "stormcharges",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "waterjourney",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "waterjourney",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "waterjourney",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "watershedridge",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "watershedridge",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "watershedridge",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1481.328125
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 2,
+    "tag": "e50-1280-7-1794691427866",
+    "url": "http://localhost:3002/qa-explorations50?page=7",
+    "width": 1280
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "htmltree",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "htmltree",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "htmltree",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "searchindex",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "searchindex",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "searchindex",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "cookietoken",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "cookietoken",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "cookietoken",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "ssdanddisk",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "ssdanddisk",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "ssdanddisk",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "capacitivetouch",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "capacitivetouch",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "capacitivetouch",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1481.328125
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 2,
+    "tag": "e50-1280-8-1794691428816",
+    "url": "http://localhost:3002/qa-explorations50?page=8",
+    "width": 1280
+  },
+  {
+    "frames": [
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "inkjetdrops",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "inkjetdrops",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "inkjetdrops",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 195.296875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "transistorgate",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "transistorgate",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "transistorgate",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 516.8046875
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "cpucooling",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "cpucooling",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "cpucooling",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 838.3125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "passwordhash",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "passwordhash",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "passwordhash",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1159.8203125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 0,
+        "kind": "blocklinks",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 115,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 1,
+        "kind": "blocklinks",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 477.6640625,
+          "y": 1481.328125
+        }
+      },
+      {
+        "clipped": [],
+        "frame": 2,
+        "kind": "blocklinks",
+        "minFont": 16.233203125,
+        "overlaps": [],
+        "rect": {
+          "height": 207.421875,
+          "width": 324.6640625,
+          "x": 840.328125,
+          "y": 1481.328125
+        }
+      }
+    ],
+    "overflow": 0,
+    "pixelRatio": 2,
+    "tag": "e50-1280-9-1794691429747",
+    "url": "http://localhost:3002/qa-explorations50?page=9",
+    "width": 1280
+  }
+]
