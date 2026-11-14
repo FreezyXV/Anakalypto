@@ -1,0 +1,232 @@
+.shell {
+  position: relative;
+  max-width: 72rem;
+  margin-inline: auto;
+  padding: 0.5rem 1rem;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.brand {
+  display: flex;
+  min-width: 0;
+  min-height: 2.75rem;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+}
+
+.mark {
+  width: 2.25rem;
+  height: 2.25rem;
+  flex-shrink: 0;
+  padding: 0.3rem;
+}
+
+.wordmark {
+  font-size: 1.2rem;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.desktopNav,
+.desktopActions,
+.desktopSearch {
+  display: none;
+}
+
+.controls {
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  gap: 0.25rem;
+  margin-left: auto;
+}
+
+.iconButton {
+  display: inline-flex;
+  width: 2.75rem;
+  height: 2.75rem;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid transparent;
+  border-radius: 0.8rem;
+  background: transparent;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.iconButton:hover,
+.iconButton[aria-expanded="true"] {
+  border-color: var(--line);
+  background: var(--highlight);
+}
+
+.panel {
+  position: absolute;
+  top: calc(100% + 0.4rem);
+  right: 1rem;
+  left: 1rem;
+  z-index: 50;
+  max-height: calc(100dvh - 5.5rem);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  border: 2.5px solid var(--line);
+  border-radius: 1rem;
+  padding: 1rem;
+  background: var(--paper);
+  box-shadow: 0 12px 32px rgb(0 0 0 / 18%);
+}
+
+.searchPanel {
+  overflow: visible;
+}
+
+.searchPanel input {
+  min-height: 2.75rem;
+  font-size: 1rem;
+}
+
+.searchPanel [role="listbox"] {
+  max-height: max(7rem, calc(100dvh - 12rem));
+}
+
+.panelTitle {
+  margin: 0 0 0.65rem;
+  font-family: var(--font-stack-sans);
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.mobileNav {
+  display: grid;
+  gap: 0.25rem;
+}
+
+.mobileLink {
+  display: flex;
+  min-height: 2.75rem;
+  align-items: center;
+  border: 2px solid transparent;
+  border-radius: 0.75rem;
+  padding: 0.4rem 0.65rem;
+  font-family: var(--font-stack-sans);
+  font-size: 1rem;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.mobileLink:hover,
+.mobileLink[aria-current="page"] {
+  border-color: var(--line);
+  background: var(--highlight);
+}
+
+.themeRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 0.75rem;
+  border-top: 1px solid var(--rule);
+  padding-top: 0.85rem;
+  font-family: var(--font-stack-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+@media (max-width: 319px) {
+  .shell {
+    padding-inline: 0.5rem;
+  }
+  .brand {
+    gap: 0.35rem;
+  }
+  .mark {
+    width: 2rem;
+    height: 2rem;
+  }
+  .wordmark {
+    font-size: 1.05rem;
+  }
+  .controls {
+    gap: 0;
+  }
+  .panel {
+    right: 0.5rem;
+    left: 0.5rem;
+  }
+}
+
+@media (min-width: 360px) {
+  .wordmark {
+    font-size: 1.45rem;
+  }
+}
+
+@media (min-width: 640px) {
+  .shell {
+    padding-inline: 1.5rem;
+  }
+
+  .panel {
+    right: 1.5rem;
+    left: auto;
+    width: min(28rem, calc(100% - 3rem));
+  }
+}
+
+@media (min-width: 1024px) {
+  .shell {
+    padding-block: 0.75rem;
+  }
+
+  .row {
+    gap: 1.25rem;
+  }
+
+  .brand {
+    flex-shrink: 0;
+    gap: 0.625rem;
+  }
+
+  .mark {
+    width: 2.5rem;
+    height: 2.5rem;
+    padding: 0.375rem;
+  }
+
+  .wordmark {
+    font-size: 1.7rem;
+  }
+
+  .desktopNav {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    margin-left: 0.5rem;
+  }
+
+  .desktopActions {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-left: auto;
+  }
+
+  .controls {
+    display: none;
+  }
+}
+
+@media (min-width: 1280px) {
+  .desktopSearch {
+    display: block;
+    width: 18rem;
+  }
+}

@@ -1,0 +1,807 @@
+[
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 139.84375,
+        "x": 8,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 170,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 214,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/a-propos-266",
+    "width": 266
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 139.84375,
+        "x": 8,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 170,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 214,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/decouvrir-266",
+    "width": 266
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 139.84375,
+        "x": 8,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 170,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 214,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant-266",
+    "width": 266
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 159.4453125,
+        "x": 16,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 212,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 260,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/a-propos-320",
+    "width": 320
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 159.4453125,
+        "x": 16,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 212,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 260,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/decouvrir-320",
+    "width": 320
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 159.4453125,
+        "x": 16,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 212,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 260,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant-320",
+    "width": 320
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 181.4296875,
+        "x": 16,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 282,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 330,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/a-propos-390",
+    "width": 390
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 181.4296875,
+        "x": 16,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 282,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 330,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/decouvrir-390",
+    "width": 390
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 181.4296875,
+        "x": 16,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 282,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 330,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant-390",
+    "width": 390
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 181.4296875,
+        "x": 24,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 652,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 700,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/a-propos-768",
+    "width": 768
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 181.4296875,
+        "x": 24,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 652,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 700,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/decouvrir-768",
+    "width": 768
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 181.4296875,
+        "x": 24,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 652,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 700,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant-768",
+    "width": 768
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 181.4296875,
+        "x": 24,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 907,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 955,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/a-propos-1023",
+    "width": 1023
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 181.4296875,
+        "x": 24,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 907,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 955,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/decouvrir-1023",
+    "width": 1023
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 181.4296875,
+        "x": 24,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir la recherche",
+        "w": 44,
+        "x": 907,
+        "y": 8
+      },
+      {
+        "h": 44,
+        "text": "Ouvrir le menu",
+        "w": 44,
+        "x": 955,
+        "y": 8
+      }
+    ],
+    "height": 62.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant-1023",
+    "width": 1023
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 212.71875,
+        "x": 24,
+        "y": 12
+      },
+      {
+        "h": 35.40625,
+        "text": "Découvrir",
+        "w": 98.5390625,
+        "x": 264.71875,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "Domaines",
+        "w": 100.7265625,
+        "x": 367.2578125,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "Recherche",
+        "w": 106,
+        "x": 471.984375,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "À propos",
+        "w": 92.71875,
+        "x": 581.984375,
+        "y": 16.296875
+      },
+      {
+        "h": 44,
+        "text": "Thème : système. Changer de thème.",
+        "w": 80.78125,
+        "x": 919.21875,
+        "y": 12
+      }
+    ],
+    "height": 70.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/a-propos-1024",
+    "width": 1024
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 212.71875,
+        "x": 24,
+        "y": 12
+      },
+      {
+        "h": 35.40625,
+        "text": "Découvrir",
+        "w": 98.5390625,
+        "x": 264.71875,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "Domaines",
+        "w": 100.7265625,
+        "x": 367.2578125,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "Recherche",
+        "w": 106,
+        "x": 471.984375,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "À propos",
+        "w": 92.71875,
+        "x": 581.984375,
+        "y": 16.296875
+      },
+      {
+        "h": 44,
+        "text": "Thème : système. Changer de thème.",
+        "w": 80.78125,
+        "x": 919.21875,
+        "y": 12
+      }
+    ],
+    "height": 70.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/decouvrir-1024",
+    "width": 1024
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 212.71875,
+        "x": 24,
+        "y": 12
+      },
+      {
+        "h": 35.40625,
+        "text": "Découvrir",
+        "w": 98.5390625,
+        "x": 264.71875,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "Domaines",
+        "w": 100.7265625,
+        "x": 367.2578125,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "Recherche",
+        "w": 106,
+        "x": 471.984375,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "À propos",
+        "w": 92.71875,
+        "x": 581.984375,
+        "y": 16.296875
+      },
+      {
+        "h": 44,
+        "text": "Thème : système. Changer de thème.",
+        "w": 80.78125,
+        "x": 919.21875,
+        "y": 12
+      }
+    ],
+    "height": 70.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant-1024",
+    "width": 1024
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 212.71875,
+        "x": 88,
+        "y": 12
+      },
+      {
+        "h": 35.40625,
+        "text": "Découvrir",
+        "w": 98.5390625,
+        "x": 328.71875,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "Domaines",
+        "w": 100.7265625,
+        "x": 431.2578125,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "Recherche",
+        "w": 106,
+        "x": 535.984375,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "À propos",
+        "w": 92.71875,
+        "x": 645.984375,
+        "y": 16.296875
+      },
+      {
+        "h": 41,
+        "text": "",
+        "w": 185.71875,
+        "x": 811.21875,
+        "y": 13.5
+      },
+      {
+        "h": 41,
+        "text": "Chercher",
+        "w": 94.28125,
+        "x": 1004.9375,
+        "y": 13.5
+      },
+      {
+        "h": 44,
+        "text": "Thème : système. Changer de thème.",
+        "w": 80.78125,
+        "x": 1111.21875,
+        "y": 12
+      }
+    ],
+    "height": 70.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/a-propos-1280",
+    "width": 1280
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 212.71875,
+        "x": 88,
+        "y": 12
+      },
+      {
+        "h": 35.40625,
+        "text": "Découvrir",
+        "w": 98.5390625,
+        "x": 328.71875,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "Domaines",
+        "w": 100.7265625,
+        "x": 431.2578125,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "Recherche",
+        "w": 106,
+        "x": 535.984375,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "À propos",
+        "w": 92.71875,
+        "x": 645.984375,
+        "y": 16.296875
+      },
+      {
+        "h": 44,
+        "text": "Thème : système. Changer de thème.",
+        "w": 80.78125,
+        "x": 1111.21875,
+        "y": 12
+      }
+    ],
+    "height": 70.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/decouvrir-1280",
+    "width": 1280
+  },
+  {
+    "badReferences": 0,
+    "controls": [
+      {
+        "h": 44,
+        "text": "Anakalypto, accueil",
+        "w": 212.71875,
+        "x": 88,
+        "y": 12
+      },
+      {
+        "h": 35.40625,
+        "text": "Découvrir",
+        "w": 98.5390625,
+        "x": 328.71875,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "Domaines",
+        "w": 100.7265625,
+        "x": 431.2578125,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "Recherche",
+        "w": 106,
+        "x": 535.984375,
+        "y": 16.296875
+      },
+      {
+        "h": 35.40625,
+        "text": "À propos",
+        "w": 92.71875,
+        "x": 645.984375,
+        "y": 16.296875
+      },
+      {
+        "h": 41,
+        "text": "",
+        "w": 185.71875,
+        "x": 811.21875,
+        "y": 13.5
+      },
+      {
+        "h": 41,
+        "text": "Chercher",
+        "w": 94.28125,
+        "x": 1004.9375,
+        "y": 13.5
+      },
+      {
+        "h": 44,
+        "text": "Thème : système. Changer de thème.",
+        "w": 80.78125,
+        "x": 1111.21875,
+        "y": 12
+      }
+    ],
+    "height": 70.5,
+    "overflow": 0,
+    "panels": 0,
+    "tag": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant-1280",
+    "width": 1280
+  }
+]
