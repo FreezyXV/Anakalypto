@@ -1,3 +1,5 @@
+import { BeforeHorizons50Canvas } from "./fixtures/BeforeHorizons50Canvas";
+import { canonicalSvg } from "./fixtures/canonicalSvg";
 import { createHash } from "node:crypto";
 import { readFile } from "node:fs/promises";
 import { createElement } from "react";
@@ -24,11 +26,26 @@ it("preserves all 295 previous drawings byte for byte in their three states", as
     ),
   );
   expect(Object.keys(old.drawings)).toHaveLength(295);
-  for (const [k, v] of Object.entries(old.drawings))
+  const portable = JSON.parse(
+    await readFile(
+      new URL("../docs/qa/horizons50/before-portable-hashes.json", import.meta.url),
+      "utf8",
+    ),
+  );
+  expect(Object.keys(portable.drawings)).toHaveLength(295);
+  for (const k of Object.keys(old.drawings)) {
+    const spec = LESSON_DIAGRAMS.find((s) => s.id === k)!;
+    const frames = [0, 1, 2].map((step) => html(k, step));
+    expect(frames, k + ": exact same-runtime bytes").toEqual(
+      [0, 1, 2].map((step) =>
+        renderToStaticMarkup(createElement(BeforeHorizons50Canvas, { spec, step })),
+      ),
+    );
     expect(
-      [0, 1, 2].map((s) => createHash("sha256").update(html(k, s)).digest("hex")),
-      k,
-    ).toEqual(v);
+      frames.map((frame) => createHash("sha256").update(canonicalSvg(frame)).digest("hex")),
+      k + ": historical coordinates",
+    ).toEqual(portable.drawings[k]);
+  }
   expect(HORIZONS50_DIAGRAMS).toHaveLength(50);
   expect(new Set(HORIZONS50_DIAGRAMS.flatMap((s) => s.paths)).size).toBe(50);
   for (const s of HORIZONS50_DIAGRAMS) {
