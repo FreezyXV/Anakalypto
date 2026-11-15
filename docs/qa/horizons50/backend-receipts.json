@@ -1,0 +1,402 @@
+[
+  {
+    "ref": "LEC-F0AF40B5F4E1",
+    "path": "/alimentation-et-nutrition/nutriments/fibres-alimentaires/fibres-alimentaires-roles-et-apports",
+    "visualRefs": ["schema:dietfibre"],
+    "contentHash": "d37b6912e80d62244933bdb8007a12f9112cd3f66b7f444706dcf0762626959f",
+    "fingerprint": "fafd4af2a9533965f9745e94fa1115e42e6d0d44c4c1bf5bdb709ae3f764a2d4",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-347499106CB8",
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/pasteurisation-et-sterilisation",
+    "visualRefs": ["schema:pasteurheat"],
+    "contentHash": "b1a0849b113c181b4d13eeaf8728516446616569811f2bc656ebe0d6da9a208d",
+    "fingerprint": "b6dcf0b7e2dbdcc05619a46ab3156dcecde726bc6583480acb0f795d30ab0823",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-F2DF61ABA9B1",
+    "path": "/automobile/motorisations/thermique/vanne-egr-recirculation-gaz-echappement",
+    "visualRefs": ["schema:egrloop"],
+    "contentHash": "1a77e3e3c150a773dbebe4a1cbe7a257eef63d01ff56bdc33232dfeae7ffe5d4",
+    "fingerprint": "aff808373b10fb4c7717ed87d15f5566b892b73b414d793e220f719cc6e67bbf",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-D2780012D6EB",
+    "path": "/communication-et-medias/telecommunications/reseaux-mobiles/spectre-radioelectrique-et-attribution-des-frequences",
+    "visualRefs": ["schema:radiospectrum"],
+    "contentHash": "e7481042e6771c060f726a46dcb5e2a753f3ab7d6bb9e45342b187802b4a6c12",
+    "fingerprint": "9f8fb4e392aef97ddb99e54fa5fdd4d2ecf3f05ef42e60923e3aecbecca4a5e6",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-5FC0B8A6449C",
+    "path": "/communication-et-medias/telecommunications/satellites/constellations-satellites-orbite-basse",
+    "visualRefs": ["schema:leoconstellation"],
+    "contentHash": "43b38d71c55cd6305c7c0596c260b0bbc87e5b5fbc423e1730aee81141e5336f",
+    "fingerprint": "9572a23ddf42c26d49c10df724f184ee10eba1768b1aff434fec476a3b5638aa",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-B99970A4E06A",
+    "path": "/energie/energies-fossiles-et-nucleaire/charbon/machine-vapeur",
+    "visualRefs": ["schema:steamengine"],
+    "contentHash": "2d36ee7542bcad0284e354590acb5867026eda93a6ee1ad666e643725debf627",
+    "fingerprint": "b70692ef45413d068f35f5cf4210bfde38a64b11b1727bbdf36d6043d1b04d45",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-C40D5C10C147",
+    "path": "/micro-informatique-et-informatique/donnees/bases-de-donnees/bases-de-donnees-et-index",
+    "visualRefs": ["schema:databaseindex"],
+    "contentHash": "89442e8a3608e2f00b35971e9ce98e245bf56022a0af9000f9dcc8691f2932df",
+    "fingerprint": "c5938131a85824fe9e93499241a31d97cd1d7c5c0f8a55ab3b62e56ec90a18c7",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-3E7703C8C12B",
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/peut-on-vraiment-construire-une-maison-en-l-imprimant-en-beton",
+    "visualRefs": ["schema:concreteprint"],
+    "contentHash": "1b532f615938c7a5c6a725fbf305ff2e0f2f920797db3ccd36356e14e3ae46bb",
+    "fingerprint": "3b854733e0efc3a4950bfa6c534ca29207b050b4065d804a0355e0a1ccd3766a",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-7AE473CEC3A2",
+    "path": "/micro-informatique-et-informatique/reseaux-et-securite/chiffrement/comment-le-chiffre-de-vigenere-cachait-il-un-message-mieux-que-celui-de-cesar",
+    "visualRefs": ["schema:vigeneregrid"],
+    "contentHash": "62fbb5d57b7800b45c45f6b78181f6c5d2ba38c6dc9456928f79041af48daa02",
+    "fingerprint": "fd5a181899734001c89e9b67c3a1883b815b8f023c5b56ab99e77dcf4e57231c",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-82DB640E80F7",
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/emballages-alimentaires",
+    "visualRefs": ["schema:barrierpack"],
+    "contentHash": "06632b7a71e51438a98f3dcffbe1606096c3fc037a181647f7022b48d8f0df4e",
+    "fingerprint": "b1f1417087723387d11fc73651c19681ef13bf24d7755050e91ec0b4bae967e4",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-86B9282F4A6C",
+    "path": "/geographie-et-territoires/geopolitique/routes-et-detroits/comment-le-canal-de-panama-fait-il-passer-les-navires-d-un-ocean-a-l-autre",
+    "visualRefs": ["schema:canallock"],
+    "contentHash": "638b9aa9d6439ad518f248241269b36f00bfc0e7ad9d509c8f0508cf05561ca7",
+    "fingerprint": "46ff9f991246f26ecccd3dc14c786ca3e074c07ca4a86b65a9424d833549781f",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-A0222EB4E75C",
+    "path": "/micro-informatique-et-informatique/logiciel/systemes-d-exploitation/comment-un-ordinateur-demarre-t-il-quand-on-appuie-sur-le-bouton",
+    "visualRefs": ["schema:bootchain"],
+    "contentHash": "d3af6f02036550aa0413c1ede613f5db805fd0d14b7fae060f1b472365a7ac85",
+    "fingerprint": "ee2c788417a19d935b5e1ef2b974bfd20c96a10c5d75f8bfe9d8987ac13b0a3e",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-1E87DF67DADE",
+    "path": "/automobile/motorisations/electrique/pourquoi-une-borne-de-recharge-rapide-charge-t-elle-une-voiture-electrique-bien-plus-vite",
+    "visualRefs": ["schema:dcfastcharge"],
+    "contentHash": "e18bc59e55d3f765202e1382879279974aa5b560fd9c82d5b514af6f85a02a7b",
+    "fingerprint": "4aea92adcc0a092dbbea77ac402ba8d8a69673a3a20570a940ebd6fcfe7c5ffe",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-F7EFFAF96217",
+    "path": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/comment-les-microbes-du-sol-aident-ils-les-plantes-a-pousser",
+    "visualRefs": ["schema:rootmicrobes"],
+    "contentHash": "fcb94dd8cc052752feeba7c99c46736838a5570e75efe908d3fed8f289c7156a",
+    "fingerprint": "079d709eefb629c7e4439bbf905cf44f9d62cee22d3891374acb6c7c71a5b2af",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-94E54B9E69B7",
+    "path": "/energie/energies-renouvelables/hydraulique/hydroelectricite-et-stockage-par-pompage",
+    "visualRefs": ["schema:pumpedstorage"],
+    "contentHash": "1f1ea8469b5d566a99ccf52352b177123ecd55f7ea0c9e2b267641e6c925ec02",
+    "fingerprint": "a5ae61d9ade8ebf39530fc815e7eb0a5b13546baf5c6d63cd55f85a673ef82ef",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-2FCF3D8925A3",
+    "path": "/sciences-fondamentales/mathematiques/algebre/histoire-principes-algebre",
+    "visualRefs": ["schema:algebrabalance"],
+    "contentHash": "0211ca2891be2851fdc635a0b28c7c38fce5f521fb70e8c9588d2f6225632a08",
+    "fingerprint": "0336473d2eddd3cc3dd77ee0a78240e0410d33ee2af4a5a5322853a7da34c25c",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-C659381A0AFF",
+    "path": "/sciences-fondamentales/mathematiques/geometrie/geometrie-euclidienne-et-au-dela",
+    "visualRefs": ["schema:trianglegeometry"],
+    "contentHash": "476997af6f174828a3aeab9b4479cf78468d21a5733e3ea590db98270c8dc23b",
+    "fingerprint": "18b69c9213bbe0d517cd8f0ed4f3ebf59c12c89e78446f5db9efa6d77be95727",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-58DAB912F054",
+    "path": "/corps-humain-et-sante/prevention-et-sante-publique/vaccination/vaccins-a-arn-messager",
+    "visualRefs": ["schema:mrnavaccine"],
+    "contentHash": "87760646d536529bc0a23628c7bf5bc1a41d5e6e033ef00521703efd04ac7c4d",
+    "fingerprint": "ef45238fdbf4f24b765c4de9c6c7eb2070dcb8243f8650ecd56073392ee86b27",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-B86B79207727",
+    "path": "/micro-informatique-et-informatique/donnees/representation-et-compression/representation-et-compression-des-donnees",
+    "visualRefs": ["schema:runlength"],
+    "contentHash": "655a055ca50556a384b4327b0a0aaef689669cc51e2f8b352e72ee3d138d5081",
+    "fingerprint": "0c895a59c7dad383a81728b23c349300d274ff54d774f70a2f72c51e8d7d21be",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-4587D5513E9C",
+    "path": "/energie/reseaux-et-stockage/batteries/pourquoi-une-batterie-s-use-avec-le-temps",
+    "visualRefs": ["schema:batteryage"],
+    "contentHash": "4397ce128d05f6ef1533fdf9f0e671f6cd6a929f04a8b2f40cc0df3e2e9f3f98",
+    "fingerprint": "f5e0d2bda91ffd144c18bd65168604972e43793200e11aaa67883061fe072194",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-C924B477373F",
+    "path": "/energie/energies-renouvelables/hydraulique/les-hydroliennes-l-eolien-sous-marin",
+    "visualRefs": ["schema:tidalturbine"],
+    "contentHash": "bfd6577b6ab449664818244d00c7d4ed209831bfdc6e826de1ea7877ad2f082d",
+    "fingerprint": "76e926f927a028efb77d37ce8bbc643ba7f8a43e97b1dd16baa252df5eb975f2",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-D6A5A0713C29",
+    "path": "/industries/industrie-lourde/chimie-industrielle/la-fabrication-du-verre-procede-de-base",
+    "visualRefs": ["schema:floatglass"],
+    "contentHash": "42e60311644a76b3de577712b211610204bb6e1c0452efe704c25becd24beb5c",
+    "fingerprint": "286c845f185e8dcbce383aa8fa7ae408ec0f55fd186c3dc5bb09d9aa45f46868",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-619CABC2DAA8",
+    "path": "/sciences-du-vivant-appliquees/medecine/imagerie-medicale/comment-un-aimant-geant-et-des-ondes-radio-fabriquent-ils-une-image-de-l-interieur-du-corps",
+    "visualRefs": ["schema:mriprotons"],
+    "contentHash": "fa3d9c4fd2392e876cc2b7a042696e1fcf6f3272944f4e97037f04c4b61db2bb",
+    "fingerprint": "10ba570537ef8c8fd598ca3226aaf5b8bc59f948b6a4235053b5df30db10bd3b",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-86541225C996",
+    "path": "/technologies-et-ingenierie/genie-civil/structures/comment-une-structure-peut-elle-tenir-dans-un-sac-puis-se-deployer-ou-se-gonfler",
+    "visualRefs": ["schema:deploystructure"],
+    "contentHash": "7d4cfb98d3b50df2b4e4d43fad74ced2848b4fc14ab7fcd65098ebb5dfb18961",
+    "fingerprint": "8ccc3901d645ee2d4b7d78c40d139210987ef8255174f82dc36db3cfd16c3efc",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-E74EAB54E225",
+    "path": "/automobile/securite-et-conduite/securite-passive/comment-une-ceinture-de-securite-se-bloque-t-elle-d-un-coup",
+    "visualRefs": ["schema:beltreel"],
+    "contentHash": "93fd85c177ac6dab0123e8410a01d9f4d64998d489fe3d1860905476b3aad678",
+    "fingerprint": "ef0b50a8ad740570954cac38b0fb5f0c2db41f8a3bb481476da13b331142adb8",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-2E5A0D0F2CDE",
+    "path": "/technologies-et-ingenierie/genie-civil/structures/comment-un-ordinateur-decide-t-il-ou-mettre-la-matiere-pour-faire-des-pieces-plus-legeres",
+    "visualRefs": ["schema:topologyshape"],
+    "contentHash": "feeb2ae98a4e74bec123363432253203661b4db05e0033fc78d9a517211e1a8e",
+    "fingerprint": "dd3f2824b830fe8da173194b9f06d2c0196f0378842b230431b3db486beab9e4",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-2A52341A491E",
+    "path": "/communication-et-medias/telecommunications/reseaux-mobiles/comment-les-antennes-relais-permettent-elles-de-telephoner-en-se-deplacant",
+    "visualRefs": ["schema:cellhandoff"],
+    "contentHash": "91ac142ebfda14f4333c823bff580d4efb37adf4d6a3aae675f88bdfdd615b87",
+    "fingerprint": "d7e58f1ba12f31e3ceb44f073f18eb7dadfa758baba0f8ed73513ab0b6984e6d",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-ADCC4CDCA8A3",
+    "path": "/communication-et-medias/telecommunications/satellites/comment-un-satellite-de-telecommunication-relaie-t-il-la-television-d-un-continent-a-l-autre",
+    "visualRefs": ["schema:satrelay"],
+    "contentHash": "34b7da11339674f896eabad62d30dc032f0c1b748b4ba736704ec630dff85373",
+    "fingerprint": "cd739e78fd47216ac4fbdb2268107ef6f19eb301f3f3c91a452095c6eef3b606",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-5A3184CC6A96",
+    "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-mousson-apporte-t-elle-des-pluies-torrentielles-en-inde-chaque-ete",
+    "visualRefs": ["schema:monsoonwind"],
+    "contentHash": "62b2f36e4e9fd5545bcfe56652c694e6bc7e185d48bf2c438b15732b2de56c08",
+    "fingerprint": "06b7f5451e03d86566f196fc10da1934f3910a452a48a6bf4d528ae1f488a256",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-62E3A1FA99C6",
+    "path": "/geographie-et-territoires/geographie-physique/hydrographie/comment-un-fleuve-fabrique-t-il-de-nouvelles-terres-a-son-embouchure",
+    "visualRefs": ["schema:riverdelta"],
+    "contentHash": "d3bce4bcc795bdf17a1544cd6a4b2ffbe0285dc1d5371911bd0d53534defade0",
+    "fingerprint": "ac17d4309ed56225f3772f7b8abad4d49fb45dcb9576a228c58638801a387b6d",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-22450D29A0D0",
+    "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-pression-de-l-air-annonce-t-elle-la-pluie-ou-le-beau-temps",
+    "visualRefs": ["schema:pressureair"],
+    "contentHash": "c0a6c8da48b5ce06d8e6a4cbf792e48fef8d754fd7a91110aa6c91eb880d8609",
+    "fingerprint": "dedc9ba0f6ec7bce7174d54da1572230229057fc7f9d5e7e327fb94276550b6e",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-7B30C11FE168",
+    "path": "/geographie-et-territoires/geographie-physique/reliefs/comment-les-terrasses-permettent-elles-de-cultiver-sur-une-montagne",
+    "visualRefs": ["schema:terracefield"],
+    "contentHash": "35bc5b8321521b1a4fdfcc39092b5bfbfaf7d746f33b01a03de59d828a42b5e3",
+    "fingerprint": "8e2fb5ae92b7e52ce0a5c2674cd479cec05749598d6afe0f74d382c1bbdff65e",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-E66366BEA079",
+    "path": "/industries/industrie-lourde/chimie-industrielle/comment-fabrique-t-on-des-engrais-avec-l-azote-de-l-air",
+    "visualRefs": ["schema:ammoniasynthesis"],
+    "contentHash": "143e0ee6c55c4489c37cd97eed8dff59693854ed989b8a66e8bac8ffd623527b",
+    "fingerprint": "0c79b7d55c300bfe98fe019e1477105ea9e1b34a1e9ed1edbdd2bdf3d21c032e",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-FAE0F24FDECA",
+    "path": "/industries/industrie-manufacturiere/automatisation/comment-une-camera-repere-t-elle-une-piece-defectueuse-sur-une-chaine-de-production",
+    "visualRefs": ["schema:visionreject"],
+    "contentHash": "828611101c6a6121753015e5632d6add0c7736d5449a4fd750143c1a84bc51e6",
+    "fingerprint": "0492b68b85de3febed084a4e0b31242dff1ecbf262b0603c106d3b7a76733e47",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-C25CE8775BFA",
+    "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/pourquoi-les-pieces-interchangeables-ont-elles-change-la-fabrication-des-objets",
+    "visualRefs": ["schema:interchangefit"],
+    "contentHash": "f5df425677011806ea6d8fac7ca6f82a5695efa9860a96be42a2937a6e4c5542",
+    "fingerprint": "5c4edd5243156d3e0d6013b087a4e52c10d117a1f87c5ccdd1a026e092236c18",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-C47F31457539",
+    "path": "/micro-informatique-et-informatique/logiciel/programmation/comment-un-programme-decide-t-il-quoi-faire-grace-aux-conditions-et-aux-boucles",
+    "visualRefs": ["schema:branchloop"],
+    "contentHash": "8289ae2e6a6e3f3f12adc0801d434b6d3baaff14e0abe4b8eb46b32d67df57a4",
+    "fingerprint": "cf102c5461cc911f2182c2c59f401f1e97f3034870424715bb2eaa3543152e8e",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-7DE749F60C84",
+    "path": "/sciences-du-vivant-appliquees/medecine/pharmacologie/comment-un-antibiotique-tue-t-il-les-bacteries-sans-abimer-nos-cellules",
+    "visualRefs": ["schema:antibiotictarget"],
+    "contentHash": "61312a13a658f1440d6780bbaf9efabff0a8a618b9fc1f246861e087c86e694c",
+    "fingerprint": "cca41e01951a83c263ab623fec0c74fde273bf343010d2eb01abcd6588d44577",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-C79C0DFDDEF6",
+    "path": "/sciences-humaines-et-sociales/histoire/methode-historique/comment-les-cernes-des-arbres-permettent-ils-de-dater-le-passe",
+    "visualRefs": ["schema:treeringmatch"],
+    "contentHash": "0e4ee9a56a920603e8a0f47f91bd81e57875d155903b604976a08a14716811ae",
+    "fingerprint": "e05eb7f3f1a5fd1e467214208d1aeace103e3eac4f8bce40f4d8577ac6368f92",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-2FE60FA73696",
+    "path": "/sciences-du-vivant-appliquees/medecine/imagerie-medicale/comment-l-echographie-voit-elle-un-bebe-dans-le-ventre-grace-au-son",
+    "visualRefs": ["schema:ultrasoundecho"],
+    "contentHash": "7a81466178fc6e5a94d880aedda66c88e181256043eac955b5964be4f871cb68",
+    "fingerprint": "1d8e2ca5040c5b25e1b077f5efe6d3ecbd4d7a679845ad37049803f67f9e2eac",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-0FBB98D18C34",
+    "path": "/technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience/pourquoi-construit-on-les-batiments-et-les-machines-plus-solides-que-necessaire",
+    "visualRefs": ["schema:safetymargin"],
+    "contentHash": "b5d8ed9f266d3643fa0f578a397168cf9f572f1c5574ffc2a7baf60d8dd2f2c5",
+    "fingerprint": "285a756c88239aa77f3917aacd19cc2677f82c39f727028bd11996169746680d",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-8161C0B44734",
+    "path": "/technologies-et-ingenierie/robotique/perception/comment-un-radar-repere-t-il-un-avion-ou-un-orage-sans-les-voir",
+    "visualRefs": ["schema:radarecho"],
+    "contentHash": "8780561f9d27643523992dd2fcb8767d5e40f681cd039e1362714d7b97991101",
+    "fingerprint": "5f175444f4d0e3935997e5ebe9088dbc7b52835e6be14aed2591c99a404267c8",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-0AFC50DA3C49",
+    "path": "/alimentation-et-nutrition/nutriments/macronutriments/pourquoi-certains-acides-amines-doivent-ils-venir-de-notre-assiette",
+    "visualRefs": ["schema:essentialamino"],
+    "contentHash": "747ea0164a1ba136dacd1cad35e031a23b7e704f21cca833ba69574246955e84",
+    "fingerprint": "def4ccbb43922127b0af0b784723a5762973516511bd7a82c653483362f75672",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-352914E9DF78",
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/reperes-nutritionnels/lecture-etiquettes-alimentaires",
+    "visualRefs": ["schema:nutritionlabel"],
+    "contentHash": "c3365b33f24b91df296e2545949cb26db6639b30ccc8c3c140c58d976c9327ce",
+    "fingerprint": "984c6dc82cc18f2d69cf41d6ccc36a41f0ea5ee706e9cd52356a195685db5753",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-E8E73F4BDFF2",
+    "path": "/automobile/motorisations/carburants-alternatifs/voiture-hydrogene-pile-combustible",
+    "visualRefs": ["schema:fuelcellcar"],
+    "contentHash": "7f93cba27a0e51017a188756de8b4d1fd15e0e78c395ddae3fe489349aff6a01",
+    "fingerprint": "d1aa75db188a3189efa6c3bc92ec9d754678384437d923dd9afea467145933fb",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-6B7DF8E92753",
+    "path": "/automobile/motorisations/thermique/alimentation-carburant-injection",
+    "visualRefs": ["schema:injectorjet"],
+    "contentHash": "698fa091543a84d38cb4f5a1a42fd12c73b2fe43fcb100dc0a92d43d493a40ee",
+    "fingerprint": "400c0da2e1e345e87af09214e6dd3b791d34d101ee130a804a030aa9b506c544",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-8E3BB5A4C5B9",
+    "path": "/communication-et-medias/information-et-verification/education-aux-medias/comprendre-la-difference-entre-correlation-et-causalite",
+    "visualRefs": ["schema:confounder"],
+    "contentHash": "bc9b9f24b0ff6bf6d58c47fb21bf1fd4ee2e6d42d99c314aaa4439f86053a85e",
+    "fingerprint": "c4b029b35b7bcd698211282eb18e91b032afb9442e2903ab99d1b744e4d17d44",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-83AAE6EB7486",
+    "path": "/energie/energies-fossiles-et-nucleaire/hydrocarbures/biogaz-gaz-sans-gisement",
+    "visualRefs": ["schema:biogasdigester"],
+    "contentHash": "ade0ee4bd99e175a49a483ec35786e8414d4b2ee3a0f6d8c439724a77261b9ec",
+    "fingerprint": "6e78e399b90514669078d2d50de6e10ed70598ffaa389262c6116d38079ed308",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-DE84E84AEC2F",
+    "path": "/industries/industrie-lourde/siderurgie/comment-fabrique-t-on-de-l-acier-avec-un-haut-fourneau-ou-un-four-electrique",
+    "visualRefs": ["schema:steelroutes"],
+    "contentHash": "b2f65178ca77116b29cef04fbc2b3ca8d90e56265dd63c538c558a0fc9ca6750",
+    "fingerprint": "ac770895ccb8a15f1d68aafb5994997c163f90d784308bac15e1e172999363c9",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-8A6E5716813C",
+    "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-internet-traverse-t-il-les-oceans",
+    "visualRefs": ["schema:subseacable"],
+    "contentHash": "3e9cbfb5760b25940efe69e4c9a425d188d4d11c810d06df540c7f3c23d4320b",
+    "fingerprint": "18a27684381735aaedc9a2c7da50bc13406e6bd8a44bc55fe5a89d404322dbfb",
+    "evidence": "docs/qa/horizons50/README.md"
+  },
+  {
+    "ref": "LEC-B83129335871",
+    "path": "/sciences-fondamentales/physique/thermodynamique/les-echelles-de-temperature-celsius-fahrenheit-et-kelvin",
+    "visualRefs": ["schema:tempscales"],
+    "contentHash": "77522228ae61a357cb8c4cd59468c8d9735de316923df4158f1593d088cb3574",
+    "fingerprint": "8095a59831d0eecd55d56fc73dd0080907d8cd436747dd0c9572ce94eb9cebe5",
+    "evidence": "docs/qa/horizons50/README.md"
+  }
+]
