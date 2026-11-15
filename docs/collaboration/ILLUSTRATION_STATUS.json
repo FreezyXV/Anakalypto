@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T11:22:46.174Z",
+  "generatedAt": "2026-11-15T11:31:39.850Z",
   "scope": "PUBLISHED_ONLY",
   "counts": {
     "published": 948,
@@ -13341,7 +13341,7 @@
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
       "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:12.884Z"
+      "reviewedAt": "2026-11-15T11:31:25.765Z"
     },
     {
       "ref": "LEC-38BC652EEA28",

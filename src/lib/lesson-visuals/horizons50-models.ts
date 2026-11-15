@@ -21,3 +21,5 @@ export function steamLink(angle: number) {
 }
 export const RING_WIDTHS = [12, 23, 9, 29, 16, 25, 11] as const;
 export const RING_MATCH_X = 36 + (RING_WIDTHS[0] + RING_WIDTHS[1]) * 1.55;
+
+export const RING_END_X = 36 + RING_WIDTHS.reduce((total, w) => total + w, 0) * 1.55;

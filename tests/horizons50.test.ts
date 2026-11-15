@@ -88,6 +88,12 @@ it("aligns the actual matching ring sequence exactly with the reference", () => 
   expect(RING_MATCH_X).toBe(36 + (RING_WIDTHS[0] + RING_WIDTHS[1]) * 1.55);
   expect(html("treeringmatch", 2)).toContain(`translate(${RING_MATCH_X} 167)`);
   expect(RING_WIDTHS.slice(2)).toEqual([9, 29, 16, 25, 11]);
+  const bracket = html("treeringmatch", 2).match(
+    /data-ring-match="true" d="M([\d.]+) 115V162M([\d.]+) 115V162"/,
+  )!;
+  expect(bracket).not.toBeNull();
+  expect(Number(bracket[1])).toBe(RING_MATCH_X);
+  expect(Number(bracket[2]) - Number(bracket[1])).toBeCloseTo((9 + 29 + 16 + 25 + 11) * 1.55, 10);
 });
 it("reconstructs the same four blue and two gold pixels without loss", () => {
   const pixels = (s: number) =>

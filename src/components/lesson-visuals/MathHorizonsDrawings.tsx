@@ -1,4 +1,9 @@
-import { sphericalOctant, RING_WIDTHS, RING_MATCH_X } from "@/lib/lesson-visuals/horizons50-models";
+import {
+  sphericalOctant,
+  RING_WIDTHS,
+  RING_MATCH_X,
+  RING_END_X,
+} from "@/lib/lesson-visuals/horizons50-models";
 import {
   Art,
   Tag,
@@ -212,7 +217,8 @@ export function MathHorizonsDrawing(p: DrawingProps) {
           <>
             <path
               fill="none"
-              d="M90.25 115V162M260.75 115V162"
+              data-ring-match="true"
+              d={`M${RING_MATCH_X} 115V162M${RING_END_X} 115V162`}
               stroke={green}
               strokeDasharray="3 3"
             />

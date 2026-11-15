@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "8a326150d1eeb66c468b69297c7440e5b56547bbab98f60c86e7658a17423f2f",
+  "sourceDigest": "39d6bc12d634f2fa0f4548eb82b0b1d318bf4ae55c23629786df3a5d7dba2045",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -3218,11 +3218,11 @@
     {
       "path": "/sciences-humaines-et-sociales/histoire/methode-historique/comment-les-cernes-des-arbres-permettent-ils-de-dater-le-passe",
       "visualRefs": ["schema:treeringmatch"],
-      "fingerprint": "e05eb7f3f1a5fd1e467214208d1aeace103e3eac4f8bce40f4d8577ac6368f92",
+      "fingerprint": "fe510daf72d6d9ecce04bcd929116607f3afcb45ba2b0ad393a6f9be644c6d45",
       "contentHash": "0e4ee9a56a920603e8a0f47f91bd81e57875d155903b604976a08a14716811ae",
       "quality": "validee",
       "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:12.884Z"
+      "reviewedAt": "2026-11-15T11:31:25.765Z"
     },
     {
       "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/l-elasticite-et-la-plasticite-des-materiaux",
