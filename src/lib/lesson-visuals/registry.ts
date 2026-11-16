@@ -1,3 +1,4 @@
+import { HORIZONS50_DIAGRAMS } from "./horizons50";
 import { EXPLORATIONS50_DIAGRAMS } from "./explorations50";
 import { SCIENCES30_DIAGRAMS } from "./sciences30";
 import { ORGANS_DIAGRAMS } from "./organs";
@@ -16,6 +17,56 @@ import { ASTRONOMY_DIAGRAMS } from "./astronomy";
 
 /** Associations éditoriales explicites. Aucune recherche de mots-clés au rendu. */
 export type LessonDiagramKind =
+  | "cellhandoff"
+  | "radiospectrum"
+  | "satrelay"
+  | "leoconstellation"
+  | "subseacable"
+  | "fuelcellcar"
+  | "dcfastcharge"
+  | "injectorjet"
+  | "egrloop"
+  | "beltreel"
+  | "monsoonwind"
+  | "pressureair"
+  | "riverdelta"
+  | "terracefield"
+  | "canallock"
+  | "ammoniasynthesis"
+  | "floatglass"
+  | "steelroutes"
+  | "visionreject"
+  | "interchangefit"
+  | "databaseindex"
+  | "runlength"
+  | "branchloop"
+  | "bootchain"
+  | "vigeneregrid"
+  | "algebrabalance"
+  | "trianglegeometry"
+  | "tempscales"
+  | "confounder"
+  | "treeringmatch"
+  | "dietfibre"
+  | "essentialamino"
+  | "nutritionlabel"
+  | "barrierpack"
+  | "pasteurheat"
+  | "steamengine"
+  | "biogasdigester"
+  | "pumpedstorage"
+  | "tidalturbine"
+  | "batteryage"
+  | "rootmicrobes"
+  | "ultrasoundecho"
+  | "mriprotons"
+  | "antibiotictarget"
+  | "mrnavaccine"
+  | "safetymargin"
+  | "concreteprint"
+  | "topologyshape"
+  | "deploystructure"
+  | "radarecho"
   | "fridgezones"
   | "fooddates"
   | "lactase"
@@ -1526,6 +1577,7 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
   ...AI_USAGE_DIAGRAMS,
   ...AI_CONTEXT_DIAGRAMS,
   ...RADIO_DIAGRAMS,
+  ...HORIZONS50_DIAGRAMS,
   ...EXPLORATIONS50_DIAGRAMS,
   ...SCIENCES30_DIAGRAMS,
   ...ORGANS_DIAGRAMS,

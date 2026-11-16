@@ -1,3 +1,4 @@
+import { HORIZONS50_DIAGRAMS } from "../src/lib/lesson-visuals/horizons50";
 import { EXPLORATIONS50_DIAGRAMS } from "../src/lib/lesson-visuals/explorations50";
 import { SCIENCES30_DIAGRAMS } from "../src/lib/lesson-visuals/sciences30";
 import { ORGANS_DIAGRAMS } from "../src/lib/lesson-visuals/organs";
@@ -18,6 +19,7 @@ it("preserves the exact markup of every previously delivered diagram in all thre
       ...ORGANS_DIAGRAMS,
       ...SCIENCES30_DIAGRAMS,
       ...EXPLORATIONS50_DIAGRAMS,
+      ...HORIZONS50_DIAGRAMS,
     ].map((s) => s.id),
   );
   const previous = LESSON_DIAGRAMS.filter((s) => !added.has(s.id));

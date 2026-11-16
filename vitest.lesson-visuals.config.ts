@@ -20,6 +20,7 @@ export default defineConfig({
       "tests/organs12.test.ts",
       "tests/sciences30.test.ts",
       "tests/explorations50.test.ts",
+      "tests/horizons50.test.ts",
     ],
   },
   resolve: { alias: { "@": fileURLToPath(new URL("./src", import.meta.url)) } },

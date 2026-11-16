@@ -1,0 +1,352 @@
+[
+  {
+    "key": "subseacable",
+    "title": "NOAA — Câbles sous-marins",
+    "url": "https://www.noaa.gov/submarine-cables",
+    "status": 403,
+    "finalUrl": "https://www.noaa.gov/submarine-cables"
+  },
+  {
+    "key": "satrelay",
+    "title": "ESA — Charge utile de télécommunication",
+    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Hylas/Generic_Flexible_Payload_technology",
+    "status": 200,
+    "finalUrl": "https://www.esa.int/articles/about-us/directorates/commercialisation-and-industry-partnership/hylas/generic-flexible-payload-technology"
+  },
+  {
+    "key": "cellhandoff",
+    "title": "OFEV — Fonctionnement de la téléphonie mobile",
+    "url": "https://www.bafu.admin.ch/fr/telephonie-mobile-comment-cela-fonctionne-t-il",
+    "status": 200,
+    "finalUrl": "https://www.bafu.admin.ch/fr/telephonie-mobile-comment-cela-fonctionne-t-il"
+  },
+  {
+    "key": "leoconstellation",
+    "title": "UIT — Systèmes de satellites non géostationnaires",
+    "url": "https://www.itu.int/en/mediacentre/backgrounders/Pages/Non-geostationary-satellite-systems.aspx",
+    "status": 200,
+    "finalUrl": "https://www.itu.int/en/mediacentre/backgrounders/Pages/Non-geostationary-satellite-systems.aspx"
+  },
+  {
+    "key": "radiospectrum",
+    "title": "UIT — Secteur des radiocommunications",
+    "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+    "status": 200,
+    "finalUrl": "https://www.itu.int/en/ITU-R/Pages/default.aspx"
+  },
+  {
+    "key": "fuelcellcar",
+    "title": "Department of Energy — Composants d’une pile PEM",
+    "url": "https://www.energy.gov/cmei/fuels/parts-fuel-cell",
+    "status": 200,
+    "finalUrl": "https://www.energy.gov/cmei/fuels/parts-fuel-cell"
+  },
+  {
+    "key": "beltreel",
+    "title": "Brevet US4015796 — Capteur inertiel d’enrouleur",
+    "url": "https://patents.google.com/patent/US4015796",
+    "status": 200,
+    "finalUrl": "https://patents.google.com/patent/US4015796"
+  },
+  {
+    "key": "injectorjet",
+    "title": "Bosch — Injection à rampe commune",
+    "url": "https://www.bosch-mobility.com/en/solutions/powertrain/diesel/common-rail-system-piezo/",
+    "status": 200,
+    "finalUrl": "https://www.bosch-mobility.com/en/solutions/powertrain/diesel/common-rail-system-piezo/"
+  },
+  {
+    "key": "dcfastcharge",
+    "title": "AFDC — Recharge des véhicules électriques",
+    "url": "https://afdc.energy.gov/fuels/electricity-stations",
+    "status": 200,
+    "finalUrl": "https://afdc.energy.gov/fuels/electricity-stations"
+  },
+  {
+    "key": "egrloop",
+    "title": "Jääskeläinen et Khair — Recirculation des gaz",
+    "url": "https://dieselnet.com/tech/engine_egr.php",
+    "status": 200,
+    "finalUrl": "https://dieselnet.com/tech/engine_egr.php"
+  },
+  {
+    "key": "pressureair",
+    "title": "Météo-France — Pression atmosphérique",
+    "url": "https://meteofrance.com/meteo-a-z/quest-ce-que-la-pression-atmospherique",
+    "status": 200,
+    "finalUrl": "https://meteofrance.com/meteo-a-z/quest-ce-que-la-pression-atmospherique"
+  },
+  {
+    "key": "terracefield",
+    "title": "UNESCO — Rizières en terrasses",
+    "url": "https://whc.unesco.org/fr/list/722/",
+    "status": 403,
+    "finalUrl": "https://whc.unesco.org/fr/list/722/"
+  },
+  {
+    "key": "monsoonwind",
+    "title": "UCAR — Mécanismes des moussons",
+    "url": "https://scied.ucar.edu/learning-zone/storms/monsoons",
+    "status": 200,
+    "finalUrl": "https://scied.ucar.edu/learning-zone/storms/monsoons"
+  },
+  {
+    "key": "canallock",
+    "title": "Autorité du canal de Panama — Fonctionnement du canal",
+    "url": "https://pancanal.com/en/design-of-the-locks/",
+    "status": 200,
+    "finalUrl": "https://pancanal.com/en/design-of-the-locks/"
+  },
+  {
+    "key": "riverdelta",
+    "title": "USGS — Bilan sédimentaire des deltas",
+    "url": "https://pubs.usgs.gov/of/2003/of03-337/rivers-deltas.html",
+    "status": 200,
+    "finalUrl": "https://pubs.usgs.gov/of/2003/of03-337/rivers-deltas.html"
+  },
+  {
+    "key": "floatglass",
+    "title": "Pierlot et coll. — Formulation et traitements du verre",
+    "url": "https://new.societechimiquedefrance.fr/wp-content/uploads/2019/12/2013-370-janvier-p8-Pierlot_HD.pdf",
+    "status": 401,
+    "finalUrl": "https://new.societechimiquedefrance.fr/wp-content/uploads/2019/12/2013-370-janvier-p8-Pierlot_HD.pdf"
+  },
+  {
+    "key": "visionreject",
+    "title": "Cognex — Introduction à la vision industrielle",
+    "url": "https://www.cognex.com/en/tools-and-resources/starter-guides/machine-vision",
+    "status": 429,
+    "finalUrl": "https://www.cognex.com/en/tools-and-resources/starter-guides/machine-vision"
+  },
+  {
+    "key": "ammoniasynthesis",
+    "title": "BASF — La synthèse d’ammoniac",
+    "url": "https://www.basf.com/gb/en/media/science-around-us/fertilizer-out-of-thin-air",
+    "status": 200,
+    "finalUrl": "https://www.basf.com/gb/en/media/science-around-us/fertilizer-out-of-thin-air"
+  },
+  {
+    "key": "steelroutes",
+    "title": "World Steel Association — Filières sidérurgiques",
+    "url": "https://worldsteel.org/about-steel/steelmaking-process/",
+    "status": 200,
+    "finalUrl": "https://worldsteel.org/about-steel/steelmaking-process/"
+  },
+  {
+    "key": "interchangefit",
+    "title": "NIST — Geometric interoperability via queries",
+    "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=914283",
+    "status": 200,
+    "finalUrl": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=914283"
+  },
+  {
+    "key": "branchloop",
+    "title": "MDN — Boucles et itération",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration",
+    "status": 200,
+    "finalUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration"
+  },
+  {
+    "key": "databaseindex",
+    "title": "PostgreSQL — Introduction aux index",
+    "url": "https://www.postgresql.org/docs/current/indexes-intro.html",
+    "status": 200,
+    "finalUrl": "https://www.postgresql.org/docs/current/indexes-intro.html"
+  },
+  {
+    "key": "runlength",
+    "title": "ImageMagick — Codage RLE du format MIFF",
+    "url": "https://imagemagick.org/miff/",
+    "status": 200,
+    "finalUrl": "https://imagemagick.org/miff/"
+  },
+  {
+    "key": "bootchain",
+    "title": "Red Hat — Du micrologiciel au noyau",
+    "url": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/installation_guide/s1-boot-init-shutdown-process",
+    "status": 200,
+    "finalUrl": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/installation_guide/s1-boot-init-shutdown-process"
+  },
+  {
+    "key": "vigeneregrid",
+    "title": "University of Rhode Island — Chiffre de Vigenère",
+    "url": "https://cs.uri.edu/cryptography/classical-ciphers/vigenere/article.html",
+    "status": 200,
+    "finalUrl": "https://cs.uri.edu/cryptography/classical-ciphers/vigenere/article.html"
+  },
+  {
+    "key": "algebrabalance",
+    "title": "OpenStax — Propriétés de l’égalité",
+    "url": "https://openstax.org/books/elementary-algebra-2e/pages/2-1-solve-equations-using-the-subtraction-and-addition-properties-of-equality",
+    "status": 200,
+    "finalUrl": "https://openstax.org/books/elementary-algebra-2e/pages/2-1-solve-equations-using-the-subtraction-and-addition-properties-of-equality"
+  },
+  {
+    "key": "tempscales",
+    "title": "BIPM — Brochure sur le Système international",
+    "url": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9-FR.pdf",
+    "status": 200,
+    "finalUrl": "https://www.bipm.org/documents/20126/41483022/SI-Brochure-9-FR.pdf"
+  },
+  {
+    "key": "confounder",
+    "title": "OpenStax — Corrélation et causalité",
+    "url": "https://openstax.org/books/introductory-statistics-2e/pages/12-3-the-regression-equation",
+    "status": 200,
+    "finalUrl": "https://openstax.org/books/introductory-statistics-2e/pages/12-3-the-regression-equation"
+  },
+  {
+    "key": "treeringmatch",
+    "title": "National Park Service — Dendrochronologie",
+    "url": "https://www.nps.gov/articles/archeology-dendrochronology.htm",
+    "status": 200,
+    "finalUrl": "https://www.nps.gov/articles/archeology-dendrochronology.htm"
+  },
+  {
+    "key": "trianglegeometry",
+    "title": "LibreTexts — Triangles et géométrie sphérique",
+    "url": "https://math.libretexts.org/Courses/Hartnell_College/Mathematics_for_Elementary_Teachers/12%3A_Geometry/12.03%3A_Triangles_and_Quadrilaterals",
+    "status": 200,
+    "finalUrl": "https://math.libretexts.org/Courses/Hartnell_College/Mathematics_for_Elementary_Teachers/12%3A_Geometry/12.03%3A_Triangles_and_Quadrilaterals"
+  },
+  {
+    "key": "dietfibre",
+    "title": "Inserm — Microbiote intestinal",
+    "url": "https://www.inserm.fr/dossier/microbiote-intestinal-flore-intestinale/",
+    "status": 200,
+    "finalUrl": "https://www.inserm.fr/dossier/microbiote-intestinal-flore-intestinale/"
+  },
+  {
+    "key": "nutritionlabel",
+    "title": "Commission européenne — Déclaration nutritionnelle",
+    "url": "https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/nutrition-labelling_en",
+    "status": 200,
+    "finalUrl": "https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/nutrition-labelling_en"
+  },
+  {
+    "key": "barrierpack",
+    "title": "Food Standards Agency — Emballage et dangers alimentaires",
+    "url": "https://myhaccp.food.gov.uk/help/guidance/preparatory-stage-e-describe-product",
+    "status": 403,
+    "finalUrl": "https://myhaccp.food.gov.uk/help/guidance/preparatory-stage-e-describe-product"
+  },
+  {
+    "key": "essentialamino",
+    "title": "Société suisse de nutrition — Protéines",
+    "url": "https://www.sge-ssn.ch/media/fv0a5hxf/protéines-complément-2025.pdf",
+    "status": 200,
+    "finalUrl": "https://www.sge-ssn.ch/media/fv0a5hxf/prot%C3%A9ines-compl%C3%A9ment-2025.pdf"
+  },
+  {
+    "key": "pasteurheat",
+    "title": "FDA — Traitements thermiques et spores",
+    "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/post-outbreak-response-activities-clostridium-botulinum-illnesses-associated-consumption-powdered",
+    "status": 200,
+    "finalUrl": "https://www.fda.gov/food/outbreaks-foodborne-illness/post-outbreak-response-activities-clostridium-botulinum-illnesses-associated-consumption-powdered"
+  },
+  {
+    "key": "biogasdigester",
+    "title": "EPA — Fonctionnement de la méthanisation",
+    "url": "https://www.epa.gov/agstar/how-does-anaerobic-digestion-work",
+    "status": 200,
+    "finalUrl": "https://www.epa.gov/agstar/how-does-anaerobic-digestion-work"
+  },
+  {
+    "key": "pumpedstorage",
+    "title": "Department of Energy — Stockage hydraulique par pompage",
+    "url": "https://www.energy.gov/cmei/water/pumped-storage-hydropower",
+    "status": 200,
+    "finalUrl": "https://www.energy.gov/cmei/water/pumped-storage-hydropower"
+  },
+  {
+    "key": "steamengine",
+    "title": "Science Museum — Machine à vapeur de Boulton et Watt",
+    "url": "https://collection.sciencemuseumgroup.org.uk/people/ap24508/watt-james",
+    "status": 403,
+    "finalUrl": "https://collection.sciencemuseumgroup.org.uk/people/ap24508/watt-james"
+  },
+  {
+    "key": "tidalturbine",
+    "title": "Ministère de la Transition écologique — Énergies marines",
+    "url": "https://www.ecologie.gouv.fr/politiques-publiques/energies-marines-renouvelables-hors-eolien-mer",
+    "status": 200,
+    "finalUrl": "https://www.ecologie.gouv.fr/politiques-publiques/energies-marines-renouvelables-hors-eolien-mer"
+  },
+  {
+    "key": "batteryage",
+    "title": "Argonne / DOE — Mécanismes de dégradation lithium-ion",
+    "url": "https://www.energy.gov/sites/prod/files/2014/03/f13/es032_abraham_2013_p.pdf",
+    "status": 200,
+    "finalUrl": "https://www.energy.gov/sites/prod/files/2014/03/f13/es032_abraham_2013_p.pdf"
+  },
+  {
+    "key": "antibiotictarget",
+    "title": "Institut Pasteur — Antibiotiques et résistance",
+    "url": "https://www.pasteur.fr/fr/en-ce-moment/nos-actualites/dossiers/antibiotiques-quand-les-bacteries-font-de-la-resistance",
+    "status": 200,
+    "finalUrl": "https://www.pasteur.fr/fr/en-ce-moment/nos-actualites/dossiers/antibiotiques-quand-les-bacteries-font-de-la-resistance"
+  },
+  {
+    "key": "ultrasoundecho",
+    "title": "NIH NIBIB — Ultrasons et échographie",
+    "url": "https://www.nibib.nih.gov/science-education/science-topics/ultrasound",
+    "status": 200,
+    "finalUrl": "https://www.nibib.nih.gov/science-education/science-topics/ultrasound"
+  },
+  {
+    "key": "mriprotons",
+    "title": "NIH NIBIB — Imagerie par résonance magnétique",
+    "url": "https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri",
+    "status": 200,
+    "finalUrl": "https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri"
+  },
+  {
+    "key": "rootmicrobes",
+    "title": "INRAE — Les échanges mycorhiziens",
+    "url": "https://www.inrae.fr/actualites/langage-plus-complexe-que-prevu-loeuvre-plus-ancienne-symbiose-terrestre",
+    "status": 200,
+    "finalUrl": "https://www.inrae.fr/actualites/langage-plus-complexe-que-prevu-loeuvre-plus-ancienne-symbiose-terrestre"
+  },
+  {
+    "key": "mrnavaccine",
+    "title": "NHGRI — Comprendre les vaccins à ARN messager",
+    "url": "https://www.genome.gov/about-genomics/fact-sheets/Understanding-COVID-19-mRNA-Vaccines",
+    "status": 200,
+    "finalUrl": "https://www.genome.gov/about-genomics/fact-sheets/Understanding-COVID-19-mRNA-Vaccines"
+  },
+  {
+    "key": "radarecho",
+    "title": "NOAA — Fonctionnement d’un radar",
+    "url": "https://www.noaa.gov/jetstream/doppler/how-radar-works",
+    "status": 403,
+    "finalUrl": "https://www.noaa.gov/jetstream/doppler/how-radar-works"
+  },
+  {
+    "key": "deploystructure",
+    "title": "NASA — Déploiement d’un parapluie spatial",
+    "url": "https://www.jpl.nasa.gov/edu/resources/project/space-origami-make-your-own-starshade/",
+    "status": 403,
+    "finalUrl": "https://www.jpl.nasa.gov/edu/resources/project/space-origami-make-your-own-starshade/"
+  },
+  {
+    "key": "topologyshape",
+    "title": "OpenScience — Optimisation topologique par la méthode SIMP",
+    "url": "https://openscience.fr/Topological-optimization-of-a-multibody-system-by-the-SIMP-method",
+    "status": 200,
+    "finalUrl": "https://openscience.fr/Topological-optimization-of-a-multibody-system-by-the-SIMP-method"
+  },
+  {
+    "key": "safetymargin",
+    "title": "NASA — Charge et coefficient de sécurité",
+    "url": "https://llis.nasa.gov/lesson/819",
+    "status": 200,
+    "finalUrl": "https://llis.nasa.gov/lesson/819"
+  },
+  {
+    "key": "concreteprint",
+    "title": "CORDIS — Impression 3D de béton",
+    "url": "https://cordis.europa.eu/article/id/435273-3d-printed-lightweight-concrete-for-better-building-insulation/fr",
+    "status": 200,
+    "finalUrl": "https://cordis.europa.eu/article/id/435273-3d-printed-lightweight-concrete-for-better-building-insulation/fr"
+  }
+]

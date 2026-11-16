@@ -1,3 +1,13 @@
+import { TelecomHorizonsDrawing } from "./TelecomHorizonsDrawings";
+import { AutoHorizonsDrawing } from "./AutoHorizonsDrawings";
+import { GeographyHorizonsDrawing } from "./GeographyHorizonsDrawings";
+import { IndustryHorizonsDrawing } from "./IndustryHorizonsDrawings";
+import { DigitalHorizonsDrawing } from "./DigitalHorizonsDrawings";
+import { MathHorizonsDrawing } from "./MathHorizonsDrawings";
+import { FoodHorizonsDrawing } from "./FoodHorizonsDrawings";
+import { EnergyHorizonsDrawing } from "./EnergyHorizonsDrawings";
+import { BiologyHorizonsDrawing } from "./BiologyHorizonsDrawings";
+import { StructuresHorizonsDrawing } from "./StructuresHorizonsDrawings";
 import { FoodConservation50Drawing } from "./FoodConservation50Drawings";
 import { FoodProcesses50Drawing } from "./FoodProcesses50Drawings";
 import { MusicOptics50Drawing } from "./MusicOptics50Drawings";
@@ -80,6 +90,16 @@ export function LessonDiagramCanvas({
         style={{ fontFamily: "var(--font-sans), system-ui, sans-serif" } as CSSProperties}
       >
         <DiagramSurface id={id} tint="#eef3f8" />
+        <TelecomHorizonsDrawing {...props} />
+        <AutoHorizonsDrawing {...props} />
+        <GeographyHorizonsDrawing {...props} />
+        <IndustryHorizonsDrawing {...props} />
+        <DigitalHorizonsDrawing {...props} />
+        <MathHorizonsDrawing {...props} />
+        <FoodHorizonsDrawing {...props} />
+        <EnergyHorizonsDrawing {...props} />
+        <BiologyHorizonsDrawing {...props} />
+        <StructuresHorizonsDrawing {...props} />
         <FoodConservation50Drawing {...props} />
         <FoodProcesses50Drawing {...props} />
         <MusicOptics50Drawing {...props} />
