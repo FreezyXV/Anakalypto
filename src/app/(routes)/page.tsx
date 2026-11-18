@@ -2,13 +2,17 @@ import Link from "next/link";
 import type { CSSProperties } from "react";
 
 import { ArticleGrid } from "@/components/ArticleCard";
+import { HomeDiscoveryLaunch } from "@/components/discovery/DiscoveryLaunch";
 import { DomainTile } from "@/components/DomainTile";
 import { JsonLd } from "@/components/JsonLd";
 import { SearchBox } from "@/components/SearchBox";
 import { Cover } from "@/components/visual/Cover";
 import { getRootCategories, getShowcaseArticles, getSiteStats } from "@/lib/queries";
+import { discoveryCard } from "@/lib/discovery/cards";
+import { getDiscoveryLessons } from "@/lib/discovery/load";
 import { websiteJsonLd } from "@/lib/seo";
 import { frenchSpacing } from "@/lib/typography";
+import "./decouvrir/discovery.css";
 
 // Les articles changent au rythme des imports de corpus: une revalidation horaire suffit.
 export const revalidate = 3600;
@@ -46,10 +50,11 @@ const STACK: ReadonlyArray<{ className: string }> = [
 ];
 
 export default async function HomePage() {
-  const [categories, showcase, stats] = await Promise.all([
+  const [categories, showcase, stats, discoveries] = await Promise.all([
     getRootCategories(),
     getShowcaseArticles(12),
     getSiteStats(),
+    getDiscoveryLessons(),
   ]);
 
   const hero = showcase.slice(0, 3);
@@ -64,33 +69,43 @@ export default async function HomePage() {
         className="grid items-center gap-10 lg:grid-cols-[1.15fr_1fr]"
       >
         <div>
-          <h1 id="titre-accueil" className="display text-[2.9rem] sm:text-6xl lg:text-7xl">
+          <h1 id="titre-accueil" className="display text-[2rem] sm:text-5xl lg:text-7xl">
             Comprends comment marchent les choses
           </h1>
-          <p className="mt-5 max-w-reading text-lg leading-relaxed text-ink-muted">
+          <p className="mt-5 hidden max-w-reading text-lg leading-relaxed text-ink-muted lg:block">
             Essaie nos premières expériences interactives, puis approfondis avec des articles
             sourcés sur {categories.length} domaines, du corps humain à l&apos;intelligence
             artificielle.
           </p>
-          <p className="mt-6 flex flex-wrap gap-3">
+          <p className="mt-6 hidden flex-wrap gap-3 lg:flex">
             <Link href="/decouvrir" className="btn">
-              Découvrir en jouant
+              Jouer
             </Link>
             <Link href="/categories" className="btn btn--ghost">
-              Approfondir un sujet
+              Explorer les leçons
             </Link>
           </p>
 
-          {/*
-            Sur telephone, l'en-tete porte deja un champ de recherche pleine largeur, a
-            quelques centimetres de celui-ci: le repeter n'ajoute rien et repousse le
-            contenu. Il ne reparait qu'a partir de `md`, ou l'en-tete le reduit.
-          */}
-          <div className="mt-7 hidden max-w-reading md:block">
+          <div className="mt-4 lg:hidden">
+            <HomeDiscoveryLaunch
+              lessons={discoveries.map(discoveryCard)}
+              initialNow={new Date().toISOString()}
+            />
+            <div className="mt-3 flex flex-wrap gap-x-5 font-sans font-semibold">
+              <Link href="/decouvrir" className="inline-flex min-h-11 items-center">
+                Toutes les découvertes
+              </Link>
+              <Link href="/categories" className="inline-flex min-h-11 items-center">
+                Explorer les leçons
+              </Link>
+            </div>
+          </div>
+
+          <div className="mt-7 hidden max-w-reading lg:block">
             <SearchBox size="large" />
           </div>
 
-          <p className="mt-6 flex flex-wrap gap-2.5">
+          <p className="mt-6 hidden flex-wrap gap-2.5 lg:flex">
             <span className="chip">{stats.articles} leçons</span>
             <span className="chip">{categories.length} domaines</span>
             <span className="chip">{stats.sources} sources citées</span>

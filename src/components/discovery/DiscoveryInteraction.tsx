@@ -1,5 +1,6 @@
 "use client";
 
+import { frenchSpacing } from "@/lib/typography";
 import type { DiscoveryStep } from "@/lib/discovery/schema";
 import { PISTON_PHASES, pistonState } from "@/lib/discovery/visual-state";
 import { isSequentialKind, MECHANISM_STAGES } from "@/lib/discovery/mechanisms";
@@ -12,12 +13,14 @@ export function DiscoveryInteraction({
   value,
   onValue,
   onChoice,
+  compact = false,
 }: {
   step: DiscoveryStep;
   chosen?: string;
   value?: number;
   onValue: (value: number) => void;
   onChoice: (id: string) => void;
+  compact?: boolean;
 }) {
   const interaction = step.interaction;
   if (!interaction) return null;
@@ -26,7 +29,7 @@ export function DiscoveryInteraction({
     const correct = chosen === interaction.correctOptionId;
     return (
       <fieldset className="discovery-interaction">
-        <legend>{interaction.question}</legend>
+        <legend>{frenchSpacing(interaction.question)}</legend>
         <div className="discovery-options">
           {interaction.options.map((option) => (
             <button
@@ -80,6 +83,53 @@ export function DiscoveryInteraction({
       : undefined;
   const stage = labels ? Math.round(((value ?? 0) / 100) * (labels.length - 1)) : undefined;
   const valueLabel = rangeValueLabel(step.visual, interaction, value ?? 0);
+  const shortcuts =
+    step.visual.kind === "piston" ? (
+      <div className="discovery-phase-options" aria-label="Choisir un temps du moteur">
+        {PISTON_PHASES.map((name, index) => (
+          <button
+            key={name}
+            className="discovery-option"
+            type="button"
+            aria-pressed={value !== undefined && pistonState(value).phase === index}
+            data-selected={value !== undefined && pistonState(value).phase === index}
+            onClick={() => onValue(index * 25 + 12)}
+          >
+            {index + 1}. {name}
+          </button>
+        ))}
+      </div>
+    ) : isSequentialKind(step.visual.kind) && labels ? (
+      <div className="discovery-stage-options" aria-label="Choisir une étape du schéma">
+        {labels.map((name, index) => (
+          <button
+            key={name}
+            className="discovery-option"
+            type="button"
+            aria-pressed={value !== undefined && stage === index}
+            data-selected={value !== undefined && stage === index}
+            onClick={() => onValue(index * 25)}
+          >
+            {index + 1}. {name}
+          </button>
+        ))}
+      </div>
+    ) : step.visual.kind === "moon" ? (
+      <div className="discovery-stage-options" aria-label="Choisir une phase de la Lune">
+        {MOON_PHASES.map((name, index) => (
+          <button
+            key={name}
+            type="button"
+            className="discovery-option"
+            aria-pressed={moonModel(value ?? 0).phase === index}
+            data-selected={moonModel(value ?? 0).phase === index}
+            onClick={() => onValue(Math.round((index * 100) / 7))}
+          >
+            {name}
+          </button>
+        ))}
+      </div>
+    ) : null;
   return (
     <div className="discovery-interaction">
       <label htmlFor={`range-${step.id}`}>
@@ -99,53 +149,13 @@ export function DiscoveryInteraction({
         <span>{interaction.minLabel}</span>
         <span>{interaction.maxLabel}</span>
       </div>
-      {step.visual.kind === "piston" && (
-        <div className="discovery-phase-options" aria-label="Choisir un temps du moteur">
-          {PISTON_PHASES.map((name, index) => (
-            <button
-              key={name}
-              className="discovery-option"
-              type="button"
-              aria-pressed={value !== undefined && pistonState(value).phase === index}
-              data-selected={value !== undefined && pistonState(value).phase === index}
-              onClick={() => onValue(index * 25 + 12)}
-            >
-              {index + 1}. {name}
-            </button>
-          ))}
-        </div>
-      )}
-      {isSequentialKind(step.visual.kind) && labels && (
-        <div className="discovery-stage-options" aria-label="Choisir une étape du schéma">
-          {labels.map((name, index) => (
-            <button
-              key={name}
-              className="discovery-option"
-              type="button"
-              aria-pressed={value !== undefined && stage === index}
-              data-selected={value !== undefined && stage === index}
-              onClick={() => onValue(index * 25)}
-            >
-              {index + 1}. {name}
-            </button>
-          ))}
-        </div>
-      )}
-      {step.visual.kind === "moon" && (
-        <div className="discovery-stage-options" aria-label="Choisir une phase de la Lune">
-          {MOON_PHASES.map((name, index) => (
-            <button
-              key={name}
-              type="button"
-              className="discovery-option"
-              aria-pressed={moonModel(value ?? 0).phase === index}
-              data-selected={moonModel(value ?? 0).phase === index}
-              onClick={() => onValue(Math.round((index * 100) / 7))}
-            >
-              {name}
-            </button>
-          ))}
-        </div>
+      {compact && shortcuts ? (
+        <details className="discovery-shortcuts">
+          <summary>Choisir une étape</summary>
+          {shortcuts}
+        </details>
+      ) : (
+        shortcuts
       )}
       <p className="discovery-feedback" aria-live="polite">
         {value !== undefined && interaction.feedback}

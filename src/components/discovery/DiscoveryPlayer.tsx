@@ -1,7 +1,11 @@
 "use client";
 
+import { frenchSpacing } from "@/lib/typography";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
+import { openingStepIndex, visibleStepIndex } from "@/lib/discovery/player-steps";
+import { getCheckpoints } from "@/lib/discovery/review";
+import { useDiscoveryNow } from "@/lib/discovery/useNow";
 import type { DiscoveryLesson } from "@/lib/discovery/schema";
 import {
   completeSession,
@@ -14,15 +18,21 @@ import { DiscoveryInteraction } from "./DiscoveryInteraction";
 
 export function DiscoveryPlayer({
   lesson,
-  next,
+  following,
+  initialNow,
 }: {
   lesson: DiscoveryLesson;
-  next?: { slug: string; title: string };
+  following: Pick<DiscoveryLesson, "slug" | "title" | "version">[];
+  initialNow: string;
 }) {
   const progress = useDiscoveryProgress();
   const stored = progress[lesson.slug];
   const session = stored?.version === lesson.version ? stored : freshSession(lesson.version);
-  const index = Math.min(session.step, lesson.steps.length - 1);
+  const now = useDiscoveryNow(initialNow);
+  const firstIndex = openingStepIndex(lesson.steps);
+  const index = visibleStepIndex(lesson.steps, session.step);
+  const currentNumber = index - firstIndex + 1;
+  const total = lesson.steps.length - firstIndex;
   const step = lesson.steps[index]!;
   const heading = useRef<HTMLHeadingElement>(null);
   const [storageWarning, setStorageWarning] = useState(false);
@@ -51,14 +61,12 @@ export function DiscoveryPlayer({
     (interaction.kind === "choice" ? chosen === interaction.correctOptionId : value !== undefined);
   const visualValue =
     interaction?.kind === "choice" || !interaction ? (step.visual.active ? 100 : 0) : (value ?? 0);
-  const firstMistake = Object.values(session.firstCorrect).some((correct) => !correct);
-  const checkpoints = lesson.steps.filter(
-    (item) => item.interaction?.kind === "choice" && item.interaction.checkpoint,
-  );
+  const checkpoints = getCheckpoints(lesson.steps);
+  const lastChallenge = checkpoints.at(-1)?.id === step.id;
+  const opening = firstIndex > 0 && index === firstIndex;
+  const handsOn = interaction?.kind === "toggle" || interaction?.kind === "range";
   const allChecksPassed = checkpoints.every(
-    (item) =>
-      item.interaction?.kind === "choice" &&
-      session.choices[item.id] === item.interaction.correctOptionId,
+    (item) => session.choices[item.id] === item.interaction.correctOptionId,
   );
 
   function finish() {
@@ -71,46 +79,46 @@ export function DiscoveryPlayer({
       );
   }
 
-  if (session.completed)
+  if (session.completed) {
+    const next = following.find((candidate) => {
+      const entry = progress[candidate.slug];
+      return entry?.version !== candidate.version || !entry.completed;
+    });
+    const reviewing = !!session.review && !session.review.completed;
+    const reviewDue = !!session.reviewAt && session.reviewAt <= now;
     return (
       <section className="discovery-result sticker p-6 sm:p-8" aria-labelledby="discovery-complete">
-        <span className="discovery-eyebrow">
-          {session.status === "understood" ? "Défis réussis" : "À revoir tranquillement"}
-        </span>
-        <h1 ref={heading} tabIndex={-1} id="discovery-complete" className="display mt-3 text-3xl">
-          Une idée de plus à explorer
+        <h1 ref={heading} tabIndex={-1} id="discovery-complete" className="display text-3xl">
+          Découverte terminée
         </h1>
         <p className="mt-4 text-lg">{lesson.objective}</p>
-        <p className="mt-3 text-ink-muted">
-          {session.status === "understood"
-            ? "Tu as réussi les défis au premier essai. Reviens demain pour voir ce que tu as retenu."
-            : "Tu as corrigé tes réponses. Une nouvelle tentative demain aidera à revoir les points qui t’ont fait hésiter."}
-        </p>
-        <div className="mt-6 flex flex-wrap gap-3">
-          <Link href={`/decouvrir/${lesson.slug}/reviser`} className="btn">
-            {session.review && !session.review.completed
-              ? "Poursuivre ma révision"
-              : "Tester ce que j’ai retenu"}
-          </Link>
-          {next && (
-            <Link href={`/decouvrir/${next.slug}`} className="btn">
-              Découvrir : {next.title}
+        {next ? (
+          <div className="discovery-next">
+            <p className="discovery-eyebrow">À suivre</p>
+            <p className="font-semibold">{frenchSpacing(next.title)}</p>
+            <Link href={`/decouvrir/${next.slug}`} className="btn mt-3">
+              Découverte suivante
             </Link>
-          )}
-          <Link href={lesson.expandedPath} className="btn btn--ghost">
-            Approfondir
+          </div>
+        ) : (
+          <Link href="/decouvrir" className="btn mt-5">
+            Voir mes découvertes
           </Link>
-          <button
-            type="button"
-            className="btn btn--ghost"
-            onClick={() => persist(freshSession(lesson.version))}
-          >
+        )}
+        <div className="discovery-result-links">
+          <Link href={`${lesson.expandedPath}#lecon`}>Approfondir</Link>
+          {reviewDue || reviewing ? (
+            <Link href={`/decouvrir/${lesson.slug}/reviser`}>
+              {reviewing ? "Reprendre la révision" : "Réviser"}
+            </Link>
+          ) : null}
+          <button type="button" onClick={() => persist(freshSession(lesson.version))}>
             Rejouer
           </button>
         </div>
-        <Link href="/decouvrir" className="mt-5 inline-block font-sans font-semibold">
-          Voir mes découvertes
-        </Link>
+        {!reviewDue && !reviewing && !session.review?.completed ? (
+          <p className="discovery-hint">Ta révision sera proposée dans Découvertes.</p>
+        ) : null}
         {storageWarning && (
           <p role="status" className="mt-4 text-sm">
             Le stockage est indisponible : ta progression est conservée seulement pendant cette
@@ -119,13 +127,14 @@ export function DiscoveryPlayer({
         )}
       </section>
     );
+  }
 
   return (
     <section className="discovery-player" aria-label={`Découverte : ${lesson.title}`}>
       <div className="discovery-topline">
-        <Link href="/decouvrir">← Découvrir</Link>
+        <Link href="/decouvrir">← Découvertes</Link>
         <span>
-          {lesson.minutes} min · {lesson.domain}
+          {currentNumber}/{total} · {lesson.minutes} min
         </span>
       </div>
       <div
@@ -133,25 +142,30 @@ export function DiscoveryPlayer({
         role="progressbar"
         aria-label="Étapes de la découverte"
         aria-valuemin={0}
-        aria-valuemax={lesson.steps.length}
-        aria-valuenow={index + 1}
+        aria-valuemax={total}
+        aria-valuenow={currentNumber}
       >
-        {lesson.steps.map((item, position) => (
-          <span key={item.id} data-filled={position <= index} />
+        {lesson.steps.slice(firstIndex).map((item, position) => (
+          <span key={item.id} data-filled={position < currentNumber} />
         ))}
       </div>
       <div className="sticker discovery-panel">
-        <p className="discovery-eyebrow">
-          {lesson.title} · {index + 1}/{lesson.steps.length}
-        </p>
+        {opening ? null : <p className="discovery-eyebrow">{frenchSpacing(lesson.title)}</p>}
         <h1 ref={heading} tabIndex={-1} className="display discovery-step-title">
-          {step.title}
+          {frenchSpacing(opening ? lesson.title : step.title)}
         </h1>
-        <DiscoveryVisual visual={step.visual} value={visualValue} stateCaption compact />
-        <p className="discovery-copy">{step.text}</p>
+        {lastChallenge ? null : (
+          <DiscoveryVisual visual={step.visual} value={visualValue} stateCaption compact />
+        )}
+        {handsOn ? (
+          <p className="discovery-task">{opening ? step.title : step.text}</p>
+        ) : lastChallenge ? null : (
+          <p className="discovery-copy">{step.text}</p>
+        )}
         {interaction && (
           <DiscoveryInteraction
             step={step}
+            compact
             chosen={chosen}
             value={value}
             onValue={(newValue) => update({ values: { ...session.values, [step.id]: newValue } })}
@@ -167,16 +181,11 @@ export function DiscoveryPlayer({
             }}
           />
         )}
-        {firstMistake &&
-          interaction?.kind === "choice" &&
-          chosen === interaction.correctOptionId && (
-            <p className="discovery-hint">Tu peux te tromper et essayer à nouveau.</p>
-          )}
         <div className="discovery-controls">
           <button
             className="btn btn--ghost"
             type="button"
-            disabled={index === 0}
+            disabled={index === firstIndex}
             onClick={() => update({ step: index - 1 })}
           >
             Retour
@@ -199,6 +208,20 @@ export function DiscoveryPlayer({
               : "Essaie le réglage pour continuer."}
           </p>
         )}
+        {opening ? (
+          <details className="discovery-opening-context">
+            <summary>Pourquoi ça marche ?</summary>
+            <p>{lesson.steps[0]!.text}</p>
+            <p>{step.text}</p>
+          </details>
+        ) : null}
+        {lastChallenge && ready ? (
+          <details className="discovery-opening-context">
+            <summary>Revoir le schéma</summary>
+            <DiscoveryVisual visual={step.visual} value={visualValue} stateCaption compact />
+            <p>{step.text}</p>
+          </details>
+        ) : null}
         {index === lesson.steps.length - 1 && ready && !allChecksPassed && (
           <p className="discovery-hint">Reviens aux étapes précédentes pour terminer les défis.</p>
         )}

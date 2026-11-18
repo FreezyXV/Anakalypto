@@ -255,56 +255,64 @@ async function ArticleView({ article }: { article: ArticlePage }) {
         })}
       />
 
-      <Breadcrumb items={crumbs} />
+      <div className="hidden lg:block">
+        <Breadcrumb items={crumbs} />
+      </div>
+      <nav aria-label="Catégorie" className="font-sans lg:hidden">
+        <Link
+          href={`/${article.category.path}`}
+          className="inline-flex min-h-11 items-center text-sm font-semibold text-ink-muted"
+        >
+          ← {frenchSpacing(article.category.name)}
+        </Link>
+      </nav>
 
-      <article className="mt-5">
-        <header className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,25rem)] lg:items-start lg:gap-12">
+      <article className="mt-2 lg:mt-5">
+        <header className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_minmax(0,25rem)] lg:items-start lg:gap-12">
           <div className="min-w-0">
             <p className="flex flex-wrap gap-2">
               <Link
                 href={`/${root.path}`}
-                className="chip"
+                className="chip hidden lg:inline-flex"
                 style={{ background: theme.color, color: theme.on }}
               >
                 {frenchSpacing(root.name)}
               </Link>
               <span className="chip">{minutes} min de lecture</span>
               {article.quiz.length > 0 && (
-                <span className="chip">Quiz de {article.quiz.length} questions</span>
+                <span className="chip hidden lg:inline-flex">
+                  Quiz de {article.quiz.length} questions
+                </span>
               )}
             </p>
 
-            <h1 className="display mt-4 max-w-reading text-[2.4rem] hyphens-auto [overflow-wrap:anywhere] sm:text-5xl lg:text-[3.4rem]">
+            <h1 className="display mt-3 max-w-reading text-[2rem] hyphens-auto [overflow-wrap:anywhere] sm:text-5xl lg:mt-4 lg:text-[3.4rem]">
               {frenchSpacing(article.title)}
             </h1>
+
+            <div className="mt-5 flex flex-wrap items-center gap-x-5 gap-y-2 font-sans">
+              {discovery ? (
+                <Link href={`/decouvrir/${discovery.slug}`} className="btn">
+                  Jouer · {discovery.minutes} min
+                </Link>
+              ) : lessonDiagram ? (
+                <a href="#schema-lecon" className="btn">
+                  Voir en images
+                </a>
+              ) : null}
+              <a
+                href="#lecon"
+                className={
+                  discovery || lessonDiagram
+                    ? "inline-flex min-h-11 items-center font-semibold underline underline-offset-4"
+                    : "btn"
+                }
+              >
+                Approfondir
+              </a>
+            </div>
             <p className="mt-4 max-w-reading text-lg leading-relaxed text-ink-muted">
               {frenchSpacing(article.summary)}
-            </p>
-
-            <p className="mt-6 flex flex-wrap gap-3">
-              {discovery && (
-                <>
-                  <Link href={`/decouvrir/${discovery.slug}`} className="btn">
-                    Découvrir en jouant · {discovery.minutes} min
-                  </Link>
-                  <a href="#atelier-visuel" className="btn btn--ghost">
-                    Manipuler le schéma
-                  </a>
-                </>
-              )}
-              {lessonDiagram && (
-                <a href="#schema-lecon" className="btn btn--ghost">
-                  Explorer en images
-                </a>
-              )}
-              <a href="#lecon" className="btn">
-                {discovery ? "Lire la version approfondie" : "Commencer la leçon"}
-              </a>
-              {article.quiz.length > 0 && (
-                <a href="#quiz" className="btn btn--ghost">
-                  Aller au quiz
-                </a>
-              )}
             </p>
 
             {verified && (
@@ -328,7 +336,7 @@ async function ArticleView({ article }: { article: ArticlePage }) {
                   stateCaption
                 />
                 <a href="#atelier-visuel" className="btn btn--ghost mt-3">
-                  À toi de manipuler →
+                  Voir en images →
                 </a>
               </div>
             ) : lessonDiagram ? (

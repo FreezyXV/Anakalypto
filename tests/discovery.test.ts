@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
 import { getDiscoveryLessons } from "../src/lib/discovery/load";
+import { openingStepIndex, visibleStepIndex } from "../src/lib/discovery/player-steps";
 import { discoveryLessonSchema } from "../src/lib/discovery/schema";
 import {
   completeSession,
@@ -41,6 +42,18 @@ describe("discovery content", () => {
     );
     expect(lessons.length).toBeGreaterThanOrEqual(3);
     for (const lesson of lessons) expect(paths.has(lesson.expandedPath), lesson.slug).toBe(true);
+  });
+
+  it("opens directly on the manipulation while preserving saved challenge positions", async () => {
+    for (const { slug, steps } of await getDiscoveryLessons()) {
+      const opening = openingStepIndex(steps);
+      expect(steps[opening]?.interaction?.kind, slug).toMatch(/toggle|range/);
+      expect(visibleStepIndex(steps, 0), slug).toBe(opening);
+      for (const { id } of getCheckpoints(steps)) {
+        const saved = steps.findIndex((step) => step.id === id);
+        expect(visibleStepIndex(steps, saved), slug).toBe(saved);
+      }
+    }
   });
 
   it("rejects impossible answer keys, duplicated options and duplicated steps", async () => {

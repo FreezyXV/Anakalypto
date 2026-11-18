@@ -26,15 +26,14 @@ export default async function DiscoveryPage({ params }: Props) {
   const position = lessons.findIndex((lesson) => lesson.slug === slug);
   const lesson = lessons[position];
   if (!lesson) notFound();
-  const next = lessons[(position + 1) % lessons.length];
+  const following = [...lessons.slice(position + 1), ...lessons.slice(0, position)];
   return (
     <div className="discovery-page">
       <DiscoveryPlayer
         key={`${lesson.slug}-${lesson.version}`}
         lesson={lesson}
-        next={
-          next && next.slug !== lesson.slug ? { slug: next.slug, title: next.title } : undefined
-        }
+        following={following.map(({ slug, title, version }) => ({ slug, title, version }))}
+        initialNow={new Date().toISOString()}
       />
       <details className="discovery-sources">
         <summary>Sources et explications</summary>
@@ -58,7 +57,7 @@ export default async function DiscoveryPage({ params }: Props) {
           ))}
         </ul>
         <Link href={lesson.expandedPath} className="btn btn--ghost mt-5">
-          Lire la version approfondie
+          Approfondir
         </Link>
       </details>
     </div>
