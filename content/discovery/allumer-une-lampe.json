@@ -95,7 +95,7 @@
       },
       "interaction": {
         "kind": "choice",
-        "question": "Quel montage permet au courant de circuler ?",
+        "question": "Tu branches une petite lampe sur une pile. Quel trajet faut-il faire avec les fils pour qu’elle s’allume ?",
         "options": [
           {
             "id": "boucle",

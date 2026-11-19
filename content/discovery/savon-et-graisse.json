@@ -101,7 +101,7 @@
       },
       "interaction": {
         "kind": "choice",
-        "question": "Pourquoi le rinçage aide-t-il à enlever la graisse ?",
+        "question": "Tes mains sont grasses après avoir beurré un moule. Tu les savonnes puis tu les rinces. Qu’arrive-t-il à la graisse au rinçage ?",
         "options": [
           {
             "id": "disperser",

@@ -106,7 +106,7 @@
       },
       "interaction": {
         "kind": "choice",
-        "question": "Pourquoi les hémisphères nord et sud ont-ils des saisons opposées ?",
+        "question": "En janvier, c’est l’été en Australie et l’hiver en France. Comment expliques-tu ces saisons opposées ?",
         "options": [
           {
             "id": "option-1",

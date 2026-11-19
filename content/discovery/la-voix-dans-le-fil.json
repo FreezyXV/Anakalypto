@@ -100,7 +100,7 @@
       },
       "interaction": {
         "kind": "choice",
-        "question": "Que fait l'écouteur d'un téléphone fixe ?",
+        "question": "Les variations du courant arrivent au combiné d’un téléphone fixe. Que doit faire son écouteur pour que tu entendes la voix ?",
         "options": [
           {
             "id": "vibrer",

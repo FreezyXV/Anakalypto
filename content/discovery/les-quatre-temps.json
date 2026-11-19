@@ -120,7 +120,7 @@
       },
       "interaction": {
         "kind": "choice",
-        "question": "Comment le gazole s'enflamme-t-il dans un moteur diesel ?",
+        "question": "Dans un moteur diesel déjà chaud, le gazole s’enflamme sans étincelle lorsqu’il est injecté. Qu’est-ce qui l’enflamme ?",
         "options": [
           {
             "id": "chaleur",
