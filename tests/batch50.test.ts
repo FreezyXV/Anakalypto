@@ -1,3 +1,4 @@
+import { EVERYDAY_DIAGRAMS } from "../src/lib/lesson-visuals/everyday50";
 import { HORIZONS50_DIAGRAMS } from "../src/lib/lesson-visuals/horizons50";
 import { EXPLORATIONS50_DIAGRAMS } from "../src/lib/lesson-visuals/explorations50";
 import { SCIENCES30_DIAGRAMS } from "../src/lib/lesson-visuals/sciences30";
@@ -23,6 +24,7 @@ it("preserves all 153 previously delivered drawings in all three views", () => {
       ...SCIENCES30_DIAGRAMS,
       ...EXPLORATIONS50_DIAGRAMS,
       ...HORIZONS50_DIAGRAMS,
+      ...EVERYDAY_DIAGRAMS,
     ].map((s) => s.id),
   );
   const previous = LESSON_DIAGRAMS.filter((s) => !added.has(s.id));

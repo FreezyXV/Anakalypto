@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "c214132fe7a7a465596c7794167467f62bb8c5853ff4dec6329e4802609fb4fb",
+  "sourceDigest": "c24abdcb81b5dfa29638004dc6d8a8d705acb00457a8244ec4a4a4b166da7ad7",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -516,6 +516,33 @@
       "reviewedAt": "2026-11-14T21:33:49.547Z"
     },
     {
+      "path": "/arts-et-culture/arts-du-spectacle/musique/diapason-a440-norme-internationale",
+      "visualRefs": ["schema:pitchfork"],
+      "fingerprint": "de8251d3de071dd34ee8431323a04cc20c29372443f8d96f7d6b724a57ce6a67",
+      "contentHash": "b085ffa09589cb48cc7a9244b1e44d148aae14566fb9e0b22dd3c0ddf252cdf6",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:30.786Z"
+    },
+    {
+      "path": "/arts-et-culture/arts-du-spectacle/musique/gammes-et-temperament-egal",
+      "visualRefs": ["schema:twelvepart"],
+      "fingerprint": "82b0f49b29a7a351e2c426e23b8aed7ba7c40a5085ebc17b3beff400bac4b117",
+      "contentHash": "d99c4a70438f2731b94f5e02bdaa53bae01c52bbec40fdffc3e64ab5b2eb784a",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:30.793Z"
+    },
+    {
+      "path": "/arts-et-culture/arts-du-spectacle/musique/histoire-de-lenregistrement-sonore",
+      "visualRefs": ["schema:audiogroove"],
+      "fingerprint": "550884eb26fbf019193d4084a2eb85466a3339aa1e5d07c9701a4ed82d138268",
+      "contentHash": "1cfc29135369b6603929213d8bcec37d047a3d431f041f1921ed81de778ec39e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:30.797Z"
+    },
+    {
       "path": "/arts-et-culture/arts-du-spectacle/musique/pourquoi-deux-instruments-ne-sonnent-ils-pas-pareil-sur-la-meme-note",
       "visualRefs": ["schema:timbre"],
       "fingerprint": "51a843dbf4afc58314c1e336a1e1dc4b0b8624d419425767bffc2ead204daebd",
@@ -588,6 +615,15 @@
       "reviewedAt": "2026-11-14T21:33:46.780Z"
     },
     {
+      "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/comment-le-cinema-a-t-il-appris-a-parler",
+      "visualRefs": ["schema:syncsound"],
+      "fingerprint": "43c5fe0b1620c3f755b3b5996e9254db75a3bc9c6fb7e646dee847e0a55cbb73",
+      "contentHash": "a14f4aaeb5d096169dfb363dfcbfd6656986bd56714a578bdd4899f48578a48b",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:30.803Z"
+    },
+    {
       "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/comment-une-boite-percee-d-un-petit-trou-fabrique-t-elle-une-image",
       "visualRefs": ["schema:pinholebox"],
       "fingerprint": "f97de4c73a19ef10f1f1e5870f786d78eaa50da09e10b29ea11cd7af6326fc6e",
@@ -604,6 +640,15 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:50:53.366Z"
+    },
+    {
+      "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/comment-fabriquait-on-un-livre-enlumine-au-moyen-age",
+      "visualRefs": ["schema:manuscript"],
+      "fingerprint": "2bae1f5e9ce96965877d585b8d9d604b8ab21cbc053fb65813a6b86f50a8b207",
+      "contentHash": "52126821f2b5287ab7bab1c24689b346ea2e3122f47823f45cca1d5f66a0edae",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:30.766Z"
     },
     {
       "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/comment-les-egyptiens-fabriquaient-ils-des-feuilles-avec-une-plante",
@@ -642,6 +687,42 @@
       "reviewedAt": "2026-11-14T21:33:49.884Z"
     },
     {
+      "path": "/arts-et-culture/patrimoine/architecture/ordres-architecturaux-grecs",
+      "visualRefs": ["schema:capitals"],
+      "fingerprint": "0505e68116bce658137571883f2e4ed9c7c9a00cdccec5614d86e63b655e4106",
+      "contentHash": "b0ba55f09724003674e44bc50a10614fedad6093aab1ad0f2be70b18f6b1011e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:31.501Z"
+    },
+    {
+      "path": "/arts-et-culture/patrimoine/musees-et-conservation/conservation-preventive-et-restauration",
+      "visualRefs": ["schema:preservation"],
+      "fingerprint": "1be8231373b0b283eb44a07d975d8a345be5ead3cd4e5625da431ee96cfe6911",
+      "contentHash": "88c013cb553e6ed00dfb4ecd3592b178fe52d4116e3ed36dcfb52d7d036e6a4a",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:31.491Z"
+    },
+    {
+      "path": "/arts-et-culture/patrimoine/musees-et-conservation/pourquoi-fouille-t-on-avant-de-construire-une-route",
+      "visualRefs": ["schema:diglayers"],
+      "fingerprint": "8cf31497ee6f591222800de702b957e08867164c3755f23f0468c60025320650",
+      "contentHash": "66124370fc9713edf6b651f36a9bc7fd5755e0c9e1fd164bf2aa111a67a81e8e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:31.497Z"
+    },
+    {
+      "path": "/automobile/industrie-automobile/production/aerodynamique-automobile-trainee",
+      "visualRefs": ["schema:dragwake"],
+      "fingerprint": "9e2f94f64e20d4721a95a53b6df2e6aac6242641849373767ca74da9e5eee889",
+      "contentHash": "80dd54a29d0558689e67d04ec9e598784244f20304db796eb65a2ddc37a7f35e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:34.754Z"
+    },
+    {
       "path": "/automobile/motorisations/carburants-alternatifs/voiture-hydrogene-pile-combustible",
       "visualRefs": ["schema:fuelcellcar"],
       "fingerprint": "d1aa75db188a3189efa6c3bc92ec9d754678384437d923dd9afea467145933fb",
@@ -676,6 +757,15 @@
       "quality": "validee",
       "evidence": "docs/qa/explorations50/README.md",
       "reviewedAt": "2026-11-14T21:33:47.329Z"
+    },
+    {
+      "path": "/automobile/motorisations/motorisations-hybrides/comment-une-voiture-hybride-legere-aide-t-elle-son-moteur-a-essence",
+      "visualRefs": ["schema:mildhybrid"],
+      "fingerprint": "6b6f4b44a26d2be6e2de34fe38de3778460dd2fe32ffb736bd494c20c7a715d2",
+      "contentHash": "beedc41b63bedafd04f4682489733bf97917827f25165e7e4984339daec1ef05",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:34.822Z"
     },
     {
       "path": "/automobile/motorisations/thermique/alimentation-carburant-injection",
@@ -721,6 +811,15 @@
       "quality": "validee",
       "evidence": "docs/qa/explorations50/README.md",
       "reviewedAt": "2026-11-14T21:33:52.694Z"
+    },
+    {
+      "path": "/automobile/motorisations/thermique/filtre-particules-catalyseur",
+      "visualRefs": ["schema:exhaustclean"],
+      "fingerprint": "7cc10608f76667f88464f9c26b99f954642a0eb7fe7e0a25c5a1e7db3ba16dcc",
+      "contentHash": "e855234c046e90976c674155ab537279e45d6435751e1823ec212d72bd35bd8d",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:35.369Z"
     },
     {
       "path": "/automobile/motorisations/thermique/fonctionnement-boite-de-vitesses",
@@ -777,6 +876,24 @@
       "reviewedAt": "2026-11-14T21:33:47.494Z"
     },
     {
+      "path": "/automobile/securite-et-conduite/pneus-contact-route-adherence",
+      "visualRefs": ["schema:tyregrip"],
+      "fingerprint": "b8f517ef79f79cf837c39d9abd945adde62a76e8c7e4708e23646641fa450632",
+      "contentHash": "6afe047d99139248d16b67b36ee02f509712bd676b2c797224f0f32dafa9fef9",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:35.528Z"
+    },
+    {
+      "path": "/automobile/securite-et-conduite/securite-passive/comment-un-airbag-se-gonfle-t-il-plus-vite-qu-un-clin-d-oeil",
+      "visualRefs": ["schema:airbagsequence"],
+      "fingerprint": "ec84fa7b9771402f0bffea34666dadeff56c521ccdf94d9ebaf43103e0c62814",
+      "contentHash": "f89a7086130ea0c557ec78224b2cd31d42bb51c3e9c261eeb9f285ff33ce95b3",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:35.427Z"
+    },
+    {
       "path": "/automobile/securite-et-conduite/securite-passive/comment-une-ceinture-de-securite-se-bloque-t-elle-d-un-coup",
       "visualRefs": ["schema:beltreel"],
       "fingerprint": "ef0b50a8ad740570954cac38b0fb5f0c2db41f8a3bb481476da13b331142adb8",
@@ -784,6 +901,24 @@
       "quality": "validee",
       "evidence": "docs/qa/horizons50/README.md",
       "reviewedAt": "2026-11-15T11:22:11.802Z"
+    },
+    {
+      "path": "/automobile/securite-et-conduite/securite-passive/pourquoi-l-avant-d-une-voiture-est-il-fait-pour-s-ecraser",
+      "visualRefs": ["schema:crumplefront"],
+      "fingerprint": "f4a23da8cbb09e3f804e820c34cdf3ba2742f680c86336ac207a4c7b544d6c33",
+      "contentHash": "996237ae6fd382ba18a8420feba21df73cb80785e5aaf65d2452b4889164a917",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:35.503Z"
+    },
+    {
+      "path": "/automobile/securite-et-conduite/suspension-confort-tenue-de-route",
+      "visualRefs": ["schema:shocks"],
+      "fingerprint": "ff2329c078fa6f017563bfbd87d740e1a137de7b14a49019445bea86cbfacc05",
+      "contentHash": "c2aa7a3c88f2aebd3c7825aa6c9f2b399e6ec29f59445c017bda2cca9368cd86",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:35.605Z"
     },
     {
       "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/comment-les-freins-a-disque-arretent-ils-une-voiture",
@@ -1254,6 +1389,15 @@
       "reviewedAt": "2026-11-12T13:50:56.699Z"
     },
     {
+      "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/pourquoi-y-a-t-il-de-la-radioactivite-naturelle-tout-autour-de-nous",
+      "visualRefs": ["schema:backgroundrad"],
+      "fingerprint": "cf8d47041b5fc797a0154fefcbca028f10ac758d2cd3cc3f72edc3f2f1513900",
+      "contentHash": "7d987f879b0a4c057fa755b0a15d8efc2bae5527623c94340c6b505658e0166b",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:37.601Z"
+    },
+    {
       "path": "/energie/energies-renouvelables/eolien/comment-fonctionne-une-eolienne",
       "visualRefs": ["schema:wind"],
       "fingerprint": "1e096e7792cc2e891cba407ff084326d7167cc1d276a9795b9a2ac6957f6ec9a",
@@ -1279,6 +1423,15 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:50:56.943Z"
+    },
+    {
+      "path": "/energie/energies-renouvelables/geothermie-chaleur-de-la-terre",
+      "visualRefs": ["schema:geoloop"],
+      "fingerprint": "5313116d1083ecc6815505e8c57eab6fb29ecbcc65ef7d45da8d1be241be8efa",
+      "contentHash": "f8d3f1061337fdf43dcbed9f4ee396ea10e3772f959669b8f56e95e5bb09e6eb",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:37.567Z"
     },
     {
       "path": "/energie/energies-renouvelables/hydraulique/comment-un-barrage-transforme-t-il-l-eau-d-une-riviere-en-electricite",
@@ -1344,6 +1497,15 @@
       "reviewedAt": "2026-11-12T13:50:57.372Z"
     },
     {
+      "path": "/energie/energies-renouvelables/solaire/installation-solaire-autonome",
+      "visualRefs": ["schema:offgridsolar"],
+      "fingerprint": "59386b263de214c55af0ca37184b139b323ba16b54cb9bb2d442aaeb87b1f457",
+      "contentHash": "51039243a84b65e845977e8257d33fdf725f44c7d74fdb4b8a235e180d4c9ab9",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:37.629Z"
+    },
+    {
       "path": "/energie/energies-renouvelables/solaire/peut-on-produire-de-l-electricite-et-des-cultures-sur-le-meme-champ",
       "visualRefs": ["schema:agrivoltaic"],
       "fingerprint": "1a174cd75e689eb111c75fdbd796731a86c9836823b35a837aab525fd86e0fc6",
@@ -1369,6 +1531,15 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:50:57.630Z"
+    },
+    {
+      "path": "/energie/reseaux-et-stockage/batteries/batteries-sodium-ion",
+      "visualRefs": ["schema:sodiumcell"],
+      "fingerprint": "b5f0b85013b5728ad477334e22820a17ccabb4dd94b91fd69be904d89d55a0ed",
+      "contentHash": "3a2d3e2080adf1b821924c6d99a8835d701e4404e8629421c92132b5ea9198a3",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:37.605Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/batteries/comment-fonctionne-une-batterie-lithium-ion",
@@ -1515,6 +1686,15 @@
       "reviewedAt": "2026-11-14T21:33:48.123Z"
     },
     {
+      "path": "/environnement-et-climat/biodiversite/forets-et-oceans/comment-survivent-les-animaux-dans-les-profondeurs-sombres-de-l-ocean",
+      "visualRefs": ["schema:midnightsea"],
+      "fingerprint": "662996c72ac00045102bd45afbf109eb3dec7f1b3be9eb777faa52dab6b3c14b",
+      "contentHash": "a3dd7c75358d4cbbecc8768def41e6a81dfedd83e543a1fc6489e405f2c34133",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:33.247Z"
+    },
+    {
       "path": "/environnement-et-climat/biodiversite/forets-et-oceans/l-agroforesterie-combiner-arbres-et-cultures",
       "visualRefs": ["schema:agroforestrows"],
       "fingerprint": "6f8cf70042b626048db3c52f8ada2f9000eb30bd6d13ca95f6b37d6b1f6bfc51",
@@ -1531,6 +1711,15 @@
       "quality": "validee",
       "evidence": "docs/qa/explorations50/README.md",
       "reviewedAt": "2026-11-14T21:33:50.742Z"
+    },
+    {
+      "path": "/environnement-et-climat/biodiversite/forets-et-oceans/oceans-et-absorption-du-carbone",
+      "visualRefs": ["schema:seacarbon"],
+      "fingerprint": "6c548ed57414e87fc51e6596786f08ece8324e26dbd95495c8e9f36cc967bddd",
+      "contentHash": "a193d37d35dd7dc4570d7a34677109317e49569dbc2b448907d0104c26caeb9f",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:33.277Z"
     },
     {
       "path": "/environnement-et-climat/biodiversite/forets-et-oceans/pourquoi-l-acidification-des-oceans-menace-t-elle-les-recifs-coralliens",
@@ -1587,6 +1776,33 @@
       "reviewedAt": "2026-11-14T21:33:48.271Z"
     },
     {
+      "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/proteger-inondations",
+      "visualRefs": ["schema:floodspace"],
+      "fingerprint": "ce4c86f60d6406abbdcb19aad6ad396996a77293e898810ee859cbefd7c5b39f",
+      "contentHash": "6ff407e35c4a0dba947cc6426601ce97674916ecc6e769251b801d93f9681917",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:33.291Z"
+    },
+    {
+      "path": "/environnement-et-climat/changement-climatique/scenarios/changement-climatique-budget-carbone",
+      "visualRefs": ["schema:carbonbudget"],
+      "fingerprint": "a960118255a48dc566f8a4e20ef270dd87e16936985dbd405a2221de8a69ae80",
+      "contentHash": "3e85d347b81ed757372191fa235896f4ae1b8529a5e016ad95ecfd97e15f91d7",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:34.025Z"
+    },
+    {
+      "path": "/environnement-et-climat/changement-climatique/scenarios/pourquoi-la-meteo-et-le-climat-ne-sont-ils-pas-la-meme-chose",
+      "visualRefs": ["schema:climatewindow"],
+      "fingerprint": "214f03d745499831b21b595ee80579dc189266c756e26fe591b2e8570a6b0009",
+      "contentHash": "f9e25f23a1f16eb6546122b45333ea0a545b502134af051eb12359dbd54d4928",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:33.283Z"
+    },
+    {
       "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/comment-des-epluchures-se-transforment-elles-en-compost",
       "visualRefs": ["schema:compostlife"],
       "fingerprint": "6b14502b9da605814b02e4d2d6cf8209c8cfafbaac33faa1081be9ff31215744",
@@ -1612,6 +1828,15 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:50:59.016Z"
+    },
+    {
+      "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/dechets-et-limites-du-recyclage",
+      "visualRefs": ["schema:recyclesort"],
+      "fingerprint": "4824a2649883d8890ac1662bda036a656051786e2e5bf3a3d3de520614e7937b",
+      "contentHash": "50c48580402af912a5805804e2cef8d53701c511c98bf9a2ad0d06fa60965be5",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:33.994Z"
     },
     {
       "path": "/environnement-et-climat/pollution-et-ressources/eau/comment-se-forme-une-nappe-d-eau-sous-nos-pieds",
@@ -2001,6 +2226,24 @@
       "reviewedAt": "2026-11-12T13:51:02.964Z"
     },
     {
+      "path": "/geographie-et-territoires/geographie-humaine/demographie/comment-lit-on-une-pyramide-des-ages",
+      "visualRefs": ["schema:ages"],
+      "fingerprint": "9cafc8dba4e1edcdbb4506e2f07b36f2be12ac84081e7412d4fcf129370ec659",
+      "contentHash": "79563cb633665b45280299fa4ca4297fb9b58b1573324a70625897086694c2e5",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:31.515Z"
+    },
+    {
+      "path": "/geographie-et-territoires/geographie-humaine/demographie/la-transition-demographique-et-ses-differentes-etapes",
+      "visualRefs": ["schema:demographic"],
+      "fingerprint": "ef4ae27f9bca6422e68175df241a926e4e8308f45ee01c500e273722b55a5e57",
+      "contentHash": "2656212c280ab8c2f9d5727f143f27dad460ad6615b03c3d390a4a771b0978c0",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:31.512Z"
+    },
+    {
       "path": "/geographie-et-territoires/geographie-physique/climatologie/comment-nait-un-eclair-pendant-un-orage",
       "visualRefs": ["schema:stormcharges"],
       "fingerprint": "f7b4952cba41516eaaf60d27a5f4c85268937da78d27ce14dd1113aa0123d016",
@@ -2019,6 +2262,15 @@
       "reviewedAt": "2026-11-12T13:51:03.045Z"
     },
     {
+      "path": "/geographie-et-territoires/geographie-physique/climatologie/les-nuages-et-ce-qu-ils-annoncent",
+      "visualRefs": ["schema:cloudtypes"],
+      "fingerprint": "ac5c8ff28c3946b4f95c185e0ca5a7c5a92992205a4d6b123ed5c85d4c8d6c13",
+      "contentHash": "791cbeeaf0bb81bf444ae472bce27d688f290e611abd79233a29d1937249a9fe",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:32.542Z"
+    },
+    {
       "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-mousson-apporte-t-elle-des-pluies-torrentielles-en-inde-chaque-ete",
       "visualRefs": ["schema:monsoonwind"],
       "fingerprint": "06b7f5451e03d86566f196fc10da1934f3910a452a48a6bf4d528ae1f488a256",
@@ -2035,6 +2287,15 @@
       "quality": "validee",
       "evidence": "docs/qa/horizons50/README.md",
       "reviewedAt": "2026-11-15T11:22:12.425Z"
+    },
+    {
+      "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-terre-est-elle-decoupee-en-24-fuseaux-horaires",
+      "visualRefs": ["schema:timezone"],
+      "fingerprint": "bcef57c23a81a49cb303703a6e12a40fe87b13f24fbd64f7906ae996d4fcf1af",
+      "contentHash": "1f863e91e1ea8dece9458ad00b9ac18a9125ad8e81b568a97efe9342adedf772",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:32.609Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/hydrographie/comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre",
@@ -2064,6 +2325,15 @@
       "reviewedAt": "2026-11-14T21:33:51.092Z"
     },
     {
+      "path": "/geographie-et-territoires/geographie-physique/hydrographie/pourquoi-il-pleut-ici-et-pas-la",
+      "visualRefs": ["schema:rainshadow"],
+      "fingerprint": "edb16d858a1154a594f0134344622b0d45a04b7948dbe62939e6ef34d1131973",
+      "contentHash": "faf6a6901c3f98f9798b8f96f03781b3fe76ba779d8dc4550f819ad4f2ac7a88",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:32.621Z"
+    },
+    {
       "path": "/geographie-et-territoires/geographie-physique/reliefs/comment-les-terrasses-permettent-elles-de-cultiver-sur-une-montagne",
       "visualRefs": ["schema:terracefield"],
       "fingerprint": "8e2fb5ae92b7e52ce0a5c2674cd479cec05749598d6afe0f74d382c1bbdff65e",
@@ -2071,6 +2341,33 @@
       "quality": "validee",
       "evidence": "docs/qa/horizons50/README.md",
       "reviewedAt": "2026-11-15T11:22:12.489Z"
+    },
+    {
+      "path": "/geographie-et-territoires/geographie-physique/reliefs/formation-chaines-de-montagnes",
+      "visualRefs": ["schema:mountainfold"],
+      "fingerprint": "5d5636322de3bc95f832b3a5f6260cf632ddecb628d951075dce2340dfa59682",
+      "contentHash": "cac124c9b01302f054ceaaf2535eb6ff4b315adfac224a32510fa3e270f04125",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:32.616Z"
+    },
+    {
+      "path": "/geographie-et-territoires/geographie-physique/reliefs/lire-une-carte-topographique-principes-de-base",
+      "visualRefs": ["schema:contourmap"],
+      "fingerprint": "e6da3dd26eaedc3670f04de32fe9ce0ff916098eac1642eeb32248c1c699bccf",
+      "contentHash": "bf6726b13e2733d01194a52a1d5c3a4b61363c18cd105c3f87c3a76ad946ea85",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:32.603Z"
+    },
+    {
+      "path": "/geographie-et-territoires/geographie-physique/reliefs/pourquoi-le-groenland-parait-il-aussi-grand-que-l-afrique-sur-une-carte",
+      "visualRefs": ["schema:mercator"],
+      "fingerprint": "1ff70e58e9232697539853440336046fb3d9907ddb2a8b8348acc21681cfc831",
+      "contentHash": "2f42457611e8a62d842338763b4d424047d6d4ee1713ba9aadadce89db222571",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:33.229Z"
     },
     {
       "path": "/geographie-et-territoires/geopolitique/routes-et-detroits/comment-le-canal-de-panama-fait-il-passer-les-navires-d-un-ocean-a-l-autre",
@@ -2089,6 +2386,15 @@
       "quality": "validee",
       "evidence": "docs/qa/horizons50/README.md",
       "reviewedAt": "2026-11-15T11:22:12.565Z"
+    },
+    {
+      "path": "/industries/industrie-lourde/chimie-industrielle/comment-fabrique-t-on-un-panneau-solaire-en-silicium",
+      "visualRefs": ["schema:siliconpanel"],
+      "fingerprint": "58f14270cbd637bb900e0b5c633aca275021b8bc096757de20e0a8fea464249d",
+      "contentHash": "2f9bfa4410599d880cfe5bf4521bd445d7789db601e3b59a46c41875890549ec",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:34.107Z"
     },
     {
       "path": "/industries/industrie-lourde/chimie-industrielle/comment-le-bois-devient-il-une-feuille-de-papier",
@@ -2127,6 +2433,15 @@
       "reviewedAt": "2026-11-15T11:22:14.030Z"
     },
     {
+      "path": "/industries/industrie-lourde/siderurgie/forge-travail-fer",
+      "visualRefs": ["schema:anvilforge"],
+      "fingerprint": "9fc3b2091aaacf3cf59d117ce82958e623fda3398685269a9337cc797bd14c86",
+      "contentHash": "b8357a6129d58b80b1b5345e46cf5d4fafa0fc539f168dd86045fe8882397608",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:34.022Z"
+    },
+    {
       "path": "/industries/industrie-lourde/siderurgie/trempe-revenu",
       "visualRefs": ["schema:steeltemper"],
       "fingerprint": "6a678b2001264ef7bf73b3c51b739a172a3c42ed64653dd86cbedcc5fd89044c",
@@ -2145,6 +2460,15 @@
       "reviewedAt": "2026-11-15T11:22:12.626Z"
     },
     {
+      "path": "/industries/industrie-manufacturiere/chaine-logistique/comment-la-chaine-du-froid-garde-t-elle-les-aliments-frais-pendant-leur-voyage",
+      "visualRefs": ["schema:coldlogistics"],
+      "fingerprint": "67190407b9e8ff756172ecd134c3ff2c1eb9f37778081356ffd6428731a2f0a7",
+      "contentHash": "685e860c9820297f2ba835af232ecac71093764cf7a04d48fd95fb08c0f4fbfc",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:34.023Z"
+    },
+    {
       "path": "/industries/industrie-manufacturiere/chaine-logistique/comment-une-caisse-lit-elle-un-code-barres",
       "visualRefs": ["schema:barcode"],
       "fingerprint": "2f4d425de80dc66651e543ebf4fd972db21705696bae303ad5af975317f94a66",
@@ -2152,6 +2476,24 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:51:03.229Z"
+    },
+    {
+      "path": "/industries/industrie-manufacturiere/chaine-logistique/comment-une-simple-boite-en-acier-a-t-elle-change-la-facon-dont-voyagent-les-objets",
+      "visualRefs": ["schema:intermodal"],
+      "fingerprint": "b3250e8b6bf0df6a157dc548af6b2623c75f8c147cf39c6d9ed6ec22caba50e8",
+      "contentHash": "88cda2e5bb2338ccb8afc067c81d3ed00e85c4c8c39b8e6ea10aa2e64420529d",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:34.675Z"
+    },
+    {
+      "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/mesurer-avec-precision",
+      "visualRefs": ["schema:caliper"],
+      "fingerprint": "619352a900955c5480956ef06b506ef7f892d32619025ab9beabb5239dc1de68",
+      "contentHash": "903ca7fd5fe3f759cb307dc43edd126e77ca4641f61f8b5d4ef3aa0abcefba81",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:34.697Z"
     },
     {
       "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/pourquoi-les-pieces-interchangeables-ont-elles-change-la-fabrication-des-objets",
@@ -2224,6 +2566,15 @@
       "quality": "validee",
       "evidence": "docs/qa/lesson-visuals-batch50/README.md",
       "reviewedAt": "2026-11-12T08:39:13.450Z"
+    },
+    {
+      "path": "/industries/materiaux-et-procedes/mise-en-forme/soudage",
+      "visualRefs": ["schema:weldjoint"],
+      "fingerprint": "1d0a0cb487d5f6a15ff9362747aeb1319ffc6428a3cdba72e7aad6142841717c",
+      "contentHash": "ebf60d2a4046fa6f11136a3c4b244e90b08e822a5e5d59588bc366f03446258b",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:34.686Z"
     },
     {
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/apprentissage-par-renforcement-alphago",
@@ -3225,6 +3576,60 @@
       "reviewedAt": "2026-11-15T11:31:25.765Z"
     },
     {
+      "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs/pourquoi-au-rugby-fait-on-des-passes-vers-l-arriere",
+      "visualRefs": ["schema:rugbypass"],
+      "fingerprint": "3314807f5afa6d779da6c03e2d9658b3fe7b41ec5190ab21789b883af7326b31",
+      "contentHash": "79c88705008c0787f6c7af4a588e8f34c3cc5529d0d1bb029e928e2be31d838d",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:36.929Z"
+    },
+    {
+      "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/comment-joue-t-on-au-basket-en-fauteuil-roulant",
+      "visualRefs": ["schema:wheelchaircourt"],
+      "fingerprint": "9fed9c6fa1982bb734f460887554dfdc0298178f8e80ed142830f64e1c8af7ad",
+      "contentHash": "eed9a69209148c1c6dc08e6768a58ec27328d8285fd721086451d45bb2421c8a",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:36.973Z"
+    },
+    {
+      "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/comment-joue-t-on-au-goalball-sans-voir-le-ballon",
+      "visualRefs": ["schema:goalball"],
+      "fingerprint": "c7e341bdabad1fb245bc05874ad6b11d683d2db52e8ac7729a2b93b6d5417d94",
+      "contentHash": "9509f3c608a20d9a01a7cb2cfa891a0cd673fffcf693b7ec3eb528a6e3477a23",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:36.979Z"
+    },
+    {
+      "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/pourquoi-le-crawl-est-il-la-nage-la-plus-rapide",
+      "visualRefs": ["schema:crawl"],
+      "fingerprint": "1612e39201b86a990bb20b861a078474fbb4c3d8a83996448825a1ce7c4d612c",
+      "contentHash": "62f80e23f5f54b7b06672d8cd8f5f60234a036c7761b591308d412fe88df5305",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:36.972Z"
+    },
+    {
+      "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/pourquoi-transpire-t-on-autant-quand-on-fait-du-sport-sous-la-chaleur",
+      "visualRefs": ["schema:sweatcool"],
+      "fingerprint": "648f2278df63fa2f5d06bc1103cb036abfaa71e0dd1cfa0046fcc26f194a49dc",
+      "contentHash": "3b9def2f47ffd15b8e8e599cfdc658f48cbbf7f13d36100101e346b2a9a63c92",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:37.190Z"
+    },
+    {
+      "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/comment-un-materiau-peut-il-se-reparer-tout-seul-quand-il-se-fissure",
+      "visualRefs": ["schema:selfheal"],
+      "fingerprint": "2f4873e7827836b274f9f744b7efda1da86cd359a26571092cb9f58faed6add1",
+      "contentHash": "af0290b3d5b974311c90074e3ced6007bf80f58babbf19c1f555ef1dffcab583",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:35.995Z"
+    },
+    {
       "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/l-elasticite-et-la-plasticite-des-materiaux",
       "visualRefs": ["schema:elasticplastic"],
       "fingerprint": "35239494959e4eb944eb85d9b677e5cae762fbc2442bf11a34f8e7d96a9d4c36",
@@ -3277,6 +3682,15 @@
       "quality": "validee",
       "evidence": "docs/qa/lesson-visuals-batch50/README.md",
       "reviewedAt": "2026-11-12T08:39:13.938Z"
+    },
+    {
+      "path": "/technologies-et-ingenierie/genie-civil/materiaux/chaux-liant-millenaire",
+      "visualRefs": ["schema:limecycle"],
+      "fingerprint": "a8e9f0b2df59efadca24f21cad033532143620e3fc233c4c4c8202de22584220",
+      "contentHash": "b484c200eaee42e0130a3cb3a2612286add61d37de274a7666797e9754fc986b",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:36.163Z"
     },
     {
       "path": "/technologies-et-ingenierie/genie-civil/materiaux/comment-des-bacteries-des-capsules-ou-la-chaux-romaine-reparent-elles-les-fissures-du-beton",
@@ -3333,6 +3747,15 @@
       "reviewedAt": "2026-11-12T13:51:07.424Z"
     },
     {
+      "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/ponts-et-entretien-des-ouvrages",
+      "visualRefs": ["schema:bridgeinspection"],
+      "fingerprint": "7fce1478e0f2cd8aae11d6b5b61708c957c2cf917dedfd7a7580a1a75f32ccb9",
+      "contentHash": "80141aafd75b17f97c424fb803415b4b43131b3237068a358a74f654c978a016",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:36.179Z"
+    },
+    {
       "path": "/technologies-et-ingenierie/genie-civil/structures/arc-voute",
       "visualRefs": ["schema:arch"],
       "fingerprint": "00e63d3ccebc05d18ac82c422ae54f0b862823b4f856391e7c364f91c944031d",
@@ -3387,6 +3810,15 @@
       "reviewedAt": "2026-11-12T13:51:07.584Z"
     },
     {
+      "path": "/technologies-et-ingenierie/nanotechnologies/applications/comment-construit-on-des-structures-a-l-echelle-du-milliardieme-de-metre",
+      "visualRefs": ["schema:lithomask"],
+      "fingerprint": "06a44db79ab2ad7c2a1fc7ffcfe9e6ff49746976cdf1abc2433c462a660b8a93",
+      "contentHash": "54fa25a2083d9a15774006e527bcb350e9dc7b08edfcbd8a7d3319ee51fae587",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:36.223Z"
+    },
+    {
       "path": "/technologies-et-ingenierie/nanotechnologies/nanomateriaux/graphene-et-nanomateriaux",
       "visualRefs": ["schema:graphenelattice"],
       "fingerprint": "7b59068c8b076928c3c3fd6d0cee9ea4a6c608e0de63749b7702b88498b94620",
@@ -3394,6 +3826,15 @@
       "quality": "validee",
       "evidence": "docs/qa/sciences30/README.md",
       "reviewedAt": "2026-11-12T19:17:45.123Z"
+    },
+    {
+      "path": "/technologies-et-ingenierie/robotique/actionneurs/actionneurs-en-robotique",
+      "visualRefs": ["schema:actuatorarm"],
+      "fingerprint": "b7775ae64a984376f77cc1fcfdab0dce16e92f0458e8e8c6767bf6f4e80f4dc6",
+      "contentHash": "bcd8acd0175b11e225aa422440ea54539b4ba36e398d0f30fb140d18f3ae31ad",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:36.246Z"
     },
     {
       "path": "/technologies-et-ingenierie/robotique/actionneurs/comment-un-moteur-electrique-transforme-t-il-le-courant-en-mouvement",
@@ -3448,6 +3889,15 @@
       "quality": "validee",
       "evidence": "docs/qa/lesson-visuals-batch50/README.md",
       "reviewedAt": "2026-11-12T08:39:13.997Z"
+    },
+    {
+      "path": "/technologies-et-ingenierie/robotique/robots-mobiles/robots-mobiles-et-navigation",
+      "visualRefs": ["schema:mobilemapping"],
+      "fingerprint": "a5db838fd9b9dfde21d52e7313d9fd573d530de565d26f012a0c08933079a0f2",
+      "contentHash": "2df642c50e74d468ec7843c93ba4e009b70349480c1a41cb75a06edb5baa3d3d",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
+      "reviewedAt": "2026-11-19T09:10:36.598Z"
     }
   ],
   "inlineReviews": [

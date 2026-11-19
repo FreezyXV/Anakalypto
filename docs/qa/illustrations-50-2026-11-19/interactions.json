@@ -1,0 +1,3006 @@
+{
+  "320": [
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "pitchfork",
+      "overflow": 0,
+      "pressed": "2Compter les cycles",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "pitchfork",
+      "overflow": 0,
+      "pressed": "3Comparer les sons",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "pitchfork",
+      "overflow": 0,
+      "pressed": "1Faire vibrer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "twelvepart",
+      "overflow": 0,
+      "pressed": "2Découper",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "twelvepart",
+      "overflow": 0,
+      "pressed": "3Comparer les quintes",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "twelvepart",
+      "overflow": 0,
+      "pressed": "1Doubler",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "audiogroove",
+      "overflow": 0,
+      "pressed": "2Conserver",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "audiogroove",
+      "overflow": 0,
+      "pressed": "3Relire",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "audiogroove",
+      "overflow": 0,
+      "pressed": "1Graver",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "syncsound",
+      "overflow": 0,
+      "pressed": "2Retard",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "syncsound",
+      "overflow": 0,
+      "pressed": "3Sur la pellicule",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "syncsound",
+      "overflow": 0,
+      "pressed": "1Deux supports",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "manuscript",
+      "overflow": 0,
+      "pressed": "2Copier le texte",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "manuscript",
+      "overflow": 0,
+      "pressed": "3Enluminer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "manuscript",
+      "overflow": 0,
+      "pressed": "1Préparer la page",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "capitals",
+      "overflow": 0,
+      "pressed": "2Ionique",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "capitals",
+      "overflow": 0,
+      "pressed": "3Corinthien",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "capitals",
+      "overflow": 0,
+      "pressed": "1Dorique",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "preservation",
+      "overflow": 0,
+      "pressed": "2Réduire",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "preservation",
+      "overflow": 0,
+      "pressed": "3Alterner",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "preservation",
+      "overflow": 0,
+      "pressed": "1Exposer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "diglayers",
+      "overflow": 0,
+      "pressed": "2Relever",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "diglayers",
+      "overflow": 0,
+      "pressed": "3Conserver les traces",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "diglayers",
+      "overflow": 0,
+      "pressed": "1Sonder",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "ages",
+      "overflow": 0,
+      "pressed": "2Base large",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "ages",
+      "overflow": 0,
+      "pressed": "3Repérer un creux",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "ages",
+      "overflow": 0,
+      "pressed": "1Lire une tranche",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "demographic",
+      "overflow": 0,
+      "pressed": "2Les décès diminuent",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "demographic",
+      "overflow": 0,
+      "pressed": "3Les naissances diminuent",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "demographic",
+      "overflow": 0,
+      "pressed": "1Deux taux élevés",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "cloudtypes",
+      "overflow": 0,
+      "pressed": "2Cirrus",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "cloudtypes",
+      "overflow": 0,
+      "pressed": "3Cumulonimbus",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "cloudtypes",
+      "overflow": 0,
+      "pressed": "1Cumulus",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "timezone",
+      "overflow": 0,
+      "pressed": "2Tranches théoriques",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "timezone",
+      "overflow": 0,
+      "pressed": "3Heures civiles",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "timezone",
+      "overflow": 0,
+      "pressed": "1Midi solaire",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "rainshadow",
+      "overflow": 0,
+      "pressed": "2Descente subtropicale",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "rainshadow",
+      "overflow": 0,
+      "pressed": "3Retour en surface",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "rainshadow",
+      "overflow": 0,
+      "pressed": "1Montée humide",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "mountainfold",
+      "overflow": 0,
+      "pressed": "2Plisser et empiler",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "mountainfold",
+      "overflow": 0,
+      "pressed": "3Soulever et éroder",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "mountainfold",
+      "overflow": 0,
+      "pressed": "1Se rapprocher",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "contourmap",
+      "overflow": 0,
+      "pressed": "2Projeter sur la carte",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "contourmap",
+      "overflow": 0,
+      "pressed": "3Comparer les pentes",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "contourmap",
+      "overflow": 0,
+      "pressed": "1Couper à niveau",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "mercator",
+      "overflow": 0,
+      "pressed": "2Déplier la grille",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "mercator",
+      "overflow": 0,
+      "pressed": "3Comparer les surfaces",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "mercator",
+      "overflow": 0,
+      "pressed": "1Comparer sur le globe",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "midnightsea",
+      "overflow": 0,
+      "pressed": "2Produire de la lumière",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "midnightsea",
+      "overflow": 0,
+      "pressed": "3Recevoir de la nourriture",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "midnightsea",
+      "overflow": 0,
+      "pressed": "1Descendre",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "seacarbon",
+      "overflow": 0,
+      "pressed": "2Transporter",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "seacarbon",
+      "overflow": 0,
+      "pressed": "3Modifier l’eau",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "seacarbon",
+      "overflow": 0,
+      "pressed": "1Échanger",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "climatewindow",
+      "overflow": 0,
+      "pressed": "2De nombreux jours",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "climatewindow",
+      "overflow": 0,
+      "pressed": "3Comparer les périodes",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "climatewindow",
+      "overflow": 0,
+      "pressed": "1Aujourd’hui",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "floodspace",
+      "overflow": 0,
+      "pressed": "2Déborder",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "floodspace",
+      "overflow": 0,
+      "pressed": "3Préserver un espace",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "floodspace",
+      "overflow": 0,
+      "pressed": "1Dans son lit",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "recyclesort",
+      "overflow": 0,
+      "pressed": "2Des couches collées",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "recyclesort",
+      "overflow": 0,
+      "pressed": "3Trier puis traiter",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "recyclesort",
+      "overflow": 0,
+      "pressed": "1Un seul matériau",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "carbonbudget",
+      "overflow": 0,
+      "pressed": "2Réduire le rythme",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "carbonbudget",
+      "overflow": 0,
+      "pressed": "3Atteindre zéro net",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "carbonbudget",
+      "overflow": 0,
+      "pressed": "1Cumuler",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "siliconpanel",
+      "overflow": 0,
+      "pressed": "2Former la cellule",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "siliconpanel",
+      "overflow": 0,
+      "pressed": "3Assembler",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "siliconpanel",
+      "overflow": 0,
+      "pressed": "1Découper",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "anvilforge",
+      "overflow": 0,
+      "pressed": "2Frapper",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "anvilforge",
+      "overflow": 0,
+      "pressed": "3Comparer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "anvilforge",
+      "overflow": 0,
+      "pressed": "1Chauffer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "coldlogistics",
+      "overflow": 0,
+      "pressed": "2Suivre",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "coldlogistics",
+      "overflow": 0,
+      "pressed": "3Interpréter",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "coldlogistics",
+      "overflow": 0,
+      "pressed": "1Charger",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "intermodal",
+      "overflow": 0,
+      "pressed": "2Sur le rail",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "intermodal",
+      "overflow": 0,
+      "pressed": "3Sur la route",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "intermodal",
+      "overflow": 0,
+      "pressed": "1Au port",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "caliper",
+      "overflow": 0,
+      "pressed": "2Entre les becs",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "caliper",
+      "overflow": 0,
+      "pressed": "3Dans la tolérance",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "caliper",
+      "overflow": 0,
+      "pressed": "1Au zéro",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "weldjoint",
+      "overflow": 0,
+      "pressed": "2Un bain local",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "weldjoint",
+      "overflow": 0,
+      "pressed": "3Une liaison solide",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "weldjoint",
+      "overflow": 0,
+      "pressed": "1Un joint",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "dragwake",
+      "overflow": 0,
+      "pressed": "2Sillage",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "dragwake",
+      "overflow": 0,
+      "pressed": "3Vitesse × 2",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "dragwake",
+      "overflow": 0,
+      "pressed": "1Écoulement",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "mildhybrid",
+      "overflow": 0,
+      "pressed": "2Assister",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "mildhybrid",
+      "overflow": 0,
+      "pressed": "3Redémarrer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "mildhybrid",
+      "overflow": 0,
+      "pressed": "1Récupérer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "exhaustclean",
+      "overflow": 0,
+      "pressed": "2Transformer des gaz",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "exhaustclean",
+      "overflow": 0,
+      "pressed": "3Piéger les particules",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "exhaustclean",
+      "overflow": 0,
+      "pressed": "1Deux formes de pollution",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "tyregrip",
+      "overflow": 0,
+      "pressed": "2Évacuer l’eau",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "tyregrip",
+      "overflow": 0,
+      "pressed": "3Film d’eau",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "tyregrip",
+      "overflow": 0,
+      "pressed": "1Toucher",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "shocks",
+      "overflow": 0,
+      "pressed": "2Sur la bosse",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "shocks",
+      "overflow": 0,
+      "pressed": "3Après la bosse",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "shocks",
+      "overflow": 0,
+      "pressed": "1Au repos",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "airbagsequence",
+      "overflow": 0,
+      "pressed": "2Déployer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "airbagsequence",
+      "overflow": 0,
+      "pressed": "3Amortir",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "airbagsequence",
+      "overflow": 0,
+      "pressed": "1Détecter",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "crumplefront",
+      "overflow": 0,
+      "pressed": "2Plier",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "crumplefront",
+      "overflow": 0,
+      "pressed": "3Protéger l’espace",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "crumplefront",
+      "overflow": 0,
+      "pressed": "1Avant l’impact",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "selfheal",
+      "overflow": 0,
+      "pressed": "2Ouvrir au passage",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "selfheal",
+      "overflow": 0,
+      "pressed": "3Combler",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "selfheal",
+      "overflow": 0,
+      "pressed": "1Des capsules intactes",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "limecycle",
+      "overflow": 0,
+      "pressed": "2Hydrater",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "limecycle",
+      "overflow": 0,
+      "pressed": "3Reprendre du CO₂",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "limecycle",
+      "overflow": 0,
+      "pressed": "1Cuire",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "bridgeinspection",
+      "overflow": 0,
+      "pressed": "2Lire les indices",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "bridgeinspection",
+      "overflow": 0,
+      "pressed": "3Suivre puis intervenir",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "bridgeinspection",
+      "overflow": 0,
+      "pressed": "1Une voie pour l’eau",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "lithomask",
+      "overflow": 0,
+      "pressed": "2Exposer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "lithomask",
+      "overflow": 0,
+      "pressed": "3Transférer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "lithomask",
+      "overflow": 0,
+      "pressed": "1Coder dans un masque",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "actuatorarm",
+      "overflow": 0,
+      "pressed": "2Hydraulique",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "actuatorarm",
+      "overflow": 0,
+      "pressed": "3Pneumatique",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "actuatorarm",
+      "overflow": 0,
+      "pressed": "1Électrique",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "mobilemapping",
+      "overflow": 0,
+      "pressed": "2Avancer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "mobilemapping",
+      "overflow": 0,
+      "pressed": "3Recouper",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "mobilemapping",
+      "overflow": 0,
+      "pressed": "1Observer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "rugbypass",
+      "overflow": 0,
+      "pressed": "2Passer à la main",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "rugbypass",
+      "overflow": 0,
+      "pressed": "3Continuer l’attaque",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "rugbypass",
+      "overflow": 0,
+      "pressed": "1Courir",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "goalball",
+      "overflow": 0,
+      "pressed": "2Écouter",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "goalball",
+      "overflow": 0,
+      "pressed": "3Couvrir le but",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "goalball",
+      "overflow": 0,
+      "pressed": "1Se placer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "wheelchaircourt",
+      "overflow": 0,
+      "pressed": "2Deux poussées",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "wheelchaircourt",
+      "overflow": 0,
+      "pressed": "3Faire rebondir",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "wheelchaircourt",
+      "overflow": 0,
+      "pressed": "1Tenir et avancer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "crawl",
+      "overflow": 0,
+      "pressed": "2Revenir par l’air",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "crawl",
+      "overflow": 0,
+      "pressed": "3Alterner",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "crawl",
+      "overflow": 0,
+      "pressed": "1Prendre appui",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "sweatcool",
+      "overflow": 0,
+      "pressed": "2Passer en vapeur",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "sweatcool",
+      "overflow": 0,
+      "pressed": "3Quand l’air est humide",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "sweatcool",
+      "overflow": 0,
+      "pressed": "1Une goutte sur la peau",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "geoloop",
+      "overflow": 0,
+      "pressed": "2Pour un quartier",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "geoloop",
+      "overflow": 0,
+      "pressed": "3Pour produire du courant",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "geoloop",
+      "overflow": 0,
+      "pressed": "1Sous une maison",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "offgridsolar",
+      "overflow": 0,
+      "pressed": "2Mettre de côté",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "offgridsolar",
+      "overflow": 0,
+      "pressed": "3Restituer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "offgridsolar",
+      "overflow": 0,
+      "pressed": "1Produire",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "sodiumcell",
+      "overflow": 0,
+      "pressed": "2Charger",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "sodiumcell",
+      "overflow": 0,
+      "pressed": "3Décharger",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "sodiumcell",
+      "overflow": 0,
+      "pressed": "1Séparer",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 12.55,
+      "id": "backgroundrad",
+      "overflow": 0,
+      "pressed": "2Depuis le sol",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 12.55,
+      "id": "backgroundrad",
+      "overflow": 0,
+      "pressed": "3Dans le corps",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 12.55,
+      "id": "backgroundrad",
+      "overflow": 0,
+      "pressed": "1Depuis le ciel",
+      "svg": 251,
+      "viewport": 320,
+      "visible": 1
+    }
+  ],
+  "1280": [
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "pitchfork",
+      "overflow": 0,
+      "pressed": "2Compter les cycles",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "pitchfork",
+      "overflow": 0,
+      "pressed": "3Comparer les sons",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "pitchfork",
+      "overflow": 0,
+      "pressed": "1Faire vibrer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "twelvepart",
+      "overflow": 0,
+      "pressed": "2Découper",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "twelvepart",
+      "overflow": 0,
+      "pressed": "3Comparer les quintes",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "twelvepart",
+      "overflow": 0,
+      "pressed": "1Doubler",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "audiogroove",
+      "overflow": 0,
+      "pressed": "2Conserver",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "audiogroove",
+      "overflow": 0,
+      "pressed": "3Relire",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "audiogroove",
+      "overflow": 0,
+      "pressed": "1Graver",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "syncsound",
+      "overflow": 0,
+      "pressed": "2Retard",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "syncsound",
+      "overflow": 0,
+      "pressed": "3Sur la pellicule",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "syncsound",
+      "overflow": 0,
+      "pressed": "1Deux supports",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "manuscript",
+      "overflow": 0,
+      "pressed": "2Copier le texte",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "manuscript",
+      "overflow": 0,
+      "pressed": "3Enluminer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "manuscript",
+      "overflow": 0,
+      "pressed": "1Préparer la page",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "capitals",
+      "overflow": 0,
+      "pressed": "2Ionique",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "capitals",
+      "overflow": 0,
+      "pressed": "3Corinthien",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "capitals",
+      "overflow": 0,
+      "pressed": "1Dorique",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "preservation",
+      "overflow": 0,
+      "pressed": "2Réduire",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "preservation",
+      "overflow": 0,
+      "pressed": "3Alterner",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "preservation",
+      "overflow": 0,
+      "pressed": "1Exposer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "diglayers",
+      "overflow": 0,
+      "pressed": "2Relever",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "diglayers",
+      "overflow": 0,
+      "pressed": "3Conserver les traces",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "diglayers",
+      "overflow": 0,
+      "pressed": "1Sonder",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "ages",
+      "overflow": 0,
+      "pressed": "2Base large",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "ages",
+      "overflow": 0,
+      "pressed": "3Repérer un creux",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "ages",
+      "overflow": 0,
+      "pressed": "1Lire une tranche",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "demographic",
+      "overflow": 0,
+      "pressed": "2Les décès diminuent",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "demographic",
+      "overflow": 0,
+      "pressed": "3Les naissances diminuent",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "demographic",
+      "overflow": 0,
+      "pressed": "1Deux taux élevés",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "cloudtypes",
+      "overflow": 0,
+      "pressed": "2Cirrus",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "cloudtypes",
+      "overflow": 0,
+      "pressed": "3Cumulonimbus",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "cloudtypes",
+      "overflow": 0,
+      "pressed": "1Cumulus",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "timezone",
+      "overflow": 0,
+      "pressed": "2Tranches théoriques",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "timezone",
+      "overflow": 0,
+      "pressed": "3Heures civiles",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "timezone",
+      "overflow": 0,
+      "pressed": "1Midi solaire",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "rainshadow",
+      "overflow": 0,
+      "pressed": "2Descente subtropicale",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "rainshadow",
+      "overflow": 0,
+      "pressed": "3Retour en surface",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "rainshadow",
+      "overflow": 0,
+      "pressed": "1Montée humide",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "mountainfold",
+      "overflow": 0,
+      "pressed": "2Plisser et empiler",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "mountainfold",
+      "overflow": 0,
+      "pressed": "3Soulever et éroder",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "mountainfold",
+      "overflow": 0,
+      "pressed": "1Se rapprocher",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "contourmap",
+      "overflow": 0,
+      "pressed": "2Projeter sur la carte",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "contourmap",
+      "overflow": 0,
+      "pressed": "3Comparer les pentes",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "contourmap",
+      "overflow": 0,
+      "pressed": "1Couper à niveau",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "mercator",
+      "overflow": 0,
+      "pressed": "2Déplier la grille",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "mercator",
+      "overflow": 0,
+      "pressed": "3Comparer les surfaces",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "mercator",
+      "overflow": 0,
+      "pressed": "1Comparer sur le globe",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "midnightsea",
+      "overflow": 0,
+      "pressed": "2Produire de la lumière",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "midnightsea",
+      "overflow": 0,
+      "pressed": "3Recevoir de la nourriture",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "midnightsea",
+      "overflow": 0,
+      "pressed": "1Descendre",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "seacarbon",
+      "overflow": 0,
+      "pressed": "2Transporter",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "seacarbon",
+      "overflow": 0,
+      "pressed": "3Modifier l’eau",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "seacarbon",
+      "overflow": 0,
+      "pressed": "1Échanger",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "climatewindow",
+      "overflow": 0,
+      "pressed": "2De nombreux jours",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "climatewindow",
+      "overflow": 0,
+      "pressed": "3Comparer les périodes",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "climatewindow",
+      "overflow": 0,
+      "pressed": "1Aujourd’hui",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "floodspace",
+      "overflow": 0,
+      "pressed": "2Déborder",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "floodspace",
+      "overflow": 0,
+      "pressed": "3Préserver un espace",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "floodspace",
+      "overflow": 0,
+      "pressed": "1Dans son lit",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "recyclesort",
+      "overflow": 0,
+      "pressed": "2Des couches collées",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "recyclesort",
+      "overflow": 0,
+      "pressed": "3Trier puis traiter",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "recyclesort",
+      "overflow": 0,
+      "pressed": "1Un seul matériau",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "carbonbudget",
+      "overflow": 0,
+      "pressed": "2Réduire le rythme",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "carbonbudget",
+      "overflow": 0,
+      "pressed": "3Atteindre zéro net",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "carbonbudget",
+      "overflow": 0,
+      "pressed": "1Cumuler",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "siliconpanel",
+      "overflow": 0,
+      "pressed": "2Former la cellule",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "siliconpanel",
+      "overflow": 0,
+      "pressed": "3Assembler",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "siliconpanel",
+      "overflow": 0,
+      "pressed": "1Découper",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "anvilforge",
+      "overflow": 0,
+      "pressed": "2Frapper",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "anvilforge",
+      "overflow": 0,
+      "pressed": "3Comparer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "anvilforge",
+      "overflow": 0,
+      "pressed": "1Chauffer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "coldlogistics",
+      "overflow": 0,
+      "pressed": "2Suivre",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "coldlogistics",
+      "overflow": 0,
+      "pressed": "3Interpréter",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "coldlogistics",
+      "overflow": 0,
+      "pressed": "1Charger",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "intermodal",
+      "overflow": 0,
+      "pressed": "2Sur le rail",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "intermodal",
+      "overflow": 0,
+      "pressed": "3Sur la route",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "intermodal",
+      "overflow": 0,
+      "pressed": "1Au port",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "caliper",
+      "overflow": 0,
+      "pressed": "2Entre les becs",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "caliper",
+      "overflow": 0,
+      "pressed": "3Dans la tolérance",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "caliper",
+      "overflow": 0,
+      "pressed": "1Au zéro",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "weldjoint",
+      "overflow": 0,
+      "pressed": "2Un bain local",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "weldjoint",
+      "overflow": 0,
+      "pressed": "3Une liaison solide",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "weldjoint",
+      "overflow": 0,
+      "pressed": "1Un joint",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "dragwake",
+      "overflow": 0,
+      "pressed": "2Sillage",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "dragwake",
+      "overflow": 0,
+      "pressed": "3Vitesse × 2",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "dragwake",
+      "overflow": 0,
+      "pressed": "1Écoulement",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "mildhybrid",
+      "overflow": 0,
+      "pressed": "2Assister",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "mildhybrid",
+      "overflow": 0,
+      "pressed": "3Redémarrer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "mildhybrid",
+      "overflow": 0,
+      "pressed": "1Récupérer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "exhaustclean",
+      "overflow": 0,
+      "pressed": "2Transformer des gaz",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "exhaustclean",
+      "overflow": 0,
+      "pressed": "3Piéger les particules",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "exhaustclean",
+      "overflow": 0,
+      "pressed": "1Deux formes de pollution",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "tyregrip",
+      "overflow": 0,
+      "pressed": "2Évacuer l’eau",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "tyregrip",
+      "overflow": 0,
+      "pressed": "3Film d’eau",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "tyregrip",
+      "overflow": 0,
+      "pressed": "1Toucher",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "shocks",
+      "overflow": 0,
+      "pressed": "2Sur la bosse",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "shocks",
+      "overflow": 0,
+      "pressed": "3Après la bosse",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "shocks",
+      "overflow": 0,
+      "pressed": "1Au repos",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "airbagsequence",
+      "overflow": 0,
+      "pressed": "2Déployer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "airbagsequence",
+      "overflow": 0,
+      "pressed": "3Amortir",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "airbagsequence",
+      "overflow": 0,
+      "pressed": "1Détecter",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "crumplefront",
+      "overflow": 0,
+      "pressed": "2Plier",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "crumplefront",
+      "overflow": 0,
+      "pressed": "3Protéger l’espace",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "crumplefront",
+      "overflow": 0,
+      "pressed": "1Avant l’impact",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "selfheal",
+      "overflow": 0,
+      "pressed": "2Ouvrir au passage",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "selfheal",
+      "overflow": 0,
+      "pressed": "3Combler",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "selfheal",
+      "overflow": 0,
+      "pressed": "1Des capsules intactes",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "limecycle",
+      "overflow": 0,
+      "pressed": "2Hydrater",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "limecycle",
+      "overflow": 0,
+      "pressed": "3Reprendre du CO₂",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "limecycle",
+      "overflow": 0,
+      "pressed": "1Cuire",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "bridgeinspection",
+      "overflow": 0,
+      "pressed": "2Lire les indices",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "bridgeinspection",
+      "overflow": 0,
+      "pressed": "3Suivre puis intervenir",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "bridgeinspection",
+      "overflow": 0,
+      "pressed": "1Une voie pour l’eau",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "lithomask",
+      "overflow": 0,
+      "pressed": "2Exposer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "lithomask",
+      "overflow": 0,
+      "pressed": "3Transférer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "lithomask",
+      "overflow": 0,
+      "pressed": "1Coder dans un masque",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "actuatorarm",
+      "overflow": 0,
+      "pressed": "2Hydraulique",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "actuatorarm",
+      "overflow": 0,
+      "pressed": "3Pneumatique",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "actuatorarm",
+      "overflow": 0,
+      "pressed": "1Électrique",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "mobilemapping",
+      "overflow": 0,
+      "pressed": "2Avancer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "mobilemapping",
+      "overflow": 0,
+      "pressed": "3Recouper",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "mobilemapping",
+      "overflow": 0,
+      "pressed": "1Observer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "rugbypass",
+      "overflow": 0,
+      "pressed": "2Passer à la main",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "rugbypass",
+      "overflow": 0,
+      "pressed": "3Continuer l’attaque",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "rugbypass",
+      "overflow": 0,
+      "pressed": "1Courir",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "goalball",
+      "overflow": 0,
+      "pressed": "2Écouter",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "goalball",
+      "overflow": 0,
+      "pressed": "3Couvrir le but",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "goalball",
+      "overflow": 0,
+      "pressed": "1Se placer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "wheelchaircourt",
+      "overflow": 0,
+      "pressed": "2Deux poussées",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "wheelchaircourt",
+      "overflow": 0,
+      "pressed": "3Faire rebondir",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "wheelchaircourt",
+      "overflow": 0,
+      "pressed": "1Tenir et avancer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "crawl",
+      "overflow": 0,
+      "pressed": "2Revenir par l’air",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "crawl",
+      "overflow": 0,
+      "pressed": "3Alterner",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "crawl",
+      "overflow": 0,
+      "pressed": "1Prendre appui",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "sweatcool",
+      "overflow": 0,
+      "pressed": "2Passer en vapeur",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "sweatcool",
+      "overflow": 0,
+      "pressed": "3Quand l’air est humide",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "sweatcool",
+      "overflow": 0,
+      "pressed": "1Une goutte sur la peau",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "geoloop",
+      "overflow": 0,
+      "pressed": "2Pour un quartier",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "geoloop",
+      "overflow": 0,
+      "pressed": "3Pour produire du courant",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "geoloop",
+      "overflow": 0,
+      "pressed": "1Sous une maison",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "offgridsolar",
+      "overflow": 0,
+      "pressed": "2Mettre de côté",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "offgridsolar",
+      "overflow": 0,
+      "pressed": "3Restituer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "offgridsolar",
+      "overflow": 0,
+      "pressed": "1Produire",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "sodiumcell",
+      "overflow": 0,
+      "pressed": "2Charger",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "sodiumcell",
+      "overflow": 0,
+      "pressed": "3Décharger",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "sodiumcell",
+      "overflow": 0,
+      "pressed": "1Séparer",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 1,
+      "graphicText": 30.726171875,
+      "id": "backgroundrad",
+      "overflow": 0,
+      "pressed": "2Depuis le sol",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 2,
+      "graphicText": 30.726171875,
+      "id": "backgroundrad",
+      "overflow": 0,
+      "pressed": "3Dans le corps",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    },
+    {
+      "frame": 0,
+      "graphicText": 30.726171875,
+      "id": "backgroundrad",
+      "overflow": 0,
+      "pressed": "1Depuis le ciel",
+      "svg": 614.5234375,
+      "viewport": 1280,
+      "visible": 1
+    }
+  ]
+}

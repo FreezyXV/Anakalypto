@@ -1,0 +1,2542 @@
+[
+  {
+    "viewport": 1280,
+    "lot": 1,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "pitchfork",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "pitchfork",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "pitchfork",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "twelvepart",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "twelvepart",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "twelvepart",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "audiogroove",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "audiogroove",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "audiogroove",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "syncsound",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "syncsound",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "syncsound",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "manuscript",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "manuscript",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "manuscript",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      }
+    ]
+  },
+  {
+    "viewport": 1280,
+    "lot": 2,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "capitals",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "capitals",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "capitals",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "preservation",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "preservation",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "preservation",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "diglayers",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "diglayers",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "diglayers",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "ages",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "ages",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "ages",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "demographic",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "demographic",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "demographic",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      }
+    ]
+  },
+  {
+    "viewport": 1280,
+    "lot": 3,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "cloudtypes",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "cloudtypes",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "cloudtypes",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "timezone",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "timezone",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "timezone",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "rainshadow",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "rainshadow",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "rainshadow",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "mountainfold",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "mountainfold",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "mountainfold",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "contourmap",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "contourmap",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "contourmap",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      }
+    ]
+  },
+  {
+    "viewport": 1280,
+    "lot": 4,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "mercator",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "mercator",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "mercator",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "midnightsea",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "midnightsea",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "midnightsea",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "seacarbon",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "seacarbon",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "seacarbon",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "climatewindow",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "climatewindow",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "climatewindow",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "floodspace",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "floodspace",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "floodspace",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      }
+    ]
+  },
+  {
+    "viewport": 1280,
+    "lot": 5,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "recyclesort",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "recyclesort",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "recyclesort",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "carbonbudget",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "carbonbudget",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "carbonbudget",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "siliconpanel",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "siliconpanel",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "siliconpanel",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "anvilforge",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "anvilforge",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "anvilforge",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "coldlogistics",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "coldlogistics",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "coldlogistics",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      }
+    ]
+  },
+  {
+    "viewport": 1280,
+    "lot": 6,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "intermodal",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "intermodal",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "intermodal",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "caliper",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "caliper",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "caliper",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "weldjoint",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "weldjoint",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "weldjoint",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "dragwake",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "dragwake",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "dragwake",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "mildhybrid",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "mildhybrid",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "mildhybrid",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      }
+    ]
+  },
+  {
+    "viewport": 1280,
+    "lot": 7,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "exhaustclean",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "exhaustclean",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "exhaustclean",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "tyregrip",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "tyregrip",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "tyregrip",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "shocks",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "shocks",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "shocks",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "airbagsequence",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "airbagsequence",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "airbagsequence",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "crumplefront",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "crumplefront",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "crumplefront",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      }
+    ]
+  },
+  {
+    "viewport": 1280,
+    "lot": 8,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "selfheal",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "selfheal",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "selfheal",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "limecycle",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "limecycle",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "limecycle",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "bridgeinspection",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "bridgeinspection",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "bridgeinspection",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "lithomask",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "lithomask",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "lithomask",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "actuatorarm",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "actuatorarm",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "actuatorarm",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      }
+    ]
+  },
+  {
+    "viewport": 1280,
+    "lot": 9,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "mobilemapping",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "mobilemapping",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "mobilemapping",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "rugbypass",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "rugbypass",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "rugbypass",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "goalball",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "goalball",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "goalball",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "wheelchaircourt",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "wheelchaircourt",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "wheelchaircourt",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "crawl",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "crawl",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "crawl",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      }
+    ]
+  },
+  {
+    "viewport": 1280,
+    "lot": 10,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "sweatcool",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "sweatcool",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "sweatcool",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "geoloop",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "geoloop",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "geoloop",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "offgridsolar",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "offgridsolar",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "offgridsolar",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "sodiumcell",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "sodiumcell",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "sodiumcell",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "backgroundrad",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 0,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "backgroundrad",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 1,
+        "width": 324.6640625
+      },
+      {
+        "clipped": [],
+        "id": "backgroundrad",
+        "minimumText": 16.233203125,
+        "overlap": [],
+        "step": 2,
+        "width": 324.6640625
+      }
+    ]
+  },
+  {
+    "viewport": 320,
+    "lot": 1,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "pitchfork",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "pitchfork",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "pitchfork",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "twelvepart",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "twelvepart",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "twelvepart",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "audiogroove",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "audiogroove",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "audiogroove",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "syncsound",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "syncsound",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "syncsound",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "manuscript",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "manuscript",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "manuscript",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      }
+    ]
+  },
+  {
+    "viewport": 320,
+    "lot": 2,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "capitals",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "capitals",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "capitals",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "preservation",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "preservation",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "preservation",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "diglayers",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "diglayers",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "diglayers",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "ages",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "ages",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "ages",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "demographic",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "demographic",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "demographic",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      }
+    ]
+  },
+  {
+    "viewport": 320,
+    "lot": 3,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "cloudtypes",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "cloudtypes",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "cloudtypes",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "timezone",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "timezone",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "timezone",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "rainshadow",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "rainshadow",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "rainshadow",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "mountainfold",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "mountainfold",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "mountainfold",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "contourmap",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "contourmap",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "contourmap",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      }
+    ]
+  },
+  {
+    "viewport": 320,
+    "lot": 4,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "mercator",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "mercator",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "mercator",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "midnightsea",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "midnightsea",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "midnightsea",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "seacarbon",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "seacarbon",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "seacarbon",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "climatewindow",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "climatewindow",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "climatewindow",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "floodspace",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "floodspace",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "floodspace",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      }
+    ]
+  },
+  {
+    "viewport": 320,
+    "lot": 5,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "recyclesort",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "recyclesort",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "recyclesort",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "carbonbudget",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "carbonbudget",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "carbonbudget",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "siliconpanel",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "siliconpanel",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "siliconpanel",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "anvilforge",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "anvilforge",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "anvilforge",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "coldlogistics",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "coldlogistics",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "coldlogistics",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      }
+    ]
+  },
+  {
+    "viewport": 320,
+    "lot": 6,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "intermodal",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "intermodal",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "intermodal",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "caliper",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "caliper",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "caliper",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "weldjoint",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "weldjoint",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "weldjoint",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "dragwake",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "dragwake",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "dragwake",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "mildhybrid",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "mildhybrid",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "mildhybrid",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      }
+    ]
+  },
+  {
+    "viewport": 320,
+    "lot": 7,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "exhaustclean",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "exhaustclean",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "exhaustclean",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "tyregrip",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "tyregrip",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "tyregrip",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "shocks",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "shocks",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "shocks",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "airbagsequence",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "airbagsequence",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "airbagsequence",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "crumplefront",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "crumplefront",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "crumplefront",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      }
+    ]
+  },
+  {
+    "viewport": 320,
+    "lot": 8,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "selfheal",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "selfheal",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "selfheal",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "limecycle",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "limecycle",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "limecycle",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "bridgeinspection",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "bridgeinspection",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "bridgeinspection",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "lithomask",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "lithomask",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "lithomask",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "actuatorarm",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "actuatorarm",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "actuatorarm",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      }
+    ]
+  },
+  {
+    "viewport": 320,
+    "lot": 9,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "mobilemapping",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "mobilemapping",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "mobilemapping",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "rugbypass",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "rugbypass",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "rugbypass",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "goalball",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "goalball",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "goalball",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "wheelchaircourt",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "wheelchaircourt",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "wheelchaircourt",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "crawl",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "crawl",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "crawl",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      }
+    ]
+  },
+  {
+    "viewport": 320,
+    "lot": 10,
+    "overflow": 0,
+    "frames": [
+      {
+        "clipped": [],
+        "id": "sweatcool",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "sweatcool",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "sweatcool",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "geoloop",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "geoloop",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "geoloop",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "offgridsolar",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "offgridsolar",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "offgridsolar",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "sodiumcell",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "sodiumcell",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "sodiumcell",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "backgroundrad",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 0,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "backgroundrad",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 1,
+        "width": 254
+      },
+      {
+        "clipped": [],
+        "id": "backgroundrad",
+        "minimumText": 12.7,
+        "overlap": [],
+        "step": 2,
+        "width": 254
+      }
+    ]
+  }
+]

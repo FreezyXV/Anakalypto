@@ -1,3 +1,4 @@
+import { EverydayDrawing } from "./EverydayDrawing";
 import { TelecomHorizonsDrawing } from "./TelecomHorizonsDrawings";
 import { AutoHorizonsDrawing } from "./AutoHorizonsDrawings";
 import { GeographyHorizonsDrawing } from "./GeographyHorizonsDrawings";
@@ -151,6 +152,7 @@ export function LessonDiagramCanvas({
         <AIContextDrawing {...props} />
         <AISocietyDrawing {...props} />
         <LearningProcessDrawing {...props} />
+        <EverydayDrawing {...props} />
       </svg>
       {!decorative && <figcaption>{(spec.steps[frame] ?? spec.steps[0]).caption}</figcaption>}
     </figure>
