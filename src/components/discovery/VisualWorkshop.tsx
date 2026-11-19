@@ -46,7 +46,7 @@ export function VisualWorkshop({
           <p>{objective}</p>
         </div>
         <Link href={`/decouvrir/${slug}`} className="btn btn--ghost">
-          Essayer les défis →
+          Jouer →
         </Link>
       </header>
 

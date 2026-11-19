@@ -109,7 +109,7 @@
       },
       "interaction": {
         "kind": "choice",
-        "question": "Quelle est la cause des phases ordinaires de la Lune ?",
+        "question": "Un soir, la Lune est en croissant. Quelques jours plus tard, tu en vois une plus grande partie éclairée. Qu’est-ce qui a changé ?",
         "options": [
           {
             "id": "option-2",

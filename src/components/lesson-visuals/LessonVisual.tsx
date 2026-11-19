@@ -10,7 +10,7 @@ export function LessonDiagramPoster({ spec }: { spec: LessonDiagramSpec }) {
       <p className={styles.posterTitle}>{spec.title}</p>
       <LessonDiagramCanvas spec={spec} step={lessonPosterFrame(spec)} />
       <a href="#schema-lecon" className="btn btn--ghost mt-3">
-        Explorer le schéma →
+        Voir en images →
       </a>
     </div>
   );

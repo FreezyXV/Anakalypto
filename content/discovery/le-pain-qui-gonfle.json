@@ -108,7 +108,7 @@
       },
       "interaction": {
         "kind": "choice",
-        "question": "D'où vient le petit goût acide du pain au levain ?",
+        "question": "Tu fais deux pains avec la même farine, l’un à la levure boulangère, l’autre au levain. D’où vient le goût plus acide du second ?",
         "options": [
           {
             "id": "bacteries",

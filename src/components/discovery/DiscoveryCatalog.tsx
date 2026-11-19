@@ -1,22 +1,14 @@
 "use client";
 
+import { frenchSpacing } from "@/lib/typography";
 import Link from "next/link";
 import { useState } from "react";
 import { useDiscoveryProgress } from "@/lib/discovery/progress";
 import { recommendDiscovery } from "@/lib/discovery/recommendation";
 import { useDiscoveryNow } from "@/lib/discovery/useNow";
-import type { DiscoveryStep } from "@/lib/discovery/schema";
+import type { DiscoveryCard } from "@/lib/discovery/cards";
 import { DiscoveryPreview } from "./DiscoveryVisual";
-
-export type DiscoveryCard = {
-  slug: string;
-  version: number;
-  title: string;
-  summary: string;
-  domain: string;
-  minutes: number;
-  visual: DiscoveryStep["visual"];
-};
+import { DiscoveryLaunch } from "./DiscoveryLaunch";
 
 export function DiscoveryCatalog({
   lessons,
@@ -34,11 +26,6 @@ export function DiscoveryCatalog({
     session: progress[lesson.slug]?.version === lesson.version ? progress[lesson.slug] : undefined,
   }));
   const recommendation = recommendDiscovery(lessons, progress, now);
-  const resume =
-    recommendation?.kind === "resume"
-      ? sessions.find(({ lesson }) => lesson.slug === recommendation.lesson.slug)
-      : undefined;
-  const reviewing = recommendation?.kind === "review" || recommendation?.kind === "practice";
   const completed = sessions.filter(({ session }) => session?.completed).length;
   const due = sessions.filter(
     ({ session }) => session?.completed && session.reviewAt && session.reviewAt <= now,
@@ -46,49 +33,13 @@ export function DiscoveryCatalog({
   return (
     <>
       <div className="discovery-catalog-intro">
-        <span className="discovery-eyebrow">Quelques minutes, une nouvelle idée</span>
-        <h1 className="display mt-3 text-4xl sm:text-6xl">Essaie. Observe. Comprends.</h1>
-        <p className="mt-4 max-w-reading text-lg text-ink-muted">
-          Explore un sujet, manipule un schéma et relève un défi. Une idée à la fois, à ton rythme.
-        </p>
-        <p className="label mt-3">Accessible dès 10 ans · sans compte · sources consultables</p>
+        <h1 className="display text-4xl sm:text-6xl">Découvertes</h1>
+        <p className="mt-2 text-ink-muted">Une idée à explorer en quelques minutes.</p>
       </div>
       {recommendation ? (
-        <section
-          className="discovery-launch sticker p-5 sm:p-7"
-          aria-label={
-            resume ? "Reprendre ma découverte" : reviewing ? "Révision express" : "Défi du jour"
-          }
-        >
-          <span className="discovery-eyebrow">
-            {resume
-              ? "Reprends là où tu en étais"
-              : reviewing
-                ? "Teste ce que tu as retenu"
-                : "Ta découverte du jour"}
-          </span>
-          <h2 className="display mt-2 text-2xl">{recommendation.lesson.title}</h2>
-          <div className="discovery-launch-preview" aria-hidden="true">
-            <DiscoveryPreview visual={recommendation.lesson.visual} />
-          </div>
-          <p className="mt-2">
-            {resume
-              ? `Étape ${(resume.session?.step ?? 0) + 1} · ta progression est enregistrée sur cet appareil.`
-              : reviewing
-                ? "Quelques questions, sans relire la leçon. Ta découverte reste enregistrée."
-                : "Une petite expérience pour commencer, sans préparation."}
-          </p>
-          <Link
-            className="btn mt-4"
-            href={`/decouvrir/${recommendation.lesson.slug}${reviewing ? "/reviser" : ""}`}
-          >
-            {resume ? "Reprendre" : reviewing ? "Réviser maintenant" : "Essayer maintenant"}
-          </Link>
-        </section>
+        <DiscoveryLaunch recommendation={recommendation} />
       ) : (
-        <p className="mt-6">
-          Les découvertes seront disponibles prochainement. Tu peux déjà explorer les articles.
-        </p>
+        <p className="mt-6">Les découvertes seront disponibles prochainement.</p>
       )}
       <div className="mt-7 flex flex-wrap gap-3 font-sans text-sm">
         <span className="chip">
@@ -96,22 +47,21 @@ export function DiscoveryCatalog({
         </span>
         {due.length > 0 && <span className="chip">{due.length} à revoir aujourd’hui</span>}
       </div>
-      <fieldset className="mt-7">
-        <legend className="font-sans font-bold">Choisis ton terrain de jeu</legend>
-        <div className="mt-3 flex flex-wrap gap-2">
-          {["Tous", ...domains].map((item) => (
-            <button
-              type="button"
-              key={item}
-              className={`btn ${domain === item ? "" : "btn--ghost"}`}
-              aria-pressed={domain === item}
-              onClick={() => setDomain(item)}
-            >
+      <div className="discovery-filter mt-5">
+        <label htmlFor="discovery-domain">Filtrer par domaine</label>
+        <select
+          id="discovery-domain"
+          value={domain}
+          onChange={(event) => setDomain(event.target.value)}
+        >
+          <option value="Tous">Tous les domaines</option>
+          {domains.map((item) => (
+            <option key={item} value={item}>
               {item}
-            </button>
+            </option>
           ))}
-        </div>
-      </fieldset>
+        </select>
+      </div>
       <ul className="discovery-catalog-grid mt-6">
         {sessions
           .filter(({ lesson }) => domain === "Tous" || lesson.domain === domain)
@@ -142,7 +92,7 @@ export function DiscoveryCatalog({
                   <span className="discovery-eyebrow">
                     {lesson.domain} · {lesson.minutes} min
                   </span>
-                  <h2 className="display mt-3 text-2xl">{lesson.title}</h2>
+                  <h2 className="display mt-3 text-2xl">{frenchSpacing(lesson.title)}</h2>
                   <div className="discovery-card-preview" aria-hidden="true">
                     <DiscoveryPreview visual={lesson.visual} />
                   </div>
@@ -156,8 +106,8 @@ export function DiscoveryCatalog({
                         : session?.completed
                           ? "Revoir la découverte"
                           : session
-                            ? "Continuer"
-                            : "Commencer"}{" "}
+                            ? "Reprendre"
+                            : "Jouer"}{" "}
                     →
                   </span>
                 </Link>

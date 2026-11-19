@@ -122,7 +122,7 @@
       },
       "interaction": {
         "kind": "choice",
-        "question": "Que doit faire le réseau quand la consommation augmente d'un coup ?",
+        "question": "Par un soir de grand froid, beaucoup de chauffages électriques s’allument en même temps. Comment le réseau garde-t-il l’équilibre ?",
         "options": [
           {
             "id": "ajuster",

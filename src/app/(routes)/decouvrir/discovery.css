@@ -238,35 +238,126 @@
 .discovery-result {
   background: var(--surface);
 }
+.discovery-next {
+  margin-top: 1.25rem;
+  padding: 1rem;
+  border-radius: 0.85rem;
+  background: var(--highlight);
+}
+.discovery-result-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 1.25rem;
+  margin-top: 0.75rem;
+}
+.discovery-result-links > * {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+  cursor: pointer;
+}
+.discovery-player .discovery-feedback:empty {
+  min-height: 0;
+  margin-top: 0;
+}
+.discovery-task {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.discovery-task + .discovery-interaction {
+  margin-top: 0.35rem;
+}
+.discovery-opening-context {
+  margin-top: 1rem;
+  border-top: 1px solid var(--rule);
+}
+.discovery-shortcuts summary,
+.discovery-opening-context summary {
+  min-height: 44px;
+  padding-block: 0.65rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+.discovery-shortcuts summary {
+  color: var(--ink-muted);
+  font-size: 0.9rem;
+}
+.discovery-opening-context p + p {
+  margin-top: 0.65rem;
+}
+@media (max-width: 47.99rem) {
+  .discovery-player .discovery-topline,
+  .discovery-player .discovery-progress {
+    margin-bottom: 0.65rem;
+  }
+  .discovery-player .discovery-figure {
+    margin-top: 0.65rem;
+  }
+  .discovery-player .discovery-controls {
+    margin-top: 0.75rem;
+  }
+}
 .discovery-catalog-intro {
   max-width: 48rem;
 }
 .discovery-launch {
-  margin-top: 2rem;
+  display: grid;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+  padding: 1rem;
   background: var(--highlight);
 }
+.discovery-launch--compact {
+  margin-top: 0;
+}
 .discovery-launch-preview {
+  width: 100%;
   max-width: 14rem;
+}
+.discovery-launch-preview .discovery-figure {
+  margin: 0;
+}
+.discovery-launch-action {
+  justify-self: start;
+  min-height: 48px;
+}
+.discovery-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.75rem;
+  font-weight: 700;
+}
+.discovery-filter select {
+  max-width: 100%;
+  min-height: 44px;
+  padding-inline: 0.65rem;
+  border: 2px solid var(--line);
+  border-radius: 0.65rem;
+  background-color: var(--surface);
+  color: var(--ink);
+  cursor: pointer;
 }
 .discovery-card-preview {
   margin-top: 0.5rem;
 }
 @media (min-width: 48rem) {
   .discovery-launch {
-    display: grid;
     grid-template-columns: minmax(0, 1fr) 14rem;
     column-gap: 2rem;
+    padding: 1.5rem;
   }
   .discovery-launch > :not(.discovery-launch-preview) {
     grid-column: 1;
   }
   .discovery-launch-preview {
     grid-column: 2;
-    grid-row: 1 / span 4;
+    grid-row: 1 / span 3;
     align-self: center;
-  }
-  .discovery-launch > .btn {
-    justify-self: start;
   }
 }
 .discovery-launch-preview figcaption,
