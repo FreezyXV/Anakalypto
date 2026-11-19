@@ -1,0 +1,252 @@
+[
+  {
+    "path": "/arts-et-culture/arts-du-spectacle/musique/diapason-a440-norme-internationale",
+    "status": "READY",
+    "visualRefs": ["schema:pitchfork"]
+  },
+  {
+    "path": "/arts-et-culture/arts-du-spectacle/musique/gammes-et-temperament-egal",
+    "status": "READY",
+    "visualRefs": ["schema:twelvepart"]
+  },
+  {
+    "path": "/arts-et-culture/arts-du-spectacle/musique/histoire-de-lenregistrement-sonore",
+    "status": "READY",
+    "visualRefs": ["schema:audiogroove"]
+  },
+  {
+    "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/comment-le-cinema-a-t-il-appris-a-parler",
+    "status": "READY",
+    "visualRefs": ["schema:syncsound"]
+  },
+  {
+    "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/comment-fabriquait-on-un-livre-enlumine-au-moyen-age",
+    "status": "READY",
+    "visualRefs": ["schema:manuscript"]
+  },
+  {
+    "path": "/arts-et-culture/patrimoine/architecture/ordres-architecturaux-grecs",
+    "status": "READY",
+    "visualRefs": ["schema:capitals"]
+  },
+  {
+    "path": "/arts-et-culture/patrimoine/musees-et-conservation/conservation-preventive-et-restauration",
+    "status": "READY",
+    "visualRefs": ["schema:preservation"]
+  },
+  {
+    "path": "/arts-et-culture/patrimoine/musees-et-conservation/pourquoi-fouille-t-on-avant-de-construire-une-route",
+    "status": "READY",
+    "visualRefs": ["schema:diglayers"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-humaine/demographie/comment-lit-on-une-pyramide-des-ages",
+    "status": "READY",
+    "visualRefs": ["schema:ages"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-humaine/demographie/la-transition-demographique-et-ses-differentes-etapes",
+    "status": "READY",
+    "visualRefs": ["schema:demographic"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-physique/climatologie/les-nuages-et-ce-qu-ils-annoncent",
+    "status": "READY",
+    "visualRefs": ["schema:cloudtypes"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-terre-est-elle-decoupee-en-24-fuseaux-horaires",
+    "status": "READY",
+    "visualRefs": ["schema:timezone"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-physique/hydrographie/pourquoi-il-pleut-ici-et-pas-la",
+    "status": "READY",
+    "visualRefs": ["schema:rainshadow"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-physique/reliefs/formation-chaines-de-montagnes",
+    "status": "READY",
+    "visualRefs": ["schema:mountainfold"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-physique/reliefs/lire-une-carte-topographique-principes-de-base",
+    "status": "READY",
+    "visualRefs": ["schema:contourmap"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-physique/reliefs/pourquoi-le-groenland-parait-il-aussi-grand-que-l-afrique-sur-une-carte",
+    "status": "READY",
+    "visualRefs": ["schema:mercator"]
+  },
+  {
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/comment-survivent-les-animaux-dans-les-profondeurs-sombres-de-l-ocean",
+    "status": "READY",
+    "visualRefs": ["schema:midnightsea"]
+  },
+  {
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/oceans-et-absorption-du-carbone",
+    "status": "READY",
+    "visualRefs": ["schema:seacarbon"]
+  },
+  {
+    "path": "/environnement-et-climat/changement-climatique/scenarios/pourquoi-la-meteo-et-le-climat-ne-sont-ils-pas-la-meme-chose",
+    "status": "READY",
+    "visualRefs": ["schema:climatewindow"]
+  },
+  {
+    "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/proteger-inondations",
+    "status": "READY",
+    "visualRefs": ["schema:floodspace"]
+  },
+  {
+    "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/dechets-et-limites-du-recyclage",
+    "status": "READY",
+    "visualRefs": ["schema:recyclesort"]
+  },
+  {
+    "path": "/environnement-et-climat/changement-climatique/scenarios/changement-climatique-budget-carbone",
+    "status": "READY",
+    "visualRefs": ["schema:carbonbudget"]
+  },
+  {
+    "path": "/industries/industrie-lourde/chimie-industrielle/comment-fabrique-t-on-un-panneau-solaire-en-silicium",
+    "status": "READY",
+    "visualRefs": ["schema:siliconpanel"]
+  },
+  {
+    "path": "/industries/industrie-lourde/siderurgie/forge-travail-fer",
+    "status": "READY",
+    "visualRefs": ["schema:anvilforge"]
+  },
+  {
+    "path": "/industries/industrie-manufacturiere/chaine-logistique/comment-la-chaine-du-froid-garde-t-elle-les-aliments-frais-pendant-leur-voyage",
+    "status": "READY",
+    "visualRefs": ["schema:coldlogistics"]
+  },
+  {
+    "path": "/industries/industrie-manufacturiere/chaine-logistique/comment-une-simple-boite-en-acier-a-t-elle-change-la-facon-dont-voyagent-les-objets",
+    "status": "READY",
+    "visualRefs": ["schema:intermodal"]
+  },
+  {
+    "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/mesurer-avec-precision",
+    "status": "READY",
+    "visualRefs": ["schema:caliper"]
+  },
+  {
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/soudage",
+    "status": "READY",
+    "visualRefs": ["schema:weldjoint"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/production/aerodynamique-automobile-trainee",
+    "status": "READY",
+    "visualRefs": ["schema:dragwake"]
+  },
+  {
+    "path": "/automobile/motorisations/motorisations-hybrides/comment-une-voiture-hybride-legere-aide-t-elle-son-moteur-a-essence",
+    "status": "READY",
+    "visualRefs": ["schema:mildhybrid"]
+  },
+  {
+    "path": "/automobile/motorisations/thermique/filtre-particules-catalyseur",
+    "status": "READY",
+    "visualRefs": ["schema:exhaustclean"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/pneus-contact-route-adherence",
+    "status": "READY",
+    "visualRefs": ["schema:tyregrip"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/suspension-confort-tenue-de-route",
+    "status": "READY",
+    "visualRefs": ["schema:shocks"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/securite-passive/comment-un-airbag-se-gonfle-t-il-plus-vite-qu-un-clin-d-oeil",
+    "status": "READY",
+    "visualRefs": ["schema:airbagsequence"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/securite-passive/pourquoi-l-avant-d-une-voiture-est-il-fait-pour-s-ecraser",
+    "status": "READY",
+    "visualRefs": ["schema:crumplefront"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/comment-un-materiau-peut-il-se-reparer-tout-seul-quand-il-se-fissure",
+    "status": "READY",
+    "visualRefs": ["schema:selfheal"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/chaux-liant-millenaire",
+    "status": "READY",
+    "visualRefs": ["schema:limecycle"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/ponts-et-entretien-des-ouvrages",
+    "status": "READY",
+    "visualRefs": ["schema:bridgeinspection"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/nanotechnologies/applications/comment-construit-on-des-structures-a-l-echelle-du-milliardieme-de-metre",
+    "status": "READY",
+    "visualRefs": ["schema:lithomask"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/robotique/actionneurs/actionneurs-en-robotique",
+    "status": "READY",
+    "visualRefs": ["schema:actuatorarm"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/robotique/robots-mobiles/robots-mobiles-et-navigation",
+    "status": "READY",
+    "visualRefs": ["schema:mobilemapping"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs/pourquoi-au-rugby-fait-on-des-passes-vers-l-arriere",
+    "status": "READY",
+    "visualRefs": ["schema:rugbypass"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/comment-joue-t-on-au-goalball-sans-voir-le-ballon",
+    "status": "READY",
+    "visualRefs": ["schema:goalball"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/comment-joue-t-on-au-basket-en-fauteuil-roulant",
+    "status": "READY",
+    "visualRefs": ["schema:wheelchaircourt"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/pourquoi-le-crawl-est-il-la-nage-la-plus-rapide",
+    "status": "READY",
+    "visualRefs": ["schema:crawl"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/pourquoi-transpire-t-on-autant-quand-on-fait-du-sport-sous-la-chaleur",
+    "status": "READY",
+    "visualRefs": ["schema:sweatcool"]
+  },
+  {
+    "path": "/energie/energies-renouvelables/geothermie-chaleur-de-la-terre",
+    "status": "READY",
+    "visualRefs": ["schema:geoloop"]
+  },
+  {
+    "path": "/energie/energies-renouvelables/solaire/installation-solaire-autonome",
+    "status": "READY",
+    "visualRefs": ["schema:offgridsolar"]
+  },
+  {
+    "path": "/energie/reseaux-et-stockage/batteries/batteries-sodium-ion",
+    "status": "READY",
+    "visualRefs": ["schema:sodiumcell"]
+  },
+  {
+    "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/pourquoi-y-a-t-il-de-la-radioactivite-naturelle-tout-autour-de-nous",
+    "status": "READY",
+    "visualRefs": ["schema:backgroundrad"]
+  }
+]

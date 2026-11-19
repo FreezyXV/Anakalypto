@@ -1,3 +1,4 @@
+import { EVERYDAY_DIAGRAMS } from "./everyday50";
 import { HORIZONS50_DIAGRAMS } from "./horizons50";
 import { EXPLORATIONS50_DIAGRAMS } from "./explorations50";
 import { SCIENCES30_DIAGRAMS } from "./sciences30";
@@ -17,6 +18,56 @@ import { ASTRONOMY_DIAGRAMS } from "./astronomy";
 
 /** Associations éditoriales explicites. Aucune recherche de mots-clés au rendu. */
 export type LessonDiagramKind =
+  | "pitchfork"
+  | "twelvepart"
+  | "audiogroove"
+  | "syncsound"
+  | "manuscript"
+  | "capitals"
+  | "preservation"
+  | "diglayers"
+  | "ages"
+  | "demographic"
+  | "cloudtypes"
+  | "timezone"
+  | "rainshadow"
+  | "mountainfold"
+  | "contourmap"
+  | "mercator"
+  | "midnightsea"
+  | "seacarbon"
+  | "climatewindow"
+  | "floodspace"
+  | "recyclesort"
+  | "carbonbudget"
+  | "siliconpanel"
+  | "anvilforge"
+  | "coldlogistics"
+  | "intermodal"
+  | "caliper"
+  | "weldjoint"
+  | "dragwake"
+  | "mildhybrid"
+  | "exhaustclean"
+  | "tyregrip"
+  | "shocks"
+  | "airbagsequence"
+  | "crumplefront"
+  | "selfheal"
+  | "limecycle"
+  | "bridgeinspection"
+  | "lithomask"
+  | "actuatorarm"
+  | "mobilemapping"
+  | "rugbypass"
+  | "goalball"
+  | "wheelchaircourt"
+  | "crawl"
+  | "sweatcool"
+  | "geoloop"
+  | "offgridsolar"
+  | "sodiumcell"
+  | "backgroundrad"
   | "cellhandoff"
   | "radiospectrum"
   | "satrelay"
@@ -1578,6 +1629,7 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
   ...AI_CONTEXT_DIAGRAMS,
   ...RADIO_DIAGRAMS,
   ...HORIZONS50_DIAGRAMS,
+  ...EVERYDAY_DIAGRAMS,
   ...EXPLORATIONS50_DIAGRAMS,
   ...SCIENCES30_DIAGRAMS,
   ...ORGANS_DIAGRAMS,

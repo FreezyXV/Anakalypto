@@ -1,16 +1,16 @@
 # Inventaire des illustrations
 
-Photographie du backend local exportée le 2026-11-15, sans audit du corpus. Aucun changement en production. Objectif : environ 1 000 leçons ; brouillons exclus.
+Photographie du backend local exportée le 2026-11-19, sans audit du corpus. Aucun changement en production. Objectif : environ 1 000 leçons ; brouillons exclus.
 
 | État                                       | Nombre |
 | ------------------------------------------ | -----: |
 | Leçons publiées                            |    948 |
 | Leçons avec schéma éditorial               |    948 |
 | Nombre de schémas éditoriaux               |    965 |
-| Leçons avec dessin ou atelier              |    383 |
+| Leçons avec dessin ou atelier              |    433 |
 | Sans aucun visuel                          |      0 |
-| Illustration incluse et vérifiée           |    383 |
-| En attente de dessin spécifique            |    565 |
+| Illustration incluse et vérifiée           |    433 |
+| En attente de dessin spécifique            |    515 |
 | À vérifier                                 |      0 |
 | À améliorer, défaut enregistré             |      0 |
 | Réservées, sous-ensemble non additionnable |      0 |
@@ -19,23 +19,23 @@ Photographie du backend local exportée le 2026-11-15, sans audit du corpus. Auc
 | ---------------------------------- | -------: | -----: | ----------: | ---------: | ----------: |
 | aeronautique                       |       37 |     37 |           0 |          0 |           0 |
 | alimentation-et-nutrition          |       92 |     18 |           0 |          0 |          74 |
-| arts-et-culture                    |       43 |     16 |           0 |          0 |          27 |
-| automobile                         |       90 |     18 |           0 |          0 |          72 |
+| arts-et-culture                    |       43 |     24 |           0 |          0 |          19 |
+| automobile                         |       90 |     25 |           0 |          0 |          65 |
 | communication-et-medias            |       45 |     16 |           0 |          0 |          29 |
 | corps-humain-et-sante              |       65 |     17 |           0 |          0 |          48 |
 | droit-et-justice                   |       44 |      0 |           0 |          0 |          44 |
-| energie                            |       60 |     42 |           0 |          0 |          18 |
-| environnement-et-climat            |       40 |     21 |           0 |          0 |          19 |
+| energie                            |       60 |     46 |           0 |          0 |          14 |
+| environnement-et-climat            |       40 |     27 |           0 |          0 |          13 |
 | espace-et-astronomie               |       37 |     37 |           0 |          0 |           0 |
-| geographie-et-territoires          |       37 |      9 |           0 |          0 |          28 |
-| industries                         |       41 |     16 |           0 |          0 |          25 |
+| geographie-et-territoires          |       37 |     17 |           0 |          0 |          20 |
+| industries                         |       41 |     22 |           0 |          0 |          19 |
 | intelligence-artificielle          |       23 |     23 |           0 |          0 |           0 |
 | micro-informatique-et-informatique |       43 |     19 |           0 |          0 |          24 |
 | sciences-du-vivant-appliquees      |       46 |     15 |           0 |          0 |          31 |
 | sciences-fondamentales             |       67 |     52 |           0 |          0 |          15 |
 | sciences-humaines-et-sociales      |       58 |      2 |           0 |          0 |          56 |
-| sport-et-sciences-du-mouvement     |       36 |      0 |           0 |          0 |          36 |
-| technologies-et-ingenierie         |       44 |     25 |           0 |          0 |          19 |
+| sport-et-sciences-du-mouvement     |       36 |      5 |           0 |          0 |          31 |
+| technologies-et-ingenierie         |       44 |     31 |           0 |          0 |          13 |
 
 [Références complètes](VISUAL_INVENTORY.csv) · [Travail restant](VISUAL_BACKLOG.csv) · [États backend JSON](ILLUSTRATION_STATUS.json) · [Guide des agents](ILLUSTRATION_BACKEND.md).
 

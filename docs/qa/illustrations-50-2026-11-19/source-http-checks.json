@@ -1,0 +1,402 @@
+[
+  {
+    "id": "pitchfork",
+    "title": "NIST — Standard Musical Pitch",
+    "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular591r1940.pdf",
+    "effective": "https://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular591r1940.pdf",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "twelvepart",
+    "title": "Université UNSW — Gammes et tempéraments",
+    "url": "https://www.phys.unsw.edu.au/jw/tuning.html",
+    "effective": "https://www.phys.unsw.edu.au/jw/tuning.html",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "audiogroove",
+    "title": "Library of Congress — Histoire du phonographe à cylindre",
+    "url": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/",
+    "effective": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/",
+    "code": 403,
+    "ok": false
+  },
+  {
+    "id": "syncsound",
+    "title": "Encyclopædia Universalis — Cinéma parlant",
+    "url": "https://www.universalis.fr/encyclopedie/parlant-cinema-reperes-chronologiques/",
+    "effective": "https://www.universalis.fr/encyclopedie/parlant-cinema-reperes-chronologiques/",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "manuscript",
+    "title": "Bibliothèque nationale de France — Le livre à l’époque carolingienne",
+    "url": "https://multimedia-ext.bnf.fr/pdf/carolingiens2.pdf",
+    "effective": "https://multimedia-ext.bnf.fr/pdf/carolingiens2.pdf",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "capitals",
+    "title": "The Met — Les ordres de l’architecture grecque",
+    "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/greek.pdf",
+    "effective": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/greek.pdf",
+    "code": 429,
+    "ok": false
+  },
+  {
+    "id": "preservation",
+    "title": "Institut canadien de conservation — Lumière et altération",
+    "url": "https://www.canada.ca/en/conservation-institute/services/agents-deterioration/light.html",
+    "effective": "https://www.canada.ca/en/conservation-institute/services/agents-deterioration/light.html",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "diglayers",
+    "title": "Inrap — Enregistrer les vestiges",
+    "url": "https://multimedia.inrap.fr/atlas/canal-seine-nord-europe/methodes/methodologie-enregistrement-novatrice",
+    "effective": "https://multimedia.inrap.fr/atlas/canal-seine-nord-europe/methodes/methodologie-enregistrement-novatrice",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "ages",
+    "title": "Insee — Démographie, France, portrait social",
+    "url": "https://www.insee.fr/fr/statistiques/8612506",
+    "effective": "https://www.insee.fr/fr/statistiques/8612506",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "demographic",
+    "title": "Insee — Définition du taux d’excédent naturel",
+    "url": "https://www.insee.fr/fr/metadonnees/definition/c1335",
+    "effective": "https://www.insee.fr/fr/metadonnees/definition/c1335",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "cloudtypes",
+    "title": "OMM — Atlas international des nuages",
+    "url": "https://cloudatlas.wmo.int/fr/home.html",
+    "effective": "https://cloudatlas.wmo.int/fr/home.html",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "timezone",
+    "title": "U.S. Naval Observatory — Temps solaire et heure civile",
+    "url": "https://aa.usno.navy.mil/faq/eqtime",
+    "effective": "https://aa.usno.navy.mil/faq/eqtime",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "rainshadow",
+    "title": "NOAA — Circulations atmosphériques globales",
+    "url": "https://www.noaa.gov/jetstream/global/global-atmospheric-circulations",
+    "effective": "https://www.noaa.gov/jetstream/global/global-atmospheric-circulations",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "mountainfold",
+    "title": "USGS — Collision continentale et Himalaya",
+    "url": "https://pubs.usgs.gov/gip/dynamic/himalaya.html",
+    "effective": "https://pubs.usgs.gov/gip/dynamic/himalaya.html",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "contourmap",
+    "title": "USGS — Lire les symboles topographiques",
+    "url": "https://www.usgs.gov/ngp-standards-and-specifications/us-topo-map-symbol-guide",
+    "effective": "https://www.usgs.gov/ngp-standards-and-specifications/us-topo-map-symbol-guide",
+    "code": 403,
+    "ok": false
+  },
+  {
+    "id": "mercator",
+    "title": "NOAA — Cartographie marine et projections",
+    "url": "https://nauticalcharts.noaa.gov/learn/nautical-cartography.html",
+    "effective": "https://nauticalcharts.noaa.gov/learn/nautical-cartography.html",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "midnightsea",
+    "title": "NOAA Ocean Exploration — La vie profonde",
+    "url": "https://oceanexplorer.noaa.gov/explainers/marine-life/",
+    "effective": "https://oceanexplorer.noaa.gov/explainers/marine-life/",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "seacarbon",
+    "title": "GIEC — Cycle du carbone et rétroactions",
+    "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/",
+    "effective": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/",
+    "code": 403,
+    "ok": false
+  },
+  {
+    "id": "climatewindow",
+    "title": "Météo-France — Météo et climat",
+    "url": "https://meteofrance.com/meteo-a-z/quelle-difference-entre-meteo-et-climat",
+    "effective": "https://meteofrance.com/meteo-a-z/quelle-difference-entre-meteo-et-climat",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "floodspace",
+    "title": "Géorisques — Champ d’expansion des crues",
+    "url": "https://www.georisques.gouv.fr/glossaire/champ-dexpansion-des-crues",
+    "effective": "https://www.georisques.gouv.fr/glossaire/champ-dexpansion-des-crues",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "recyclesort",
+    "title": "Centre commun de recherche — Concevoir un emballage recyclable",
+    "url": "https://joint-research-centre.ec.europa.eu/scientific-activities/circular-resource-management/design-recycling-packaging_en",
+    "effective": "https://joint-research-centre.ec.europa.eu/scientific-activities/circular-resource-management/design-recycling-packaging_en",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "carbonbudget",
+    "title": "GIEC — Le budget carbone et le cumul de CO₂",
+    "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/",
+    "effective": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/",
+    "code": 403,
+    "ok": false
+  },
+  {
+    "id": "siliconpanel",
+    "title": "Département américain de l’énergie — Fabrication photovoltaïque",
+    "url": "https://www.energy.gov/cmei/systems/solar-photovoltaic-manufacturing-basics",
+    "effective": "https://www.energy.gov/cmei/systems/solar-photovoltaic-manufacturing-basics",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "anvilforge",
+    "title": "Canton Drop Forge — Histoire du forgeage",
+    "url": "https://cantondropforge.com/history-of-forging/",
+    "effective": "https://cantondropforge.com/history-of-forging/",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "coldlogistics",
+    "title": "Anses — Conservation des aliments et chaîne du froid",
+    "url": "https://www.anses.fr/fr/content/comment-bien-conserver-ses-aliments-et-ne-pas-interrompre-la-chaine-du-froid",
+    "effective": "https://www.anses.fr/fr/article/comment-bien-conserver-ses-aliments-ne-pas-interrompre-chaine-du-froid",
+    "code": 200,
+    "ok": false
+  },
+  {
+    "id": "intermodal",
+    "title": "Royal Museums Greenwich — Le conteneur maritime",
+    "url": "https://www.rmg.co.uk/stories/ocean/unexpected-history-shipping-container",
+    "effective": "https://www.rmg.co.uk/stories/ocean/unexpected-history-shipping-container",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "caliper",
+    "title": "Fluke — Qu’est-ce que l’étalonnage ?",
+    "url": "https://www.fluke.com/en-us/learn/blog/calibration/about-calibration",
+    "effective": "https://www.fluke.com/en-us/learn/blog/calibration/about-calibration",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "weldjoint",
+    "title": "TWI — Soudage par fusion",
+    "url": "https://www.twi-global.com/technical-knowledge/faqs/what-is-fusion-welding",
+    "effective": "https://www.twi-global.com/technical-knowledge/faqs/what-is-fusion-welding",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "dragwake",
+    "title": "Département américain de l’énergie — Efficacité des véhicules",
+    "url": "https://www.energy.gov/cmei/vehicles/fuel-efficiency",
+    "effective": "https://www.energy.gov/cmei/vehicles/fuel-efficiency",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "mildhybrid",
+    "title": "IFPEN — Hybridation légère 48 volts",
+    "url": "https://www.ifpenergiesnouvelles.com/brief/48-volts-system-mild-hybrid-significant-potential",
+    "effective": "https://www.ifpenergiesnouvelles.com/brief/48-volts-system-mild-hybrid-significant-potential",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "exhaustclean",
+    "title": "U.S. EPA — Technologies de dépollution des moteurs diesel",
+    "url": "https://www.epa.gov/sites/default/files/2014-02/documents/3_2010_diesel_eng_alternativecontrol.pdf",
+    "effective": "https://www.epa.gov/sites/default/files/2014-02/documents/3_2010_diesel_eng_alternativecontrol.pdf",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "tyregrip",
+    "title": "Touring Club Suisse — Pneus et adhérence",
+    "url": "https://www.tcs.ch/mam/Digital-Media/PDF/Booklets/brochure-pneus-d-039-ete-2025.pdf",
+    "effective": "https://www.tcs.ch/mam/Digital-Media/PDF/Booklets/brochure-pneus-d-039-ete-2025.pdf",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "shocks",
+    "title": "OQLF — Suspension MacPherson",
+    "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8400463/suspension-macpherson",
+    "effective": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8400463/suspension-macpherson",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "airbagsequence",
+    "title": "IIHS — Coussins gonflables automobiles",
+    "url": "https://www.iihs.org/topics/airbags",
+    "effective": "https://www.iihs.org/research-areas/airbags",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "crumplefront",
+    "title": "NZ Transport Agency — Zones de déformation",
+    "url": "https://www.nzta.govt.nz/vehicles/choosing-the-right-vehicle/features-that-protect-you/crush-zones-and-crumple-zones",
+    "effective": "https://www.nzta.govt.nz/vehicles/choosing-the-right-vehicle/features-that-protect-you/crush-zones-and-crumple-zones",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "selfheal",
+    "title": "Étude par microtomographie — Activation des capsules dans une fissure",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6883056/",
+    "effective": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6883056/",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "limecycle",
+    "title": "National Lime Association — Le cycle de la chaux",
+    "url": "https://www.lime.org/resource/how-lime-is-made/",
+    "effective": "https://www.lime.org/resource/how-lime-is-made/",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "bridgeinspection",
+    "title": "Cerema — Surveillance et entretien des ouvrages d’art",
+    "url": "https://www.cerema.fr/fr/actualites/surveillance-entretien-courant-ouvrages-art-routiers-interet",
+    "effective": "https://www.cerema.fr/fr/actualites/surveillance-entretien-courant-ouvrages-art-routiers-interet",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "lithomask",
+    "title": "ASML — Les principes de la lithographie",
+    "url": "https://www.asml.com/en/technology/lithography-principles",
+    "effective": "https://www.asml.com/en/technology/lithography-principles",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "actuatorarm",
+    "title": "Festo — Comparaison des actionneurs électriques et pneumatiques",
+    "url": "https://www.festo.com/us/en/e/blog/innovation/electric-vs-pneumatic-actuators-how-to-choose-the-right-solution-id_4087971",
+    "effective": "https://www.festo.com/us/en/e/blog/innovation/electric-vs-pneumatic-actuators-how-to-choose-the-right-solution-id_4087971",
+    "code": 403,
+    "ok": false
+  },
+  {
+    "id": "mobilemapping",
+    "title": "Nav2 — Cartographie et localisation du robot",
+    "url": "https://docs.nav2.org/rolling/configuration_and_development/first_time_robot_setup_guide/sensors/mapping_localization/",
+    "effective": "https://docs.nav2.org/rolling/configuration_and_development/first_time_robot_setup_guide/sensors/mapping_localization/",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "rugbypass",
+    "title": "World Rugby — Règle 11, passe en avant",
+    "url": "https://passport.world.rugby/laws-of-the-game/laws-by-number/11-knock-forward-or-throw-forward/",
+    "effective": "https://passport.world.rugby/laws-of-the-game/laws-by-number/11-knock-forward-or-throw-forward/",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "goalball",
+    "title": "IBSA — Présentation du goalball",
+    "url": "https://ibsasport.org/sports/goalball/about/overview/",
+    "effective": "https://ibsasport.org/sports/goalball/about/overview/",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "wheelchaircourt",
+    "title": "IWBF — Règles du basket en fauteuil",
+    "url": "https://www.iwbf.org/our-sport/rules",
+    "effective": "https://www.iwbf.org/our-sport/rules",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "crawl",
+    "title": "Institut allemand des sciences de l’entraînement — Biomécanique du crawl",
+    "url": "https://lida.sport-iat.de/ta/Record/4085075?lng=en",
+    "effective": "https://lida.sport-iat.de/ta/Record/4085075?lng=en",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "sweatcool",
+    "title": "La Revue du Praticien — Chaleur et sport",
+    "url": "https://www.larevuedupraticien.fr/article/chaleur-et-sport-comment-limiter-les-risques",
+    "effective": "https://www.larevuedupraticien.fr/article/chaleur-et-sport-comment-limiter-les-risques",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "geoloop",
+    "title": "Département américain de l’énergie — Principes de la géothermie",
+    "url": "https://www.energy.gov/hgeo/geothermal/geothermal-basics",
+    "effective": "https://www.energy.gov/hgeo/geothermal/geothermal-basics",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "offgridsolar",
+    "title": "Centre commun de recherche — Production solaire et batteries",
+    "url": "https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis_en",
+    "effective": "https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis_en",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "sodiumcell",
+    "title": "Agence internationale de l’énergie — Batteries pour véhicules",
+    "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries",
+    "effective": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries",
+    "code": 200,
+    "ok": true
+  },
+  {
+    "id": "backgroundrad",
+    "title": "UNSCEAR — Sources naturelles d’exposition",
+    "url": "https://www.unscear.org/unscear/en/publications/2024_2.html",
+    "effective": "https://www.unscear.org/unscear/en/publications/2024_2.html",
+    "code": 200,
+    "ok": true
+  }
+]
