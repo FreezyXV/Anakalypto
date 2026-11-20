@@ -1,4 +1,4 @@
-import { leverModel } from "@/lib/discovery/models";
+import { formatMeasurement, leverModel } from "@/lib/discovery/models";
 import { Arrow, C, Label, Title, type DiagramProps } from "./primitives";
 
 export function LeverDiagram({ state }: DiagramProps) {
@@ -46,7 +46,7 @@ export function LeverDiagram({ state }: DiagramProps) {
         120 N
       </Label>
       <Label x={294} y={124}>
-        {Math.round(m.effortForce * 10) / 10} N
+        {formatMeasurement(m.effortForce)} N
       </Label>
       <Label x={pivot} y={151}>
         Appui
@@ -58,10 +58,10 @@ export function LeverDiagram({ state }: DiagramProps) {
         strokeWidth="1.5"
       />
       <Label x={(54 + pivot) / 2} y={190}>
-        {Math.round(m.loadArm * 10) / 10} cm
+        {formatMeasurement(m.loadArm)} cm
       </Label>
       <Label x={(294 + pivot) / 2} y={190}>
-        {Math.round(m.effortArm * 10) / 10} cm
+        {formatMeasurement(m.effortArm)} cm
       </Label>
     </g>
   );

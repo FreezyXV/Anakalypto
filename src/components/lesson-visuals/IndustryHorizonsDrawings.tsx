@@ -17,10 +17,10 @@ export function IndustryHorizonsDrawing(p: DrawingProps) {
     return (
       <Art {...p} foot="N₂ + 3 H₂ ⇌ 2 NH₃">
         <Tag x={72} y={60}>
-          {s === 2 ? "Gaz entrants" : "Azote"}
+          {s === 2 ? "Gaz entrants" : s === 1 ? "Ammoniac" : "Azote"}
         </Tag>
         <Tag x={279} y={60}>
-          {s === 2 ? "NH₃" : "Hydrogène"}
+          {s === 2 ? "NH₃" : s === 1 ? "Ammoniac" : "Hydrogène"}
         </Tag>
         {s === 0 ? (
           <>
@@ -81,7 +81,7 @@ export function IndustryHorizonsDrawing(p: DrawingProps) {
         )}
         {s === 1 && (
           <Tag x={180} y={189}>
-            Mêmes atomes
+            Bleu : N · clair : H
           </Tag>
         )}
       </Art>

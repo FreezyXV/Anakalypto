@@ -1,3 +1,4 @@
+import { Eclipse } from "./OpticsReviewDrawings";
 import { Arrow, Label, Sun, Earth, Dot, ink, blue, warm } from "./DrawingPrimitives";
 import type { LessonDiagramKind } from "@/lib/lesson-visuals/registry";
 type Props = { kind: LessonDiagramKind; step: number; id: string };
@@ -193,47 +194,7 @@ export function EarthDrawing({ kind, step, id }: Props) {
         </Label>
       </>
     );
-  if (kind === "eclipse") {
-    const lunar = step === 2;
-    const earthX = lunar ? 180 : 290,
-      moonX = lunar ? 290 : 180,
-      moonY = step === 0 ? 53 : 108;
-    return (
-      <>
-        <path d="M60 108H337" stroke="#a8b9cb" strokeDasharray="5 5" />
-        <Sun x={47} y={108} r={28} id={id} />
-        {step === 0 ? (
-          <path d="M191 48L340 29V69L191 58Z" fill="#6c7b8c" opacity=".17" />
-        ) : lunar ? (
-          <path d="M199 77L341 93V123L199 139Z" fill="#59697c" opacity=".26" />
-        ) : (
-          <path d="M192 99L315 104V112L192 117Z" fill="#59697c" opacity=".3" />
-        )}
-        <Earth x={earthX} y={108} r={lunar ? 31 : 35} id={id} />
-        <circle
-          cx={moonX}
-          cy={moonY}
-          r="12"
-          fill={lunar ? "#9e8985" : "#b9b7b1"}
-          stroke={ink}
-          strokeWidth="1.3"
-        />
-        <circle cx={moonX - 3} cy={moonY - 3} r="3" fill="#93948f" />
-        <Label x={47} y={170}>
-          Soleil
-        </Label>
-        <Label x={earthX} y={170}>
-          Terre
-        </Label>
-        <Label x={moonX} y={moonY === 53 ? 29 : 77}>
-          Lune
-        </Label>
-        <Label x={180} y={201}>
-          {["L’ombre manque la Terre", "L’ombre de la Lune", "L’ombre de la Terre"][step]}
-        </Label>
-      </>
-    );
-  }
+  if (kind === "eclipse") return <Eclipse step={step} id={id} />;
   if (kind === "orbit") {
     const px = step < 2 ? 180 : 260,
       py = step < 2 ? 31 : 111;

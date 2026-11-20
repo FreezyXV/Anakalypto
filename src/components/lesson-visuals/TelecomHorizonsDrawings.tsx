@@ -130,28 +130,54 @@ export function TelecomHorizonsDrawing(p: DrawingProps) {
     );
   if (kind === "leoconstellation")
     return (
-      <Art {...p} foot="Déplacement vu du sol">
-        <path d="M18 189Q180 114 342 189V203H18Z" fill="#b2d0ca" />
+      <Art
+        {...p}
+        foot={
+          [
+            "Le satellite défile",
+            "Les couvertures se recouvrent",
+            "La liaison passe à un autre satellite",
+          ][s]!
+        }
+      >
         <path
-          d="M28 112Q180 9 332 112"
+          d="M18 181Q180 142 342 181V201H18Z"
+          fill="#c7ddd5"
+          stroke="#8faeaa"
+          strokeWidth="1.2"
+        />
+        <path
+          d="M24 112Q180 13 336 112"
           stroke="#8b9baa"
           fill="none"
-          strokeWidth="2"
+          strokeWidth="1.6"
           strokeDasharray="5 5"
         />
-        <Satellite x={s === 0 ? 107 : 66} y={s === 0 ? 74 : 96} />
-        {s > 0 && <Satellite x={218} y={64} />} {s === 2 && <Satellite x={304} y={99} />}
-        <Tower x={180} y={191} />
+        <path d="M89 86L21 181Q107 152 230 166Z" fill="#a5cbe1" opacity=".65" />
+        {s > 0 && <path d="M252 85L131 164Q250 154 339 182Z" fill="#b7cfa5" opacity=".62" />}
+        <path d="M70 56l43-8" stroke="#8195a5" strokeWidth="1.4" fill="none" />
+        <Arrow d="M84 51L124 48" color={blue} />
+        <Satellite x={89} y={81} />
+        {s > 0 && <Satellite x={252} y={79} />}
+        {s > 1 && <Satellite x={313} y={110} />}
         <path
-          d={s === 0 ? "M107 92L176 140" : "M218 80L184 140"}
+          d="M176 146L89 94"
           stroke={blue}
-          strokeWidth="3"
           fill="none"
+          strokeWidth={s === 2 ? 1.4 : 3}
+          strokeDasharray={s === 2 ? "4 4" : undefined}
+          opacity={s === 2 ? 0.6 : 1}
         />
-        {s > 0 && <path d="M218 80L139 161H268Z" fill={blue} opacity=".12" />}
-        <Tag x={180} y={45}>
-          {s === 0 ? "Un passage" : "Une zone à la fois"}
-        </Tag>
+        {s > 0 && (
+          <path
+            d="M183 146L252 92"
+            stroke={green}
+            fill="none"
+            strokeWidth={s === 2 ? 3 : 1.5}
+            strokeDasharray={s === 1 ? "4 4" : undefined}
+          />
+        )}
+        <Tower x={180} y={192} />
       </Art>
     );
   if (kind === "subseacable")

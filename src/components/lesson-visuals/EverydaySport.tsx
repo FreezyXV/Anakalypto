@@ -1,3 +1,4 @@
+import { Crawl } from "./CrawlReviewDrawing";
 import { Goalball } from "./EverydayGoalball";
 import {
   Arrow,
@@ -8,7 +9,6 @@ import {
   green,
   muted,
   navy,
-  teal,
   violet,
   warm,
   type SceneSet,
@@ -123,59 +123,6 @@ function Wheelchair(step: number) {
   );
 }
 
-function Swimmer(step: number) {
-  return (
-    <>
-      <path d="M30 117H330v71H30Z" fill="#b5dbe9" />
-      <Line d="M32 117q25-7 50 0t50 0t50 0t50 0t50 0t46 0" color={blue} width={2} />
-      <path
-        d="M112 111q56-15 91-8l43 5 6 15h-62l-69 6Z"
-        fill="#6a91a9"
-        stroke={navy}
-        strokeWidth="2"
-      />
-      <path
-        d="M122 117l-46 13-30-7m74-3-49-15-24 4"
-        fill="none"
-        stroke="#cb9a79"
-        strokeWidth="7"
-        strokeLinecap="round"
-      />
-      <circle cx="250" cy="111" r="16" fill="#d8ad8a" stroke="#90694e" strokeWidth="2" />
-      <path d="M237 106q12-23 28-4v6Z" fill="#526c9a" />
-      <path d="M257 109h8" stroke={navy} strokeWidth="4" />
-      <Line
-        d={
-          step === 0
-            ? "M206 108l-6 43-46 13"
-            : step === 1
-              ? "M205 108l-5-53 42 13"
-              : "M207 108l32 24 56 2"
-        }
-        color="#c89776"
-        width={8}
-      />
-      <Line
-        d={
-          step === 0
-            ? "M210 108l15-37 45 14"
-            : step === 1
-              ? "M202 113l-41 35-34 8"
-              : "M209 109l-32-43-42 11"
-        }
-        color="#e0b18b"
-        width={7}
-      />
-      {step === 0 && <Arrow x1={183} y1={172} x2={97} y2={172} color={blue} />}
-      {step === 1 && <Arrow x1={212} y1={52} x2={275} y2={72} color={warm} />}
-      {step === 2 && <Arrow x1={254} y1={164} x2={314} y2={164} color={teal} />}
-      <Label x={180} y={214}>
-        {["Eau repoussée", "Retour aérien", "Progression"][step]}
-      </Label>
-    </>
-  );
-}
-
 function Sweat(step: number) {
   const highHumidity = step === 2;
   return (
@@ -244,6 +191,6 @@ export const everydaySport = {
   rugbypass: Rugby,
   goalball: Goalball,
   wheelchaircourt: Wheelchair,
-  crawl: Swimmer,
+  crawl: Crawl,
   sweatcool: Sweat,
 } satisfies SceneSet;

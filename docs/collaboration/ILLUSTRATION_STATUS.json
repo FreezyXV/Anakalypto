@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:52:22.715Z",
+  "generatedAt": "2026-11-20T12:15:12.632Z",
   "scope": "PUBLISHED_ONLY",
   "counts": {
     "published": 948,
@@ -3612,8 +3612,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:10.102Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:09.558Z"
     },
     {
       "ref": "LEC-91F6DA939A3F",
@@ -4924,8 +4924,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:10.236Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:08.851Z"
     },
     {
       "ref": "LEC-0EDC9F247E2D",
@@ -8492,8 +8492,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:00.385Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:08.851Z"
     },
     {
       "ref": "LEC-40C7DD6FC45F",
@@ -8732,8 +8732,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:02.221Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:08.846Z"
     },
     {
       "ref": "LEC-506D5478104A",
@@ -9516,8 +9516,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:12.565Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:09.575Z"
     },
     {
       "ref": "LEC-11E6F474A4F4",
@@ -9628,8 +9628,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:34.022Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:10.173Z"
     },
     {
       "ref": "LEC-884FA96123B1",
@@ -10380,8 +10380,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:04.839Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:08.850Z"
     },
     {
       "ref": "LEC-12C3DBF1EECE",
@@ -10588,8 +10588,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:12.764Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:09.560Z"
     },
     {
       "ref": "LEC-566CC9052E4F",
@@ -10636,8 +10636,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:10.685Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:09.567Z"
     },
     {
       "ref": "LEC-B717E58E4287",
@@ -12460,8 +12460,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-batch50/README.md",
-      "reviewedAt": "2026-11-12T08:39:13.705Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:10.183Z"
     },
     {
       "ref": "LEC-986113EC21DD",
@@ -12684,8 +12684,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:06.916Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:10.750Z"
     },
     {
       "ref": "LEC-B79236AAB569",
@@ -14076,8 +14076,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:36.972Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:10.185Z"
     },
     {
       "ref": "LEC-0D8CEC61D5D1",
@@ -14716,8 +14716,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:10.414Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:10.174Z"
     },
     {
       "ref": "LEC-60F14261AE47",
@@ -14892,8 +14892,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/lesson-visuals-batch50/README.md",
-      "reviewedAt": "2026-11-12T08:39:13.968Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:10.771Z"
     },
     {
       "ref": "LEC-53213107D4F0",
@@ -14956,8 +14956,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:07.584Z"
+      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T12:15:10.756Z"
     },
     {
       "ref": "LEC-540468E98AC5",

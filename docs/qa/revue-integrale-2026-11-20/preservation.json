@@ -1,0 +1,85 @@
+{
+  "diagrams": 382,
+  "workshops": 18,
+  "diagramFrames": 1152,
+  "workshopFrames": 89,
+  "changedDiagramFrames": 33,
+  "changedWorkshopFrames": 14,
+  "touched": [
+    {
+      "id": "eclipse",
+      "type": "schema",
+      "changedStates": [0, 1, 2]
+    },
+    {
+      "id": "isslife",
+      "type": "schema",
+      "changedStates": [1]
+    },
+    {
+      "id": "diffusion",
+      "type": "schema",
+      "changedStates": [0, 1, 2]
+    },
+    {
+      "id": "leoconstellation",
+      "type": "schema",
+      "changedStates": [0, 1, 2]
+    },
+    {
+      "id": "egrloop",
+      "type": "schema",
+      "changedStates": [0]
+    },
+    {
+      "id": "ammoniasynthesis",
+      "type": "schema",
+      "changedStates": [1]
+    },
+    {
+      "id": "branchloop",
+      "type": "schema",
+      "changedStates": [0, 1, 2]
+    },
+    {
+      "id": "bootchain",
+      "type": "schema",
+      "changedStates": [0, 1, 2]
+    },
+    {
+      "id": "concreteprint",
+      "type": "schema",
+      "changedStates": [0, 1, 2]
+    },
+    {
+      "id": "anvilforge",
+      "type": "schema",
+      "changedStates": [0, 1, 2]
+    },
+    {
+      "id": "crawl",
+      "type": "schema",
+      "changedStates": [0, 1, 2]
+    },
+    {
+      "id": "rainbowdrop",
+      "type": "schema",
+      "changedStates": [0, 1, 2]
+    },
+    {
+      "id": "baseisolation",
+      "type": "schema",
+      "changedStates": [0, 1, 2]
+    },
+    {
+      "id": "le-bateau-et-l-eau-deplacee",
+      "type": "atelier",
+      "changedStates": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "id": "un-petit-effort-un-grand-levier",
+      "type": "atelier",
+      "changedStates": [1, 3, 5, 7]
+    }
+  ]
+}

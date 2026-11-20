@@ -1,6 +1,11 @@
 /** Small, explicit teaching models. Values describe ideal systems, not real equipment. */
 const clamp = (value: number) => Math.max(0, Math.min(100, value));
 const number = (value: number) => Math.round(value * 10) / 10;
+const frenchDecimal = new Intl.NumberFormat("fr-FR", {
+  maximumFractionDigits: 1,
+  useGrouping: false,
+});
+export const formatMeasurement = (value: number) => frenchDecimal.format(value);
 
 export function leverModel(value: number) {
   const loadArm = 30 - clamp(value) / 5;
@@ -52,9 +57,9 @@ export function gearsModel(value: number) {
 export function modelValueLabel(kind: string, value: number): string | undefined {
   switch (kind) {
     case "lever":
-      return `Bras de l’effort : ${number(leverModel(value).effortArm)} cm`;
+      return `Bras de l’effort : ${formatMeasurement(leverModel(value).effortArm)} cm`;
     case "buoyancy":
-      return `${number(buoyancyModel(value).cargo)} kg ajoutés`;
+      return `${formatMeasurement(buoyancyModel(value).cargo)} kg ajoutés`;
     case "moon":
       return moonModel(value).name;
     case "gears":
@@ -66,7 +71,7 @@ export function modelDescription(kind: string, value: number): string {
   switch (kind) {
     case "lever": {
       const m = leverModel(value);
-      return `Charge : 120 N à ${number(m.loadArm)} cm de l’appui. Effort d’équilibre : ${number(m.effortForce)} N à ${number(m.effortArm)} cm. Les moments se compensent. Barre idéale, sans poids ni frottement.`;
+      return `Charge : 120 N à ${formatMeasurement(m.loadArm)} cm de l’appui. Effort d’équilibre : ${formatMeasurement(m.effortForce)} N à ${formatMeasurement(m.effortArm)} cm. Les moments se compensent. Barre idéale, sans poids ni frottement.`;
     }
     case "buoyancy": {
       const m = buoyancyModel(value);

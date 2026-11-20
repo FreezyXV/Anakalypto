@@ -1,3 +1,4 @@
+import { BaseIsolation } from "./StructureReviewDrawings";
 import {
   Scene,
   Arrow,
@@ -168,50 +169,7 @@ export function Engineering50Drawing({ kind, step: s, id }: DrawingProps) {
         </Label>
       </Scene>
     );
-  if (kind === "baseisolation")
-    return (
-      <Scene
-        id={id}
-        title={
-          ["Le sol bouge", "Des appuis se déforment", "Le bâtiment est partiellement découplé"][s]!
-        }
-        foot={["Bâtiment ordinaire", "Isolation à la base", "Aucune protection absolue"][s]!}
-      >
-        <path d="M28 193H333" stroke="#ab9a7d" strokeWidth="13" />
-        {s > 0 &&
-          [104, 179, 254].map((x) => (
-            <g key={x} transform={`translate(${x} 168)`}>
-              {[0, 1, 2, 3].map((i) => (
-                <path
-                  key={i}
-                  d={`M${-16 + i * (s === 2 ? 2 : 1)} ${i * 5}h32`}
-                  stroke={i % 2 ? "#7896a8" : "#575e60"}
-                  strokeWidth="4"
-                />
-              ))}
-            </g>
-          ))}
-        <g transform={`translate(${s === 0 ? 6 : s === 1 ? 0 : -6} 0)`}>
-          <path
-            d={`M80 ${s === 0 ? 183 : 164}V62H279V${s === 0 ? 183 : 164}Z`}
-            fill="#dde7ec"
-            stroke="#8b9eaa"
-            strokeWidth="3"
-          />
-          {[0, 1, 2].map((i) => (
-            <path
-              key={i}
-              d={`M82 ${92 + i * 28}H276M130 63V${s === 0 ? 182 : 162}M229 63V${s === 0 ? 182 : 162}`}
-              fill="none"
-              stroke="#a0b5c2"
-              strokeWidth="4"
-            />
-          ))}
-        </g>
-        <Arrow x1={63} y1={203} x2={132} y2={203} color={warm} />
-        {s > 0 && <Arrow x1={250} y1={180} x2={300} y2={180} />}
-      </Scene>
-    );
+  if (kind === "baseisolation") return <BaseIsolation step={s} id={id} />;
   if (kind === "quadcopter")
     return (
       <Scene

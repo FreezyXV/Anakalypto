@@ -1,3 +1,4 @@
+import { hasReviewedDiagram, reviewedWorkshopHashes } from "./fixtures/reviewedVisuals";
 import { createHash } from "node:crypto";
 import { readFile } from "node:fs/promises";
 import { createElement } from "react";
@@ -16,7 +17,7 @@ const html = (kind: string, step: number) =>
 const hash = (markup: string) => createHash("sha256").update(markup).digest("hex");
 
 describe("review of existing drawings", () => {
-  it("preserves the actual delivered frames outside the four reviewed corrections", async () => {
+  it("preserves the historical frames outside documented reviews", async () => {
     const before = JSON.parse(
       await readFile(
         new URL("../docs/qa/existing-drawings/before-render-hashes.json", import.meta.url),
@@ -27,6 +28,7 @@ describe("review of existing drawings", () => {
     const delivered = LESSON_DIAGRAMS.filter((s) => s.id in before.drawings);
     expect(Object.keys(before.drawings).sort()).toEqual(delivered.map((s) => s.id).sort());
     for (const spec of delivered) {
+      if (hasReviewedDiagram(spec.id)) continue;
       const current = [0, 1, 2].map((step) => hash(html(spec.id, step)));
       if (changed.has(spec.id)) expect(current, spec.id).not.toEqual(before.drawings[spec.id]);
       else expect(current, spec.id).toEqual(before.drawings[spec.id]);
@@ -53,7 +55,7 @@ describe("review of existing drawings", () => {
         }),
       ]),
     );
-    expect(workshops).toEqual(before.workshops);
+    expect(workshops).toEqual({ ...before.workshops, ...reviewedWorkshopHashes });
   });
 
   it("raises the leading edge relative to the incident flow as incidence increases", () => {

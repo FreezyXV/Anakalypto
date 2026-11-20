@@ -1,4 +1,4 @@
-import { buoyancyModel } from "@/lib/discovery/models";
+import { formatMeasurement, buoyancyModel } from "@/lib/discovery/models";
 import { Arrow, C, Label, Title, type DiagramProps } from "./primitives";
 
 export function BuoyancyDiagram({ state }: DiagramProps) {
@@ -41,14 +41,14 @@ export function BuoyancyDiagram({ state }: DiagramProps) {
         Poussée
       </Label>
       <Label x={39} y={90} color={C.green}>
-        {Math.round(m.buoyantForce / 100) / 10} kN
+        {formatMeasurement(m.buoyantForce / 1000)} kN
       </Label>
       <Arrow x={39} y={160} dx={0} dy={-m.buoyantForce * forceScale} color={C.green} />
       <Label x={319} y={67}>
         Poids
       </Label>
       <Label x={319} y={90} color={C.orange}>
-        {Math.round(m.weight / 100) / 10} kN
+        {formatMeasurement(m.weight / 1000)} kN
       </Label>
       <Arrow x={319} y={117} dx={0} dy={m.weight * forceScale} color={C.orange} />
       <Label x={180} y={202}>

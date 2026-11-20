@@ -1,3 +1,4 @@
+import { ConcretePrint } from "./StructureReviewDrawings";
 import { Art, Tag, Arrow, blue, green, gold, red, ink, type DrawingProps } from "./Horizons50Parts";
 export function StructuresHorizonsDrawing(p: DrawingProps) {
   const { kind, step: s } = p;
@@ -29,48 +30,7 @@ export function StructuresHorizonsDrawing(p: DrawingProps) {
         </Tag>
       </Art>
     );
-  if (kind === "concreteprint") {
-    const n = [2, 5, 8][s]!;
-    return (
-      <Art {...p} foot="Parois imprimées, bâtiment à compléter">
-        <path d="M31 184H333L294 201H70Z" fill="#c3c9ca" />
-        {Array.from({ length: n }, (_, i) => (
-          <g key={i}>
-            <path
-              d={`M69 ${185 - i * 12}H282L313 ${170 - i * 12}H101Z`}
-              fill={i % 2 ? "#b9b4a5" : "#d2cbb8"}
-              stroke="#8c8c82"
-              strokeWidth="2"
-            />
-            {s === 2 && i < 5 && (
-              <path fill="none" d={`M155 ${185 - i * 12}H197`} stroke="#e5edf2" strokeWidth="8" />
-            )}
-          </g>
-        ))}
-        <path
-          d={`M${s === 0 ? 211 : 269} ${172 - n * 12}V${143 - n * 12}H327V46`}
-          stroke={ink}
-          fill="none"
-          strokeWidth="12"
-        />
-        <path
-          fill="none"
-          d={`M${s === 0 ? 211 : 269} ${172 - n * 12}v9`}
-          stroke={gold}
-          strokeWidth="7"
-        />
-        <Tag x={97} y={55}>
-          Buse
-        </Tag>
-        <path d={`M123 53L${s === 0 ? 203 : 258} ${143 - n * 12}`} stroke={ink} fill="none" />
-        {s === 2 && (
-          <Tag x={180} y={80}>
-            Ouverture prévue
-          </Tag>
-        )}
-      </Art>
-    );
-  }
+  if (kind === "concreteprint") return <ConcretePrint {...p} />;
   if (kind === "topologyshape")
     return (
       <Art {...p} foot="Une forme illustrative, à valider">
