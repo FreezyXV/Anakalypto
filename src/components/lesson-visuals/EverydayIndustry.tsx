@@ -1,9 +1,9 @@
+import { Silicon, Welding } from "./EverydayIndustrialCuts";
 import {
   Arrow,
   Label,
   Line,
   blue,
-  gold,
   green,
   muted,
   navy,
@@ -12,81 +12,6 @@ import {
   warm,
   type SceneSet,
 } from "./EverydayParts";
-
-function Silicon(step: number) {
-  return (
-    <>
-      {step === 0 && (
-        <>
-          <path
-            d="M42 90l124-13 33 32-127 18Z M42 90l30 37v41l-30-35Z"
-            fill="#99acbd"
-            stroke={navy}
-            strokeWidth="2"
-          />
-          <path d="M72 127l127-18v40l-127 19Z" fill="#6e859d" stroke={navy} strokeWidth="2" />
-          {[96, 117, 138, 159, 180].map((x, i) => (
-            <Line key={x} d={`M${x - 30} ${87 - i * 2}l30 36v38`} color="#cfdee9" width={1.7} />
-          ))}
-          <Arrow x1={205} y1={124} x2={242} y2={124} color={blue} />
-          <path
-            d="M247 95l52-9 32 36-52 9ZM247 101l32 36 52-9"
-            fill="#adbfd1"
-            stroke={navy}
-            strokeWidth="2"
-          />
-        </>
-      )}
-      {step === 1 && (
-        <>
-          <path d="M60 95L246 67l54 53-186 40Z" fill="#5193bb" stroke={navy} strokeWidth="2" />
-          <path
-            d="M114 160l186-40v16l-186 39-54-64V95Z"
-            fill="#8f9dc4"
-            stroke={navy}
-            strokeWidth="2"
-          />
-          {[0, 1, 2, 3, 4, 5].map((i) => (
-            <Line key={i} d={`M${75 + i * 30} ${94 - i * 4}l54 59`} color="#c8e3ed" width={1.4} />
-          ))}
-          <Line d="M87 125l190-35M100 139l189-36" color="#e8f8fa" width={3} />
-        </>
-      )}
-      {step === 2 && (
-        <>
-          <rect
-            x="59"
-            y="55"
-            width="242"
-            height="125"
-            rx="4"
-            fill="#9fafbd"
-            stroke={navy}
-            strokeWidth="3"
-          />
-          {Array.from({ length: 24 }, (_, i) => {
-            const x = 67 + (i % 6) * 39,
-              y = 63 + Math.floor(i / 6) * 28;
-            return (
-              <g key={i}>
-                <rect x={x} y={y} width="31" height="22" rx="2" fill="#376c93" />
-                <path
-                  d={`M${x + 6} ${y + 3}v16m8-16v16m8-16v16`}
-                  stroke="#a6c9da"
-                  strokeWidth="1"
-                />
-              </g>
-            );
-          })}
-          <Line d="M72 55l-45 96M291 55l-29 60" color="#f4faff" width={2} />
-        </>
-      )}
-      <Label x={180} y={213}>
-        {["Lingot et plaquette", "Jonction et contacts", "Cellules protégées"][step]}
-      </Label>
-    </>
-  );
-}
 
 function Forge(step: number, id: string) {
   return (
@@ -311,43 +236,6 @@ function Gauge(step: number, id: string) {
       <Label x={180} y={211}>
         {step === 0 ? "Becs fermés" : "Mesure extérieure"}
       </Label>
-    </>
-  );
-}
-
-function Welding(step: number) {
-  return (
-    <>
-      <path d="M39 133h106l35 25 35-25h106v45H39Z" fill="#a7b8c7" stroke={navy} strokeWidth="2" />
-      <Line d="M180 155v21" color="#ecf3f7" width={step === 0 ? 3 : 0} />
-      {step === 0 && (
-        <>
-          <Arrow x1={180} y1={80} x2={180} y2={138} color={blue} />
-          <Label x={180} y={70}>
-            Joint
-          </Label>
-        </>
-      )}
-      {step === 1 && (
-        <>
-          <Line d="M238 62l-39 68" color={navy} width={11} />
-          <path d="M197 126l-12 8 4 3-15 12" stroke={gold} strokeWidth="4" fill="none" />
-          <path d="M144 134q42-21 72 0l-37 37Z" fill="#e1a35f" stroke={warm} strokeWidth="2" />
-          <Label x={103} y={95} color={warm}>
-            Fusion locale
-          </Label>
-        </>
-      )}
-      {step === 2 && (
-        <>
-          <path d="M144 134q42-21 72 0l-37 37Z" fill="#87a7b7" stroke={navy} strokeWidth="2" />
-          <path d="M125 133l20 1 34 38 37-38 19-1-55 43Z" fill="#bdb2bd" opacity=".64" />
-          <Arrow x1={180} y1={79} x2={180} y2={113} color={blue} />
-          <Label x={180} y={70}>
-            Cordon solide
-          </Label>
-        </>
-      )}
     </>
   );
 }

@@ -1,0 +1,102 @@
+[
+  {
+    "ref": "LEC-EAC084B6C98F",
+    "path": "/arts-et-culture/arts-du-spectacle/musique/histoire-de-lenregistrement-sonore",
+    "title": "L'enregistrement du son",
+    "drawing": "audiogroove",
+    "group": "arts",
+    "contentHash": "1cfc29135369b6603929213d8bcec37d047a3d431f041f1921ed81de778ec39e",
+    "source": "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/history-of-the-cylinder-phonograph/",
+    "note": "Instrument réduit à un pavillon et un cylindre ; la pointe et la lecture du sillon sont peu lisibles."
+  },
+  {
+    "ref": "LEC-C6197D9681CE",
+    "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/comment-fabriquait-on-un-livre-enlumine-au-moyen-age",
+    "title": "Comment fabriquait-on un livre enluminé au Moyen Âge ?",
+    "drawing": "manuscript",
+    "group": "arts",
+    "contentHash": "52126821f2b5287ab7bab1c24689b346ea2e3122f47823f45cca1d5f66a0edae",
+    "source": "https://multimedia-ext.bnf.fr/pdf/carolingiens2.pdf",
+    "note": "La page et la lettrine sont très schématiques ; la réglure, la mise en page et l’ornement gagnent à être mieux distingués."
+  },
+  {
+    "ref": "LEC-49870EA70E08",
+    "path": "/arts-et-culture/patrimoine/architecture/ordres-architecturaux-grecs",
+    "title": "Les trois ordres de l'architecture grecque",
+    "drawing": "capitals",
+    "group": "arts",
+    "contentHash": "b0ba55f09724003674e44bc50a10614fedad6093aab1ad0f2be70b18f6b1011e",
+    "source": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/greek.pdf",
+    "note": "Chapiteaux trop proches de pictogrammes ; préciser les profils et la proportion du fût."
+  },
+  {
+    "ref": "LEC-B2749C72693A",
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/comment-survivent-les-animaux-dans-les-profondeurs-sombres-de-l-ocean",
+    "title": "Comment survivent les animaux dans les profondeurs sombres de l'océan ?",
+    "drawing": "midnightsea",
+    "group": "environment",
+    "contentHash": "a3dd7c75358d4cbbecc8768def41e6a81dfedd83e543a1fc6489e405f2c34133",
+    "source": "https://oceanexplorer.noaa.gov/explainers/marine-life/",
+    "note": "La silhouette et les échelles lumineuses rendent mal la morphologie d’un poisson des profondeurs."
+  },
+  {
+    "ref": "LEC-11E6F474A4F4",
+    "path": "/industries/industrie-lourde/chimie-industrielle/comment-fabrique-t-on-un-panneau-solaire-en-silicium",
+    "title": "Comment fabrique-t-on un panneau solaire en silicium ?",
+    "drawing": "siliconpanel",
+    "group": "industry",
+    "contentHash": "2f9bfa4410599d880cfe5bf4521bd445d7789db601e3b59a46c41875890549ec",
+    "source": "https://www.energy.gov/cmei/systems/solar-photovoltaic-manufacturing-basics",
+    "note": "La cellule et ses contacts se confondent avec un assemblage de modules ; affiner la coupe et les strates."
+  },
+  {
+    "ref": "LEC-067A881A6777",
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/soudage",
+    "title": "Le soudage",
+    "drawing": "weldjoint",
+    "group": "industry",
+    "contentHash": "ebf60d2a4046fa6f11136a3c4b244e90b08e822a5e5d59588bc366f03446258b",
+    "source": "https://www.twi-global.com/technical-knowledge/faqs/what-is-fusion-welding",
+    "note": "La liaison paraît uniforme ; mieux distinguer pièces, bain, cordon et métal voisin."
+  },
+  {
+    "ref": "LEC-4A31B63D6528",
+    "path": "/automobile/securite-et-conduite/suspension-confort-tenue-de-route",
+    "title": "La suspension et le compromis confort-tenue de route",
+    "drawing": "shocks",
+    "group": "auto",
+    "contentHash": "c2aa7a3c88f2aebd3c7825aa6c9f2b399e6ec29f59445c017bda2cca9368cd86",
+    "source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8400463/suspension-macpherson",
+    "note": "La géométrie du ressort et de la roue ne montre pas assez clairement les liaisons et le débattement."
+  },
+  {
+    "ref": "LEC-7608D0E5E568",
+    "path": "/automobile/securite-et-conduite/securite-passive/comment-un-airbag-se-gonfle-t-il-plus-vite-qu-un-clin-d-oeil",
+    "title": "Comment un airbag se gonfle-t-il plus vite qu'un clin d'œil ?",
+    "drawing": "airbagsequence",
+    "group": "auto",
+    "contentHash": "f89a7086130ea0c557ec78224b2cd31d42bb51c3e9c261eeb9f285ff33ce95b3",
+    "source": "https://www.iihs.org/topics/airbags",
+    "note": "L’occupant et l’habitacle sont réduits à des formes génériques ; clarifier où agit chaque protection."
+  },
+  {
+    "ref": "LEC-F6BEBB19BAC6",
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/comment-joue-t-on-au-goalball-sans-voir-le-ballon",
+    "title": "Comment joue-t-on au goalball sans voir le ballon ?",
+    "drawing": "goalball",
+    "group": "sport",
+    "contentHash": "9509f3c608a20d9a01a7cb2cfa891a0cd673fffcf693b7ec3eb528a6e3477a23",
+    "source": "https://ibsasport.org/sports/goalball/about/overview/",
+    "note": "Les silhouettes documentent mal le passage de la position attentive à la couverture latérale."
+  },
+  {
+    "ref": "LEC-9514752EEB2B",
+    "path": "/energie/energies-renouvelables/geothermie-chaleur-de-la-terre",
+    "title": "La géothermie, la chaleur de la Terre",
+    "drawing": "geoloop",
+    "group": "energy",
+    "contentHash": "f8d3f1061337fdf43dcbed9f4ee396ea10e3772f959669b8f56e95e5bb09e6eb",
+    "source": "https://www.energy.gov/hgeo/geothermal/geothermal-basics",
+    "note": "Les équipements de surface se ressemblent ; rendre les circuits et les usages plus différenciés."
+  }
+]

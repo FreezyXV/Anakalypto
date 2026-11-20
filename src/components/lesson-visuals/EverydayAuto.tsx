@@ -1,10 +1,10 @@
+import { Airbag, Suspension } from "./EverydayVehicleCuts";
 import {
   Arrow,
   Label,
   Line,
   Plate,
   blue,
-  gold,
   green,
   muted,
   navy,
@@ -235,117 +235,6 @@ function Tyre(step: number) {
       <Label x={180} y={212}>
         {step === 0 ? "Empreinte au sol" : "Rainures et eau"}
       </Label>
-    </>
-  );
-}
-
-function Suspension(step: number) {
-  const wheelY = step === 1 ? 128 : 153;
-  const top = step === 1 ? 80 : 75;
-  const bottom = wheelY - 13;
-  const spring = Array.from(
-    { length: 9 },
-    (_, i) => `L${i % 2 ? 166 : 129} ${top + ((bottom - top) * i) / 8}`,
-  ).join("");
-  return (
-    <>
-      <path
-        d={
-          [
-            "M37 180h286v17H37Z",
-            "M37 180h87q61-49 101 0h98v17H37Z",
-            "M37 180h201q35-30 62 0h23v17H37Z",
-          ][step]
-        }
-        fill="#bdab8a"
-        stroke="#8f7d62"
-        strokeWidth="2"
-      />
-      <Line d={`M148 ${bottom + 8}h61`} color={navy} width={4} />
-      <circle cx="180" cy={wheelY} r="26" fill={navy} stroke="#9fb1bc" strokeWidth="3" />
-      <circle cx="180" cy={wheelY} r="11" fill="#a4b3bc" />
-      <rect
-        x="84"
-        y={top - 22}
-        width="192"
-        height="22"
-        rx="4"
-        fill="#8cb0bf"
-        stroke={navy}
-        strokeWidth="2"
-      />
-      <Line d={`M148 ${top - 3}${spring}L148 ${bottom + 8}`} color={teal} width={4.2} />
-      <path
-        d={`M209 ${top}v${bottom - top + 8}m-8-34h16v24h-16Z`}
-        fill="#abbbc5"
-        stroke={navy}
-        strokeWidth="2.5"
-      />
-      {step === 1 && <Arrow x1={276} y1={159} x2={276} y2={118} color={warm} />}
-      {step === 2 && <Line d="M247 110q9-25 18 0q9 18 18 0q9-9 18 0" color={warm} width={2.5} />}
-      <Label x={91} y={133} color={teal}>
-        Ressort
-      </Label>
-      <Label x={267} y={216}>
-        {["Roue au sol", "Compression", "Amortissement"][step]}
-      </Label>
-    </>
-  );
-}
-
-function Airbag(step: number) {
-  const bent = step === 2;
-  return (
-    <>
-      <path
-        d="M67 160l26-23 19-45 45-30h102l45 51 10 71H67Z"
-        fill="#dbe8ed"
-        stroke="#7291a5"
-        strokeWidth="2"
-      />
-      <path d="M70 159h80v-17l-15-14-35-6" fill="#718e9e" stroke={navy} strokeWidth="2" />
-      <Line d="M264 112v56h-62" color="#8aa1b4" width={13} />
-      <path
-        d={bent ? "M246 159q-8-38-34-51l-14 24 20 31Z" : "M246 159q13-37-3-48l-24 8-11 43Z"}
-        fill="#7196b9"
-        stroke={navy}
-        strokeWidth="2"
-      />
-      <circle
-        cx={bent ? 201 : 231}
-        cy={bent ? 97 : 93}
-        r="17"
-        fill="#d5ad87"
-        stroke="#80634f"
-        strokeWidth="2"
-      />
-      <Line d={bent ? "M263 107l-46 52" : "M263 107l-25 51"} color={red} width={5} />
-      {step > 0 && (
-        <path
-          d={
-            bent
-              ? "M155 137q-13-49 17-49q27 0 20 35q-5 20-28 22Z"
-              : "M149 135q-19-55 10-62q48-4 49 32q-8 26-49 40Z"
-          }
-          fill="#ede0a8"
-          stroke={gold}
-          strokeWidth="2.5"
-        />
-      )}
-      {step === 0 && (
-        <>
-          <circle cx="92" cy="163" r="9" fill={warm} />
-          <Line d="M94 151v-38h25" color={warm} dash="4 3" />
-          <Label x={109} y={205} color={warm}>
-            Capteur
-          </Label>
-        </>
-      )}
-      {step > 0 && (
-        <Label x={180} y={213}>
-          {step === 1 ? "Coussin déployé" : "Ceinture et coussin"}
-        </Label>
-      )}
     </>
   );
 }

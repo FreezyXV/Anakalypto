@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "c24abdcb81b5dfa29638004dc6d8a8d705acb00457a8244ec4a4a4b166da7ad7",
+  "sourceDigest": "f1c122856dc4eba6ecffab3b7235634ddb378e8b4cea67c3b63894ca57f6632c",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -536,11 +536,11 @@
     {
       "path": "/arts-et-culture/arts-du-spectacle/musique/histoire-de-lenregistrement-sonore",
       "visualRefs": ["schema:audiogroove"],
-      "fingerprint": "550884eb26fbf019193d4084a2eb85466a3339aa1e5d07c9701a4ed82d138268",
+      "fingerprint": "40a9691b7dd8011d0e7f9ae083c40b44bbd192d512d5570c33b07b0c7ca62228",
       "contentHash": "1cfc29135369b6603929213d8bcec37d047a3d431f041f1921ed81de778ec39e",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:30.797Z"
+      "evidence": "docs/qa/finition-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:19:38.800Z"
     },
     {
       "path": "/arts-et-culture/arts-du-spectacle/musique/pourquoi-deux-instruments-ne-sonnent-ils-pas-pareil-sur-la-meme-note",
@@ -644,11 +644,11 @@
     {
       "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/comment-fabriquait-on-un-livre-enlumine-au-moyen-age",
       "visualRefs": ["schema:manuscript"],
-      "fingerprint": "2bae1f5e9ce96965877d585b8d9d604b8ab21cbc053fb65813a6b86f50a8b207",
+      "fingerprint": "7adab8f43040d853c4fed20d22d96e5dc167c8f234d2fcbe45c939b27695aa0a",
       "contentHash": "52126821f2b5287ab7bab1c24689b346ea2e3122f47823f45cca1d5f66a0edae",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:30.766Z"
+      "evidence": "docs/qa/finition-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:19:38.799Z"
     },
     {
       "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/comment-les-egyptiens-fabriquaient-ils-des-feuilles-avec-une-plante",
@@ -689,11 +689,11 @@
     {
       "path": "/arts-et-culture/patrimoine/architecture/ordres-architecturaux-grecs",
       "visualRefs": ["schema:capitals"],
-      "fingerprint": "0505e68116bce658137571883f2e4ed9c7c9a00cdccec5614d86e63b655e4106",
+      "fingerprint": "b2372e865b9b3789d1cac95ba5f75327a75e65764136030a1700e8d69bc1a17b",
       "contentHash": "b0ba55f09724003674e44bc50a10614fedad6093aab1ad0f2be70b18f6b1011e",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:31.501Z"
+      "evidence": "docs/qa/finition-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:19:38.801Z"
     },
     {
       "path": "/arts-et-culture/patrimoine/musees-et-conservation/conservation-preventive-et-restauration",
@@ -887,11 +887,11 @@
     {
       "path": "/automobile/securite-et-conduite/securite-passive/comment-un-airbag-se-gonfle-t-il-plus-vite-qu-un-clin-d-oeil",
       "visualRefs": ["schema:airbagsequence"],
-      "fingerprint": "ec84fa7b9771402f0bffea34666dadeff56c521ccdf94d9ebaf43103e0c62814",
+      "fingerprint": "e659a3ae8bc6d712582287fcc4585d24348a36932e5b7457c926df3071ed4626",
       "contentHash": "f89a7086130ea0c557ec78224b2cd31d42bb51c3e9c261eeb9f285ff33ce95b3",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:35.427Z"
+      "evidence": "docs/qa/finition-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:19:39.503Z"
     },
     {
       "path": "/automobile/securite-et-conduite/securite-passive/comment-une-ceinture-de-securite-se-bloque-t-elle-d-un-coup",
@@ -914,11 +914,11 @@
     {
       "path": "/automobile/securite-et-conduite/suspension-confort-tenue-de-route",
       "visualRefs": ["schema:shocks"],
-      "fingerprint": "ff2329c078fa6f017563bfbd87d740e1a137de7b14a49019445bea86cbfacc05",
+      "fingerprint": "bdd8015a947efe7a062c8e53dd1ce37d5f9cb17901ae8c186cdc859e90a4e7df",
       "contentHash": "c2aa7a3c88f2aebd3c7825aa6c9f2b399e6ec29f59445c017bda2cca9368cd86",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:35.605Z"
+      "evidence": "docs/qa/finition-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:19:39.733Z"
     },
     {
       "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/comment-les-freins-a-disque-arretent-ils-une-voiture",
@@ -1427,11 +1427,11 @@
     {
       "path": "/energie/energies-renouvelables/geothermie-chaleur-de-la-terre",
       "visualRefs": ["schema:geoloop"],
-      "fingerprint": "5313116d1083ecc6815505e8c57eab6fb29ecbcc65ef7d45da8d1be241be8efa",
+      "fingerprint": "9a23aa63b8716813be7e47937837ba8d116def0f8f83fdfa81659b2b7d99602d",
       "contentHash": "f8d3f1061337fdf43dcbed9f4ee396ea10e3772f959669b8f56e95e5bb09e6eb",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:37.567Z"
+      "evidence": "docs/qa/finition-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:19:40.055Z"
     },
     {
       "path": "/energie/energies-renouvelables/hydraulique/comment-un-barrage-transforme-t-il-l-eau-d-une-riviere-en-electricite",
@@ -1688,11 +1688,11 @@
     {
       "path": "/environnement-et-climat/biodiversite/forets-et-oceans/comment-survivent-les-animaux-dans-les-profondeurs-sombres-de-l-ocean",
       "visualRefs": ["schema:midnightsea"],
-      "fingerprint": "662996c72ac00045102bd45afbf109eb3dec7f1b3be9eb777faa52dab6b3c14b",
+      "fingerprint": "c3719999539c0704a8043c27cf2f0b4b2b19f1cbd9d70139b781ce388780c848",
       "contentHash": "a3dd7c75358d4cbbecc8768def41e6a81dfedd83e543a1fc6489e405f2c34133",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:33.247Z"
+      "evidence": "docs/qa/finition-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:19:38.800Z"
     },
     {
       "path": "/environnement-et-climat/biodiversite/forets-et-oceans/l-agroforesterie-combiner-arbres-et-cultures",
@@ -2390,11 +2390,11 @@
     {
       "path": "/industries/industrie-lourde/chimie-industrielle/comment-fabrique-t-on-un-panneau-solaire-en-silicium",
       "visualRefs": ["schema:siliconpanel"],
-      "fingerprint": "58f14270cbd637bb900e0b5c633aca275021b8bc096757de20e0a8fea464249d",
+      "fingerprint": "474a2c24788cf53909a3c9a8a509a5886e50292dbd80e8473b905a82371f0812",
       "contentHash": "2f9bfa4410599d880cfe5bf4521bd445d7789db601e3b59a46c41875890549ec",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:34.107Z"
+      "evidence": "docs/qa/finition-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:19:39.515Z"
     },
     {
       "path": "/industries/industrie-lourde/chimie-industrielle/comment-le-bois-devient-il-une-feuille-de-papier",
@@ -2570,11 +2570,11 @@
     {
       "path": "/industries/materiaux-et-procedes/mise-en-forme/soudage",
       "visualRefs": ["schema:weldjoint"],
-      "fingerprint": "1d0a0cb487d5f6a15ff9362747aeb1319ffc6428a3cdba72e7aad6142841717c",
+      "fingerprint": "f2859f7636af194b7cacd058d8c09a85f8c020184f5e5ace0808296dd4dbc809",
       "contentHash": "ebf60d2a4046fa6f11136a3c4b244e90b08e822a5e5d59588bc366f03446258b",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:34.686Z"
+      "evidence": "docs/qa/finition-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:19:39.494Z"
     },
     {
       "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/apprentissage-par-renforcement-alphago",
@@ -3596,11 +3596,11 @@
     {
       "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/comment-joue-t-on-au-goalball-sans-voir-le-ballon",
       "visualRefs": ["schema:goalball"],
-      "fingerprint": "c7e341bdabad1fb245bc05874ad6b11d683d2db52e8ac7729a2b93b6d5417d94",
+      "fingerprint": "c49608fdac59e0e7cbc2c950b54424e1759d8da222f0f7990fab9006d7a7363c",
       "contentHash": "9509f3c608a20d9a01a7cb2cfa891a0cd673fffcf693b7ec3eb528a6e3477a23",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:36.979Z"
+      "evidence": "docs/qa/finition-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:19:40.058Z"
     },
     {
       "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/pourquoi-le-crawl-est-il-la-nage-la-plus-rapide",
