@@ -1,6 +1,6 @@
 # Inventaire des illustrations
 
-Photographie du backend local exportée le 2026-11-19, sans audit du corpus. Aucun changement en production. Objectif : environ 1 000 leçons ; brouillons exclus.
+Photographie du backend local exportée le 2026-11-20, sans audit du corpus. Aucun changement en production. Objectif : environ 1 000 leçons ; brouillons exclus.
 
 | État                                       | Nombre |
 | ------------------------------------------ | -----: |

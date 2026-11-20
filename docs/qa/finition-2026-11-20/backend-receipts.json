@@ -1,0 +1,52 @@
+[
+  {
+    "path": "/arts-et-culture/arts-du-spectacle/musique/histoire-de-lenregistrement-sonore",
+    "status": "READY",
+    "visualRefs": ["schema:audiogroove"]
+  },
+  {
+    "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/comment-fabriquait-on-un-livre-enlumine-au-moyen-age",
+    "status": "READY",
+    "visualRefs": ["schema:manuscript"]
+  },
+  {
+    "path": "/arts-et-culture/patrimoine/architecture/ordres-architecturaux-grecs",
+    "status": "READY",
+    "visualRefs": ["schema:capitals"]
+  },
+  {
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/comment-survivent-les-animaux-dans-les-profondeurs-sombres-de-l-ocean",
+    "status": "READY",
+    "visualRefs": ["schema:midnightsea"]
+  },
+  {
+    "path": "/industries/industrie-lourde/chimie-industrielle/comment-fabrique-t-on-un-panneau-solaire-en-silicium",
+    "status": "READY",
+    "visualRefs": ["schema:siliconpanel"]
+  },
+  {
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/soudage",
+    "status": "READY",
+    "visualRefs": ["schema:weldjoint"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/suspension-confort-tenue-de-route",
+    "status": "READY",
+    "visualRefs": ["schema:shocks"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/securite-passive/comment-un-airbag-se-gonfle-t-il-plus-vite-qu-un-clin-d-oeil",
+    "status": "READY",
+    "visualRefs": ["schema:airbagsequence"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/comment-joue-t-on-au-goalball-sans-voir-le-ballon",
+    "status": "READY",
+    "visualRefs": ["schema:goalball"]
+  },
+  {
+    "path": "/energie/energies-renouvelables/geothermie-chaleur-de-la-terre",
+    "status": "READY",
+    "visualRefs": ["schema:geoloop"]
+  }
+]

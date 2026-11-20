@@ -1,3 +1,4 @@
+import { Goalball } from "./EverydayGoalball";
 import {
   Arrow,
   Label,
@@ -69,73 +70,6 @@ function Rugby(step: number) {
       </Plate>
       <Label x={180} y={218}>
         {["Sens de l’attaque", "Geste vers l’arrière", "Nouveau porteur"][step]}
-      </Label>
-    </>
-  );
-}
-
-function DefensePlayer({ x, y, lying = false }: { x: number; y: number; lying?: boolean }) {
-  return (
-    <g transform={`translate(${x} ${y})${lying ? " rotate(90) scale(.54)" : ""}`}>
-      <path
-        d={lying ? "M-16-7h29v15h-29Z" : "M-13-3l8-14h12l8 14-4 17h-22Z"}
-        fill="#647eab"
-        stroke={navy}
-        strokeWidth="2"
-      />
-      <circle cx={lying ? 20 : 0} cy={lying ? 1 : -18} r="6" fill="#d5ad8d" stroke="#876a5b" />
-      <Line
-        d={
-          lying ? "M-29 -3h13m-14 8h14m29-9h16m-16 8h14" : "M-13 1l-8 10m34-10 8 10m-14 3v9m-12-9v9"
-        }
-        color={navy}
-        width={3}
-      />
-    </g>
-  );
-}
-function Goalball(step: number) {
-  return (
-    <>
-      <Plate x={41} y={54} width={278} height={134} color="#c8dde1">
-        <path
-          d="M55 54v134m250-134v134M104 54v134M252 54v134M180 54v134"
-          stroke="#f9fbfc"
-          strokeWidth="3"
-        />
-        <path d="M306 63v116" stroke={navy} strokeWidth="5" />
-        <Line
-          d="M250 85h22m-22 36h22m-22 36h22"
-          color={blue}
-          dash="3 3"
-          width={step === 0 ? 3.5 : 1.4}
-        />
-        {[82, 123, 164].map((y) => (
-          <DefensePlayer key={y} x={275} y={y} lying={step === 2} />
-        ))}
-        {step > 0 && (
-          <>
-            <Arrow x1={65} y1={128} x2={step === 1 ? 192 : 241} y2={128} color={violet} dashed />
-            <circle
-              cx={step === 1 ? 169 : 238}
-              cy="128"
-              r="10"
-              fill="#356e91"
-              stroke={navy}
-              strokeWidth="2"
-            />
-            {step === 1 && (
-              <Line
-                d="M156 111q-17 16 0 34m27-34q17 16 0 34m-30-41q-25 24 0 48"
-                color={violet}
-                width={2.4}
-              />
-            )}
-          </>
-        )}
-      </Plate>
-      <Label x={180} y={217}>
-        {["Repères tactiles", "Grelots dans le ballon", "Défense à trois"][step]}
       </Label>
     </>
   );

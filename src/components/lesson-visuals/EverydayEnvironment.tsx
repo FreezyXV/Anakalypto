@@ -1,3 +1,4 @@
+import { MidnightSea } from "./EverydayDeepSea";
 import {
   Arrow,
   Label,
@@ -14,76 +15,6 @@ import {
   warm,
   type SceneSet,
 } from "./EverydayParts";
-
-function AbyssFish({ x, y, glow = false }: { x: number; y: number; glow?: boolean }) {
-  return (
-    <g transform={`translate(${x} ${y})`}>
-      <path
-        d="M-43 0L-64-17V18l21-11Q-12 32 30 14Q50 5 36-13Q-6-32-43 0Z"
-        fill="#6387a1"
-        stroke="#8eb5c7"
-        strokeWidth="2"
-      />
-      <path d="M-18-18q4-18 29-18q25 1 21 17" stroke="#9cb9c2" strokeWidth="2" fill="none" />
-      <path d="M9 9q18 9 35-3" stroke="#1c3246" strokeWidth="8" fill="none" />
-      <circle cx="18" cy="-8" r="5" fill="#c0dce6" />
-      <circle cx="19" cy="-8" r="2" fill={navy} />
-      {glow && (
-        <>
-          <circle cx="33" cy="-18" r="18" fill="#7eece2" opacity=".19" />
-          <circle cx="33" cy="-18" r="8" fill="#9ff5de" />
-          <circle cx="34" cy="-19" r="4" fill="#efffd0" />
-          {[-27, -17, -7, 3].map((x) => (
-            <circle key={x} cx={x} cy="15" r="2.5" fill="#91e9dd" />
-          ))}
-        </>
-      )}
-    </g>
-  );
-}
-
-function MidnightSea(step: number, id: string) {
-  return (
-    <>
-      <defs>
-        <linearGradient id={id + "-depth"} x2="0" y2="1">
-          <stop stopColor="#74c5dc" />
-          <stop offset=".45" stopColor="#285978" />
-          <stop offset="1" stopColor="#17263d" />
-        </linearGradient>
-      </defs>
-      <rect x="39" y="42" width="282" height="152" rx="10" fill={`url(#${id}-depth)`} />
-      <path
-        d="M40 57q26-10 49 0t52 0t50 0t50 0t51 0h27"
-        fill="none"
-        stroke="#b5e3e9"
-        strokeWidth="3"
-      />
-      {step === 0 && (
-        <>
-          <path d="M82 59l-23 85 109 6-58-91Z" fill="#caeff1" opacity=".16" />
-          <Arrow x1={98} y1={71} x2={120} y2={167} color="#bedee5" />
-        </>
-      )}
-      {step === 2 &&
-        Array.from({ length: 27 }, (_, i) => (
-          <circle
-            key={i}
-            cx={61 + ((i * 61) % 240)}
-            cy={65 + ((i * 37) % 112)}
-            r={1.5 + (i % 3) * 0.65}
-            fill="#d6e8e5"
-            opacity=".7"
-          />
-        ))}
-      <AbyssFish x={step === 0 ? 237 : 202} y={step === 2 ? 158 : 133} glow={step === 1} />
-      {step === 2 && <Arrow x1={107} y1={75} x2={107} y2={165} color="#bfdce0" dashed />}
-      <Label x={180} y={217}>
-        {["La lumière diminue", "Signal lumineux", "Neige marine"][step]}
-      </Label>
-    </>
-  );
-}
 
 function OceanCarbon(step: number, id: string) {
   return (

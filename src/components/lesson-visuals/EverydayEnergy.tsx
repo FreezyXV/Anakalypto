@@ -1,3 +1,4 @@
+import { GeoHeat } from "./EverydayGeothermal";
 import {
   Arrow,
   Label,
@@ -30,51 +31,6 @@ function Building({ x, y, wide = false }: { x: number; y: number; wide?: boolean
     </g>
   );
 }
-function GeoHeat(step: number) {
-  const y = step === 0 ? 137 : step === 1 ? 166 : 189;
-  return (
-    <>
-      <path d="M37 94h286v100H37Z" fill="#d4bd9c" stroke="#ac9171" strokeWidth="1.5" />
-      <path d="M38 128q55-12 110-3t93 0t82-1v20q-40 9-81 1t-98 0t-106 3Z" fill="#bba081" />
-      <path d="M38 167q74-14 140-2t145-4v33H38Z" fill="#b88b78" />
-      <Line d={`M106 95v${y - 95}h95V95`} color={navy} width={7} />
-      <Line d={`M106 95V${y}h47`} color={blue} width={4} />
-      <Line d={`M153 ${y}h48V95`} color={warm} width={4} />
-      <Arrow x1={106} y1={y - 19} x2={106} y2={y - 3} color={blue} width={3} />
-      <Arrow x1={201} y1={y - 10} x2={201} y2={y - 35} color={warm} width={3} />
-      <Line d="M106 95V81h41" color={blue} width={3} />
-      <Line d="M201 95V63h-43" color={warm} width={3} />
-      <Plate x={143} y={56} width={36} height={33} color={step === 0 ? "#ccdce5" : "#ddd4e6"}>
-        <path d="M151 69h8v-7m1 18h10v-8" fill="none" stroke={navy} strokeWidth="2" />
-      </Plate>
-      {step === 0 && (
-        <>
-          <Building x={269} y={94} />
-          <Arrow x1={180} y1={78} x2={231} y2={78} color={warm} />
-        </>
-      )}
-      {step === 1 && (
-        <>
-          <Building x={268} y={94} wide />
-          <Arrow x1={180} y1={78} x2={211} y2={78} color={warm} />
-          <Line d="M113 160q42-9 82 0m-82 12q42-9 82 0" color="#85694d" width={1.4} dash="4 4" />
-        </>
-      )}
-      {step === 2 && (
-        <>
-          <Arrow x1={181} y1={78} x2={229} y2={78} color={warm} />
-          <circle cx="246" cy="76" r="16" fill="#a7c7cd" stroke={navy} strokeWidth="2" />
-          <Line d="M239 76h14m-7-8v16" color={teal} />
-          <Arrow x1={265} y1={76} x2={300} y2={76} color={green} />
-        </>
-      )}
-      <Label x={180} y={216}>
-        {["Boucle et pompe à chaleur", "Réseau de chaleur", "Groupe électrique"][step]}
-      </Label>
-    </>
-  );
-}
-
 function SolarRoof(step: number, id: string) {
   const night = step === 2;
   return (

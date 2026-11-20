@@ -1,0 +1,546 @@
+{
+  "320": [
+    {
+      "id": "audiogroove",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Conserver",
+      "stage": 1,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "audiogroove",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Relire",
+      "stage": 2,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "audiogroove",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Graver",
+      "stage": 0,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "manuscript",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Copier le texte",
+      "stage": 1,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "manuscript",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Enluminer",
+      "stage": 2,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "manuscript",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Préparer la page",
+      "stage": 0,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "capitals",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Ionique",
+      "stage": 1,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "capitals",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Corinthien",
+      "stage": 2,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "capitals",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Dorique",
+      "stage": 0,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "midnightsea",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Produire de la lumière",
+      "stage": 1,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "midnightsea",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Recevoir de la nourriture",
+      "stage": 2,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "midnightsea",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Descendre",
+      "stage": 0,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "siliconpanel",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Former la cellule",
+      "stage": 1,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "siliconpanel",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Assembler",
+      "stage": 2,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "siliconpanel",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Découper",
+      "stage": 0,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "weldjoint",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Un bain local",
+      "stage": 1,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "weldjoint",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Une liaison solide",
+      "stage": 2,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "weldjoint",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Un joint",
+      "stage": 0,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "shocks",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Sur la bosse",
+      "stage": 1,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "shocks",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Après la bosse",
+      "stage": 2,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "shocks",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Au repos",
+      "stage": 0,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "airbagsequence",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Déployer",
+      "stage": 1,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "airbagsequence",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Amortir",
+      "stage": 2,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "airbagsequence",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Détecter",
+      "stage": 0,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "goalball",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Écouter",
+      "stage": 1,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "goalball",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Couvrir le but",
+      "stage": 2,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "goalball",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Se placer",
+      "stage": 0,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "geoloop",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Pour un quartier",
+      "stage": 1,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "geoloop",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Pour produire du courant",
+      "stage": 2,
+      "textPx": 12.55,
+      "width": 320
+    },
+    {
+      "id": "geoloop",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Sous une maison",
+      "stage": 0,
+      "textPx": 12.55,
+      "width": 320
+    }
+  ],
+  "1280": [
+    {
+      "id": "audiogroove",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Conserver",
+      "stage": 1,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "audiogroove",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Relire",
+      "stage": 2,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "audiogroove",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Graver",
+      "stage": 0,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "manuscript",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Copier le texte",
+      "stage": 1,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "manuscript",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Enluminer",
+      "stage": 2,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "manuscript",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Préparer la page",
+      "stage": 0,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "capitals",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Ionique",
+      "stage": 1,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "capitals",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Corinthien",
+      "stage": 2,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "capitals",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Dorique",
+      "stage": 0,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "midnightsea",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Produire de la lumière",
+      "stage": 1,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "midnightsea",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Recevoir de la nourriture",
+      "stage": 2,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "midnightsea",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Descendre",
+      "stage": 0,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "siliconpanel",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Former la cellule",
+      "stage": 1,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "siliconpanel",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Assembler",
+      "stage": 2,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "siliconpanel",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Découper",
+      "stage": 0,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "weldjoint",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Un bain local",
+      "stage": 1,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "weldjoint",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Une liaison solide",
+      "stage": 2,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "weldjoint",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Un joint",
+      "stage": 0,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "shocks",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Sur la bosse",
+      "stage": 1,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "shocks",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Après la bosse",
+      "stage": 2,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "shocks",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Au repos",
+      "stage": 0,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "airbagsequence",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Déployer",
+      "stage": 1,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "airbagsequence",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Amortir",
+      "stage": 2,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "airbagsequence",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Détecter",
+      "stage": 0,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "goalball",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Écouter",
+      "stage": 1,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "goalball",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Couvrir le but",
+      "stage": 2,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "goalball",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Se placer",
+      "stage": 0,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "geoloop",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "2Pour un quartier",
+      "stage": 1,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "geoloop",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "3Pour produire du courant",
+      "stage": 2,
+      "textPx": 30.726171875,
+      "width": 1280
+    },
+    {
+      "id": "geoloop",
+      "overflow": 0,
+      "panels": 1,
+      "pressed": "1Sous une maison",
+      "stage": 0,
+      "textPx": 30.726171875,
+      "width": 1280
+    }
+  ]
+}
