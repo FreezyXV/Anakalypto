@@ -141,7 +141,10 @@ export function AutoHorizonsDrawing(p: DrawingProps) {
     );
   if (kind === "egrloop")
     return (
-      <Art {...p} foot="Une partie des gaz est recirculée">
+      <Art
+        {...p}
+        foot={s === 0 ? "Vanne fermée · trajet direct" : "Une partie des gaz est recirculée"}
+      >
         <Box x={136} y={120} w={88} h={75}>
           <Tag x={180} y={159}>
             Moteur
@@ -150,7 +153,7 @@ export function AutoHorizonsDrawing(p: DrawingProps) {
         <Arrow d="M25 148H134" color={blue} />
         <Arrow d="M226 148H335" color={red} />
         <path
-          d="M282 147V76H82V146"
+          d={s === 0 ? "M282 147V76H201M159 76H82V146" : "M282 147V76H82V146"}
           stroke={s === 0 ? "#a5b1bc" : gold}
           strokeWidth="9"
           fill="none"

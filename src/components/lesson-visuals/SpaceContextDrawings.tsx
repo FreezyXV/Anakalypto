@@ -1,4 +1,4 @@
-import { Arrow, Label, Earth, Dot, ink } from "./DrawingPrimitives";
+import { Arrow, Label, Earth, Dot } from "./DrawingPrimitives";
 import { Sky, Star, NightLabel } from "./AstronomyDrawings";
 import { equalFluxRadius } from "@/lib/lesson-visuals/astronomy-models";
 import type { LessonDiagramKind } from "@/lib/lesson-visuals/registry";
@@ -227,44 +227,41 @@ export function SpaceContextDrawing({ kind, step, id }: Props) {
           </>
         ) : step === 1 ? (
           <>
-            {[68, 124].map((y) => (
-              <g key={y}>
-                <circle cx="61" cy={y} r="8" fill="#df8b74" />
-                <circle cx="50" cy={y + 10} r="5" fill="#e7eff6" />
-                <circle cx="72" cy={y + 10} r="5" fill="#e7eff6" />
-              </g>
-            ))}
-            <rect
-              x="127"
-              y="65"
-              width="117"
-              height="77"
-              rx="10"
-              fill={`url(#${id}-metal)`}
-              stroke="#a1b7cf"
-            />
-            <path d="M147 77V128M223 77V128" stroke="#7891ac" strokeWidth="5" />
-            <path d="M157 90h9M209 85v10M204 90h10" stroke={ink} strokeWidth="2" />
-            <path d="M181 80l-8 22h12l-9 25" fill="none" stroke="#c7963d" strokeWidth="3" />
-            <Arrow x1={85} y1={103} x2={119} y2={103} color="#a9d4e9" width={2} />
-            <Arrow x1={250} y1={87} x2={276} y2={75} color="#c9d7e7" width={1.5} />
-            <Arrow x1={250} y1={124} x2={276} y2={137} color="#e6b4a6" width={1.5} />
-            {[64, 88].map((y) => (
-              <g key={y}>
-                <circle cx="284" cy={y} r="5" fill="#e7eff6" />
-                <circle cx="294" cy={y} r="5" fill="#e7eff6" />
-              </g>
-            ))}
-            <circle cx="284" cy="135" r="7" fill="#df8b74" />
-            <circle cx="298" cy="135" r="7" fill="#df8b74" />
-            <NightLabel x={325} y={83}>
-              H₂
+            <NightLabel x={180} y={34}>
+              L’électricité sépare l’eau
             </NightLabel>
-            <NightLabel x={326} y={143}>
+            <path d="M117 78h126v60H117Z" fill="#385574" stroke="#96adc4" strokeWidth="1.6" />
+            <path d="M180 80v56" stroke="#a1b6c9" strokeWidth="2" strokeDasharray="4 4" />
+            <path d="M137 87v39m86-39v39" stroke="#c4d9e8" strokeWidth="4" />
+            <NightLabel x={137} y={67}>
+              +
+            </NightLabel>
+            <NightLabel x={223} y={67}>
+              −
+            </NightLabel>
+            <Arrow x1={135} y1={103} x2={56} y2={103} color="#efad9f" width={2.3} />
+            <Arrow x1={225} y1={103} x2={305} y2={103} color="#b4d9ec" width={2.3} />
+            <Arrow x1={180} y1={151} x2={180} y2={140} color="#bddaf0" width={2.2} />
+            <NightLabel x={181} y={169}>
+              Eau
+            </NightLabel>
+            <NightLabel x={54} y={88}>
               O₂
             </NightLabel>
-            <NightLabel x={180} y={36}>
-              Apport électrique
+            <NightLabel x={58} y={130}>
+              Vers la
+            </NightLabel>
+            <NightLabel x={58} y={151}>
+              cabine
+            </NightLabel>
+            <NightLabel x={306} y={88}>
+              H₂
+            </NightLabel>
+            <NightLabel x={301} y={132}>
+              Sortie
+            </NightLabel>
+            <NightLabel x={302} y={153}>
+              séparée
             </NightLabel>
           </>
         ) : (

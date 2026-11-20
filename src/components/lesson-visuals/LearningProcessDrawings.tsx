@@ -410,13 +410,13 @@ export function LearningProcessDrawing({ kind, step, id }: Props) {
         </g>
         {step > 0 && (
           <>
-            <path d="M106 111H119V174H158" fill="none" stroke={green} strokeWidth="2.3" />
-            <Arrow x1={148} y1={174} x2={167} y2={174} color={green} />
-            <rect x="167" y="159" width="123" height="30" rx="7" fill="#d4e4ce" stroke="#88a07f" />
-            <Label x={228} y={180}>
+            <path d="M106 111H119V167H158" fill="none" stroke={green} strokeWidth="2.3" />
+            <Arrow x1={148} y1={167} x2={167} y2={167} color={green} />
+            <rect x="167" y="153" width="123" height="29" rx="7" fill="#d4e4ce" stroke="#88a07f" />
+            <Label x={228} y={174}>
               Modèle appris
             </Label>
-            <Arrow x1={228} y1={159} x2={228} y2={145} color={green} width={2} />
+            <Arrow x1={228} y1={153} x2={228} y2={146} color={green} width={2} />
           </>
         )}
         <Label x={180} y={27}>
@@ -429,7 +429,7 @@ export function LearningProcessDrawing({ kind, step, id }: Props) {
           }
         </Label>
         <Label x={180} y={201}>
-          Principe illustré · modèle non exécuté
+          Exemple dessiné
         </Label>
       </>
     );

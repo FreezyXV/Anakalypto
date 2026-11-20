@@ -1,0 +1,122 @@
+[
+  {
+    "drawing": "eclipse",
+    "path": "/espace-et-astronomie/systeme-solaire/lune/pourquoi-n-y-a-t-il-pas-une-eclipse-a-chaque-nouvelle-lune",
+    "title": "Quand une ombre rencontre un astre",
+    "visualRefs": ["schema:eclipse"],
+    "contentHash": "80b7709eb3e511cabcdac8ce33609d7cfc7e4e7f12bd044eca74f89bad13fc33",
+    "note": "La vue hors alignement ne distingue pas l’ombre centrale de la pénombre. Clarifier les deux zones et montrer le contact de l’ombre avec la Terre ou la Lune."
+  },
+  {
+    "drawing": "isslife",
+    "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/comment-les-astronautes-ont-ils-toujours-de-l-eau-et-de-l-air-dans-la-station-spatiale",
+    "title": "Recycler l’eau, produire l’oxygène, épurer l’air",
+    "visualRefs": ["schema:isslife"],
+    "contentHash": "4d354728ec08bf7f82c411cbb31f369adccc69b76d2cb41fafcae5f047597269",
+    "note": "Les deux gaz sortent du même côté sans être reliés à leur électrode. Identifier les sorties et la destination de l’oxygène."
+  },
+  {
+    "drawing": "diffusion",
+    "path": "/intelligence-artificielle/modeles-de-langage/ia-generative/comment-une-ia-fabrique-t-elle-une-image-a-partir-d-une-simple-phrase",
+    "title": "Du bruit vers une image guidée par du texte",
+    "visualRefs": ["schema:diffusion"],
+    "contentHash": "cdc6dbdc5f6cd22de5a207c1198704d404f77b3b47b65679a05d5df6674dc082",
+    "note": "Le bloc du modèle et le pied de la planche se touchent. Dégager les repères et relier le texte à la transformation de l’image."
+  },
+  {
+    "drawing": "leoconstellation",
+    "path": "/communication-et-medias/telecommunications/satellites/constellations-satellites-orbite-basse",
+    "title": "Se relayer en orbite basse",
+    "visualRefs": ["schema:leoconstellation"],
+    "contentHash": "43b38d71c55cd6305c7c0596c260b0bbc87e5b5fbc423e1730aee81141e5336f",
+    "note": "Le titre est répété et « Une zone à la fois » peut être compris comme une limite de la constellation. Montrer le recouvrement des empreintes et la liaison qui change de satellite."
+  },
+  {
+    "drawing": "egrloop",
+    "path": "/automobile/motorisations/thermique/vanne-egr-recirculation-gaz-echappement",
+    "title": "Réutiliser une partie des gaz",
+    "visualRefs": ["schema:egrloop"],
+    "contentHash": "1a77e3e3c150a773dbebe4a1cbe7a257eef63d01ff56bdc33232dfeae7ffe5d4",
+    "note": "La légende de la vue sans recirculation affirme que des gaz sont recirculés. Faire correspondre la légende et la position de la vanne."
+  },
+  {
+    "drawing": "ammoniasynthesis",
+    "path": "/industries/industrie-lourde/chimie-industrielle/comment-fabrique-t-on-des-engrais-avec-l-azote-de-l-air",
+    "title": "Assembler l’ammoniac",
+    "visualRefs": ["schema:ammoniasynthesis"],
+    "contentHash": "143e0ee6c55c4489c37cd97eed8dff59693854ed989b8a66e8bac8ffd623527b",
+    "note": "Les libellés des deux réactifs sont répétés au-dessus des molécules de produit. Identifier les deux molécules d’ammoniac et distinguer les atomes par une légende."
+  },
+  {
+    "drawing": "branchloop",
+    "path": "/micro-informatique-et-informatique/logiciel/programmation/comment-un-programme-decide-t-il-quoi-faire-grace-aux-conditions-et-aux-boucles",
+    "title": "Choisir puis recommencer",
+    "visualRefs": ["schema:branchloop"],
+    "contentHash": "8289ae2e6a6e3f3f12adc0801d434b6d3baaff14e0abe4b8eb46b32d67df57a4",
+    "note": "La branche « Non » mène graphiquement à l’incrément dans les premiers états. Séparer les deux destinations dans chacun des trois états."
+  },
+  {
+    "drawing": "bootchain",
+    "path": "/micro-informatique-et-informatique/logiciel/systemes-d-exploitation/comment-un-ordinateur-demarre-t-il-quand-on-appuie-sur-le-bouton",
+    "title": "Le relais du démarrage",
+    "visualRefs": ["schema:bootchain"],
+    "contentHash": "d3af6f02036550aa0413c1ede613f5db805fd0d14b7fae060f1b472365a7ac85",
+    "note": "Les deux dernières vues montrent la même copie du disque vers la RAM. Au démarrage, rendre visible l’exécution du noyau désormais en mémoire."
+  },
+  {
+    "drawing": "concreteprint",
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/peut-on-vraiment-construire-une-maison-en-l-imprimant-en-beton",
+    "title": "Déposer des couches",
+    "visualRefs": ["schema:concreteprint"],
+    "contentHash": "1b532f615938c7a5c6a725fbf305ff2e0f2f920797db3ccd36356e14e3ae46bb",
+    "note": "Des bandes claires couvrent un mur continu et laissent croire qu’une ouverture a été peinte. Montrer une réservation réellement vide entre deux pans imprimés."
+  },
+  {
+    "drawing": "anvilforge",
+    "path": "/industries/industrie-lourde/siderurgie/forge-travail-fer",
+    "title": "Donner une forme au métal",
+    "visualRefs": ["schema:anvilforge"],
+    "contentHash": "b8357a6129d58b80b1b5345e46cf5d4fafa0fc539f168dd86045fe8882397608",
+    "note": "L’enclume ressemble à un profilé d’acier, et les trois états donnent mal à voir l’étirage à l’état solide. Dessiner une enclume, une pièce chaude suivie d’un état à l’autre et un avant/après."
+  },
+  {
+    "drawing": "crawl",
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/pourquoi-le-crawl-est-il-la-nage-la-plus-rapide",
+    "title": "Un bras propulse pendant que l’autre revient",
+    "visualRefs": ["schema:crawl"],
+    "contentHash": "62f80e23f5f54b7b06672d8cd8f5f60234a036c7761b591308d412fe88df5305",
+    "note": "Deux traits anguleux se croisent au même point et ne distinguent pas clairement quel bras est sous l’eau. Séparer la traction et le retour aérien dans une même vue en coupe."
+  },
+  {
+    "drawing": "rainbowdrop",
+    "path": "/sciences-fondamentales/physique/electromagnetisme/comment-se-forme-un-arc-en-ciel",
+    "title": "Le trajet de la lumière dans une goutte",
+    "visualRefs": ["schema:rainbowdrop"],
+    "contentHash": "afbe210a41cb00c99aae49248b453a76a1bd15f92032f4059226eb21c120315a",
+    "note": "Deux rayons physiquement proches se recouvrent à la taille du téléphone. Conserver le trajet calculé et ajouter un agrandissement signalé pour lire les deux couleurs."
+  },
+  {
+    "drawing": "baseisolation",
+    "path": "/technologies-et-ingenierie/genie-civil/structures/comment-construire-des-batiments-qui-resistent-aux-tremblements-de-terre",
+    "title": "Découpler une partie du mouvement",
+    "visualRefs": ["schema:baseisolation"],
+    "contentHash": "d19e9b43f2702233a81d04bdba8150c598b6d2bcaf79379c6670f3fd03b1e269",
+    "note": "Les positions avant secousse et les déplacements sont difficiles à comparer dans le dessin. Réutiliser le même repère et montrer la déformation des appuis entre le sol et le bâtiment."
+  },
+  {
+    "drawing": "le-bateau-et-l-eau-deplacee",
+    "path": "/sciences-fondamentales/physique/mecanique/pourquoi-un-bateau-en-acier-flotte-t-il",
+    "title": "Pourquoi une coque flotte-t-elle ?",
+    "visualRefs": ["atelier:le-bateau-et-l-eau-deplacee"],
+    "contentHash": "33d387f4b9622add4030dd064631f30d0d502f7ca1dd037b45e99ea6677efd4b",
+    "note": "Les forces intégrées au dessin emploient le point décimal. Appliquer la virgule aux valeurs en kilonewtons en français."
+  },
+  {
+    "drawing": "un-petit-effort-un-grand-levier",
+    "path": "/technologies-et-ingenierie/genie-civil/structures/levier-poulie-plan-incline",
+    "title": "Comment un levier réduit-il l’effort ?",
+    "visualRefs": ["atelier:un-petit-effort-un-grand-levier"],
+    "contentHash": "f844849c84ea1f4d6c167070c3c00189b7319511f080c7cf5017216a01b204a1",
+    "note": "Les mesures intégrées au dessin emploient le point décimal. Appliquer la virgule aux mesures et à leur description accessible en français."
+  }
+]

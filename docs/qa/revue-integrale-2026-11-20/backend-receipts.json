@@ -1,0 +1,77 @@
+[
+  {
+    "path": "/espace-et-astronomie/systeme-solaire/lune/pourquoi-n-y-a-t-il-pas-une-eclipse-a-chaque-nouvelle-lune",
+    "status": "READY",
+    "visualRefs": ["schema:eclipse"]
+  },
+  {
+    "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/comment-les-astronautes-ont-ils-toujours-de-l-eau-et-de-l-air-dans-la-station-spatiale",
+    "status": "READY",
+    "visualRefs": ["schema:isslife"]
+  },
+  {
+    "path": "/intelligence-artificielle/modeles-de-langage/ia-generative/comment-une-ia-fabrique-t-elle-une-image-a-partir-d-une-simple-phrase",
+    "status": "READY",
+    "visualRefs": ["schema:diffusion"]
+  },
+  {
+    "path": "/communication-et-medias/telecommunications/satellites/constellations-satellites-orbite-basse",
+    "status": "READY",
+    "visualRefs": ["schema:leoconstellation"]
+  },
+  {
+    "path": "/automobile/motorisations/thermique/vanne-egr-recirculation-gaz-echappement",
+    "status": "READY",
+    "visualRefs": ["schema:egrloop"]
+  },
+  {
+    "path": "/industries/industrie-lourde/chimie-industrielle/comment-fabrique-t-on-des-engrais-avec-l-azote-de-l-air",
+    "status": "READY",
+    "visualRefs": ["schema:ammoniasynthesis"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/logiciel/programmation/comment-un-programme-decide-t-il-quoi-faire-grace-aux-conditions-et-aux-boucles",
+    "status": "READY",
+    "visualRefs": ["schema:branchloop"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/logiciel/systemes-d-exploitation/comment-un-ordinateur-demarre-t-il-quand-on-appuie-sur-le-bouton",
+    "status": "READY",
+    "visualRefs": ["schema:bootchain"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/peut-on-vraiment-construire-une-maison-en-l-imprimant-en-beton",
+    "status": "READY",
+    "visualRefs": ["schema:concreteprint"]
+  },
+  {
+    "path": "/industries/industrie-lourde/siderurgie/forge-travail-fer",
+    "status": "READY",
+    "visualRefs": ["schema:anvilforge"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/pourquoi-le-crawl-est-il-la-nage-la-plus-rapide",
+    "status": "READY",
+    "visualRefs": ["schema:crawl"]
+  },
+  {
+    "path": "/sciences-fondamentales/physique/electromagnetisme/comment-se-forme-un-arc-en-ciel",
+    "status": "READY",
+    "visualRefs": ["schema:rainbowdrop"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/genie-civil/structures/comment-construire-des-batiments-qui-resistent-aux-tremblements-de-terre",
+    "status": "READY",
+    "visualRefs": ["schema:baseisolation"]
+  },
+  {
+    "path": "/sciences-fondamentales/physique/mecanique/pourquoi-un-bateau-en-acier-flotte-t-il",
+    "status": "READY",
+    "visualRefs": ["atelier:le-bateau-et-l-eau-deplacee"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/genie-civil/structures/levier-poulie-plan-incline",
+    "status": "READY",
+    "visualRefs": ["atelier:un-petit-effort-un-grand-levier"]
+  }
+]

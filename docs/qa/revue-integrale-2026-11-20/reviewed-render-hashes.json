@@ -1,0 +1,125 @@
+{
+  "diagrams": {
+    "eclipse": [
+      "7a996d4d3c52c28a4592c5ae13ef0c38ede61bbd5fa7d957bfc02a8084d970d3",
+      "b8344b118b7069ab11d666c947a5bb91f012c07ba477f2765e92e729ef1c30a6",
+      "35d7e17a5ec3fff4b4b97128e17a7ea783590524d5cc6c7b990de7bbfc1030f2"
+    ],
+    "isslife": [
+      "0cf688c275eb2e89d36052ad3c3938596aa6b0c320c8047d099a7c8c04461f57",
+      "dabab8d7d92d63ecf67e2a18d9d017ccb3fc9db613d49828f51b4d46eb1bafa4",
+      "adac7c482e1141631150669f4ae7f7149190dfbabed290b4899a29c8f762a68f"
+    ],
+    "diffusion": [
+      "d1015ff56948a507d792e0e41d5898b4e609a1d3f0a7dac8a87930bea9a71ebf",
+      "2fb38d3ad110524cb8506befa22499dd800473d33f8310357889f5986f7293ed",
+      "8a77ad97ce637846c7950200184291fb76ed6d31368bd4b18499ae52e42083dd"
+    ],
+    "leoconstellation": [
+      "1ec906bcd9abbebdb25dc7ce1acc7958a791686a167b69373da928324f681997",
+      "298b186db025f3b9271096799e5f8906d66f5df693d208944ec149cc225bd29e",
+      "c730e771358325f85fbce57400dbacabda9bdad2a65d6aab80b0e20b0d4803f3"
+    ],
+    "egrloop": [
+      "5279213d149c89544df26d338e4573acab2ffcd23a550a024d06533818fbc689",
+      "edc7f6c7967fe670ff7f04cb0654c3719025f6b7a020da99e928473d5f9dacff",
+      "5d08f385a0ca6bc4421445d457407f1d795789f7c8ca8b6aa6e70ca714380ce5"
+    ],
+    "ammoniasynthesis": [
+      "006103de8fadeeb17153f7748a85245844487f19e2c91f68acf30634b2fb07f9",
+      "f790828022b7d0292fd95a3fd1dfa3559039fe9e417180b732adc0bd22c09697",
+      "eac9b516b04e4c31c2a0d1fd4f06f3a3bd1f5cd70bddb76fb82d2e9f993c7145"
+    ],
+    "branchloop": [
+      "f93786dc3d37798d875666bdc99666d5a4351a8d873c7d7c041abbfcbe83fa92",
+      "82c893ebcf7706dcb73a2a897f5e505ff25ec0646e123cd7cbc8cb92baed653b",
+      "d0631f3325867c81b5f11969e39ac186e1836b41cc7f89e3a6c69f0ca11aa3d6"
+    ],
+    "bootchain": [
+      "acf387373098a06a57f51207cc9d2cbab1d495bc4df860f0a9836961915bc9e3",
+      "423ab49045437030c6d9995761b86509320e3fe4bc7eaa020f03f120b984b60d",
+      "e45d0563a1907df818161d9a5a7cf32214a1d29265622880a715cbe75e924033"
+    ],
+    "concreteprint": [
+      "81dd4da2e9d8d009449ee8f5198400286e9cd4fdecd3e88ddfa3d0ac38ed4ab4",
+      "9b19236a4a109cd8493d6ec99fb1d7e4893fb6c2b2a252546cd65e21b7ccacb9",
+      "526af7ef794080be7bff09644ffc9e92bf64d695a4d99e6f3deae2a414ba292f"
+    ],
+    "anvilforge": [
+      "b9aefec58cf2697d2142d4929d04bcfe2abbd3f5cad91a1f105f73673a1f375a",
+      "f51948d233d79f38a6516a70ff38f2f4f2f240f9aa58ed3b7e038a61958ab06b",
+      "2a180588d88256cb3ba7605ddd0bf5ad6fea2590f7c2901f593c82fa21b7f808"
+    ],
+    "crawl": [
+      "e1af77b6175da4ffd73956813619a4ef3011405313706d75edb8acb18a0e7da9",
+      "4445c63bb78ed761bc4fa16177040282b239448c8510aefb7191f6ebaec380af",
+      "760d9c3b2b7d1d14d04ac92db03eaa2c250b58ab562facf9a270f92977e19298"
+    ],
+    "rainbowdrop": [
+      "b8941134d249a401c5fa2779b2f8a0964fda93185bda0c651f36e585520fc458",
+      "028ac6344d58f75347cd70b21af477dd2a6fe9b6fa97d4780706fee018cc91e1",
+      "47289809b7c2099a3d4d95b5a1ef1f2bcee8803c44e6625df8a20a429e75c879"
+    ],
+    "baseisolation": [
+      "8c2df52176fc3298ca2937bbcd24113d82bf6d517fd4133cf4b4b62f8629e995",
+      "6b7dc3cf488994e15646e1713de293ecd1efe7b1ba0f3318cb390b661265524a",
+      "55a23c57efa2d71bca6e3a7c801b5b430b8d39dfd5a20bd91e9c6744ada9de60"
+    ]
+  },
+  "workshops": {
+    "le-bateau-et-l-eau-deplacee": [
+      {
+        "scene": "essayer",
+        "value": 0,
+        "hash": "63ac0d1bd49aa846dd05d481114837afe4d5b9462e0c305917d5c7b0384d9c6a"
+      },
+      {
+        "scene": "essayer",
+        "value": 25,
+        "hash": "f72f6db76ea909d01441001a9843c440d9865884b8f91572a26a66678a895571"
+      },
+      {
+        "scene": "essayer",
+        "value": 50,
+        "hash": "4ce7fcb77c1acbe5faab4e1684a878393efc273dedb1654c85ee836011345465"
+      },
+      {
+        "scene": "essayer",
+        "value": 75,
+        "hash": "9c7e10445517b740a7c9e3e22f7b90b83a72ff73f3ad40b72c73fbba254af805"
+      },
+      {
+        "scene": "essayer",
+        "value": 100,
+        "hash": "fa0bf17e36a5a25dc8af44d99c675bf6b51ce50ce3757e365ba413e6dbf453a6"
+      }
+    ],
+    "un-petit-effort-un-grand-levier": [
+      {
+        "scene": "essayer",
+        "value": 0,
+        "hash": "e6000e880ecfe5e5b8104c6cacdd7ab43cdfeabdb145a5d7bfc4e4d1ac229970"
+      },
+      {
+        "scene": "essayer",
+        "value": 25,
+        "hash": "3372e05ba7e522907a24012ce669240e6096e13512cbd71c6780a7b083d5789e"
+      },
+      {
+        "scene": "essayer",
+        "value": 50,
+        "hash": "e3e7c2ecd47c7ba75b3558970d4c44c405c91c6f9f07b3dee3b931f3b296c72e"
+      },
+      {
+        "scene": "essayer",
+        "value": 75,
+        "hash": "e25cacf62a6d5dd2d30f0641d5e04871556352f065712756f4bdc6126ecd6dd4"
+      },
+      {
+        "scene": "essayer",
+        "value": 100,
+        "hash": "0170a46c0b529e8fb63856d18f425df98ae5522ca047e97923f05d21cde85433"
+      }
+    ]
+  }
+}

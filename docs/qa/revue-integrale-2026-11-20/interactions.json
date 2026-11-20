@@ -1,0 +1,1734 @@
+[
+  {
+    "id": "eclipse",
+    "width": 320,
+    "step": 0,
+    "active": "Sans alignement",
+    "box": {
+      "height": 145,
+      "width": 250,
+      "x": 35,
+      "y": 715
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Soleil", "Terre", "Lune", "L’ombre passe à côté de la Terre"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "eclipse",
+    "width": 320,
+    "step": 1,
+    "active": "Éclipse de Soleil",
+    "box": {
+      "height": 145,
+      "width": 250,
+      "x": 35,
+      "y": 653
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Soleil",
+      "Terre",
+      "Lune",
+      "Pénombre",
+      "Ombre",
+      "L’ombre de la Lune touche la Terre"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "eclipse",
+    "width": 320,
+    "step": 2,
+    "active": "Éclipse de Lune",
+    "box": {
+      "height": 145,
+      "width": 250,
+      "x": 35,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Soleil",
+      "Terre",
+      "Lune",
+      "Pénombre",
+      "Ombre",
+      "La Lune traverse l’ombre terrestre"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "isslife",
+    "width": 320,
+    "step": 0,
+    "active": "Récupérer l’eau",
+    "box": {
+      "height": 145,
+      "width": 250,
+      "x": 35,
+      "y": 715
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Traitement et contrôle", "Eau propre", "Plusieurs étapes avant réutilisation"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "isslife",
+    "width": 320,
+    "step": 1,
+    "active": "Produire l’oxygène",
+    "box": {
+      "height": 145,
+      "width": 250,
+      "x": 35,
+      "y": 653
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "L’électricité sépare l’eau",
+      "+",
+      "−",
+      "Eau",
+      "O₂",
+      "Vers la",
+      "cabine",
+      "H₂",
+      "Sortie",
+      "séparée",
+      "2 H₂O → 2 H₂ + O₂"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "isslife",
+    "width": 320,
+    "step": 2,
+    "active": "Retirer le CO₂",
+    "box": {
+      "height": 145,
+      "width": 250,
+      "x": 35,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Capture du CO₂", "Air épuré", "Épurer l’air ≠ produire l’O₂"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "diffusion",
+    "width": 320,
+    "step": 0,
+    "active": "Bruit de départ",
+    "box": {
+      "height": 145,
+      "width": 250,
+      "x": 35,
+      "y": 715
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Une", "maison", "Un bruit initial aléatoire", "Exemple dessiné"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "diffusion",
+    "width": 320,
+    "step": 1,
+    "active": "Étapes guidées",
+    "box": {
+      "height": 145,
+      "width": 250,
+      "x": 35,
+      "y": 653
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Une",
+      "maison",
+      "Modèle appris",
+      "Le texte conditionne les étapes",
+      "Exemple dessiné"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "diffusion",
+    "width": 320,
+    "step": 2,
+    "active": "Image produite",
+    "box": {
+      "height": 145,
+      "width": 250,
+      "x": 35,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Une",
+      "maison",
+      "Modèle appris",
+      "Une image produite, ici illustrée",
+      "Exemple dessiné"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "leoconstellation",
+    "width": 320,
+    "step": 0,
+    "active": "Un passage",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 715
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Un passage", "Le satellite défile"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "leoconstellation",
+    "width": 320,
+    "step": 1,
+    "active": "Une couverture",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 653
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Une couverture", "Les couvertures se recouvrent"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "leoconstellation",
+    "width": 320,
+    "step": 2,
+    "active": "Une constellation",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Une constellation", "La liaison passe à un autre satellite"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "egrloop",
+    "width": 320,
+    "step": 0,
+    "active": "Sans recirculation",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 715
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Sans recirculation",
+      "Moteur",
+      "Vanne EGR",
+      "Air",
+      "Gaz",
+      "Vanne fermée · trajet direct"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "egrloop",
+    "width": 320,
+    "step": 1,
+    "active": "Ouvrir la vanne",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 653
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Ouvrir la vanne",
+      "Moteur",
+      "Vanne EGR",
+      "Air",
+      "Gaz",
+      "Une partie des gaz est recirculée"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "egrloop",
+    "width": 320,
+    "step": 2,
+    "active": "Diluer l’admission",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Diluer l’admission",
+      "Moteur",
+      "Vanne EGR",
+      "Air",
+      "Gaz",
+      "NOx limités",
+      "Une partie des gaz est recirculée"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "ammoniasynthesis",
+    "width": 320,
+    "step": 0,
+    "active": "Les réactifs",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 715
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Les réactifs", "Azote", "Hydrogène", "2 N et 6 H", "N₂ + 3 H₂ ⇌ 2 NH₃"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "ammoniasynthesis",
+    "width": 320,
+    "step": 1,
+    "active": "Transformer",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 653
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Transformer", "Ammoniac", "Ammoniac", "Bleu : N · clair : H", "N₂ + 3 H₂ ⇌ 2 NH₃"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "ammoniasynthesis",
+    "width": 320,
+    "step": 2,
+    "active": "Recycler",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Recycler", "Gaz entrants", "NH₃", "Réacteur", "Gaz restants", "N₂ + 3 H₂ ⇌ 2 NH₃"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "branchloop",
+    "width": 320,
+    "step": 0,
+    "active": "Tester",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 715
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Tester",
+      "i < 3 ?",
+      "i = 0",
+      "Oui",
+      "Non",
+      "i ← i + 1",
+      "Fin",
+      "Le test décide de la suite"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "branchloop",
+    "width": 320,
+    "step": 1,
+    "active": "Répéter",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 653
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Répéter",
+      "i < 3 ?",
+      "i = 2",
+      "Oui",
+      "Non",
+      "i ← i + 1",
+      "Fin",
+      "Après l’ajout, i passe à 3"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "branchloop",
+    "width": 320,
+    "step": 2,
+    "active": "Arrêter",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Arrêter",
+      "i < 3 ?",
+      "i = 3",
+      "Oui",
+      "Non",
+      "i ← i + 1",
+      "Fin",
+      "3 < 3 est faux. La boucle s’arrête."
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "bootchain",
+    "width": 320,
+    "step": 0,
+    "active": "Préparer",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 715
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Préparer",
+      "Processeur",
+      "UEFI",
+      "—",
+      "Puce",
+      "Stockage",
+      "RAM",
+      "Le processeur lit le micrologiciel"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "bootchain",
+    "width": 320,
+    "step": 1,
+    "active": "Charger",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 653
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Charger",
+      "Processeur",
+      "UEFI",
+      "Noyau",
+      "Puce",
+      "Stockage",
+      "RAM",
+      "Le noyau est copié en mémoire"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "bootchain",
+    "width": 320,
+    "step": 2,
+    "active": "Démarrer",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Démarrer",
+      "Processeur",
+      "UEFI",
+      "Noyau",
+      "Puce",
+      "Stockage",
+      "RAM",
+      "Le processeur exécute le noyau"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "concreteprint",
+    "width": 320,
+    "step": 0,
+    "active": "Une trajectoire",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 715
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Une trajectoire", "Buse", "Parois imprimées · reste à équiper"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "concreteprint",
+    "width": 320,
+    "step": 1,
+    "active": "Superposer",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 653
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Superposer", "Buse", "Parois imprimées · reste à équiper"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "concreteprint",
+    "width": 320,
+    "step": 2,
+    "active": "Construire",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Construire", "Buse", "Ouverture", "Parois imprimées · reste à équiper"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "anvilforge",
+    "width": 320,
+    "step": 0,
+    "active": "Chauffer",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 716
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Chauffer", "Pièce chaude", "Enclume", "Le métal reste solide"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "anvilforge",
+    "width": 320,
+    "step": 1,
+    "active": "Frapper",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 653
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Frapper", "Marteau", "La pièce s’étale sous le coup"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "anvilforge",
+    "width": 320,
+    "step": 2,
+    "active": "Comparer",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Comparer", "Profil allongé", "Le profil est plus fin"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "crawl",
+    "width": 320,
+    "step": 0,
+    "active": "Prendre appui",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 715
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Prendre appui", "Appui et traction sous l’eau"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "crawl",
+    "width": 320,
+    "step": 1,
+    "active": "Revenir par l’air",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 653
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Revenir par l’air", "Retour du bras hors de l’eau"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "crawl",
+    "width": 320,
+    "step": 2,
+    "active": "Alterner",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Alterner", "L’autre bras entre dans l’eau"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "rainbowdrop",
+    "width": 320,
+    "step": 0,
+    "active": "Entrer",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 715
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Réfraction à l’entrée", "Entrée", "Goutte", "Le rayon est dévié à l’entrée"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "rainbowdrop",
+    "width": 320,
+    "step": 1,
+    "active": "Se réfléchir",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 653
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Réflexion intérieure", "Réflexion", "Goutte", "Une partie du rayon est réfléchie"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "rainbowdrop",
+    "width": 320,
+    "step": 2,
+    "active": "Ressortir",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Les couleurs se séparent",
+      "Écart agrandi",
+      "Violet",
+      "Rouge",
+      "Une seule réflexion dans la goutte"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "baseisolation",
+    "width": 320,
+    "step": 0,
+    "active": "Sol mobile",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 715
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Bâtiment lié au sol", "Sol", "Sol et bâtiment se décalent"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "baseisolation",
+    "width": 320,
+    "step": 1,
+    "active": "Appuis souples",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 653
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Appuis à déformation latérale", "Sol", "Appuis", "L’appui se cisaille"],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "baseisolation",
+    "width": 320,
+    "step": 2,
+    "active": "Réponse réduite",
+    "box": {
+      "height": 159,
+      "width": 250,
+      "x": 35,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Le bâtiment est moins entraîné",
+      "Sol",
+      "Faible écart",
+      "Déplacements illustratifs"
+    ],
+    "minLabel": 12.55,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "eclipse",
+    "width": 1280,
+    "step": 0,
+    "active": "Sans alignement",
+    "box": {
+      "height": 357,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Soleil", "Terre", "Lune", "L’ombre passe à côté de la Terre"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "eclipse",
+    "width": 1280,
+    "step": 1,
+    "active": "Éclipse de Soleil",
+    "box": {
+      "height": 357,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Soleil",
+      "Terre",
+      "Lune",
+      "Pénombre",
+      "Ombre",
+      "L’ombre de la Lune touche la Terre"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "eclipse",
+    "width": 1280,
+    "step": 2,
+    "active": "Éclipse de Lune",
+    "box": {
+      "height": 357,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Soleil",
+      "Terre",
+      "Lune",
+      "Pénombre",
+      "Ombre",
+      "La Lune traverse l’ombre terrestre"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "isslife",
+    "width": 1280,
+    "step": 0,
+    "active": "Récupérer l’eau",
+    "box": {
+      "height": 357,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Traitement et contrôle", "Eau propre", "Plusieurs étapes avant réutilisation"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "isslife",
+    "width": 1280,
+    "step": 1,
+    "active": "Produire l’oxygène",
+    "box": {
+      "height": 357,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "L’électricité sépare l’eau",
+      "+",
+      "−",
+      "Eau",
+      "O₂",
+      "Vers la",
+      "cabine",
+      "H₂",
+      "Sortie",
+      "séparée",
+      "2 H₂O → 2 H₂ + O₂"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "isslife",
+    "width": 1280,
+    "step": 2,
+    "active": "Retirer le CO₂",
+    "box": {
+      "height": 357,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Capture du CO₂", "Air épuré", "Épurer l’air ≠ produire l’O₂"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "diffusion",
+    "width": 1280,
+    "step": 0,
+    "active": "Bruit de départ",
+    "box": {
+      "height": 357,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Une", "maison", "Un bruit initial aléatoire", "Exemple dessiné"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "diffusion",
+    "width": 1280,
+    "step": 1,
+    "active": "Étapes guidées",
+    "box": {
+      "height": 357,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Une",
+      "maison",
+      "Modèle appris",
+      "Le texte conditionne les étapes",
+      "Exemple dessiné"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "diffusion",
+    "width": 1280,
+    "step": 2,
+    "active": "Image produite",
+    "box": {
+      "height": 357,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Une",
+      "maison",
+      "Modèle appris",
+      "Une image produite, ici illustrée",
+      "Exemple dessiné"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "leoconstellation",
+    "width": 1280,
+    "step": 0,
+    "active": "Un passage",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Un passage", "Le satellite défile"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "leoconstellation",
+    "width": 1280,
+    "step": 1,
+    "active": "Une couverture",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Une couverture", "Les couvertures se recouvrent"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "leoconstellation",
+    "width": 1280,
+    "step": 2,
+    "active": "Une constellation",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Une constellation", "La liaison passe à un autre satellite"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "egrloop",
+    "width": 1280,
+    "step": 0,
+    "active": "Sans recirculation",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Sans recirculation",
+      "Moteur",
+      "Vanne EGR",
+      "Air",
+      "Gaz",
+      "Vanne fermée · trajet direct"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "egrloop",
+    "width": 1280,
+    "step": 1,
+    "active": "Ouvrir la vanne",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Ouvrir la vanne",
+      "Moteur",
+      "Vanne EGR",
+      "Air",
+      "Gaz",
+      "Une partie des gaz est recirculée"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "egrloop",
+    "width": 1280,
+    "step": 2,
+    "active": "Diluer l’admission",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Diluer l’admission",
+      "Moteur",
+      "Vanne EGR",
+      "Air",
+      "Gaz",
+      "NOx limités",
+      "Une partie des gaz est recirculée"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "ammoniasynthesis",
+    "width": 1280,
+    "step": 0,
+    "active": "Les réactifs",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Les réactifs", "Azote", "Hydrogène", "2 N et 6 H", "N₂ + 3 H₂ ⇌ 2 NH₃"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "ammoniasynthesis",
+    "width": 1280,
+    "step": 1,
+    "active": "Transformer",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Transformer", "Ammoniac", "Ammoniac", "Bleu : N · clair : H", "N₂ + 3 H₂ ⇌ 2 NH₃"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "ammoniasynthesis",
+    "width": 1280,
+    "step": 2,
+    "active": "Recycler",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Recycler", "Gaz entrants", "NH₃", "Réacteur", "Gaz restants", "N₂ + 3 H₂ ⇌ 2 NH₃"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "branchloop",
+    "width": 1280,
+    "step": 0,
+    "active": "Tester",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Tester",
+      "i < 3 ?",
+      "i = 0",
+      "Oui",
+      "Non",
+      "i ← i + 1",
+      "Fin",
+      "Le test décide de la suite"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "branchloop",
+    "width": 1280,
+    "step": 1,
+    "active": "Répéter",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Répéter",
+      "i < 3 ?",
+      "i = 2",
+      "Oui",
+      "Non",
+      "i ← i + 1",
+      "Fin",
+      "Après l’ajout, i passe à 3"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "branchloop",
+    "width": 1280,
+    "step": 2,
+    "active": "Arrêter",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Arrêter",
+      "i < 3 ?",
+      "i = 3",
+      "Oui",
+      "Non",
+      "i ← i + 1",
+      "Fin",
+      "3 < 3 est faux. La boucle s’arrête."
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "bootchain",
+    "width": 1280,
+    "step": 0,
+    "active": "Préparer",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Préparer",
+      "Processeur",
+      "UEFI",
+      "—",
+      "Puce",
+      "Stockage",
+      "RAM",
+      "Le processeur lit le micrologiciel"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "bootchain",
+    "width": 1280,
+    "step": 1,
+    "active": "Charger",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Charger",
+      "Processeur",
+      "UEFI",
+      "Noyau",
+      "Puce",
+      "Stockage",
+      "RAM",
+      "Le noyau est copié en mémoire"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "bootchain",
+    "width": 1280,
+    "step": 2,
+    "active": "Démarrer",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Démarrer",
+      "Processeur",
+      "UEFI",
+      "Noyau",
+      "Puce",
+      "Stockage",
+      "RAM",
+      "Le processeur exécute le noyau"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "concreteprint",
+    "width": 1280,
+    "step": 0,
+    "active": "Une trajectoire",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Une trajectoire", "Buse", "Parois imprimées · reste à équiper"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "concreteprint",
+    "width": 1280,
+    "step": 1,
+    "active": "Superposer",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Superposer", "Buse", "Parois imprimées · reste à équiper"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "concreteprint",
+    "width": 1280,
+    "step": 2,
+    "active": "Construire",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Construire", "Buse", "Ouverture", "Parois imprimées · reste à équiper"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "anvilforge",
+    "width": 1280,
+    "step": 0,
+    "active": "Chauffer",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Chauffer", "Pièce chaude", "Enclume", "Le métal reste solide"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "anvilforge",
+    "width": 1280,
+    "step": 1,
+    "active": "Frapper",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Frapper", "Marteau", "La pièce s’étale sous le coup"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "anvilforge",
+    "width": 1280,
+    "step": 2,
+    "active": "Comparer",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Comparer", "Profil allongé", "Le profil est plus fin"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "crawl",
+    "width": 1280,
+    "step": 0,
+    "active": "Prendre appui",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Prendre appui", "Appui et traction sous l’eau"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "crawl",
+    "width": 1280,
+    "step": 1,
+    "active": "Revenir par l’air",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Revenir par l’air", "Retour du bras hors de l’eau"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "crawl",
+    "width": 1280,
+    "step": 2,
+    "active": "Alterner",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Alterner", "L’autre bras entre dans l’eau"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "rainbowdrop",
+    "width": 1280,
+    "step": 0,
+    "active": "Entrer",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Réfraction à l’entrée", "Entrée", "Goutte", "Le rayon est dévié à l’entrée"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "rainbowdrop",
+    "width": 1280,
+    "step": 1,
+    "active": "Se réfléchir",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Réflexion intérieure", "Réflexion", "Goutte", "Une partie du rayon est réfléchie"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "rainbowdrop",
+    "width": 1280,
+    "step": 2,
+    "active": "Ressortir",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 590
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Les couleurs se séparent",
+      "Écart agrandi",
+      "Violet",
+      "Rouge",
+      "Une seule réflexion dans la goutte"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "baseisolation",
+    "width": 1280,
+    "step": 0,
+    "active": "Sol mobile",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Bâtiment lié au sol", "Sol", "Sol et bâtiment se décalent"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "baseisolation",
+    "width": 1280,
+    "step": 1,
+    "active": "Appuis souples",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": ["Appuis à déformation latérale", "Sol", "Appuis", "L’appui se cisaille"],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  },
+  {
+    "id": "baseisolation",
+    "width": 1280,
+    "step": 2,
+    "active": "Réponse réduite",
+    "box": {
+      "height": 391,
+      "width": 613,
+      "x": 123,
+      "y": 591
+    },
+    "clipped": [],
+    "duplicates": 0,
+    "figureCount": 1,
+    "labels": [
+      "Le bâtiment est moins entraîné",
+      "Sol",
+      "Faible écart",
+      "Déplacements illustratifs"
+    ],
+    "minLabel": 30.726171875,
+    "overflow": 0,
+    "overlap": []
+  }
+]

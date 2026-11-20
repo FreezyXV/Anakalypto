@@ -1,3 +1,4 @@
+import { hasReviewedDiagram, reviewedDiagramHashes } from "./fixtures/reviewedVisuals";
 import { createHash } from "node:crypto";
 import { readFile } from "node:fs/promises";
 import { createElement } from "react";
@@ -29,7 +30,7 @@ it("associates 50 distinct new drawings with three geometrically different state
   }
 });
 
-it("preserves the layouts and geometry of all 345 previously delivered drawings", async () => {
+it("preserves the historical layouts of 345 drawings with documented revisions", async () => {
   const before: { drawings: Record<string, string[]> } = JSON.parse(
     await readFile(
       new URL(
@@ -52,11 +53,24 @@ it("preserves the layouts and geometry of all 345 previously delivered drawings"
   expect(old).toHaveLength(345);
 
   for (const spec of old) {
+    if (hasReviewedDiagram(spec.id)) continue;
     const signatures = frames(spec).map((frame) =>
       createHash("sha256").update(canonicalSvg(frame)).digest("hex"),
     );
     expect(signatures, spec.id).toEqual(
       spec.id === "steelroutes" ? revisedSteel : before.drawings[spec.id],
     );
+  }
+});
+
+it("matches the audited revision of each reviewed diagram in all three states", () => {
+  expect(Object.keys(reviewedDiagramHashes)).toHaveLength(13);
+  for (const [id, hashes] of Object.entries(reviewedDiagramHashes)) {
+    const spec = LESSON_DIAGRAMS.find((diagram) => diagram.id === id);
+    expect(spec, id).toBeDefined();
+    expect(
+      frames(spec!).map((frame) => createHash("sha256").update(canonicalSvg(frame)).digest("hex")),
+      id,
+    ).toEqual(hashes);
   }
 });

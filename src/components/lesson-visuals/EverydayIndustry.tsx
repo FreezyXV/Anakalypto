@@ -1,77 +1,7 @@
+import { Forge } from "./ForgeReviewDrawing";
 import { Silicon, Welding } from "./EverydayIndustrialCuts";
 import { Caliper } from "./EverydayPrecision";
-import {
-  Arrow,
-  Label,
-  Line,
-  blue,
-  muted,
-  navy,
-  red,
-  teal,
-  warm,
-  type SceneSet,
-} from "./EverydayParts";
-
-function Forge(step: number, id: string) {
-  return (
-    <>
-      <path
-        d="M47 144H301L266 166H218v26h30v9H120v-9h33v-23L81 159Z"
-        fill={`url(#${id}-metal)`}
-        stroke={navy}
-        strokeWidth="2"
-      />
-      <path
-        d={
-          step === 2
-            ? "M113 136h133v8H110Z"
-            : step === 1
-              ? "M130 132h83l12 12h-102Z"
-              : "M145 124h55v20h-55Z"
-        }
-        fill={step < 2 ? "#d6854e" : "#8f9eb0"}
-        stroke={step < 2 ? warm : navy}
-        strokeWidth="2"
-      />
-      {step === 0 && (
-        <>
-          <path
-            d="M141 118q-17-20 7-41q-2 18 9 18q16-16 7-34q31 21 29 54q14-9 14-24q22 19 1 35"
-            fill="#e8bc6c"
-            opacity=".83"
-            stroke={warm}
-            strokeWidth="2"
-          />
-          <Label x={263} y={96} color={warm}>
-            Chaleur
-          </Label>
-        </>
-      )}
-      {step === 1 && (
-        <>
-          <path
-            d="M153 60h73v30h-73Z"
-            transform="rotate(13 190 75)"
-            fill="#687c8d"
-            stroke={navy}
-            strokeWidth="2"
-          />
-          <Line d="M219 75l70-16" color="#986b47" width={8} />
-          <Arrow x1={188} y1={96} x2={188} y2={125} color={warm} width={3.5} />
-        </>
-      )}
-      {step === 2 && (
-        <>
-          <Line d="M111 113h133m-133-9v18m133-18v18" color={blue} width={2} />
-          <Label x={177} y={87}>
-            Profil allongé
-          </Label>
-        </>
-      )}
-    </>
-  );
-}
+import { Arrow, Label, Line, blue, muted, navy, red, teal, type SceneSet } from "./EverydayParts";
 
 function CargoBox({ x, y, scale = 1 }: { x: number; y: number; scale?: number }) {
   return (

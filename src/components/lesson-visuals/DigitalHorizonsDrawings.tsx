@@ -1,3 +1,4 @@
+import { BootDrawing, LoopDrawing } from "./SystemsReviewDrawings";
 import { Art, Tag, Arrow, blue, green, gold, ink, Box, type DrawingProps } from "./Horizons50Parts";
 export function DigitalHorizonsDrawing(p: DrawingProps) {
   const { kind, step: s } = p;
@@ -94,83 +95,8 @@ export function DigitalHorizonsDrawing(p: DrawingProps) {
         )}
       </Art>
     );
-  if (kind === "branchloop")
-    return (
-      <Art {...p} foot={s === 2 ? "3 < 3 : faux, sortie" : "Compteur initialisé à zéro"}>
-        <path d="M180 50L245 92 180 134 115 92Z" fill="#d5e6ef" stroke={ink} strokeWidth="2" />
-        <Tag x={180} y={99}>
-          i &lt; 3 ?
-        </Tag>
-        <path
-          d="M180 134V145M115 92H61V178H137M245 92H305V178H229"
-          fill="none"
-          stroke="#9aafbd"
-          strokeWidth="2"
-        />
-        <Box x={140} y={150} w={88} h={42}>
-          <Tag x={184} y={178}>
-            {s === 2 ? "Fin" : "i = i + 1"}
-          </Tag>
-        </Box>
-        {s === 2 ? (
-          <Arrow d="M245 92H305V178H231" color={green} />
-        ) : (
-          <>
-            <Arrow d="M115 92H61V171H137" color={blue} />
-            <Arrow d="M185 194V201H26V43H181V48" color={blue} />
-          </>
-        )}
-        <Tag x={69} y={73}>
-          Oui
-        </Tag>
-        <Tag x={302} y={73}>
-          Non
-        </Tag>
-        <Tag x={184} y={44}>
-          i = {s === 0 ? 0 : s === 1 ? 2 : 3}
-        </Tag>
-      </Art>
-    );
-  if (kind === "bootchain")
-    return (
-      <Art {...p} foot="Le processeur exécute le code">
-        <Box x={25} y={86} w={78} h={88} color={s === 0 ? "#dac28d" : "#e0e7ed"}>
-          <path d="M40 104H88V148H40Z" stroke={ink} fill="none" strokeWidth="2" />
-          <Tag x={64} y={136}>
-            UEFI
-          </Tag>
-        </Box>
-        <Box x={142} y={86} w={78} h={88} color="#d0dce6">
-          <circle cx="181" cy="124" r="23" stroke={ink} fill="#b2c4d0" />
-          <circle cx="181" cy="124" r="6" fill={ink} />
-        </Box>
-        <Box x={257} y={86} w={78} h={88} color={s > 0 ? "#b8cfae" : "#e0e7ed"}>
-          <path d="M271 104H321V151H271Z" fill="#849e87" />
-          {s > 0 && (
-            <Tag x={296} y={136}>
-              OS
-            </Tag>
-          )}
-        </Box>
-        <Tag x={65} y={195}>
-          Puce
-        </Tag>
-        <Tag x={181} y={195}>
-          Disque
-        </Tag>
-        <Tag x={296} y={195}>
-          RAM
-        </Tag>
-        {s === 0 ? (
-          <Arrow d="M105 122H139" color={gold} />
-        ) : (
-          <Arrow d="M222 122H254" color={green} />
-        )}
-        <Tag x={180} y={57}>
-          {["Initialisation", "Chargement du noyau", "Noyau et services"][s]}
-        </Tag>
-      </Art>
-    );
+  if (kind === "branchloop") return <LoopDrawing {...p} />;
+  if (kind === "bootchain") return <BootDrawing {...p} />;
   if (kind === "vigeneregrid")
     return (
       <Art

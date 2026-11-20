@@ -1,0 +1,5081 @@
+{
+  "base": "06baf1b995f0fced3f7cd031047f6381542a36b0",
+  "lessons": 433,
+  "units": [
+    {
+      "id": "lift",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D30C4A205DD4",
+          "path": "/aeronautique/aerodynamique/portance/decrochage-aerodynamique"
+        },
+        {
+          "ref": "LEC-BF0D20E9B8E7",
+          "path": "/aeronautique/aerodynamique/portance/pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "jet",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-DA4C83943215",
+          "path": "/aeronautique/propulsion/turboreacteurs/fonctionnement-turboreacteur"
+        },
+        {
+          "ref": "LEC-8FF03FAC3A59",
+          "path": "/aeronautique/propulsion/turboreacteurs/taux-de-dilution-turboreacteurs"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "hydraulic",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-CC0B2D0F021A",
+          "path": "/technologies-et-ingenierie/robotique/actionneurs/comment-un-verin-hydraulique-donne-t-il-une-force-enorme-a-une-machine"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "lock",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A41E7CADB76E",
+          "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/comment-une-ecluse-fait-elle-monter-un-bateau-sans-aucune-pompe"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "solar",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-6FAD32C350CA",
+          "path": "/energie/energies-renouvelables/solaire/comment-fonctionne-une-cellule-photovoltaique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "wind",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8BED11E4076B",
+          "path": "/energie/energies-renouvelables/eolien/comment-fonctionne-une-eolienne"
+        },
+        {
+          "ref": "LEC-649033EF8DF5",
+          "path": "/energie/energies-renouvelables/eolien/record-mondial-installations-eoliennes-2024"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "hydro",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-461055011802",
+          "path": "/energie/energies-renouvelables/hydraulique/comment-un-barrage-transforme-t-il-l-eau-d-une-riviere-en-electricite"
+        },
+        {
+          "ref": "LEC-D75311B80120",
+          "path": "/energie/energies-renouvelables/hydraulique/microcentrale-hydroelectrique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "heatpump",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-18226ED00A76",
+          "path": "/energie/efficacite-et-sobriete/efficacite-energetique/comment-une-pompe-a-chaleur-chauffe-t-elle-avec-l-air-froid-du-dehors"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "battery",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-644FFD9A2CAC",
+          "path": "/automobile/motorisations/electrique/chimies-batteries-lithium-ion-automobile"
+        },
+        {
+          "ref": "LEC-5F91C02EBCD3",
+          "path": "/energie/reseaux-et-stockage/batteries/comment-fonctionne-une-batterie-lithium-ion"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "induction",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-1CC8DA9C87FB",
+          "path": "/sciences-fondamentales/physique/electromagnetisme/comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "greenhouse",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-22C140DCB04F",
+          "path": "/environnement-et-climat/changement-climatique/gaz-a-effet-de-serre/concentration-record-de-co2-dans-latmosphere"
+        },
+        {
+          "ref": "LEC-2F74FC59C080",
+          "path": "/environnement-et-climat/changement-climatique/gaz-a-effet-de-serre/pourquoi-le-methane-est-il-un-gaz-a-effet-de-serre-si-puissant"
+        },
+        {
+          "ref": "LEC-B9068F81743F",
+          "path": "/espace-et-astronomie/systeme-solaire/planetes/pourquoi-venus-est-elle-la-planete-la-plus-chaude-du-systeme-solaire"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "groundwater",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D856D357364D",
+          "path": "/environnement-et-climat/pollution-et-ressources/eau/comment-se-forme-une-nappe-d-eau-sous-nos-pieds"
+        },
+        {
+          "ref": "LEC-640025F3A5FF",
+          "path": "/sciences-fondamentales/sciences-de-la-terre/geologie/trouver-eau-souterraine"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "tectonics",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-298D1EED0918",
+          "path": "/sciences-fondamentales/sciences-de-la-terre/geologie/tectonique-des-plaques"
+        },
+        {
+          "ref": "LEC-BF3771F937AA",
+          "path": "/sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes/volcans-et-tremblements-de-terre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "eclipse",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9F1CDE6C703C",
+          "path": "/espace-et-astronomie/systeme-solaire/lune/pourquoi-n-y-a-t-il-pas-une-eclipse-a-chaque-nouvelle-lune"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "La vue hors alignement ne distingue pas l’ombre centrale de la pénombre. Clarifier les deux zones et montrer le contact de l’ombre avec la Terre ou la Lune."
+    },
+    {
+      "id": "orbit",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2E1EC77732B6",
+          "path": "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/comment-une-fusee-fait-elle-pour-rester-en-orbite-autour-de-la-terre"
+        },
+        {
+          "ref": "LEC-40C7DD6FC45F",
+          "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/pourquoi-les-astronautes-flottent-ils-dans-la-station-spatiale"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "lens",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F56D795FC5A4",
+          "path": "/espace-et-astronomie/observation-astronomique/telescopes/fabriquer-lunette-astronomique"
+        },
+        {
+          "ref": "LEC-B40D32439244",
+          "path": "/sciences-fondamentales/physique/electromagnetisme/lentilles-optique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "fibre",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-7E2641DFA800",
+          "path": "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/comment-la-lumiere-reste-t-elle-prisonniere-d-une-fibre-optique"
+        },
+        {
+          "ref": "LEC-CC245047ED86",
+          "path": "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/fibre-optique-et-reseaux-dacces"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "distillation",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2BA57D6D817C",
+          "path": "/sciences-fondamentales/chimie/chimie-organique/distillation"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "binary",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-784516E9E775",
+          "path": "/micro-informatique-et-informatique/donnees/representation-et-compression/comment-un-ordinateur-peut-il-tout-ecrire-avec-seulement-des-0-et-des-1"
+        },
+        {
+          "ref": "LEC-ECB7D1BADD00",
+          "path": "/sciences-fondamentales/mathematiques/algebre/numeration-position-zero"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "pixels",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-AFBD38EFE77C",
+          "path": "/micro-informatique-et-informatique/donnees/representation-et-compression/qu-est-ce-qu-un-pixel-et-comment-une-image-est-elle-faite-de-pixels"
+        },
+        {
+          "ref": "LEC-2D7FCB04BCC6",
+          "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-un-ecran-affiche-une-image"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "neuron",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-3907572A5D69",
+          "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/comment-un-neurone-envoie-t-il-un-message-a-un-autre-neurone"
+        },
+        {
+          "ref": "LEC-442797CF07B9",
+          "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/systeme-nerveux-structure-fonctionnement"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "alveoli",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-4999C3A4767D",
+          "path": "/corps-humain-et-sante/anatomie/systeme-respiratoire/comment-les-poumons-font-ils-passer-l-oxygene-de-l-air-dans-le-sang"
+        },
+        {
+          "ref": "LEC-ACB2E5B1DFEF",
+          "path": "/corps-humain-et-sante/anatomie/systeme-respiratoire/echanges-gazeux-et-respiration"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "dna",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-4FD30017A6DF",
+          "path": "/sciences-fondamentales/biologie/genetique/decouverte-structure-adn"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "saponification",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A2831C0B1F61",
+          "path": "/sciences-fondamentales/chimie/chimie-organique/comment-fabrique-t-on-du-savon-avec-de-l-huile"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "perspective",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C348C68C59B3",
+          "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/perspective-lineaire-renaissance"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "printing",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-41D6FCE26309",
+          "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/invention-de-limprimerie-a-caracteres-mobiles"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "engraving",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E8B58BA328EB",
+          "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/comment-une-gravure-permet-elle-d-imprimer-la-meme-image-des-dizaines-de-fois"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "arch",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A5FA676E543A",
+          "path": "/technologies-et-ingenierie/genie-civil/structures/arc-voute"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "timbre",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-57318F3CEBE0",
+          "path": "/arts-et-culture/arts-du-spectacle/musique/pourquoi-deux-instruments-ne-sonnent-ils-pas-pareil-sur-la-meme-note"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "camera",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-3671F14D3D03",
+          "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/invention-de-la-photographie"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "pendulum",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-BD3F1EEE8860",
+          "path": "/sciences-fondamentales/physique/mecanique/pendule-mesure-temps"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "radiocarbon",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-6C276509D42D",
+          "path": "/sciences-humaines-et-sociales/histoire/methode-historique/comment-le-carbone-14-permet-il-de-dater-un-os-ou-un-morceau-de-bois"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "probability",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-EEEB01E99A49",
+          "path": "/sciences-fondamentales/mathematiques/probabilites-et-statistiques/le-hasard-et-les-probabilites"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "sorting",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-5AA377C65CBB",
+          "path": "/micro-informatique-et-informatique/logiciel/algorithmes/comment-un-ordinateur-range-t-il-une-liste-dans-l-ordre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "cpu",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-B472826E061D",
+          "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-fonctionne-un-processeur"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "barcode",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-4751CD3A227C",
+          "path": "/industries/industrie-manufacturiere/chaine-logistique/comment-une-caisse-lit-elle-un-code-barres"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "tides",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-AC95B325F580",
+          "path": "/espace-et-astronomie/systeme-solaire/lune/la-lune-formation-et-marees"
+        },
+        {
+          "ref": "LEC-5A5F6DD22CDC",
+          "path": "/sciences-fondamentales/sciences-de-la-terre/oceanographie/comment-la-lune-fait-elle-monter-et-descendre-la-mer"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "starbirth",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-4B90F06EA143",
+          "path": "/espace-et-astronomie/astrophysique/etoiles/comment-nait-une-etoile-a-partir-d-un-nuage-de-gaz"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "starlife",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-201E30E32677",
+          "path": "/espace-et-astronomie/astrophysique/etoiles/formation-stellaire-galaxies-lointaines-jwst"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "transit",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-605CBCAE51A1",
+          "path": "/espace-et-astronomie/observation-astronomique/telescopes/comment-plato-va-t-il-chercher-des-planetes-comme-la-terre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "transmission",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-41FDA73FD98E",
+          "path": "/espace-et-astronomie/observation-astronomique/telescopes/comment-le-telescope-webb-lit-il-la-composition-de-l-air-d-une-planete-lointaine"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "microlensing",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-4BCE25B60DB1",
+          "path": "/espace-et-astronomie/observation-astronomique/messagers-du-cosmos/comment-une-etoile-peut-elle-servir-de-loupe-pour-trouver-des-planetes"
+        },
+        {
+          "ref": "LEC-D070C015D4F3",
+          "path": "/espace-et-astronomie/observation-astronomique/telescopes/a-quoi-sert-le-telescope-spatial-roman-pour-chasser-les-exoplanetes"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "lensing",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-509DD57E2237",
+          "path": "/espace-et-astronomie/astrophysique/cosmologie/comment-un-amas-de-galaxies-peut-il-agir-comme-une-loupe-cosmique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "expansion",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-BDC65BA70B0A",
+          "path": "/espace-et-astronomie/astrophysique/cosmologie/comment-sait-on-que-l-univers-grandit"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "comet",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-0097C5EFE55B",
+          "path": "/espace-et-astronomie/systeme-solaire/petits-corps/pourquoi-la-queue-d-une-comete-pointe-t-elle-toujours-a-l-oppose-du-soleil"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "skyglow",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8032AC547234",
+          "path": "/espace-et-astronomie/observation-astronomique/telescopes/pourquoi-voit-on-beaucoup-moins-d-etoiles-en-ville-qu-a-la-campagne"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "gps",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-4E444FBEBF51",
+          "path": "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/comment-le-gps-sait-il-exactement-ou-vous-etes"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "planets",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A7E96DD0959E",
+          "path": "/espace-et-astronomie/systeme-solaire/planetes/huit-planetes-systeme-solaire"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "interferometer",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-BCE437F4AED9",
+          "path": "/espace-et-astronomie/astrophysique/cosmologie/gwtc-5-catalogue-ondes-gravitationnelles"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "blackhole",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-27E4C6FD1905",
+          "path": "/espace-et-astronomie/astrophysique/trous-noirs/trous-noirs-ce-quon-en-sait"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "webb",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9BDE87B5F82F",
+          "path": "/espace-et-astronomie/exploration-spatiale/sondes/telescope-spatial-james-webb"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "infrared",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D1F274D4649C",
+          "path": "/espace-et-astronomie/observation-astronomique/messagers-du-cosmos/pourquoi-observer-dans-linfrarouge"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "adaptiveoptics",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-1D9860F901EF",
+          "path": "/espace-et-astronomie/observation-astronomique/telescopes/taille-des-telescopes-et-resolution"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "moonflight",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-FA93248B1261",
+          "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/artemis-ii-retour-vers-la-lune"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "lunation",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-5B77DE7FFEB9",
+          "path": "/espace-et-astronomie/systeme-solaire/lune/calendrier-lunaire"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "polaris",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-5ACFD0B653B1",
+          "path": "/espace-et-astronomie/astrophysique/etoiles/l-etoile-polaire-et-son-role-dans-l-orientation"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "aurora",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-7D9F323974D2",
+          "path": "/espace-et-astronomie/astrophysique/etoiles/comment-une-tempete-solaire-peut-elle-allumer-des-aurores-et-couper-le-courant"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "smallbodies",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-506D5478104A",
+          "path": "/espace-et-astronomie/systeme-solaire/petits-corps/asteroides-cometes-et-meteorites"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "isslife",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8678A466AA24",
+          "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/comment-les-astronautes-ont-ils-toujours-de-l-eau-et-de-l-air-dans-la-station-spatiale"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "Les deux gaz sortent du même côté sans être reliés à leur électrode. Identifier les sorties et la destination de l’oxygène."
+    },
+    {
+      "id": "readaptation",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-1C3134C17E90",
+          "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/pourquoi-les-astronautes-ont-ils-du-mal-a-marcher-en-revenant-sur-terre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "heliosphere",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-BC3F3689382F",
+          "path": "/espace-et-astronomie/exploration-spatiale/sondes/comment-les-sondes-voyager-ont-elles-atteint-l-espace-entre-les-etoiles"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "saturnrings",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-CFDE9CEFCE42",
+          "path": "/espace-et-astronomie/systeme-solaire/planetes/pourquoi-saturne-est-elle-entouree-d-anneaux"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "sundial",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-DC87486BEBFB",
+          "path": "/espace-et-astronomie/observation-astronomique/retrouver-l-heure-avec-le-soleil"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "habitable",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-79431A748ED4",
+          "path": "/espace-et-astronomie/systeme-solaire/planetes/que-veut-dire-zone-habitable-pour-une-exoplanete"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "meteors",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-6C7A01178B87",
+          "path": "/espace-et-astronomie/systeme-solaire/petits-corps/pourquoi-voit-on-des-pluies-d-etoiles-filantes-en-aout-et-en-decembre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "winglet",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-614911E00F36",
+          "path": "/aeronautique/aerodynamique/trainee/les-winglets-petits-ailerons-contre-la-trainee"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "boundary",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-7725E1B057C6",
+          "path": "/aeronautique/aerodynamique/ecoulements/couche-limite-transition-laminaire-turbulent"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "transonic",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-7BEE0D298DE0",
+          "path": "/aeronautique/aerodynamique/ecoulements/vol-transsonique-onde-de-choc"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "sonicboom",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-400E76EF53DA",
+          "path": "/aeronautique/aerodynamique/ecoulements/le-mur-du-son-et-le-bang-supersonique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "turboprop",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F8323901E4C4",
+          "path": "/aeronautique/propulsion/turbopropulseurs/turbopropulseur-principe-domaine-emploi"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "sixpack",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A0EC27B72B73",
+          "path": "/aeronautique/navigation-aerienne/instruments-de-vol/instruments-de-vol-primaires"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "attitude",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-071F615CFF62",
+          "path": "/aeronautique/navigation-aerienne/instruments-de-vol/comment-un-pilote-sait-il-ou-est-le-haut-dans-les-nuages"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "drag",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-486BC98F43EC",
+          "path": "/aeronautique/aerodynamique/trainee/trainee-aerodynamique-reduction"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "windtunnel",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-0047C98BA43C",
+          "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "flaps",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-CFF66E0B44CE",
+          "path": "/aeronautique/aerodynamique/portance/pourquoi-les-ailes-d-un-avion-changent-elles-de-forme-au-decollage-et-a-l-atterrissage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "glide",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2E0DBB790BD6",
+          "path": "/aeronautique/aerodynamique/ecoulements/le-planeur-voler-sans-moteur"
+        },
+        {
+          "ref": "LEC-38AABE6F2161",
+          "path": "/aeronautique/aerodynamique/portance/comment-un-avion-de-ligne-peut-il-planer-quand-ses-moteurs-s-arretent"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "icing",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-68F4AE34C548",
+          "path": "/aeronautique/aerodynamique/trainee/pourquoi-le-givre-est-il-dangereux-pour-les-ailes-d-un-avion"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "helicopter",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-75F4C1F8A08B",
+          "path": "/aeronautique/aerodynamique/portance/comment-les-pales-d-un-helicoptere-creent-la-portance"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "turbulence",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-4F97DF21D027",
+          "path": "/aeronautique/aviation-civile/securite/les-turbulences-pourquoi-l-avion-est-secoue"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "inertial",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-6CDEF103804B",
+          "path": "/aeronautique/navigation-aerienne/instruments-de-vol/systemes-de-navigation-inertielle-et-satellitaire"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "reckoning",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-FF44179B2EE7",
+          "path": "/aeronautique/navigation-aerienne/instruments-de-vol/comment-un-pilote-peut-il-trouver-sa-route-sans-gps"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "aircontrol",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D450110F2AAD",
+          "path": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/controle-du-trafic-aerien-principes"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "airrates",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C53056DE3675",
+          "path": "/aeronautique/aviation-civile/securite/statistiques-mondiales-securite-aerienne"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "tcas",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E331BB1DE4B1",
+          "path": "/aeronautique/aviation-civile/securite/comment-deux-avions-evitent-ils-de-se-rentrer-dedans-en-plein-ciel"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "adsb",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-FC1AC0BB9D80",
+          "path": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/comment-peut-on-suivre-sur-internet-les-avions-en-plein-vol"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "recorders",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-BEFBADFB91B2",
+          "path": "/aeronautique/aviation-civile/securite/la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "investigation",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-6EACF2EBE5FA",
+          "path": "/aeronautique/aviation-civile/securite/enquetes-de-securite-apres-accident"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "certification",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E1CB5DFE6FBA",
+          "path": "/aeronautique/aviation-civile/certification-aeronautique/certification-avion-de-transport"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "hydrogenair",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-FF11EEF9DD4B",
+          "path": "/aeronautique/propulsion/propulsion-electrique-aeronautique/que-rejette-un-avion-a-hydrogene-et-ou-loge-t-on-le-carburant"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "zeroe",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D6FDF5654800",
+          "path": "/aeronautique/aviation-civile/decarbonation/les-concepts-d-avion-a-hydrogene-d-airbus"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "electricair",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-78436191FC21",
+          "path": "/aeronautique/propulsion/propulsion-electrique-aeronautique/propulsion-electrique-hybride-aeronautique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "aeroengine",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E383C8539EAE",
+          "path": "/aeronautique/propulsion/moteurs-a-piston/fonctionnement-moteurs-a-piston-aeronautiques"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "saf",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-7008E1840428",
+          "path": "/aeronautique/aviation-civile/decarbonation/carburants-aviation-durables-saf"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "landingbrakes",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-B047C834CC5C",
+          "path": "/aeronautique/propulsion/turboreacteurs/comment-un-avion-de-ligne-freine-t-il-apres-l-atterrissage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "magnetos",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-CBFD3502EC2B",
+          "path": "/aeronautique/propulsion/moteurs-a-piston/pourquoi-le-moteur-d-un-petit-avion-a-t-il-deux-allumages"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "scooper",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-1439572BBA79",
+          "path": "/aeronautique/propulsion/turbopropulseurs/comment-un-avion-bombardier-d-eau-remplit-il-ses-reservoirs-sans-s-arreter"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "gradient",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-302A5FA58BA8",
+          "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-profond/principes-apprentissage-profond"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "golearning",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-794C2223724F",
+          "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/apprentissage-par-renforcement-alphago"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "overfitting",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A02BB8E6C714",
+          "path": "/intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement/donnees-dentrainement-et-surapprentissage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "attention",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9BC756CB0E7E",
+          "path": "/intelligence-artificielle/modeles-de-langage/transformeurs/transformeurs-architecture-ia"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "arcadelearning",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E8ED9D1C8A00",
+          "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/comment-une-ia-a-t-elle-appris-seule-a-jouer-a-des-jeux-video-atari"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "exploration",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-92A85DA145A4",
+          "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement/pourquoi-une-ia-doit-elle-parfois-tenter-des-choix-au-hasard-pour-mieux-apprendre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "convolution",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8DB5008AA153",
+          "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-profond/comment-un-reseau-de-neurones-convolutif-repere-t-il-les-formes-dans-une-image"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "recurrent",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-BBC5189C444A",
+          "path": "/intelligence-artificielle/apprentissage-automatique/apprentissage-profond/comment-un-reseau-de-neurones-recurrent-se-souvient-il-du-debut-d-une-phrase"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "expertinference",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9F1C8D707F7C",
+          "path": "/intelligence-artificielle/apprentissage-automatique/comment-fonctionnaient-les-systemes-experts-ces-ia-faites-de-regles"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "diffusion",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-21071EF3D5BB",
+          "path": "/intelligence-artificielle/modeles-de-langage/ia-generative/comment-une-ia-fabrique-t-elle-une-image-a-partir-d-une-simple-phrase"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "Le bloc du modèle et le pied de la planche se touchent. Dégager les repères et relier le texte à la transformation de l’image."
+    },
+    {
+      "id": "multimodal",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-12C3DBF1EECE",
+          "path": "/intelligence-artificielle/modeles-de-langage/ia-generative/gpt-4o-ia-generative-multimodale"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "hallucination",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-3A6A7CB393D2",
+          "path": "/intelligence-artificielle/modeles-de-langage/limites-et-erreurs/limites-des-modeles-de-langage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "localmodel",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-6631BD3EA7FD",
+          "path": "/intelligence-artificielle/modeles-de-langage/transformeurs/faire-tourner-ia-ordinateur"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "assistive",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-97143F23273B",
+          "path": "/intelligence-artificielle/ethique-et-societe/travail-et-usages/comment-l-intelligence-artificielle-aide-t-elle-les-personnes-aveugles-ou-sourdes"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "syntheticmedia",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-844B736AF5D2",
+          "path": "/intelligence-artificielle/modeles-de-langage/ia-generative/comment-fabrique-t-on-un-deepfake-et-pourquoi-faut-il-s-en-mefier"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "retrieval",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-4C0AF65826C5",
+          "path": "/intelligence-artificielle/modeles-de-langage/limites-et-erreurs/pourquoi-une-ia-conversationnelle-ne-connait-elle-pas-les-dernieres-nouvelles"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "robotaction",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-3EF780DA9082",
+          "path": "/intelligence-artificielle/ethique-et-societe/travail-et-usages/comment-un-robot-peut-il-apprendre-a-agir-dans-des-situations-qu-il-n-a-jamais-vues"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "visionlanguage",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-25FF43F52380",
+          "path": "/intelligence-artificielle/modeles-de-langage/transformeurs/comment-une-ia-peut-elle-comprendre-a-la-fois-une-image-et-une-phrase"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "biasloop",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-6266AA8B0997",
+          "path": "/intelligence-artificielle/ethique-et-societe/biais/biais-algorithmiques-exemples-documentes"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "aiact",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E0BF8BB5930D",
+          "path": "/intelligence-artificielle/ethique-et-societe/regulation/reglement-europeen-sur-lia-ai-act"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "worktasks",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-26F92C2DA080",
+          "path": "/intelligence-artificielle/ethique-et-societe/travail-et-usages/ia-et-transformation-du-travail"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "facematching",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-AA0E40CD2E88",
+          "path": "/intelligence-artificielle/ethique-et-societe/biais/pourquoi-certains-logiciels-de-reconnaissance-faciale-se-trompent-ils-plus-sur-certains-visages"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "justiceai",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-B2D409533735",
+          "path": "/intelligence-artificielle/ethique-et-societe/travail-et-usages/que-peut-faire-l-ia-dans-un-tribunal-et-qu-est-ce-qui-est-interdit"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "broadcast",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8CA3B8565FA5",
+          "path": "/communication-et-medias/histoire-des-medias/radio-et-television/naissance-de-la-radiodiffusion"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "shortwave",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9CD231046049",
+          "path": "/communication-et-medias/histoire-des-medias/radio-et-television/pourquoi-les-ondes-courtes-peuvent-elles-porter-la-radio-a-l-autre-bout-du-monde"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "crystalradio",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2B7173097A62",
+          "path": "/communication-et-medias/histoire-des-medias/radio-et-television/comment-un-poste-a-galene-capte-t-il-la-radio-sans-pile-ni-prise"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "wirelessmorse",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8FCA8C673DC7",
+          "path": "/communication-et-medias/histoire-des-medias/radio-et-television/comment-la-tsf-a-t-elle-permis-d-envoyer-des-messages-sans-fil"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "colourtv",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D7658239E10E",
+          "path": "/communication-et-medias/histoire-des-medias/radio-et-television/comment-la-television-est-elle-passee-du-noir-et-blanc-a-la-couleur"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "cellhandoff",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2A52341A491E",
+          "path": "/communication-et-medias/telecommunications/reseaux-mobiles/comment-les-antennes-relais-permettent-elles-de-telephoner-en-se-deplacant"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "radiospectrum",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D2780012D6EB",
+          "path": "/communication-et-medias/telecommunications/reseaux-mobiles/spectre-radioelectrique-et-attribution-des-frequences"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "satrelay",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-ADCC4CDCA8A3",
+          "path": "/communication-et-medias/telecommunications/satellites/comment-un-satellite-de-telecommunication-relaie-t-il-la-television-d-un-continent-a-l-autre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "leoconstellation",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-5FC0B8A6449C",
+          "path": "/communication-et-medias/telecommunications/satellites/constellations-satellites-orbite-basse"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "Le titre est répété et « Une zone à la fois » peut être compris comme une limite de la constellation. Montrer le recouvrement des empreintes et la liaison qui change de satellite."
+    },
+    {
+      "id": "subseacable",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8A6E5716813C",
+          "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-internet-traverse-t-il-les-oceans"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "fuelcellcar",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E8E73F4BDFF2",
+          "path": "/automobile/motorisations/carburants-alternatifs/voiture-hydrogene-pile-combustible"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "dcfastcharge",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-1E87DF67DADE",
+          "path": "/automobile/motorisations/electrique/pourquoi-une-borne-de-recharge-rapide-charge-t-elle-une-voiture-electrique-bien-plus-vite"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "injectorjet",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-6B7DF8E92753",
+          "path": "/automobile/motorisations/thermique/alimentation-carburant-injection"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "egrloop",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F2DF61ABA9B1",
+          "path": "/automobile/motorisations/thermique/vanne-egr-recirculation-gaz-echappement"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "La légende de la vue sans recirculation affirme que des gaz sont recirculés. Faire correspondre la légende et la position de la vanne."
+    },
+    {
+      "id": "beltreel",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E74EAB54E225",
+          "path": "/automobile/securite-et-conduite/securite-passive/comment-une-ceinture-de-securite-se-bloque-t-elle-d-un-coup"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "monsoonwind",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-5A3184CC6A96",
+          "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-mousson-apporte-t-elle-des-pluies-torrentielles-en-inde-chaque-ete"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "pressureair",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-22450D29A0D0",
+          "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-pression-de-l-air-annonce-t-elle-la-pluie-ou-le-beau-temps"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "riverdelta",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-62E3A1FA99C6",
+          "path": "/geographie-et-territoires/geographie-physique/hydrographie/comment-un-fleuve-fabrique-t-il-de-nouvelles-terres-a-son-embouchure"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "terracefield",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-7B30C11FE168",
+          "path": "/geographie-et-territoires/geographie-physique/reliefs/comment-les-terrasses-permettent-elles-de-cultiver-sur-une-montagne"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "canallock",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-86B9282F4A6C",
+          "path": "/geographie-et-territoires/geopolitique/routes-et-detroits/comment-le-canal-de-panama-fait-il-passer-les-navires-d-un-ocean-a-l-autre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "ammoniasynthesis",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E66366BEA079",
+          "path": "/industries/industrie-lourde/chimie-industrielle/comment-fabrique-t-on-des-engrais-avec-l-azote-de-l-air"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "Les libellés des deux réactifs sont répétés au-dessus des molécules de produit. Identifier les deux molécules d’ammoniac et distinguer les atomes par une légende."
+    },
+    {
+      "id": "floatglass",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D6A5A0713C29",
+          "path": "/industries/industrie-lourde/chimie-industrielle/la-fabrication-du-verre-procede-de-base"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "steelroutes",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-DE84E84AEC2F",
+          "path": "/industries/industrie-lourde/siderurgie/comment-fabrique-t-on-de-l-acier-avec-un-haut-fourneau-ou-un-four-electrique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "visionreject",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-FAE0F24FDECA",
+          "path": "/industries/industrie-manufacturiere/automatisation/comment-une-camera-repere-t-elle-une-piece-defectueuse-sur-une-chaine-de-production"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "interchangefit",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C25CE8775BFA",
+          "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/pourquoi-les-pieces-interchangeables-ont-elles-change-la-fabrication-des-objets"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "databaseindex",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C40D5C10C147",
+          "path": "/micro-informatique-et-informatique/donnees/bases-de-donnees/bases-de-donnees-et-index"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "runlength",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-B86B79207727",
+          "path": "/micro-informatique-et-informatique/donnees/representation-et-compression/representation-et-compression-des-donnees"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "branchloop",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C47F31457539",
+          "path": "/micro-informatique-et-informatique/logiciel/programmation/comment-un-programme-decide-t-il-quoi-faire-grace-aux-conditions-et-aux-boucles"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "La branche « Non » mène graphiquement à l’incrément dans les premiers états. Séparer les deux destinations dans chacun des trois états."
+    },
+    {
+      "id": "bootchain",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A0222EB4E75C",
+          "path": "/micro-informatique-et-informatique/logiciel/systemes-d-exploitation/comment-un-ordinateur-demarre-t-il-quand-on-appuie-sur-le-bouton"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "Les deux dernières vues montrent la même copie du disque vers la RAM. Au démarrage, rendre visible l’exécution du noyau désormais en mémoire."
+    },
+    {
+      "id": "vigeneregrid",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-7AE473CEC3A2",
+          "path": "/micro-informatique-et-informatique/reseaux-et-securite/chiffrement/comment-le-chiffre-de-vigenere-cachait-il-un-message-mieux-que-celui-de-cesar"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "algebrabalance",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2FCF3D8925A3",
+          "path": "/sciences-fondamentales/mathematiques/algebre/histoire-principes-algebre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "trianglegeometry",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C659381A0AFF",
+          "path": "/sciences-fondamentales/mathematiques/geometrie/geometrie-euclidienne-et-au-dela"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "tempscales",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-B83129335871",
+          "path": "/sciences-fondamentales/physique/thermodynamique/les-echelles-de-temperature-celsius-fahrenheit-et-kelvin"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "confounder",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8E3BB5A4C5B9",
+          "path": "/communication-et-medias/information-et-verification/education-aux-medias/comprendre-la-difference-entre-correlation-et-causalite"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "treeringmatch",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C79C0DFDDEF6",
+          "path": "/sciences-humaines-et-sociales/histoire/methode-historique/comment-les-cernes-des-arbres-permettent-ils-de-dater-le-passe"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "dietfibre",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F0AF40B5F4E1",
+          "path": "/alimentation-et-nutrition/nutriments/fibres-alimentaires/fibres-alimentaires-roles-et-apports"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "essentialamino",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-0AFC50DA3C49",
+          "path": "/alimentation-et-nutrition/nutriments/macronutriments/pourquoi-certains-acides-amines-doivent-ils-venir-de-notre-assiette"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "nutritionlabel",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-352914E9DF78",
+          "path": "/alimentation-et-nutrition/regimes-et-recommandations/reperes-nutritionnels/lecture-etiquettes-alimentaires"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "barrierpack",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-82DB640E80F7",
+          "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/emballages-alimentaires"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "pasteurheat",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-347499106CB8",
+          "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/pasteurisation-et-sterilisation"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "steamengine",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-B99970A4E06A",
+          "path": "/energie/energies-fossiles-et-nucleaire/charbon/machine-vapeur"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "biogasdigester",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-83AAE6EB7486",
+          "path": "/energie/energies-fossiles-et-nucleaire/hydrocarbures/biogaz-gaz-sans-gisement"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "pumpedstorage",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-94E54B9E69B7",
+          "path": "/energie/energies-renouvelables/hydraulique/hydroelectricite-et-stockage-par-pompage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "tidalturbine",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C924B477373F",
+          "path": "/energie/energies-renouvelables/hydraulique/les-hydroliennes-l-eolien-sous-marin"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "batteryage",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-4587D5513E9C",
+          "path": "/energie/reseaux-et-stockage/batteries/pourquoi-une-batterie-s-use-avec-le-temps"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "rootmicrobes",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F7EFFAF96217",
+          "path": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/comment-les-microbes-du-sol-aident-ils-les-plantes-a-pousser"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "ultrasoundecho",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2FE60FA73696",
+          "path": "/sciences-du-vivant-appliquees/medecine/imagerie-medicale/comment-l-echographie-voit-elle-un-bebe-dans-le-ventre-grace-au-son"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "mriprotons",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-619CABC2DAA8",
+          "path": "/sciences-du-vivant-appliquees/medecine/imagerie-medicale/comment-un-aimant-geant-et-des-ondes-radio-fabriquent-ils-une-image-de-l-interieur-du-corps"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "antibiotictarget",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-7DE749F60C84",
+          "path": "/sciences-du-vivant-appliquees/medecine/pharmacologie/comment-un-antibiotique-tue-t-il-les-bacteries-sans-abimer-nos-cellules"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "mrnavaccine",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-58DAB912F054",
+          "path": "/corps-humain-et-sante/prevention-et-sante-publique/vaccination/vaccins-a-arn-messager"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "safetymargin",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-0FBB98D18C34",
+          "path": "/technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience/pourquoi-construit-on-les-batiments-et-les-machines-plus-solides-que-necessaire"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "concreteprint",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-3E7703C8C12B",
+          "path": "/technologies-et-ingenierie/genie-civil/materiaux/peut-on-vraiment-construire-une-maison-en-l-imprimant-en-beton"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "Des bandes claires couvrent un mur continu et laissent croire qu’une ouverture a été peinte. Montrer une réservation réellement vide entre deux pans imprimés."
+    },
+    {
+      "id": "topologyshape",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2E5A0D0F2CDE",
+          "path": "/technologies-et-ingenierie/genie-civil/structures/comment-un-ordinateur-decide-t-il-ou-mettre-la-matiere-pour-faire-des-pieces-plus-legeres"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "deploystructure",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-86541225C996",
+          "path": "/technologies-et-ingenierie/genie-civil/structures/comment-une-structure-peut-elle-tenir-dans-un-sac-puis-se-deployer-ou-se-gonfler"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "radarecho",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8161C0B44734",
+          "path": "/technologies-et-ingenierie/robotique/perception/comment-un-radar-repere-t-il-un-avion-ou-un-orage-sans-les-voir"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "pitchfork",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-EE0399309268",
+          "path": "/arts-et-culture/arts-du-spectacle/musique/diapason-a440-norme-internationale"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "twelvepart",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-7D8FD96EABA8",
+          "path": "/arts-et-culture/arts-du-spectacle/musique/gammes-et-temperament-egal"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "audiogroove",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-EAC084B6C98F",
+          "path": "/arts-et-culture/arts-du-spectacle/musique/histoire-de-lenregistrement-sonore"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "syncsound",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-85C0925E7820",
+          "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/comment-le-cinema-a-t-il-appris-a-parler"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "manuscript",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C6197D9681CE",
+          "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/comment-fabriquait-on-un-livre-enlumine-au-moyen-age"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "capitals",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-49870EA70E08",
+          "path": "/arts-et-culture/patrimoine/architecture/ordres-architecturaux-grecs"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "preservation",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-0B84959918C5",
+          "path": "/arts-et-culture/patrimoine/musees-et-conservation/conservation-preventive-et-restauration"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "diglayers",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-CFAE218AC7F1",
+          "path": "/arts-et-culture/patrimoine/musees-et-conservation/pourquoi-fouille-t-on-avant-de-construire-une-route"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "ages",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-686336EE61B6",
+          "path": "/geographie-et-territoires/geographie-humaine/demographie/comment-lit-on-une-pyramide-des-ages"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "demographic",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-30A5A34F8A4F",
+          "path": "/geographie-et-territoires/geographie-humaine/demographie/la-transition-demographique-et-ses-differentes-etapes"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "cloudtypes",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8EFA7FDFF634",
+          "path": "/geographie-et-territoires/geographie-physique/climatologie/les-nuages-et-ce-qu-ils-annoncent"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "timezone",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D1C2A218EF7C",
+          "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-terre-est-elle-decoupee-en-24-fuseaux-horaires"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "rainshadow",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-3C7AB436EE83",
+          "path": "/geographie-et-territoires/geographie-physique/hydrographie/pourquoi-il-pleut-ici-et-pas-la"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "mountainfold",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-69B31FC3FEFE",
+          "path": "/geographie-et-territoires/geographie-physique/reliefs/formation-chaines-de-montagnes"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "contourmap",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-088EE35AA69D",
+          "path": "/geographie-et-territoires/geographie-physique/reliefs/lire-une-carte-topographique-principes-de-base"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "mercator",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A5F6BE2D9E80",
+          "path": "/geographie-et-territoires/geographie-physique/reliefs/pourquoi-le-groenland-parait-il-aussi-grand-que-l-afrique-sur-une-carte"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "midnightsea",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-B2749C72693A",
+          "path": "/environnement-et-climat/biodiversite/forets-et-oceans/comment-survivent-les-animaux-dans-les-profondeurs-sombres-de-l-ocean"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "seacarbon",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-EE7263911EC5",
+          "path": "/environnement-et-climat/biodiversite/forets-et-oceans/oceans-et-absorption-du-carbone"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "climatewindow",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A7D8262D527F",
+          "path": "/environnement-et-climat/changement-climatique/scenarios/pourquoi-la-meteo-et-le-climat-ne-sont-ils-pas-la-meme-chose"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "floodspace",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-872D76D5A3C2",
+          "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/proteger-inondations"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "recyclesort",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F58E0492BA5C",
+          "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/dechets-et-limites-du-recyclage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "carbonbudget",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-6BF5D18568A0",
+          "path": "/environnement-et-climat/changement-climatique/scenarios/changement-climatique-budget-carbone"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "siliconpanel",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-11E6F474A4F4",
+          "path": "/industries/industrie-lourde/chimie-industrielle/comment-fabrique-t-on-un-panneau-solaire-en-silicium"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "anvilforge",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F27C9CD4A48D",
+          "path": "/industries/industrie-lourde/siderurgie/forge-travail-fer"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "L’enclume ressemble à un profilé d’acier, et les trois états donnent mal à voir l’étirage à l’état solide. Dessiner une enclume, une pièce chaude suivie d’un état à l’autre et un avant/après."
+    },
+    {
+      "id": "coldlogistics",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-5E738B9A0AE8",
+          "path": "/industries/industrie-manufacturiere/chaine-logistique/comment-la-chaine-du-froid-garde-t-elle-les-aliments-frais-pendant-leur-voyage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "intermodal",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E64DC17D5B6E",
+          "path": "/industries/industrie-manufacturiere/chaine-logistique/comment-une-simple-boite-en-acier-a-t-elle-change-la-facon-dont-voyagent-les-objets"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "caliper",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9657BB103924",
+          "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/mesurer-avec-precision"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "weldjoint",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-067A881A6777",
+          "path": "/industries/materiaux-et-procedes/mise-en-forme/soudage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "dragwake",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9E4C7AF9CB20",
+          "path": "/automobile/industrie-automobile/production/aerodynamique-automobile-trainee"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "mildhybrid",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D839C3151DD0",
+          "path": "/automobile/motorisations/motorisations-hybrides/comment-une-voiture-hybride-legere-aide-t-elle-son-moteur-a-essence"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "exhaustclean",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-98720D1658C1",
+          "path": "/automobile/motorisations/thermique/filtre-particules-catalyseur"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "tyregrip",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9D38C59C3446",
+          "path": "/automobile/securite-et-conduite/pneus-contact-route-adherence"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "shocks",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-4A31B63D6528",
+          "path": "/automobile/securite-et-conduite/suspension-confort-tenue-de-route"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "airbagsequence",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-7608D0E5E568",
+          "path": "/automobile/securite-et-conduite/securite-passive/comment-un-airbag-se-gonfle-t-il-plus-vite-qu-un-clin-d-oeil"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "crumplefront",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-B19C2184AB9F",
+          "path": "/automobile/securite-et-conduite/securite-passive/pourquoi-l-avant-d-une-voiture-est-il-fait-pour-s-ecraser"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "selfheal",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-83040FAE8947",
+          "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/comment-un-materiau-peut-il-se-reparer-tout-seul-quand-il-se-fissure"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "limecycle",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C77ABAF4CF99",
+          "path": "/technologies-et-ingenierie/genie-civil/materiaux/chaux-liant-millenaire"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "bridgeinspection",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D2A4914E95FE",
+          "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/ponts-et-entretien-des-ouvrages"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "lithomask",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-1D85BC4DB3B8",
+          "path": "/technologies-et-ingenierie/nanotechnologies/applications/comment-construit-on-des-structures-a-l-echelle-du-milliardieme-de-metre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "actuatorarm",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2052928B8F08",
+          "path": "/technologies-et-ingenierie/robotique/actionneurs/actionneurs-en-robotique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "mobilemapping",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-DC5032E77099",
+          "path": "/technologies-et-ingenierie/robotique/robots-mobiles/robots-mobiles-et-navigation"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "rugbypass",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-392A8FC3D6E6",
+          "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs/pourquoi-au-rugby-fait-on-des-passes-vers-l-arriere"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "goalball",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F6BEBB19BAC6",
+          "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/comment-joue-t-on-au-goalball-sans-voir-le-ballon"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "wheelchaircourt",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-1DC04D9C5C5E",
+          "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/comment-joue-t-on-au-basket-en-fauteuil-roulant"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "crawl",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2CCF1E3A2CEC",
+          "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/pourquoi-le-crawl-est-il-la-nage-la-plus-rapide"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "Deux traits anguleux se croisent au même point et ne distinguent pas clairement quel bras est sous l’eau. Séparer la traction et le retour aérien dans une même vue en coupe."
+    },
+    {
+      "id": "sweatcool",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-3013F1D05E5A",
+          "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/pourquoi-transpire-t-on-autant-quand-on-fait-du-sport-sous-la-chaleur"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "geoloop",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9514752EEB2B",
+          "path": "/energie/energies-renouvelables/geothermie-chaleur-de-la-terre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "offgridsolar",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-0B9C47E9C0E9",
+          "path": "/energie/energies-renouvelables/solaire/installation-solaire-autonome"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "sodiumcell",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-BAA3B14FD049",
+          "path": "/energie/reseaux-et-stockage/batteries/batteries-sodium-ion"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "backgroundrad",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-BA0160AA9CE2",
+          "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/pourquoi-y-a-t-il-de-la-radioactivite-naturelle-tout-autour-de-nous"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "fridgezones",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F6FCD19EA8D7",
+          "path": "/alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire/la-conservation-optimale-des-aliments-au-refrigerateur"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "fooddates",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-414BC9A9F70F",
+          "path": "/alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire/pourquoi-certains-aliments-ont-ils-une-date-limite-et-d-autres-une-date-conseillee"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "lactase",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E5C719AB5918",
+          "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/lactose-et-intolerance"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "honeywater",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-B65EF0F054C4",
+          "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/comment-le-miel-peut-il-se-conserver-presque-sans-fin"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "osmotickeeping",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-49A204C8488B",
+          "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/pourquoi-le-sel-et-le-sucre-conservent-les-aliments"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "freezefood",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-539D768F597B",
+          "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/pourquoi-un-aliment-decongele-devient-il-parfois-tout-mou"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "vinegarair",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-69BF11C5B60A",
+          "path": "/alimentation-et-nutrition/technologies-alimentaires/fermentation/comment-le-vin-se-transforme-t-il-en-vinaigre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "lactojar",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E52B1588D574",
+          "path": "/alimentation-et-nutrition/technologies-alimentaires/fermentation/la-conservation-des-legumes-par-lactofermentation"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "crossboard",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-176021342F8F",
+          "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/pourquoi-ne-faut-il-pas-couper-la-salade-sur-la-planche-du-poulet-cru"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "solardryer",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-FDA3CB42BB4C",
+          "path": "/alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire/la-conservation-des-aliments-par-sechage-solaire"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "musicscore",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E979C9B35641",
+          "path": "/arts-et-culture/arts-du-spectacle/musique/comment-ecrit-on-de-la-musique-sur-une-partition"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "fluteair",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2912B100D0AF",
+          "path": "/arts-et-culture/arts-du-spectacle/musique/comment-une-flute-transforme-t-elle-un-souffle-en-musique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "shadowstage",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C138E40A8951",
+          "path": "/arts-et-culture/arts-du-spectacle/theatre-et-danse/d-ou-viennent-les-marionnettes-et-le-theatre-d-ombres"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "leadtype",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-0A9070E203DF",
+          "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/comment-la-typographie-est-elle-passee-du-plomb-a-l-ecran"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "claykiln",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-113051597F4D",
+          "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/comment-l-argile-devient-elle-dure-comme-de-la-pierre-dans-un-four"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "pigmentbinder",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-35F7ABD77EBF",
+          "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/pigments-fabrication-couleurs"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "pinholebox",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-6719D1FABBB6",
+          "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/comment-une-boite-percee-d-un-petit-trou-fabrique-t-elle-une-image"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "papyrussheet",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-BF0D9C1CC3DD",
+          "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/comment-les-egyptiens-fabriquaient-ils-des-feuilles-avec-une-plante"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "paperfibres",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C94A4ED4EA09",
+          "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/fabriquer-papier"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "gothicvault",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-58AF670F6257",
+          "path": "/arts-et-culture/patrimoine/architecture/art-gothique-et-croisee-dogives"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "regenbrake",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A69CBB0BF74B",
+          "path": "/automobile/motorisations/motorisations-hybrides/comment-une-voiture-electrique-recupere-t-elle-de-l-energie-en-freinant"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "dieselignition",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-810FB82798CB",
+          "path": "/automobile/motorisations/thermique/comment-un-moteur-diesel-s-allume-t-il-sans-bougie-d-allumage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "clutchplates",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-3F2DF6211257",
+          "path": "/automobile/motorisations/thermique/embrayage-volant-moteur-bimasse"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "gearboxpair",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-ADD88C9A2C70",
+          "path": "/automobile/motorisations/thermique/fonctionnement-boite-de-vitesses"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "intercoolerair",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-B230E21BA5DE",
+          "path": "/automobile/motorisations/thermique/intercooler-circuit-admission"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "enginecoolant",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-DDF162C9DD4B",
+          "path": "/automobile/motorisations/thermique/refroidissement-moteur-thermique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "differentialturn",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-92DC814A2D2E",
+          "path": "/automobile/motorisations/thermique/transmission-integrale-differentiel"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "abscontrol",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-64E4D10D5E78",
+          "path": "/automobile/securite-et-conduite/aides-a-la-conduite/comment-l-abs-permet-il-de-tourner-le-volant-en-freinant-a-fond"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "discbrake",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-ADBD2EACA53D",
+          "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/comment-les-freins-a-disque-arretent-ils-une-voiture"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "engineoil",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-CA23D520E399",
+          "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/huile-moteur-lubrification"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "flowerpollination",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2CE7EB458037",
+          "path": "/environnement-et-climat/biodiversite/ecosystemes/pourquoi-les-abeilles-sauvages-et-autres-pollinisateurs-sont-ils-precieux-pour-nos-cultures"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "agroforestrows",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C080879D0E3B",
+          "path": "/environnement-et-climat/biodiversite/forets-et-oceans/l-agroforesterie-combiner-arbres-et-cultures"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "coralbleach",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-579CE2C8CCBC",
+          "path": "/environnement-et-climat/biodiversite/forets-et-oceans/le-blanchissement-des-coraux"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "oceanacid",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-AF86C8B75BC1",
+          "path": "/environnement-et-climat/biodiversite/forets-et-oceans/pourquoi-l-acidification-des-oceans-menace-t-elle-les-recifs-coralliens"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "sealevelrise",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-636FE920AECB",
+          "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/pourquoi-le-niveau-de-la-mer-monte-t-il-et-que-devient-le-littoral"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "wetlandsponge",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A2FC08933C30",
+          "path": "/environnement-et-climat/pollution-et-ressources/eau/pourquoi-dit-on-que-les-zones-humides-sont-des-eponges-naturelles"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "sewageplant",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-22E3E9A95802",
+          "path": "/environnement-et-climat/pollution-et-ressources/eau/que-devient-l-eau-de-l-evier-et-des-toilettes-dans-une-station-d-epuration"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "stormcharges",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-BBB986E053CC",
+          "path": "/geographie-et-territoires/geographie-physique/climatologie/comment-nait-un-eclair-pendant-un-orage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "waterjourney",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-62F05D5DCBE6",
+          "path": "/geographie-et-territoires/geographie-physique/hydrographie/comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "watershedridge",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-5D24CFD8F1C2",
+          "path": "/geographie-et-territoires/geographie-physique/hydrographie/ou-va-la-pluie-qui-tombe-de-chaque-cote-d-une-crete"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "htmltree",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-841F027FEBD8",
+          "path": "/communication-et-medias/medias-numeriques/web/comment-le-langage-html-construit-il-une-page-web"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "searchindex",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-7997925DCFEC",
+          "path": "/communication-et-medias/medias-numeriques/web/comment-un-moteur-de-recherche-trouve-t-il-une-page-parmi-toutes-celles-du-web"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "cookietoken",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-EBECEEB2A333",
+          "path": "/communication-et-medias/medias-numeriques/web/comment-un-site-web-se-souvient-il-de-vous-grace-aux-cookies"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "ssdanddisk",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-38E8C4499D9D",
+          "path": "/micro-informatique-et-informatique/materiel/memoire-et-stockage/quelle-difference-y-a-t-il-entre-un-ssd-et-un-disque-dur"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "capacitivetouch",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F22835C08DE1",
+          "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-un-ecran-tactile-sent-il-votre-doigt"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "inkjetdrops",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-B9264712CAFA",
+          "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-une-imprimante-depose-t-elle-l-encre-exactement-au-bon-endroit"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "transistorgate",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-7DE9484E98C2",
+          "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "cpucooling",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-66EEF3BF0B3F",
+          "path": "/micro-informatique-et-informatique/materiel/processeurs/pourquoi-un-ordinateur-a-t-il-besoin-d-un-ventilateur"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "passwordhash",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-EFC4200F9B53",
+          "path": "/micro-informatique-et-informatique/reseaux-et-securite/chiffrement/comment-un-site-protege-t-il-votre-mot-de-passe-sans-le-connaitre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "blocklinks",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-5CAEE939D367",
+          "path": "/micro-informatique-et-informatique/reseaux-et-securite/chiffrement/comment-une-chaine-de-blocs-rend-elle-le-passe-presque-impossible-a-modifier"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "cellmap",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-BD8A6750BAD9",
+          "path": "/sciences-fondamentales/biologie/cellule/la-cellule-unite-du-vivant"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "foodweb",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-482C9F4AF9C4",
+          "path": "/sciences-fondamentales/biologie/ecologie/chaines-alimentaires-et-ecosystemes"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "selectionbeetles",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E2A4777A8BF4",
+          "path": "/sciences-fondamentales/biologie/evolution/theorie-evolution-selection-naturelle"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "resistantpopulation",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F0D12CD1F3FF",
+          "path": "/sciences-fondamentales/biologie/evolution/comment-les-bacteries-deviennent-elles-resistantes-aux-antibiotiques"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "abomarkers",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-B94BE1EE513E",
+          "path": "/sciences-fondamentales/biologie/genetique/pourquoi-n-avons-nous-pas-tous-le-meme-groupe-sanguin"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "phscale",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E44D72BC4A9B",
+          "path": "/sciences-fondamentales/chimie/chimie-inorganique/acides-bases"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "waterbonds",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A4D8F80D11BF",
+          "path": "/sciences-fondamentales/chimie/chimie-inorganique/l-eau-une-molecule-aux-proprietes-exceptionnelles"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "redoxpair",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-76FF959256D0",
+          "path": "/sciences-fondamentales/chimie/chimie-inorganique/oxydation-reduction"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "periodicmap",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-0D7569645001",
+          "path": "/sciences-fondamentales/chimie/chimie-inorganique/tableau-periodique-des-elements"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "carbonbonds",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-543DEF1CB011",
+          "path": "/sciences-fondamentales/chimie/chimie-organique/molecule-carbone-composes-organiques"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "methaneflame",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-5DE3CD051512",
+          "path": "/sciences-fondamentales/chimie/chimie-physique/combustion"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "dynamicbalance",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F7DF87BA0740",
+          "path": "/sciences-fondamentales/chimie/chimie-physique/reactions-chimiques-et-equilibre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "maillardfood",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-5062405EAFEF",
+          "path": "/sciences-fondamentales/chimie/chimie-physique/pourquoi-la-croute-du-pain-et-la-viande-grillee-ont-elles-ce-gout-et-cette-couleur"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "eratosthenes",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-AFE4313B5782",
+          "path": "/sciences-fondamentales/mathematiques/geometrie/comment-eratosthene-a-t-il-mesure-la-terre-avec-une-ombre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "mapprojection",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-4203FE13E7A0",
+          "path": "/sciences-fondamentales/mathematiques/geometrie/pourquoi-aucune-carte-du-monde-a-plat-ne-peut-elle-etre-parfaitement-fidele"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "circlepi",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-1D656117C160",
+          "path": "/sciences-fondamentales/mathematiques/geometrie/pourquoi-le-nombre-pi-se-cache-t-il-dans-tous-les-cercles"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "meanmedian",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8CDB7A95BC49",
+          "path": "/sciences-fondamentales/mathematiques/probabilites-et-statistiques/la-moyenne-la-mediane-et-le-mode-trois-mesures-distinctes"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "samplingmeans",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-DAAE11792655",
+          "path": "/sciences-fondamentales/mathematiques/probabilites-et-statistiques/la-loi-des-grands-nombres"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "moonweight",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-FB0B988C368B",
+          "path": "/sciences-fondamentales/physique/mecanique/pourquoi-peserait-on-six-fois-moins-sur-la-lune-sans-perdre-un-gramme"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "laserbeam",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8D76CA37764E",
+          "path": "/sciences-fondamentales/physique/physique-quantique/pourquoi-la-lumiere-d-un-laser-est-elle-si-differente-de-celle-d-une-lampe"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "thermalcontact",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-0152D71DF33E",
+          "path": "/sciences-fondamentales/physique/thermodynamique/temperature-et-chaleur"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "fridgecycle",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A7AABE875D4A",
+          "path": "/sciences-fondamentales/physique/thermodynamique/un-refrigerateur-fabrique-t-il-vraiment-du-froid"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "hotspring",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2B67D7914614",
+          "path": "/sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes/pourquoi-certaines-sources-sortent-elles-du-sol-deja-chaudes"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "oceancirculation",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E12CAA472289",
+          "path": "/sciences-fondamentales/sciences-de-la-terre/oceanographie/courants-oceaniques-role-climatique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "gravitydam",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-DEBC0D00C3F9",
+          "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/comment-un-barrage-resiste-t-il-a-la-poussee-de-l-eau"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "memoryalloy",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-373E3AC8FBD6",
+          "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/les-alliages-a-memoire-de-forme"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "passivelayer",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2B6531B276A3",
+          "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/pourquoi-l-acier-inoxydable-ne-rouille-t-il-pas"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "graphenelattice",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D9CA5BC87357",
+          "path": "/technologies-et-ingenierie/nanotechnologies/nanomateriaux/graphene-et-nanomateriaux"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "compositeply",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8D3BB215585C",
+          "path": "/industries/materiaux-et-procedes/composites-et-polymeres/composites-et-materiaux-combines"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "healingcapsule",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9BC1AA9FE6E6",
+          "path": "/technologies-et-ingenierie/genie-civil/materiaux/comment-des-bacteries-des-capsules-ou-la-chaux-romaine-reparent-elles-les-fissures-du-beton"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "heartloop",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-DFD0A1D193E2",
+          "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/coeur-circulation-sanguine"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "clotmesh",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-EBC1A6DCF75C",
+          "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/comment-le-sang-s-arrete-t-il-de-couler-tout-seul-apres-une-coupure"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "pulsewave",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-035506F93DA3",
+          "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/pourquoi-sent-on-son-coeur-battre-au-poignet"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "gutabsorption",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C2D1D9B21F1A",
+          "path": "/corps-humain-et-sante/anatomie/systeme-digestif/digestion-et-absorption-des-nutriments"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "gastricbarrier",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E3060B5D8C45",
+          "path": "/corps-humain-et-sante/anatomie/systeme-digestif/pourquoi-l-estomac-ne-se-digere-t-il-pas-lui-meme"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "liverlobule",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-4A8EC7DD9282",
+          "path": "/corps-humain-et-sante/anatomie/systeme-digestif/que-fait-le-foie-l-usine-chimique-du-corps"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "thermostatbody",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-29C515454520",
+          "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/comment-le-corps-garde-t-il-une-temperature-proche-de-37-c"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "withdrawalreflex",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F7BF291591D1",
+          "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/pourquoi-la-main-se-retire-t-elle-toute-seule-d-une-surface-brulante"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "dialyser",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-74ADE757D315",
+          "path": "/corps-humain-et-sante/maladies/maladies-chroniques/comment-une-machine-peut-elle-faire-le-travail-des-reins"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "antibodyfit",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-AAFFCB7E6A31",
+          "path": "/corps-humain-et-sante/physiologie/immunite/comment-un-anticorps-reconnait-il-un-microbe"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "bodyclock",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F43F0364C64E",
+          "path": "/corps-humain-et-sante/physiologie/sommeil/comment-le-corps-sait-il-l-heure-sans-regarder-une-montre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "sleepnight",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-BE91BD505D46",
+          "path": "/corps-humain-et-sante/physiologie/sommeil/cycles-du-sommeil-et-fonction-reparatrice"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "newtonmotion",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-CD94769882CF",
+          "path": "/sciences-fondamentales/physique/mecanique/lois-de-newton-mecanique-classique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "energyball",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-16E541445C21",
+          "path": "/sciences-fondamentales/physique/mecanique/energie-et-conservation"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "heatpaths",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F6C8875D506B",
+          "path": "/sciences-fondamentales/physique/thermodynamique/conduction-convection-rayonnement"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "magnetdomains",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8927182D1EAC",
+          "path": "/sciences-fondamentales/physique/electromagnetisme/comment-fonctionne-un-aimant"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "transformercoil",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-33EB12F4F5DC",
+          "path": "/sciences-fondamentales/physique/electromagnetisme/les-transformateurs-electriques-et-leur-role-dans-l-ajustement-de-la-tension"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "rainbowdrop",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-652A7632EAF9",
+          "path": "/sciences-fondamentales/physique/electromagnetisme/comment-se-forme-un-arc-en-ciel"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "Deux rayons physiquement proches se recouvrent à la taille du téléphone. Conserver le trajet calculé et ajouter un agrandissement signalé pour lire les deux couleurs."
+    },
+    {
+      "id": "skyscatter",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F9FB95F6A3EA",
+          "path": "/sciences-fondamentales/physique/electromagnetisme/pourquoi-le-ciel-est-il-bleu-et-le-soleil-couchant-rouge"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "microwavefood",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-986113EC21DD",
+          "path": "/sciences-fondamentales/physique/electromagnetisme/comment-un-four-a-micro-ondes-chauffe-t-il-les-aliments"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "lakeice",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-921E17C91667",
+          "path": "/sciences-fondamentales/physique/thermodynamique/pourquoi-un-lac-gele-t-il-par-la-surface-plutot-que-par-le-fond"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "saltdissolve",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-ABCF6D8301C5",
+          "path": "/sciences-fondamentales/chimie/chimie-physique/pourquoi-le-sel-disparait-il-dans-l-eau-alors-que-l-huile-reste-a-part"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "desalination",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E17F8A1C316A",
+          "path": "/environnement-et-climat/pollution-et-ressources/eau/comment-transforme-t-on-l-eau-de-mer-en-eau-douce"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "compostlife",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-15CBBE933AD2",
+          "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/comment-des-epluchures-se-transforment-elles-en-compost"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "paperloop",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-FD7B3BB15F42",
+          "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/comment-un-vieux-journal-redevient-il-du-papier-neuf"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "mangroveroots",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-027FE0393F3A",
+          "path": "/environnement-et-climat/biodiversite/ecosystemes/comment-les-mangroves-protegent-elles-les-cotes-des-vagues"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "citycanopy",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-26EAB4A19BE4",
+          "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/comment-les-arbres-rafraichissent-ils-une-ville-en-ete"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "ozonecycle",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-0830CD946693",
+          "path": "/environnement-et-climat/changement-climatique/gaz-a-effet-de-serre/pourquoi-un-trou-s-est-il-forme-dans-la-couche-d-ozone"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "algaebloom",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-97864407A8B4",
+          "path": "/environnement-et-climat/pollution-et-ressources/eau/pourquoi-des-algues-vertes-envahissent-elles-certaines-plages-de-bretagne"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "rainharvest",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-FE56C55DEA31",
+          "path": "/environnement-et-climat/pollution-et-ressources/eau/recuperer-eau-pluie"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "hedgerows",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-1365D448F288",
+          "path": "/environnement-et-climat/biodiversite/ecosystemes/haies-bocage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "wormsoil",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-51038463BCDB",
+          "path": "/environnement-et-climat/biodiversite/ecosystemes/comment-les-vers-de-terre-rendent-ils-le-sol-fertile"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "graftunion",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9EB21845E38B",
+          "path": "/sciences-du-vivant-appliquees/agronomie/selection-vegetale/greffage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "croprotation",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-0ED3FAED931A",
+          "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/rotation-cultures"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "rootnodules",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9ACD2D5D22ED",
+          "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/legumineuses-azote"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "biocontrol",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F42AAC4354E1",
+          "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/lutte-biologique-contre-ravageurs"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "dripwater",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-CAC499602CD5",
+          "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/irrigation-econome-eau"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "mulchsoil",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-95B1BDBDFA0A",
+          "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/comment-une-couche-de-paille-protege-t-elle-le-sol-d-un-potager"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "seedvault",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2B54BDCB018A",
+          "path": "/sciences-du-vivant-appliquees/agronomie/selection-vegetale/pourquoi-garde-t-on-des-millions-de-graines-dans-une-montagne-glacee-pres-du-pole-nord"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "insulinmicrobe",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-CE7F7BCB0A5F",
+          "path": "/sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese/comment-des-bacteries-fabriquent-elles-l-insuline-des-diabetiques"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "washenzyme",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C1A2DE345AAF",
+          "path": "/sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese/comment-des-enzymes-produites-par-des-microbes-aident-elles-la-lessive-a-laver-a-froid"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "quorumlight",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-40230F703D37",
+          "path": "/sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese/comment-des-bacteries-produisent-elles-de-la-lumiere-et-pourquoi-le-font-elles-ensemble"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "weaveloom",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-61BF6660EAE7",
+          "path": "/industries/materiaux-et-procedes/mise-en-forme/filer-tisser"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "foundrycast",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-C7747624891C",
+          "path": "/industries/materiaux-et-procedes/mise-en-forme/fonderie"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "steeltemper",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-1BE8E15DC109",
+          "path": "/industries/industrie-lourde/siderurgie/trempe-revenu"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "catalystpath",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-567FF98BA154",
+          "path": "/industries/industrie-lourde/chimie-industrielle/les-catalyseurs-accelerer-une-reaction-chimique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "rubberlinks",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9779032E6A69",
+          "path": "/industries/materiaux-et-procedes/composites-et-polymeres/comment-le-soufre-a-t-il-rendu-le-caoutchouc-solide-et-elastique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "thermoplastic",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-836C8CCD5C96",
+          "path": "/industries/materiaux-et-procedes/composites-et-polymeres/pourquoi-certains-plastiques-fondent-ils-a-la-chaleur-et-d-autres-non"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "lathemill",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-B552365DD069",
+          "path": "/industries/materiaux-et-procedes/mise-en-forme/comment-un-tour-et-une-fraiseuse-taillent-ils-une-piece-dans-un-bloc-de-metal"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "printlayers",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-2F986C77E170",
+          "path": "/industries/materiaux-et-procedes/mise-en-forme/comment-une-imprimante-3d-peut-elle-fabriquer-une-piece-detachee-sur-place"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "rebarbeam",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-60F14261AE47",
+          "path": "/technologies-et-ingenierie/genie-civil/materiaux/pourquoi-met-on-des-barres-d-acier-dans-le-beton"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "fatiguecrack",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-72421F31AB48",
+          "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/pourquoi-une-piece-de-metal-peut-elle-casser-a-force-d-etre-secouee"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "rooftruss",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-662700C383B8",
+          "path": "/technologies-et-ingenierie/genie-civil/structures/charpente-bois"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "claybrick",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A4801A70544F",
+          "path": "/technologies-et-ingenierie/genie-civil/materiaux/brique-terre-cuite"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "aqueductslope",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-5C366692B779",
+          "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/aqueducs-canaux"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "baseisolation",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-769B647B926C",
+          "path": "/technologies-et-ingenierie/genie-civil/structures/comment-construire-des-batiments-qui-resistent-aux-tremblements-de-terre"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "Les positions avant secousse et les déplacements sont difficiles à comparer dans le dessin. Réutiliser le même repère et montrer la déformation des appuis entre le sol et le bâtiment."
+    },
+    {
+      "id": "quadcopter",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-420609400C6A",
+          "path": "/technologies-et-ingenierie/robotique/robots-mobiles/comment-un-drone-a-quatre-helices-tient-il-immobile-dans-les-airs"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "lidarmap",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E39FF0AD8380",
+          "path": "/technologies-et-ingenierie/robotique/perception/comment-un-lidar-permet-il-a-un-robot-de-dessiner-une-carte-de-ce-qui-l-entoure"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "motortorque",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-213B5B859B7D",
+          "path": "/technologies-et-ingenierie/robotique/actionneurs/comment-un-moteur-electrique-transforme-t-il-le-courant-en-mouvement"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "elasticplastic",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D1592BB56815",
+          "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/l-elasticite-et-la-plasticite-des-materiaux"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "wheatflour",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F10455CFE1BE",
+          "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/comment-un-grain-de-ble-devient-il-de-la-farine"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "yogurtculture",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-170E1805C847",
+          "path": "/alimentation-et-nutrition/technologies-alimentaires/fermentation/comment-des-bacteries-transforment-elles-le-lait-en-yaourt"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "rebound",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-F788D203EF2D",
+          "path": "/energie/efficacite-et-sobriete/efficacite-energetique/efficacite-energetique-et-effet-rebond"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "refinery",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-78AC0B04F9E0",
+          "path": "/energie/energies-fossiles-et-nucleaire/hydrocarbures/raffinage-du-petrole"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "nuclearwaste",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-8D0218E442E0",
+          "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/dechets-radioactifs-et-stockage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "fusion",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-EC8F673B8447",
+          "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/fusion-nucleaire-etat-des-recherches"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "csp",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-33076CB397C1",
+          "path": "/energie/energies-renouvelables/solaire/solaire-thermique-et-concentration"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "duckcurve",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-669C05672517",
+          "path": "/energie/reseaux-et-stockage/reseaux-electriques/mix-electrique-et-intermittence"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "energychain",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-92C12B180D54",
+          "path": "/energie/efficacite-et-sobriete/usages-et-consommation/energie-primaire-et-energie-finale"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "watermill",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-46232B9F5B8F",
+          "path": "/energie/energies-renouvelables/hydraulique/moulin-eau"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "leadacid",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9E305D047C46",
+          "path": "/energie/reseaux-et-stockage/batteries/batterie-plomb"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "electrolyser",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-6BFC0D567E90",
+          "path": "/energie/reseaux-et-stockage/hydrogene/electrolyse-eau"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "insulation",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-CC56946C1DF5",
+          "path": "/energie/efficacite-et-sobriete/efficacite-energetique/isoler-batiment"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "led",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-9CB76F443212",
+          "path": "/energie/efficacite-et-sobriete/efficacite-energetique/comment-une-led-fabrique-t-elle-de-la-lumiere-sans-chauffer-de-filament"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "cogeneration",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-A122B9AAE1DA",
+          "path": "/energie/efficacite-et-sobriete/efficacite-energetique/cogeneration"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "firewood",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-056F72B602DA",
+          "path": "/energie/efficacite-et-sobriete/usages-et-consommation/bois-chauffage"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "glazing",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-BA1CDF1AB463",
+          "path": "/energie/efficacite-et-sobriete/efficacite-energetique/comment-un-double-vitrage-garde-t-il-la-chaleur-dans-la-maison"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "thermalmass",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-FA6DCA20A885",
+          "path": "/energie/efficacite-et-sobriete/efficacite-energetique/pourquoi-une-maison-aux-murs-epais-de-pierre-ou-de-terre-reste-t-elle-fraiche-en-ete"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "standby",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-042806B5CF04",
+          "path": "/energie/efficacite-et-sobriete/usages-et-consommation/pourquoi-un-appareil-en-veille-consomme-t-il-encore-de-l-electricite"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "pyrolysis",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-1524E0333950",
+          "path": "/energie/energies-fossiles-et-nucleaire/charbon/charbon-bois"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "windmill",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-D42DFA4102F4",
+          "path": "/energie/energies-renouvelables/eolien/moulins-vent"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "solaroven",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-6D65993219E1",
+          "path": "/energie/energies-renouvelables/solaire/four-chauffe-eau-solaires"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "voltapile",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-1848677BEF9D",
+          "path": "/energie/reseaux-et-stockage/batteries/comment-volta-a-t-il-invente-la-premiere-pile-electrique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "fuelcell",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E9F434B833FE",
+          "path": "/energie/reseaux-et-stockage/hydrogene/comment-une-pile-a-hydrogene-produit-elle-de-l-electricite-sans-rien-bruler"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "gridcascade",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-36A2133DEAF9",
+          "path": "/energie/reseaux-et-stockage/reseaux-electriques/pourquoi-un-pays-entier-peut-il-se-retrouver-d-un-coup-sans-electricite"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "fission",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-98CFDA35E5AE",
+          "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/comment-un-atome-qui-se-casse-peut-il-allumer-une-ampoule"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "demandshift",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-0C55D5ACC989",
+          "path": "/energie/reseaux-et-stockage/reseaux-electriques/reseaux-electriques-intelligents-smart-grids"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "agrivoltaic",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-45AAB7D8BE0C",
+          "path": "/energie/energies-renouvelables/solaire/peut-on-produire-de-l-electricite-et-des-cultures-sur-le-meme-champ"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "compressedair",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-E3DFB0303D33",
+          "path": "/energie/reseaux-et-stockage/batteries/comment-stocker-de-l-electricite-dans-de-l-air-comprime"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "gridbattery",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-52F84AC36AC8",
+          "path": "/energie/reseaux-et-stockage/batteries/comment-une-mega-batterie-aide-t-elle-a-stabiliser-le-reseau-electrique"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "flowbattery",
+      "type": "schema",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-33078A068CEF",
+          "path": "/energie/reseaux-et-stockage/batteries/comment-une-batterie-peut-elle-stocker-de-l-energie-dans-des-reservoirs-de-liquide"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "allumer-une-lampe",
+      "type": "atelier",
+      "states": 2,
+      "paths": [
+        {
+          "ref": "LEC-08148A8FC345",
+          "path": "/sciences-fondamentales/physique/electromagnetisme/tension-courant-resistance"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "de-la-pate-a-la-feuille",
+      "type": "atelier",
+      "states": 5,
+      "paths": [
+        {
+          "ref": "LEC-DB82E70927B9",
+          "path": "/industries/industrie-lourde/chimie-industrielle/comment-le-bois-devient-il-une-feuille-de-papier"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "deux-roues-deux-vitesses",
+      "type": "atelier",
+      "states": 9,
+      "paths": [
+        {
+          "ref": "LEC-37B0011F267F",
+          "path": "/technologies-et-ingenierie/robotique/actionneurs/engrenages-courroies-transmissions"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "feuille-et-lumiere",
+      "type": "atelier",
+      "states": 2,
+      "paths": [
+        {
+          "ref": "LEC-90D2C47CF44E",
+          "path": "/sciences-fondamentales/biologie/cellule/comment-une-feuille-fabrique-t-elle-du-sucre-avec-de-la-lumiere"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "la-bouteille-qui-revient",
+      "type": "atelier",
+      "states": 2,
+      "paths": [
+        {
+          "ref": "LEC-56A67B4177D5",
+          "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/comment-une-bouteille-en-verre-usagee-redevient-elle-une-bouteille-neuve"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "la-couleur-dans-le-mur",
+      "type": "atelier",
+      "states": 6,
+      "paths": [
+        {
+          "ref": "LEC-D41606E5FFA1",
+          "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/comment-une-fresque-reste-t-elle-accrochee-au-mur-pendant-des-siecles"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "la-lune-et-nos-points-de-vue",
+      "type": "atelier",
+      "states": 8,
+      "paths": [
+        {
+          "ref": "LEC-EDD8ADCB4F69",
+          "path": "/espace-et-astronomie/systeme-solaire/lune/pourquoi-la-lune-change-t-elle-de-forme-au-fil-du-mois"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "la-voix-dans-le-fil",
+      "type": "atelier",
+      "states": 2,
+      "paths": [
+        {
+          "ref": "LEC-997C5952E7F9",
+          "path": "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/comment-le-telephone-fixe-transportait-il-la-voix-par-un-fil"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "le-bateau-et-l-eau-deplacee",
+      "type": "atelier",
+      "states": 10,
+      "paths": [
+        {
+          "ref": "LEC-0CA01323140F",
+          "path": "/sciences-fondamentales/physique/mecanique/pourquoi-un-bateau-en-acier-flotte-t-il"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "Les forces intégrées au dessin emploient le point décimal. Appliquer la virgule aux valeurs en kilonewtons en français."
+    },
+    {
+      "id": "le-pain-qui-gonfle",
+      "type": "atelier",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-720A3F362CD7",
+          "path": "/alimentation-et-nutrition/technologies-alimentaires/fermentation/comment-le-levain-fait-il-gonfler-la-pate-a-pain"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "le-pilote-qui-corrige",
+      "type": "atelier",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-5372F8D0D18F",
+          "path": "/aeronautique/navigation-aerienne/instruments-de-vol/comment-le-pilote-automatique-tient-il-un-avion-sur-sa-route"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "le-turbo",
+      "type": "atelier",
+      "states": 9,
+      "paths": [
+        {
+          "ref": "LEC-AAD4FCA9FF69",
+          "path": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "le-voyage-de-l-electricite",
+      "type": "atelier",
+      "states": 6,
+      "paths": [
+        {
+          "ref": "LEC-32AFAF771F51",
+          "path": "/energie/reseaux-et-stockage/reseaux-electriques/comment-l-electricite-voyage-t-elle-de-la-centrale-jusqu-a-votre-prise"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "les-donnees-dans-l-air",
+      "type": "atelier",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-EEEF554B42ED",
+          "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-le-wi-fi-fait-il-voyager-des-donnees-a-travers-l-air"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "les-quatre-temps",
+      "type": "atelier",
+      "states": 11,
+      "paths": [
+        {
+          "ref": "LEC-963FCCC6C8BF",
+          "path": "/automobile/motorisations/thermique/comment-un-moteur-a-quatre-temps-transforme-t-il-l-essence-en-mouvement"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "naissance-d-un-cyclone",
+      "type": "atelier",
+      "states": 3,
+      "paths": [
+        {
+          "ref": "LEC-6396B8B36718",
+          "path": "/geographie-et-territoires/geographie-physique/climatologie/comment-un-cyclone-tropical-nait-il-au-dessus-d-une-mer-chaude"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "naissance-d-un-sol",
+      "type": "atelier",
+      "states": 6,
+      "paths": [
+        {
+          "ref": "LEC-BE94A35A77FE",
+          "path": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/comment-une-roche-se-transforme-t-elle-peu-a-peu-en-sol"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "savon-et-graisse",
+      "type": "atelier",
+      "states": 2,
+      "paths": [
+        {
+          "ref": "LEC-A2831C0B1F61",
+          "path": "/sciences-fondamentales/chimie/chimie-organique/comment-fabrique-t-on-du-savon-avec-de-l-huile"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "un-axe-deux-saisons",
+      "type": "atelier",
+      "states": 2,
+      "paths": [
+        {
+          "ref": "LEC-1DBD90BC97B3",
+          "path": "/espace-et-astronomie/systeme-solaire/planetes/pourquoi-y-a-t-il-des-saisons-sur-terre"
+        }
+      ],
+      "decision": "conserver"
+    },
+    {
+      "id": "un-petit-effort-un-grand-levier",
+      "type": "atelier",
+      "states": 9,
+      "paths": [
+        {
+          "ref": "LEC-BCBC8F9EB4D2",
+          "path": "/technologies-et-ingenierie/genie-civil/structures/levier-poulie-plan-incline"
+        }
+      ],
+      "decision": "retouche",
+      "reason": "Les mesures intégrées au dessin emploient le point décimal. Appliquer la virgule aux mesures et à leur description accessible en français."
+    }
+  ],
+  "reviewedFrames": {
+    "diagrams": 1185,
+    "workshops": 103
+  }
+}

@@ -1,3 +1,4 @@
+import { Rainbow } from "./OpticsReviewDrawings";
 import {
   Scene,
   Arrow,
@@ -10,7 +11,6 @@ import {
   Wave,
   type DrawingProps,
 } from "./Batch50Parts";
-import { rainbowPath } from "@/lib/lesson-visuals/batch50-models";
 export function Physics50Drawing({ kind, step: s, id }: DrawingProps) {
   if (kind === "newtonmotion")
     return (
@@ -241,47 +241,7 @@ export function Physics50Drawing({ kind, step: s, id }: DrawingProps) {
         </Label>
       </Scene>
     );
-  if (kind === "rainbowdrop")
-    return (
-      <Scene
-        id={id}
-        title={["Réfraction à l’entrée", "Réflexion intérieure", "Dispersion à la sortie"][s]!}
-        foot={["Air → eau", "Une partie est réfléchie", "Deux couleurs du rayon solaire"][s]!}
-      >
-        <circle
-          cx="208"
-          cy="113"
-          r="64"
-          fill={`url(#${id}-water)`}
-          opacity=".45"
-          stroke={blue}
-          strokeWidth="2"
-        />
-        {[1.331, 1.343].map((n, i) => {
-          const p = rainbowPath(n);
-          const points = p.map(([x, y]) => [208 + x * 64, 113 + y * 64]);
-          return (
-            <g key={n}>
-              <path
-                d={`M40 ${points[0]![1]}L${points[0]!.join(" ")}L${points[1]!.join(" ")}${s > 0 ? "L" + points[2]!.join(" ") : ""}${s === 2 ? "L" + points[3]!.join(" ") : ""}`}
-                stroke={s === 2 ? [warm, "#8656a8"][i] : "#c5972c"}
-                strokeWidth="2.5"
-                fill="none"
-              />
-              {s === 2 && (
-                <circle cx={points[2]![0]} cy={points[2]![1]} r="3" fill={[warm, "#8656a8"][i]} />
-              )}
-            </g>
-          );
-        })}
-        <Label x={80} y={49}>
-          Soleil
-        </Label>
-        <Label x={283} y={193}>
-          Goutte
-        </Label>
-      </Scene>
-    );
+  if (kind === "rainbowdrop") return <Rainbow step={s} id={id} />;
   if (kind === "skyscatter")
     return (
       <Scene

@@ -1,0 +1,201 @@
+{
+  "records": [
+    {
+      "id": "le-bateau-et-l-eau-deplacee",
+      "width": 320,
+      "before": {
+        "accessible": "0 kg ajoutés",
+        "box": {
+          "height": 160,
+          "width": 275,
+          "x": 22,
+          "y": 140
+        },
+        "figures": 1,
+        "labels": [
+          "Masse totale : 400 kg",
+          "Coque étanche",
+          "1 m³ au maximum",
+          "Poussée",
+          "3,9 kN",
+          "Poids",
+          "3,9 kN",
+          "Eau déplacée : 400 L"
+        ],
+        "overflow": 0,
+        "value": "0"
+      },
+      "after": {
+        "accessible": "16 kg ajoutés",
+        "box": {
+          "height": 160,
+          "width": 275,
+          "x": 22,
+          "y": 140
+        },
+        "figures": 1,
+        "labels": [
+          "Masse totale : 416 kg",
+          "Coque étanche",
+          "1 m³ au maximum",
+          "Poussée",
+          "4,1 kN",
+          "Poids",
+          "4,1 kN",
+          "Eau déplacée : 416 L"
+        ],
+        "overflow": 0,
+        "value": "2"
+      },
+      "compared": 2
+    },
+    {
+      "id": "un-petit-effort-un-grand-levier",
+      "width": 320,
+      "before": {
+        "accessible": "Bras de l’effort : 10 cm",
+        "box": {
+          "height": 160,
+          "width": 275,
+          "x": 22,
+          "y": 136
+        },
+        "figures": 1,
+        "labels": [
+          "Déplace l’appui, change l’effort",
+          "Charge",
+          "Effort",
+          "120 N",
+          "360 N",
+          "Appui",
+          "30 cm",
+          "10 cm"
+        ],
+        "overflow": 0,
+        "value": "0"
+      },
+      "after": {
+        "accessible": "Bras de l’effort : 10,4 cm",
+        "box": {
+          "height": 160,
+          "width": 275,
+          "x": 22,
+          "y": 136
+        },
+        "figures": 1,
+        "labels": [
+          "Déplace l’appui, change l’effort",
+          "Charge",
+          "Effort",
+          "120 N",
+          "341,5 N",
+          "Appui",
+          "29,6 cm",
+          "10,4 cm"
+        ],
+        "overflow": 0,
+        "value": "2"
+      },
+      "compared": 2
+    },
+    {
+      "id": "le-bateau-et-l-eau-deplacee",
+      "width": 1280,
+      "before": {
+        "accessible": "0 kg ajoutés",
+        "box": {
+          "height": 319,
+          "width": 859,
+          "x": 210,
+          "y": 56
+        },
+        "figures": 1,
+        "labels": [
+          "Masse totale : 400 kg",
+          "Coque étanche",
+          "1 m³ au maximum",
+          "Poussée",
+          "3,9 kN",
+          "Poids",
+          "3,9 kN",
+          "Eau déplacée : 400 L"
+        ],
+        "overflow": 0,
+        "value": "0"
+      },
+      "after": {
+        "accessible": "16 kg ajoutés",
+        "box": {
+          "height": 319,
+          "width": 859,
+          "x": 210,
+          "y": 56
+        },
+        "figures": 1,
+        "labels": [
+          "Masse totale : 416 kg",
+          "Coque étanche",
+          "1 m³ au maximum",
+          "Poussée",
+          "4,1 kN",
+          "Poids",
+          "4,1 kN",
+          "Eau déplacée : 416 L"
+        ],
+        "overflow": 0,
+        "value": "2"
+      },
+      "compared": 2
+    },
+    {
+      "id": "un-petit-effort-un-grand-levier",
+      "width": 1280,
+      "before": {
+        "accessible": "Bras de l’effort : 10 cm",
+        "box": {
+          "height": 319,
+          "width": 859,
+          "x": 210,
+          "y": 56
+        },
+        "figures": 1,
+        "labels": [
+          "Déplace l’appui, change l’effort",
+          "Charge",
+          "Effort",
+          "120 N",
+          "360 N",
+          "Appui",
+          "30 cm",
+          "10 cm"
+        ],
+        "overflow": 0,
+        "value": "0"
+      },
+      "after": {
+        "accessible": "Bras de l’effort : 10,4 cm",
+        "box": {
+          "height": 319,
+          "width": 859,
+          "x": 210,
+          "y": 56
+        },
+        "figures": 1,
+        "labels": [
+          "Déplace l’appui, change l’effort",
+          "Charge",
+          "Effort",
+          "120 N",
+          "341,5 N",
+          "Appui",
+          "29,6 cm",
+          "10,4 cm"
+        ],
+        "overflow": 0,
+        "value": "2"
+      },
+      "compared": 2
+    }
+  ],
+  "errors": []
+}
