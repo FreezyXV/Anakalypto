@@ -5,6 +5,7 @@ import { SCIENCES30_DIAGRAMS } from "./sciences30";
 import { ORGANS_DIAGRAMS } from "./organs";
 import { BATCH50_DIAGRAMS } from "./batch50";
 import { ENERGY29_DIAGRAMS } from "./energy29";
+import { THEMATIC50_DIAGRAMS } from "./thematic50";
 import { RADIO_DIAGRAMS } from "./radio";
 import { AI_CONTEXT_DIAGRAMS } from "./ai-context";
 import { AI_USAGE_DIAGRAMS } from "./ai-usage";
@@ -18,6 +19,56 @@ import { ASTRONOMY_DIAGRAMS } from "./astronomy";
 
 /** Associations éditoriales explicites. Aucune recherche de mots-clés au rendu. */
 export type LessonDiagramKind =
+  | "operaStage"
+  | "balletPose"
+  | "wayfindingSign"
+  | "letterForms"
+  | "earlyCinema"
+  | "inkTools"
+  | "vernacularHouse"
+  | "artRestoration"
+  | "curiosityCabinet"
+  | "tapestryLoom"
+  | "movingAssembly"
+  | "carMaterials"
+  | "sharedPlatform"
+  | "energyRange"
+  | "motorMagnets"
+  | "vehicleGrid"
+  | "engineFeedback"
+  | "sparkCoil"
+  | "steeringAssist"
+  | "carCooling"
+  | "surveyTriangle"
+  | "seaPassage"
+  | "factorySensor"
+  | "digitalTwin"
+  | "ironReduction"
+  | "bloomFurnace"
+  | "ironCarbon"
+  | "threadFit"
+  | "materialChoice"
+  | "assistExoskeleton"
+  | "hiddenWater"
+  | "growingSeason"
+  | "fishSelectivity"
+  | "forestRenewal"
+  | "repairCycle"
+  | "waterBalance"
+  | "climatePlots"
+  | "dryDesert"
+  | "sandGrains"
+  | "maizeSelection"
+  | "imageProvenance"
+  | "feedRanking"
+  | "webHyperlink"
+  | "textEncoding"
+  | "languageRuntime"
+  | "memoryStorage"
+  | "graphicParallel"
+  | "taskSpecialization"
+  | "missingFailures"
+  | "rumorChain"
   | "pitchfork"
   | "twelvepart"
   | "audiogroove"
@@ -1635,6 +1686,7 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
   ...ORGANS_DIAGRAMS,
   ...BATCH50_DIAGRAMS,
   ...ENERGY29_DIAGRAMS,
+  ...THEMATIC50_DIAGRAMS,
 ];
 const BY_PATH = new Map(
   LESSON_DIAGRAMS.flatMap((spec) => spec.paths.map((path) => [path, spec] as const)),

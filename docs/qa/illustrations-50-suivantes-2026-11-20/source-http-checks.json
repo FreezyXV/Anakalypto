@@ -1,0 +1,358 @@
+[
+  {
+    "drawing": "operaStage",
+    "status": 429,
+    "url": "https://www.metmuseum.org/fr/essays/the-opera",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Consulted Metropolitan Museum essay via indexed official page"
+  },
+  {
+    "drawing": "balletPose",
+    "status": 200,
+    "url": "https://www.operadeparis.fr/artistes/ecole-de-danse/histoire",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "wayfindingSign",
+    "status": 200,
+    "url": "https://www.boutique.afnor.org/en-gb/standard/nf-iso-7001/graphical-symbols-public-information-symbols/fa132773/30493",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "letterForms",
+    "status": 429,
+    "url": "https://www.metmuseum.org/pt/perspectives/firmin-didot",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Consulted Metropolitan Museum perspective via indexed official page"
+  },
+  {
+    "drawing": "earlyCinema",
+    "status": 200,
+    "url": "https://www.institut-lumiere.org/le-cinematographe-lumiere",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "inkTools",
+    "status": 200,
+    "url": "https://www.library.illinois.edu/rbx/2021/04/07/iron-gall-ink/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "vernacularHouse",
+    "status": 200,
+    "url": "https://ciav.icomos.org/charter-on-the-built-vernacular-herigage-english/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "artRestoration",
+    "status": 200,
+    "url": "https://www.culture.gouv.fr/content/download/195690/2094969",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "curiosityCabinet",
+    "status": 200,
+    "url": "https://histoire-image.org/etudes/cabinets-curiosites",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "tapestryLoom",
+    "status": 200,
+    "url": "https://www.mobiliernational.culture.gouv.fr/fr/nous-connaitre/les-manufactures/manufacture-des-gobelins",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "movingAssembly",
+    "status": 200,
+    "url": "https://www.thehenryford.org/collections/explore/popular-research-topics/ford-motor-co-chronology-1903-2003",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "carMaterials",
+    "status": 200,
+    "url": "https://pfa-auto.fr/wp-content/uploads/2018/06/DT_Materiaux-pour-allegement_V6.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "sharedPlatform",
+    "status": 200,
+    "url": "https://annualreport2023.volkswagen-group.com/group-management-report/sustainable-value-enhancement/production.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "energyRange",
+    "status": 200,
+    "url": "https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/drageq.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "motorMagnets",
+    "status": 200,
+    "url": "https://www.energy.gov/cmei/vehicles/research-and-development-advanced-motors-and-electric-drives",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "vehicleGrid",
+    "status": 200,
+    "url": "https://www.charin.global/news/vehicle-to-grid-v2g-interoperability-standards-grid-integration/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "engineFeedback",
+    "status": 200,
+    "url": "https://www.bosch-mobility.com/en/solutions/exhaust-gas-treatment/switching-type-lambda-sensor/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "sparkCoil",
+    "status": 200,
+    "url": "https://www.boschaftermarket.com/xrm/media/images/country_specific/my/services_and_support_5/downloads_17/pag_ignition_overview_brochure_cd2016_en_fin_82276.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "steeringAssist",
+    "status": 200,
+    "url": "https://www.nskeurope.com/eu-en/products/automotive/automotive-oem/industries/electric-power-steering",
+    "redirect": "https://www.nskeurope.com/eu-en/products/automotive/automotive-oem/industries/electric-power-steering/",
+    "timeout": false
+  },
+  {
+    "drawing": "carCooling",
+    "status": 200,
+    "url": "https://www.energy.gov/articles/winterizing-your-electric-vehicle",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "surveyTriangle",
+    "status": 200,
+    "url": "https://www.ngs.noaa.gov/INFO/history/triangulation.shtml",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "seaPassage",
+    "status": 200,
+    "url": "https://unctad.org/publication/review-maritime-transport-2024",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "factorySensor",
+    "status": 200,
+    "url": "https://www.skf.com/group/industries/machine-tools/products-and-services/condition-monitoring",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "digitalTwin",
+    "status": 200,
+    "url": "https://www.nist.gov/publications/framework-digital-twin-manufacturing",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "ironReduction",
+    "status": 200,
+    "url": "https://www.iea.org/energy-system/industry/steel",
+    "redirect": "https://www.iea.org/energy-system/industry/iron-and-steel",
+    "timeout": false
+  },
+  {
+    "drawing": "bloomFurnace",
+    "status": 200,
+    "url": "https://exarc.net/issue-2020-2/ea/development-bloomery-furnaces",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "ironCarbon",
+    "status": 200,
+    "url": "https://worldsteel.org/about-steel/what-is-steel/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "threadFit",
+    "status": 403,
+    "url": "https://www.iso.org/standard/4165.html",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Consulted catalogue summary on ISO official page"
+  },
+  {
+    "drawing": "materialChoice",
+    "status": 200,
+    "url": "https://ocw.mit.edu/courses/3-032-mechanical-behavior-of-materials-fall-2007/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "assistExoskeleton",
+    "status": 403,
+    "url": "https://stacks.cdc.gov/view/cdc/226288",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Consulted description and abstract in CDC repository"
+  },
+  {
+    "drawing": "hiddenWater",
+    "status": 200,
+    "url": "https://www.waterfootprint.org/resources/Mekonnen-Hoekstra-2011-WaterFootprintCrops.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "growingSeason",
+    "status": 200,
+    "url": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/5784-a-chaque-mois-ses-fruits-et-legumes-.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "fishSelectivity",
+    "status": 200,
+    "url": "https://www.fao.org/4/y3427e/y3427e04.htm",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "forestRenewal",
+    "status": 200,
+    "url": "https://www.onf.fr/vivre-la-foret/enjeux-foret/biodiversite-foret/proteger-biodiversite/prevenir-les-risques-incendie-et-restaurer-les-ecosystemes/%2B/7ef%3A%3Acoupes-de-regeneration-renouveler-progressivement-la-foret.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "repairCycle",
+    "status": 200,
+    "url": "https://energy-efficient-products.ec.europa.eu/ecodesign-and-energy-label/legislative-framework_en",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "waterBalance",
+    "status": 200,
+    "url": "https://www.fao.org/sustainable-development-goals-data-portal/data/indicators/642-water-stress/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "climatePlots",
+    "status": 200,
+    "url": "https://www.nature.com/articles/sdata2018214",
+    "redirect": "https://www.nature.com/articles/sdata2018214?error=cookies_not_supported&code=b4a0f774-e28e-40de-97ed-8a92669e3833",
+    "timeout": false
+  },
+  {
+    "drawing": "dryDesert",
+    "status": 200,
+    "url": "https://nsidc.org/learn/parts-cryosphere/arctic-weather-and-climate/science-arctic-weather-and-climate",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "sandGrains",
+    "status": 403,
+    "url": "https://wedocs.unep.org/items/9ec225c4-5a9f-44d0-a560-46e0c8264003/full",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Consulted UN Environment Programme report description"
+  },
+  {
+    "drawing": "maizeSelection",
+    "status": 200,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/2664021/",
+    "redirect": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2664021/",
+    "timeout": false
+  },
+  {
+    "drawing": "imageProvenance",
+    "status": 200,
+    "url": "https://blog.google/products-and-platforms/products/search/about-this-image-google-search/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "feedRanking",
+    "status": 200,
+    "url": "https://www.youtube.com/howyoutubeworks/product-features/recommendations/",
+    "redirect": "https://www.youtube.com/howyoutubeworks/recommendations/",
+    "timeout": false
+  },
+  {
+    "drawing": "webHyperlink",
+    "status": 200,
+    "url": "https://home.web.cern.ch/world-wide-web-35/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "textEncoding",
+    "status": 200,
+    "url": "https://www.etsi.org/deliver/etsi_ts/123000_123099/123040/16.00.00_60/ts_123040v160000p.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "languageRuntime",
+    "status": 200,
+    "url": "https://docs.python.org/3/glossary.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "memoryStorage",
+    "status": 200,
+    "url": "https://www.ibm.com/think/topics/primary-vs-secondary-storage",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "graphicParallel",
+    "status": 200,
+    "url": "https://developer.nvidia.com/blog/?p=18697",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "taskSpecialization",
+    "status": 0,
+    "url": "https://files.libertyfund.org/files/220/Smith_0141-02_EBk_v6.0.pdf",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Consulted Smith, book I, chapter I in the Liberty Fund PDF"
+  },
+  {
+    "drawing": "missingFailures",
+    "status": 200,
+    "url": "https://terpconnect.umd.edu/~wermers/ftpsite/FAME/Brown_Goetzmann_Ibbotson_Ross.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "rumorChain",
+    "status": 200,
+    "url": "https://dictionary.apa.org/chain-reproduction",
+    "redirect": null,
+    "timeout": false
+  }
+]

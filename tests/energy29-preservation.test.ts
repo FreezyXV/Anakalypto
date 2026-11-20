@@ -7,6 +7,7 @@ import { createElement } from "react";
 import { renderToStaticMarkup } from "react-dom/server";
 import { expect, it } from "vitest";
 import { BATCH50_DIAGRAMS } from "../src/lib/lesson-visuals/batch50";
+import { THEMATIC50_DIAGRAMS } from "../src/lib/lesson-visuals/thematic50";
 import { ENERGY29_DIAGRAMS } from "../src/lib/lesson-visuals/energy29";
 import { LESSON_DIAGRAMS } from "../src/lib/lesson-visuals/registry";
 import { LessonDiagramCanvas } from "../src/components/lesson-visuals/LessonDiagramCanvas";
@@ -15,6 +16,7 @@ import { PreviousLessonDiagramCanvas } from "./fixtures/PreviousLessonDiagramCan
 it("preserves the exact markup of every previously delivered diagram in all three states", () => {
   const added = new Set<string>(
     [
+      ...THEMATIC50_DIAGRAMS,
       ...ENERGY29_DIAGRAMS,
       ...BATCH50_DIAGRAMS,
       ...ORGANS_DIAGRAMS,
