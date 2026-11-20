@@ -1,0 +1,467 @@
+[
+  {
+    "drawing": "stageChorus",
+    "status": 429,
+    "url": "https://www.metmuseum.org/de/essays/theater-in-ancient-greece",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Notice du Metropolitan Museum consultée par son index public"
+  },
+  {
+    "drawing": "novelReaders",
+    "status": 200,
+    "url": "https://catalogue.bnf.fr/ark%3A/12148/cb319212337",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "archivesClimate",
+    "status": 200,
+    "url": "https://www.archives.gov/preservation/holdings-maintenance/considerations",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "livingHeritage",
+    "status": 200,
+    "url": "https://ich.unesco.org/doc/src/01851-EN.pdf?t=1367330429",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "craftTransmission",
+    "status": 200,
+    "url": "https://ich.unesco.org/en/traditional-craftsmanship-00057",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "towerWind",
+    "status": 403,
+    "url": "https://www.burjkhalifa.ae/the-tower/structures/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Page structure du Burj Khalifa consultée par son index public"
+  },
+  {
+    "drawing": "newswire",
+    "status": 200,
+    "url": "https://gar-education-pfpart.afp.com/dossiers-documentaires/histoire-de-lagence-havas-de-lafp/quest-ce-quune-agence-de-presse",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "cheapPrint",
+    "status": 200,
+    "url": "https://www.bnf.fr/fr/la-collection-de-presse-conservee-la-bnf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "printPress",
+    "status": 200,
+    "url": "https://www.bnf.fr/fr/mediatheque/de-la-gazette-de-renaudot-au-premier-empire",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "webSnapshots",
+    "status": 200,
+    "url": "https://www.bnf.fr/fr/consulter-les-archives-de-linternet",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "historyEvidence",
+    "status": 200,
+    "url": "https://www.archives.gov/education/lessons/worksheets",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "lavauObjects",
+    "status": 403,
+    "url": "https://www.inrap.fr/sites/inrap.fr/files/atoms/files/cp_lavau_inrap_au_c2rmf.pdf",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Le communiqué est indexé et les éléments sont corroborés par les publications de fouille de l’Inrap"
+  },
+  {
+    "drawing": "meridianMeasure",
+    "status": 200,
+    "url": "https://www.obspm.fr/IMG//article_PDF/Le-mtre-mesure-rpublicaine_a2988.pdf",
+    "redirect": "https://observatoiredeparis.psl.eu/IMG/article_PDF/Le-mtre-mesure-rpublicaine_a2988.pdf",
+    "timeout": false
+  },
+  {
+    "drawing": "solidElectrolyte",
+    "status": 200,
+    "url": "https://www.energy.gov/cmei/ammto/breaking-it-down-next-generation-batteries",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "transferCase",
+    "status": 200,
+    "url": "https://www.jeep.com/4x4/faq-and-glossary.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "automaticGearbox",
+    "status": 200,
+    "url": "https://www.techniques-ingenieur.fr/base-documentaire/mecanique-th7/groupes-motopropulseurs-gmp-automobiles-controles-et-hybridation-42169210/transmissions-dans-l-automobile-bm2586/classification-des-transmissions-bm2586niv10003.html",
+    "redirect": "https://www.techniques-ingenieur.fr/ressources-documentaires/mecanique-th7/machines-hydrauliques-aerodynamiques-et-thermiques-ti151/transmissions-dans-l-automobile-bm2586/classification-des-transmissions-3#niv-3",
+    "timeout": false
+  },
+  {
+    "drawing": "startingCircuit",
+    "status": 200,
+    "url": "https://assets.denso-am.eu/production/attachments/Starter-Alternator-Manual-English.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "suspensionLinks",
+    "status": 200,
+    "url": "https://aftermarket.zf.com/sg/aftermarket-portal/our-portfolio/passenger-cars/products/steering-and-chassis-parts/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "bodyRecycling",
+    "status": 200,
+    "url": "https://www.anfa-auto.fr/sites/default/files/2022-07/Autofocus%2095%20-%20Le%20d%C3%A9montage%20et%20le%20recyclage%20automobile.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "driverSensors",
+    "status": 403,
+    "url": "https://www.mdpi.com/1424-8220/26/7/2153",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Article de Sensors consulté par son index public"
+  },
+  {
+    "drawing": "yawControl",
+    "status": 200,
+    "url": "https://tc.canada.ca/en/road-transportation/driver-assistance-technologies/electronic-stability-control",
+    "redirect": "https://tc.canada.ca/en/road-transportation/driver-assistance-technologies/other-driver-assistance-systems/electronic-stability-control",
+    "timeout": false
+  },
+  {
+    "drawing": "emergencyBrake",
+    "status": 403,
+    "url": "https://www.nhtsa.gov/research-data/crash-avoidance/active-braking-technologies",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Page NHTSA consultée par son index public"
+  },
+  {
+    "drawing": "carSoftware",
+    "status": 200,
+    "url": "https://www.ibm.com/think/topics/software-defined-vehicle",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "trafficMessages",
+    "status": 200,
+    "url": "https://www.its.dot.gov/pcb/eprimer/documents/module13.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "vehicleCharging",
+    "status": 0,
+    "url": "https://betterbuildingssolutioncenter.energy.gov/sites/default/files/slides/Selecting%20and%20Connecting%20EV%20Chargers%20-%20Slides.pdf",
+    "redirect": null,
+    "timeout": true,
+    "secondaryCheck": "Diapositive Typical EV Battery Charging Cycle indexée par le ministère américain de l’Énergie"
+  },
+  {
+    "drawing": "hybridPower",
+    "status": 200,
+    "url": "https://afdc.energy.gov/fueleconomy/animations/hybrids/hybrid/hybridoverview.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "foodWaste",
+    "status": 200,
+    "url": "https://www.fao.org/platform-food-loss-waste/en",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "localChains",
+    "status": 200,
+    "url": "https://documentation.ma-cantine.agriculture.gouv.fr/fr/article/circuit-court-et-local-de-quoi-parle-t-on-et-comment-les-declarer-1akdr2y/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "plateEmissions",
+    "status": 200,
+    "url": "https://www.fao.org/statistics/highlights-archive/highlights-detail/greenhouse-gas-emissions-from-agrifood-systems.-global--regional-and-country-trends--2000-2022",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "cellarRoots",
+    "status": 200,
+    "url": "https://www.grab.fr/wp-content/uploads/2010/09/REF-BIO-OCT-nov-2010-dossier-conservation.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "dryingSmoking",
+    "status": 200,
+    "url": "https://www.fao.org/4/t0562e/t0562e04.htm",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "pulseRoots",
+    "status": 200,
+    "url": "https://www.fao.org/agroecology/new-knowledge-module/publications/detail/pulses-and-soils-a-dynamic-duo/en",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "palmFruit",
+    "status": 200,
+    "url": "https://www.cirad.fr/nos-activites-notre-impact/filieres-agricoles-tropicales/palmier-a-huile/plantes-et-usages",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "saltIngredients",
+    "status": 200,
+    "url": "https://eur-lex.europa.eu/eli/reg/2011/1169/oj",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "sugarPortion",
+    "status": 200,
+    "url": "https://eur-lex.europa.eu/eli/reg/2011/1169/oj",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "soilTexture",
+    "status": 403,
+    "url": "https://hgic.clemson.edu/factsheet/soil-texture-analysis-the-jar-test/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Fiche Clemson consultée par son index public"
+  },
+  {
+    "drawing": "soilEcosystem",
+    "status": 0,
+    "url": "https://www.nrcs.usda.gov/resources/education-and-teaching-materials/soil-biology-primer",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Notice Soil Biology Primer de l’USDA indexée publiquement"
+  },
+  {
+    "drawing": "natureServices",
+    "status": 200,
+    "url": "https://www.ipbes.net/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "cityWaste",
+    "status": 200,
+    "url": "https://www.worldbank.org/what-a-waste",
+    "redirect": "https://www.worldbank.org/en/publication/what-a-waste",
+    "timeout": false
+  },
+  {
+    "drawing": "isolatedHome",
+    "status": 200,
+    "url": "https://bsesc.energy.gov/energy-basics/how-design-performance",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "householdEnergy",
+    "status": 200,
+    "url": "https://www.iea.org/energy-system/energy-efficiency-and-demand",
+    "redirect": "https://www.iea.org/topics/saving-energy",
+    "timeout": false
+  },
+  {
+    "drawing": "hydrogenVector",
+    "status": 200,
+    "url": "https://www.energy.gov/cmei/fuels/hydrogen-production-electrolysis",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "petroleumMaterials",
+    "status": 200,
+    "url": "https://www.eia.gov/tools/faqs/faq.php?id=34&t=6",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "materialForming",
+    "status": 200,
+    "url": "https://stuff.mit.edu/afs/athena.mit.edu/course/2/2.810/www/course-desc.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "logisticsChain",
+    "status": 200,
+    "url": "https://dspace.mit.edu/entities/publication/2869b188-a6ef-4df7-aba2-d68bed37b8e3",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "factoryNavigation",
+    "status": 200,
+    "url": "https://www.techniques-ingenieur.fr/en/resources/article/ti082/industrial-trucks-a9206",
+    "redirect": "https://www.techniques-ingenieur.fr/en/resources/industrial-engineering-th6/logistics-and-supply-chain-ti082/industrial-trucks-a9206",
+    "timeout": false
+  },
+  {
+    "drawing": "concreteBinder",
+    "status": 200,
+    "url": "https://www.techniques-ingenieur.fr/base-documentaire/materiaux-th11/surfaces-et-structures-fonctionnelles-42534210/ciments-geopolymeres-n3301/que-sont-les-ciments-geopolymeres-n3301niv10001.html",
+    "redirect": "https://www.techniques-ingenieur.fr/ressources-documentaires/materiaux-th11/materiaux-fonctionnels-materiaux-biosources-ti580/ciments-geopolymeres-n3301/que-sont-les-ciments-geopolymeres-1#niv-1",
+    "timeout": false
+  },
+  {
+    "drawing": "loadStructure",
+    "status": 200,
+    "url": "https://openstax.org/books/university-physics-volume-1/pages/12-3-stress-strain-and-elastic-modulus",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "printedBridge",
+    "status": 200,
+    "url": "https://ethz.ch/en/news-and-events/eth-news/news/2021/07/3d-printed-and-unreinforced.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "robotSensing",
+    "status": 200,
+    "url": "https://www.nist.gov/programs-projects/perception-performance-robotic-systems",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "topologicalSurface",
+    "status": 200,
+    "url": "https://www.nist.gov/programs-projects/topological-insulators",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "oceanTrench",
+    "status": 403,
+    "url": "https://noaa.gov/jetstream/ocean/layers-of-ocean",
+    "redirect": "https://www.noaa.gov/jetstream/ocean/layers-of-ocean",
+    "timeout": false,
+    "secondaryCheck": "Page de la NOAA consultée par son index public"
+  },
+  {
+    "drawing": "algorithmCost",
+    "status": 200,
+    "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "osResources",
+    "status": 200,
+    "url": "https://docs.kernel.org/scheduler/index.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "digitalArchives",
+    "status": 403,
+    "url": "https://www.loc.gov/programs/digital-collections-management/inventory-and-custody/data-integrity-management/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Notice Data Integrity Management indexée publiquement par la Library of Congress"
+  },
+  {
+    "drawing": "chipFabrication",
+    "status": 200,
+    "url": "https://www.ibm.com/think/topics/semiconductor-manufacturing",
+    "redirect": "https://www.ibm.com/think/topics",
+    "timeout": false
+  },
+  {
+    "drawing": "geostationary",
+    "status": 200,
+    "url": "https://www.nesdis.noaa.gov/about/k-12-education/satellites-technology/why-do-satellites-have-different-orbits",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "walkPendulum",
+    "status": 200,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1307665/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "lorenzCurve",
+    "status": 200,
+    "url": "https://www.insee.fr/fr/metadonnees/definition/c1551",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "accountingEntries",
+    "status": 200,
+    "url": "https://openstax.org/books/principles-financial-accounting/pages/6-3-analyze-and-record-transactions-for-merchandise-purchases-using-the-perpetual-inventory-system",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "externalCost",
+    "status": 200,
+    "url": "https://openstax.org/books/principles-microeconomics-3e/pages/12-1-the-economics-of-pollution",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "commonResource",
+    "status": 200,
+    "url": "https://www.nobelprize.org/uploads/2018/06/advanced-economicsciences2009.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "groupConformity",
+    "status": 200,
+    "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Asch_1955_Opinions_and_social_pressure.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "taskSwitching",
+    "status": 200,
+    "url": "https://www.apa.org/pubs/journals/releases/xhp274763.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "compoundGrowth",
+    "status": 200,
+    "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/501409/interets-composes",
+    "redirect": null,
+    "timeout": false
+  }
+]

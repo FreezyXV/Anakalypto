@@ -1,0 +1,3785 @@
+{
+  "browser": "Chromium headless",
+  "lessonCount": 65,
+  "stateActivations": 390,
+  "minTextMobilePx": 12.6,
+  "issues": {
+    "console": 0,
+    "pageOverflow": 0,
+    "textOutside": 0,
+    "textOverlap": 0,
+    "invalidSvgReferences": 0
+  },
+  "lessons": [
+    {
+      "ref": "LEC-BD4259C7CA75",
+      "drawing": "stageChorus",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Prendre place",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Distinguer une voix",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Faire dialoguer",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-BD4259C7CA75",
+      "drawing": "stageChorus",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Prendre place",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Distinguer une voix",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Faire dialoguer",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-89AB300B1BFA",
+      "drawing": "novelReaders",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Déployer un récit",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Changer de regard",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Mêler les formes",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-89AB300B1BFA",
+      "drawing": "novelReaders",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Déployer un récit",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Changer de regard",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Mêler les formes",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-674EF3E46931",
+      "drawing": "archivesClimate",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Limiter la lumière",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Stabiliser le climat",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Rendre consultable",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-674EF3E46931",
+      "drawing": "archivesClimate",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Limiter la lumière",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Stabiliser le climat",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Rendre consultable",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F2C6B12D6B0A",
+      "drawing": "livingHeritage",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Pratiquer ensemble",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Apprendre en faisant",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Faire évoluer",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F2C6B12D6B0A",
+      "drawing": "livingHeritage",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Pratiquer ensemble",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Apprendre en faisant",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Faire évoluer",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-8064E0690FE8",
+      "drawing": "craftTransmission",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Voir le mouvement",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Comparer sa trace",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Adapter sa technique",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-8064E0690FE8",
+      "drawing": "craftTransmission",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Voir le mouvement",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Comparer sa trace",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Adapter sa technique",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-3DBC941D2DC2",
+      "drawing": "towerWind",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Voir les tourbillons",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Lire le plan en Y",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Suivre les retraits",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-3DBC941D2DC2",
+      "drawing": "towerWind",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Voir les tourbillons",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Lire le plan en Y",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Suivre les retraits",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-17D8F0C80414",
+      "drawing": "newswire",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Envoyer l’essentiel",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Se limiter aux faits clés",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Ajouter le contexte",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-17D8F0C80414",
+      "drawing": "newswire",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Envoyer l’essentiel",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Se limiter aux faits clés",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Ajouter le contexte",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B88550A27526",
+      "drawing": "cheapPrint",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Vendre par abonnement",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Ouvrir des annonces",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Élargir la vente",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B88550A27526",
+      "drawing": "cheapPrint",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Vendre par abonnement",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Ouvrir des annonces",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Élargir la vente",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-A286042D565A",
+      "drawing": "printPress",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Composer la page",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Tirer des exemplaires",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Revenir à date fixe",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-A286042D565A",
+      "drawing": "printPress",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Composer la page",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Tirer des exemplaires",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Revenir à date fixe",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B10C4174891F",
+      "drawing": "webSnapshots",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Enregistrer une date",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Capturer les changements",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Comparer les versions",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B10C4174891F",
+      "drawing": "webSnapshots",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Enregistrer une date",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Capturer les changements",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Comparer les versions",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-38BC652EEA28",
+      "drawing": "historyEvidence",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Situer la trace",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Comparer les points de vue",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Recouper les indices",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-38BC652EEA28",
+      "drawing": "historyEvidence",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Situer la trace",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Comparer les points de vue",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Recouper les indices",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-FD35A59998D3",
+      "drawing": "lavauObjects",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Situer la découverte",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Regarder le chaudron",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Relier des régions",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-FD35A59998D3",
+      "drawing": "lavauObjects",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Situer la découverte",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Regarder le chaudron",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Relier des régions",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C823C79AD841",
+      "drawing": "meridianMeasure",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Comparer les unités",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Définir une référence",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Fabriquer l’étalon",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C823C79AD841",
+      "drawing": "meridianMeasure",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Comparer les unités",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Définir une référence",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Fabriquer l’étalon",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AB9FCB36C015",
+      "drawing": "solidElectrolyte",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Un milieu liquide",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Un milieu solide",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Des contacts à maîtriser",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AB9FCB36C015",
+      "drawing": "solidElectrolyte",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Un milieu liquide",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Un milieu solide",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Des contacts à maîtriser",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0BB6DD291565",
+      "drawing": "transferCase",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Suivre un seul essieu",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Entraîner deux essieux",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Changer le rapport",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0BB6DD291565",
+      "drawing": "transferCase",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Suivre un seul essieu",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Entraîner deux essieux",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Changer le rapport",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-FE3D1354EB57",
+      "drawing": "automaticGearbox",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Le convertisseur",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Deux embrayages",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Les poulies",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-FE3D1354EB57",
+      "drawing": "automaticGearbox",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Le convertisseur",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Deux embrayages",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Les poulies",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B6EA5C2040A9",
+      "drawing": "startingCircuit",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "À l’arrêt",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Au démarrage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Moteur en marche",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B6EA5C2040A9",
+      "drawing": "startingCircuit",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "À l’arrêt",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Au démarrage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Moteur en marche",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-19272AA94A57",
+      "drawing": "suspensionLinks",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Guider la roue",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Laisser la roue monter",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Tourner la roue",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-19272AA94A57",
+      "drawing": "suspensionLinks",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Guider la roue",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Laisser la roue monter",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Tourner la roue",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-827D4F799711",
+      "drawing": "bodyRecycling",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Observer l’ensemble",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Démonter des pièces",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Séparer les matériaux",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-827D4F799711",
+      "drawing": "bodyRecycling",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Observer l’ensemble",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Démonter des pièces",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Séparer les matériaux",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2ACA73633CB1",
+      "drawing": "driverSensors",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Voir avec une caméra",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Mesurer avec un radar",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Balayer avec un lidar",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2ACA73633CB1",
+      "drawing": "driverSensors",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Voir avec une caméra",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Mesurer avec un radar",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Balayer avec un lidar",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E04957295FB8",
+      "drawing": "yawControl",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Repérer l’intention",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Repérer l’écart",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Appliquer une correction",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E04957295FB8",
+      "drawing": "yawControl",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Repérer l’intention",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Repérer l’écart",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Appliquer une correction",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-BABB633505B4",
+      "drawing": "emergencyBrake",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Détecter un objet",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Évaluer le risque",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Demander un freinage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-BABB633505B4",
+      "drawing": "emergencyBrake",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Détecter un objet",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Évaluer le risque",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Demander un freinage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9497089F3856",
+      "drawing": "carSoftware",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Distribuer les fonctions",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Partager du calcul",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Mettre à jour",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9497089F3856",
+      "drawing": "carSoftware",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Distribuer les fonctions",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Partager du calcul",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Mettre à jour",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D34C86EE5A14",
+      "drawing": "trafficMessages",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "L’obstacle masque la vue",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Un véhicule prévient",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Un équipement prévient",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D34C86EE5A14",
+      "drawing": "trafficMessages",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "L’obstacle masque la vue",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Un véhicule prévient",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Un équipement prévient",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9DF91E89FB9E",
+      "drawing": "vehicleCharging",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Début de session",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Zone de puissance élevée",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Fin de charge",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9DF91E89FB9E",
+      "drawing": "vehicleCharging",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Début de session",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Zone de puissance élevée",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Fin de charge",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-339F23BFAA8C",
+      "drawing": "hybridPower",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Chemin électrique",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Chemin mécanique",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Trajet de récupération",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-339F23BFAA8C",
+      "drawing": "hybridPower",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Chemin électrique",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Chemin mécanique",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Trajet de récupération",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0443A2D8F592",
+      "drawing": "foodWaste",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Produire les aliments",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Perdre avant la vente",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Gaspiller après la vente",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0443A2D8F592",
+      "drawing": "foodWaste",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Produire les aliments",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Perdre avant la vente",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Gaspiller après la vente",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1680A3953B20",
+      "drawing": "localChains",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Vendre directement",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Passer par un acteur",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Comparer les parcours",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1680A3953B20",
+      "drawing": "localChains",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Vendre directement",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Passer par un acteur",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Comparer les parcours",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D778870D704F",
+      "drawing": "plateEmissions",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Regarder la ferme",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Regarder l’usine",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Regarder le trajet",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D778870D704F",
+      "drawing": "plateEmissions",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Regarder la ferme",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Regarder l’usine",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Regarder le trajet",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-A024854203EA",
+      "drawing": "cellarRoots",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Amortir les écarts",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Renouveler l’air",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Suivre l’état des légumes",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-A024854203EA",
+      "drawing": "cellarRoots",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Amortir les écarts",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Renouveler l’air",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Suivre l’état des légumes",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C6B95BC68A25",
+      "drawing": "dryingSmoking",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Identifier l’eau disponible",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Suivre le séchage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Suivre le fumage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C6B95BC68A25",
+      "drawing": "dryingSmoking",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Identifier l’eau disponible",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Suivre le séchage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Suivre le fumage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-4210C94FA058",
+      "drawing": "pulseRoots",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Suivre les racines",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Observer les nodosités",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Observer les graines",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-4210C94FA058",
+      "drawing": "pulseRoots",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Suivre les racines",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Observer les nodosités",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Observer les graines",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0C5D74F9D3B0",
+      "drawing": "palmFruit",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Voir le régime",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Repérer la pulpe",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Repérer l’amande",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0C5D74F9D3B0",
+      "drawing": "palmFruit",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Voir le régime",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Repérer la pulpe",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Repérer l’amande",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-285EFACE5D47",
+      "drawing": "saltIngredients",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Chercher dans la recette",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Lire la valeur",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Rapporter à sa portion",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-285EFACE5D47",
+      "drawing": "saltIngredients",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Chercher dans la recette",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Lire la valeur",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Rapporter à sa portion",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-659FD4DB0AA9",
+      "drawing": "sugarPortion",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Deux produits salés",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Comparer à poids égal",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Comparer des portions",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-659FD4DB0AA9",
+      "drawing": "sugarPortion",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Deux produits salés",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Comparer à poids égal",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Comparer des portions",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-3AFA8872C778",
+      "drawing": "soilTexture",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Comparer les grains",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Mettre en suspension",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Observer les couches",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-3AFA8872C778",
+      "drawing": "soilTexture",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Comparer les grains",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Mettre en suspension",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Observer les couches",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1353C958608B",
+      "drawing": "soilEcosystem",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Déposer de la litière",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Décomposer la matière",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Faire circuler",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1353C958608B",
+      "drawing": "soilEcosystem",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Déposer de la litière",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Décomposer la matière",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Faire circuler",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-04CA586E1DB6",
+      "drawing": "natureServices",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Transporter du pollen",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Ralentir l’eau",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Stocker du carbone",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-04CA586E1DB6",
+      "drawing": "natureServices",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Transporter du pollen",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Ralentir l’eau",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Stocker du carbone",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9A64E7A09F65",
+      "drawing": "cityWaste",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Regrouper les déchets",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Séparer les matières",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Orienter les flux",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9A64E7A09F65",
+      "drawing": "cityWaste",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Regrouper les déchets",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Séparer les matières",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Orienter les flux",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-09F15B5EC1AB",
+      "drawing": "isolatedHome",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Réduire les besoins",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Décaler les usages",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Considérer l’eau",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-09F15B5EC1AB",
+      "drawing": "isolatedHome",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Réduire les besoins",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Décaler les usages",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Considérer l’eau",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-461D8B0B8E03",
+      "drawing": "householdEnergy",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Chauffer le volume",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Chauffer l’eau",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Utiliser les appareils",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-461D8B0B8E03",
+      "drawing": "householdEnergy",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Chauffer le volume",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Chauffer l’eau",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Utiliser les appareils",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AE6A51E7769E",
+      "drawing": "hydrogenVector",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Disposer d’une énergie",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Produire le vecteur",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Atteindre un usage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AE6A51E7769E",
+      "drawing": "hydrogenVector",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Disposer d’une énergie",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Produire le vecteur",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Atteindre un usage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-366BA0AF158E",
+      "drawing": "petroleumMaterials",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Choisir une fraction",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Former des briques",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Allonger la chaîne",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-366BA0AF158E",
+      "drawing": "petroleumMaterials",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Choisir une fraction",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Former des briques",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Allonger la chaîne",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2D6C248BD8E3",
+      "drawing": "materialForming",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Enlever de la matière",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Déformer la pièce",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Ajouter des couches",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2D6C248BD8E3",
+      "drawing": "materialForming",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Enlever de la matière",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Déformer la pièce",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Ajouter des couches",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-DC20B40DDB25",
+      "drawing": "logisticsChain",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Observer la demande",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Commander au magasin",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Réagir chez le fournisseur",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-DC20B40DDB25",
+      "drawing": "logisticsChain",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Observer la demande",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Commander au magasin",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Réagir chez le fournisseur",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2F4C38CA7D42",
+      "drawing": "factoryNavigation",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Suivre un tracé fixe",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Lire des repères",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Utiliser une carte",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2F4C38CA7D42",
+      "drawing": "factoryNavigation",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Suivre un tracé fixe",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Lire des repères",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Utiliser une carte",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-39F68B80F986",
+      "drawing": "concreteBinder",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Identifier le liant",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Réduire le clinker",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Employer d’autres liants",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-39F68B80F986",
+      "drawing": "concreteBinder",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Identifier le liant",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Réduire le clinker",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Employer d’autres liants",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-21C2DD8340A7",
+      "drawing": "loadStructure",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Comprendre l’arc",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Comprendre le câble",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Comprendre la poutre",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-21C2DD8340A7",
+      "drawing": "loadStructure",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Comprendre l’arc",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Comprendre le câble",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Comprendre la poutre",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-53213107D4F0",
+      "drawing": "printedBridge",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Tracer un cordon",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Superposer les couches",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Assembler la passerelle",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-53213107D4F0",
+      "drawing": "printedBridge",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Tracer un cordon",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Superposer les couches",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Assembler la passerelle",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E634695715A4",
+      "drawing": "robotSensing",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Collecter des mesures",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Interpréter",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Choisir un passage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E634695715A4",
+      "drawing": "robotSensing",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Collecter des mesures",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Interpréter",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Choisir un passage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-85348225FF80",
+      "drawing": "topologicalSurface",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Regarder le volume",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Regarder la surface",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Comparer les contributions",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-85348225FF80",
+      "drawing": "topologicalSurface",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Regarder le volume",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Regarder la surface",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Comparer les contributions",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-151346749D2C",
+      "drawing": "oceanTrench",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Lire la coupe",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Repérer une profondeur",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Regarder la fosse",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-151346749D2C",
+      "drawing": "oceanTrench",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Lire la coupe",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Repérer une profondeur",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Regarder la fosse",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F84ED656D54D",
+      "drawing": "algorithmCost",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Parcourir la liste",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Diviser la liste",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Vérifier le prérequis",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F84ED656D54D",
+      "drawing": "algorithmCost",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Parcourir la liste",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Diviser la liste",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Vérifier le prérequis",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B717E58E4287",
+      "drawing": "osResources",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Donner un créneau",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Passer à une autre tâche",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Isoler la mémoire",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B717E58E4287",
+      "drawing": "osResources",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Donner un créneau",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Passer à une autre tâche",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Isoler la mémoire",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D052E4D61F5C",
+      "drawing": "digitalArchives",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Faire plusieurs copies",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Comparer des empreintes",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Migrer et contrôler",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D052E4D61F5C",
+      "drawing": "digitalArchives",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Faire plusieurs copies",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Comparer des empreintes",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Migrer et contrôler",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-645BE456E0BF",
+      "drawing": "chipFabrication",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Repérer les circuits",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Détacher les dés",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Assembler le boîtier",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-645BE456E0BF",
+      "drawing": "chipFabrication",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Repérer les circuits",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Détacher les dés",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Assembler le boîtier",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-A175D7926322",
+      "drawing": "geostationary",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Placer l’orbite",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Faire tourner ensemble",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Regarder depuis le sol",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-A175D7926322",
+      "drawing": "geostationary",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Placer l’orbite",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Faire tourner ensemble",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Regarder depuis le sol",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2F7151A90511",
+      "drawing": "walkPendulum",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Monter vers l’appui",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Passer le pied",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Descendre vers l’autre appui",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2F7151A90511",
+      "drawing": "walkPendulum",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Monter vers l’appui",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Passer le pied",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Descendre vers l’autre appui",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-588E545077DA",
+      "drawing": "lorenzCurve",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Voir l’égalité",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Lire un écart",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Relier à un indicateur",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-588E545077DA",
+      "drawing": "lorenzCurve",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Voir l’égalité",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Lire un écart",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Relier à un indicateur",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-3E3A98FE18BD",
+      "drawing": "accountingEntries",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Identifier l’opération",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Écrire deux mouvements",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Vérifier l’équilibre",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-3E3A98FE18BD",
+      "drawing": "accountingEntries",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Identifier l’opération",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Écrire deux mouvements",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Vérifier l’équilibre",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E16E209D26D7",
+      "drawing": "externalCost",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Poser le décor",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Suivre un coût",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Suivre un bénéfice",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E16E209D26D7",
+      "drawing": "externalCost",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Poser le décor",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Suivre un coût",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Suivre un bénéfice",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-65E92C113720",
+      "drawing": "commonResource",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Identifier le stock",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Observer la pression",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Organiser l’usage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-65E92C113720",
+      "drawing": "commonResource",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Identifier le stock",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Observer la pression",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Organiser l’usage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-344E21479603",
+      "drawing": "groupConformity",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Faire la comparaison",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Entendre un accord",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Entendre un désaccord",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-344E21479603",
+      "drawing": "groupConformity",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Faire la comparaison",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Entendre un accord",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Entendre un désaccord",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F91575C92DF0",
+      "drawing": "taskSwitching",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Travailler par blocs",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Alterner plus souvent",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Ajouter les transitions",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F91575C92DF0",
+      "drawing": "taskSwitching",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Travailler par blocs",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Alterner plus souvent",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Ajouter les transitions",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-657F261E63BD",
+      "drawing": "compoundGrowth",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Partir de 1 000 €",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 1,
+          "label": "Ajouter 50 €",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        },
+        {
+          "step": 2,
+          "label": "Calculer sur 1 050 €",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 161
+        }
+      ]
+    },
+    {
+      "ref": "LEC-657F261E63BD",
+      "drawing": "compoundGrowth",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Partir de 1 000 €",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 1,
+          "label": "Ajouter 50 €",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        },
+        {
+          "step": 2,
+          "label": "Calculer sur 1 050 €",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 392.984375
+        }
+      ]
+    }
+  ]
+}
