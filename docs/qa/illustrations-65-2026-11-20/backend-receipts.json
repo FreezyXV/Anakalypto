@@ -1,0 +1,327 @@
+[
+  {
+    "path": "/arts-et-culture/arts-du-spectacle/theatre-et-danse/origines-theatre-grec-antique",
+    "status": "READY",
+    "visualRefs": ["schema:stageChorus"]
+  },
+  {
+    "path": "/arts-et-culture/litterature-et-ecriture/genres-litteraires/naissance-du-roman-moderne",
+    "status": "READY",
+    "visualRefs": ["schema:novelReaders"]
+  },
+  {
+    "path": "/arts-et-culture/patrimoine/musees-et-conservation/archives-bibliotheques-preservation",
+    "status": "READY",
+    "visualRefs": ["schema:archivesClimate"]
+  },
+  {
+    "path": "/arts-et-culture/patrimoine/patrimoine-immateriel/patrimoine-culturel-immateriel",
+    "status": "READY",
+    "visualRefs": ["schema:livingHeritage"]
+  },
+  {
+    "path": "/arts-et-culture/patrimoine/patrimoine-immateriel/savoir-faire-artisanaux",
+    "status": "READY",
+    "visualRefs": ["schema:craftTransmission"]
+  },
+  {
+    "path": "/arts-et-culture/patrimoine/architecture/burj-khalifa-exemple-architectural",
+    "status": "READY",
+    "visualRefs": ["schema:towerWind"]
+  },
+  {
+    "path": "/communication-et-medias/histoire-des-medias/presse-ecrite/agences-de-presse-et-circulation-de-linformation",
+    "status": "READY",
+    "visualRefs": ["schema:newswire"]
+  },
+  {
+    "path": "/communication-et-medias/histoire-des-medias/presse-ecrite/comment-les-journaux-a-petit-prix-ont-ils-rendu-la-presse-populaire",
+    "status": "READY",
+    "visualRefs": ["schema:cheapPrint"]
+  },
+  {
+    "path": "/communication-et-medias/histoire-des-medias/presse-ecrite/naissance-de-la-presse-periodique",
+    "status": "READY",
+    "visualRefs": ["schema:printPress"]
+  },
+  {
+    "path": "/communication-et-medias/medias-numeriques/web/le-web-archivage-et-la-memoire-d-internet",
+    "status": "READY",
+    "visualRefs": ["schema:webSnapshots"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/histoire/methode-historique/comment-travaille-un-historien",
+    "status": "READY",
+    "visualRefs": ["schema:historyEvidence"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/histoire/prehistoire/que-revele-la-tombe-intacte-du-prince-celte-de-lavau-sur-ses-liens-avec-la-mediterranee",
+    "status": "READY",
+    "visualRefs": ["schema:lavauObjects"]
+  },
+  {
+    "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/pourquoi-la-france-a-t-elle-invente-le-metre",
+    "status": "READY",
+    "visualRefs": ["schema:meridianMeasure"]
+  },
+  {
+    "path": "/automobile/motorisations/electrique/pourquoi-les-batteries-a-electrolyte-solide-font-elles-tant-rever-les-constructeurs",
+    "status": "READY",
+    "visualRefs": ["schema:solidElectrolyte"]
+  },
+  {
+    "path": "/automobile/motorisations/thermique/boite-de-transfert-4x4",
+    "status": "READY",
+    "visualRefs": ["schema:transferCase"]
+  },
+  {
+    "path": "/automobile/motorisations/thermique/la-transmission-manuelle-contre-automatique",
+    "status": "READY",
+    "visualRefs": ["schema:automaticGearbox"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/circuit-electrique-12v-batterie-alternateur-demarreur",
+    "status": "READY",
+    "visualRefs": ["schema:startingCircuit"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/train-roulant-rotules-silentblocs",
+    "status": "READY",
+    "visualRefs": ["schema:suspensionLinks"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/recyclage-acier-aluminium-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:bodyRecycling"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/aides-a-la-conduite/capteurs-adas-radar-camera-lidar",
+    "status": "READY",
+    "visualRefs": ["schema:driverSensors"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/aides-a-la-conduite/comment-l-esp-empeche-t-il-une-voiture-de-partir-en-tete-a-queue",
+    "status": "READY",
+    "visualRefs": ["schema:yawControl"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/aides-a-la-conduite/freinage-durgence-automatique",
+    "status": "READY",
+    "visualRefs": ["schema:emergencyBrake"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/production/qu-est-ce-qu-une-voiture-definie-par-logiciel-et-en-quoi-change-t-elle-tout",
+    "status": "READY",
+    "visualRefs": ["schema:carSoftware"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/conduite-autonome/communication-v2x-vehicule-infrastructure",
+    "status": "READY",
+    "visualRefs": ["schema:trafficMessages"]
+  },
+  {
+    "path": "/automobile/motorisations/electrique/recharge-et-infrastructure-des-bornes",
+    "status": "READY",
+    "visualRefs": ["schema:vehicleCharging"]
+  },
+  {
+    "path": "/automobile/motorisations/motorisations-hybrides/motorisations-hybrides-architectures",
+    "status": "READY",
+    "visualRefs": ["schema:hybridPower"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire/gaspillage-alimentaire-mondial",
+    "status": "READY",
+    "visualRefs": ["schema:foodWaste"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire/circuits-courts",
+    "status": "READY",
+    "visualRefs": ["schema:localChains"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire/empreinte-carbone-de-lalimentation",
+    "status": "READY",
+    "visualRefs": ["schema:plateEmissions"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/le-stockage-en-cave-des-legumes-racines",
+    "status": "READY",
+    "visualRefs": ["schema:cellarRoots"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/sechage-et-fumage",
+    "status": "READY",
+    "visualRefs": ["schema:dryingSmoking"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/legumineuses-aliment-avenir",
+    "status": "READY",
+    "visualRefs": ["schema:pulseRoots"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/huile-de-palme",
+    "status": "READY",
+    "visualRefs": ["schema:palmFruit"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/sel-cache",
+    "status": "READY",
+    "visualRefs": ["schema:saltIngredients"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/sucre-cache-comment-le-reperer",
+    "status": "READY",
+    "visualRefs": ["schema:sugarPortion"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/reconnaitre-sol",
+    "status": "READY",
+    "visualRefs": ["schema:soilTexture"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/sols-vivants-et-erosion",
+    "status": "READY",
+    "visualRefs": ["schema:soilEcosystem"]
+  },
+  {
+    "path": "/environnement-et-climat/biodiversite/ecosystemes/services-ecosystemiques-biodiversite",
+    "status": "READY",
+    "visualRefs": ["schema:natureServices"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-humaine/urbanisation/comment-une-grande-ville-se-debarrasse-t-elle-de-ses-dechets",
+    "status": "READY",
+    "visualRefs": ["schema:cityWaste"]
+  },
+  {
+    "path": "/energie/efficacite-et-sobriete/usages-et-consommation/maison-autonome-independante",
+    "status": "READY",
+    "visualRefs": ["schema:isolatedHome"]
+  },
+  {
+    "path": "/energie/efficacite-et-sobriete/usages-et-consommation/ou-part-lenergie-dun-menage",
+    "status": "READY",
+    "visualRefs": ["schema:householdEnergy"]
+  },
+  {
+    "path": "/energie/reseaux-et-stockage/hydrogene/hydrogene-couleurs-et-usages",
+    "status": "READY",
+    "visualRefs": ["schema:hydrogenVector"]
+  },
+  {
+    "path": "/energie/energies-fossiles-et-nucleaire/hydrocarbures/pourquoi-trouve-t-on-du-petrole-dans-nos-sacs-nos-vetements-et-nos-medicaments",
+    "status": "READY",
+    "visualRefs": ["schema:petroleumMaterials"]
+  },
+  {
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/mise-en-forme-des-materiaux",
+    "status": "READY",
+    "visualRefs": ["schema:materialForming"]
+  },
+  {
+    "path": "/industries/industrie-manufacturiere/chaine-logistique/chaine-logistique-mondiale-perturbations",
+    "status": "READY",
+    "visualRefs": ["schema:logisticsChain"]
+  },
+  {
+    "path": "/industries/industrie-manufacturiere/automatisation/comment-des-chariots-sans-conducteur-trouvent-ils-leur-chemin-dans-une-usine",
+    "status": "READY",
+    "visualRefs": ["schema:factoryNavigation"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/peut-on-fabriquer-du-beton-sans-ciment-portland-pour-emettre-moins-de-co2",
+    "status": "READY",
+    "visualRefs": ["schema:concreteBinder"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/genie-civil/structures/burj-khalifa-plus-haut-batiment-du-monde",
+    "status": "READY",
+    "visualRefs": ["schema:loadStructure"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/genie-civil/structures/comment-des-robots-impriment-ils-des-ponts-en-beton-ou-en-acier",
+    "status": "READY",
+    "visualRefs": ["schema:printedBridge"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/robotique/perception/capteurs-perception-robotique",
+    "status": "READY",
+    "visualRefs": ["schema:robotSensing"]
+  },
+  {
+    "path": "/sciences-fondamentales/chimie/chimie-inorganique/un-materiau-peut-il-etre-isolant-a-l-interieur-et-conducteur-en-surface",
+    "status": "READY",
+    "visualRefs": ["schema:topologicalSurface"]
+  },
+  {
+    "path": "/sciences-fondamentales/sciences-de-la-terre/oceanographie/les-fosses-oceaniques-et-la-zone-hadale",
+    "status": "READY",
+    "visualRefs": ["schema:oceanTrench"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/logiciel/algorithmes/algorithmes-et-complexite",
+    "status": "READY",
+    "visualRefs": ["schema:algorithmCost"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/logiciel/systemes-d-exploitation/histoire-principes-systemes-exploitation",
+    "status": "READY",
+    "visualRefs": ["schema:osResources"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/materiel/memoire-et-stockage/conserver-donnees-long-terme",
+    "status": "READY",
+    "visualRefs": ["schema:digitalArchives"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/fabrique-puce",
+    "status": "READY",
+    "visualRefs": ["schema:chipFabrication"]
+  },
+  {
+    "path": "/communication-et-medias/telecommunications/satellites/communications-par-satellite-geostationnaire",
+    "status": "READY",
+    "visualRefs": ["schema:geostationary"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/marcher-et-porter-longtemps",
+    "status": "READY",
+    "visualRefs": ["schema:walkPendulum"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/inegalites-et-redistribution/inegalites-de-revenu-et-de-patrimoine",
+    "status": "READY",
+    "visualRefs": ["schema:lorenzCurve"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/microeconomie/comptabilite-partie-double",
+    "status": "READY",
+    "visualRefs": ["schema:accountingEntries"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/microeconomie/pourquoi-la-pollution-d-une-usine-coute-t-elle-aussi-a-ses-voisins",
+    "status": "READY",
+    "visualRefs": ["schema:externalCost"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/sociologie/groupes-et-normes/cooperation-biens-communs",
+    "status": "READY",
+    "visualRefs": ["schema:commonResource"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/sociologie/groupes-et-normes/conformite-et-obeissance",
+    "status": "READY",
+    "visualRefs": ["schema:groupConformity"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/psychologie/cognition/pourquoi-ne-peut-on-pas-bien-faire-deux-choses-a-la-fois",
+    "status": "READY",
+    "visualRefs": ["schema:taskSwitching"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/microeconomie/interets-composes",
+    "status": "READY",
+    "visualRefs": ["schema:compoundGrowth"]
+  }
+]

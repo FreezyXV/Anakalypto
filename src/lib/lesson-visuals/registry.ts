@@ -6,6 +6,7 @@ import { ORGANS_DIAGRAMS } from "./organs";
 import { BATCH50_DIAGRAMS } from "./batch50";
 import { ENERGY29_DIAGRAMS } from "./energy29";
 import { THEMATIC50_DIAGRAMS } from "./thematic50";
+import { ATLAS65_DIAGRAMS } from "./atlas65";
 import { RADIO_DIAGRAMS } from "./radio";
 import { AI_CONTEXT_DIAGRAMS } from "./ai-context";
 import { AI_USAGE_DIAGRAMS } from "./ai-usage";
@@ -19,6 +20,71 @@ import { ASTRONOMY_DIAGRAMS } from "./astronomy";
 
 /** Associations éditoriales explicites. Aucune recherche de mots-clés au rendu. */
 export type LessonDiagramKind =
+  | "stageChorus"
+  | "novelReaders"
+  | "archivesClimate"
+  | "livingHeritage"
+  | "craftTransmission"
+  | "towerWind"
+  | "newswire"
+  | "cheapPrint"
+  | "printPress"
+  | "webSnapshots"
+  | "historyEvidence"
+  | "lavauObjects"
+  | "meridianMeasure"
+  | "solidElectrolyte"
+  | "transferCase"
+  | "automaticGearbox"
+  | "startingCircuit"
+  | "suspensionLinks"
+  | "bodyRecycling"
+  | "driverSensors"
+  | "yawControl"
+  | "emergencyBrake"
+  | "carSoftware"
+  | "trafficMessages"
+  | "vehicleCharging"
+  | "hybridPower"
+  | "foodWaste"
+  | "localChains"
+  | "plateEmissions"
+  | "cellarRoots"
+  | "dryingSmoking"
+  | "pulseRoots"
+  | "palmFruit"
+  | "saltIngredients"
+  | "sugarPortion"
+  | "soilTexture"
+  | "soilEcosystem"
+  | "natureServices"
+  | "cityWaste"
+  | "isolatedHome"
+  | "householdEnergy"
+  | "hydrogenVector"
+  | "petroleumMaterials"
+  | "materialForming"
+  | "logisticsChain"
+  | "factoryNavigation"
+  | "concreteBinder"
+  | "loadStructure"
+  | "printedBridge"
+  | "robotSensing"
+  | "topologicalSurface"
+  | "oceanTrench"
+  | "algorithmCost"
+  | "osResources"
+  | "digitalArchives"
+  | "chipFabrication"
+  | "geostationary"
+  | "walkPendulum"
+  | "lorenzCurve"
+  | "accountingEntries"
+  | "externalCost"
+  | "commonResource"
+  | "groupConformity"
+  | "taskSwitching"
+  | "compoundGrowth"
   | "operaStage"
   | "balletPose"
   | "wayfindingSign"
@@ -1687,6 +1753,7 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
   ...BATCH50_DIAGRAMS,
   ...ENERGY29_DIAGRAMS,
   ...THEMATIC50_DIAGRAMS,
+  ...ATLAS65_DIAGRAMS,
 ];
 const BY_PATH = new Map(
   LESSON_DIAGRAMS.flatMap((spec) => spec.paths.map((path) => [path, spec] as const)),

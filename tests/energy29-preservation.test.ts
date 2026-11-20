@@ -1,3 +1,4 @@
+import { ATLAS65_DIAGRAMS } from "../src/lib/lesson-visuals/atlas65";
 import { EVERYDAY_DIAGRAMS } from "../src/lib/lesson-visuals/everyday50";
 import { HORIZONS50_DIAGRAMS } from "../src/lib/lesson-visuals/horizons50";
 import { EXPLORATIONS50_DIAGRAMS } from "../src/lib/lesson-visuals/explorations50";
@@ -16,6 +17,7 @@ import { PreviousLessonDiagramCanvas } from "./fixtures/PreviousLessonDiagramCan
 it("preserves the exact markup of every previously delivered diagram in all three states", () => {
   const added = new Set<string>(
     [
+      ...ATLAS65_DIAGRAMS,
       ...THEMATIC50_DIAGRAMS,
       ...ENERGY29_DIAGRAMS,
       ...BATCH50_DIAGRAMS,
