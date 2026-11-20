@@ -1,0 +1,252 @@
+[
+  {
+    "path": "/arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques/naissance-de-lopera-en-italie",
+    "status": "READY",
+    "visualRefs": ["schema:operaStage"]
+  },
+  {
+    "path": "/arts-et-culture/arts-du-spectacle/theatre-et-danse/naissance-du-ballet-classique",
+    "status": "READY",
+    "visualRefs": ["schema:balletPose"]
+  },
+  {
+    "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/comment-un-pictogramme-se-comprend-il-sans-un-seul-mot",
+    "status": "READY",
+    "visualRefs": ["schema:wayfindingSign"]
+  },
+  {
+    "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/histoire-de-la-typographie",
+    "status": "READY",
+    "visualRefs": ["schema:letterForms"]
+  },
+  {
+    "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/premiere-projection-cinematographe-lumiere",
+    "status": "READY",
+    "visualRefs": ["schema:earlyCinema"]
+  },
+  {
+    "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/encre-outils-ecriture",
+    "status": "READY",
+    "visualRefs": ["schema:inkTools"]
+  },
+  {
+    "path": "/arts-et-culture/patrimoine/architecture/architecture-vernaculaire",
+    "status": "READY",
+    "visualRefs": ["schema:vernacularHouse"]
+  },
+  {
+    "path": "/arts-et-culture/patrimoine/musees-et-conservation/comment-decide-t-on-de-restaurer-une-uvre-sans-la-trahir",
+    "status": "READY",
+    "visualRefs": ["schema:artRestoration"]
+  },
+  {
+    "path": "/arts-et-culture/patrimoine/musees-et-conservation/pourquoi-les-princes-collectionnaient-ils-des-objets-etranges",
+    "status": "READY",
+    "visualRefs": ["schema:curiosityCabinet"]
+  },
+  {
+    "path": "/arts-et-culture/patrimoine/patrimoine-immateriel/pourquoi-un-ministre-du-roi-a-t-il-transforme-une-teinturerie-en-manufacture-de-tapisseries",
+    "status": "READY",
+    "visualRefs": ["schema:tapestryLoom"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/production/comment-la-chaine-de-montage-de-ford-a-t-elle-change-la-fabrication-des-voitures",
+    "status": "READY",
+    "visualRefs": ["schema:movingAssembly"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/production/materiaux-automobile-acier-aluminium-composites",
+    "status": "READY",
+    "visualRefs": ["schema:carMaterials"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/production/plateformes-modulaires-et-standardisation",
+    "status": "READY",
+    "visualRefs": ["schema:sharedPlatform"]
+  },
+  {
+    "path": "/automobile/motorisations/electrique/autonomie-reelle-et-cycle-dhomologation",
+    "status": "READY",
+    "visualRefs": ["schema:energyRange"]
+  },
+  {
+    "path": "/automobile/motorisations/electrique/pourquoi-les-moteurs-de-voitures-electriques-ont-ils-besoin-de-terres-rares",
+    "status": "READY",
+    "visualRefs": ["schema:motorMagnets"]
+  },
+  {
+    "path": "/automobile/motorisations/electrique/recharge-bidirectionnelle-vehicule-reseau",
+    "status": "READY",
+    "visualRefs": ["schema:vehicleGrid"]
+  },
+  {
+    "path": "/automobile/motorisations/thermique/calculateur-moteur-capteurs",
+    "status": "READY",
+    "visualRefs": ["schema:engineFeedback"]
+  },
+  {
+    "path": "/automobile/motorisations/thermique/le-systeme-d-allumage-electronique-moderne",
+    "status": "READY",
+    "visualRefs": ["schema:sparkCoil"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/direction-assistee-maniabilite",
+    "status": "READY",
+    "visualRefs": ["schema:steeringAssist"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/chauffage-climatisation-consommation-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:carCooling"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-physique/reliefs/refaire-une-carte-par-triangulation",
+    "status": "READY",
+    "visualRefs": ["schema:surveyTriangle"]
+  },
+  {
+    "path": "/geographie-et-territoires/geopolitique/routes-et-detroits/detroits-et-routes-maritimes",
+    "status": "READY",
+    "visualRefs": ["schema:seaPassage"]
+  },
+  {
+    "path": "/industries/industrie-4-0/iot/internet-des-objets-industriel",
+    "status": "READY",
+    "visualRefs": ["schema:factorySensor"]
+  },
+  {
+    "path": "/industries/industrie-4-0/jumeaux-numeriques/jumeau-numerique-applications-industrielles",
+    "status": "READY",
+    "visualRefs": ["schema:digitalTwin"]
+  },
+  {
+    "path": "/industries/industrie-lourde/siderurgie/lacier-bas-carbone-reduction-directe-hydrogene",
+    "status": "READY",
+    "visualRefs": ["schema:ironReduction"]
+  },
+  {
+    "path": "/industries/industrie-lourde/siderurgie/minerai-fer-bas-fourneau",
+    "status": "READY",
+    "visualRefs": ["schema:bloomFurnace"]
+  },
+  {
+    "path": "/industries/industrie-lourde/siderurgie/pourquoi-la-fonte-le-fer-et-l-acier-ne-se-comportent-ils-pas-de-la-meme-facon",
+    "status": "READY",
+    "visualRefs": ["schema:ironCarbon"]
+  },
+  {
+    "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/normalisation-et-controle-qualite",
+    "status": "READY",
+    "visualRefs": ["schema:threadFit"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/comment-choisir-un-materiau",
+    "status": "READY",
+    "visualRefs": ["schema:materialChoice"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/robotique/actionneurs/comment-un-exosquelette-aide-t-il-a-marcher-ou-a-porter-une-charge",
+    "status": "READY",
+    "visualRefs": ["schema:assistExoskeleton"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire/eau-virtuelle",
+    "status": "READY",
+    "visualRefs": ["schema:hiddenWater"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire/saisonnalite-fruits-legumes",
+    "status": "READY",
+    "visualRefs": ["schema:growingSeason"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire/peche-durable",
+    "status": "READY",
+    "visualRefs": ["schema:fishSelectivity"]
+  },
+  {
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/gerer-durablement-foret",
+    "status": "READY",
+    "visualRefs": ["schema:forestRenewal"]
+  },
+  {
+    "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/reparer-plutot-jeter",
+    "status": "READY",
+    "visualRefs": ["schema:repairCycle"]
+  },
+  {
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/stress-hydrique-mondial",
+    "status": "READY",
+    "visualRefs": ["schema:waterBalance"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-physique/climatologie/classification-climats-mondiaux-koppen",
+    "status": "READY",
+    "visualRefs": ["schema:climatePlots"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-physique/reliefs/quel-est-le-plus-grand-desert-du-monde-et-est-ce-vraiment-le-sahara",
+    "status": "READY",
+    "visualRefs": ["schema:dryDesert"]
+  },
+  {
+    "path": "/geographie-et-territoires/geopolitique/ressources/pourquoi-le-monde-pourrait-il-manquer-de-sable",
+    "status": "READY",
+    "visualRefs": ["schema:sandGrains"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/agronomie/selection-vegetale/comment-une-herbe-sauvage-du-mexique-est-elle-devenue-le-mais",
+    "status": "READY",
+    "visualRefs": ["schema:maizeSelection"]
+  },
+  {
+    "path": "/communication-et-medias/information-et-verification/education-aux-medias/comment-retrouver-d-ou-vient-une-image-trouvee-en-ligne",
+    "status": "READY",
+    "visualRefs": ["schema:imageProvenance"]
+  },
+  {
+    "path": "/communication-et-medias/medias-numeriques/plateformes-et-moderation/pourquoi-votre-fil-d-actualite-ne-ressemble-t-il-pas-a-celui-d-un-ami",
+    "status": "READY",
+    "visualRefs": ["schema:feedRanking"]
+  },
+  {
+    "path": "/communication-et-medias/medias-numeriques/web/histoire-du-web-utilisateurs",
+    "status": "READY",
+    "visualRefs": ["schema:webHyperlink"]
+  },
+  {
+    "path": "/communication-et-medias/telecommunications/reseaux-mobiles/pourquoi-un-sms-est-il-limite-a-160-caracteres",
+    "status": "READY",
+    "visualRefs": ["schema:textEncoding"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/logiciel/programmation/les-langages-de-programmation-compiles-et-interpretes-une-distinction-fondamentale",
+    "status": "READY",
+    "visualRefs": ["schema:languageRuntime"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/materiel/memoire-et-stockage/ram-stockage-ssd-evolution",
+    "status": "READY",
+    "visualRefs": ["schema:memoryStorage"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/cartes-graphiques",
+    "status": "READY",
+    "visualRefs": ["schema:graphicParallel"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/microeconomie/division-travail",
+    "status": "READY",
+    "visualRefs": ["schema:taskSpecialization"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/psychologie/biais-cognitifs/pourquoi-ne-regarder-que-les-reussites-nous-trompe-t-il",
+    "status": "READY",
+    "visualRefs": ["schema:missingFailures"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/sociologie/groupes-et-normes/pourquoi-une-rumeur-se-deforme-t-elle-en-passant-de-bouche-en-bouche",
+    "status": "READY",
+    "visualRefs": ["schema:rumorChain"]
+  }
+]

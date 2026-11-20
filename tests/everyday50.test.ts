@@ -47,9 +47,7 @@ it("preserves the historical layouts of 345 drawings with documented revisions",
     ),
   );
   expect(Object.keys(before.drawings)).toHaveLength(345);
-  const old = LESSON_DIAGRAMS.filter(
-    (spec) => !EVERYDAY_DIAGRAMS.some((entry) => entry.id === spec.id),
-  );
+  const old = LESSON_DIAGRAMS.filter((spec) => Object.hasOwn(before.drawings, spec.id));
   expect(old).toHaveLength(345);
 
   for (const spec of old) {
