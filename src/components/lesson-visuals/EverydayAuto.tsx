@@ -1,4 +1,4 @@
-import { Airbag, Suspension } from "./EverydayVehicleCuts";
+import { Airbag, CrumpleZone, Suspension } from "./EverydayVehicleCuts";
 import {
   Arrow,
   Label,
@@ -234,47 +234,6 @@ function Tyre(step: number) {
       </Plate>
       <Label x={180} y={212}>
         {step === 0 ? "Empreinte au sol" : "Rainures et eau"}
-      </Label>
-    </>
-  );
-}
-
-function CrumpleZone(step: number) {
-  const fold = step > 0;
-  return (
-    <>
-      <path d="M37 60h25v125H37Z" fill="#aab4bd" stroke={navy} strokeWidth="2" />
-      {[77, 98, 119, 140, 161, 182].map((y) => (
-        <Line key={y} d={`M38 ${y}l23-13`} color="#e2e7ea" width={2} />
-      ))}
-      <path
-        d={fold ? "M62 129l14-28 11 18 16-21 17 6v53H62Z" : "M78 114l72-10v52H81L74 138Z"}
-        fill={fold ? "#c88c67" : "#afc0cc"}
-        stroke={navy}
-        strokeWidth="2"
-      />
-      <path
-        d="M0 150l37-84h96l64 50v39H0Z"
-        transform={`translate(${fold ? 118 : 147} 0)`}
-        fill={step === 2 ? "#a9c3b5" : "#97b0bf"}
-        stroke={navy}
-        strokeWidth="3"
-      />
-      <path
-        d="M0 116l20-39h87l50 39Z"
-        transform={`translate(${fold ? 148 : 177} 0)`}
-        fill="#d2e3e9"
-        stroke={navy}
-        strokeWidth="2"
-      />
-      {[fold ? 105 : 132, fold ? 276 : 306].map((x) => (
-        <circle key={x} cx={x} cy="157" r="15" fill={navy} stroke="#91a6b5" strokeWidth="2" />
-      ))}
-      {step === 0 && <Arrow x1={132} y1={75} x2={80} y2={75} color={red} width={4} />}
-      {step === 1 && <Arrow x1={108} y1={195} x2={88} y2={139} color={warm} />}
-      {step === 2 && <Line d="M172 96v35h93V96Z" color={green} width={4} />}
-      <Label x={180} y={216}>
-        {["Approche", "Avant déformé", "Espace préservé"][step]}
       </Label>
     </>
   );

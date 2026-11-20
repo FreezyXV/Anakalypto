@@ -39,6 +39,12 @@ it("preserves the layouts and geometry of all 345 previously delivered drawings"
       "utf8",
     ),
   );
+  const revisedSteel: string[] = JSON.parse(
+    await readFile(
+      new URL("../docs/qa/revue-ciblee-2026-11-20/steel-hashes.json", import.meta.url),
+      "utf8",
+    ),
+  );
   expect(Object.keys(before.drawings)).toHaveLength(345);
   const old = LESSON_DIAGRAMS.filter(
     (spec) => !EVERYDAY_DIAGRAMS.some((entry) => entry.id === spec.id),
@@ -49,6 +55,8 @@ it("preserves the layouts and geometry of all 345 previously delivered drawings"
     const signatures = frames(spec).map((frame) =>
       createHash("sha256").update(canonicalSvg(frame)).digest("hex"),
     );
-    expect(signatures, spec.id).toEqual(before.drawings[spec.id]);
+    expect(signatures, spec.id).toEqual(
+      spec.id === "steelroutes" ? revisedSteel : before.drawings[spec.id],
+    );
   }
 });

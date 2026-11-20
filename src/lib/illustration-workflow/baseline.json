@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "f1c122856dc4eba6ecffab3b7235634ddb378e8b4cea67c3b63894ca57f6632c",
+  "sourceDigest": "3be5c7b7497000ee2228a76f111b26c20ac94a2803afd23aa09f542da26b5454",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -905,11 +905,11 @@
     {
       "path": "/automobile/securite-et-conduite/securite-passive/pourquoi-l-avant-d-une-voiture-est-il-fait-pour-s-ecraser",
       "visualRefs": ["schema:crumplefront"],
-      "fingerprint": "f4a23da8cbb09e3f804e820c34cdf3ba2742f680c86336ac207a4c7b544d6c33",
+      "fingerprint": "5a68da81e8e61b3eb31f87af983fa1a38b84acad6c87b216138723e2d3d3b6ad",
       "contentHash": "996237ae6fd382ba18a8420feba21df73cb80785e5aaf65d2452b4889164a917",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:35.503Z"
+      "evidence": "docs/qa/revue-ciblee-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:52:20.716Z"
     },
     {
       "path": "/automobile/securite-et-conduite/suspension-confort-tenue-de-route",
@@ -2426,11 +2426,11 @@
     {
       "path": "/industries/industrie-lourde/siderurgie/comment-fabrique-t-on-de-l-acier-avec-un-haut-fourneau-ou-un-four-electrique",
       "visualRefs": ["schema:steelroutes"],
-      "fingerprint": "ac770895ccb8a15f1d68aafb5994997c163f90d784308bac15e1e172999363c9",
+      "fingerprint": "9ec5a8311db404e9afb44d5f9644356bb2d85d57c3520bbea9c194bf7169d213",
       "contentHash": "b2f65178ca77116b29cef04fbc2b3ca8d90e56265dd63c538c558a0fc9ca6750",
       "quality": "validee",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:14.030Z"
+      "evidence": "docs/qa/revue-ciblee-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:52:20.694Z"
     },
     {
       "path": "/industries/industrie-lourde/siderurgie/forge-travail-fer",
@@ -2489,11 +2489,11 @@
     {
       "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/mesurer-avec-precision",
       "visualRefs": ["schema:caliper"],
-      "fingerprint": "619352a900955c5480956ef06b506ef7f892d32619025ab9beabb5239dc1de68",
+      "fingerprint": "b3cd5a41399efced56e2f25556c298bda16354da4c75f42606af7ccc82c46486",
       "contentHash": "903ca7fd5fe3f759cb307dc43edd126e77ca4641f61f8b5d4ef3aa0abcefba81",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:34.697Z"
+      "evidence": "docs/qa/revue-ciblee-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:52:20.429Z"
     },
     {
       "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/pourquoi-les-pieces-interchangeables-ont-elles-change-la-fabrication-des-objets",
@@ -3812,11 +3812,11 @@
     {
       "path": "/technologies-et-ingenierie/nanotechnologies/applications/comment-construit-on-des-structures-a-l-echelle-du-milliardieme-de-metre",
       "visualRefs": ["schema:lithomask"],
-      "fingerprint": "06a44db79ab2ad7c2a1fc7ffcfe9e6ff49746976cdf1abc2433c462a660b8a93",
+      "fingerprint": "0b3e41968a2aa05e7595641cce907861118c454bc434169d7035778bc8545887",
       "contentHash": "54fa25a2083d9a15774006e527bcb350e9dc7b08edfcbd8a7d3319ee51fae587",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:36.223Z"
+      "evidence": "docs/qa/revue-ciblee-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:52:20.430Z"
     },
     {
       "path": "/technologies-et-ingenierie/nanotechnologies/nanomateriaux/graphene-et-nanomateriaux",

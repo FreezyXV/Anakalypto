@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/mesurer-avec-precision",
+    "status": "READY",
+    "visualRefs": ["schema:caliper"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/securite-passive/pourquoi-l-avant-d-une-voiture-est-il-fait-pour-s-ecraser",
+    "status": "READY",
+    "visualRefs": ["schema:crumplefront"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/nanotechnologies/applications/comment-construit-on-des-structures-a-l-echelle-du-milliardieme-de-metre",
+    "status": "READY",
+    "visualRefs": ["schema:lithomask"]
+  },
+  {
+    "path": "/industries/industrie-lourde/siderurgie/comment-fabrique-t-on-de-l-acier-avec-un-haut-fourneau-ou-un-four-electrique",
+    "status": "READY",
+    "visualRefs": ["schema:steelroutes"]
+  }
+]

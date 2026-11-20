@@ -1,0 +1,34 @@
+[
+  {
+    "ref": "LEC-9657BB103924",
+    "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/mesurer-avec-precision",
+    "title": "Mesurer avec précision",
+    "drawing": "caliper",
+    "contentHash": "903ca7fd5fe3f759cb307dc43edd126e77ca4641f61f8b5d4ef3aa0abcefba81",
+    "note": "Le pied à coulisse ne montre qu’une échelle. Il manque le vernier qui permet de lire la fraction de millimètre et de relier la mesure à la tolérance."
+  },
+  {
+    "ref": "LEC-B19C2184AB9F",
+    "path": "/automobile/securite-et-conduite/securite-passive/pourquoi-l-avant-d-une-voiture-est-il-fait-pour-s-ecraser",
+    "title": "Pourquoi l'avant d'une voiture est-il fait pour s'écraser ?",
+    "drawing": "crumplefront",
+    "contentHash": "996237ae6fd382ba18a8420feba21df73cb80785e5aaf65d2452b4889164a917",
+    "note": "La zone d’écrasement semble détachée du reste de la voiture. Les chemins de charge et la séparation entre longeron déformable et cellule ne sont pas lisibles."
+  },
+  {
+    "ref": "LEC-1D85BC4DB3B8",
+    "path": "/technologies-et-ingenierie/nanotechnologies/applications/comment-construit-on-des-structures-a-l-echelle-du-milliardieme-de-metre",
+    "title": "Comment construit-on des structures à l'échelle du milliardième de mètre ?",
+    "drawing": "lithomask",
+    "contentHash": "54fa25a2083d9a15774006e527bcb350e9dc7b08edfcbd8a7d3319ee51fae587",
+    "note": "Le motif semble déposé en relief sur le silicium. Distinguer l’exposition de la résine, le développement et la gravure de la couche sous-jacente."
+  },
+  {
+    "ref": "LEC-DE84E84AEC2F",
+    "path": "/industries/industrie-lourde/siderurgie/comment-fabrique-t-on-de-l-acier-avec-un-haut-fourneau-ou-un-four-electrique",
+    "title": "Comment fabrique-t-on de l'acier, avec un haut-fourneau ou un four électrique ?",
+    "drawing": "steelroutes",
+    "contentHash": "b2f65178ca77116b29cef04fbc2b3ca8d90e56265dd63c538c558a0fc9ca6750",
+    "note": "Le haut-fourneau et le convertisseur partagent quasiment la même silhouette. Lever la confusion entre les appareils, leurs apports et la métallurgie de chaque filière."
+  }
+]

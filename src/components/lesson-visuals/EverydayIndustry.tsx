@@ -1,10 +1,10 @@
 import { Silicon, Welding } from "./EverydayIndustrialCuts";
+import { Caliper } from "./EverydayPrecision";
 import {
   Arrow,
   Label,
   Line,
   blue,
-  green,
   muted,
   navy,
   red,
@@ -187,64 +187,11 @@ function ColdJourney(step: number) {
   );
 }
 
-function Gauge(step: number, id: string) {
-  if (step === 2)
-    return (
-      <>
-        <Line d="M47 139h267" color={muted} width={4} />
-        <rect
-          x="111"
-          y="118"
-          width="136"
-          height="42"
-          rx="7"
-          fill="#9fc7a5"
-          stroke={green}
-          strokeWidth="2"
-        />
-        <Line d="M111 111v59M247 111v59" color={green} width={2} />
-        <Arrow x1={183} y1={91} x2={183} y2={130} color={blue} width={4} />
-        <Label x={183} y={73}>
-          Mesure
-        </Label>
-        <Label x={180} y={199}>
-          Intervalle admis
-        </Label>
-      </>
-    );
-  const jaw = step === 0 ? 97 : 178;
-  return (
-    <>
-      <path d="M83 107h223v37H83Z" fill={`url(#${id}-metal)`} stroke={navy} strokeWidth="2" />
-      {[108, 123, 138, 153, 168, 183, 198, 213, 228, 243, 258, 273, 288].map((x, i) => (
-        <Line key={x} d={`M${x} 108v${i % 2 ? 9 : 14}`} color={navy} width={1.3} />
-      ))}
-      <path d="M83 106h14v65l-14 12Z" fill="#9dabba" stroke={navy} strokeWidth="2" />
-      <path d={`M${jaw} 123h59v28h-46v20l-13 12Z`} fill="#99bbd0" stroke={navy} strokeWidth="2" />
-      {step === 1 && (
-        <rect
-          x="98"
-          y="151"
-          width="79"
-          height="31"
-          rx="3"
-          fill="#d8b282"
-          stroke="#8d684c"
-          strokeWidth="2"
-        />
-      )}
-      <Label x={180} y={211}>
-        {step === 0 ? "Becs fermés" : "Mesure extérieure"}
-      </Label>
-    </>
-  );
-}
-
 export const everydayIndustry = {
   siliconpanel: Silicon,
   anvilforge: Forge,
   coldlogistics: ColdJourney,
   intermodal: ContainerJourney,
-  caliper: Gauge,
+  caliper: Caliper,
   weldjoint: Welding,
 } satisfies SceneSet;

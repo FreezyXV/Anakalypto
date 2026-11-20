@@ -859,17 +859,18 @@ export const EVERYDAY_DIAGRAMS = [
     steps: [
       {
         label: "Au zéro",
-        caption: "Avant de mesurer, le zéro de l’instrument constitue un premier repère.",
+        caption: "Becs fermés, le zéro du vernier coïncide avec celui de la règle.",
         detail: "Fermer les becs ne remplace pas la comparaison à des étalons.",
       },
       {
         label: "Entre les becs",
         caption: "Les becs extérieurs encadrent la pièce mesurée.",
-        detail: "La position du curseur indique l’écartement sur le modèle représenté.",
+        detail:
+          "Le zéro du vernier dépasse 12 mm. Son quatrième trait s’aligne avec un trait de la règle, ce qui ajoute 0,4 mm.",
       },
       {
         label: "Dans la tolérance",
-        caption: "La valeur mesurée se compare à l’intervalle admis.",
+        caption: "Les 12,4 mm mesurés se situent dans l’intervalle illustratif de 12,2 à 12,6 mm.",
         detail: "Une mesure proche d’une limite peut exiger de tenir compte de l’incertitude.",
       },
     ],
@@ -877,8 +878,8 @@ export const EVERYDAY_DIAGRAMS = [
     canvasHeight: 230,
     paths: ["/industries/industrie-manufacturiere/qualite-et-normalisation/mesurer-avec-precision"],
     source: {
-      title: "Fluke — Qu’est-ce que l’étalonnage ?",
-      url: "https://www.fluke.com/en-us/learn/blog/calibration/about-calibration",
+      title: "Mitutoyo — Lire un pied à coulisse à vernier",
+      url: "https://www.mitutoyo.com/metrology-insights/mitutoyo-calipers-digital-dial-and-vernier-calipers-precision-measurement-tools-for-manufacturing/",
     },
   },
   {
@@ -1103,7 +1104,7 @@ export const EVERYDAY_DIAGRAMS = [
         label: "Avant l’impact",
         caption: "La structure avant et l’habitacle ont des fonctions différentes.",
         detail:
-          "La zone grise à l’avant est destinée à se déformer ; le contour sombre identifie l’espace des occupants.",
+          "Le longeron en ocre relie l’avant à la structure de l’habitacle. Il est conçu pour se déformer lors d’un choc frontal.",
       },
       {
         label: "Plier",
@@ -1236,14 +1237,15 @@ export const EVERYDAY_DIAGRAMS = [
         label: "Exposer",
         caption:
           "Le système optique projette un motif réduit sur une couche sensible à la lumière.",
-        detail: "Dans le cas de l’ultraviolet extrême, des miroirs guident la lumière.",
+        detail:
+          "Dans cette coupe, des lentilles réduisent le motif. En ultraviolet extrême, ce rôle est assuré par des miroirs.",
       },
       {
         label: "Transférer",
         caption:
           "Une fois révélée, la couche sensible peut guider le transfert du motif dans la matière.",
         detail:
-          "La fabrication d’une puce répète des opérations de dépôt, de motif et de transfert.",
+          "Dans cet exemple, le révélateur retire la résine exposée. La gravure enlève ensuite la matière dans les ouvertures.",
       },
     ],
     limit:

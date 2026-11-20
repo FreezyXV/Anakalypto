@@ -1,3 +1,4 @@
+import { SteelProcessDrawing } from "./SteelProcessDrawing";
 import {
   Art,
   Tag,
@@ -136,60 +137,7 @@ export function IndustryHorizonsDrawing(p: DrawingProps) {
         )}
       </Art>
     );
-  if (kind === "steelroutes")
-    return (
-      <Art {...p} foot={s === 2 ? "Ferrailles → acier" : "Minerai → fonte → acier"}>
-        {s < 2 ? (
-          <>
-            <path
-              d="M111 54H198V90L219 145 208 190H101L88 145 111 90Z"
-              fill="#a7b8be"
-              stroke={ink}
-              strokeWidth="3"
-            />
-            <path d="M112 109H197L206 165H101Z" fill="#d49a68" />
-            {s === 0 ? (
-              [0, 1, 2, 3].map((i) => (
-                <path
-                  key={i}
-                  d={`M${118 + (i % 2) * 38} ${83 + Math.floor(i / 2) * 29}l13-8 13 10-10 10Z`}
-                  fill={i % 2 ? ink : "#a47659"}
-                />
-              ))
-            ) : (
-              <>
-                <path fill="none" d="M147 73V126" stroke={blue} strokeWidth="8" />
-                <Arrow d="M147 91V138" color={blue} />
-                <Tag x={268} y={93}>
-                  O₂
-                </Tag>
-              </>
-            )}
-            <Arrow d="M208 178H291" color={red} />
-            <Tag x={287} y={156}>
-              {s === 0 ? "Fonte" : "Acier"}
-            </Tag>
-            <Tag x={155} y={46}>
-              {s === 0 ? "Haut-fourneau" : "Convertisseur"}
-            </Tag>
-          </>
-        ) : (
-          <>
-            <path d="M82 102H279L261 190H101Z" fill="#9eafb6" stroke={ink} strokeWidth="3" />
-            <path d="M103 155H259L251 177H109Z" fill="#dd9d61" />
-            {[128, 181, 233].map((x) => (
-              <g key={x}>
-                <path fill="none" d={`M${x} 60v67`} stroke={ink} strokeWidth="10" />
-                <path d={`M${x} 128l-8 9 12 4-5 14`} stroke={gold} strokeWidth="3" fill="none" />
-              </g>
-            ))}
-            <Tag x={180} y={49}>
-              Four à arc
-            </Tag>
-          </>
-        )}
-      </Art>
-    );
+  if (kind === "steelroutes") return <SteelProcessDrawing {...p} />;
   if (kind === "visionreject")
     return (
       <Art {...p} foot="Un défaut visible, un critère">

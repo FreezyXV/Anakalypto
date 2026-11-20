@@ -625,21 +625,21 @@ export const HORIZONS50_DIAGRAMS = [
     ],
     steps: [
       {
-        label: "Réduire",
+        label: "Haut-fourneau",
         caption:
           "Le haut-fourneau transforme le minerai en fonte grâce aux réactions avec les gaz issus du coke.",
         detail:
           "Le haut-fourneau transforme le minerai en fonte grâce aux réactions avec les gaz issus du coke. Deux filières simplifiées ; un haut-fourneau ne produit pas directement l’acier. Le four électrique peut aussi utiliser du fer de réduction directe.",
       },
       {
-        label: "Affiner",
+        label: "Convertisseur à oxygène",
         caption:
           "Le convertisseur à oxygène réduit la teneur en carbone de la fonte pour produire de l’acier.",
         detail:
           "Le convertisseur à oxygène réduit la teneur en carbone de la fonte pour produire de l’acier. Deux filières simplifiées ; un haut-fourneau ne produit pas directement l’acier. Le four électrique peut aussi utiliser du fer de réduction directe.",
       },
       {
-        label: "Refondre",
+        label: "Four à arc électrique",
         caption:
           "Dans une autre filière, un four à arc électrique peut fondre des ferrailles pour produire de l’acier.",
         detail:
