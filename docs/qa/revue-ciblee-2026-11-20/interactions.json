@@ -1,0 +1,508 @@
+[
+  {
+    "records": [
+      {
+        "id": "caliper",
+        "width": 320,
+        "step": 0,
+        "active": "Au zéro",
+        "box": {
+          "height": 159,
+          "width": 250,
+          "x": 35,
+          "y": 715
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Au zéro", "0", "0", "Règle", "Vernier", "Zéros alignés"],
+        "minLabel": 12.55,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "caliper",
+        "width": 320,
+        "step": 1,
+        "active": "Entre les becs",
+        "box": {
+          "height": 159,
+          "width": 250,
+          "x": 35,
+          "y": 653
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Entre les becs", "12", "0", "Règle", "Vernier", "12 mm + 0,4 mm = 12,4 mm"],
+        "minLabel": 12.55,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "caliper",
+        "width": 320,
+        "step": 2,
+        "active": "Dans la tolérance",
+        "box": {
+          "height": 159,
+          "width": 250,
+          "x": 35,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": [
+          "Dans la tolérance",
+          "Intervalle admis",
+          "12,2",
+          "12,6",
+          "12,4",
+          "Mesure en millimètres"
+        ],
+        "minLabel": 12.55,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "crumplefront",
+        "width": 320,
+        "step": 0,
+        "active": "Avant l’impact",
+        "box": {
+          "height": 159,
+          "width": 250,
+          "x": 35,
+          "y": 715
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Avant l’impact", "Longeron", "Habitacle"],
+        "minLabel": 12.55,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "crumplefront",
+        "width": 320,
+        "step": 1,
+        "active": "Plier",
+        "box": {
+          "height": 159,
+          "width": 250,
+          "x": 35,
+          "y": 653
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Plier", "Le longeron se plie"],
+        "minLabel": 12.55,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "crumplefront",
+        "width": 320,
+        "step": 2,
+        "active": "Protéger l’espace",
+        "box": {
+          "height": 159,
+          "width": 250,
+          "x": 35,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Protéger l’espace", "Cellule de sécurité"],
+        "minLabel": 12.55,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "lithomask",
+        "width": 320,
+        "step": 0,
+        "active": "Coder dans un masque",
+        "box": {
+          "height": 159,
+          "width": 250,
+          "x": 35,
+          "y": 715
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Coder dans un masque", "Masque", "Ouvertures", "Motif optique en coupe"],
+        "minLabel": 12.55,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "lithomask",
+        "width": 320,
+        "step": 1,
+        "active": "Exposer",
+        "box": {
+          "height": 159,
+          "width": 250,
+          "x": 35,
+          "y": 653
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Exposer", "Masque", "Lentilles", "Résine", "Image réduite sur la résine"],
+        "minLabel": 12.55,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "lithomask",
+        "width": 320,
+        "step": 2,
+        "active": "Transférer",
+        "box": {
+          "height": 159,
+          "width": 250,
+          "x": 35,
+          "y": 591
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Transférer", "Résine développée", "Couche gravée"],
+        "minLabel": 12.55,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "steelroutes",
+        "width": 320,
+        "step": 0,
+        "active": "Haut-fourneau",
+        "box": {
+          "height": 159,
+          "width": 250,
+          "x": 35,
+          "y": 715
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Haut-fourneau", "Minerai + coke", "Air chaud", "Fonte", "Minerai → fonte"],
+        "minLabel": 12.55,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "steelroutes",
+        "width": 320,
+        "step": 1,
+        "active": "Convertisseur à oxygène",
+        "box": {
+          "height": 159,
+          "width": 250,
+          "x": 35,
+          "y": 653
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": [
+          "Convertisseur à oxygène",
+          "Lance à O₂",
+          "Fonte",
+          "+ ferrailles",
+          "Acier",
+          "Fonte → acier"
+        ],
+        "minLabel": 12.55,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "steelroutes",
+        "width": 320,
+        "step": 2,
+        "active": "Four à arc électrique",
+        "box": {
+          "height": 159,
+          "width": 250,
+          "x": 35,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": [
+          "Four à arc électrique",
+          "Électrodes",
+          "Ferrailles",
+          "Acier",
+          "Ferrailles → acier"
+        ],
+        "minLabel": 12.55,
+        "overflow": 0,
+        "overlap": []
+      }
+    ],
+    "errors": []
+  },
+  {
+    "records": [
+      {
+        "id": "caliper",
+        "width": 1280,
+        "step": 0,
+        "active": "Au zéro",
+        "box": {
+          "height": 391,
+          "width": 613,
+          "x": 123,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Au zéro", "0", "0", "Règle", "Vernier", "Zéros alignés"],
+        "minLabel": 30.726171875,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "caliper",
+        "width": 1280,
+        "step": 1,
+        "active": "Entre les becs",
+        "box": {
+          "height": 391,
+          "width": 613,
+          "x": 123,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Entre les becs", "12", "0", "Règle", "Vernier", "12 mm + 0,4 mm = 12,4 mm"],
+        "minLabel": 30.726171875,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "caliper",
+        "width": 1280,
+        "step": 2,
+        "active": "Dans la tolérance",
+        "box": {
+          "height": 391,
+          "width": 613,
+          "x": 123,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": [
+          "Dans la tolérance",
+          "Intervalle admis",
+          "12,2",
+          "12,6",
+          "12,4",
+          "Mesure en millimètres"
+        ],
+        "minLabel": 30.726171875,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "crumplefront",
+        "width": 1280,
+        "step": 0,
+        "active": "Avant l’impact",
+        "box": {
+          "height": 391,
+          "width": 613,
+          "x": 123,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Avant l’impact", "Longeron", "Habitacle"],
+        "minLabel": 30.726171875,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "crumplefront",
+        "width": 1280,
+        "step": 1,
+        "active": "Plier",
+        "box": {
+          "height": 391,
+          "width": 613,
+          "x": 123,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Plier", "Le longeron se plie"],
+        "minLabel": 30.726171875,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "crumplefront",
+        "width": 1280,
+        "step": 2,
+        "active": "Protéger l’espace",
+        "box": {
+          "height": 391,
+          "width": 613,
+          "x": 123,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Protéger l’espace", "Cellule de sécurité"],
+        "minLabel": 30.726171875,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "lithomask",
+        "width": 1280,
+        "step": 0,
+        "active": "Coder dans un masque",
+        "box": {
+          "height": 391,
+          "width": 613,
+          "x": 123,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Coder dans un masque", "Masque", "Ouvertures", "Motif optique en coupe"],
+        "minLabel": 30.726171875,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "lithomask",
+        "width": 1280,
+        "step": 1,
+        "active": "Exposer",
+        "box": {
+          "height": 391,
+          "width": 613,
+          "x": 123,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Exposer", "Masque", "Lentilles", "Résine", "Image réduite sur la résine"],
+        "minLabel": 30.726171875,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "lithomask",
+        "width": 1280,
+        "step": 2,
+        "active": "Transférer",
+        "box": {
+          "height": 391,
+          "width": 613,
+          "x": 123,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Transférer", "Résine développée", "Couche gravée"],
+        "minLabel": 30.726171875,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "steelroutes",
+        "width": 1280,
+        "step": 0,
+        "active": "Haut-fourneau",
+        "box": {
+          "height": 391,
+          "width": 613,
+          "x": 123,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": ["Haut-fourneau", "Minerai + coke", "Air chaud", "Fonte", "Minerai → fonte"],
+        "minLabel": 30.726171875,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "steelroutes",
+        "width": 1280,
+        "step": 1,
+        "active": "Convertisseur à oxygène",
+        "box": {
+          "height": 391,
+          "width": 613,
+          "x": 123,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": [
+          "Convertisseur à oxygène",
+          "Lance à O₂",
+          "Fonte",
+          "+ ferrailles",
+          "Acier",
+          "Fonte → acier"
+        ],
+        "minLabel": 30.726171875,
+        "overflow": 0,
+        "overlap": []
+      },
+      {
+        "id": "steelroutes",
+        "width": 1280,
+        "step": 2,
+        "active": "Four à arc électrique",
+        "box": {
+          "height": 391,
+          "width": 613,
+          "x": 123,
+          "y": 590
+        },
+        "clipped": [],
+        "duplicates": 0,
+        "figureCount": 1,
+        "labels": [
+          "Four à arc électrique",
+          "Électrodes",
+          "Ferrailles",
+          "Acier",
+          "Ferrailles → acier"
+        ],
+        "minLabel": 30.726171875,
+        "overflow": 0,
+        "overlap": []
+      }
+    ],
+    "errors": []
+  }
+]

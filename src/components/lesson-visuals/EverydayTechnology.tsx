@@ -1,3 +1,4 @@
+import { Lithography } from "./EverydayPrecision";
 import {
   Arrow,
   Label,
@@ -139,75 +140,6 @@ function Bridge(step: number) {
       <Label x={180} y={215}>
         {["Infiltration au joint", "Trace sous le pont", "Suivre le défaut"][step]}
       </Label>
-    </>
-  );
-}
-
-const maskPattern = "M-39 -11h24v17h19v-31h23v14h12v20H18V-4H9v29h-35V9h-13Z";
-function Lithography(step: number) {
-  return (
-    <>
-      {step < 2 && (
-        <>
-          <Plate x={88} y={47} width={183} height={59} color="#b8bdc8">
-            <path
-              d={maskPattern}
-              transform="translate(179 77) scale(1.3 .88)"
-              fill="#e0a951"
-              stroke="#9b723a"
-              strokeWidth="2"
-            />
-          </Plate>
-          {step === 0 ? (
-            <Label x={180} y={176}>
-              Motif sur le masque
-            </Label>
-          ) : (
-            <>
-              <path d="M109 106h142l-39 58h-65Z" fill="#ecd9a3" opacity=".75" />
-              <path
-                d="M132 119h95l-19 19h-57Z"
-                fill="#a4c4d3"
-                fillOpacity=".64"
-                stroke={blue}
-                strokeWidth="2"
-              />
-              <Plate x={103} y={162} width={154} height={33} color="#879eae">
-                <path
-                  d={maskPattern}
-                  transform="translate(180 166) scale(.62 .25)"
-                  fill="#dfae52"
-                  stroke={gold}
-                />
-              </Plate>
-              <Label x={180} y={218}>
-                Projection réduite
-              </Label>
-            </>
-          )}
-        </>
-      )}
-      {step === 2 && (
-        <>
-          <path d="M55 105l188-39 65 52-187 45Z" fill="#7694a8" stroke={navy} strokeWidth="2" />
-          <path
-            d="M55 105l66 58v24l-66-57ZM121 163l187-45v25l-187 44Z"
-            fill="#527289"
-            stroke={navy}
-            strokeWidth="2"
-          />
-          <path
-            d={maskPattern}
-            transform="matrix(1 -.22 .65 .72 179 114)"
-            fill="#dfb360"
-            stroke={gold}
-            strokeWidth="2.5"
-          />
-          <Label x={180} y={214}>
-            Motif transféré
-          </Label>
-        </>
-      )}
     </>
   );
 }

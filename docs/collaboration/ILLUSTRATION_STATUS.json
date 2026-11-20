@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:19:58.730Z",
+  "generatedAt": "2026-11-20T09:52:22.715Z",
   "scope": "PUBLISHED_ONLY",
   "counts": {
     "published": 948,
@@ -3900,8 +3900,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:35.503Z"
+      "evidence": "docs/qa/revue-ciblee-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:52:20.716Z"
     },
     {
       "ref": "LEC-A85C9114B239",
@@ -9612,8 +9612,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:14.030Z"
+      "evidence": "docs/qa/revue-ciblee-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:52:20.694Z"
     },
     {
       "ref": "LEC-F27C9CD4A48D",
@@ -9884,8 +9884,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:34.697Z"
+      "evidence": "docs/qa/revue-ciblee-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:52:20.429Z"
     },
     {
       "ref": "LEC-F5DDF56ED110",
@@ -14988,8 +14988,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:36.223Z"
+      "evidence": "docs/qa/revue-ciblee-2026-11-20/README.md",
+      "reviewedAt": "2026-11-20T09:52:20.430Z"
     },
     {
       "ref": "LEC-D9CA5BC87357",
