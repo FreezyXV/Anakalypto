@@ -1,0 +1,733 @@
+[
+  {
+    "drawing": "populationGrid",
+    "status": 200,
+    "url": "https://population.un.org/wpp/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "departmentBalance",
+    "status": 200,
+    "url": "https://www.insee.fr/fr/statistiques/7726965",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "migrationStock",
+    "status": 200,
+    "url": "https://www.un.org/development/desa/pd/content/International-migrant-stock",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "crowdedCoast",
+    "status": 200,
+    "url": "https://www.statistiques.developpement-durable.gouv.fr/environnement-littoral-et-marin-en-metropole-synthese-des-connaissances-en-2021",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "cityGrowth",
+    "status": 200,
+    "url": "https://population.un.org/wup/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "overseasScale",
+    "status": 200,
+    "url": "https://www.senat.fr/rap/r13-430/r13-43012.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "marineZones",
+    "status": 200,
+    "url": "https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "borderMap",
+    "status": 403,
+    "url": "https://www.britannica.com/topic/boundary-political-science",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "territoryAssets",
+    "status": 200,
+    "url": "https://infoterre.brgm.fr/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "chartCompass",
+    "status": 200,
+    "url": "https://nauticalcharts.noaa.gov/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "macroNutrients",
+    "status": 200,
+    "url": "https://www.anses.fr/fr/thematique/alimentation-humaine",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "essentialFat",
+    "status": 200,
+    "url": "https://www.anses.fr/fr/content/les-acides-gras-omega-3",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "carrotVision",
+    "status": 200,
+    "url": "https://www.anses.fr/fr/content/vitamine-carotenoides-provitaminiques",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "coldContinuity",
+    "status": 200,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/food-safety",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "sealedPreserve",
+    "status": 403,
+    "url": "https://www.britannica.com/topic/food-preservation",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "saltWaterActivity",
+    "status": 200,
+    "url": "https://www.fao.org/4/Y4358E/y4358e06.htm",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "seaweedLayers",
+    "status": 200,
+    "url": "https://www.fao.org/fishery/en/topic/16210",
+    "redirect": "https://www.fao.org/fishery/topic/16210/en",
+    "timeout": false
+  },
+  {
+    "drawing": "emulsionAdditive",
+    "status": 200,
+    "url": "https://food.ec.europa.eu/food-safety/food-improvement-agents/additives_en",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "cookingRetention",
+    "status": 200,
+    "url": "https://www.ars.usda.gov/ARSUserFiles/80400525/Data/retn/retn06.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "sweetnessDose",
+    "status": 200,
+    "url": "https://www.efsa.europa.eu/fr/topics/topic/sweeteners",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "pigmentLayers",
+    "status": 0,
+    "url": "https://www.canada.ca/fr/institut-conservation/services/publications-conservation-preservation/notes-institut-canadien-conservation/plomb-collections-museales.html",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "La note de l’Institut canadien de conservation a été ouverte avec un accès web distinct."
+  },
+  {
+    "drawing": "paintingAuction",
+    "status": 200,
+    "url": "https://www.christies.com/en/lot/lot-6110563",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "heritageListing",
+    "status": 403,
+    "url": "https://whc.unesco.org/en/guidelines/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "radioAlert",
+    "status": 403,
+    "url": "https://www.securite-civile.interieur.gouv.fr/reagir/comment-se-preparer-face-aux-risques/systeme-dalerte-des",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "tvSchedule",
+    "status": 403,
+    "url": "https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/media-nations-2025",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Le sommaire officiel et le rapport Media Nations 2025 ont été ouverts avec un accès web distinct."
+  },
+  {
+    "drawing": "verifyClaim",
+    "status": 200,
+    "url": "https://cor.inquirygroup.org/curriculum/lessons/intro-to-lateral-reading/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "newsroomCheck",
+    "status": 403,
+    "url": "https://www.afp.com/sites/default/files/2025-05/charte_deontologique_AFP-F%C3%A9vrier2025.pdf",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Le PDF de la charte AFP a été ouvert avec un accès web distinct."
+  },
+  {
+    "drawing": "pressRevenue",
+    "status": 0,
+    "url": "https://www.unesco.org/reports/world-media-trends/2021/en/journalism-public-good",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Le rapport en ligne de l’UNESCO a été ouvert avec un accès web distinct."
+  },
+  {
+    "drawing": "protectedSource",
+    "status": 403,
+    "url": "https://www.afp.com/sites/default/files/afp_-_vingt_principes_concernant_les_sources_-_juillet_2024.pdf",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Le PDF des principes de l’AFP a été ouvert avec un accès web distinct."
+  },
+  {
+    "drawing": "openWeb",
+    "status": 200,
+    "url": "https://www.w3.org/TR/webarch/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "autoInnovations",
+    "status": 403,
+    "url": "https://www.nhtsa.gov/how-vehicle-safety-has-improved-over-decades",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "carMaterialChain",
+    "status": 200,
+    "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2025",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "carFactoryNetwork",
+    "status": 200,
+    "url": "https://oica.net/fr/production-statistics/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "autoChipSupply",
+    "status": 200,
+    "url": "https://research.europarl.europa.eu/EPRS_BRI%282026%29774694",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "recallTrace",
+    "status": 403,
+    "url": "https://www.nhtsa.gov/recalls",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "evPower",
+    "status": 200,
+    "url": "https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "valveTiming",
+    "status": 200,
+    "url": "https://www.techniques-ingenieur.fr/en/resources/article/ti151/variable-valve-timing-technologies-for-internal-combustion-engines-bm2580",
+    "redirect": "https://www.techniques-ingenieur.fr/en/resources/mechanics-th7/hydraulic-aerodynamic-and-thermal-machines-ti151/variable-valve-timing-technologies-for-internal-combustion-engines-bm2580",
+    "timeout": false
+  },
+  {
+    "drawing": "enginePumps",
+    "status": 200,
+    "url": "https://www.bosch-mobility.com/en/solutions/powertrain/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "diagnosticChain",
+    "status": 200,
+    "url": "https://ww2.arb.ca.gov/our-work/programs/obd",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "batteryMaterials",
+    "status": 200,
+    "url": "https://afdc.energy.gov/vehicles/electric-batteries",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "drivingFatigue",
+    "status": 403,
+    "url": "https://www.nhtsa.gov/risky-driving/drowsy-driving",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "trafficNoise",
+    "status": 200,
+    "url": "https://www.vejdirektoratet.dk/udgivelse/noise-electric-vehicles-0",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "anticipationEnergy",
+    "status": 403,
+    "url": "https://agirpourlatransition.ademe.fr/particuliers/economiser/carburant/ecoconduite-solution-consommer-moins-carburant-limiter-emissions-co2",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "La page ADEME sur l’écoconduite a été ouverte avec un accès web distinct."
+  },
+  {
+    "drawing": "vehicleLifeCycle",
+    "status": 200,
+    "url": "https://www.energy.gov/cmei/rd-greet-life-cycle-assessment-model",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "vehicleMass",
+    "status": 200,
+    "url": "https://environnement.brussels/pro/nos-actions/plans-et-politiques-regionales/des-voitures-plus-grandes-et-plus-lourdes-en-region-bruxelloise-quels-impacts-et-quelles-mesures-envisager",
+    "redirect": "https://environnement.brussels/pro/politique-regionale/plans-strategiques-regionaux/des-voitures-plus-grandes-et-plus-lourdes-en-region-bruxelloise-quels-impacts-et-quelles-mesures-envisager",
+    "timeout": false
+  },
+  {
+    "drawing": "sharedMobility",
+    "status": 403,
+    "url": "https://agirpourlatransition.ademe.fr/particuliers/bouger/deplacer-autrement",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "utilityPayload",
+    "status": 200,
+    "url": "https://www.annales.org/ri/2018/ri-mai-2018/2018-05-5.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "streetCrossSection",
+    "status": 200,
+    "url": "https://www.cerema.fr/fr/actualites/8-recommandations-reussir-votre-piste-cyclable",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "materialRecovery",
+    "status": 200,
+    "url": "https://www.bruker.com/en/applications/industrial/metals/scrap-metal-recycling.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "roadDrainage",
+    "status": 200,
+    "url": "https://www.fhwa.dot.gov/engineering/geotech/pubs/05037/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "euvMirrors",
+    "status": 200,
+    "url": "https://www.asml.com/technology/lithography-principles/lenses-and-mirrors",
+    "redirect": "https://www.asml.com/en/technology/lithography-principles/lenses-and-mirrors",
+    "timeout": false
+  },
+  {
+    "drawing": "superconductingQubit",
+    "status": 200,
+    "url": "https://irig.cea.fr/multimedia/Documents/infographies/defis-du-cea-infographie-processeur-quantique-elementaire214.pdf",
+    "redirect": "https://www.cea.fr/multimedia/Documents/infographies/defis-du-cea-infographie-processeur-quantique-elementaire214.pdf",
+    "timeout": false
+  },
+  {
+    "drawing": "matrixProcessor",
+    "status": 200,
+    "url": "https://docs.cloud.google.com/tpu/docs/system-architecture-tpu-vm",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "riscInterface",
+    "status": 200,
+    "url": "https://riscv.org/specifications/ratified/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "mooreGrowth",
+    "status": 200,
+    "url": "https://www.computerhistory.org/siliconengine/moores-law-predicts-the-future-of-integrated-circuits/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "localNetwork",
+    "status": 403,
+    "url": "https://www.cisco.com/c/en/us/products/switches/what-is-a-lan-local-area-network.html",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "satelliteBackhaul",
+    "status": 200,
+    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications",
+    "redirect": "https://www.esa.int/directorates/about-us/directorates/resilience-navigation-and-connectivity",
+    "timeout": false
+  },
+  {
+    "drawing": "electricMagnetic",
+    "status": 200,
+    "url": "https://openstax.org/books/university-physics-volume-2/pages/13-1-faradays-law",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "particleWave",
+    "status": 200,
+    "url": "https://openstax.org/books/university-physics-volume-3/pages/6-6-wave-particle-duality",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "thermoLaws",
+    "status": 200,
+    "url": "https://openstax.org/books/university-physics-volume-2/pages/4-4-statements-of-the-second-law-of-thermodynamics",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "energyServices",
+    "status": 200,
+    "url": "https://www.iea.org/energy-system/renewables",
+    "redirect": "https://www.iea.org/energy-system/renewables-and-low-emissions-fuels",
+    "timeout": false
+  },
+  {
+    "drawing": "renewableProfiles",
+    "status": 200,
+    "url": "https://www.iea.org/energy-system/renewables",
+    "redirect": "https://www.iea.org/energy-system/renewables-and-low-emissions-fuels",
+    "timeout": false
+  },
+  {
+    "drawing": "lfpCell",
+    "status": 200,
+    "url": "https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "factoryArm",
+    "status": 200,
+    "url": "https://ifr.org/industrial-robots",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "fabPrototype",
+    "status": 403,
+    "url": "https://betterworld.mit.edu/spectrum/issues/winter-2014/do-it-yourself-manufacturing/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Le dossier du MIT sur la création des Fab Labs a été ouvert avec un accès web distinct."
+  },
+  {
+    "drawing": "warehouseFlow",
+    "status": 200,
+    "url": "https://www.autostoresystem.com/insights/guide-to-inventory-management",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "sharedStandard",
+    "status": 403,
+    "url": "https://www.iso.org/standards.html",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "magnetLoop",
+    "status": 200,
+    "url": "https://cordis.europa.eu/article/id/442156-gearing-up-for-high-performance-magnet-recycling-in-europe",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "extinctionRisk",
+    "status": 403,
+    "url": "https://nrl.iucnredlist.org/about/faqs",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "floodAdaptation",
+    "status": 403,
+    "url": "https://www.ipcc.ch/report/ar6/wg2/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "choiceArchitecture",
+    "status": 403,
+    "url": "https://www.oecd.org/en/topics/behavioural-insights.html",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "gainLoss",
+    "status": 200,
+    "url": "https://www.jstor.org/stable/1914185",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "skillCalibration",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10626367/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "smallStart",
+    "status": 200,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9480316/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "retrievalPractice",
+    "status": 403,
+    "url": "https://journals.sagepub.com/doi/10.1177/1529100612453266",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "habitCue",
+    "status": 403,
+    "url": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "attentionGate",
+    "status": 403,
+    "url": "https://www.britannica.com/science/memory-psychology",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "objectPermanence",
+    "status": 200,
+    "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "skillTransfer",
+    "status": 200,
+    "url": "https://ich.unesco.org/en/RL/the-compagnonnage-network-of-knowledge-and-identity-in-apprenticeship-00441",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "activeListening",
+    "status": 403,
+    "url": "https://doi.org/10.1080/10904018.2013.813234",
+    "redirect": "https://www.tandfonline.com/doi/full/10.1080/10904018.2013.813234",
+    "timeout": false,
+    "secondaryCheck": "L’article original de Weger et al. a été ouvert avec un accès web distinct."
+  },
+  {
+    "drawing": "priceBasket",
+    "status": 200,
+    "url": "https://www.insee.fr/fr/metadonnees/definition/c1557",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "unemploymentBase",
+    "status": 200,
+    "url": "https://www.insee.fr/fr/metadonnees/definition/c1129",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "realProduction",
+    "status": 200,
+    "url": "https://www.insee.fr/fr/metadonnees/definition/c1365",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "barterExchange",
+    "status": 403,
+    "url": "https://abc-economie.banque-france.fr/fr/abc-de-leconomie/la-monnaie",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "marketEntry",
+    "status": 200,
+    "url": "https://openstax.org/books/principles-microeconomics-3e/pages/9-1-how-monopolies-form-barriers-to-entry",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "priceIntersection",
+    "status": 200,
+    "url": "https://openstax.org/books/principles-macroeconomics-2e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "industrialTransition",
+    "status": 403,
+    "url": "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Le dossier Science Museum a été ouvert avec un accès web distinct."
+  },
+  {
+    "drawing": "marshallAid",
+    "status": 200,
+    "url": "https://history.state.gov/milestones/1945-1952/marshall-plan",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "neolithicVillage",
+    "status": 200,
+    "url": "https://multimedia.inrap.fr/archeologie-preventive/periode/7/Neolithique",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "writingSystems",
+    "status": 200,
+    "url": "https://uis.unesco.org/en/topic/literacy",
+    "redirect": "https://www.uis.unesco.org/en",
+    "timeout": false
+  },
+  {
+    "drawing": "firstBasket",
+    "status": 200,
+    "url": "https://springfield.edu/where-basketball-was-invented-the-birthplace-of-basketball",
+    "redirect": "https://springfield.edu/about/birthplace-of-basketball",
+    "timeout": false
+  },
+  {
+    "drawing": "sportTracking",
+    "status": 200,
+    "url": "https://inside.fifa.com/technical/football-technology/standards/epts",
+    "redirect": "https://inside.fifa.com/innovation/standards/epts",
+    "timeout": false
+  },
+  {
+    "drawing": "paraClassification",
+    "status": 200,
+    "url": "https://www.paralympic.org/classification",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "altitudeTrack",
+    "status": 200,
+    "url": "https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/drageq.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "recordFrontier",
+    "status": 200,
+    "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1372092/full",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "muscleEnergy",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11547894/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "effortHeart",
+    "status": 200,
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-4-cardiac-physiology",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "muscleAdaptation",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17241104/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "opticalWatch",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30736395/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "trainingCycle",
+    "status": 403,
+    "url": "https://www.britannica.com/topic/exercise-physical-fitness",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  }
+]

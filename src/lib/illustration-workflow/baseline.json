@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "e92df670db21e2f3ae29c9656b5e21c274ea866245edc3f22ad25a1e2e6a3cf4",
+  "sourceDigest": "a9c12877eab5240bff6777b3ed2933189a8491ef645dda496a0785cf81b749c8",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -426,6 +426,15 @@
       "reviewedAt": "2026-11-15T11:22:09.605Z"
     },
     {
+      "path": "/alimentation-et-nutrition/nutriments/macronutriments/acides-gras-essentiels",
+      "visualRefs": ["schema:essentialFat"],
+      "fingerprint": "7e828b1b7221b9da3ca3f199e812cc4c28cf58203dd88a34fd9cf55463151a68",
+      "contentHash": "0116f840b027ea3d7114a0e4adefea56a2ea2732c15a9190e61b88def1638a93",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:17.563Z"
+    },
+    {
       "path": "/alimentation-et-nutrition/nutriments/macronutriments/pourquoi-certains-acides-amines-doivent-ils-venir-de-notre-assiette",
       "visualRefs": ["schema:essentialamino"],
       "fingerprint": "def4ccbb43922127b0af0b784723a5762973516511bd7a82c653483362f75672",
@@ -433,6 +442,24 @@
       "quality": "validee",
       "evidence": "docs/qa/horizons50/README.md",
       "reviewedAt": "2026-11-15T11:22:13.158Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/nutriments/macronutriments/role-glucides-lipides-proteines",
+      "visualRefs": ["schema:macroNutrients"],
+      "fingerprint": "d3f566c6b93742bb489793b0f042272ee86ac96ff274aaa130679a16c109b260",
+      "contentHash": "19cf9e54a2a9aa2c043689af5ce9b4310fcf8a2f247dbe52d231e68431029e19",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:17.559Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/nutriments/micronutriments/pourquoi-dit-on-que-les-carottes-font-voir-dans-le-noir",
+      "visualRefs": ["schema:carrotVision"],
+      "fingerprint": "07b9776f122e9af1790767bc54f86c35aa5361ba2e9f62e704558304ed2c84ad",
+      "contentHash": "f09b44a98b3caef5ad04f23a58b35ad51d52d323217729cff0b2e762cdd09ce5",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:18.002Z"
     },
     {
       "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/lactose-et-intolerance",
@@ -453,6 +480,15 @@
       "reviewedAt": "2026-11-15T11:22:13.215Z"
     },
     {
+      "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/chaine-du-froid-et-risque-microbiologique",
+      "visualRefs": ["schema:coldContinuity"],
+      "fingerprint": "b840e8df76cd1208d34ad2c41d0634f38e2ee2c5014c41841353c3a70873cf84",
+      "contentHash": "4c3be978b964e6049bb4e6d96e228a43e6683b3bf671316d1b1c1ca25dbbc7c1",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:18.018Z"
+    },
+    {
       "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/pourquoi-ne-faut-il-pas-couper-la-salade-sur-la-planche-du-poulet-cru",
       "visualRefs": ["schema:crossboard"],
       "fingerprint": "063d6bed30e399069296a6a5f4e4c6b7f43372a39e2a53a1eee6431b4df15023",
@@ -460,6 +496,15 @@
       "quality": "validee",
       "evidence": "docs/qa/explorations50/README.md",
       "reviewedAt": "2026-11-14T21:33:51.561Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/appertisation-et-sterilisation",
+      "visualRefs": ["schema:sealedPreserve"],
+      "fingerprint": "91369d9d614a273c0f99594e1e3c9621be328283cb20e72d9995b548cb2492c7",
+      "contentHash": "041f9641eb8b07fd3b402c0ff36eaf840129a12d4939044d1f46c9bf7114780b",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:18.019Z"
     },
     {
       "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/comment-le-miel-peut-il-se-conserver-presque-sans-fin",
@@ -478,6 +523,15 @@
       "quality": "validee",
       "evidence": "docs/qa/horizons50/README.md",
       "reviewedAt": "2026-11-15T11:22:10.547Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/la-conservation-par-le-sel-salaisons-et-saumures",
+      "visualRefs": ["schema:saltWaterActivity"],
+      "fingerprint": "462ec25e0112f71e4f554fbcf2ed91c92c3d15aa7e2d15ea1e16e4c5d98debe6",
+      "contentHash": "92f0b5930f9c9ff346e0ff41b66157259cb5faa0d8b7e1a83ed233ec036cf270",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:18.208Z"
     },
     {
       "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/le-stockage-en-cave-des-legumes-racines",
@@ -561,6 +615,24 @@
       "reviewedAt": "2026-11-14T21:33:50.173Z"
     },
     {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/additifs-alimentaires",
+      "visualRefs": ["schema:emulsionAdditive"],
+      "fingerprint": "1ba0062ed280edf11a817ec45e5cb7e0122506f9c92361a3710c105208f88b97",
+      "contentHash": "68c8ee7b3306caa3a0237e00a9c8958921a4ed0c1fc3d0fd9a835ad762f5308a",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:18.636Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/algues-ressource-avenir",
+      "visualRefs": ["schema:seaweedLayers"],
+      "fingerprint": "fae667cffb1146ba39778868fdbc10977fd69cc86d98c4a73a44a6e4870e909d",
+      "contentHash": "6630def5754a532882987b28bf9206d363d69a2b67078a42a6771545eb9b4930",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:18.211Z"
+    },
+    {
       "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/comment-un-grain-de-ble-devient-il-de-la-farine",
       "visualRefs": ["schema:wheatflour"],
       "fingerprint": "b1fdab20e1a27698ece60b56609f6218686a2fd183a58cb941fde3c3b3423e99",
@@ -568,6 +640,24 @@
       "quality": "validee",
       "evidence": "docs/qa/lesson-visuals-batch50/README.md",
       "reviewedAt": "2026-11-12T08:39:12.588Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/cuisson-et-nutriments",
+      "visualRefs": ["schema:cookingRetention"],
+      "fingerprint": "ac8addab01d862f9dbef6c93152f53deebf86e00d1de570ad281b58588053b58",
+      "contentHash": "db2dcdee84192cb897682d7bcad44666ea08da49423c763d122a863bcd656474",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:18.632Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/edulcorants",
+      "visualRefs": ["schema:sweetnessDose"],
+      "fingerprint": "89f272b4dc81c29ed4121f584c0ca908c12865e5ad3e284e44ad92c28f69a3d9",
+      "contentHash": "fcc0b1f65f8a822474ff02c158564b1c435dc6667b94b9a22b735ff8f6ab981f",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:18.617Z"
     },
     {
       "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/huile-de-palme",
@@ -768,6 +858,24 @@
       "reviewedAt": "2026-11-14T21:33:46.780Z"
     },
     {
+      "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/pourquoi-certains-pigments-des-maitres-anciens-etaient-ils-dangereux",
+      "visualRefs": ["schema:pigmentLayers"],
+      "fingerprint": "649140cada8f96a022d875a826638b153703d352a57caef3ba6dd717cd4a27f8",
+      "contentHash": "408d16a472ea77dd0b65a77e37d23983559638aa6db1c72d621ac9c800ff703f",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:18.828Z"
+    },
+    {
+      "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/salvator-mundi-record-denchere",
+      "visualRefs": ["schema:paintingAuction"],
+      "fingerprint": "3337c7882ff058ae302faf8424b32e718218608dd607510477cade343b9436fa",
+      "contentHash": "66ef68b16ca854da882c801b7afb11860c54e00f3c18d30e83c1e1d584c3f605",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:18.833Z"
+    },
+    {
       "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/comment-le-cinema-a-t-il-appris-a-parler",
       "visualRefs": ["schema:syncsound"],
       "fingerprint": "43c5fe0b1620c3f755b3b5996e9254db75a3bc9c6fb7e646dee847e0a55cbb73",
@@ -921,6 +1029,15 @@
       "reviewedAt": "2026-11-19T09:10:31.491Z"
     },
     {
+      "path": "/arts-et-culture/patrimoine/musees-et-conservation/liste-du-patrimoine-mondial-unesco",
+      "visualRefs": ["schema:heritageListing"],
+      "fingerprint": "21393fa5407882af73af426725cea2cce0cd6b7bc0e62de5bf6e96cca84f2087",
+      "contentHash": "4e0cee287d97f04579cd84612f87d9f2ee5f5e7ce6f393fdd9faef7685c3c665",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:19.306Z"
+    },
+    {
       "path": "/arts-et-culture/patrimoine/musees-et-conservation/pourquoi-fouille-t-on-avant-de-construire-une-route",
       "visualRefs": ["schema:diglayers"],
       "fingerprint": "8cf31497ee6f591222800de702b957e08867164c3755f23f0468c60025320650",
@@ -966,6 +1083,15 @@
       "reviewedAt": "2026-11-20T21:02:02.664Z"
     },
     {
+      "path": "/automobile/industrie-automobile/histoire-innovations-automobiles",
+      "visualRefs": ["schema:autoInnovations"],
+      "fingerprint": "17f923bdfb0cf057ce74b00535fe2aa4486490510cc95241b5d2125bc56c3c80",
+      "contentHash": "ed73b0e77112d6c02b7319207978ab00c84bde0aaa8362bbb6a06dea037a6b8b",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:20.131Z"
+    },
+    {
       "path": "/automobile/industrie-automobile/production/aerodynamique-automobile-trainee",
       "visualRefs": ["schema:dragwake"],
       "fingerprint": "9e2f94f64e20d4721a95a53b6df2e6aac6242641849373767ca74da9e5eee889",
@@ -993,6 +1119,15 @@
       "reviewedAt": "2026-11-20T20:18:01.669Z"
     },
     {
+      "path": "/automobile/industrie-automobile/production/matieres-premieres-automobile-lithium-cobalt-nickel",
+      "visualRefs": ["schema:carMaterialChain"],
+      "fingerprint": "956feb189cceb5cdef52d8972b62b7ae27f61de3f6a58dc1b2b918880e2b0dd5",
+      "contentHash": "2fb0b5469f1f6c369c1493e60ecb233126e7a23f62eccc8bca2150b18d8a531a",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:20.151Z"
+    },
+    {
       "path": "/automobile/industrie-automobile/production/plateformes-modulaires-et-standardisation",
       "visualRefs": ["schema:sharedPlatform"],
       "fingerprint": "0ac2192c847a69120cf54ce112654ccc59dd182ae9599e61a9a0d0943f66505e",
@@ -1002,6 +1137,15 @@
       "reviewedAt": "2026-11-20T20:18:01.516Z"
     },
     {
+      "path": "/automobile/industrie-automobile/production/production-automobile-mondiale",
+      "visualRefs": ["schema:carFactoryNetwork"],
+      "fingerprint": "889ad5331642f388f223d4ab41bddd29ec4037aff5252d70effdec59a11884d7",
+      "contentHash": "cc90b50a4751651851c3b9423e20d34696231abc8988864af138dbc49c142835",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:20.723Z"
+    },
+    {
       "path": "/automobile/industrie-automobile/production/qu-est-ce-qu-une-voiture-definie-par-logiciel-et-en-quoi-change-t-elle-tout",
       "visualRefs": ["schema:carSoftware"],
       "fingerprint": "bce0e736fe12722c57d326c37271c0d9b882d4eee73e835c1c28ec501ede787e",
@@ -1009,6 +1153,24 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T21:02:05.207Z"
+    },
+    {
+      "path": "/automobile/industrie-automobile/production/semi-conducteurs-automobile",
+      "visualRefs": ["schema:autoChipSupply"],
+      "fingerprint": "215643b6d9f7332264978495fb1b15ddc1a3af3c5d7c7a32c561786dd402bbfb",
+      "contentHash": "d230e1bf78e1593d2544bec19822f880420ecbd20ba5ffa7b251a96c847e4bb0",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:20.742Z"
+    },
+    {
+      "path": "/automobile/industrie-automobile/reglementation-automobile/rappels-automobiles-securite",
+      "visualRefs": ["schema:recallTrace"],
+      "fingerprint": "30a03a4697c4877c8569ff39bf282726b53f79607f8a4518d9ef9f62cd26545c",
+      "contentHash": "189486c86bb3c307720889178486d259ef49ec190fac09ec3f08c152cfca1fed",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:20.725Z"
     },
     {
       "path": "/automobile/motorisations/carburants-alternatifs/voiture-hydrogene-pile-combustible",
@@ -1081,6 +1243,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T21:02:05.214Z"
+    },
+    {
+      "path": "/automobile/motorisations/electrique/voiture-electrique",
+      "visualRefs": ["schema:evPower"],
+      "fingerprint": "f9d381fef5ec850a158b7ac167ebe3b42a9a7bfcf6f9d30171f2c45c0ab8de62",
+      "contentHash": "1bf95d5f7a969c24437f35390b8fb139134852c02494586b9af989db92376e28",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:20.830Z"
     },
     {
       "path": "/automobile/motorisations/motorisations-hybrides/comment-une-voiture-electrique-recupere-t-elle-de-l-energie-en-freinant",
@@ -1164,6 +1335,15 @@
       "reviewedAt": "2026-11-12T13:50:53.758Z"
     },
     {
+      "path": "/automobile/motorisations/thermique/distribution-variable-turbocompresseur",
+      "visualRefs": ["schema:valveTiming"],
+      "fingerprint": "065d449aae22254381a929861c5383e178636f42e657b3ee75bc79df8802a99f",
+      "contentHash": "0185d3a2b734798ccf592d5edf501175327058edb1ee738761a3280ec4e3e8c2",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:20.837Z"
+    },
+    {
       "path": "/automobile/motorisations/thermique/embrayage-volant-moteur-bimasse",
       "visualRefs": ["schema:clutchplates"],
       "fingerprint": "6d8caeb6baedc1341867e981706bf187eee9b25ed31cc09a6232e15eb3f5e314",
@@ -1216,6 +1396,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T20:18:02.627Z"
+    },
+    {
+      "path": "/automobile/motorisations/thermique/pompes-voiture-thermique",
+      "visualRefs": ["schema:enginePumps"],
+      "fingerprint": "596bc34f781be71cd46750bcec32837b30850a812791200303dce3451f215a60",
+      "contentHash": "26701adad22e6b67ec6e1f11274d2c70f047afcdfab2cfa4eab8717b2465d7a0",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:21.380Z"
     },
     {
       "path": "/automobile/motorisations/thermique/refroidissement-moteur-thermique",
@@ -1299,6 +1488,15 @@
       "reviewedAt": "2026-11-20T20:18:02.237Z"
     },
     {
+      "path": "/automobile/securite-et-conduite/ergonomie-fatigue-conduite",
+      "visualRefs": ["schema:drivingFatigue"],
+      "fingerprint": "592e02b798bccc5dc6e9ee1cf6cd9b556f562dedf32b880bf0eab8249ebe707a",
+      "contentHash": "8cdbd5aa184e918064dfbe7fe6068e62adc9fd5962731fe5eb1e83e545577f09",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:21.472Z"
+    },
+    {
       "path": "/automobile/securite-et-conduite/pneus-contact-route-adherence",
       "visualRefs": ["schema:tyregrip"],
       "fingerprint": "b8f517ef79f79cf837c39d9abd945adde62a76e8c7e4708e23646641fa450632",
@@ -1344,6 +1542,15 @@
       "reviewedAt": "2026-11-20T09:19:39.733Z"
     },
     {
+      "path": "/automobile/usages-et-mobilite/bruit-routier-sante-et-pneus",
+      "visualRefs": ["schema:trafficNoise"],
+      "fingerprint": "d94d0c9e3d673c86b8b0cb64e7e57399f06fe2c32c90c12aebac2a1ef47cc11c",
+      "contentHash": "e4ac8c513ae9498b40108f0cc674a497a66bad76c580772d8637ab5a7dfd8728",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:21.484Z"
+    },
+    {
       "path": "/automobile/usages-et-mobilite/chauffage-climatisation-consommation-automobile",
       "visualRefs": ["schema:carCooling"],
       "fingerprint": "aece1c30479965621974ce3eb19a91574a873031f7677abf62bd4c5eeb865eaa",
@@ -1351,6 +1558,33 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T20:18:02.292Z"
+    },
+    {
+      "path": "/automobile/usages-et-mobilite/eco-conduite-consommation-securite",
+      "visualRefs": ["schema:anticipationEnergy"],
+      "fingerprint": "7760964e0caf54d261d8236f49e6c0627bc3bd20de717eb3bad7859c73af34a6",
+      "contentHash": "17a09e5238b52d4e42272a53552ee6879440183b230587c73979fd9799ded4ff",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:22.037Z"
+    },
+    {
+      "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/analyse-du-cycle-de-vie-dune-automobile",
+      "visualRefs": ["schema:vehicleLifeCycle"],
+      "fingerprint": "991e2581769fede5c2a65cd06784f228a554f838b41ddc888b4c03e94c545eec",
+      "contentHash": "672e87cc88fb54cd9bc75a2ec883facfcecefa4f637629a0be8b3f4365f3dbbc",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:22.035Z"
+    },
+    {
+      "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/augmentation-poids-voitures",
+      "visualRefs": ["schema:vehicleMass"],
+      "fingerprint": "19f563cd111acaafb57f8956515340e3d2fa0c45204ed647427a07b005f56134",
+      "contentHash": "0e21fe47f76930496b39dab517382facefee5c8d8d38dc927993e721d419eb98",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:22.060Z"
     },
     {
       "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/circuit-electrique-12v-batterie-alternateur-demarreur",
@@ -1371,6 +1605,15 @@
       "reviewedAt": "2026-11-14T21:33:46.969Z"
     },
     {
+      "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/diagnostic-electronique-reparation-automobile",
+      "visualRefs": ["schema:diagnosticChain"],
+      "fingerprint": "34788b375143f5cb733ab8ec0c3c38cabf81f876377ff1ec6672c4aad41fa817",
+      "contentHash": "c62b16fd52722094b75940ca4c1eb2b073be6c8180bf1e771cb8057d3a9ffe19",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:21.390Z"
+    },
+    {
       "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/huile-moteur-lubrification",
       "visualRefs": ["schema:engineoil"],
       "fingerprint": "6babc32af6855dff434ab1eceae9f9fb0f95f7e2d28243063462adae3d53f76f",
@@ -1389,6 +1632,15 @@
       "reviewedAt": "2026-11-20T21:02:04.559Z"
     },
     {
+      "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/recyclage-batteries-vehicules-electriques",
+      "visualRefs": ["schema:batteryMaterials"],
+      "fingerprint": "a6b4bf387ace7014c6ed9b7dbf2d8dca0b6efad121364a17c3fa1c431a51d797",
+      "contentHash": "f517d4293572d7251e23307901d7f5d11644fee47049cd0536df890a959c43c8",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:21.400Z"
+    },
+    {
       "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/train-roulant-rotules-silentblocs",
       "visualRefs": ["schema:suspensionLinks"],
       "fingerprint": "ea9508dbe8792bc28517e76727631192838e2eed8a1d42e8f69dfa1034903802",
@@ -1396,6 +1648,33 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T21:02:04.552Z"
+    },
+    {
+      "path": "/automobile/usages-et-mobilite/mobilite-partagee/autopartage-et-covoiturage",
+      "visualRefs": ["schema:sharedMobility"],
+      "fingerprint": "18df512948e90243f50a8c80ca755e48ef51ceec23f3ac566a790d6b77eb2dcb",
+      "contentHash": "a470e85b7215f4ab933f6ac0129f30e3c651c48d3fbdecd421040bf3925feb48",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:22.104Z"
+    },
+    {
+      "path": "/automobile/usages-et-mobilite/vehicules-utilitaires-transport-marchandises",
+      "visualRefs": ["schema:utilityPayload"],
+      "fingerprint": "24a109e41f91c4bf4f6b3308a16c961d834bdb5f5b5eb53bbc621473d69c5570",
+      "contentHash": "805b719b437e4b4638f7ac43d8a53ab874674a39875d63d33cda9a2deeaef4b8",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:22.098Z"
+    },
+    {
+      "path": "/automobile/usages-et-mobilite/voiture-espace-urbain-stationnement",
+      "visualRefs": ["schema:streetCrossSection"],
+      "fingerprint": "0a9475e4e2ad40d24208e43f06526c51dda5833a9b3bed0692b6bd5203815c7e",
+      "contentHash": "8b6fa0d7c31968ac82adce68e96fc08bf67a7a83b9c63555a7119fe630cb03a6",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:22.683Z"
     },
     {
       "path": "/communication-et-medias/histoire-des-medias/presse-ecrite/agences-de-presse-et-circulation-de-linformation",
@@ -1452,6 +1731,15 @@
       "reviewedAt": "2026-11-12T13:50:54.065Z"
     },
     {
+      "path": "/communication-et-medias/histoire-des-medias/radio-et-television/la-radio-comme-outil-d-alerte-en-cas-de-catastrophe",
+      "visualRefs": ["schema:radioAlert"],
+      "fingerprint": "4fc14e8e1fb60a7893ded20bc8ec9a5bdc24e09c7a2e56c5f0f327b7c9e6a2d4",
+      "contentHash": "d3af41f2e9be2a9693cc9adcc36655964b33bd456e318e232d63b36a7b775ac3",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:19.351Z"
+    },
+    {
       "path": "/communication-et-medias/histoire-des-medias/radio-et-television/naissance-de-la-radiodiffusion",
       "visualRefs": ["schema:broadcast"],
       "fingerprint": "2dd515679d143277004bde130a88d262a7415753b65c5daefce689ef94bb0f74",
@@ -1470,6 +1758,15 @@
       "reviewedAt": "2026-11-12T13:50:54.272Z"
     },
     {
+      "path": "/communication-et-medias/histoire-des-medias/radio-et-television/television-du-direct-au-flux-a-la-demande",
+      "visualRefs": ["schema:tvSchedule"],
+      "fingerprint": "52a61cf04c0ab90cbf8b96cc335bf3290c93fef350633dcf4415044d1d0c6ace",
+      "contentHash": "c53acbdfff517af9914d0ff0b0b8b9021c90d744ae2585576859b95b434ffb64",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:19.350Z"
+    },
+    {
       "path": "/communication-et-medias/information-et-verification/education-aux-medias/comment-retrouver-d-ou-vient-une-image-trouvee-en-ligne",
       "visualRefs": ["schema:imageProvenance"],
       "fingerprint": "bc053ac334c3a251e17c4d5d1012ace24c92dda0b8dc9d728ab2ca43669ec792",
@@ -1486,6 +1783,42 @@
       "quality": "validee",
       "evidence": "docs/qa/horizons50/README.md",
       "reviewedAt": "2026-11-15T11:22:13.875Z"
+    },
+    {
+      "path": "/communication-et-medias/information-et-verification/education-aux-medias/education-aux-medias-et-a-linformation",
+      "visualRefs": ["schema:verifyClaim"],
+      "fingerprint": "bc2eb80512079f5978d2f83f46c494c1a5d3afb3511b9ab65a7c107872ae8cc9",
+      "contentHash": "455dd00ed194a8b0478a114c13a310137901c376bd754c4b75562ef2059d9d4e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:19.515Z"
+    },
+    {
+      "path": "/communication-et-medias/information-et-verification/journalisme/comment-les-journalistes-verifient-ils-une-information-avant-de-la-publier",
+      "visualRefs": ["schema:newsroomCheck"],
+      "fingerprint": "32c6789ea75548798b2b020f3a05cbf9f567f4a70f35dcaab7f7f25d92402d58",
+      "contentHash": "18c4429593a0aba672379f4a01f589dd1c528d7fba4d9e6b56339ce4f4a3eb8f",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:19.541Z"
+    },
+    {
+      "path": "/communication-et-medias/information-et-verification/journalisme/crise-economique-de-la-presse",
+      "visualRefs": ["schema:pressRevenue"],
+      "fingerprint": "1e48793cdd6ba302cf26dfbb7fad11a72991a580c5cb86a4aa01e1d0d7d61c17",
+      "contentHash": "86bcb19e33272baa9dc5b9567c6c128a61e902bd8f5676856c0bc3c9ddc30296",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:19.986Z"
+    },
+    {
+      "path": "/communication-et-medias/information-et-verification/journalisme/secret-des-sources-et-protection-des-journalistes",
+      "visualRefs": ["schema:protectedSource"],
+      "fingerprint": "afd30b862b85edc6265aefdb42dcd560a934daab8cb4b4674102469db8449fd5",
+      "contentHash": "ed2e774153e5a652351d87ad4d877e27ae3ea2387d197c378ad7f009f104d3d9",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:20.005Z"
     },
     {
       "path": "/communication-et-medias/medias-numeriques/plateformes-et-moderation/pourquoi-votre-fil-d-actualite-ne-ressemble-t-il-pas-a-celui-d-un-ami",
@@ -1540,6 +1873,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T21:02:03.299Z"
+    },
+    {
+      "path": "/communication-et-medias/medias-numeriques/web/web-ouvert-et-plateformes-fermees",
+      "visualRefs": ["schema:openWeb"],
+      "fingerprint": "6403f82b5a274d27bc9c3c26b7b5089e272b3b6667a2d757995bada1727b963b",
+      "contentHash": "e28ab7b2d5d0d8645e8bea41d98eca512ef3c1233010d9a5a41430c0e965bec8",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:20.013Z"
     },
     {
       "path": "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/comment-la-lumiere-reste-t-elle-prisonniere-d-une-fibre-optique",
@@ -1965,6 +2307,15 @@
       "reviewedAt": "2026-11-19T09:10:37.601Z"
     },
     {
+      "path": "/energie/energies-renouvelables/capter-transformer-stocker-energie-naturelle",
+      "visualRefs": ["schema:energyServices"],
+      "fingerprint": "19af110fbeada71c55473d29aa2ac946786708d1ee9893918be119d59f89550f",
+      "contentHash": "2c71cde82cedfb96454a1580f830f5f133fb3eebfdd4e43e44ab3148c98cf6ca",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:24.183Z"
+    },
+    {
       "path": "/energie/energies-renouvelables/eolien/comment-fonctionne-une-eolienne",
       "visualRefs": ["schema:wind"],
       "fingerprint": "1e096e7792cc2e891cba407ff084326d7167cc1d276a9795b9a2ac6957f6ec9a",
@@ -2053,6 +2404,15 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:50:57.295Z"
+    },
+    {
+      "path": "/energie/energies-renouvelables/solaire/energies-renouvelables-panorama",
+      "visualRefs": ["schema:renewableProfiles"],
+      "fingerprint": "fe12a5229e2e3307cba0eb11c32a93a2822ba645674f9fc2835025e79da9422a",
+      "contentHash": "d162be538e0f075b279421870f5f9c8cab8353370f8d94d86c85135d3a93d2db",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:24.180Z"
     },
     {
       "path": "/energie/energies-renouvelables/solaire/four-chauffe-eau-solaires",
@@ -2152,6 +2512,15 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:50:58.107Z"
+    },
+    {
+      "path": "/energie/reseaux-et-stockage/batteries/la-chimie-lfp-lithium-fer-phosphate-plus-stable-et-moins-chere",
+      "visualRefs": ["schema:lfpCell"],
+      "fingerprint": "3e779710f9a783bfc46d482dbfc8be7fe214c88821d38c8f9b7afa3b93a3df6c",
+      "contentHash": "e50b4d5972d144eaf799c260ecc7c9aec001e58c45e062445aeb027f92b1b147",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:24.915Z"
     },
     {
       "path": "/energie/reseaux-et-stockage/batteries/pourquoi-une-batterie-s-use-avec-le-temps",
@@ -2271,6 +2640,15 @@
       "reviewedAt": "2026-11-20T21:02:07.156Z"
     },
     {
+      "path": "/environnement-et-climat/biodiversite/especes-menacees/liste-rouge-uicn-2025-biodiversite",
+      "visualRefs": ["schema:extinctionRisk"],
+      "fingerprint": "b1a3ccdb5118064757ebeaeaf650674c8b2f08f71c2c1a3c7c5808d2c440c310",
+      "contentHash": "53525bafc00571ea43299f3a6550f66f9e4329bd558220753ecf6d079e0bf11d",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:25.687Z"
+    },
+    {
       "path": "/environnement-et-climat/biodiversite/forets-et-oceans/comment-survivent-les-animaux-dans-les-profondeurs-sombres-de-l-ocean",
       "visualRefs": ["schema:midnightsea"],
       "fingerprint": "c3719999539c0704a8043c27cf2f0b4b2b19f1cbd9d70139b781ce388780c848",
@@ -2350,6 +2728,15 @@
       "quality": "validee",
       "evidence": "docs/qa/lesson-visuals-batch50/README.md",
       "reviewedAt": "2026-11-12T08:39:13.204Z"
+    },
+    {
+      "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/adaptation-au-changement-climatique",
+      "visualRefs": ["schema:floodAdaptation"],
+      "fingerprint": "7972b0b24a0cc8c2c88427b9dffcde02cdad67a8984994a268bfc940284a5426",
+      "contentHash": "3b76bb9652a2ded06401cd1069788ffe453cf583904a2ad37f40948851b95266",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:25.703Z"
     },
     {
       "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/comment-les-arbres-rafraichissent-ils-une-ville-en-ete",
@@ -2847,6 +3234,15 @@
       "reviewedAt": "2026-11-19T09:10:31.515Z"
     },
     {
+      "path": "/geographie-et-territoires/geographie-humaine/demographie/huit-milliards-dhabitants",
+      "visualRefs": ["schema:populationGrid"],
+      "fingerprint": "f93bd42716aa5c1be99d5c1d0dd7bf1014de076d39ac01433f8bb30823577f3e",
+      "contentHash": "3ec312467491f5731585067d10c0446c286085c6e4c154d97ff1bae6cdb3b604",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:16.319Z"
+    },
+    {
       "path": "/geographie-et-territoires/geographie-humaine/demographie/la-transition-demographique-et-ses-differentes-etapes",
       "visualRefs": ["schema:demographic"],
       "fingerprint": "ef4ae27f9bca6422e68175df241a926e4e8308f45ee01c500e273722b55a5e57",
@@ -2856,6 +3252,33 @@
       "reviewedAt": "2026-11-19T09:10:31.512Z"
     },
     {
+      "path": "/geographie-et-territoires/geographie-humaine/demographie/pourquoi-certains-departements-francais-gagnent-ils-des-habitants-et-d-autres-en-perdent-ils",
+      "visualRefs": ["schema:departmentBalance"],
+      "fingerprint": "3687167ec42ab530b4c10a676d6e3acaafa455fc9f30ce30e955c7ec33244189",
+      "contentHash": "926ed1ce7f5ffca8fa28b3d2da1053cb5f3d9661b6971494be8e35fade796334",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:16.641Z"
+    },
+    {
+      "path": "/geographie-et-territoires/geographie-humaine/migrations/migrations-realites-et-idees-recues",
+      "visualRefs": ["schema:migrationStock"],
+      "fingerprint": "c1e88cff689570c52ecc1ee026672c40768d4c4b22e5ab065529b5559de580b0",
+      "contentHash": "152f543790abf30a273057fb03076c436eedc4fc119464b5c29798a24154a83e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:16.321Z"
+    },
+    {
+      "path": "/geographie-et-territoires/geographie-humaine/pourquoi-tant-de-monde-vit-il-sur-un-si-petit-bout-de-cote-en-france",
+      "visualRefs": ["schema:crowdedCoast"],
+      "fingerprint": "5031f6fbb7cd032ece66a2111d47dab205963db5455786c02da6e44be9d604cb",
+      "contentHash": "e41bbad6f2042aeac087620b820317962cfa238d9a5cbe2a7607659867f7b713",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:16.642Z"
+    },
+    {
       "path": "/geographie-et-territoires/geographie-humaine/urbanisation/comment-une-grande-ville-se-debarrasse-t-elle-de-ses-dechets",
       "visualRefs": ["schema:cityWaste"],
       "fingerprint": "70a3ab3075bff3be8d34f7e30811bbd35a21d583edcdfd47d98ae831c39d26ae",
@@ -2863,6 +3286,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T21:02:07.150Z"
+    },
+    {
+      "path": "/geographie-et-territoires/geographie-humaine/urbanisation/urbanisation-mondiale-onu",
+      "visualRefs": ["schema:cityGrowth"],
+      "fingerprint": "aa4642594f433e910fc982eb5205ffcebaea3be8254f8039b16aa20ab73f0e89",
+      "contentHash": "ada31c8d4db686a324c4620a1ffd9ba9d548d15e9de0704095235d28200df00c",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:16.650Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/climatologie/classification-climats-mondiaux-koppen",
@@ -2964,6 +3396,15 @@
       "reviewedAt": "2026-11-19T09:10:32.621Z"
     },
     {
+      "path": "/geographie-et-territoires/geographie-physique/pourquoi-les-outre-mer-donnent-ils-a-la-france-un-territoire-si-disperse",
+      "visualRefs": ["schema:overseasScale"],
+      "fingerprint": "c77cf9a0e4b9a1c7a0942515029d2bc60565c72d68703eb59a215971e71b78b0",
+      "contentHash": "965baf785a4e1ed478f4c11cf68af01f0574c52b848e939651b1dd0daa7d6fa2",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:16.966Z"
+    },
+    {
       "path": "/geographie-et-territoires/geographie-physique/reliefs/comment-les-terrasses-permettent-elles-de-cultiver-sur-une-montagne",
       "visualRefs": ["schema:terracefield"],
       "fingerprint": "8e2fb5ae92b7e52ce0a5c2674cd479cec05749598d6afe0f74d382c1bbdff65e",
@@ -3018,6 +3459,24 @@
       "reviewedAt": "2026-11-20T20:18:02.811Z"
     },
     {
+      "path": "/geographie-et-territoires/geopolitique/frontieres/comment-partage-t-on-la-mer-entre-les-pays",
+      "visualRefs": ["schema:marineZones"],
+      "fingerprint": "c1a9e0d6c116bdce6736c4c40c4e6db1f8606a8366fe12f9e6afa923e2a14b4d",
+      "contentHash": "16a1de513a3b501a5f6e40b7bfa83bb3ddbac0cd8343b47f28e3d815429d6b59",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:16.967Z"
+    },
+    {
+      "path": "/geographie-et-territoires/geopolitique/frontieres/differend-frontalier-essequibo-guyana-venezuela",
+      "visualRefs": ["schema:borderMap"],
+      "fingerprint": "8576bcea06fe5cad222c4f1139298f3ea995138a94354623cbc9dc4fb82018d1",
+      "contentHash": "79ea2ece1dbfc7b5aea45e28948e919e0be3cfeef02495c23cb4a5d2b3fa508d",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:17.384Z"
+    },
+    {
       "path": "/geographie-et-territoires/geopolitique/ressources/pourquoi-le-monde-pourrait-il-manquer-de-sable",
       "visualRefs": ["schema:sandGrains"],
       "fingerprint": "776833a695800302501230023df5723d076a57b14243a366ab922c2366643d0e",
@@ -3025,6 +3484,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T20:18:05.402Z"
+    },
+    {
+      "path": "/geographie-et-territoires/geopolitique/ressources/ressources-territoire",
+      "visualRefs": ["schema:territoryAssets"],
+      "fingerprint": "0b624940adba312150acf1bba54a217a931c57a36cda119a78e07489b09fe309",
+      "contentHash": "d98a0c9f92aaf31d82ad30ca383c94316d82b70f5a77809b62756991ad21437e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:17.370Z"
     },
     {
       "path": "/geographie-et-territoires/geopolitique/routes-et-detroits/comment-le-canal-de-panama-fait-il-passer-les-navires-d-un-ocean-a-l-autre",
@@ -3043,6 +3511,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T20:18:02.869Z"
+    },
+    {
+      "path": "/geographie-et-territoires/geopolitique/routes-et-detroits/naviguer-sans-gps",
+      "visualRefs": ["schema:chartCompass"],
+      "fingerprint": "edb32c4bb143a6e820e05c6e996a05bab46ae2a44897603c53b9576c129a2da4",
+      "contentHash": "6dd8d9995fdb1bc4f5921bbb57ab02db51b9db34e5ce8b75b18abd6525e0cc82",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:17.380Z"
     },
     {
       "path": "/industries/industrie-4-0/iot/internet-des-objets-industriel",
@@ -3162,6 +3639,15 @@
       "reviewedAt": "2026-11-12T08:39:13.408Z"
     },
     {
+      "path": "/industries/industrie-manufacturiere/automatisation/automatisation-industrielle-robotique-production",
+      "visualRefs": ["schema:factoryArm"],
+      "fingerprint": "438db46e6c7191b3747ec5963c66e81e702aef5410fd4abb89a9b4842dc5b6ae",
+      "contentHash": "6a457859b891bb4f36c7f76163e83c66ea830fff1ff83f10bc3a473ccc4da499",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:24.912Z"
+    },
+    {
       "path": "/industries/industrie-manufacturiere/automatisation/comment-des-chariots-sans-conducteur-trouvent-ils-leur-chemin-dans-une-usine",
       "visualRefs": ["schema:factoryNavigation"],
       "fingerprint": "12064d081c4432f9af4c68b65b8b6eb65f6de5fd62a7a435f699efa17f4e585c",
@@ -3216,6 +3702,24 @@
       "reviewedAt": "2026-11-19T09:10:34.675Z"
     },
     {
+      "path": "/industries/industrie-manufacturiere/chaine-logistique/qu-est-ce-qu-un-fab-lab-et-que-peut-on-y-fabriquer",
+      "visualRefs": ["schema:fabPrototype"],
+      "fingerprint": "d851c10c4dba108e2114495559c24093fafbfe700db3ff0ff868ad6053280c33",
+      "contentHash": "35da8a6c79b2486bb9132072229311c6a7771b25b7b5c0c68a2a98df008b8624",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:24.908Z"
+    },
+    {
+      "path": "/industries/industrie-manufacturiere/chaine-logistique/stocker-conserver-marchandises",
+      "visualRefs": ["schema:warehouseFlow"],
+      "fingerprint": "c8eff99b79aa24d605a41cd37c8f852ef85e43a9da1277c28d6ef5169dfcfdf8",
+      "contentHash": "a0b4f237d1f3f9695f3adb97f9f514671be0a7f307c43df6684c153d33c2aa32",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:24.931Z"
+    },
+    {
       "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/mesurer-avec-precision",
       "visualRefs": ["schema:caliper"],
       "fingerprint": "b3cd5a41399efced56e2f25556c298bda16354da4c75f42606af7ccc82c46486",
@@ -3241,6 +3745,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T21:02:03.912Z"
+    },
+    {
+      "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/pourquoi-le-monde-a-t-il-besoin-de-normes-communes-comme-celles-de-l-iso",
+      "visualRefs": ["schema:sharedStandard"],
+      "fingerprint": "4429c8689f89d001fe781d7134d82b53c2b4302b3f84719b19752f080187a242",
+      "contentHash": "5412e6ad6a2981aea32be33f7f06aceef46fb1a87be9bb12745ba8d171045fb0",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:24.932Z"
     },
     {
       "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/pourquoi-les-pieces-interchangeables-ont-elles-change-la-fabrication-des-objets",
@@ -3322,6 +3835,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T21:02:07.828Z"
+    },
+    {
+      "path": "/industries/materiaux-et-procedes/mise-en-forme/peut-on-recycler-les-aimants-des-eoliennes-et-des-voitures-electriques",
+      "visualRefs": ["schema:magnetLoop"],
+      "fingerprint": "1a5284bc0a457005140937627e65b024b834feacde0848350ce1d5f555142b37",
+      "contentHash": "76bdbcd668bca992e6680bd3272d127dff706b9f2e2dbd2abce638870913b6d9",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:25.665Z"
     },
     {
       "path": "/industries/materiaux-et-procedes/mise-en-forme/soudage",
@@ -3684,6 +4206,15 @@
       "reviewedAt": "2026-11-14T21:33:54.448Z"
     },
     {
+      "path": "/micro-informatique-et-informatique/materiel/processeurs/asml-lithographie-euv",
+      "visualRefs": ["schema:euvMirrors"],
+      "fingerprint": "aa9263fb9dc1bea7318e2f5e66f678dfc4ce6bd7e58990f70c72efd4b98abdc4",
+      "contentHash": "bbe89f38ab47a710e68066e491630acaf4ee358c43439de208d3d65f247a6577",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:22.771Z"
+    },
+    {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/cartes-graphiques",
       "visualRefs": ["schema:graphicParallel"],
       "fingerprint": "06a48b448dadf8a5324fcdc2663ad2e9ddd98b873943d3c5213be033cb18190c",
@@ -3700,6 +4231,15 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:51:05.830Z"
+    },
+    {
+      "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-fonctionne-un-processeur-quantique-a-qubits-supraconducteurs",
+      "visualRefs": ["schema:superconductingQubit"],
+      "fingerprint": "7091a09db56f731387d0cc6c52778e16837bf8a2271e0b89433d21b75f616b9d",
+      "contentHash": "8414e5c4693331f9e069d1bd3e3fcd9ba1a4ee07b0515d8124b183dd3fdd558e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:22.773Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur",
@@ -3720,6 +4260,24 @@
       "reviewedAt": "2026-11-20T21:02:09.208Z"
     },
     {
+      "path": "/micro-informatique-et-informatique/materiel/processeurs/les-processeurs-specialises-pour-l-intelligence-artificielle",
+      "visualRefs": ["schema:matrixProcessor"],
+      "fingerprint": "2fe26b165634ae1c0664cdd78d3b460201ecedd33e32f382e62e515963e0f327",
+      "contentHash": "c51b8619073bc8110f76a3024f8db6f73fb5799636e1afc00accb4088b905105",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:23.431Z"
+    },
+    {
+      "path": "/micro-informatique-et-informatique/materiel/processeurs/loi-moore",
+      "visualRefs": ["schema:mooreGrowth"],
+      "fingerprint": "6fbe3c185fc7104c1233f6afa5a36125490d7d59801b762e356cc892eb9580e0",
+      "contentHash": "c87d648c42a9851b1c71de48f7d0cf42e1867b787050c297e925fd0387396207",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:23.450Z"
+    },
+    {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/pourquoi-un-ordinateur-a-t-il-besoin-d-un-ventilateur",
       "visualRefs": ["schema:cpucooling"],
       "fingerprint": "fee5ae026b22454de3d8f745da238369add7e251665fc141802c7143d84bf9a3",
@@ -3727,6 +4285,15 @@
       "quality": "validee",
       "evidence": "docs/qa/explorations50/README.md",
       "reviewedAt": "2026-11-14T21:33:53.072Z"
+    },
+    {
+      "path": "/micro-informatique-et-informatique/materiel/processeurs/que-change-le-fait-qu-une-architecture-de-processeur-soit-libre-comme-risc-v",
+      "visualRefs": ["schema:riscInterface"],
+      "fingerprint": "c6b6233761cb79cd00cb247d8eb2049d313b03c3f11c2a638ab4ced6799a87c0",
+      "contentHash": "54ba1ec0d005619ddc027f55fa4094071b696b946e7a7df31773df7bc6c46b83",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:23.426Z"
     },
     {
       "path": "/micro-informatique-et-informatique/reseaux-et-securite/chiffrement/comment-le-chiffre-de-vigenere-cachait-il-un-message-mieux-que-celui-de-cesar",
@@ -3756,6 +4323,15 @@
       "reviewedAt": "2026-11-14T21:33:53.215Z"
     },
     {
+      "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-internet-arrive-t-il-par-satellite-dans-les-endroits-isoles",
+      "visualRefs": ["schema:satelliteBackhaul"],
+      "fingerprint": "9ab2e911054b5d8c133f418d00cb474008edfe98fe7ab6ec669805c2b6b133ae",
+      "contentHash": "9f578726ded8f2101fe08dc18aae3b6ce912a41b946bc806dc168ec900c3f30a",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:23.508Z"
+    },
+    {
       "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-internet-traverse-t-il-les-oceans",
       "visualRefs": ["schema:subseacable"],
       "fingerprint": "18a27684381735aaedc9a2c7da50bc13406e6bd8a44bc55fe5a89d404322dbfb",
@@ -3772,6 +4348,15 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:51:05.913Z"
+    },
+    {
+      "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/reseaux-locaux-sans-internet",
+      "visualRefs": ["schema:localNetwork"],
+      "fingerprint": "02275ef08d1e01149f8ff43c84d40bfd103b6bc7354c6eb9234665e81c86a8c4",
+      "contentHash": "e4afaac62f56cff304ff95d10ca9cf761078819522e955a78ac3c33f561c7391",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:23.503Z"
     },
     {
       "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/comment-une-couche-de-paille-protege-t-elle-le-sol-d-un-potager",
@@ -4224,6 +4809,15 @@
       "reviewedAt": "2026-11-12T13:51:06.622Z"
     },
     {
+      "path": "/sciences-fondamentales/physique/electromagnetisme/electricite-et-magnetisme-un-seul-phenomene",
+      "visualRefs": ["schema:electricMagnetic"],
+      "fingerprint": "7d7f0dd975a7e17472bc9d0a4e71eae838d755b5175db8df4b54c4108b66b5b2",
+      "contentHash": "76a1452ee428cf02655a5e710338cf918db14f15bff9479e5da019409091e599",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:24.153Z"
+    },
+    {
       "path": "/sciences-fondamentales/physique/electromagnetisme/lentilles-optique",
       "visualRefs": ["schema:lens"],
       "fingerprint": "4ad94217baf9b235238976bf4290eba6765fd8665f7f5b9d2e01ece5c819473b",
@@ -4305,6 +4899,15 @@
       "reviewedAt": "2026-11-20T12:15:10.750Z"
     },
     {
+      "path": "/sciences-fondamentales/physique/physique-quantique/dualite-onde-corpuscule",
+      "visualRefs": ["schema:particleWave"],
+      "fingerprint": "84d11130c123052f14f37b91f9d22cbefd504ce85c3415d467c04fbf3742717b",
+      "contentHash": "fd024ec8025417c9c08fa50535125c5984a6b38cb78ce77125b85d32466a09a1",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:24.152Z"
+    },
+    {
       "path": "/sciences-fondamentales/physique/physique-quantique/pourquoi-la-lumiere-d-un-laser-est-elle-si-differente-de-celle-d-une-lampe",
       "visualRefs": ["schema:laserbeam"],
       "fingerprint": "815490b06987c427ab3f0c3b880e805c69acee9e63a3087e82bc685ff58e17da",
@@ -4321,6 +4924,15 @@
       "quality": "validee",
       "evidence": "docs/qa/lesson-visuals-batch50/README.md",
       "reviewedAt": "2026-11-12T08:39:13.741Z"
+    },
+    {
+      "path": "/sciences-fondamentales/physique/thermodynamique/les-deux-principes-de-la-thermodynamique",
+      "visualRefs": ["schema:thermoLaws"],
+      "fingerprint": "dc02cb63aedd7b18c2208950807d9c3c3e03126a40c69d869cccf12358be26a6",
+      "contentHash": "ac4e3975611df68d7d3564dfdd437071683e5b7857e9d5fc6754b19f094eadd2",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:24.156Z"
     },
     {
       "path": "/sciences-fondamentales/physique/thermodynamique/les-echelles-de-temperature-celsius-fahrenheit-et-kelvin",
@@ -4431,6 +5043,51 @@
       "reviewedAt": "2026-11-20T21:02:09.986Z"
     },
     {
+      "path": "/sciences-humaines-et-sociales/economie/macroeconomie/inflation-comment-ca-marche",
+      "visualRefs": ["schema:priceBasket"],
+      "fingerprint": "17739952c17ef7d4778625d3232419f2d575ace9ff9eac80fdc4d9c013a69308",
+      "contentHash": "b19d6c00d1c8690d093687e65d7922c353126e49d10b7e2ea2f849871a4e4be8",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:27.056Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/economie/macroeconomie/le-role-du-chomage-comme-indicateur-macroeconomique-majeur",
+      "visualRefs": ["schema:unemploymentBase"],
+      "fingerprint": "a943980fe55e30e6fb182591630b80b6877c1f8e06dde17a2b555faa8587e475",
+      "contentHash": "4d94d0703c64912aad1bdd5d8a2c90a07ff5dad7f6e311d1e2cd029d40baccf9",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:27.100Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/economie/macroeconomie/perspectives-de-croissance-mondiale-fmi-2025",
+      "visualRefs": ["schema:realProduction"],
+      "fingerprint": "61c06b214402f2accd48ba75e91212fb369a4ee43d95bc49815eaaa7dc5dcdd6",
+      "contentHash": "0631a168c5d3609a0b92e47ff43f3a52fcffb10ff1573aeefdcb9077766ac26a",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:27.728Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/economie/macroeconomie/troc-invention-monnaie",
+      "visualRefs": ["schema:barterExchange"],
+      "fingerprint": "20f1c1d3ea5021575eb5d12e343df42ed016e6f546f3d024b462ccfe64a3705d",
+      "contentHash": "d9d1dbd12c3e9ceebdc33b641fa3695302ff637922750020ab4e48d9fd37f925",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:27.749Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/economie/microeconomie/comment-pousser-les-gens-a-mieux-choisir-sans-rien-leur-interdire",
+      "visualRefs": ["schema:choiceArchitecture"],
+      "fingerprint": "e0fe860e5d6b0bb112ac47ba71282f0c87b3f2aad59ff55c43fd0c0f535d0840",
+      "contentHash": "0d3720a89ea6da49536b70909fb5c94308988f7525b9c36b95b90713a9441813",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:25.656Z"
+    },
+    {
       "path": "/sciences-humaines-et-sociales/economie/microeconomie/comptabilite-partie-double",
       "visualRefs": ["schema:accountingEntries"],
       "fingerprint": "994c9147817f91650442103e89424847f0e354bf7a70343b2ff6bc6664001868",
@@ -4458,6 +5115,15 @@
       "reviewedAt": "2026-11-20T21:02:10.618Z"
     },
     {
+      "path": "/sciences-humaines-et-sociales/economie/microeconomie/les-monopoles-et-leur-impact-sur-le-fonctionnement-d-un-marche",
+      "visualRefs": ["schema:marketEntry"],
+      "fingerprint": "6f78a514790237bca3f3f8d5cffd1b5c28769c99f52a560a313902337611dc3d",
+      "contentHash": "a1632bd9f2de9bdd47da6977f8ce4b3f2bc9dcde0a8428b8fa5c0becd3405936",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:27.754Z"
+    },
+    {
       "path": "/sciences-humaines-et-sociales/economie/microeconomie/pourquoi-la-pollution-d-une-usine-coute-t-elle-aussi-a-ses-voisins",
       "visualRefs": ["schema:externalCost"],
       "fingerprint": "0129b2af0127a67af388640a3acdaa133775455dbe48064be250ecdf7790c19b",
@@ -4465,6 +5131,42 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T21:02:09.985Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/economie/microeconomie/pourquoi-perdre-une-somme-fait-il-plus-mal-que-gagner-la-meme-somme-ne-fait-plaisir",
+      "visualRefs": ["schema:gainLoss"],
+      "fingerprint": "7d2f1fda6a20337c9d90e2100be1d74012e48c6b602fd70b94e3d2e9ccafce11",
+      "contentHash": "631a790738a2b284028770285d2c6361314e56322ab719a50a02c6150527ab4a",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:25.704Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/economie/microeconomie/principes-offre-et-demande",
+      "visualRefs": ["schema:priceIntersection"],
+      "fingerprint": "28aa362f7254011ecb1cca2b8fcfaab5922842e3ae8db524195046696e1e7206",
+      "contentHash": "749625609fa6f55e4185d165a1ffdd356af8bb195f2596b063c1de9a9513bddc",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:27.750Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/histoire/epoque-contemporaine/grandes-transformations-epoque-contemporaine",
+      "visualRefs": ["schema:industrialTransition"],
+      "fingerprint": "9a9d0151bcd569582ed416c3b02f06d96ebae3eb77b78a268d68e6eeed9a6578",
+      "contentHash": "09334080fc1f4f1ab42bbb0a199a94e58d319c75ee3a900f0f0feca04feb79e8",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:27.779Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/histoire/epoque-contemporaine/plan-marshall-reconstruction-europe",
+      "visualRefs": ["schema:marshallAid"],
+      "fingerprint": "0c224dd997d0fe70ec61c6f8c510b7a7282dfe9317125fa22eafa1921382b24a",
+      "contentHash": "0ec5a5fc3958154d7e4b77b8d5bc36029d7f483ec35de4add6c42ccacb5d422d",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:28.392Z"
     },
     {
       "path": "/sciences-humaines-et-sociales/histoire/methode-historique/comment-le-carbone-14-permet-il-de-dater-un-os-ou-un-morceau-de-bois",
@@ -4503,6 +5205,24 @@
       "reviewedAt": "2026-11-20T21:02:03.925Z"
     },
     {
+      "path": "/sciences-humaines-et-sociales/histoire/prehistoire/revolution-neolithique",
+      "visualRefs": ["schema:neolithicVillage"],
+      "fingerprint": "31b81224de101758b6194a2d32fd78ee960ec973c6a2d8618922b2337c419157",
+      "contentHash": "275743a22728f0e9a10c5d0ede3f280586bc8c83bbce277c4db950a4bdc1e60e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:28.488Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/psychologie/biais-cognitifs/l-effet-dunning-kruger-surestimer-sa-propre-competence",
+      "visualRefs": ["schema:skillCalibration"],
+      "fingerprint": "12c3bc8cdaf36063c8756888797b8c45c2d86a07f92cfbe49c81276c65f5396d",
+      "contentHash": "fd80a06c8e9bd95995eb7d7e09e8c251839b4fe4ab8337b99c05f8fe2c32bb01",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:26.341Z"
+    },
+    {
       "path": "/sciences-humaines-et-sociales/psychologie/biais-cognitifs/pourquoi-ne-regarder-que-les-reussites-nous-trompe-t-il",
       "visualRefs": ["schema:missingFailures"],
       "fingerprint": "ce7ddbe82d53c07dcca813031e95f81b671e2b47796d35b57c3bd226c84f95f9",
@@ -4512,6 +5232,33 @@
       "reviewedAt": "2026-11-20T20:18:06.918Z"
     },
     {
+      "path": "/sciences-humaines-et-sociales/psychologie/biais-cognitifs/pourquoi-remet-on-a-demain-ce-qu-on-sait-devoir-faire-aujourd-hui",
+      "visualRefs": ["schema:smallStart"],
+      "fingerprint": "a503315a2ced2db09d2eb228faa2823dfab50020b8ee360d4b279f389e605976",
+      "contentHash": "216c590f94476dee779924df9b27401f5d5370a19cf75099a0f0c8b214111085",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:26.339Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/psychologie/cognition/apprendre-efficacement",
+      "visualRefs": ["schema:retrievalPractice"],
+      "fingerprint": "f3bc37ef60c29cb362418a53fbe88a5fcee9c9664ab67ff73f419bce77acc035",
+      "contentHash": "6929fdd75ec87e301303e5a119c8ee7a014dd0d97116724ab99e1dd82f00ae7e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:26.339Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/psychologie/cognition/former-de-bonnes-habitudes",
+      "visualRefs": ["schema:habitCue"],
+      "fingerprint": "ce61e37798636873878398b45a2ba9ce71ff6bc0eb78b4b38cb84dc6a8f5b8bb",
+      "contentHash": "41473b6bbcbf6c9fe29d130571c547db1ace5030629bf0c120a653a3b55367cc",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:26.431Z"
+    },
+    {
       "path": "/sciences-humaines-et-sociales/psychologie/cognition/pourquoi-ne-peut-on-pas-bien-faire-deux-choses-a-la-fois",
       "visualRefs": ["schema:taskSwitching"],
       "fingerprint": "793c9e9002f5d9e04d83c4784f0edcfded5581ee8fb714a4e2519931a24033ce",
@@ -4519,6 +5266,42 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T21:02:10.605Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/psychologie/cognition/processus-cognitifs-memoire-attention",
+      "visualRefs": ["schema:attentionGate"],
+      "fingerprint": "13905f168cf262883467dbf94e946af6e825d5279d0cf52adde7bce619bfbb8b",
+      "contentHash": "2d08094875e94311345dd3bde4af84f7adf0e1ac6c7de5b6f6d8b4f5df192915",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:26.457Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/psychologie/developpement/stades-developpement-enfant-piaget",
+      "visualRefs": ["schema:objectPermanence"],
+      "fingerprint": "f28321aa4e248bc78cc81f6cbf96ccad2e3451b4b6358fd2fb229c3997a14ee4",
+      "contentHash": "d597baf9b67dcc685eff4045ee7262dc60a3a081dd84314cb1cf216d9f1a14a8",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:27.077Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/sociologie/education-et-mobilite/comment-le-monde-a-t-il-appris-a-lire-et-a-ecrire",
+      "visualRefs": ["schema:writingSystems"],
+      "fingerprint": "87d408364e1479f0c3600534ec9e33abe4ab0c8e58576c2b5965dfcea4ed56c9",
+      "contentHash": "74761efb6183be8c8522722e04b07fd5cc77c2ff546ab3b32a6d8e3301006615",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:28.514Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/sociologie/education-et-mobilite/transmettre-savoirs",
+      "visualRefs": ["schema:skillTransfer"],
+      "fingerprint": "5641a3c87cd9b9c19b81811c19dfcbd8928ca122240b65e9964520ea94041441",
+      "contentHash": "0f774fd0cf4f8f625975a38867b892bb84ce1adbf1379d6cfbb8abc4902d15fa",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:27.051Z"
     },
     {
       "path": "/sciences-humaines-et-sociales/sociologie/groupes-et-normes/conformite-et-obeissance",
@@ -4539,6 +5322,15 @@
       "reviewedAt": "2026-11-20T21:02:10.628Z"
     },
     {
+      "path": "/sciences-humaines-et-sociales/sociologie/groupes-et-normes/ecoute-active-communication",
+      "visualRefs": ["schema:activeListening"],
+      "fingerprint": "2df4fab099434a3b65c2907c5a082484be71f1fdc8d78499fac4c4ecf4accdd6",
+      "contentHash": "f7cb5d6d8ca8dbb21605718ab2d404babda6efbdce5acd67feaa6f1c6785677e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:27.048Z"
+    },
+    {
       "path": "/sciences-humaines-et-sociales/sociologie/groupes-et-normes/pourquoi-une-rumeur-se-deforme-t-elle-en-passant-de-bouche-en-bouche",
       "visualRefs": ["schema:rumorChain"],
       "fingerprint": "b5cd2a283e2cdd2073ecc8e7c79abea1575bdf11824ecf240d7c558f2224476e",
@@ -4548,6 +5340,15 @@
       "reviewedAt": "2026-11-20T20:18:06.947Z"
     },
     {
+      "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs/comment-le-basket-ball-a-t-il-ete-invente",
+      "visualRefs": ["schema:firstBasket"],
+      "fingerprint": "5c32a42600c536a64edbe45c037696d6775614a3cedf56db1a3ba449c58f50ad",
+      "contentHash": "65581fca5a4b1da967ef47cb2da25c6e4082c13d2bac28899a99905e356b3c8d",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:28.511Z"
+    },
+    {
       "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs/pourquoi-au-rugby-fait-on-des-passes-vers-l-arriere",
       "visualRefs": ["schema:rugbypass"],
       "fingerprint": "3314807f5afa6d779da6c03e2d9658b3fe7b41ec5190ab21789b883af7326b31",
@@ -4555,6 +5356,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
       "reviewedAt": "2026-11-19T09:10:36.929Z"
+    },
+    {
+      "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs/que-font-les-scientifiques-et-les-statisticiens-dans-une-equipe-de-haut-niveau",
+      "visualRefs": ["schema:sportTracking"],
+      "fingerprint": "a9985a16e92f24848616f559cee7a6463b07ede5ecbd93ffb48e72e6a981aa25",
+      "contentHash": "33501e3d1c32b31800500d852402b9eaf7d66ef2de73e371e1460022f37364a8",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:28.512Z"
     },
     {
       "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/comment-joue-t-on-au-basket-en-fauteuil-roulant",
@@ -4575,6 +5385,24 @@
       "reviewedAt": "2026-11-20T09:19:40.058Z"
     },
     {
+      "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/sport-adapte-et-classification",
+      "visualRefs": ["schema:paraClassification"],
+      "fingerprint": "e51a1725bf6b5451e29128a8d664c9eada0513bcaabdf79bf2ea28ac8e493074",
+      "contentHash": "3c9e05bee9f36252bb60ab1eea2318fe44ae3d861728d5556e563dd155303cae",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:29.175Z"
+    },
+    {
+      "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/les-records-de-1968-a-mexico-et-l-altitude",
+      "visualRefs": ["schema:altitudeTrack"],
+      "fingerprint": "8a1276b9eb8bacea18fef7123e60eba38ea35cd227fee54b91e2e81bfaf6ba65",
+      "contentHash": "ddb582985c06391669c8427243e7c6b14c8708bcb1eed97fedb163968952c560",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:29.230Z"
+    },
+    {
       "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/pourquoi-le-crawl-est-il-la-nage-la-plus-rapide",
       "visualRefs": ["schema:crawl"],
       "fingerprint": "1bef6f8516c063e8fedcd454fac5f56f669e016ee18a2596f9d62b78f9c3f29e",
@@ -4582,6 +5410,24 @@
       "quality": "validee",
       "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T12:15:10.185Z"
+    },
+    {
+      "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/pourquoi-les-records-du-monde-tombent-ils-moins-vite-qu-avant",
+      "visualRefs": ["schema:recordFrontier"],
+      "fingerprint": "f87c1ff26d52f1fa334bac9eddf991f9f8ea0ac90c7d4eed6770546db33fceff",
+      "contentHash": "ae6ba6b17f0ace84441c3a755930ca397eaf220787e55342c2fd47d4dbc6820e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:29.230Z"
+    },
+    {
+      "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/filieres-energetiques-du-muscle",
+      "visualRefs": ["schema:muscleEnergy"],
+      "fingerprint": "a2fd447c3b1281e0e545997ac1c5e0ea3c4981790d1375af97a1837d1f3df881",
+      "contentHash": "22e35aa50cc0751cf2e628d1d98ca32bb0745bca9f3066936b42be5d0aa1a1f8",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:29.249Z"
     },
     {
       "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/marcher-et-porter-longtemps",
@@ -4593,6 +5439,15 @@
       "reviewedAt": "2026-11-20T21:02:09.988Z"
     },
     {
+      "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/pourquoi-le-coeur-bat-il-plus-vite-quand-on-fait-du-sport",
+      "visualRefs": ["schema:effortHeart"],
+      "fingerprint": "27e8191a70ed3443b5673787f4fe537f40469e2299b632bb0c5ca59a2fefa279",
+      "contentHash": "1c187f6e0d6362399e1590d01ca30dec09fbd894949d1c0ca6ae8912ddf55244",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:29.235Z"
+    },
+    {
       "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/pourquoi-transpire-t-on-autant-quand-on-fait-du-sport-sous-la-chaleur",
       "visualRefs": ["schema:sweatcool"],
       "fingerprint": "648f2278df63fa2f5d06bc1103cb036abfaa71e0dd1cfa0046fcc26f194a49dc",
@@ -4600,6 +5455,33 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
       "reviewedAt": "2026-11-19T09:10:37.190Z"
+    },
+    {
+      "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement/comment-les-muscles-deviennent-ils-plus-forts-avec-l-entrainement",
+      "visualRefs": ["schema:muscleAdaptation"],
+      "fingerprint": "0301cee6a8cdf2746326998ac85647f11ac26fb54335f65589febc2bca36e1d8",
+      "contentHash": "4207edb4cfb278f826987c8336db4dc797762d337858ede4bb242dab183b9f00",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:29.823Z"
+    },
+    {
+      "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement/principes-periodisation-entrainement-sportif",
+      "visualRefs": ["schema:trainingCycle"],
+      "fingerprint": "85514079c15605c391fe8df95b2dd133df11d4b902f902ab8948afa3700d0f10",
+      "contentHash": "093d47005060a72416dff1552a7340b00745f44bc281a9dfe7ee0337b983d46d",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:29.861Z"
+    },
+    {
+      "path": "/sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante/que-mesure-vraiment-le-capteur-au-dos-d-une-montre-connectee-et-peut-on-s-y-fier",
+      "visualRefs": ["schema:opticalWatch"],
+      "fingerprint": "7f100b2d320b76a2b00b13dce3abb3b7b4fc590a69a182e27cf77a6ba22d5bae",
+      "contentHash": "f46361469ab9112d5fd8ec49589ea911d96181c381d1655e4bebfb7899d760d9",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:29.875Z"
     },
     {
       "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/comment-choisir-un-materiau",
@@ -4654,6 +5536,15 @@
       "quality": "validee",
       "evidence": "docs/qa/lesson-visuals-batch50/README.md",
       "reviewedAt": "2026-11-12T08:39:13.930Z"
+    },
+    {
+      "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/reconnaitre-recuperer-materiaux",
+      "visualRefs": ["schema:materialRecovery"],
+      "fingerprint": "d9df9c1f6acc693383ba42cf09e7d0b848bf51139dc051f618578b445cf1fbb5",
+      "contentHash": "a7705b7093690c51cad74c0e5ed41222707def220bfe64dda45b2e0a5abcb1bd",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:22.697Z"
     },
     {
       "path": "/technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience/pourquoi-construit-on-les-batiments-et-les-machines-plus-solides-que-necessaire",
@@ -4744,6 +5635,15 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:51:07.424Z"
+    },
+    {
+      "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/construire-route-durable",
+      "visualRefs": ["schema:roadDrainage"],
+      "fingerprint": "53ba2c9830226050893f3f06b92d999cb3520b556ad366efcf9524c7450ee603",
+      "contentHash": "631605ef314f80ff029969e7d47d3ab4cd06ec217665d1a364804716fb9f7974",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
+      "reviewedAt": "2026-11-22T12:25:22.713Z"
     },
     {
       "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/ponts-et-entretien-des-ouvrages",
