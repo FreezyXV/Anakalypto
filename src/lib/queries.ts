@@ -192,6 +192,7 @@ export type ArticlePage = {
   ancestors: Array<{ name: string; path: string }>;
   tags: Array<{ slug: string; name: string }>;
   sources: Array<{
+    id: string;
     title: string;
     url: string;
     publisher: string | null;
@@ -257,6 +258,7 @@ export async function getArticleByPath(
     ancestors,
     tags: article.tags.map((link) => ({ slug: link.tag.slug, name: link.tag.name })),
     sources: article.sources.map((source) => ({
+      id: source.id,
       title: source.title,
       url: source.url,
       publisher: source.publisher,

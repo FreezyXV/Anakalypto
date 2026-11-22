@@ -1,0 +1,502 @@
+[
+  {
+    "path": "/geographie-et-territoires/geographie-humaine/demographie/huit-milliards-dhabitants",
+    "status": "READY",
+    "visualRefs": ["schema:populationGrid"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-humaine/demographie/pourquoi-certains-departements-francais-gagnent-ils-des-habitants-et-d-autres-en-perdent-ils",
+    "status": "READY",
+    "visualRefs": ["schema:departmentBalance"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-humaine/migrations/migrations-realites-et-idees-recues",
+    "status": "READY",
+    "visualRefs": ["schema:migrationStock"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-humaine/pourquoi-tant-de-monde-vit-il-sur-un-si-petit-bout-de-cote-en-france",
+    "status": "READY",
+    "visualRefs": ["schema:crowdedCoast"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-humaine/urbanisation/urbanisation-mondiale-onu",
+    "status": "READY",
+    "visualRefs": ["schema:cityGrowth"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-physique/pourquoi-les-outre-mer-donnent-ils-a-la-france-un-territoire-si-disperse",
+    "status": "READY",
+    "visualRefs": ["schema:overseasScale"]
+  },
+  {
+    "path": "/geographie-et-territoires/geopolitique/frontieres/comment-partage-t-on-la-mer-entre-les-pays",
+    "status": "READY",
+    "visualRefs": ["schema:marineZones"]
+  },
+  {
+    "path": "/geographie-et-territoires/geopolitique/frontieres/differend-frontalier-essequibo-guyana-venezuela",
+    "status": "READY",
+    "visualRefs": ["schema:borderMap"]
+  },
+  {
+    "path": "/geographie-et-territoires/geopolitique/ressources/ressources-territoire",
+    "status": "READY",
+    "visualRefs": ["schema:territoryAssets"]
+  },
+  {
+    "path": "/geographie-et-territoires/geopolitique/routes-et-detroits/naviguer-sans-gps",
+    "status": "READY",
+    "visualRefs": ["schema:chartCompass"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutriments/macronutriments/role-glucides-lipides-proteines",
+    "status": "READY",
+    "visualRefs": ["schema:macroNutrients"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutriments/macronutriments/acides-gras-essentiels",
+    "status": "READY",
+    "visualRefs": ["schema:essentialFat"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutriments/micronutriments/pourquoi-dit-on-que-les-carottes-font-voir-dans-le-noir",
+    "status": "READY",
+    "visualRefs": ["schema:carrotVision"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/chaine-du-froid-et-risque-microbiologique",
+    "status": "READY",
+    "visualRefs": ["schema:coldContinuity"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/appertisation-et-sterilisation",
+    "status": "READY",
+    "visualRefs": ["schema:sealedPreserve"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/la-conservation-par-le-sel-salaisons-et-saumures",
+    "status": "READY",
+    "visualRefs": ["schema:saltWaterActivity"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/algues-ressource-avenir",
+    "status": "READY",
+    "visualRefs": ["schema:seaweedLayers"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/additifs-alimentaires",
+    "status": "READY",
+    "visualRefs": ["schema:emulsionAdditive"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/cuisson-et-nutriments",
+    "status": "READY",
+    "visualRefs": ["schema:cookingRetention"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/edulcorants",
+    "status": "READY",
+    "visualRefs": ["schema:sweetnessDose"]
+  },
+  {
+    "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/pourquoi-certains-pigments-des-maitres-anciens-etaient-ils-dangereux",
+    "status": "READY",
+    "visualRefs": ["schema:pigmentLayers"]
+  },
+  {
+    "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/salvator-mundi-record-denchere",
+    "status": "READY",
+    "visualRefs": ["schema:paintingAuction"]
+  },
+  {
+    "path": "/arts-et-culture/patrimoine/musees-et-conservation/liste-du-patrimoine-mondial-unesco",
+    "status": "READY",
+    "visualRefs": ["schema:heritageListing"]
+  },
+  {
+    "path": "/communication-et-medias/histoire-des-medias/radio-et-television/la-radio-comme-outil-d-alerte-en-cas-de-catastrophe",
+    "status": "READY",
+    "visualRefs": ["schema:radioAlert"]
+  },
+  {
+    "path": "/communication-et-medias/histoire-des-medias/radio-et-television/television-du-direct-au-flux-a-la-demande",
+    "status": "READY",
+    "visualRefs": ["schema:tvSchedule"]
+  },
+  {
+    "path": "/communication-et-medias/information-et-verification/education-aux-medias/education-aux-medias-et-a-linformation",
+    "status": "READY",
+    "visualRefs": ["schema:verifyClaim"]
+  },
+  {
+    "path": "/communication-et-medias/information-et-verification/journalisme/comment-les-journalistes-verifient-ils-une-information-avant-de-la-publier",
+    "status": "READY",
+    "visualRefs": ["schema:newsroomCheck"]
+  },
+  {
+    "path": "/communication-et-medias/information-et-verification/journalisme/crise-economique-de-la-presse",
+    "status": "READY",
+    "visualRefs": ["schema:pressRevenue"]
+  },
+  {
+    "path": "/communication-et-medias/information-et-verification/journalisme/secret-des-sources-et-protection-des-journalistes",
+    "status": "READY",
+    "visualRefs": ["schema:protectedSource"]
+  },
+  {
+    "path": "/communication-et-medias/medias-numeriques/web/web-ouvert-et-plateformes-fermees",
+    "status": "READY",
+    "visualRefs": ["schema:openWeb"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/histoire-innovations-automobiles",
+    "status": "READY",
+    "visualRefs": ["schema:autoInnovations"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/production/matieres-premieres-automobile-lithium-cobalt-nickel",
+    "status": "READY",
+    "visualRefs": ["schema:carMaterialChain"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/production/production-automobile-mondiale",
+    "status": "READY",
+    "visualRefs": ["schema:carFactoryNetwork"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/production/semi-conducteurs-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:autoChipSupply"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/reglementation-automobile/rappels-automobiles-securite",
+    "status": "READY",
+    "visualRefs": ["schema:recallTrace"]
+  },
+  {
+    "path": "/automobile/motorisations/electrique/voiture-electrique",
+    "status": "READY",
+    "visualRefs": ["schema:evPower"]
+  },
+  {
+    "path": "/automobile/motorisations/thermique/distribution-variable-turbocompresseur",
+    "status": "READY",
+    "visualRefs": ["schema:valveTiming"]
+  },
+  {
+    "path": "/automobile/motorisations/thermique/pompes-voiture-thermique",
+    "status": "READY",
+    "visualRefs": ["schema:enginePumps"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/diagnostic-electronique-reparation-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:diagnosticChain"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/recyclage-batteries-vehicules-electriques",
+    "status": "READY",
+    "visualRefs": ["schema:batteryMaterials"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/ergonomie-fatigue-conduite",
+    "status": "READY",
+    "visualRefs": ["schema:drivingFatigue"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/bruit-routier-sante-et-pneus",
+    "status": "READY",
+    "visualRefs": ["schema:trafficNoise"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/eco-conduite-consommation-securite",
+    "status": "READY",
+    "visualRefs": ["schema:anticipationEnergy"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/analyse-du-cycle-de-vie-dune-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:vehicleLifeCycle"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/augmentation-poids-voitures",
+    "status": "READY",
+    "visualRefs": ["schema:vehicleMass"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/mobilite-partagee/autopartage-et-covoiturage",
+    "status": "READY",
+    "visualRefs": ["schema:sharedMobility"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/vehicules-utilitaires-transport-marchandises",
+    "status": "READY",
+    "visualRefs": ["schema:utilityPayload"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/voiture-espace-urbain-stationnement",
+    "status": "READY",
+    "visualRefs": ["schema:streetCrossSection"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/reconnaitre-recuperer-materiaux",
+    "status": "READY",
+    "visualRefs": ["schema:materialRecovery"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/construire-route-durable",
+    "status": "READY",
+    "visualRefs": ["schema:roadDrainage"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/asml-lithographie-euv",
+    "status": "READY",
+    "visualRefs": ["schema:euvMirrors"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-fonctionne-un-processeur-quantique-a-qubits-supraconducteurs",
+    "status": "READY",
+    "visualRefs": ["schema:superconductingQubit"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/les-processeurs-specialises-pour-l-intelligence-artificielle",
+    "status": "READY",
+    "visualRefs": ["schema:matrixProcessor"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/que-change-le-fait-qu-une-architecture-de-processeur-soit-libre-comme-risc-v",
+    "status": "READY",
+    "visualRefs": ["schema:riscInterface"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/loi-moore",
+    "status": "READY",
+    "visualRefs": ["schema:mooreGrowth"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/reseaux-locaux-sans-internet",
+    "status": "READY",
+    "visualRefs": ["schema:localNetwork"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-internet-arrive-t-il-par-satellite-dans-les-endroits-isoles",
+    "status": "READY",
+    "visualRefs": ["schema:satelliteBackhaul"]
+  },
+  {
+    "path": "/sciences-fondamentales/physique/electromagnetisme/electricite-et-magnetisme-un-seul-phenomene",
+    "status": "READY",
+    "visualRefs": ["schema:electricMagnetic"]
+  },
+  {
+    "path": "/sciences-fondamentales/physique/physique-quantique/dualite-onde-corpuscule",
+    "status": "READY",
+    "visualRefs": ["schema:particleWave"]
+  },
+  {
+    "path": "/sciences-fondamentales/physique/thermodynamique/les-deux-principes-de-la-thermodynamique",
+    "status": "READY",
+    "visualRefs": ["schema:thermoLaws"]
+  },
+  {
+    "path": "/energie/energies-renouvelables/capter-transformer-stocker-energie-naturelle",
+    "status": "READY",
+    "visualRefs": ["schema:energyServices"]
+  },
+  {
+    "path": "/energie/energies-renouvelables/solaire/energies-renouvelables-panorama",
+    "status": "READY",
+    "visualRefs": ["schema:renewableProfiles"]
+  },
+  {
+    "path": "/energie/reseaux-et-stockage/batteries/la-chimie-lfp-lithium-fer-phosphate-plus-stable-et-moins-chere",
+    "status": "READY",
+    "visualRefs": ["schema:lfpCell"]
+  },
+  {
+    "path": "/industries/industrie-manufacturiere/automatisation/automatisation-industrielle-robotique-production",
+    "status": "READY",
+    "visualRefs": ["schema:factoryArm"]
+  },
+  {
+    "path": "/industries/industrie-manufacturiere/chaine-logistique/qu-est-ce-qu-un-fab-lab-et-que-peut-on-y-fabriquer",
+    "status": "READY",
+    "visualRefs": ["schema:fabPrototype"]
+  },
+  {
+    "path": "/industries/industrie-manufacturiere/chaine-logistique/stocker-conserver-marchandises",
+    "status": "READY",
+    "visualRefs": ["schema:warehouseFlow"]
+  },
+  {
+    "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/pourquoi-le-monde-a-t-il-besoin-de-normes-communes-comme-celles-de-l-iso",
+    "status": "READY",
+    "visualRefs": ["schema:sharedStandard"]
+  },
+  {
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/peut-on-recycler-les-aimants-des-eoliennes-et-des-voitures-electriques",
+    "status": "READY",
+    "visualRefs": ["schema:magnetLoop"]
+  },
+  {
+    "path": "/environnement-et-climat/biodiversite/especes-menacees/liste-rouge-uicn-2025-biodiversite",
+    "status": "READY",
+    "visualRefs": ["schema:extinctionRisk"]
+  },
+  {
+    "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/adaptation-au-changement-climatique",
+    "status": "READY",
+    "visualRefs": ["schema:floodAdaptation"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/microeconomie/comment-pousser-les-gens-a-mieux-choisir-sans-rien-leur-interdire",
+    "status": "READY",
+    "visualRefs": ["schema:choiceArchitecture"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/microeconomie/pourquoi-perdre-une-somme-fait-il-plus-mal-que-gagner-la-meme-somme-ne-fait-plaisir",
+    "status": "READY",
+    "visualRefs": ["schema:gainLoss"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/psychologie/biais-cognitifs/l-effet-dunning-kruger-surestimer-sa-propre-competence",
+    "status": "READY",
+    "visualRefs": ["schema:skillCalibration"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/psychologie/biais-cognitifs/pourquoi-remet-on-a-demain-ce-qu-on-sait-devoir-faire-aujourd-hui",
+    "status": "READY",
+    "visualRefs": ["schema:smallStart"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/psychologie/cognition/apprendre-efficacement",
+    "status": "READY",
+    "visualRefs": ["schema:retrievalPractice"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/psychologie/cognition/former-de-bonnes-habitudes",
+    "status": "READY",
+    "visualRefs": ["schema:habitCue"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/psychologie/cognition/processus-cognitifs-memoire-attention",
+    "status": "READY",
+    "visualRefs": ["schema:attentionGate"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/psychologie/developpement/stades-developpement-enfant-piaget",
+    "status": "READY",
+    "visualRefs": ["schema:objectPermanence"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/sociologie/education-et-mobilite/transmettre-savoirs",
+    "status": "READY",
+    "visualRefs": ["schema:skillTransfer"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/sociologie/groupes-et-normes/ecoute-active-communication",
+    "status": "READY",
+    "visualRefs": ["schema:activeListening"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/macroeconomie/inflation-comment-ca-marche",
+    "status": "READY",
+    "visualRefs": ["schema:priceBasket"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/macroeconomie/le-role-du-chomage-comme-indicateur-macroeconomique-majeur",
+    "status": "READY",
+    "visualRefs": ["schema:unemploymentBase"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/macroeconomie/perspectives-de-croissance-mondiale-fmi-2025",
+    "status": "READY",
+    "visualRefs": ["schema:realProduction"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/macroeconomie/troc-invention-monnaie",
+    "status": "READY",
+    "visualRefs": ["schema:barterExchange"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/microeconomie/les-monopoles-et-leur-impact-sur-le-fonctionnement-d-un-marche",
+    "status": "READY",
+    "visualRefs": ["schema:marketEntry"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/microeconomie/principes-offre-et-demande",
+    "status": "READY",
+    "visualRefs": ["schema:priceIntersection"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/histoire/epoque-contemporaine/grandes-transformations-epoque-contemporaine",
+    "status": "READY",
+    "visualRefs": ["schema:industrialTransition"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/histoire/epoque-contemporaine/plan-marshall-reconstruction-europe",
+    "status": "READY",
+    "visualRefs": ["schema:marshallAid"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/histoire/prehistoire/revolution-neolithique",
+    "status": "READY",
+    "visualRefs": ["schema:neolithicVillage"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/sociologie/education-et-mobilite/comment-le-monde-a-t-il-appris-a-lire-et-a-ecrire",
+    "status": "READY",
+    "visualRefs": ["schema:writingSystems"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs/comment-le-basket-ball-a-t-il-ete-invente",
+    "status": "READY",
+    "visualRefs": ["schema:firstBasket"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs/que-font-les-scientifiques-et-les-statisticiens-dans-une-equipe-de-haut-niveau",
+    "status": "READY",
+    "visualRefs": ["schema:sportTracking"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/sport-adapte-et-classification",
+    "status": "READY",
+    "visualRefs": ["schema:paraClassification"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/les-records-de-1968-a-mexico-et-l-altitude",
+    "status": "READY",
+    "visualRefs": ["schema:altitudeTrack"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/pourquoi-les-records-du-monde-tombent-ils-moins-vite-qu-avant",
+    "status": "READY",
+    "visualRefs": ["schema:recordFrontier"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/filieres-energetiques-du-muscle",
+    "status": "READY",
+    "visualRefs": ["schema:muscleEnergy"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/pourquoi-le-coeur-bat-il-plus-vite-quand-on-fait-du-sport",
+    "status": "READY",
+    "visualRefs": ["schema:effortHeart"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement/comment-les-muscles-deviennent-ils-plus-forts-avec-l-entrainement",
+    "status": "READY",
+    "visualRefs": ["schema:muscleAdaptation"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante/que-mesure-vraiment-le-capteur-au-dos-d-une-montre-connectee-et-peut-on-s-y-fier",
+    "status": "READY",
+    "visualRefs": ["schema:opticalWatch"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement/principes-periodisation-entrainement-sportif",
+    "status": "READY",
+    "visualRefs": ["schema:trainingCycle"]
+  }
+]

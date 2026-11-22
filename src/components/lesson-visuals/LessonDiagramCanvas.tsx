@@ -1,5 +1,6 @@
 import { EverydayDrawing } from "./EverydayDrawing";
 import { Thematic50Drawing } from "./Thematic50Drawing";
+import { Atlas100Drawing, hasAtlas100Drawing } from "./Atlas100Drawing";
 import { Atlas65Drawing, hasAtlas65Drawing } from "./Atlas65Drawing";
 import { TelecomHorizonsDrawing } from "./TelecomHorizonsDrawings";
 import { AutoHorizonsDrawing } from "./AutoHorizonsDrawings";
@@ -155,7 +156,9 @@ export function LessonDiagramCanvas({
         <AISocietyDrawing {...props} />
         <LearningProcessDrawing {...props} />
         <EverydayDrawing {...props} />
-        {hasAtlas65Drawing(spec.id) ? (
+        {hasAtlas100Drawing(spec.id) ? (
+          <Atlas100Drawing {...props} />
+        ) : hasAtlas65Drawing(spec.id) ? (
           <Atlas65Drawing {...props} />
         ) : (
           <Thematic50Drawing {...props} />

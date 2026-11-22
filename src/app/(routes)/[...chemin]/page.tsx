@@ -397,7 +397,7 @@ async function ArticleView({ article }: { article: ArticlePage }) {
             <div className="box__body">
               <ol className="space-y-3">
                 {article.sources.map((source) => (
-                  <li key={source.url} className="max-w-reading leading-relaxed">
+                  <li key={source.id} className="max-w-reading leading-relaxed">
                     <a
                       href={source.url}
                       rel="noopener noreferrer nofollow"
