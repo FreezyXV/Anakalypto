@@ -1,7 +1,7 @@
 "use client";
 
 import { useId, useState, type ReactNode } from "react";
-import type { LessonDiagramStep } from "@/lib/lesson-visuals/registry";
+import type { LessonDiagramSteps } from "@/lib/lesson-visuals/registry";
 import styles from "./LessonDiagram.module.css";
 
 /** No persistence, timer or animation. Keyboard and touch use the same native buttons. */
@@ -10,7 +10,7 @@ export function LessonDiagramExplorer({
   steps,
 }: {
   frames: ReactNode[];
-  steps: readonly [LessonDiagramStep, LessonDiagramStep, LessonDiagramStep];
+  steps: LessonDiagramSteps;
 }) {
   const [current, setCurrent] = useState(0);
   const pane = useId();

@@ -137,27 +137,29 @@ describe("lesson-specific illustrations", () => {
       ),
     ).toBeUndefined();
   });
-  it("renders a distinct drawing, caption and explanation for all three authored states", () => {
+  it("renders a distinct drawing, caption and explanation for each of two to four states", () => {
     for (const [index, spec] of LESSON_DIAGRAMS.entries()) {
-      expect(spec.steps).toHaveLength(3);
-      expect(new Set(spec.steps.map((s) => s.caption)).size, spec.id).toBe(3);
-      const frames = [0, 1, 2].map((step) => render(index, step));
+      expect(spec.steps.length).toBeGreaterThanOrEqual(2);
+      expect(spec.steps.length).toBeLessThanOrEqual(4);
+      expect(new Set(spec.steps.map((s) => s.caption)).size, spec.id).toBe(spec.steps.length);
+      expect(new Set(spec.steps.map((s) => s.label)).size, spec.id).toBe(spec.steps.length);
+      const frames = spec.steps.map((_, step) => render(index, step));
       for (const [step, html] of frames.entries()) {
         expect(html).not.toMatch(/(?:NaN|undefined|Infinity)/);
         expect(html).toContain(`data-frame="${step}"`);
         expect(html).toContain("<figcaption>");
         expect(spec.steps[step]!.detail.length).toBeGreaterThan(60);
       }
-      expect(new Set(frames.map(art)).size, spec.id).toBe(3);
+      expect(new Set(frames.map(art)).size, spec.id).toBe(spec.steps.length);
     }
   });
-  it("scopes paint definitions even when a poster and three frames share one page", () => {
+  it("scopes paint definitions when a poster and all frames share one page", () => {
     for (const spec of LESSON_DIAGRAMS) {
       const html = renderToStaticMarkup(
         createElement(
           "div",
           null,
-          ...[0, 1, 2, 2].map((step, key) =>
+          ...[...spec.steps.map((_, step) => step), lessonPosterFrame(spec)].map((step, key) =>
             createElement(LessonDiagramCanvas, { key, spec, step }),
           ),
         ),
@@ -169,7 +171,10 @@ describe("lesson-specific illustrations", () => {
     }
   });
   it("uses representative covers rather than a stall or a charging state by default", () => {
-    for (const s of LESSON_DIAGRAMS) expect([0, 1, 2]).toContain(lessonPosterFrame(s));
+    for (const s of LESSON_DIAGRAMS) {
+      expect(lessonPosterFrame(s)).toBeGreaterThanOrEqual(0);
+      expect(lessonPosterFrame(s)).toBeLessThan(s.steps.length);
+    }
     expect(lessonPosterFrame(LESSON_DIAGRAMS.find((s) => s.id === "lift")!)).toBe(0);
     expect(lessonPosterFrame(LESSON_DIAGRAMS.find((s) => s.id === "battery")!)).toBe(0);
     expect(lessonPosterFrame(LESSON_DIAGRAMS.find((s) => s.id === "lens")!)).toBe(1);
