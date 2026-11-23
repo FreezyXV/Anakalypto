@@ -1,3 +1,4 @@
+import { DETAILED_LESSON_DIAGRAMS } from "../src/lib/lesson-visuals/detailed20261123";
 import { ATLAS100_DIAGRAMS } from "../src/lib/lesson-visuals/atlas100";
 import { ATLAS65_DIAGRAMS } from "../src/lib/lesson-visuals/atlas65";
 import { THEMATIC50_DIAGRAMS } from "../src/lib/lesson-visuals/thematic50";
@@ -29,6 +30,7 @@ it("preserves all 153 previously delivered drawings in all three views", () => {
       ...HORIZONS50_DIAGRAMS,
       ...EVERYDAY_DIAGRAMS,
       ...ATLAS100_DIAGRAMS,
+      ...DETAILED_LESSON_DIAGRAMS,
       ...ATLAS65_DIAGRAMS,
       ...THEMATIC50_DIAGRAMS,
     ].map((s) => s.id),

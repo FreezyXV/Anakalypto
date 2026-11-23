@@ -1,16 +1,16 @@
 # Inventaire des illustrations
 
-Photographie de la file backend exportée le 2026-11-22. L’export lit les états des leçons publiées. L’objectif porte sur un catalogue d’environ 1 000 leçons.
+Photographie de la file backend exportée le 2026-11-23. L’export lit les états des leçons publiées. L’objectif porte sur un catalogue d’environ 1 000 leçons.
 
 | État                                       | Nombre |
 | ------------------------------------------ | -----: |
 | Leçons publiées                            |    948 |
 | Leçons avec schéma éditorial               |    948 |
 | Nombre de schémas éditoriaux               |    965 |
-| Leçons avec dessin ou atelier              |    648 |
+| Leçons avec dessin ou atelier              |    748 |
 | Sans aucun visuel                          |      0 |
-| Illustration incluse et vérifiée           |    648 |
-| En attente de dessin spécifique            |    300 |
+| Illustration incluse et vérifiée           |    748 |
+| En attente de dessin spécifique            |    200 |
 | À vérifier                                 |      0 |
 | À améliorer, défaut enregistré             |      0 |
 | Réservées, sous-ensemble non additionnable |      0 |
@@ -18,24 +18,24 @@ Photographie de la file backend exportée le 2026-11-22. L’export lit les éta
 | Domaine                            | Publiées | Prêtes | À améliorer | À vérifier | Sans dessin |
 | ---------------------------------- | -------: | -----: | ----------: | ---------: | ----------: |
 | aeronautique                       |       37 |     37 |           0 |          0 |           0 |
-| alimentation-et-nutrition          |       92 |     40 |           0 |          0 |          52 |
+| alimentation-et-nutrition          |       92 |     53 |           0 |          0 |          39 |
 | arts-et-culture                    |       43 |     43 |           0 |          0 |           0 |
-| automobile                         |       90 |     66 |           0 |          0 |          24 |
-| communication-et-medias            |       45 |     32 |           0 |          0 |          13 |
-| corps-humain-et-sante              |       65 |     17 |           0 |          0 |          48 |
-| droit-et-justice                   |       44 |      0 |           0 |          0 |          44 |
-| energie                            |       60 |     53 |           0 |          0 |           7 |
-| environnement-et-climat            |       40 |     33 |           0 |          0 |           7 |
+| automobile                         |       90 |     83 |           0 |          0 |           7 |
+| communication-et-medias            |       45 |     40 |           0 |          0 |           5 |
+| corps-humain-et-sante              |       65 |     23 |           0 |          0 |          42 |
+| droit-et-justice                   |       44 |      7 |           0 |          0 |          37 |
+| energie                            |       60 |     60 |           0 |          0 |           0 |
+| environnement-et-climat            |       40 |     38 |           0 |          0 |           2 |
 | espace-et-astronomie               |       37 |     37 |           0 |          0 |           0 |
-| geographie-et-territoires          |       37 |     33 |           0 |          0 |           4 |
+| geographie-et-territoires          |       37 |     36 |           0 |          0 |           1 |
 | industries                         |       41 |     37 |           0 |          0 |           4 |
 | intelligence-artificielle          |       23 |     23 |           0 |          0 |           0 |
-| micro-informatique-et-informatique |       43 |     33 |           0 |          0 |          10 |
-| sciences-du-vivant-appliquees      |       46 |     18 |           0 |          0 |          28 |
-| sciences-fondamentales             |       67 |     57 |           0 |          0 |          10 |
-| sciences-humaines-et-sociales      |       58 |     34 |           0 |          0 |          24 |
-| sport-et-sciences-du-mouvement     |       36 |     16 |           0 |          0 |          20 |
-| technologies-et-ingenierie         |       44 |     39 |           0 |          0 |           5 |
+| micro-informatique-et-informatique |       43 |     37 |           0 |          0 |           6 |
+| sciences-du-vivant-appliquees      |       46 |     24 |           0 |          0 |          22 |
+| sciences-fondamentales             |       67 |     64 |           0 |          0 |           3 |
+| sciences-humaines-et-sociales      |       58 |     36 |           0 |          0 |          22 |
+| sport-et-sciences-du-mouvement     |       36 |     29 |           0 |          0 |           7 |
+| technologies-et-ingenierie         |       44 |     41 |           0 |          0 |           3 |
 
 [Références complètes](VISUAL_INVENTORY.csv) · [Travail restant](VISUAL_BACKLOG.csv) · [États backend JSON](ILLUSTRATION_STATUS.json) · [Guide des agents](ILLUSTRATION_BACKEND.md).
 

@@ -1,0 +1,502 @@
+[
+  {
+    "path": "/alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire/agriculture-biologique",
+    "status": "READY",
+    "visualRefs": ["schema:detailOrganicParcel"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire/agriculture-regeneratrice",
+    "status": "READY",
+    "visualRefs": ["schema:detailLivingCover"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire/bien-etre-animal",
+    "status": "READY",
+    "visualRefs": ["schema:detailAnimalHousing"]
+  },
+  {
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/forets-du-monde-et-deforestation",
+    "status": "READY",
+    "visualRefs": ["schema:detailForestMosaic"]
+  },
+  {
+    "path": "/environnement-et-climat/changement-climatique/scenarios/le-climat-et-la-biodiversite-sont-ils-deux-crises-separees-ou-une-seule",
+    "status": "READY",
+    "visualRefs": ["schema:detailClimateHabitats"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-humaine/urbanisation/organiser-village-autonome",
+    "status": "READY",
+    "visualRefs": ["schema:detailVillageServices"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-physique/climatologie/calendrier-saisons-cultures",
+    "status": "READY",
+    "visualRefs": ["schema:detailSeasonalBeds"]
+  },
+  {
+    "path": "/geographie-et-territoires/geographie-physique/climatologie/prevoir-temps-sans-instruments",
+    "status": "READY",
+    "visualRefs": ["schema:detailFutureClouds"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/agriculture-durable-dans-le-monde",
+    "status": "READY",
+    "visualRefs": ["schema:detailFarmBalances"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/elevage-traction-animale",
+    "status": "READY",
+    "visualRefs": ["schema:detailAnimalTraction"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutriments/eau-et-hydratation/besoins-en-eau-et-hydratation",
+    "status": "READY",
+    "visualRefs": ["schema:detailWaterBalance"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutriments/eau-et-hydratation/pourquoi-a-t-on-soif",
+    "status": "READY",
+    "visualRefs": ["schema:detailThirstSignal"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutriments/macronutriments/index-et-charge-glycemiques",
+    "status": "READY",
+    "visualRefs": ["schema:detailGlycemicCurve"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutriments/micronutriments/antinutriments-phytates-lectines",
+    "status": "READY",
+    "visualRefs": ["schema:detailMineralBinding"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutriments/micronutriments/vitamines-mineraux-essentiels",
+    "status": "READY",
+    "visualRefs": ["schema:detailMicroNutrients"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-dents",
+    "status": "READY",
+    "visualRefs": ["schema:detailToothFood"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-os",
+    "status": "READY",
+    "visualRefs": ["schema:detailBoneMatrix"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-vue",
+    "status": "READY",
+    "visualRefs": ["schema:detailRetinaNutrients"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/reperes-nutritionnels/nutri-score-principe-et-limites",
+    "status": "READY",
+    "visualRefs": ["schema:detailScoreLabel"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/aliments-ultra-transformes-classification-nova",
+    "status": "READY",
+    "visualRefs": ["schema:detailIngredientStages"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/marche/cout-total-possession-voiture",
+    "status": "READY",
+    "visualRefs": ["schema:detailOwnershipCosts"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/marche/essor-suv-marche-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:detailSuvSpace"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/marche/location-longue-duree-propriete-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:detailLeaseReturn"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/marche/marche-automobile-mondial-regions",
+    "status": "READY",
+    "visualRefs": ["schema:detailCarMarket"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/marche/marche-de-loccasion-et-valeur-residuelle",
+    "status": "READY",
+    "visualRefs": ["schema:detailValueCurve"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/reglementation-automobile/controle-technique-securite-pollution",
+    "status": "READY",
+    "visualRefs": ["schema:detailInspectionBench"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/reglementation-automobile/pourquoi-la-norme-euro-7-s-interesse-t-elle-aussi-aux-freins-et-aux-pneus",
+    "status": "READY",
+    "visualRefs": ["schema:detailAbrasionSources"]
+  },
+  {
+    "path": "/automobile/motorisations/electrique/emballement-thermique-batterie-electrique",
+    "status": "READY",
+    "visualRefs": ["schema:detailHotCellPack"]
+  },
+  {
+    "path": "/automobile/motorisations/thermique/le-systeme-de-depollution-des-moteurs-diesel-adblue",
+    "status": "READY",
+    "visualRefs": ["schema:detailDieselFilters"]
+  },
+  {
+    "path": "/automobile/motorisations/thermique/moteur-diesel-principe-et-declin",
+    "status": "READY",
+    "visualRefs": ["schema:detailCompressionIgnition"]
+  },
+  {
+    "path": "/automobile/motorisations/thermique/voiture-thermique-chaine-complete",
+    "status": "READY",
+    "visualRefs": ["schema:detailThermalChain"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/aides-a-la-conduite/technologies-aide-conduite-efficacite",
+    "status": "READY",
+    "visualRefs": ["schema:detailDrivingAssistScope"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/conduite-autonome/niveaux-dautomatisation-de-la-conduite",
+    "status": "READY",
+    "visualRefs": ["schema:detailDrivingRoles"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/securite-passive/ceinture-airbag-et-structures-deformables",
+    "status": "READY",
+    "visualRefs": ["schema:detailDeformingBodywork"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/securite-passive/crash-tests-etoiles-securite",
+    "status": "READY",
+    "visualRefs": ["schema:detailCrashLab"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/securite-passive/securite-pietons-cyclistes-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:detailRoadUsers"]
+  },
+  {
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/duree-vie-voiture-kilometrage-entretien",
+    "status": "READY",
+    "visualRefs": ["schema:detailWearPaths"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/apprendre-nager",
+    "status": "READY",
+    "visualRefs": ["schema:detailSwimmingDrag"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/comment-une-corde-d-escalade-arrete-t-elle-la-chute-d-un-grimpeur",
+    "status": "READY",
+    "visualRefs": ["schema:detailRopeStretch"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/sport-et-societe/dopage/des-chaussures-qui-font-courir-plus-vite-est-ce-du-dopage-technologique",
+    "status": "READY",
+    "visualRefs": ["schema:detailPlateShoe"]
+  },
+  {
+    "path": "/communication-et-medias/telecommunications/reseaux-mobiles/deploiement-5g-et-perspectives-6g",
+    "status": "READY",
+    "visualRefs": ["schema:detailRadioCapacity"]
+  },
+  {
+    "path": "/communication-et-medias/telecommunications/reseaux-mobiles/que-change-chaque-generation-de-reseau-mobile-de-la-2g-a-la-5g",
+    "status": "READY",
+    "visualRefs": ["schema:detailMobileGenerations"]
+  },
+  {
+    "path": "/communication-et-medias/telecommunications/satellites/comment-un-telephone-satellite-fonctionne-t-il-loin-de-toute-antenne-relais",
+    "status": "READY",
+    "visualRefs": ["schema:detailHandsetRelay"]
+  },
+  {
+    "path": "/energie/energies-renouvelables/eolien/construire-petite-eolienne",
+    "status": "READY",
+    "visualRefs": ["schema:detailRotorInduction"]
+  },
+  {
+    "path": "/energie/reseaux-et-stockage/hydrogene/la-molecule-d-hydrogene-et-ses-proprietes-energetiques",
+    "status": "READY",
+    "visualRefs": ["schema:detailHydrogenDensity"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/logiciel/systemes-d-exploitation/le-role-du-noyau-dans-l-architecture-d-un-systeme-d-exploitation",
+    "status": "READY",
+    "visualRefs": ["schema:detailKernelGate"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/logiciel/systemes-d-exploitation/remettre-marche-vieil-ordinateur",
+    "status": "READY",
+    "visualRefs": ["schema:detailArchivedComputer"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/gravure-2-nanometres-tsmc",
+    "status": "READY",
+    "visualRefs": ["schema:detailGateThickness"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/fonctionnement-internet-acces-mondial",
+    "status": "READY",
+    "visualRefs": ["schema:detailPacketJourney"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/robotique/robots-mobiles/que-peuvent-faire-les-robots-sur-un-chantier-et-pourquoi-n-y-remplacent-ils-pas-les-ouvriers",
+    "status": "READY",
+    "visualRefs": ["schema:detailJobsiteRobot"]
+  },
+  {
+    "path": "/energie/efficacite-et-sobriete/usages-et-consommation/d-ou-vient-l-electricite-que-l-on-consomme-en-france",
+    "status": "READY",
+    "visualRefs": ["schema:detailFrenchGridFlows"]
+  },
+  {
+    "path": "/energie/energies-fossiles-et-nucleaire/charbon/charbon-premiere-source-delectricite",
+    "status": "READY",
+    "visualRefs": ["schema:detailCoalSteam"]
+  },
+  {
+    "path": "/energie/energies-fossiles-et-nucleaire/hydrocarbures/consommation-mondiale-petrole-gaz",
+    "status": "READY",
+    "visualRefs": ["schema:detailFossilInputs"]
+  },
+  {
+    "path": "/energie/energies-fossiles-et-nucleaire/nucleaire/etat-du-parc-nucleaire-mondial",
+    "status": "READY",
+    "visualRefs": ["schema:detailReactorFleet"]
+  },
+  {
+    "path": "/energie/reseaux-et-stockage/batteries/prix-des-batteries-lithium-ion-2025",
+    "status": "READY",
+    "visualRefs": ["schema:detailPackPrice"]
+  },
+  {
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/assainissement-autonome-toilettes-seches",
+    "status": "READY",
+    "visualRefs": ["schema:detailDrainagePlot"]
+  },
+  {
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/rendre-eau-potable",
+    "status": "READY",
+    "visualRefs": ["schema:detailWaterTreatment"]
+  },
+  {
+    "path": "/environnement-et-climat/pollution-et-ressources/qualite-de-l-air/la-pollution-de-l-air-interieur-un-risque-meconnu",
+    "status": "READY",
+    "visualRefs": ["schema:detailIndoorAir"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese/un-plastique-d-origine-vegetale-est-il-forcement-biodegradable",
+    "status": "READY",
+    "visualRefs": ["schema:detailMaterialAxes"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/empreinte-carbone-du-ciment",
+    "status": "READY",
+    "visualRefs": ["schema:detailCementKiln"]
+  },
+  {
+    "path": "/corps-humain-et-sante/anatomie/pourquoi-un-bebe-a-t-il-plus-d-os-qu-un-adulte",
+    "status": "READY",
+    "visualRefs": ["schema:detailGrowingSkeleton"]
+  },
+  {
+    "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/a-quoi-sert-la-douleur",
+    "status": "READY",
+    "visualRefs": ["schema:detailPainSignal"]
+  },
+  {
+    "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/plasticite-cerebrale",
+    "status": "READY",
+    "visualRefs": ["schema:detailSynapseRemodel"]
+  },
+  {
+    "path": "/corps-humain-et-sante/anatomie/systeme-respiratoire/pourquoi-manque-t-on-de-souffle-en-altitude-alors-que-l-air-reste-le-meme",
+    "status": "READY",
+    "visualRefs": ["schema:detailAltitudeLung"]
+  },
+  {
+    "path": "/corps-humain-et-sante/physiologie/sommeil/pourquoi-a-t-on-parfois-l-impression-de-tomber-juste-avant-de-s-endormir",
+    "status": "READY",
+    "visualRefs": ["schema:detailSleepStart"]
+  },
+  {
+    "path": "/corps-humain-et-sante/prevention-et-sante-publique/depistage/comment-verifie-t-on-qu-un-bebe-entend-bien-des-sa-naissance",
+    "status": "READY",
+    "visualRefs": ["schema:detailEarScreen"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/medecine/imagerie-medicale/comment-un-rouleau-de-papier-a-t-il-donne-naissance-au-stethoscope",
+    "status": "READY",
+    "visualRefs": ["schema:detailListeningTube"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/medecine/imagerie-medicale/examiner-patient-sans-machine",
+    "status": "READY",
+    "visualRefs": ["schema:detailPhysicalExam"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/medecine/imagerie-medicale/techniques-imagerie-medicale",
+    "status": "READY",
+    "visualRefs": ["schema:detailImagingSlice"]
+  },
+  {
+    "path": "/sciences-fondamentales/biologie/evolution/comment-les-animaux-des-profondeurs-survivent-ils-a-une-pression-ecrasante",
+    "status": "READY",
+    "visualRefs": ["schema:detailAbyssPressure"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs/big-count-fifa-265-millions-de-joueurs",
+    "status": "READY",
+    "visualRefs": ["schema:detailFifaCount"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/records-donnees-reference-athletisme",
+    "status": "READY",
+    "visualRefs": ["schema:detailCompareTrack"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention/a-quoi-sert-vraiment-l-echauffement-et-vaut-il-mieux-s-etirer-avant-l-effort",
+    "status": "READY",
+    "visualRefs": ["schema:detailWarmupLoad"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention/blessures-et-charge-dentrainement",
+    "status": "READY",
+    "visualRefs": ["schema:detailLoadRecovery"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/l-acide-lactique-est-il-vraiment-responsable-des-courbatures",
+    "status": "READY",
+    "visualRefs": ["schema:detailFiberSoreness"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/pourquoi-une-crampe-surgit-elle-en-plein-effort-et-que-sait-on-vraiment-de-ses-causes",
+    "status": "READY",
+    "visualRefs": ["schema:detailMuscleSpasm"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement/faut-il-manger-tout-de-suite-apres-l-entrainement-pour-mieux-progresser",
+    "status": "READY",
+    "visualRefs": ["schema:detailMealRecovery"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement/les-champions-d-endurance-s-entrainent-en-montagne-pourquoi-leur-sang-produit-il-plus-de-globules-rouges",
+    "status": "READY",
+    "visualRefs": ["schema:detailRedCellAltitude"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement/que-mesure-vraiment-la-variabilite-cardiaque-ce-chiffre-qui-promet-de-dire-si-vous-etes-recupere",
+    "status": "READY",
+    "visualRefs": ["schema:detailPulseTiming"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante/porter-soulever-sans-blesser",
+    "status": "READY",
+    "visualRefs": ["schema:detailLiftingMoment"]
+  },
+  {
+    "path": "/communication-et-medias/information-et-verification/desinformation/ampleur-desinformation-en-ligne",
+    "status": "READY",
+    "visualRefs": ["schema:detailInformationSample"]
+  },
+  {
+    "path": "/communication-et-medias/information-et-verification/desinformation/contenus-synthetiques-et-hypertrucages",
+    "status": "READY",
+    "visualRefs": ["schema:detailSyntheticProvenance"]
+  },
+  {
+    "path": "/communication-et-medias/information-et-verification/education-aux-medias/pourquoi-certaines-personnes-evitent-elles-les-actualites",
+    "status": "READY",
+    "visualRefs": ["schema:detailNewsAvoidance"]
+  },
+  {
+    "path": "/communication-et-medias/medias-numeriques/reseaux-sociaux/economie-de-lattention-et-fils-algorithmiques",
+    "status": "READY",
+    "visualRefs": ["schema:detailFeedRanking"]
+  },
+  {
+    "path": "/communication-et-medias/medias-numeriques/reseaux-sociaux/utilisateurs-reseaux-sociaux-monde",
+    "status": "READY",
+    "visualRefs": ["schema:detailAccountCounts"]
+  },
+  {
+    "path": "/droit-et-justice/droit-prive/droit-civil/code-civil-des-francais-1804",
+    "status": "READY",
+    "visualRefs": ["schema:detailCivilCode"]
+  },
+  {
+    "path": "/droit-et-justice/droit-prive/droit-civil/propriete-cadastre",
+    "status": "READY",
+    "visualRefs": ["schema:detailParcelTitle"]
+  },
+  {
+    "path": "/droit-et-justice/droit-prive/droit-civil/qu-est-ce-qui-distingue-le-droit-d-auteur-le-brevet-et-la-marque",
+    "status": "READY",
+    "visualRefs": ["schema:detailInventionRights"]
+  },
+  {
+    "path": "/sciences-fondamentales/mathematiques/geometrie/arpenter-mesurer-terrain",
+    "status": "READY",
+    "visualRefs": ["schema:detailSurveyBaseline"]
+  },
+  {
+    "path": "/sciences-fondamentales/physique/electromagnetisme/pourquoi-un-motif-de-vannerie-japonaise-intrigue-t-il-les-physiciens-des-supraconducteurs",
+    "status": "READY",
+    "visualRefs": ["schema:detailKagomeWeave"]
+  },
+  {
+    "path": "/droit-et-justice/droit-public/droit-constitutionnel/pourquoi-une-loi-ne-peut-elle-pas-contredire-la-constitution",
+    "status": "READY",
+    "visualRefs": ["schema:detailNormReview"]
+  },
+  {
+    "path": "/droit-et-justice/droit-public/droit-constitutionnel/separation-des-pouvoirs",
+    "status": "READY",
+    "visualRefs": ["schema:detailSeparateInstitutions"]
+  },
+  {
+    "path": "/droit-et-justice/justice-et-institutions/metiers-du-droit/metiers-de-la-justice",
+    "status": "READY",
+    "visualRefs": ["schema:detailCourtroomRoles"]
+  },
+  {
+    "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-du-travail/le-bulletin-de-salaire-comment-le-lire",
+    "status": "READY",
+    "visualRefs": ["schema:detailPayslipFlow"]
+  },
+  {
+    "path": "/sciences-fondamentales/physique/mecanique/pourquoi-les-objets-tombent-ils-si-la-gravite-n-est-pas-une-force-pour-einstein",
+    "status": "READY",
+    "visualRefs": ["schema:detailFreeFallGrid"]
+  },
+  {
+    "path": "/sciences-fondamentales/physique/mecanique/quelles-sont-les-quatre-forces-qui-gouvernent-tout-l-univers",
+    "status": "READY",
+    "visualRefs": ["schema:detailInteractionsScale"]
+  },
+  {
+    "path": "/sciences-fondamentales/physique/physique-quantique/correction-derreurs-quantiques-willow",
+    "status": "READY",
+    "visualRefs": ["schema:detailLogicalQubit"]
+  },
+  {
+    "path": "/sciences-fondamentales/sciences-de-la-terre/geologie/trouver-minerais",
+    "status": "READY",
+    "visualRefs": ["schema:detailGeologicalOre"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/histoire/prehistoire/homo-naledi-species-debattue",
+    "status": "READY",
+    "visualRefs": ["schema:detailNalediLayers"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/histoire/prehistoire/outils-pierre",
+    "status": "READY",
+    "visualRefs": ["schema:detailChippedStone"]
+  }
+]

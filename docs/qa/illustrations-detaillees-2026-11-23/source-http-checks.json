@@ -1,0 +1,734 @@
+[
+  {
+    "drawing": "detailOrganicParcel",
+    "status": 200,
+    "url": "https://agriculture.ec.europa.eu/farming/organic-farming/organic-production-and-products_en",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailLivingCover",
+    "status": 0,
+    "url": "https://www.nrcs.usda.gov/conservation-basics/soil/soil-health/cover-crops-for-soil-health",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Fiche Cover Crops for Soil Health ouverte par un autre accès web."
+  },
+  {
+    "drawing": "detailAnimalHousing",
+    "status": 200,
+    "url": "https://www.anses.fr/fr/article/anses-definition-du-bien-etre-animal",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailForestMosaic",
+    "status": 200,
+    "url": "https://www.fao.org/forest-resources-assessment/en/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailClimateHabitats",
+    "status": 403,
+    "url": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-2/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailVillageServices",
+    "status": 200,
+    "url": "https://sdgs.un.org/goals",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailSeasonalBeds",
+    "status": 403,
+    "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/planting-the-vegetable-garden",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailFutureClouds",
+    "status": 200,
+    "url": "https://meteofrance.com/meteo-a-z/les-differents-types-de-nuages",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailFarmBalances",
+    "status": 200,
+    "url": "https://www.fao.org/agroecology/overview/overview10elements/en/",
+    "redirect": "https://www.fao.org/agroecology/overview/the-10-elements-of-agroecology/en",
+    "timeout": false
+  },
+  {
+    "drawing": "detailAnimalTraction",
+    "status": 403,
+    "url": "https://www.fao.org/family-farming/detail/en/c/1619223/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailWaterBalance",
+    "status": 403,
+    "url": "https://www.efsa.europa.eu/en/efsajournal/pub/1459",
+    "redirect": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1459",
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailThirstSignal",
+    "status": 200,
+    "url": "https://openstax.org/books/introduction-behavioral-neuroscience/pages/16-5-neural-control-of-drinking-behavior",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailGlycemicCurve",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18835944/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Étude et méthode de l’Université de Sydney vérifiées par un autre accès web."
+  },
+  {
+    "drawing": "detailMineralBinding",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/6496386/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Étude d’absorption du zinc ouverte par un autre accès web."
+  },
+  {
+    "drawing": "detailMicroNutrients",
+    "status": 200,
+    "url": "https://www.who.int/health-topics/micronutrients",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailToothFood",
+    "status": 200,
+    "url": "https://www.nidcr.nih.gov/health-info/tooth-decay/more-info/tooth-decay-process",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailBoneMatrix",
+    "status": 403,
+    "url": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailRetinaNutrients",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28973076/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Essai sur le pigment maculaire ouvert par un autre accès web."
+  },
+  {
+    "drawing": "detailScoreLabel",
+    "status": 200,
+    "url": "https://www.santepubliquefrance.fr/content/download/150262/file/FAQ-updatedAlgo-FR_20240404.pdf",
+    "redirect": "https://www.santepubliquefrance.fr/",
+    "timeout": false
+  },
+  {
+    "drawing": "detailIngredientStages",
+    "status": 200,
+    "url": "https://iris.paho.org/bitstream/handle/10665.2/7699/9789275118641_eng.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailOwnershipCosts",
+    "status": 200,
+    "url": "https://theshiftproject.org/app/uploads/2026/06/Projet-Auto-et-Mobilites-Note-thematique-TCO-et-VO.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailSuvSpace",
+    "status": 200,
+    "url": "https://www.iea.org/commentaries/as-their-sales-continue-to-rise-suvs-global-co2-emissions-are-nearing-1-billion-tonnes",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailLeaseReturn",
+    "status": 403,
+    "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/location-avec-option-dachat-loa-dun-vehicule-quelles-sont-les-regles-connaitre",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailCarMarket",
+    "status": 200,
+    "url": "https://oica.net/sales-statistics/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailValueCurve",
+    "status": 200,
+    "url": "https://theshiftproject.org/app/uploads/2026/06/Projet-Auto-et-Mobilites-Note-thematique-TCO-et-VO.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailInspectionBench",
+    "status": 200,
+    "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2878",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailAbrasionSources",
+    "status": 202,
+    "url": "https://eur-lex.europa.eu/eli/reg/2024/1257/oj",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailHotCellPack",
+    "status": 200,
+    "url": "https://iieta.org/node/9927",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailDieselFilters",
+    "status": 200,
+    "url": "https://afdc.energy.gov/vehicles/how-do-diesel-cars-work",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailCompressionIgnition",
+    "status": 200,
+    "url": "https://afdc.energy.gov/vehicles/how-do-diesel-cars-work",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailThermalChain",
+    "status": 200,
+    "url": "https://afdc.energy.gov/vehicles/how-do-gasoline-cars-work",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailDrivingAssistScope",
+    "status": 200,
+    "url": "https://www.euroncap.com/en/car-safety/the-ratings-explained/safety-assist/aeb-car-to-car/",
+    "redirect": "https://www.euroncap.com/what-makes-a-car-safer/",
+    "timeout": false
+  },
+  {
+    "drawing": "detailDrivingRoles",
+    "status": 200,
+    "url": "https://www.sae.org/binaries/content/assets/cm/content/blog/sae-j3016-visual-chart_5.3.21.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailDeformingBodywork",
+    "status": 200,
+    "url": "https://www.euroncap.com/en/car-safety/the-ratings-explained/adult-occupant-protection/",
+    "redirect": "https://www.euroncap.com/what-makes-a-car-safer/",
+    "timeout": false
+  },
+  {
+    "drawing": "detailCrashLab",
+    "status": 200,
+    "url": "https://www.euroncap.com/en/car-safety/the-ratings-explained",
+    "redirect": "https://www.euroncap.com/how-are-cars-tested-for-safety/",
+    "timeout": false
+  },
+  {
+    "drawing": "detailRoadUsers",
+    "status": 200,
+    "url": "https://aaafoundation.org/impact-speed-pedestrians-risk-severe-injury-death/",
+    "redirect": "https://aaafoundation.org/research/impact-speed-pedestrians-risk-severe-injury-death/",
+    "timeout": false
+  },
+  {
+    "drawing": "detailWearPaths",
+    "status": 200,
+    "url": "https://www.statistiques.developpement-durable.gouv.fr/397-millions-de-voitures-en-circulation-en-france-au-1er-janvier-2025",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailSwimmingDrag",
+    "status": 200,
+    "url": "https://www.philaymca.org/news/basic-swimming-skills-everyone-should-learn",
+    "redirect": "https://www.philaymca.org/news/basic-swimming-skills-everyone-should-learn/",
+    "timeout": false
+  },
+  {
+    "drawing": "detailRopeStretch",
+    "status": 200,
+    "url": "https://www.theuiaa.org/safety/safety-standards/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailPlateShoe",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29143929/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailRadioCapacity",
+    "status": 200,
+    "url": "https://www.itu.int/en/mediacentre/backgrounders/Pages/5G-fifth-generation-of-mobile-technologies.aspx",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailMobileGenerations",
+    "status": 200,
+    "url": "https://www.itu.int/en/mediacentre/backgrounders/Pages/5G-fifth-generation-of-mobile-technologies.aspx",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailHandsetRelay",
+    "status": 403,
+    "url": "https://www.iridium.com/network/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailRotorInduction",
+    "status": 200,
+    "url": "https://www.energy.gov/cmei/systems/how-do-wind-turbines-work",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailHydrogenDensity",
+    "status": 200,
+    "url": "https://www.energy.gov/cmei/fuels/hydrogen-storage",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailKernelGate",
+    "status": 200,
+    "url": "https://kernel.org/doc/html/v6.14/userspace-api/index.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailArchivedComputer",
+    "status": 200,
+    "url": "https://support.microsoft.com/en-us/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5",
+    "redirect": "https://support.microsoft.com/en-us/windows/experience/backup-recovery/recovery-options-in-windows",
+    "timeout": false
+  },
+  {
+    "drawing": "detailGateThickness",
+    "status": 403,
+    "url": "https://research.tsmc.com/page/transistor-structure/59.html",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailPacketJourney",
+    "status": 200,
+    "url": "https://www.rfc-editor.org/rfc/rfc9293",
+    "redirect": "https://www.rfc-editor.org/info/rfc9293/",
+    "timeout": false
+  },
+  {
+    "drawing": "detailJobsiteRobot",
+    "status": 200,
+    "url": "https://ethz.ch/content/dam/ethz/main/news/eth-news/medienmitteilungen/2019/pdf/190227_DFAB/Factsheet_Digital_Fabrication_EN.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailFrenchGridFlows",
+    "status": 200,
+    "url": "https://analysesetdonnees.rte-france.com/bilan-electrique-2025/synthese",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailCoalSteam",
+    "status": 200,
+    "url": "https://www.eia.gov/energyexplained/electricity/how-electricity-is-generated.php",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailFossilInputs",
+    "status": 200,
+    "url": "https://www.eia.gov/energyexplained/oil-and-petroleum-products/use-of-oil.php",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailReactorFleet",
+    "status": 403,
+    "url": "https://www.iaea.org/topics/nuclear-power",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailPackPrice",
+    "status": 200,
+    "url": "https://www.iea.org/reports/batteries-and-secure-energy-transitions",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailDrainagePlot",
+    "status": 200,
+    "url": "https://www.epa.gov/septic/how-septic-systems-work",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailWaterTreatment",
+    "status": 403,
+    "url": "https://www.cdc.gov/drinking-water/about/how-water-treatment-works.html",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailIndoorAir",
+    "status": 200,
+    "url": "https://www.who.int/fr/news-room/fact-sheets/detail/household-air-pollution-and-health",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailMaterialAxes",
+    "status": 200,
+    "url": "https://environment.ec.europa.eu/topics/plastics/bio-based-biodegradable-and-compostable-plastics_en",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailCementKiln",
+    "status": 200,
+    "url": "https://www.iea.org/energy-system/industry/cement",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailGrowingSkeleton",
+    "status": 200,
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/6-4-bone-formation-and-development",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailPainSignal",
+    "status": 403,
+    "url": "https://www.ninds.nih.gov/health-information/disorders/pain",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailSynapseRemodel",
+    "status": 200,
+    "url": "https://openstax.org/books/introduction-behavioral-neuroscience/pages/18-4-synaptic-mechanisms-of-long-term-memory",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailAltitudeLung",
+    "status": 403,
+    "url": "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailSleepStart",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23912581/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailEarScreen",
+    "status": 200,
+    "url": "https://www.nidcd.nih.gov/health/your-babys-hearing-screening-and-next-steps",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailListeningTube",
+    "status": 403,
+    "url": "https://collection.sciencemuseumgroup.org.uk/people/cp37490",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailPhysicalExam",
+    "status": 200,
+    "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK361/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailImagingSlice",
+    "status": 200,
+    "url": "https://www.nibib.nih.gov/science-education/science-topics",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailAbyssPressure",
+    "status": 403,
+    "url": "https://www.pnas.org/doi/10.1073/pnas.1322003111",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Texte de l’étude de Yancey et al. ouvert par un autre accès web."
+  },
+  {
+    "drawing": "detailFifaCount",
+    "status": 200,
+    "url": "https://condorperformance.com/wp-content/uploads/2020/02/emaga_9384_10704.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailCompareTrack",
+    "status": 200,
+    "url": "https://worldathletics.org/about-iaaf/documents/book-of-rules",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailWarmupLoad",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19996770/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailLoadRecovery",
+    "status": 403,
+    "url": "https://bjsm.bmj.com/content/50/17/1030",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailFiberSoreness",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27409551/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailMuscleSpasm",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21148567/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailMealRecovery",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/3132449/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailRedCellAltitude",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12015348/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailPulseTiming",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8598068/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailLiftingMoment",
+    "status": 403,
+    "url": "https://www.cdc.gov/niosh/ergonomics/about/rnle.html",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailInformationSample",
+    "status": 200,
+    "url": "https://www.unesco.org/en/countering-disinformation",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailSyntheticProvenance",
+    "status": 200,
+    "url": "https://c2pa.org/faqs/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailNewsAvoidance",
+    "status": 200,
+    "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailFeedRanking",
+    "status": 200,
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package",
+    "redirect": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act",
+    "timeout": false
+  },
+  {
+    "drawing": "detailAccountCounts",
+    "status": 200,
+    "url": "https://datareportal.com/reports/digital-2026-global-overview-report",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailCivilCode",
+    "status": 403,
+    "url": "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/",
+    "redirect": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/",
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailParcelTitle",
+    "status": 200,
+    "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14226",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailInventionRights",
+    "status": 200,
+    "url": "https://www.wipo.int/fr/web/about-ip",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailSurveyBaseline",
+    "status": 200,
+    "url": "https://oceanservice.noaa.gov/facts/geodetic-survey.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailKagomeWeave",
+    "status": 200,
+    "url": "https://www.osti.gov/pages/biblio/1894711",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailNormReview",
+    "status": 200,
+    "url": "https://qpc360.conseil-constitutionnel.fr/decisions/la-qpc",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailSeparateInstitutions",
+    "status": 403,
+    "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailCourtroomRoles",
+    "status": 200,
+    "url": "https://www.justice.gouv.fr/justice-france/acteurs-justice",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailPayslipFlow",
+    "status": 200,
+    "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F559",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailFreeFallGrid",
+    "status": 200,
+    "url": "https://imagine.gsfc.nasa.gov/ask_astro/relativity.html",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailInteractionsScale",
+    "status": 200,
+    "url": "https://home.cern/science/physics/standard-model",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailLogicalQubit",
+    "status": 200,
+    "url": "https://research.google/blog/suppressing-quantum-errors-by-scaling-a-surface-code-logical-qubit/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailGeologicalOre",
+    "status": 403,
+    "url": "https://www.usgs.gov/programs/mineral-resources-program",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "detailNalediLayers",
+    "status": 200,
+    "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-naledi",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "detailChippedStone",
+    "status": 200,
+    "url": "https://humanorigins.si.edu/evidence/behavior/stone-tools",
+    "redirect": null,
+    "timeout": false
+  }
+]

@@ -1,3 +1,4 @@
+import { DETAILED_LESSON_DIAGRAMS } from "../src/lib/lesson-visuals/detailed20261123";
 import { ATLAS100_DIAGRAMS } from "../src/lib/lesson-visuals/atlas100";
 import { ATLAS65_DIAGRAMS } from "../src/lib/lesson-visuals/atlas65";
 import { EVERYDAY_DIAGRAMS } from "../src/lib/lesson-visuals/everyday50";
@@ -19,6 +20,7 @@ it("preserves the exact markup of every previously delivered diagram in all thre
   const added = new Set<string>(
     [
       ...ATLAS100_DIAGRAMS,
+      ...DETAILED_LESSON_DIAGRAMS,
       ...ATLAS65_DIAGRAMS,
       ...THEMATIC50_DIAGRAMS,
       ...ENERGY29_DIAGRAMS,

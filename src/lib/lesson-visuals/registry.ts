@@ -1,3 +1,4 @@
+import { DETAILED_LESSON_DIAGRAMS } from "./detailed20261123";
 import { EVERYDAY_DIAGRAMS } from "./everyday50";
 import { HORIZONS50_DIAGRAMS } from "./horizons50";
 import { EXPLORATIONS50_DIAGRAMS } from "./explorations50";
@@ -21,6 +22,106 @@ import { ASTRONOMY_DIAGRAMS } from "./astronomy";
 
 /** Associations éditoriales explicites. Aucune recherche de mots-clés au rendu. */
 export type LessonDiagramKind =
+  | "detailOrganicParcel"
+  | "detailLivingCover"
+  | "detailAnimalHousing"
+  | "detailForestMosaic"
+  | "detailClimateHabitats"
+  | "detailVillageServices"
+  | "detailSeasonalBeds"
+  | "detailFutureClouds"
+  | "detailFarmBalances"
+  | "detailAnimalTraction"
+  | "detailWaterBalance"
+  | "detailThirstSignal"
+  | "detailGlycemicCurve"
+  | "detailMineralBinding"
+  | "detailMicroNutrients"
+  | "detailToothFood"
+  | "detailBoneMatrix"
+  | "detailRetinaNutrients"
+  | "detailScoreLabel"
+  | "detailIngredientStages"
+  | "detailOwnershipCosts"
+  | "detailSuvSpace"
+  | "detailLeaseReturn"
+  | "detailCarMarket"
+  | "detailValueCurve"
+  | "detailInspectionBench"
+  | "detailAbrasionSources"
+  | "detailHotCellPack"
+  | "detailDieselFilters"
+  | "detailCompressionIgnition"
+  | "detailThermalChain"
+  | "detailDrivingAssistScope"
+  | "detailDrivingRoles"
+  | "detailDeformingBodywork"
+  | "detailCrashLab"
+  | "detailRoadUsers"
+  | "detailWearPaths"
+  | "detailSwimmingDrag"
+  | "detailRopeStretch"
+  | "detailPlateShoe"
+  | "detailRadioCapacity"
+  | "detailMobileGenerations"
+  | "detailHandsetRelay"
+  | "detailRotorInduction"
+  | "detailHydrogenDensity"
+  | "detailKernelGate"
+  | "detailArchivedComputer"
+  | "detailGateThickness"
+  | "detailPacketJourney"
+  | "detailJobsiteRobot"
+  | "detailFrenchGridFlows"
+  | "detailCoalSteam"
+  | "detailFossilInputs"
+  | "detailReactorFleet"
+  | "detailPackPrice"
+  | "detailDrainagePlot"
+  | "detailWaterTreatment"
+  | "detailIndoorAir"
+  | "detailMaterialAxes"
+  | "detailCementKiln"
+  | "detailGrowingSkeleton"
+  | "detailPainSignal"
+  | "detailSynapseRemodel"
+  | "detailAltitudeLung"
+  | "detailSleepStart"
+  | "detailEarScreen"
+  | "detailListeningTube"
+  | "detailPhysicalExam"
+  | "detailImagingSlice"
+  | "detailAbyssPressure"
+  | "detailFifaCount"
+  | "detailCompareTrack"
+  | "detailWarmupLoad"
+  | "detailLoadRecovery"
+  | "detailFiberSoreness"
+  | "detailMuscleSpasm"
+  | "detailMealRecovery"
+  | "detailRedCellAltitude"
+  | "detailPulseTiming"
+  | "detailLiftingMoment"
+  | "detailInformationSample"
+  | "detailSyntheticProvenance"
+  | "detailNewsAvoidance"
+  | "detailFeedRanking"
+  | "detailAccountCounts"
+  | "detailCivilCode"
+  | "detailParcelTitle"
+  | "detailInventionRights"
+  | "detailSurveyBaseline"
+  | "detailKagomeWeave"
+  | "detailNormReview"
+  | "detailSeparateInstitutions"
+  | "detailCourtroomRoles"
+  | "detailPayslipFlow"
+  | "detailFreeFallGrid"
+  | "detailInteractionsScale"
+  | "detailLogicalQubit"
+  | "detailGeologicalOre"
+  | "detailNalediLayers"
+  | "detailChippedStone"
   | "populationGrid"
   | "departmentBalance"
   | "migrationStock"
@@ -632,13 +733,17 @@ export type LessonDiagramKind =
   | "wheatflour"
   | "yogurtculture";
 export type LessonDiagramStep = { label: string; caption: string; detail: string };
+export type LessonDiagramSteps =
+  | [LessonDiagramStep, LessonDiagramStep]
+  | [LessonDiagramStep, LessonDiagramStep, LessonDiagramStep]
+  | [LessonDiagramStep, LessonDiagramStep, LessonDiagramStep, LessonDiagramStep];
 export type LessonDiagramSpec = {
   /** Taller scenes keep their labels full size on narrow screens. */
-  canvasHeight?: 230;
+  canvasHeight?: 230 | 270;
   id: LessonDiagramKind;
   title: string;
   paths: string[];
-  steps: [LessonDiagramStep, LessonDiagramStep, LessonDiagramStep];
+  steps: LessonDiagramSteps;
   limit: string;
   source: { title: string; url: string };
 };
@@ -1856,6 +1961,7 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
   ...THEMATIC50_DIAGRAMS,
   ...ATLAS65_DIAGRAMS,
   ...ATLAS100_DIAGRAMS,
+  ...DETAILED_LESSON_DIAGRAMS,
 ];
 const BY_PATH = new Map(
   LESSON_DIAGRAMS.flatMap((spec) => spec.paths.map((path) => [path, spec] as const)),
@@ -1865,8 +1971,9 @@ export function getLessonDiagram(path: string): LessonDiagramSpec | undefined {
 }
 
 /** The cover illustrates the central mechanism, rather than always its last teaching frame. */
-export function lessonPosterFrame(spec: LessonDiagramSpec): 0 | 1 | 2 {
-  const frames: Partial<Record<LessonDiagramKind, 0 | 1 | 2>> = {
+export function lessonPosterFrame(spec: LessonDiagramSpec): 0 | 1 | 2 | 3 {
+  const frames: Partial<Record<LessonDiagramKind, 0 | 1 | 2 | 3>> = {
+    detailDeformingBodywork: 3,
     lift: 0,
     hydraulic: 1,
     battery: 0,
@@ -1916,5 +2023,5 @@ export function lessonPosterFrame(spec: LessonDiagramSpec): 0 | 1 | 2 {
     attention: 1,
     diffusion: 2,
   };
-  return frames[spec.id] ?? 2;
+  return frames[spec.id] ?? (spec.steps.length === 2 ? 1 : 2);
 }

@@ -2,6 +2,19 @@ import { createHash } from "node:crypto";
 import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
 
+async function visualFiles(dir: string, prefix = ""): Promise<string[]> {
+  const entries = await readdir(path.join(dir, prefix), { withFileTypes: true });
+  return (
+    await Promise.all(
+      entries.map((entry) => {
+        const file = path.posix.join(prefix, entry.name);
+        if (entry.isDirectory()) return visualFiles(dir, file);
+        return entry.isFile() && /\.(tsx?|css|json)$/.test(entry.name) ? [file] : [];
+      }),
+    )
+  ).flat();
+}
+
 /** A small visual-source scan, never the article corpus. Used only by CLI/bootstrap. */
 export async function visualSourceDigest() {
   const hash = createHash("sha256");
@@ -12,7 +25,8 @@ export async function visualSourceDigest() {
     "src/lib/discovery",
     "content/discovery",
   ]) {
-    for (const file of (await readdir(dir)).filter((f) => /\.(tsx?|css|json)$/.test(f)).sort())
+    const files = (await visualFiles(dir)).sort();
+    for (const file of files)
       hash.update(dir + "/" + file).update(await readFile(path.join(dir, file)));
   }
   for (const file of [

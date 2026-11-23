@@ -1,3 +1,4 @@
+import { DetailedLessonDrawing, hasDetailedLessonDrawing } from "./DetailedLessonDrawing";
 import { EverydayDrawing } from "./EverydayDrawing";
 import { Thematic50Drawing } from "./Thematic50Drawing";
 import { Atlas100Drawing, hasAtlas100Drawing } from "./Atlas100Drawing";
@@ -78,7 +79,7 @@ export function LessonDiagramCanvas({
   decorative?: boolean;
 }) {
   const id = `lesson-art-${useId().replace(/:/g, "")}`;
-  const frame = Math.max(0, Math.min(2, Math.round(step)));
+  const frame = Math.max(0, Math.min(spec.steps.length - 1, Math.round(step)));
   const props = { kind: spec.id, step: frame, id };
   return (
     <figure
@@ -156,7 +157,9 @@ export function LessonDiagramCanvas({
         <AISocietyDrawing {...props} />
         <LearningProcessDrawing {...props} />
         <EverydayDrawing {...props} />
-        {hasAtlas100Drawing(spec.id) ? (
+        {hasDetailedLessonDrawing(spec.id) ? (
+          <DetailedLessonDrawing {...props} />
+        ) : hasAtlas100Drawing(spec.id) ? (
           <Atlas100Drawing {...props} />
         ) : hasAtlas65Drawing(spec.id) ? (
           <Atlas65Drawing {...props} />
