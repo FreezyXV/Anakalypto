@@ -1,3 +1,4 @@
+import { automotivePlates } from "./refined/transport/automotive";
 import {
   Art,
   Tag,
@@ -187,45 +188,6 @@ export function AutoHorizonsDrawing(p: DrawingProps) {
         )}
       </Art>
     );
-  if (kind === "beltreel") {
-    const teeth = Array.from({ length: 48 }, (_, i) => {
-      const a = (i * Math.PI) / 24,
-        r = i % 4 < 2 ? 49 : 42;
-      return `${180 + Math.cos(a) * r},${117 + Math.sin(a) * r}`;
-    }).join(" ");
-    return (
-      <Art
-        {...p}
-        foot={s === 2 ? "Le cliquet retient la roue" : "Capteur sensible à la décélération"}
-      >
-        <path d="M29 47H319V198H29Z" fill="#e0e9ee" stroke="#9aaebc" />
-        <polygon points={teeth} fill="#97b1c1" stroke={ink} strokeWidth="2" />
-        <circle cx="180" cy="117" r="28" fill="#d8be90" stroke={ink} />
-        <circle cx="180" cy="117" r="7" fill={ink} />
-        <path fill="none" d="M180 89H323" stroke="#b89a70" strokeWidth="12" />
-        <path
-          d={s === 0 ? "M260 157L242 143 249 131 273 146Z" : "M254 155L223 143 218 127 267 143Z"}
-          fill={gold}
-          stroke={ink}
-          strokeWidth="2"
-        />
-        <circle cx="264" cy="149" r="5" fill={ink} />
-        <path
-          fill="none"
-          d={s === 0 ? "M276 164V181" : "M276 164L290 178"}
-          stroke={ink}
-          strokeWidth="3"
-        />
-        <circle cx={s === 0 ? 276 : 290} cy={s === 0 ? 185 : 180} r="9" fill={blue} />
-        <Tag x={88} y={187}>
-          Enrouleur
-        </Tag>
-        <Tag x={78} y={76}>
-          Sangle
-        </Tag>
-        {s === 2 && <path fill="none" d="M213 132l8 11m-8 0l8-11" stroke={red} strokeWidth="3" />}
-      </Art>
-    );
-  }
+  if (kind === "beltreel") return automotivePlates.beltreel(p.step, p.id);
   return null;
 }

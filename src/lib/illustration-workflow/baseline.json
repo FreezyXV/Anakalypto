@@ -1,15 +1,15 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "2f8eefcad2b61fc2b5c49f13ab18ea03c81fa2dcbc34bbf39797df14519f9fb9",
+  "sourceDigest": "29ef46a7ebf16dcabbbda4977b0c580088841a116d07fe60ec5f30cdabff7c5e",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
       "visualRefs": ["schema:windtunnel"],
-      "fingerprint": "4b6beeb80a53404faf8ad738281b999b84a6af3f2eb2d0372ae451a36270a835",
+      "fingerprint": "bd6d12910139af1b35a6f9351031721ff32aded671f150702129dcc26f1afd56",
       "contentHash": "8fc97307976906363ccf68512431a2c25c60e6416cc2e4560698528fe56f55ed",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:49.459Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:30.324Z"
     },
     {
       "path": "/aeronautique/aerodynamique/ecoulements/couche-limite-transition-laminaire-turbulent",
@@ -50,11 +50,11 @@
     {
       "path": "/aeronautique/aerodynamique/portance/comment-les-pales-d-un-helicoptere-creent-la-portance",
       "visualRefs": ["schema:helicopter"],
-      "fingerprint": "87a81d4ea84c24d18121a5d61bc5a270959b06d6532aaa5cabc1a6bbb4b75628",
+      "fingerprint": "67d8769364c644b99b36fad51692aac70af977fbe6a3cedd44297a2bf07cb395",
       "contentHash": "c8efb965ddfce31c44c2fd9f54d2c2137e3aa35c110d4a61e415b5dcf99d9e0e",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:49.881Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:30.320Z"
     },
     {
       "path": "/aeronautique/aerodynamique/portance/comment-un-avion-de-ligne-peut-il-planer-quand-ses-moteurs-s-arretent",
@@ -68,56 +68,56 @@
     {
       "path": "/aeronautique/aerodynamique/portance/decrochage-aerodynamique",
       "visualRefs": ["schema:lift"],
-      "fingerprint": "cb2f3b1643dd6ba275cc07601bce3fa4bdfc3af6cc6843d9439cb528c4783205",
+      "fingerprint": "d2da5c2f53ad65d42ae6db5ead801f0c7f6fb14e19de15f4433da9a3b49456d4",
       "contentHash": "eed3f596f98b0086e4ac5f6ad96bdbf3b52167e41d89e3f47f091110ebc7a267",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.055Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:30.318Z"
     },
     {
       "path": "/aeronautique/aerodynamique/portance/pourquoi-les-ailes-d-un-avion-changent-elles-de-forme-au-decollage-et-a-l-atterrissage",
       "visualRefs": ["schema:flaps"],
-      "fingerprint": "2259c45f984f8af278f24ab1aaa5d67267a1e817e92c97aa4732a03b64b2438e",
+      "fingerprint": "05f2e88df13bb83f63916aede017f40c85679e90640f7e6dbb6f1d79ad0e6d65",
       "contentHash": "53dcbf9bdf757c3209add1513de10bdc3355331634b6cf691eac21d9e66f3d76",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.164Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:30.323Z"
     },
     {
       "path": "/aeronautique/aerodynamique/portance/pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air",
       "visualRefs": ["schema:lift"],
-      "fingerprint": "cb2f3b1643dd6ba275cc07601bce3fa4bdfc3af6cc6843d9439cb528c4783205",
+      "fingerprint": "d2da5c2f53ad65d42ae6db5ead801f0c7f6fb14e19de15f4433da9a3b49456d4",
       "contentHash": "a5519f8771327f9a6a1dbc1d87e04d655697c43e4e283837dc90abe85bb8e933",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.244Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:31.136Z"
     },
     {
       "path": "/aeronautique/aerodynamique/trainee/les-winglets-petits-ailerons-contre-la-trainee",
       "visualRefs": ["schema:winglet"],
-      "fingerprint": "9249bac64200e487d9e3f72ac31bc6c77b877738730cb8315dd480ad4363bb08",
+      "fingerprint": "c13aa9b60431cbb602d423c86fee6abbacbded773a4a315d2f1649ae4ee7d7e7",
       "contentHash": "9fca44adebf513b39bfbefac2cb0189a151b236159638d40cc0ddb27b151e04b",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.324Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:31.141Z"
     },
     {
       "path": "/aeronautique/aerodynamique/trainee/pourquoi-le-givre-est-il-dangereux-pour-les-ailes-d-un-avion",
       "visualRefs": ["schema:icing"],
-      "fingerprint": "2b08adaec4925b8ad23b62a27166976d30584605f097106b3742d412394a7dc6",
+      "fingerprint": "95e9bffa4c5ebfb621f4a49aa98210320d011f8a57683f6c182985f4214c3d84",
       "contentHash": "be68c892d366ee41e21baff9c7da1ac1cfb0e6383f13ef5561ae41061846ccac",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.406Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:31.135Z"
     },
     {
       "path": "/aeronautique/aerodynamique/trainee/trainee-aerodynamique-reduction",
       "visualRefs": ["schema:drag"],
-      "fingerprint": "72929fbfbcc59a2d72ac3a376ade2d5773e941367ffbe4cb2387b9a422df6baf",
+      "fingerprint": "68a03c05b7c703152510a2fbcccda79749a8101d3bfe1804ef37577faec37c0e",
       "contentHash": "9b720b4fd11563b790efff46f8947e372e3f952fe027f288d4acb47c8f7bc51a",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.489Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:31.132Z"
     },
     {
       "path": "/aeronautique/aviation-civile/certification-aeronautique/certification-avion-de-transport",
@@ -167,11 +167,11 @@
     {
       "path": "/aeronautique/aviation-civile/securite/la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident",
       "visualRefs": ["schema:recorders"],
-      "fingerprint": "dcb9607a321a4464c0ba84ed5b4f7a57bc1c7772115d80a4536aa23ed873ffa9",
+      "fingerprint": "e24abf62c435d770448b585f35ae6b34589ff1eb25ebd92f9d532e58a8cd4776",
       "contentHash": "13aa4f2f73073161f245b6ec0550f92f31bc887a42ad397e3cddeeb4f6350f00",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:51.014Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:31.865Z"
     },
     {
       "path": "/aeronautique/aviation-civile/securite/les-turbulences-pourquoi-l-avion-est-secoue",
@@ -194,11 +194,11 @@
     {
       "path": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/comment-peut-on-suivre-sur-internet-les-avions-en-plein-vol",
       "visualRefs": ["schema:adsb"],
-      "fingerprint": "102174923bad90f970828bbc3edfe71884585bf35aad702a4d50d357278d2bb2",
+      "fingerprint": "eb339c8cc3c917a978952e78035ddf1f035765e997f1addb645a4cf2ec8c64f9",
       "contentHash": "4b7e3fa884d62cbfc3f02ee515005c4c4883ba76a9132efa95792440d4b488d1",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:51.236Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:31.882Z"
     },
     {
       "path": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/controle-du-trafic-aerien-principes",
@@ -257,20 +257,20 @@
     {
       "path": "/aeronautique/propulsion/moteurs-a-piston/fonctionnement-moteurs-a-piston-aeronautiques",
       "visualRefs": ["schema:aeroengine"],
-      "fingerprint": "b9a05a48660516cd4ac98b97b448c6d2e6fa8d6a0439093d5ad9b208c631494c",
+      "fingerprint": "1e3126d3c44e12deb86b751cec4f240494ed6977f218d9fd659eff29cd399c39",
       "contentHash": "124f9324218a3b9071f1cf78c03b2ecaf162130cbd30daa40bec5e76aa14f60c",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:51.899Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:31.865Z"
     },
     {
       "path": "/aeronautique/propulsion/moteurs-a-piston/pourquoi-le-moteur-d-un-petit-avion-a-t-il-deux-allumages",
       "visualRefs": ["schema:magnetos"],
-      "fingerprint": "a4ec36a0c8e05d754d70bd74ab13580b231b71ac45afad06810f6e18c145f48a",
+      "fingerprint": "650f7c2c55fabcb96ad7998e75e7837ba6536ea30d8a94849fd77362da0c39ec",
       "contentHash": "d672134fae0a77b176ebbd461202457e021edf8a9c8cc37cce52e52ed48fd02f",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:51.993Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:31.862Z"
     },
     {
       "path": "/aeronautique/propulsion/propulsion-electrique-aeronautique/propulsion-electrique-hybride-aeronautique",
@@ -293,47 +293,47 @@
     {
       "path": "/aeronautique/propulsion/turbopropulseurs/comment-un-avion-bombardier-d-eau-remplit-il-ses-reservoirs-sans-s-arreter",
       "visualRefs": ["schema:scooper"],
-      "fingerprint": "957175b99a0aed83a7d44bd004390f87a618d1bcefe6aacb7cf2c76c30982de7",
+      "fingerprint": "a6fa00eea32513db5d0b805cde46e6da6169f9eb5a2585118cf908ae9de3cda4",
       "contentHash": "4a855abc4f26454075cdba4f9959aece03b19527ceb48276f102abf96525baa0",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:52.324Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:32.625Z"
     },
     {
       "path": "/aeronautique/propulsion/turbopropulseurs/turbopropulseur-principe-domaine-emploi",
       "visualRefs": ["schema:turboprop"],
-      "fingerprint": "9dcc526434c7acc7513d6c04067001b6674467aa780387536d5c1816376d4288",
+      "fingerprint": "5e5a616d8758b790c934a76a6a1d87f416962f2af18a61539fbee1a68305f235",
       "contentHash": "a1d9df3cc3c2271054d1a62e7bda7b41112aa45d533614878145733fa30c1fec",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:52.421Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:32.624Z"
     },
     {
       "path": "/aeronautique/propulsion/turboreacteurs/comment-un-avion-de-ligne-freine-t-il-apres-l-atterrissage",
       "visualRefs": ["schema:landingbrakes"],
-      "fingerprint": "f79a506b3a077710ceb2d1c597b4aed57720b6bebdca3f3459b1811d4e477e6b",
+      "fingerprint": "a71a3133da5531e7fae88dc22083972bbf0f06d8f448d934f9dffb697aa9a6ea",
       "contentHash": "a3c7e1c60f53ac659bd69949679abd4656fedb54dc5d2529d5f4dd4129b1e8d7",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:52.515Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:32.621Z"
     },
     {
       "path": "/aeronautique/propulsion/turboreacteurs/fonctionnement-turboreacteur",
       "visualRefs": ["schema:jet"],
-      "fingerprint": "8c1bf544328930c901f2ceacff86a645170a6ac467dc6513dcbaf02eba5cd124",
+      "fingerprint": "4ce241098bc572ee15f494348ed3b75d7faca7f4bda3139a9500a9f3106cdb79",
       "contentHash": "8eb19d4e5dfdf23374e6b70b41a1c88b012113ed2579d02cf1eddf26b8c40ec8",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:52.596Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:32.636Z"
     },
     {
       "path": "/aeronautique/propulsion/turboreacteurs/taux-de-dilution-turboreacteurs",
       "visualRefs": ["schema:jet"],
-      "fingerprint": "8c1bf544328930c901f2ceacff86a645170a6ac467dc6513dcbaf02eba5cd124",
+      "fingerprint": "4ce241098bc572ee15f494348ed3b75d7faca7f4bda3139a9500a9f3106cdb79",
       "contentHash": "e0b35aa67f60dac89698d5d37af467b764a0a20ddf0a08c189db6cd5c841f70a",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:52.688Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:33.282Z"
     },
     {
       "path": "/alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire/agriculture-biologique",
@@ -1940,11 +1940,11 @@
     {
       "path": "/automobile/securite-et-conduite/pneus-contact-route-adherence",
       "visualRefs": ["schema:tyregrip"],
-      "fingerprint": "b8f517ef79f79cf837c39d9abd945adde62a76e8c7e4708e23646641fa450632",
+      "fingerprint": "ea41dc3b5c4bd693c454e6de560b399dc79d0356336a65225406c16efd18a10f",
       "contentHash": "6afe047d99139248d16b67b36ee02f509712bd676b2c797224f0f32dafa9fef9",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:35.528Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:33.274Z"
     },
     {
       "path": "/automobile/securite-et-conduite/securite-passive/ceinture-airbag-et-structures-deformables",
@@ -1967,11 +1967,11 @@
     {
       "path": "/automobile/securite-et-conduite/securite-passive/comment-une-ceinture-de-securite-se-bloque-t-elle-d-un-coup",
       "visualRefs": ["schema:beltreel"],
-      "fingerprint": "ef0b50a8ad740570954cac38b0fb5f0c2db41f8a3bb481476da13b331142adb8",
+      "fingerprint": "9b1c098a0edd1ea80936e6598a4cee81d28374bb8c49dc7ab755cb2247f6939b",
       "contentHash": "93fd85c177ac6dab0123e8410a01d9f4d64998d489fe3d1860905476b3aad678",
       "quality": "validee",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:11.802Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:33.284Z"
     },
     {
       "path": "/automobile/securite-et-conduite/securite-passive/crash-tests-etoiles-securite",
@@ -2003,11 +2003,11 @@
     {
       "path": "/automobile/securite-et-conduite/suspension-confort-tenue-de-route",
       "visualRefs": ["schema:shocks"],
-      "fingerprint": "bdd8015a947efe7a062c8e53dd1ce37d5f9cb17901ae8c186cdc859e90a4e7df",
+      "fingerprint": "cbf0f6066c335afd674d1425c2c0294f0cda35df0a423951a333063e93f29c03",
       "contentHash": "c2aa7a3c88f2aebd3c7825aa6c9f2b399e6ec29f59445c017bda2cca9368cd86",
       "quality": "validee",
-      "evidence": "docs/qa/finition-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T09:19:39.733Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:33.282Z"
     },
     {
       "path": "/automobile/usages-et-mobilite/bruit-routier-sante-et-pneus",
@@ -2066,11 +2066,11 @@
     {
       "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/comment-les-freins-a-disque-arretent-ils-une-voiture",
       "visualRefs": ["schema:discbrake"],
-      "fingerprint": "ab1eccf3393198ae2502b91b4b51a86a7454a10c52b3bffec9fe96509cc22d36",
+      "fingerprint": "1ae8f9047968ef241c26e4059b398d487253a8055908d50ed3cbd1d41584570a",
       "contentHash": "37af6d026c1f3c79669245ce7b67eba3db164ef29ea824d95755b924b28c7148",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:46.969Z"
+      "evidence": "docs/qa/refonte-catalogue-suite/README.md",
+      "reviewedAt": "2026-11-24T06:36:33.892Z"
     },
     {
       "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/diagnostic-electronique-reparation-automobile",

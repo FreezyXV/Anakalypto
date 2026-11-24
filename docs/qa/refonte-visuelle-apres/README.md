@@ -6,12 +6,9 @@ La référence donnée pour la refonte présente un phonographe avec une pointe 
 
 La file du 24 novembre 2026 contient 848 leçons publiées avec un dessin dédié. Le premier examen couvre les 829 couvertures issues du registre, réparties en 28 planches, et les 19 captures initiales des ateliers à 390 px. L’inventaire indique, par référence de leçon, la case examinée et l’observation associée. Les dessins qui servent à plusieurs leçons apparaissent sous les références de chaque leçon. [Inventaire](inventaire.csv) · [Planches de couverture](couvertures) · [Ateliers](couvertures/ateliers.jpg)
 
-- 20 leçons redessinées et vérifiées, dont les deux ateliers du moteur et du turbo.
-- 4 leçons de la référence « Après » conservées.
-- 389 leçons à reprendre, identifiées dès la couverture.
-- 435 leçons dont les autres vues restent à relire avant décision.
+La première série a validé 20 leçons redessinées et conservé les 4 références visuelles. Elle avait repéré 389 leçons à reprendre dès la couverture et en avait laissé 435 à relire dans les autres états.
 
-L’inventaire est le relevé de cet examen. PostgreSQL continue de servir aux réservations et aux validations. Le relevé n’atteste pas que chaque état de chaque planche a été relu.
+L’inventaire contient désormais les décisions de la relecture et les captures correspondantes. PostgreSQL sert aux réservations et aux validations. [Suite de la revue](../refonte-catalogue-suite/README.md)
 
 ## Première série redessinée en SVG
 

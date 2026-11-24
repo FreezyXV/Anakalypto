@@ -1,3 +1,4 @@
+import { automotivePlates } from "./refined/transport/automotive";
 import { EVERYDAY_DIAGRAMS } from "@/lib/lesson-visuals/everyday50";
 import { WorkshopPaints, Title } from "./Energy29Parts";
 import { everydayArts } from "./EverydayArts";
@@ -26,6 +27,7 @@ const labelsByKind = new Map<string, readonly string[]>(
 );
 
 export function EverydayDrawing({ kind, step, id }: { kind: string; step: number; id: string }) {
+  if (kind === "tyregrip" || kind === "shocks") return automotivePlates[kind](step, id);
   const labels = labelsByKind.get(kind);
   if (!labels) return null;
   const draw = sceneByKind[kind];

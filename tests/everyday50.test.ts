@@ -62,7 +62,7 @@ it("preserves the historical layouts of 345 drawings with documented revisions",
 });
 
 it("matches the audited revision of each reviewed diagram in all three states", () => {
-  expect(Object.keys(reviewedDiagramHashes)).toHaveLength(13);
+  expect(Object.keys(reviewedDiagramHashes)).toHaveLength(32);
   for (const [id, hashes] of Object.entries(reviewedDiagramHashes)) {
     const spec = LESSON_DIAGRAMS.find((diagram) => diagram.id === id);
     expect(spec, id).toBeDefined();

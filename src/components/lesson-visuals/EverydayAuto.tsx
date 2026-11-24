@@ -1,4 +1,4 @@
-import { Airbag, CrumpleZone, Suspension } from "./EverydayVehicleCuts";
+import { Airbag, CrumpleZone } from "./EverydayVehicleCuts";
 import {
   Arrow,
   Label,
@@ -187,64 +187,10 @@ function Exhaust(step: number) {
   );
 }
 
-function Tyre(step: number) {
-  if (step === 2)
-    return (
-      <>
-        <ellipse cx="180" cy="110" rx="68" ry="59" fill="#415366" stroke={navy} strokeWidth="3" />
-        <ellipse cx="180" cy="108" rx="28" ry="29" fill="#a7b9c7" stroke={navy} strokeWidth="3" />
-        <path
-          d="M53 153q47-12 83 0t88 0t83 0v19H53Z"
-          fill="#85bed7"
-          stroke={blue}
-          strokeWidth="2"
-        />
-        <path d="M53 173h254v18H53Z" fill="#94a1aa" stroke={navy} strokeWidth="2" />
-        <Arrow x1={198} y1={208} x2={221} y2={163} color={blue} />
-        <Label x={143} y={217}>
-          Film d’eau
-        </Label>
-      </>
-    );
-  return (
-    <>
-      <Plate x={37} y={45} width={286} height={142} color={step === 0 ? "#d9dfe0" : "#c5deeb"}>
-        <rect
-          x="114"
-          y="56"
-          width="132"
-          height="120"
-          rx="21"
-          fill="#536773"
-          stroke={navy}
-          strokeWidth="3"
-        />
-        <Line
-          d="M147 59v115M180 58v116M213 59v115M115 102l32 13m35-24 32 13m31-10-32 13M115 134l32 12m65-12 33-13"
-          width={5}
-          color={step === 1 ? "#81c1d9" : "#334756"}
-        />
-        {step === 1 && (
-          <>
-            <Arrow x1={146} y1={120} x2={146} y2={62} color="#e1f4f8" />
-            <Arrow x1={214} y1={114} x2={214} y2={168} color="#e1f4f8" />
-            <Arrow x1={212} y1={141} x2={243} y2={127} color="#e1f4f8" />
-          </>
-        )}
-      </Plate>
-      <Label x={180} y={212}>
-        {step === 0 ? "Empreinte au sol" : "Rainures et eau"}
-      </Label>
-    </>
-  );
-}
-
 export const everydayAuto = {
   dragwake: Drag,
   mildhybrid: MildHybrid,
   exhaustclean: Exhaust,
-  tyregrip: Tyre,
-  shocks: Suspension,
   airbagsequence: Airbag,
   crumplefront: CrumpleZone,
 } satisfies SceneSet;

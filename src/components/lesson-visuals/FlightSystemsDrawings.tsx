@@ -1,3 +1,4 @@
+import { airframePlates } from "./refined/transport/airframes";
 import { Plane } from "./AeronauticsDrawings";
 import { Arrow, Label, Dot, ink, blue, warm, green } from "./DrawingPrimitives";
 import { Satellite } from "./AstronomyDrawings";
@@ -449,127 +450,8 @@ export function FlightSystemsDrawing({ kind, step, id }: Props) {
         </Label>
       </>
     );
-  if (kind === "adsb")
-    return (
-      <>
-        <path d="M19 158Q165 148 341 159V181H19Z" fill="#d6e1cd" />
-        <Aircraft x={171} y={91} angle={80} scale={0.7} id={id} />
-        <Satellite x={59} y={52} id={id} />
-        <Satellite x={287} y={42} id={id} />
-        {step === 0 ? (
-          <>
-            <Arrow x1={78} y1={58} x2={150} y2={81} dashed />
-            <Arrow x1={265} y1={48} x2={188} y2={79} dashed />
-          </>
-        ) : (
-          <>
-            <path
-              d="M126 64Q112 85 124 105M117 56Q96 87 115 116M216 70Q233 92 218 113M226 61Q250 92 230 123"
-              fill="none"
-              stroke={warm}
-              strokeWidth="2"
-            />
-            <Arrow x1={164} y1={118} x2={119} y2={148} color={warm} />
-            <Aircraft x={286} y={112} angle={-90} scale={0.35} id={id} />
-            <Arrow x1={213} y1={104} x2={263} y2={109} color={warm} />
-          </>
-        )}
-        <path
-          d="M104 168L116 140 128 168M109 157H123M112 149H120"
-          fill="none"
-          stroke={ink}
-          strokeWidth="2"
-        />
-        <circle cx="116" cy="139" r="3" fill={warm} />
-        {step === 2 && (
-          <>
-            <Arrow x1={136} y1={158} x2={224} y2={158} color={green} />
-            <rect x="233" y="131" width="89" height="50" rx="5" fill="#263e53" stroke="#718ba3" />
-            <path
-              d="M244 166L260 155 278 160 303 143M250 135V176M281 135V176M237 149H317"
-              fill="none"
-              stroke="#81b6bf"
-              strokeWidth="1"
-            />
-            <Dot x={303} y={143} color="#c9dd8b" r={3} />
-          </>
-        )}
-        <Label x={180} y={25}>
-          {
-            [
-              "Signaux vers le récepteur",
-              "Message depuis l’avion",
-              "Station → traitement → affichage",
-            ][step]
-          }
-        </Label>
-        <Label x={180} y={204}>
-          {step === 0 ? "Navigation satellitaire" : "Diffusion ADS-B distincte du GPS"}
-        </Label>
-      </>
-    );
-  if (kind === "recorders")
-    return (
-      <>
-        <Recorder
-          x={step === 2 ? 110 : 241}
-          y={116}
-          id={id}
-          label={step === 0 ? "CVR" : "FDR"}
-          open={step === 2}
-        />
-        {step === 2 ? (
-          <>
-            <path d="M214 67L310 73V149L214 143Z" fill="#d8e0e7" stroke="#6b819b" />
-            <rect x="233" y="88" width="54" height="40" rx="4" fill="#74927d" stroke={ink} />
-            <rect x="248" y="99" width="24" height="18" rx="2" fill="#263d52" />
-            {[0, 1, 2, 3].map((n) => (
-              <path
-                key={n}
-                d={`M${243 + n * 8} 96V90M${243 + n * 8} 119V126`}
-                stroke="#e3cb8c"
-                strokeWidth="1.4"
-              />
-            ))}
-            <Arrow x1={162} y1={116} x2={203} y2={116} color={green} />
-            <Label x={180} y={34}>
-              Enveloppe et mémoire protégée
-            </Label>
-          </>
-        ) : (
-          <>
-            <rect x="25" y="71" width="124" height="83" rx="9" fill="#233c51" stroke="#6d8aa4" />
-            {step === 0 ? (
-              <path
-                d="M34 113h10l5-12 6 28 7-43 6 55 7-60 7 51 7-36 7 27 7-14h15l5-8 6 14h9"
-                stroke="#e4bc85"
-                strokeWidth="2"
-                fill="none"
-              />
-            ) : (
-              [0, 1, 2].map((n) => (
-                <path
-                  key={n}
-                  d={`M34 ${95 + n * 17}q15-16 29-3t25-5t22-2t29 0`}
-                  fill="none"
-                  stroke={["#9ad2e5", "#e4c58a", "#a8cca1"][n]}
-                  strokeWidth="2"
-                />
-              ))
-            )}
-            <Arrow x1={157} y1={113} x2={186} y2={113} color={warm} />
-            <Label x={180} y={33}>
-              {step === 0 ? "Sons : CVR" : "Paramètres : FDR"}
-            </Label>
-          </>
-        )}
-        <Label x={180} y={201}>
-          {step === 2
-            ? "Coupe fonctionnelle · forme générique"
-            : "Signaux fictifs · aucune donnée réelle"}
-        </Label>
-      </>
-    );
+  if (kind === "adsb") return airframePlates.adsb(step, id);
+  if (kind === "recorders") return airframePlates.recorders(step, id);
   if (kind === "investigation")
     return (
       <>
