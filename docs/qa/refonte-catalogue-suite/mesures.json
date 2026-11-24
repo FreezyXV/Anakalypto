@@ -1,0 +1,1598 @@
+[
+  {
+    "reference": "LEC-0047C98BA43C",
+    "dessin": "windtunnel",
+    "chemin": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Guider l’air",
+        "legende": "Le ventilateur fait circuler l’air dans la veine d’essai.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Mesurer les efforts",
+        "legende": "Une balance mesure les efforts transmis par le support.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Rendre l’air visible",
+        "legende": "Des traceurs aident à observer le parcours de l’écoulement.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-0047C98BA43C",
+    "dessin": "windtunnel",
+    "chemin": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Guider l’air",
+        "legende": "Le ventilateur fait circuler l’air dans la veine d’essai.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Mesurer les efforts",
+        "legende": "Une balance mesure les efforts transmis par le support.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Rendre l’air visible",
+        "legende": "Des traceurs aident à observer le parcours de l’écoulement.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-1439572BBA79",
+    "dessin": "scooper",
+    "chemin": "/aeronautique/propulsion/turbopropulseurs/comment-un-avion-bombardier-d-eau-remplit-il-ses-reservoirs-sans-s-arreter",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Coque sur l’eau",
+        "legende": "L’amphibie glisse sur l’eau pour effectuer un écopage.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Écopes immergées",
+        "legende": "L’avancement de la coque permet de faire entrer l’eau dans les écopes.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Charge embarquée",
+        "legende": "Après l’écopage, l’eau recueillie reste dans les soutes pour le transport.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-1439572BBA79",
+    "dessin": "scooper",
+    "chemin": "/aeronautique/propulsion/turbopropulseurs/comment-un-avion-bombardier-d-eau-remplit-il-ses-reservoirs-sans-s-arreter",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Coque sur l’eau",
+        "legende": "L’amphibie glisse sur l’eau pour effectuer un écopage.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Écopes immergées",
+        "legende": "L’avancement de la coque permet de faire entrer l’eau dans les écopes.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Charge embarquée",
+        "legende": "Après l’écopage, l’eau recueillie reste dans les soutes pour le transport.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-486BC98F43EC",
+    "dessin": "drag",
+    "chemin": "/aeronautique/aerodynamique/trainee/trainee-aerodynamique-reduction",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Frottement",
+        "legende": "L’air près de la surface exerce une contrainte de frottement.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Forme et sillage",
+        "legende": "Une séparation importante laisse un large sillage derrière l’objet.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Portance et sillage",
+        "legende": "Une aile finie qui porte laisse aussi un sillage tourbillonnaire.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-486BC98F43EC",
+    "dessin": "drag",
+    "chemin": "/aeronautique/aerodynamique/trainee/trainee-aerodynamique-reduction",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Frottement",
+        "legende": "L’air près de la surface exerce une contrainte de frottement.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Forme et sillage",
+        "legende": "Une séparation importante laisse un large sillage derrière l’objet.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Portance et sillage",
+        "legende": "Une aile finie qui porte laisse aussi un sillage tourbillonnaire.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-4A31B63D6528",
+    "dessin": "shocks",
+    "chemin": "/automobile/securite-et-conduite/suspension-confort-tenue-de-route",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Au repos",
+        "legende": "Le ressort soutient la caisse, tandis que la roue repose sur la chaussée.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Sur la bosse",
+        "legende": "La roue monte et le ressort se comprime.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Après la bosse",
+        "legende": "L’amortisseur dissipe l’énergie des oscillations.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-4A31B63D6528",
+    "dessin": "shocks",
+    "chemin": "/automobile/securite-et-conduite/suspension-confort-tenue-de-route",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Au repos",
+        "legende": "Le ressort soutient la caisse, tandis que la roue repose sur la chaussée.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Sur la bosse",
+        "legende": "La roue monte et le ressort se comprime.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Après la bosse",
+        "legende": "L’amortisseur dissipe l’énergie des oscillations.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-614911E00F36",
+    "dessin": "winglet",
+    "chemin": "/aeronautique/aerodynamique/trainee/les-winglets-petits-ailerons-contre-la-trainee",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Aile finie",
+        "legende": "Aux extrémités, l’écoulement s’enroule en tourbillons.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Ajouter un winglet",
+        "legende": "L’extrémité relevée modifie la répartition de l’écoulement.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Comparer les sillages",
+        "legende": "Le sillage subsiste avec le winglet ; sa distribution change.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-614911E00F36",
+    "dessin": "winglet",
+    "chemin": "/aeronautique/aerodynamique/trainee/les-winglets-petits-ailerons-contre-la-trainee",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Aile finie",
+        "legende": "Aux extrémités, l’écoulement s’enroule en tourbillons.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Ajouter un winglet",
+        "legende": "L’extrémité relevée modifie la répartition de l’écoulement.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Comparer les sillages",
+        "legende": "Le sillage subsiste avec le winglet ; sa distribution change.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-68F4AE34C548",
+    "dessin": "icing",
+    "chemin": "/aeronautique/aerodynamique/trainee/pourquoi-le-givre-est-il-dangereux-pour-les-ailes-d-un-avion",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Gouttes surfondues",
+        "legende": "Des gouttes encore liquides rencontrent une surface froide.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Glace accumulée",
+        "legende": "La glace modifie le bord d’attaque et sa rugosité.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Écoulement perturbé",
+        "legende": "La séparation peut survenir plus tôt et réduire la portance maximale.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-68F4AE34C548",
+    "dessin": "icing",
+    "chemin": "/aeronautique/aerodynamique/trainee/pourquoi-le-givre-est-il-dangereux-pour-les-ailes-d-un-avion",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Gouttes surfondues",
+        "legende": "Des gouttes encore liquides rencontrent une surface froide.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Glace accumulée",
+        "legende": "La glace modifie le bord d’attaque et sa rugosité.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Écoulement perturbé",
+        "legende": "La séparation peut survenir plus tôt et réduire la portance maximale.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-75F4C1F8A08B",
+    "dessin": "helicopter",
+    "chemin": "/aeronautique/aerodynamique/portance/comment-les-pales-d-un-helicoptere-creent-la-portance",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Pales en mouvement",
+        "legende": "Les pales rencontrent l’air parce qu’elles tournent.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Pas collectif",
+        "legende": "Le collectif change ensemble le pas des pales.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Disque incliné",
+        "legende": "Une force de rotor inclinée possède une composante horizontale.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-75F4C1F8A08B",
+    "dessin": "helicopter",
+    "chemin": "/aeronautique/aerodynamique/portance/comment-les-pales-d-un-helicoptere-creent-la-portance",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Pales en mouvement",
+        "legende": "Les pales rencontrent l’air parce qu’elles tournent.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Pas collectif",
+        "legende": "Le collectif change ensemble le pas des pales.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Disque incliné",
+        "legende": "Une force de rotor inclinée possède une composante horizontale.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-8FF03FAC3A59",
+    "dessin": "jet",
+    "chemin": "/aeronautique/propulsion/turboreacteurs/taux-de-dilution-turboreacteurs",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Faire entrer l’air",
+        "legende": "La soufflante envoie une partie de l’air autour du cœur.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Chauffer le cœur",
+        "legende": "Le compresseur précède la combustion, puis la turbine.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Accélérer les flux",
+        "legende": "De l’air est accéléré vers l’arrière ; le moteur est poussé vers l’avant.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-8FF03FAC3A59",
+    "dessin": "jet",
+    "chemin": "/aeronautique/propulsion/turboreacteurs/taux-de-dilution-turboreacteurs",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Faire entrer l’air",
+        "legende": "La soufflante envoie une partie de l’air autour du cœur.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Chauffer le cœur",
+        "legende": "Le compresseur précède la combustion, puis la turbine.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Accélérer les flux",
+        "legende": "De l’air est accéléré vers l’arrière ; le moteur est poussé vers l’avant.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-9D38C59C3446",
+    "dessin": "tyregrip",
+    "chemin": "/automobile/securite-et-conduite/pneus-contact-route-adherence",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Toucher",
+        "legende": "Une petite zone du pneu porte la charge sur la chaussée.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Évacuer l’eau",
+        "legende": "Les rainures donnent des passages à l’eau sous le pneu.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Film d’eau",
+        "legende": "Quand un film sépare le pneu de la route, l’adhérence chute fortement.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-9D38C59C3446",
+    "dessin": "tyregrip",
+    "chemin": "/automobile/securite-et-conduite/pneus-contact-route-adherence",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Toucher",
+        "legende": "Une petite zone du pneu porte la charge sur la chaussée.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Évacuer l’eau",
+        "legende": "Les rainures donnent des passages à l’eau sous le pneu.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Film d’eau",
+        "legende": "Quand un film sépare le pneu de la route, l’adhérence chute fortement.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-ADBD2EACA53D",
+    "dessin": "discbrake",
+    "chemin": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/comment-les-freins-a-disque-arretent-ils-une-voiture",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Libre",
+        "legende": "Le disque tourne avec la roue entre deux plaquettes écartées.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Serrer",
+        "legende": "La pression hydraulique rapproche les plaquettes contre le disque.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Dissiper",
+        "legende": "Le frottement transforme une partie de l’énergie du mouvement en chaleur.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-ADBD2EACA53D",
+    "dessin": "discbrake",
+    "chemin": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/comment-les-freins-a-disque-arretent-ils-une-voiture",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Libre",
+        "legende": "Le disque tourne avec la roue entre deux plaquettes écartées.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Serrer",
+        "legende": "La pression hydraulique rapproche les plaquettes contre le disque.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Dissiper",
+        "legende": "Le frottement transforme une partie de l’énergie du mouvement en chaleur.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-B047C834CC5C",
+    "dessin": "landingbrakes",
+    "chemin": "/aeronautique/propulsion/turboreacteurs/comment-un-avion-de-ligne-freine-t-il-apres-l-atterrissage",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Freins des roues",
+        "legende": "Les freins dissipent de l’énergie et les pneus transmettent l’effort au sol.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Aérofreins au sol",
+        "legende": "Les spoilers augmentent la traînée et réduisent la portance.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Inverseur de poussée",
+        "legende": "Un inverseur peut détourner une partie du flux vers l’avant et les côtés.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-B047C834CC5C",
+    "dessin": "landingbrakes",
+    "chemin": "/aeronautique/propulsion/turboreacteurs/comment-un-avion-de-ligne-freine-t-il-apres-l-atterrissage",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Freins des roues",
+        "legende": "Les freins dissipent de l’énergie et les pneus transmettent l’effort au sol.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Aérofreins au sol",
+        "legende": "Les spoilers augmentent la traînée et réduisent la portance.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Inverseur de poussée",
+        "legende": "Un inverseur peut détourner une partie du flux vers l’avant et les côtés.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-BEFBADFB91B2",
+    "dessin": "recorders",
+    "chemin": "/aeronautique/aviation-civile/securite/la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Sons du cockpit",
+        "legende": "Le CVR enregistre l’environnement sonore du poste de pilotage.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Paramètres de vol",
+        "legende": "Le FDR enregistre des paramètres de fonctionnement et de vol.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Relire les mémoires",
+        "legende": "Les enquêteurs récupèrent puis rapprochent les données disponibles.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-BEFBADFB91B2",
+    "dessin": "recorders",
+    "chemin": "/aeronautique/aviation-civile/securite/la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Sons du cockpit",
+        "legende": "Le CVR enregistre l’environnement sonore du poste de pilotage.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Paramètres de vol",
+        "legende": "Le FDR enregistre des paramètres de fonctionnement et de vol.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Relire les mémoires",
+        "legende": "Les enquêteurs récupèrent puis rapprochent les données disponibles.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-BF0D20E9B8E7",
+    "dessin": "lift",
+    "chemin": "/aeronautique/aerodynamique/portance/pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Écoulement attaché",
+        "legende": "L’air suit le profil de l’aile et est dévié vers le bas.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Incidence accrue",
+        "legende": "L’aile s’incline davantage par rapport à l’air incident.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Décrochage",
+        "legende": "L’écoulement se sépare et la portance diminue fortement.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-BF0D20E9B8E7",
+    "dessin": "lift",
+    "chemin": "/aeronautique/aerodynamique/portance/pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Écoulement attaché",
+        "legende": "L’air suit le profil de l’aile et est dévié vers le bas.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Incidence accrue",
+        "legende": "L’aile s’incline davantage par rapport à l’air incident.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Décrochage",
+        "legende": "L’écoulement se sépare et la portance diminue fortement.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-CBFD3502EC2B",
+    "dessin": "magnetos",
+    "chemin": "/aeronautique/propulsion/moteurs-a-piston/pourquoi-le-moteur-d-un-petit-avion-a-t-il-deux-allumages",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Deux voies actives",
+        "legende": "Deux magnétos alimentent deux bougies dans chaque cylindre.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Voie A indisponible",
+        "legende": "Dans cet exemple, la voie B continue de fournir l’étincelle.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Voie B indisponible",
+        "legende": "Dans la situation inverse, la voie A reste active.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-CBFD3502EC2B",
+    "dessin": "magnetos",
+    "chemin": "/aeronautique/propulsion/moteurs-a-piston/pourquoi-le-moteur-d-un-petit-avion-a-t-il-deux-allumages",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Deux voies actives",
+        "legende": "Deux magnétos alimentent deux bougies dans chaque cylindre.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Voie A indisponible",
+        "legende": "Dans cet exemple, la voie B continue de fournir l’étincelle.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Voie B indisponible",
+        "legende": "Dans la situation inverse, la voie A reste active.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-CFF66E0B44CE",
+    "dessin": "flaps",
+    "chemin": "/aeronautique/aerodynamique/portance/pourquoi-les-ailes-d-un-avion-changent-elles-de-forme-au-decollage-et-a-l-atterrissage",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Profil rentré",
+        "legende": "Le bec avant et le volet arrière s’intègrent au profil.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Volet sorti",
+        "legende": "Le volet recule et s’abaisse : la cambrure augmente.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Bec et volet sortis",
+        "legende": "Le bec s’avance ; une fente laisse passer de l’air vers le dessus.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-CFF66E0B44CE",
+    "dessin": "flaps",
+    "chemin": "/aeronautique/aerodynamique/portance/pourquoi-les-ailes-d-un-avion-changent-elles-de-forme-au-decollage-et-a-l-atterrissage",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Profil rentré",
+        "legende": "Le bec avant et le volet arrière s’intègrent au profil.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Volet sorti",
+        "legende": "Le volet recule et s’abaisse : la cambrure augmente.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Bec et volet sortis",
+        "legende": "Le bec s’avance ; une fente laisse passer de l’air vers le dessus.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-D30C4A205DD4",
+    "dessin": "lift",
+    "chemin": "/aeronautique/aerodynamique/portance/decrochage-aerodynamique",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Écoulement attaché",
+        "legende": "L’air suit le profil de l’aile et est dévié vers le bas.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Incidence accrue",
+        "legende": "L’aile s’incline davantage par rapport à l’air incident.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Décrochage",
+        "legende": "L’écoulement se sépare et la portance diminue fortement.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-D30C4A205DD4",
+    "dessin": "lift",
+    "chemin": "/aeronautique/aerodynamique/portance/decrochage-aerodynamique",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Écoulement attaché",
+        "legende": "L’air suit le profil de l’aile et est dévié vers le bas.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Incidence accrue",
+        "legende": "L’aile s’incline davantage par rapport à l’air incident.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Décrochage",
+        "legende": "L’écoulement se sépare et la portance diminue fortement.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-DA4C83943215",
+    "dessin": "jet",
+    "chemin": "/aeronautique/propulsion/turboreacteurs/fonctionnement-turboreacteur",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Faire entrer l’air",
+        "legende": "La soufflante envoie une partie de l’air autour du cœur.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Chauffer le cœur",
+        "legende": "Le compresseur précède la combustion, puis la turbine.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Accélérer les flux",
+        "legende": "De l’air est accéléré vers l’arrière ; le moteur est poussé vers l’avant.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-DA4C83943215",
+    "dessin": "jet",
+    "chemin": "/aeronautique/propulsion/turboreacteurs/fonctionnement-turboreacteur",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Faire entrer l’air",
+        "legende": "La soufflante envoie une partie de l’air autour du cœur.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Chauffer le cœur",
+        "legende": "Le compresseur précède la combustion, puis la turbine.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Accélérer les flux",
+        "legende": "De l’air est accéléré vers l’arrière ; le moteur est poussé vers l’avant.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-E383C8539EAE",
+    "dessin": "aeroengine",
+    "chemin": "/aeronautique/propulsion/moteurs-a-piston/fonctionnement-moteurs-a-piston-aeronautiques",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Cylindres opposés",
+        "legende": "Un moteur à plat répartit ses cylindres de chaque côté du carter.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Piston et vilebrequin",
+        "legende": "La pression des gaz pousse un piston relié au vilebrequin.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Entraîner l’hélice",
+        "legende": "La rotation du moteur entraîne une hélice qui agit sur l’air.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-E383C8539EAE",
+    "dessin": "aeroengine",
+    "chemin": "/aeronautique/propulsion/moteurs-a-piston/fonctionnement-moteurs-a-piston-aeronautiques",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Cylindres opposés",
+        "legende": "Un moteur à plat répartit ses cylindres de chaque côté du carter.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Piston et vilebrequin",
+        "legende": "La pression des gaz pousse un piston relié au vilebrequin.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Entraîner l’hélice",
+        "legende": "La rotation du moteur entraîne une hélice qui agit sur l’air.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-E74EAB54E225",
+    "dessin": "beltreel",
+    "chemin": "/automobile/securite-et-conduite/securite-passive/comment-une-ceinture-de-securite-se-bloque-t-elle-d-un-coup",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Dérouler",
+        "legende": "Quand le mécanisme reste au repos, la roue de l’enrouleur peut tourner et laisser sortir la sangle.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Détecter",
+        "legende": "Une forte décélération déplace la masse du capteur et pousse le mécanisme de verrouillage.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Bloquer",
+        "legende": "Le cliquet s’engage dans la roue dentée et empêche le déroulement de la sangle.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-E74EAB54E225",
+    "dessin": "beltreel",
+    "chemin": "/automobile/securite-et-conduite/securite-passive/comment-une-ceinture-de-securite-se-bloque-t-elle-d-un-coup",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Dérouler",
+        "legende": "Quand le mécanisme reste au repos, la roue de l’enrouleur peut tourner et laisser sortir la sangle.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Détecter",
+        "legende": "Une forte décélération déplace la masse du capteur et pousse le mécanisme de verrouillage.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Bloquer",
+        "legende": "Le cliquet s’engage dans la roue dentée et empêche le déroulement de la sangle.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-F8323901E4C4",
+    "dessin": "turboprop",
+    "chemin": "/aeronautique/propulsion/turbopropulseurs/turbopropulseur-principe-domaine-emploi",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Énergie des gaz",
+        "legende": "L’air est comprimé, puis chauffé par la combustion.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Arbre et réducteur",
+        "legende": "La turbine entraîne l’hélice par un arbre et un réducteur.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Air accéléré",
+        "legende": "L’hélice accélère une grande masse d’air vers l’arrière.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-F8323901E4C4",
+    "dessin": "turboprop",
+    "chemin": "/aeronautique/propulsion/turbopropulseurs/turbopropulseur-principe-domaine-emploi",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Énergie des gaz",
+        "legende": "L’air est comprimé, puis chauffé par la combustion.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Arbre et réducteur",
+        "legende": "La turbine entraîne l’hélice par un arbre et un réducteur.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Air accéléré",
+        "legende": "L’hélice accélère une grande masse d’air vers l’arrière.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-FC1AC0BB9D80",
+    "dessin": "adsb",
+    "chemin": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/comment-peut-on-suivre-sur-internet-les-avions-en-plein-vol",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Calculer la position",
+        "legende": "Des signaux de navigation sont reçus à bord.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Diffuser un message",
+        "legende": "L’avion diffuse sa position et d’autres informations par radio.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Afficher une trace",
+        "legende": "Les messages reçus peuvent alimenter un affichage du trafic.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-FC1AC0BB9D80",
+    "dessin": "adsb",
+    "chemin": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/comment-peut-on-suivre-sur-internet-les-avions-en-plein-vol",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Calculer la position",
+        "legende": "Des signaux de navigation sont reçus à bord.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Diffuser un message",
+        "legende": "L’avion diffuse sa position et d’autres informations par radio.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Afficher une trace",
+        "legende": "Les messages reçus peuvent alimenter un affichage du trafic.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  }
+]

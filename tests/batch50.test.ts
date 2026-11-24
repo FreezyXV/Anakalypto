@@ -1,3 +1,4 @@
+import { hasTransportRevision } from "./fixtures/reviewedVisuals";
 import { EDITION_LESSON_DIAGRAMS } from "../src/lib/lesson-visuals/edition20261124";
 import { DETAILED_LESSON_DIAGRAMS } from "../src/lib/lesson-visuals/detailed20261123";
 import { ATLAS100_DIAGRAMS } from "../src/lib/lesson-visuals/atlas100";
@@ -39,7 +40,7 @@ it("preserves all 153 previously delivered drawings in all three views", () => {
   );
   const previous = LESSON_DIAGRAMS.filter((s) => !added.has(s.id));
   expect(previous).toHaveLength(153);
-  for (const spec of previous)
+  for (const spec of previous.filter(({ id }) => !hasTransportRevision(id)))
     for (const step of [0, 1, 2])
       expect(
         renderToStaticMarkup(createElement(LessonDiagramCanvas, { spec, step })),

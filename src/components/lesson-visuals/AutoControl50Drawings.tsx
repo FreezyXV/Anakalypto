@@ -1,3 +1,4 @@
+import { automotivePlates } from "./refined/transport/automotive";
 import {
   ArtFrame,
   Arrow,
@@ -176,79 +177,7 @@ export function AutoControl50Drawing(p: DrawingProps) {
         </Label>
       </ArtFrame>
     );
-  if (kind === "discbrake")
-    return (
-      <ArtFrame
-        {...p}
-        foot={s === 0 ? "Le disque tourne avec la roue" : "Mouvement → frottement → chaleur"}
-      >
-        <path
-          d="M77 72V54h206v18m-206 0v73m206-73v73"
-          fill="none"
-          stroke="#7892a5"
-          strokeWidth="18"
-          strokeLinejoin="round"
-        />
-        <path d="M180 191v-19" stroke="#617d92" strokeWidth="15" />
-        <rect
-          x="169"
-          y="82"
-          width="23"
-          height="91"
-          fill={s === 2 ? "#c49e81" : "#b7cad7"}
-          stroke="#68869e"
-          strokeWidth="2"
-        />
-        <rect
-          x={s === 0 ? 125 : 153}
-          y="91"
-          width="14"
-          height="70"
-          rx="3"
-          fill="#b6966f"
-          stroke="#7e684c"
-        />
-        <rect
-          x={s === 0 ? 222 : 198}
-          y="91"
-          width="14"
-          height="70"
-          rx="3"
-          fill="#b6966f"
-          stroke="#7e684c"
-        />
-        <path
-          d={`M86 125H${s === 0 ? 125 : 153}M${s === 0 ? 236 : 212} 125H274`}
-          stroke="#a1b9c9"
-          strokeWidth="18"
-        />
-        {s > 0 && (
-          <>
-            <Arrow x1={100} y1={126} x2={145} y2={126} color={blue} />
-            <Arrow x1={263} y1={126} x2={218} y2={126} color={blue} />
-          </>
-        )}
-        {s === 2 && (
-          <>
-            <Heat x={181} y={73} />
-            <Heat x={286} y={179} />
-          </>
-        )}
-        <path d="M95 168l68 7" stroke={ink} strokeWidth="1.2" />
-        <Label x={62} y={170}>
-          Disque
-        </Label>
-        {s === 0 ? (
-          <Label x={180} y={76}>
-            Plaquettes écartées
-          </Label>
-        ) : (
-          <Label x={180} y={191}>
-            Contact sur deux faces
-          </Label>
-        )}
-      </ArtFrame>
-    );
+  if (kind === "discbrake") return automotivePlates.discbrake(p.step, p.id);
   if (kind === "engineoil")
     return (
       <ArtFrame

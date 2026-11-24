@@ -1,0 +1,128 @@
+[
+  {
+    "key": "windtunnel",
+    "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
+    "status": "READY",
+    "visualRefs": ["schema:windtunnel"]
+  },
+  {
+    "key": "helicopter",
+    "path": "/aeronautique/aerodynamique/portance/comment-les-pales-d-un-helicoptere-creent-la-portance",
+    "status": "READY",
+    "visualRefs": ["schema:helicopter"]
+  },
+  {
+    "key": "lift",
+    "path": "/aeronautique/aerodynamique/portance/decrochage-aerodynamique",
+    "status": "READY",
+    "visualRefs": ["schema:lift"]
+  },
+  {
+    "key": "flaps",
+    "path": "/aeronautique/aerodynamique/portance/pourquoi-les-ailes-d-un-avion-changent-elles-de-forme-au-decollage-et-a-l-atterrissage",
+    "status": "READY",
+    "visualRefs": ["schema:flaps"]
+  },
+  {
+    "key": "lift",
+    "path": "/aeronautique/aerodynamique/portance/pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air",
+    "status": "READY",
+    "visualRefs": ["schema:lift"]
+  },
+  {
+    "key": "winglet",
+    "path": "/aeronautique/aerodynamique/trainee/les-winglets-petits-ailerons-contre-la-trainee",
+    "status": "READY",
+    "visualRefs": ["schema:winglet"]
+  },
+  {
+    "key": "icing",
+    "path": "/aeronautique/aerodynamique/trainee/pourquoi-le-givre-est-il-dangereux-pour-les-ailes-d-un-avion",
+    "status": "READY",
+    "visualRefs": ["schema:icing"]
+  },
+  {
+    "key": "drag",
+    "path": "/aeronautique/aerodynamique/trainee/trainee-aerodynamique-reduction",
+    "status": "READY",
+    "visualRefs": ["schema:drag"]
+  },
+  {
+    "key": "recorders",
+    "path": "/aeronautique/aviation-civile/securite/la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident",
+    "status": "READY",
+    "visualRefs": ["schema:recorders"]
+  },
+  {
+    "key": "adsb",
+    "path": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/comment-peut-on-suivre-sur-internet-les-avions-en-plein-vol",
+    "status": "READY",
+    "visualRefs": ["schema:adsb"]
+  },
+  {
+    "key": "aeroengine",
+    "path": "/aeronautique/propulsion/moteurs-a-piston/fonctionnement-moteurs-a-piston-aeronautiques",
+    "status": "READY",
+    "visualRefs": ["schema:aeroengine"]
+  },
+  {
+    "key": "magnetos",
+    "path": "/aeronautique/propulsion/moteurs-a-piston/pourquoi-le-moteur-d-un-petit-avion-a-t-il-deux-allumages",
+    "status": "READY",
+    "visualRefs": ["schema:magnetos"]
+  },
+  {
+    "key": "scooper",
+    "path": "/aeronautique/propulsion/turbopropulseurs/comment-un-avion-bombardier-d-eau-remplit-il-ses-reservoirs-sans-s-arreter",
+    "status": "READY",
+    "visualRefs": ["schema:scooper"]
+  },
+  {
+    "key": "turboprop",
+    "path": "/aeronautique/propulsion/turbopropulseurs/turbopropulseur-principe-domaine-emploi",
+    "status": "READY",
+    "visualRefs": ["schema:turboprop"]
+  },
+  {
+    "key": "landingbrakes",
+    "path": "/aeronautique/propulsion/turboreacteurs/comment-un-avion-de-ligne-freine-t-il-apres-l-atterrissage",
+    "status": "READY",
+    "visualRefs": ["schema:landingbrakes"]
+  },
+  {
+    "key": "jet",
+    "path": "/aeronautique/propulsion/turboreacteurs/fonctionnement-turboreacteur",
+    "status": "READY",
+    "visualRefs": ["schema:jet"]
+  },
+  {
+    "key": "jet",
+    "path": "/aeronautique/propulsion/turboreacteurs/taux-de-dilution-turboreacteurs",
+    "status": "READY",
+    "visualRefs": ["schema:jet"]
+  },
+  {
+    "key": "tyregrip",
+    "path": "/automobile/securite-et-conduite/pneus-contact-route-adherence",
+    "status": "READY",
+    "visualRefs": ["schema:tyregrip"]
+  },
+  {
+    "key": "beltreel",
+    "path": "/automobile/securite-et-conduite/securite-passive/comment-une-ceinture-de-securite-se-bloque-t-elle-d-un-coup",
+    "status": "READY",
+    "visualRefs": ["schema:beltreel"]
+  },
+  {
+    "key": "shocks",
+    "path": "/automobile/securite-et-conduite/suspension-confort-tenue-de-route",
+    "status": "READY",
+    "visualRefs": ["schema:shocks"]
+  },
+  {
+    "key": "discbrake",
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/comment-les-freins-a-disque-arretent-ils-une-voiture",
+    "status": "READY",
+    "visualRefs": ["schema:discbrake"]
+  }
+]
