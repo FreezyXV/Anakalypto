@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "29ef46a7ebf16dcabbbda4977b0c580088841a116d07fe60ec5f30cdabff7c5e",
+  "sourceDigest": "a0a836a7db47765f7381a7803e051dffbd550afdc0774459398ae6c79bf93af4",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -122,29 +122,29 @@
     {
       "path": "/aeronautique/aviation-civile/certification-aeronautique/certification-avion-de-transport",
       "visualRefs": ["schema:certification"],
-      "fingerprint": "a4e97b0c9e001684c366c956bbea510c25e782106aa51965a05a84cd7ea5dca5",
+      "fingerprint": "6441634547fa6005469a20e7b1f54a8669e7d0d3a978447f13e6e9851ccbbbb9",
       "contentHash": "66f2fb537c5e30ccb1bc316cbd033b5d064e5458644cbda1eb262175ee19d266",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.568Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:11.664Z"
     },
     {
       "path": "/aeronautique/aviation-civile/decarbonation/carburants-aviation-durables-saf",
       "visualRefs": ["schema:saf"],
-      "fingerprint": "8e7416aa7f0aa0c0b0f35f31ca8a952d2826c5348d6eec6154214313063fbda2",
+      "fingerprint": "249249bd1059aa0e472e2ed9b5294a49ce87cab5453815ad5636221c91e57f68",
       "contentHash": "cc5ab81bd03ea8464d05f46c02ce2cb5ec12ab4fb0d68a4c450ebc41732157aa",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.655Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:11.658Z"
     },
     {
       "path": "/aeronautique/aviation-civile/decarbonation/les-concepts-d-avion-a-hydrogene-d-airbus",
       "visualRefs": ["schema:zeroe"],
-      "fingerprint": "5483dbe1eb276194c87fdcf2a7da296c803e50650c9d5c192e73f240fc921dee",
+      "fingerprint": "29e40504350eda003d3921ccf565ff7fdb0edb0aeb44a09590598c2732c0c792",
       "contentHash": "4b238f15701eb3299247c346e7125d8e4bcbf6494bf9bf9923edceff823acf3f",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.743Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:11.667Z"
     },
     {
       "path": "/aeronautique/aviation-civile/securite/comment-deux-avions-evitent-ils-de-se-rentrer-dedans-en-plein-ciel",
@@ -158,11 +158,11 @@
     {
       "path": "/aeronautique/aviation-civile/securite/enquetes-de-securite-apres-accident",
       "visualRefs": ["schema:investigation"],
-      "fingerprint": "17381ea35e5719726dfaf155e0fddee0c312c73924ee6d4583f7a10da5aa470a",
+      "fingerprint": "0539deaaa95c36d3e83dbfc26baa91b4c1e3cb9e3106f43888937f187f58e548",
       "contentHash": "4acc7783ca344f27ebc2bc5fb5d2b7737f567e369765c72419c0ea13a6570534",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.905Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:11.659Z"
     },
     {
       "path": "/aeronautique/aviation-civile/securite/la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident",
@@ -203,11 +203,11 @@
     {
       "path": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/controle-du-trafic-aerien-principes",
       "visualRefs": ["schema:aircontrol"],
-      "fingerprint": "7fa63a6fad30e9f94d5c172c281ba07c8a09eb04f7e2f7a9f19ae18797261e2b",
+      "fingerprint": "3d3f84f97c6bde8709011ef1ea0929088d621c4a6c9843e5f6b2c5d076d7c8e9",
       "contentHash": "457f5c6aeeae1d3a250570c59435eea48d0757eccc1606a2483b91194827f927",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:51.309Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:12.290Z"
     },
     {
       "path": "/aeronautique/navigation-aerienne/instruments-de-vol/comment-le-pilote-automatique-tient-il-un-avion-sur-sa-route",
@@ -275,20 +275,20 @@
     {
       "path": "/aeronautique/propulsion/propulsion-electrique-aeronautique/propulsion-electrique-hybride-aeronautique",
       "visualRefs": ["schema:electricair"],
-      "fingerprint": "eccf02bc4ebe892107b447ff08a6dabd9b2fd4b1db95a028b927f627e19b3e81",
+      "fingerprint": "9a9c129b9dec2c8918a93a024f3e89bb9d9ad5d47f51405ca59ea3c2d9aa9f29",
       "contentHash": "6da1ca7160301056270ad4dfde4a5f7a34eaa03784fec0411243081f4562b174",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:52.109Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:12.300Z"
     },
     {
       "path": "/aeronautique/propulsion/propulsion-electrique-aeronautique/que-rejette-un-avion-a-hydrogene-et-ou-loge-t-on-le-carburant",
       "visualRefs": ["schema:hydrogenair"],
-      "fingerprint": "d6797cb9f666a0341a7206f0489755f9719a08401c2dd1494661592a77034240",
+      "fingerprint": "0946287d3b349b276ffda91c272e62358a22f5fc4cd86dbc903f988f0581edd5",
       "contentHash": "c8d321acb2609644b36569203faf13fa19ebe7e32fe0d2b449d36649d8973cb1",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:52.209Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:12.289Z"
     },
     {
       "path": "/aeronautique/propulsion/turbopropulseurs/comment-un-avion-bombardier-d-eau-remplit-il-ses-reservoirs-sans-s-arreter",
@@ -6395,11 +6395,11 @@
     {
       "path": "/sciences-fondamentales/physique/mecanique/pourquoi-un-bateau-en-acier-flotte-t-il",
       "visualRefs": ["atelier:le-bateau-et-l-eau-deplacee"],
-      "fingerprint": "3d46f38b63128547670bd5dd5ad566e892ae9a426ab6aadbffb8b52eb1af0610",
+      "fingerprint": "4c5da1d911a7518d1ea655559a6b76c031404fffb7f3e198f2befa7555d14e6f",
       "contentHash": "33d387f4b9622add4030dd064631f30d0d502f7ca1dd037b45e99ea6677efd4b",
       "quality": "validee",
-      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T12:15:10.750Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:12.297Z"
     },
     {
       "path": "/sciences-fondamentales/physique/mecanique/quelles-sont-les-quatre-forces-qui-gouvernent-tout-l-univers",

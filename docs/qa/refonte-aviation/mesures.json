@@ -1,0 +1,534 @@
+[
+  {
+    "reference": "LEC-D450110F2AAD",
+    "dessin": "aircontrol",
+    "chemin": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/controle-du-trafic-aerien-principes",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Aérodrome",
+        "legende": "La tour suit les mouvements sur la piste et à ses abords.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Approche",
+        "legende": "Un service d’approche organise les arrivées et les départs.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "En route",
+        "legende": "Des secteurs se partagent le suivi du trafic en croisière.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-D450110F2AAD",
+    "dessin": "aircontrol",
+    "chemin": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/controle-du-trafic-aerien-principes",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Aérodrome",
+        "legende": "La tour suit les mouvements sur la piste et à ses abords.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Approche",
+        "legende": "Un service d’approche organise les arrivées et les départs.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "En route",
+        "legende": "Des secteurs se partagent le suivi du trafic en croisière.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-E1CB5DFE6FBA",
+    "dessin": "certification",
+    "chemin": "/aeronautique/aviation-civile/certification-aeronautique/certification-avion-de-transport",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Définir le cadre",
+        "legende": "Une base et un programme de certification précisent les exigences.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Apporter les preuves",
+        "legende": "Calculs, essais au sol et essais en vol alimentent la démonstration.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Examiner et approuver",
+        "legende": "L’autorité examine la démonstration avant une éventuelle approbation.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-E1CB5DFE6FBA",
+    "dessin": "certification",
+    "chemin": "/aeronautique/aviation-civile/certification-aeronautique/certification-avion-de-transport",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Définir le cadre",
+        "legende": "Une base et un programme de certification précisent les exigences.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Apporter les preuves",
+        "legende": "Calculs, essais au sol et essais en vol alimentent la démonstration.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Examiner et approuver",
+        "legende": "L’autorité examine la démonstration avant une éventuelle approbation.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-78436191FC21",
+    "dessin": "electricair",
+    "chemin": "/aeronautique/propulsion/propulsion-electrique-aeronautique/propulsion-electrique-hybride-aeronautique",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Batterie et moteur",
+        "legende": "La batterie fournit de l’énergie à un moteur qui entraîne l’hélice.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Énergie consommée",
+        "legende": "Une batterie déchargée garde pratiquement toute sa masse.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Architecture hybride",
+        "legende": "Un générateur et une batterie peuvent alimenter une chaîne électrique.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-78436191FC21",
+    "dessin": "electricair",
+    "chemin": "/aeronautique/propulsion/propulsion-electrique-aeronautique/propulsion-electrique-hybride-aeronautique",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Batterie et moteur",
+        "legende": "La batterie fournit de l’énergie à un moteur qui entraîne l’hélice.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Énergie consommée",
+        "legende": "Une batterie déchargée garde pratiquement toute sa masse.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Architecture hybride",
+        "legende": "Un générateur et une batterie peuvent alimenter une chaîne électrique.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-FF11EEF9DD4B",
+    "dessin": "hydrogenair",
+    "chemin": "/aeronautique/propulsion/propulsion-electrique-aeronautique/que-rejette-un-avion-a-hydrogene-et-ou-loge-t-on-le-carburant",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Réservoir isolé",
+        "legende": "L’hydrogène liquide nécessite un réservoir cryogénique isolé.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Combustion",
+        "legende": "Une turbine peut brûler l’hydrogène avec l’air.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Pile et moteur",
+        "legende": "Une pile transforme hydrogène et oxygène en électricité pour un moteur.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-FF11EEF9DD4B",
+    "dessin": "hydrogenair",
+    "chemin": "/aeronautique/propulsion/propulsion-electrique-aeronautique/que-rejette-un-avion-a-hydrogene-et-ou-loge-t-on-le-carburant",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Réservoir isolé",
+        "legende": "L’hydrogène liquide nécessite un réservoir cryogénique isolé.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Combustion",
+        "legende": "Une turbine peut brûler l’hydrogène avec l’air.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Pile et moteur",
+        "legende": "Une pile transforme hydrogène et oxygène en électricité pour un moteur.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-6EACF2EBE5FA",
+    "dessin": "investigation",
+    "chemin": "/aeronautique/aviation-civile/securite/enquetes-de-securite-apres-accident",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Recueillir",
+        "legende": "Données de vol, pièces et témoignages apportent des indices différents.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Reconstituer",
+        "legende": "Les informations sont rapprochées sur une chronologie.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Recommander",
+        "legende": "Des recommandations peuvent proposer des mesures de prévention.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-6EACF2EBE5FA",
+    "dessin": "investigation",
+    "chemin": "/aeronautique/aviation-civile/securite/enquetes-de-securite-apres-accident",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Recueillir",
+        "legende": "Données de vol, pièces et témoignages apportent des indices différents.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Reconstituer",
+        "legende": "Les informations sont rapprochées sur une chronologie.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Recommander",
+        "legende": "Des recommandations peuvent proposer des mesures de prévention.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-7008E1840428",
+    "dessin": "saf",
+    "chemin": "/aeronautique/aviation-civile/decarbonation/carburants-aviation-durables-saf",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Huiles et graisses",
+        "legende": "Des huiles et graisses résiduelles peuvent être transformées en composants de carburant.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Résidus de biomasse",
+        "legende": "Des résidus agricoles ou forestiers peuvent alimenter d’autres filières.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Carburant de synthèse",
+        "legende": "Du CO₂ capté et de l’hydrogène peuvent servir à synthétiser des hydrocarbures.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-7008E1840428",
+    "dessin": "saf",
+    "chemin": "/aeronautique/aviation-civile/decarbonation/carburants-aviation-durables-saf",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Huiles et graisses",
+        "legende": "Des huiles et graisses résiduelles peuvent être transformées en composants de carburant.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Résidus de biomasse",
+        "legende": "Des résidus agricoles ou forestiers peuvent alimenter d’autres filières.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Carburant de synthèse",
+        "legende": "Du CO₂ capté et de l’hydrogène peuvent servir à synthétiser des hydrocarbures.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-D6FDF5654800",
+    "dessin": "zeroe",
+    "chemin": "/aeronautique/aviation-civile/decarbonation/les-concepts-d-avion-a-hydrogene-d-airbus",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Turbosoufflantes",
+        "legende": "Le concept à turbosoufflantes de 2020 gardait une silhouette classique.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Turbopropulseurs",
+        "legende": "Le deuxième concept de 2020 utilisait des hélices et des turbines.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Aile intégrée",
+        "legende": "Le troisième concept de 2020 fusionnait davantage corps et ailes.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-D6FDF5654800",
+    "dessin": "zeroe",
+    "chemin": "/aeronautique/aviation-civile/decarbonation/les-concepts-d-avion-a-hydrogene-d-airbus",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Turbosoufflantes",
+        "legende": "Le concept à turbosoufflantes de 2020 gardait une silhouette classique.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Turbopropulseurs",
+        "legende": "Le deuxième concept de 2020 utilisait des hélices et des turbines.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Aile intégrée",
+        "legende": "Le troisième concept de 2020 fusionnait davantage corps et ailes.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  }
+]
