@@ -1,3 +1,4 @@
+import { EDITION_LESSON_DIAGRAMS } from "./edition20261124";
 import { DETAILED_LESSON_DIAGRAMS } from "./detailed20261123";
 import { EVERYDAY_DIAGRAMS } from "./everyday50";
 import { HORIZONS50_DIAGRAMS } from "./horizons50";
@@ -22,6 +23,106 @@ import { ASTRONOMY_DIAGRAMS } from "./astronomy";
 
 /** Associations éditoriales explicites. Aucune recherche de mots-clés au rendu. */
 export type LessonDiagramKind =
+  | "editionLipidRoutes"
+  | "editionFibreColon"
+  | "editionIronCarrier"
+  | "editionHairFollicle"
+  | "editionSkinBarrier"
+  | "editionFoodReactions"
+  | "editionGlutenVillous"
+  | "editionMediterraneanTable"
+  | "editionPlantTable"
+  | "editionFatGeometry"
+  | "editionMorningMeal"
+  | "editionFoodHazards"
+  | "editionKitchenSurfaces"
+  | "editionFishTrophic"
+  | "editionPesticideResidue"
+  | "editionPreservationModes"
+  | "editionSupplementLabel"
+  | "editionGrainSilo"
+  | "editionNourishmentVariety"
+  | "editionNitrogenReturn"
+  | "editionHeartSignal"
+  | "editionVesselRisks"
+  | "editionPressureWaves"
+  | "editionDeficitCurve"
+  | "editionYawnObservation"
+  | "editionCellCycleControl"
+  | "editionGlucoseGates"
+  | "editionThermalBalance"
+  | "editionImmuneTimeline"
+  | "editionGraspReflex"
+  | "editionDepressionFrames"
+  | "editionExerciseMood"
+  | "editionStressPacing"
+  | "editionTraumaTriggers"
+  | "editionAllergyResponse"
+  | "editionSleepDefenses"
+  | "editionScreeningGroups"
+  | "editionLindTrial"
+  | "editionHandWashingHistory"
+  | "editionActivityBouts"
+  | "editionRentedRooms"
+  | "editionContractTerms"
+  | "editionHoldingTitle"
+  | "editionSharedRisk"
+  | "editionLiabilityChain"
+  | "editionLegalAccess"
+  | "editionMediationRoom"
+  | "editionProofBurden"
+  | "editionConstitutionMap"
+  | "editionDeclarationRights"
+  | "editionParkZoning"
+  | "editionUncertaintyPrecaution"
+  | "editionInternationalCourt"
+  | "editionPersonalData"
+  | "editionExpressionBounds"
+  | "editionIndependentCourt"
+  | "editionCourtLevels"
+  | "editionTwoJurisdictions"
+  | "editionEmploymentExchange"
+  | "editionRemoteWork"
+  | "editionLoanSchedule"
+  | "editionGoodsConformity"
+  | "editionOrderReturn"
+  | "editionAdvertisingClaims"
+  | "editionVacationTimeline"
+  | "editionStrikeDialogue"
+  | "editionBodinPrices"
+  | "editionReserveBuffer"
+  | "editionBudgetEnvelope"
+  | "editionSportRevenue"
+  | "editionEmissionsTest"
+  | "editionRoadZone"
+  | "editionFuelOrigins"
+  | "editionOilToFuel"
+  | "editionRobotaxiZone"
+  | "editionCarDataRoute"
+  | "editionMediaTrustSurvey"
+  | "editionOversightPlatform"
+  | "editionModerationQueue"
+  | "editionRegulatorRoles"
+  | "editionWildfireLandscape"
+  | "editionPlumeExposure"
+  | "editionStrategicMinerals"
+  | "editionAlkaliCompare"
+  | "editionProductionRobot"
+  | "editionCellFactory"
+  | "editionChipSupplyMap"
+  | "editionFailureBarriers"
+  | "editionWellAquifer"
+  | "editionNanoScale"
+  | "editionProgramLayers"
+  | "editionBlindTrial"
+  | "editionEvidenceComparison"
+  | "editionPlaceboTrial"
+  | "editionWillowMedicine"
+  | "editionPhasesTrial"
+  | "editionLaborWorkshop"
+  | "editionEmotionContext"
+  | "editionClaimRepetition"
+  | "editionSpacedRecall"
   | "detailOrganicParcel"
   | "detailLivingCover"
   | "detailAnimalHousing"
@@ -1962,6 +2063,7 @@ export const LESSON_DIAGRAMS: readonly LessonDiagramSpec[] = [
   ...ATLAS65_DIAGRAMS,
   ...ATLAS100_DIAGRAMS,
   ...DETAILED_LESSON_DIAGRAMS,
+  ...EDITION_LESSON_DIAGRAMS,
 ];
 const BY_PATH = new Map(
   LESSON_DIAGRAMS.flatMap((spec) => spec.paths.map((path) => [path, spec] as const)),
@@ -1973,6 +2075,9 @@ export function getLessonDiagram(path: string): LessonDiagramSpec | undefined {
 /** The cover illustrates the central mechanism, rather than always its last teaching frame. */
 export function lessonPosterFrame(spec: LessonDiagramSpec): 0 | 1 | 2 | 3 {
   const frames: Partial<Record<LessonDiagramKind, 0 | 1 | 2 | 3>> = {
+    editionWellAquifer: 1,
+    editionVacationTimeline: 3,
+    editionPlantTable: 0,
     detailDeformingBodywork: 3,
     lift: 0,
     hydraulic: 1,

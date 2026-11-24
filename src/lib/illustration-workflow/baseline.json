@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "7ed615921a41865371355a093a2f1052d266f6c4e3c3b7453335b88ebba08223",
+  "sourceDigest": "eeb3e23428c3fa90fbd548d6915f19e84a0788a7040d37bd7be86fbb7f5f799d",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -480,6 +480,15 @@
       "reviewedAt": "2026-11-22T12:25:17.563Z"
     },
     {
+      "path": "/alimentation-et-nutrition/nutriments/macronutriments/cholesterol-ami-ou-ennemi",
+      "visualRefs": ["schema:editionLipidRoutes"],
+      "fingerprint": "584f5df84cad12b08d9143535079e57edc230e002f3a783751d383a2be9644dc",
+      "contentHash": "00945c7ef5a9dbcbd22d39a382fd1aa04629e39743550870915d4a6f1c43a820",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:44.142Z"
+    },
+    {
       "path": "/alimentation-et-nutrition/nutriments/macronutriments/index-et-charge-glycemiques",
       "visualRefs": ["schema:detailGlycemicCurve"],
       "fingerprint": "43df95f1c3e7576e9e760e82734532dd14970c031f469e5f1b3db4977bea8956",
@@ -507,6 +516,15 @@
       "reviewedAt": "2026-11-22T12:25:17.559Z"
     },
     {
+      "path": "/alimentation-et-nutrition/nutriments/microbiote-et-probiotiques/probiotiques-et-prebiotiques",
+      "visualRefs": ["schema:editionFibreColon"],
+      "fingerprint": "5fda6df54ef4090770d8730727c3c0a544f86b79969989093f8f5239d4ecc6ed",
+      "contentHash": "393a3e20d49f8b59dcb671b8fa8fa2dc6a72c31bbdf621c3481c61031ab36a41",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:44.143Z"
+    },
+    {
       "path": "/alimentation-et-nutrition/nutriments/micronutriments/antinutriments-phytates-lectines",
       "visualRefs": ["schema:detailMineralBinding"],
       "fingerprint": "9567582a9b405acbfd5fb5993730b0802da12543f13eeca83afb51fa34092ac2",
@@ -514,6 +532,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-detaillees-2026-11-23/README.md",
       "reviewedAt": "2026-11-23T13:11:18.895Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/nutriments/micronutriments/carence-en-fer-dans-le-monde",
+      "visualRefs": ["schema:editionIronCarrier"],
+      "fingerprint": "bcd0be10e10042dc066ed63540394e030a29466d8509e7b8b837a021990cdc79",
+      "contentHash": "2319c6543d339cceca62021b992ce98bf63797610c67a063fe7aa95bac99a126",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:43.910Z"
     },
     {
       "path": "/alimentation-et-nutrition/nutriments/micronutriments/pourquoi-dit-on-que-les-carottes-font-voir-dans-le-noir",
@@ -534,6 +561,15 @@
       "reviewedAt": "2026-11-23T13:11:18.873Z"
     },
     {
+      "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-cheveux",
+      "visualRefs": ["schema:editionHairFollicle"],
+      "fingerprint": "6bc0542b71d95fac44d553757c1eb6f8cef97b09e879dec202c2c638f223aaa3",
+      "contentHash": "ccc1196881ad86fbc50b5d387a574c53b3d3e8627367960aae24b7c11b116816",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:44.135Z"
+    },
+    {
       "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-dents",
       "visualRefs": ["schema:detailToothFood"],
       "fingerprint": "691a2e3723ae03c24574532b71bea9210c59ea808935610721a0ef4e3dd06f8a",
@@ -552,6 +588,15 @@
       "reviewedAt": "2026-11-23T13:11:19.481Z"
     },
     {
+      "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-peau",
+      "visualRefs": ["schema:editionSkinBarrier"],
+      "fingerprint": "8259fef42ac9fda40ca53e15c3b70954c0a7b22c7c8afdd65d784972b83a30f7",
+      "contentHash": "2f4911c1ed4ff411c57313040b53e3433f6f77aeeb64c6e2b45ef27212825d3c",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:43.909Z"
+    },
+    {
       "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-vue",
       "visualRefs": ["schema:detailRetinaNutrients"],
       "fingerprint": "42a0e28bef95177c3abcd40f0b1f585cf143fb89f9fd9f652e8eebcc92513657",
@@ -561,6 +606,24 @@
       "reviewedAt": "2026-11-23T13:11:19.494Z"
     },
     {
+      "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/allergies-et-intolerances-alimentaires",
+      "visualRefs": ["schema:editionFoodReactions"],
+      "fingerprint": "bfc48e7dca0c0478f753049e663375521f5ea428b19da1076fdb8bb9138608a2",
+      "contentHash": "15b2e5c52fd666e8102d9dad69f31fc81858371d9353dae76b1cc2cdc6de5b89",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:44.630Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/gluten-mythes-et-realites",
+      "visualRefs": ["schema:editionGlutenVillous"],
+      "fingerprint": "da1552151b797f2b2b8b9f0cc32e0040ef8e17bcc16a3e6eea7a269d61f7e459",
+      "contentHash": "7dc1492169e424ed703611781ba5719f947a4de74d7a61c3b68101ab17a8aea0",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:44.629Z"
+    },
+    {
       "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/lactose-et-intolerance",
       "visualRefs": ["schema:lactase"],
       "fingerprint": "09922df8defedce2d910b9c9780157a46caef89d619430d090f87da42f3f9480",
@@ -568,6 +631,33 @@
       "quality": "validee",
       "evidence": "docs/qa/explorations50/README.md",
       "reviewedAt": "2026-11-14T21:33:50.038Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/regime-mediterraneen",
+      "visualRefs": ["schema:editionMediterraneanTable"],
+      "fingerprint": "9261a293d18fa09b8c3dfc050aa59f9a965087725ab67afcb1d37616d18b9b67",
+      "contentHash": "6bdf849eeec1d48fd53ec469f08042a7f951f5c7524254225532087c30001652",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:45.102Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/regimes-vegetariens-et-vegetaliens",
+      "visualRefs": ["schema:editionPlantTable"],
+      "fingerprint": "857d6f1a982f038deb9a005c3c1210a5a0452b443abea76a99c2bc328ff96fa7",
+      "contentHash": "924e3614983c072696c50aae2ade915a14fd6bcadc2c0a01202b3cf24c0ec25b",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:45.084Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/regimes-et-recommandations/reperes-nutritionnels/le-petit-dejeuner-des-adolescents-et-leurs-apports-en-nutriments",
+      "visualRefs": ["schema:editionMorningMeal"],
+      "fingerprint": "4ad6eb5957b8c4b99ee60a2832cc6f723f2fe2b4bd58288b1b82837bc79a09df",
+      "contentHash": "ea48c801b947e1bf53cc8700a9c9272376952e5699b3b431dec60d1c6abc41be",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:45.275Z"
     },
     {
       "path": "/alimentation-et-nutrition/regimes-et-recommandations/reperes-nutritionnels/lecture-etiquettes-alimentaires",
@@ -595,6 +685,42 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
       "reviewedAt": "2026-11-22T12:25:18.018Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/contaminants-alimentaires-normes-securite",
+      "visualRefs": ["schema:editionFoodHazards"],
+      "fingerprint": "78156a9924a9eb7bde12ea6b40a8d93dfacaca09ce6c9739c21d3519817db9c1",
+      "contentHash": "e8c1e59b06e894f149768db86f3b22a542bb3e49cb7be0db655b44ad118da5b6",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:45.297Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/hygiene-en-cuisine",
+      "visualRefs": ["schema:editionKitchenSurfaces"],
+      "fingerprint": "18f2ea756063ce5568be100401381879158ea31ccd2021c9de55d6805eaca16c",
+      "contentHash": "037970c52d3a43bc6ddbf05393d23b7f961b861506a2abb05cf91aeb1a52fc4a",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:45.771Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/metaux-lourds-poissons",
+      "visualRefs": ["schema:editionFishTrophic"],
+      "fingerprint": "9f9b1f4a3d7935f0bba4decd704aa7da6ab6259f0e19ef5c928b3477f77903e8",
+      "contentHash": "d3580fcb8df1c95e398c32a40229c93d4340ea45d871eb9c480076a5f2b7302b",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:45.767Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/pesticides-dans-alimentation",
+      "visualRefs": ["schema:editionPesticideResidue"],
+      "fingerprint": "9a8f7ba438bddd7ed2801814707a6e04a8bf81b5e77f4a69d35a7a10fae16d2a",
+      "contentHash": "56f569983f89bce4e6c6d50e9cbfa64958522c6fa949b4a08530d63e4b806426",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:45.792Z"
     },
     {
       "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/pourquoi-ne-faut-il-pas-couper-la-salade-sur-la-planche-du-poulet-cru",
@@ -687,6 +813,15 @@
       "reviewedAt": "2026-11-20T21:02:05.990Z"
     },
     {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/techniques-conservation-aliments",
+      "visualRefs": ["schema:editionPreservationModes"],
+      "fingerprint": "e3e5474a43cf2822f83bc1033a0ee4770fd3b22440d7f5bada3c6ce81cd2876f",
+      "contentHash": "e24fde92e474bd63ea0e8b45b44e74b9f0642559f0bc97f61fbad50ee74cc316",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:45.924Z"
+    },
+    {
       "path": "/alimentation-et-nutrition/technologies-alimentaires/fermentation/comment-des-bacteries-transforment-elles-le-lait-en-yaourt",
       "visualRefs": ["schema:yogurtculture"],
       "fingerprint": "b38b5a9719bf1f274284053765d38336a4f0b039b6ddf1c50ae7d9276e440e6b",
@@ -759,6 +894,15 @@
       "reviewedAt": "2026-11-12T08:39:12.588Z"
     },
     {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/complements-alimentaires",
+      "visualRefs": ["schema:editionSupplementLabel"],
+      "fingerprint": "aec4589d8abd9ff3d3e51cdadb5483d7aed86df0b289914fd994a70aae15654c",
+      "contentHash": "ca4fa35903af6316e0531891d34a15c4e2e5baee2432b57be2a6854d28ec40a0",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:46.075Z"
+    },
+    {
       "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/cuisson-et-nutriments",
       "visualRefs": ["schema:cookingRetention"],
       "fingerprint": "ac8addab01d862f9dbef6c93152f53deebf86e00d1de570ad281b58588053b58",
@@ -775,6 +919,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
       "reviewedAt": "2026-11-22T12:25:18.617Z"
+    },
+    {
+      "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/graisses-trans",
+      "visualRefs": ["schema:editionFatGeometry"],
+      "fingerprint": "733d35cbeda56dc063214ed21ca702f54629221b957e11adebf769b24a8427da",
+      "contentHash": "b5616505dbcc0265bfd5a2f5d409712677f2bbbe3bd713d5439e540c6cecca03",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:45.067Z"
     },
     {
       "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/huile-de-palme",
@@ -1335,6 +1488,15 @@
       "reviewedAt": "2026-11-23T13:11:20.762Z"
     },
     {
+      "path": "/automobile/industrie-automobile/reglementation-automobile/normes-demissions-euro",
+      "visualRefs": ["schema:editionEmissionsTest"],
+      "fingerprint": "cb04d840247ae41f2013c08a9092bc7807ec6e6123c4b3b7e5f033f0ad7e3f7f",
+      "contentHash": "6fc1b9980405edd103013415af600ee5a9ad54349493bcf272c1a88abfb202f8",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:53.942Z"
+    },
+    {
       "path": "/automobile/industrie-automobile/reglementation-automobile/pourquoi-la-norme-euro-7-s-interesse-t-elle-aussi-aux-freins-et-aux-pneus",
       "visualRefs": ["schema:detailAbrasionSources"],
       "fingerprint": "976214552a64506a19d96409143028e48b9ed4461881dc2c464e4b5e4a68d526",
@@ -1351,6 +1513,33 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
       "reviewedAt": "2026-11-22T12:25:20.725Z"
+    },
+    {
+      "path": "/automobile/industrie-automobile/reglementation-automobile/zones-faibles-emissions-automobile",
+      "visualRefs": ["schema:editionRoadZone"],
+      "fingerprint": "2c5c1cf68c05e40dc61e537b9287f5fa43716133e8b9a3998cc67494694acddc",
+      "contentHash": "b3134a92f3505773ccb466d592700702711eb1dc0067a492c8f194759d758367",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:53.995Z"
+    },
+    {
+      "path": "/automobile/motorisations/carburants-alternatifs/biocarburants-et-carburants-de-synthese",
+      "visualRefs": ["schema:editionFuelOrigins"],
+      "fingerprint": "910ae5d99dec75d65e2fd14715f654bd7605719e046f436e1bc76d80e5c1e341",
+      "contentHash": "6a6fd2d42842dafd0d7288f49542f016851fb86721ac8b4930a2aabe0272a918",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:54.504Z"
+    },
+    {
+      "path": "/automobile/motorisations/carburants-alternatifs/comment-transforme-t-on-de-l-huile-de-friture-usagee-en-carburant",
+      "visualRefs": ["schema:editionOilToFuel"],
+      "fingerprint": "56cb0cf7da368af84cea2c9120a1e098100396172fcc1160efd5b54a472af27d",
+      "contentHash": "b532cf3a6cd1224d79562b64d32612206aa5df103356f4e32cd5db133ddb709f",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:54.591Z"
     },
     {
       "path": "/automobile/motorisations/carburants-alternatifs/voiture-hydrogene-pile-combustible",
@@ -1713,6 +1902,15 @@
       "reviewedAt": "2026-11-23T13:11:21.435Z"
     },
     {
+      "path": "/automobile/securite-et-conduite/conduite-autonome/securite-des-vehicules-autonomes-waymo",
+      "visualRefs": ["schema:editionRobotaxiZone"],
+      "fingerprint": "b4629c3c9ff64c154f268a1e8928791177030568f4ce288a35db16fc0a1648ca",
+      "contentHash": "eb423fa2fc78b6a27058badf678091b1587c49caad6f0b1545e0a40526e6c2fe",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:54.591Z"
+    },
+    {
       "path": "/automobile/securite-et-conduite/direction-assistee-maniabilite",
       "visualRefs": ["schema:steeringAssist"],
       "fingerprint": "2d62d2fdcd215858f0a8a7c2685ad293ec3cebf1df167cd29ea1b98be2877f6f",
@@ -1720,6 +1918,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T20:18:02.237Z"
+    },
+    {
+      "path": "/automobile/securite-et-conduite/donnees-voiture-vie-privee",
+      "visualRefs": ["schema:editionCarDataRoute"],
+      "fingerprint": "8ac4fc7f05605b0e7e973ed7c37fd3593e56ae1699f248dbc17f7fcf1a9fe252",
+      "contentHash": "7da67c5f01abcce0462038fa17ab0a992cfc189d0ce218050ab419a79f09ee63",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:54.592Z"
     },
     {
       "path": "/automobile/securite-et-conduite/ergonomie-fatigue-conduite",
@@ -2109,6 +2316,15 @@
       "reviewedAt": "2026-11-22T12:25:19.986Z"
     },
     {
+      "path": "/communication-et-medias/information-et-verification/journalisme/dans-quels-pays-fait-on-le-plus-confiance-aux-medias",
+      "visualRefs": ["schema:editionMediaTrustSurvey"],
+      "fingerprint": "c8aa5514629016db53245f21846c59a5be05857bb0211da7f31d3bb5009197c8",
+      "contentHash": "c957020ba0fd3744dab3386de37a6389310711e247e5e719c7997f6c70ee33b6",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:54.662Z"
+    },
+    {
       "path": "/communication-et-medias/information-et-verification/journalisme/secret-des-sources-et-protection-des-journalistes",
       "visualRefs": ["schema:protectedSource"],
       "fingerprint": "afd30b862b85edc6265aefdb42dcd560a934daab8cb4b4674102469db8449fd5",
@@ -2118,6 +2334,24 @@
       "reviewedAt": "2026-11-22T12:25:20.005Z"
     },
     {
+      "path": "/communication-et-medias/medias-numeriques/plateformes-et-moderation/comment-le-reglement-europeen-sur-les-services-numeriques-encadre-t-il-les-grandes-plateformes",
+      "visualRefs": ["schema:editionOversightPlatform"],
+      "fingerprint": "b51b271c462c4ca9d3525ec5a86b48293d5450898372261d017158730719281c",
+      "contentHash": "72f18e4bca46e6f683bd2555966faf5ea4242eaa461a3aa4545461318a64d0e8",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:55.192Z"
+    },
+    {
+      "path": "/communication-et-medias/medias-numeriques/plateformes-et-moderation/moderation-des-contenus-en-ligne",
+      "visualRefs": ["schema:editionModerationQueue"],
+      "fingerprint": "3b24c532dd392b70a8a4bab6022885b056842ce7db469de64be1220c5191d3f8",
+      "contentHash": "0d7dbf5fd200531a363207117c49d6c3f4a5567d975ef1c1c220a93aa0fc0fc0",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:55.279Z"
+    },
+    {
       "path": "/communication-et-medias/medias-numeriques/plateformes-et-moderation/pourquoi-votre-fil-d-actualite-ne-ressemble-t-il-pas-a-celui-d-un-ami",
       "visualRefs": ["schema:feedRanking"],
       "fingerprint": "7bdeb7ed0a934f4da8f210ac65f9479a8e5c825d495dd233bc94b0c35e0d0cfe",
@@ -2125,6 +2359,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T20:18:05.721Z"
+    },
+    {
+      "path": "/communication-et-medias/medias-numeriques/plateformes-et-moderation/que-fait-l-arcom-face-aux-fausses-informations",
+      "visualRefs": ["schema:editionRegulatorRoles"],
+      "fingerprint": "183590c5239a63a3f2b0e76a910e8e5f6c2c3bea61ce2e13f6f0502f6208dc44",
+      "contentHash": "389176dec130dc458b0b0a1953613515b8e57275f3ebeb58cbca77d8220065fa",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:55.274Z"
     },
     {
       "path": "/communication-et-medias/medias-numeriques/reseaux-sociaux/economie-de-lattention-et-fils-algorithmiques",
@@ -2334,6 +2577,24 @@
       "reviewedAt": "2026-11-12T18:20:30.893Z"
     },
     {
+      "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/comment-un-defibrillateur-remet-il-de-l-ordre-dans-un-coeur-qui-s-emballe",
+      "visualRefs": ["schema:editionHeartSignal"],
+      "fingerprint": "0dea37ea390b0e28261f84e8c2e8685dbf6c91a3b63b732c9e9b671106f693d7",
+      "contentHash": "430a268fe1c39775543f42840579880d3c887707f8e8377d5ce9b16cd170cc6c",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:46.701Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/les-facteurs-de-risque-cardiovasculaire-modifiables",
+      "visualRefs": ["schema:editionVesselRisks"],
+      "fingerprint": "97f944cf8d65c03cbf3f07cb3b21ed881ffbc31f6f49a5209d9260c6f28cc953",
+      "contentHash": "3708cd183ee3952c3e81788cc65189494241ac69ccdaa16d044efd6092c29690",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:46.817Z"
+    },
+    {
       "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/pourquoi-sent-on-son-coeur-battre-au-poignet",
       "visualRefs": ["schema:pulsewave"],
       "fingerprint": "673b5d7502b015e364f35ee253be08fbf7502c1b8d9be5e697493140eba4bce8",
@@ -2341,6 +2602,15 @@
       "quality": "validee",
       "evidence": "docs/qa/organs12/README.md",
       "reviewedAt": "2026-11-12T18:20:31.490Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/pression-arterielle-et-hypertension",
+      "visualRefs": ["schema:editionPressureWaves"],
+      "fingerprint": "07638121647bcbd12279a4c50da7c078a082c3639975cdffae75896dda55e738",
+      "contentHash": "2ca1a83c4ad5ba60881332c70e2a7b4508486bd8424ad6524ea43fde232db427",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:47.351Z"
     },
     {
       "path": "/corps-humain-et-sante/anatomie/systeme-digestif/digestion-et-absorption-des-nutriments",
@@ -2368,6 +2638,15 @@
       "quality": "validee",
       "evidence": "docs/qa/organs12/README.md",
       "reviewedAt": "2026-11-12T18:20:30.619Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/anatomie/systeme-digestif/vitamines-carences",
+      "visualRefs": ["schema:editionDeficitCurve"],
+      "fingerprint": "a3dbf6703c39aefb8fab3d2a3a009d905a598e51f5f42e5a8ba96c07e48a6652",
+      "contentHash": "eb7e305a1aafa344f08b623fdc3b502e1b2fb3db54c969e1b2d188b094db25a0",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:47.338Z"
     },
     {
       "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/a-quoi-sert-la-douleur",
@@ -2415,6 +2694,15 @@
       "reviewedAt": "2026-11-12T18:20:30.769Z"
     },
     {
+      "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/pourquoi-le-baillement-est-il-contagieux-et-est-ce-un-signe-d-empathie",
+      "visualRefs": ["schema:editionYawnObservation"],
+      "fingerprint": "f23cc86f363368f0e83bb4e891980aae60c72751ff0b18922c4800192fbc4e62",
+      "contentHash": "e844beca83727e40b4f0d964d538c7f6e38773ad2a9746d4ff15f2554eceae8f",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:47.380Z"
+    },
+    {
       "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/systeme-nerveux-structure-fonctionnement",
       "visualRefs": ["schema:neuron"],
       "fingerprint": "1b4095e49d4c4f6a19ff083215c7bd3129924e0bfcd27f72cc476b4fff2cff60",
@@ -2451,6 +2739,15 @@
       "reviewedAt": "2026-11-23T13:11:25.507Z"
     },
     {
+      "path": "/corps-humain-et-sante/maladies/maladies-chroniques/comment-une-cellule-normale-devient-elle-une-cellule-cancereuse",
+      "visualRefs": ["schema:editionCellCycleControl"],
+      "fingerprint": "5da5ccda49884b29626ee53647646c74cf3efca516b617f9114ecb0561915b5b",
+      "contentHash": "5db2b0028325c01d3a5a72b374f6ecb6aba456cac32b58b3657b68ddbca3d4a8",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:47.379Z"
+    },
+    {
       "path": "/corps-humain-et-sante/maladies/maladies-chroniques/comment-une-machine-peut-elle-faire-le-travail-des-reins",
       "visualRefs": ["schema:dialyser"],
       "fingerprint": "94f5e965291310095313d944f40e16ae7aa49ec7b49f3862d2bc655d44c0f238",
@@ -2460,6 +2757,69 @@
       "reviewedAt": "2026-11-12T18:20:31.052Z"
     },
     {
+      "path": "/corps-humain-et-sante/maladies/maladies-chroniques/diabete-de-type-2-mecanismes-et-prevention",
+      "visualRefs": ["schema:editionGlucoseGates"],
+      "fingerprint": "d4e2c484d9cbec6ec774f1d2952f4af4877b6e4e76b9dc766a2ad65997efbcd8",
+      "contentHash": "052ebe51cdfa28488b98c10e38a519557892c8e146bc70a22698df52ffaf29b8",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:47.540Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/maladies/sante-mentale/depression-donnees-et-prise-en-charge",
+      "visualRefs": ["schema:editionDepressionFrames"],
+      "fingerprint": "b3464bd77133b8e2993d8039b0d1145bb5197703c82add99679144c3b67550ab",
+      "contentHash": "8a054c6dca56b6408535727ab10e1904f355e305d7c1bcae8c1d4ac876e0b25a",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:48.045Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/maladies/sante-mentale/le-role-de-l-exercice-physique-sur-la-sante-mentale",
+      "visualRefs": ["schema:editionExerciseMood"],
+      "fingerprint": "7b9e3103df5a2c62bede9ea8534968f0a47eb992f33238f063625551e7611802",
+      "contentHash": "bd1110ec533fa5517508e2ced4bd0e1e5b14600f041ca87839759f2ed74609b5",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:48.135Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/maladies/sante-mentale/les-techniques-de-gestion-du-stress-au-quotidien",
+      "visualRefs": ["schema:editionStressPacing"],
+      "fingerprint": "f9550762e8a2c84d1b2fc2555cadc19afbdc34eb4c5beab43e6c299c5b1bc49c",
+      "contentHash": "050a7d2430211f9dd5e191c232f3ffa893beac38dad12c1dd0b5111c0d9246cf",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:48.743Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/maladies/sante-mentale/stress-post-traumatique",
+      "visualRefs": ["schema:editionTraumaTriggers"],
+      "fingerprint": "a0e720b23c5f7a6a757b9185fadeaa26e77eacb2e2f05d4c30804ad4105c7d7f",
+      "contentHash": "2e8bd5e98f3465fb3aaa31d2ec4bdc623bbd8b78f9a7736baa30a7e092fb133b",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:48.758Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/physiologie/hypothermie-coup-de-chaleur",
+      "visualRefs": ["schema:editionThermalBalance"],
+      "fingerprint": "9e96f7c1d85d9a4e90485bb37cc130acfe56951d1d16146c650604d87f06f1f6",
+      "contentHash": "dce1b29805bd104831df5dfc1383b1a5e1d24b2802140327b6597f064903e5ae",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:47.996Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/physiologie/immunite/allergies-et-hypersensibilite",
+      "visualRefs": ["schema:editionAllergyResponse"],
+      "fingerprint": "02c4053f19a8b76352f7ba9d9a82d0148cdd8e9a33b562ef9d1548cc951b9a87",
+      "contentHash": "74e67a84e4f28333d15083dd7d94e401bc4fd288869be5cc24f9d37a3872703c",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:48.771Z"
+    },
+    {
       "path": "/corps-humain-et-sante/physiologie/immunite/comment-un-anticorps-reconnait-il-un-microbe",
       "visualRefs": ["schema:antibodyfit"],
       "fingerprint": "37147e93f4f6b9899b6fae94f0d6b90b03a54f8d3cd9e4cc675dde33d81b9bf8",
@@ -2467,6 +2827,15 @@
       "quality": "validee",
       "evidence": "docs/qa/organs12/README.md",
       "reviewedAt": "2026-11-12T18:20:31.775Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/physiologie/immunite/immunite-innee-et-adaptative",
+      "visualRefs": ["schema:editionImmuneTimeline"],
+      "fingerprint": "d873e530ffd66517772cfade9e5c89f4c48c0e03ff037de8185ca0da73f4745a",
+      "contentHash": "4ffe4ea3b0429b3e7bfeb5c945d660070e6258ae1b96e51d17c7fc01cc14fcb6",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:48.007Z"
     },
     {
       "path": "/corps-humain-et-sante/physiologie/sommeil/comment-le-corps-sait-il-l-heure-sans-regarder-une-montre",
@@ -2496,6 +2865,15 @@
       "reviewedAt": "2026-11-23T13:11:25.492Z"
     },
     {
+      "path": "/corps-humain-et-sante/physiologie/sommeil/pourquoi-manquer-de-sommeil-affaiblit-il-les-defenses-du-corps",
+      "visualRefs": ["schema:editionSleepDefenses"],
+      "fingerprint": "79cf91944e7abccff9e352072db9683e81c37d7901e6266c9191d1c9d08ac720",
+      "contentHash": "86c308995adf44b77d099a37419d1da939fbc6c8cf53f5a1640ab4975213a3c7",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:48.760Z"
+    },
+    {
       "path": "/corps-humain-et-sante/prevention-et-sante-publique/depistage/comment-verifie-t-on-qu-un-bebe-entend-bien-des-sa-naissance",
       "visualRefs": ["schema:detailEarScreen"],
       "fingerprint": "326807bf61f5393f71421272630a7a4e290ec88cf217d277b290c2fa2765f1b6",
@@ -2503,6 +2881,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-detaillees-2026-11-23/README.md",
       "reviewedAt": "2026-11-23T13:11:26.142Z"
+    },
+    {
+      "path": "/corps-humain-et-sante/prevention-et-sante-publique/depistage/depistage-organise-des-cancers",
+      "visualRefs": ["schema:editionScreeningGroups"],
+      "fingerprint": "440ac84be267fb1e5ad57384d98be108bbb63226b7fc2a6f65a23babccd7b46b",
+      "contentHash": "9cb53fe5863b58dcab9a7618bc177828288fcef14d9e8cfd97f2734e8e961e44",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:48.794Z"
     },
     {
       "path": "/corps-humain-et-sante/prevention-et-sante-publique/vaccination/vaccins-a-arn-messager",
@@ -2514,6 +2901,15 @@
       "reviewedAt": "2026-11-15T11:22:11.093Z"
     },
     {
+      "path": "/droit-et-justice/droit-prive/droit-civil/bail-habitation",
+      "visualRefs": ["schema:editionRentedRooms"],
+      "fingerprint": "2df3acb5d63c4011b9963abb60de4817c8d11294a60e3d99c121dd6eef6d2c53",
+      "contentHash": "64dc059f5c84560f0382f05594aaf74ba4b3f598a486b5fa768b2c5ddfd07408",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:49.456Z"
+    },
+    {
       "path": "/droit-et-justice/droit-prive/droit-civil/code-civil-des-francais-1804",
       "visualRefs": ["schema:detailCivilCode"],
       "fingerprint": "9db6e8b2990eb456ed74ab5bdaa10304493ced162c9c6df80ea4abc0ed15a715",
@@ -2521,6 +2917,33 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-detaillees-2026-11-23/README.md",
       "reviewedAt": "2026-11-23T13:11:28.736Z"
+    },
+    {
+      "path": "/droit-et-justice/droit-prive/droit-civil/contrat-conditions-de-validite",
+      "visualRefs": ["schema:editionContractTerms"],
+      "fingerprint": "622a62637cb5ab83fe1e95cf86c414423f8d0fb8f8b3c1c0e3907304772d329d",
+      "contentHash": "d47efdc1ee3cd5c7cb2765b0b862f3ef592b852c212230d9343f522d5ecfbcd2",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:49.462Z"
+    },
+    {
+      "path": "/droit-et-justice/droit-prive/droit-civil/la-possession-et-la-propriete-deux-notions-distinctes",
+      "visualRefs": ["schema:editionHoldingTitle"],
+      "fingerprint": "43a4b67bbff3a815551c0485f9ae283b54c976a32e7c1f61244233d05340fd3c",
+      "contentHash": "57853c417f7674a579dab6cf2d14db4d12635cf6fe5a022358096bdbd64d2d7d",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:50.136Z"
+    },
+    {
+      "path": "/droit-et-justice/droit-prive/droit-civil/le-contrat-d-assurance-principes-de-base",
+      "visualRefs": ["schema:editionSharedRisk"],
+      "fingerprint": "cb21c69bb11001834dac9d8381a891e5af06e954f73ae6115612a47cc29a28a1",
+      "contentHash": "b568e7a55539dbe52e0b26e0267dd420333a1f3aa6db8e36a4415614b318bebf",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:50.129Z"
     },
     {
       "path": "/droit-et-justice/droit-prive/droit-civil/propriete-cadastre",
@@ -2541,6 +2964,51 @@
       "reviewedAt": "2026-11-23T13:11:28.821Z"
     },
     {
+      "path": "/droit-et-justice/droit-prive/droit-civil/responsabilite-civile-et-reparation",
+      "visualRefs": ["schema:editionLiabilityChain"],
+      "fingerprint": "7c81848e69e76798209dde8c17d1ed6aa533034efdaaca4f627ee1003ee18342",
+      "contentHash": "d3031e41fa61681f7852ed9c5933acc4a60b4d2ac4f7e804a16aeeac657acd0b",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:50.143Z"
+    },
+    {
+      "path": "/droit-et-justice/droit-prive/procedure-et-preuve/comment-peut-on-aller-en-justice-quand-on-n-a-pas-d-argent",
+      "visualRefs": ["schema:editionLegalAccess"],
+      "fingerprint": "f23b2b07abc925e5dfb96fdc61a83367673a59d1c06d6220267ef0803b5fe9a3",
+      "contentHash": "560d75cebb2f085f2166fd86cc2eec625007e30e2f34f7569f1a0200456041ca",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:50.143Z"
+    },
+    {
+      "path": "/droit-et-justice/droit-prive/procedure-et-preuve/mediation-arbitrage",
+      "visualRefs": ["schema:editionMediationRoom"],
+      "fingerprint": "c6fb7cf134681444ece60b3eada136fe6c6bc6ad7412603dcd42a03b528a509a",
+      "contentHash": "2a5bfe7c8ebdaf80fe37a817fcc8ff4423a590c202bdb0f1512fd88805f72dd9",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:50.271Z"
+    },
+    {
+      "path": "/droit-et-justice/droit-prive/procedure-et-preuve/presomption-dinnocence-et-charge-de-la-preuve",
+      "visualRefs": ["schema:editionProofBurden"],
+      "fingerprint": "6f67d9c3803390a811163ad142315ae81dbf73364d4ae26aad98f688e0762005",
+      "contentHash": "5c01811bd048147a1069fecbb421221dd0993f112028d92c3ac66c8f0a5bf6e2",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:51.010Z"
+    },
+    {
+      "path": "/droit-et-justice/droit-public/droit-constitutionnel/constitution-du-4-octobre-1958",
+      "visualRefs": ["schema:editionConstitutionMap"],
+      "fingerprint": "956e505e30108bb872ffda6ec858acd46f33664dfdeded75fedbaa235a0b7651",
+      "contentHash": "3d282c8461337080c82d78b1bdde373d54986179e807637b9768c6ee4865817b",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:51.026Z"
+    },
+    {
       "path": "/droit-et-justice/droit-public/droit-constitutionnel/pourquoi-une-loi-ne-peut-elle-pas-contredire-la-constitution",
       "visualRefs": ["schema:detailNormReview"],
       "fingerprint": "fdd0fa3329b62a756d4115b5c2c5501c1b06bf01bc030d81b7157f978a82f7a3",
@@ -2559,6 +3027,69 @@
       "reviewedAt": "2026-11-23T13:11:29.432Z"
     },
     {
+      "path": "/droit-et-justice/droit-public/droit-de-lenvironnement/comment-la-loi-protege-t-elle-la-nature-dans-un-parc-national",
+      "visualRefs": ["schema:editionParkZoning"],
+      "fingerprint": "0ff335e4c9af1535b0695c599845c52e60ae908cae68aadfa39c2b2527aba906",
+      "contentHash": "18c0bd4ae74fccc64e7388acfc71800ed8a53e14678a01b75a84b46aba300cd1",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:50.959Z"
+    },
+    {
+      "path": "/droit-et-justice/droit-public/droit-de-lenvironnement/principe-de-precaution",
+      "visualRefs": ["schema:editionUncertaintyPrecaution"],
+      "fingerprint": "e7b59d562b3690b20fe0dc20fbe1549f0b7c468b166e271cb49cc70df4a98963",
+      "contentHash": "9f604e87bcf4822a7451cb5f3acf7e7e4c9d8264d38a670c8e34e2b5d7ffb046",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:51.158Z"
+    },
+    {
+      "path": "/droit-et-justice/droit-public/droit-international/cour-penale-internationale-statut-de-rome",
+      "visualRefs": ["schema:editionInternationalCourt"],
+      "fingerprint": "3cd53661c86446e1afffead56f1fb939ca033c26616a96da31a5324e3f9ea685",
+      "contentHash": "a75997d9b6066ec696b3cb04c8ef719295ce2e81a90375999f491f323a0c49cd",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:51.624Z"
+    },
+    {
+      "path": "/droit-et-justice/justice-et-institutions/droits-fondamentaux/comment-la-loi-protege-t-elle-nos-donnees-personnelles-sur-internet",
+      "visualRefs": ["schema:editionPersonalData"],
+      "fingerprint": "2cafeead7d0e6e8e90dbb2fc05e2b24b2c05359397734fa854020ea9fef70e44",
+      "contentHash": "595e2f15a02fcb124b8023ee2e062f7d98831da32163c137121579aa5c6ddae6",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:51.844Z"
+    },
+    {
+      "path": "/droit-et-justice/justice-et-institutions/droits-fondamentaux/declaration-universelle-droits-homme-1948",
+      "visualRefs": ["schema:editionDeclarationRights"],
+      "fingerprint": "9d083cf177068e71b62ead04fdd40e1998c76a932403c6b12081d0195ffd80dd",
+      "contentHash": "b2c240571f7b65fe73c478e5fae032c7e2e103d52f886208094a0b9f580d9568",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:51.013Z"
+    },
+    {
+      "path": "/droit-et-justice/justice-et-institutions/droits-fondamentaux/liberte-dexpression-et-ses-limites",
+      "visualRefs": ["schema:editionExpressionBounds"],
+      "fingerprint": "113064bb5b76411dcd80ec81a17b871948a32ed7818405b3e791191ac6c9a532",
+      "contentHash": "7dd498b87ffe23a385a60e9c844f87ac7bac36ed4f4741d276d634557a2117bf",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:51.760Z"
+    },
+    {
+      "path": "/droit-et-justice/justice-et-institutions/droits-fondamentaux/pourquoi-chacun-a-t-il-droit-a-un-tribunal-independant-et-impartial",
+      "visualRefs": ["schema:editionIndependentCourt"],
+      "fingerprint": "eec1de789a4902dc8f6f4d907e426d3f5d0e5e158bb5c70644b240d6b867a33c",
+      "contentHash": "353b876786fa100a3f9876b6d0eadf945943fc0c0d625da92092d5bf8a9dc41f",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:51.780Z"
+    },
+    {
       "path": "/droit-et-justice/justice-et-institutions/metiers-du-droit/metiers-de-la-justice",
       "visualRefs": ["schema:detailCourtroomRoles"],
       "fingerprint": "e1618892ddbbeefab41bb769476319b7ed625e7826aafdca169c8bf431b0f339",
@@ -2568,6 +3099,87 @@
       "reviewedAt": "2026-11-23T13:11:29.447Z"
     },
     {
+      "path": "/droit-et-justice/justice-et-institutions/organisation-judiciaire/organisation-tribunaux-en-france",
+      "visualRefs": ["schema:editionCourtLevels"],
+      "fingerprint": "6ebb84c298cef900cf59f4040730f77388fd58ca1cbdfadd0453e1aee13e4c29",
+      "contentHash": "74a4f7393270874dea466c58109cb31b1225843936591826de4fc0454846a1d6",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:51.936Z"
+    },
+    {
+      "path": "/droit-et-justice/justice-et-institutions/organisation-judiciaire/pourquoi-la-france-a-t-elle-deux-ordres-de-juridictions-judiciaire-et-administratif",
+      "visualRefs": ["schema:editionTwoJurisdictions"],
+      "fingerprint": "89544fde6205444e3e3b4eaf00ca588d7ef20c9859a4ba9d3bb64373cab1ca99",
+      "contentHash": "622164102e3af430b9cf8d291512bcff7cb78596e77ab1d24f42254ff33f5b3e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:52.358Z"
+    },
+    {
+      "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation/credit-consommation",
+      "visualRefs": ["schema:editionLoanSchedule"],
+      "fingerprint": "a18b4a9892aa3dc2106766b1f7e3a6c623f3e091e75e7af9d195eb82d8d9b72b",
+      "contentHash": "14512dbcc21041f412d6326b32e8cdcad054639d85b63ccd9268b56fe7bb9380",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:52.489Z"
+    },
+    {
+      "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation/la-garantie-legale-de-conformite",
+      "visualRefs": ["schema:editionGoodsConformity"],
+      "fingerprint": "671aaea46a3a255fecfa6196fce71b506b91255e5978bd9cbb9d2eaa70dafa88",
+      "contentHash": "bb48101de5a98e6fc1898d71d7138c1f9e295861f366aded38edf17e9be62a41",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:52.562Z"
+    },
+    {
+      "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation/peut-on-changer-d-avis-apres-un-achat-en-ligne",
+      "visualRefs": ["schema:editionOrderReturn"],
+      "fingerprint": "f0253aa606c40c6d22160584115ce0d5f41a51fa38113dd7a240cd74a62da786",
+      "contentHash": "53e9b21de3749cdcacca87d71598d843fa8f4e4482e7ee1ae4865d90253fe72e",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:53.029Z"
+    },
+    {
+      "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation/pourquoi-une-publicite-n-a-t-elle-pas-le-droit-de-tromper",
+      "visualRefs": ["schema:editionAdvertisingClaims"],
+      "fingerprint": "e7b66c7556c63a4e6ac3f76b496235069069ee9663aee7092c86bac8b196084b",
+      "contentHash": "6cb0ea0b411ea69d337b08e6677967bea7a86e64f4324deffc80522c5cfdf2c9",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:53.077Z"
+    },
+    {
+      "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-du-travail/comment-les-salaries-ont-ils-obtenu-cinq-semaines-de-conges-payes",
+      "visualRefs": ["schema:editionVacationTimeline"],
+      "fingerprint": "4b9d1494708a9f43d92dacf6ed3a48f02836348129d33c9ed08e8ca5a7b3f6e5",
+      "contentHash": "f7a13c3be06b7f9ae6ff6515c1a066494797aa9029852e58c471934845849297",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:53.149Z"
+    },
+    {
+      "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-du-travail/contrat-de-travail-et-licenciement",
+      "visualRefs": ["schema:editionEmploymentExchange"],
+      "fingerprint": "8dc9c5ff1abb0336b4b8ec618fb2d55f44202a20816cf3ec8fdb89a516cfebfd",
+      "contentHash": "c5aa4bbe85ca3c59a85e5009fb642ab030ba80fdc19fa7d5554629faeda614d3",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:52.404Z"
+    },
+    {
+      "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-du-travail/droit-de-greve",
+      "visualRefs": ["schema:editionStrikeDialogue"],
+      "fingerprint": "ac80d34b508d69592fae5a2d6e62f519f57c3bb9c795ea768cd377ef0ff33aad",
+      "contentHash": "4ac1045add706933db3357f6fda4fb0849de6fbc8d147811a29e56d3ec14ccd2",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:53.149Z"
+    },
+    {
       "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-du-travail/le-bulletin-de-salaire-comment-le-lire",
       "visualRefs": ["schema:detailPayslipFlow"],
       "fingerprint": "80d0cabeab9efe77a687cf10d5dc839ff9e9dd958ccd16115bbdb21a7f7a67c3",
@@ -2575,6 +3187,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-detaillees-2026-11-23/README.md",
       "reviewedAt": "2026-11-23T13:11:29.467Z"
+    },
+    {
+      "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-du-travail/quelles-sont-les-regles-du-teletravail-pour-un-salarie-en-france",
+      "visualRefs": ["schema:editionRemoteWork"],
+      "fingerprint": "922f7d0d9ce17f6e2b6531adb9e7cf4f9726bd5d6a114e5a9d53cfe711daef70",
+      "contentHash": "7fa14419c8da630181dd9932989a2b23c535c7023dcdb7d264ca9511ed130e08",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:52.481Z"
     },
     {
       "path": "/energie/efficacite-et-sobriete/efficacite-energetique/cogeneration",
@@ -3171,6 +3792,15 @@
       "reviewedAt": "2026-11-22T12:25:25.687Z"
     },
     {
+      "path": "/environnement-et-climat/biodiversite/forets-et-oceans/comment-lutte-t-on-contre-un-feu-de-foret",
+      "visualRefs": ["schema:editionWildfireLandscape"],
+      "fingerprint": "c35f1eacf9994432cb9381ca6cd8159ef7d596afa5e4276f7b710dd74b59e1b5",
+      "contentHash": "7320bf1ea0a9d83693146cca9b710a4a18a3d3b1055fc8b716e3f08f56922323",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:55.290Z"
+    },
+    {
       "path": "/environnement-et-climat/biodiversite/forets-et-oceans/comment-survivent-les-animaux-dans-les-profondeurs-sombres-de-l-ocean",
       "visualRefs": ["schema:midnightsea"],
       "fingerprint": "c3719999539c0704a8043c27cf2f0b4b2b19f1cbd9d70139b781ce388780c848",
@@ -3457,6 +4087,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-detaillees-2026-11-23/README.md",
       "reviewedAt": "2026-11-23T13:11:24.851Z"
+    },
+    {
+      "path": "/environnement-et-climat/pollution-et-ressources/qualite-de-l-air/pollution-de-lair-ambiant-risque-sanitaire",
+      "visualRefs": ["schema:editionPlumeExposure"],
+      "fingerprint": "13cb27ebcd7a82fe42093ca3efc2552b1bb3c522e10c0f67d12246bb8f3b01bf",
+      "contentHash": "c63fb918fba8c943a7bdbcf5d8dd55a054bd899373b099a24ddb68dfd2491edf",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:55.369Z"
     },
     {
       "path": "/espace-et-astronomie/astrophysique/cosmologie/comment-sait-on-que-l-univers-grandit",
@@ -4080,6 +4719,15 @@
       "reviewedAt": "2026-11-20T20:18:05.402Z"
     },
     {
+      "path": "/geographie-et-territoires/geopolitique/ressources/repartition-mondiale-lithium-ressource-strategique",
+      "visualRefs": ["schema:editionStrategicMinerals"],
+      "fingerprint": "f26ee49cc9b8f776d89103093885778ae3e8ee6fa24867a005ef7f5c00ab6cf1",
+      "contentHash": "275adec53ed0fc14faebf134d05720bbcc68878eb6e1f513779bba8a44ac25e4",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:55.947Z"
+    },
+    {
       "path": "/geographie-et-territoires/geopolitique/ressources/ressources-territoire",
       "visualRefs": ["schema:territoryAssets"],
       "fingerprint": "0b624940adba312150acf1bba54a217a931c57a36cda119a78e07489b09fe309",
@@ -4179,6 +4827,15 @@
       "reviewedAt": "2026-11-12T08:39:13.395Z"
     },
     {
+      "path": "/industries/industrie-lourde/chimie-industrielle/soude-potasse",
+      "visualRefs": ["schema:editionAlkaliCompare"],
+      "fingerprint": "d527807f3314ee6377ef794a18008dd8b8dcec361969a69d9a36668527ceb1dd",
+      "contentHash": "c758298be97588dbfffba6c554a7754ae11842cd3b0f318e755f8ce6fbcfd499",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:56.045Z"
+    },
+    {
       "path": "/industries/industrie-lourde/siderurgie/comment-fabrique-t-on-de-l-acier-avec-un-haut-fourneau-ou-un-four-electrique",
       "visualRefs": ["schema:steelroutes"],
       "fingerprint": "9ec5a8311db404e9afb44d5f9644356bb2d85d57c3520bbea9c194bf7169d213",
@@ -4260,6 +4917,15 @@
       "reviewedAt": "2026-11-15T11:22:12.626Z"
     },
     {
+      "path": "/industries/industrie-manufacturiere/automatisation/pourquoi-la-france-cherche-t-elle-a-reindustrialiser-et-quel-role-jouent-les-robots",
+      "visualRefs": ["schema:editionProductionRobot"],
+      "fingerprint": "cfe5d86275a2641fa0f2d38de8a619ee79758d7fb6e52778fbf7536f7a1838a7",
+      "contentHash": "f849ce0b94f168f14fac817232f7dc39b6a650dc872254eaef1d33eb116de88a",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:56.027Z"
+    },
+    {
       "path": "/industries/industrie-manufacturiere/chaine-logistique/chaine-logistique-mondiale-perturbations",
       "visualRefs": ["schema:logisticsChain"],
       "fingerprint": "67000086be669873404a245a3c439b0f516801cfc001c196210a0707f0b3c101",
@@ -4294,6 +4960,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
       "reviewedAt": "2026-11-19T09:10:34.675Z"
+    },
+    {
+      "path": "/industries/industrie-manufacturiere/chaine-logistique/pourquoi-l-europe-construit-elle-des-usines-geantes-de-batteries-et-reussissent-elles",
+      "visualRefs": ["schema:editionCellFactory"],
+      "fingerprint": "7cd2a56595e996eaddbfc78671a7e302a69f5a0d09fbc77d20678057691be4ee",
+      "contentHash": "549493899cc692751235c2552a8fcc98bebb719ec4208b43d08dc9ac87450abf",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:56.039Z"
     },
     {
       "path": "/industries/industrie-manufacturiere/chaine-logistique/qu-est-ce-qu-un-fab-lab-et-que-peut-on-y-fabriquer",
@@ -4719,6 +5394,15 @@
       "reviewedAt": "2026-11-20T12:15:09.560Z"
     },
     {
+      "path": "/micro-informatique-et-informatique/logiciel/programmation/histoire-principes-langages-programmation",
+      "visualRefs": ["schema:editionProgramLayers"],
+      "fingerprint": "17aa4a1c63ef6091bfcb8d5d42dc629e09613dd53f2f183f2e53b07b39fba384",
+      "contentHash": "641a57af2907be4707d995e853b1397771e1b4f7d656ee98d917e7987a0f5c8d",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:56.789Z"
+    },
+    {
       "path": "/micro-informatique-et-informatique/logiciel/programmation/les-langages-de-programmation-compiles-et-interpretes-une-distinction-fondamentale",
       "visualRefs": ["schema:languageRuntime"],
       "fingerprint": "56529431ca4093a0cbbd71f33442ad57d4367f57cdd554bccc44105d6282e67a",
@@ -4917,6 +5601,15 @@
       "reviewedAt": "2026-11-22T12:25:23.426Z"
     },
     {
+      "path": "/micro-informatique-et-informatique/materiel/processeurs/tsmc-geopolitique-puces",
+      "visualRefs": ["schema:editionChipSupplyMap"],
+      "fingerprint": "59077fc5b166e074de3d9da9a9ec4b15a00f8ea378923226e53ce6fc53912f15",
+      "contentHash": "c2255f1f4e31d279bed5cec7cbc3c1c81a0011647867f0a0ae2f46a39d161166",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:56.100Z"
+    },
+    {
       "path": "/micro-informatique-et-informatique/reseaux-et-securite/chiffrement/comment-le-chiffre-de-vigenere-cachait-il-un-message-mieux-que-celui-de-cesar",
       "visualRefs": ["schema:vigeneregrid"],
       "fingerprint": "fd5a181899734001c89e9b67c3a1883b815b8f023c5b56ab99e77dcf4e57231c",
@@ -5007,6 +5700,15 @@
       "reviewedAt": "2026-11-12T08:39:13.566Z"
     },
     {
+      "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/conserver-recoltes",
+      "visualRefs": ["schema:editionGrainSilo"],
+      "fingerprint": "e89e3227009a48468d77c08552a1cff7eff296ada9dd8e3d1fa4b4f637d7be64",
+      "contentHash": "25cb29d376f922eb20c433cadf2c04a7e4da143ddc26951284d1694b3a8c400a",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:46.648Z"
+    },
+    {
       "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/elevage-traction-animale",
       "visualRefs": ["schema:detailAnimalTraction"],
       "fingerprint": "3ecc830484dce160106ef22702d947bf759ca7ff9a1de7878601c6ee862ef0a3",
@@ -5070,6 +5772,15 @@
       "reviewedAt": "2026-11-12T08:39:13.587Z"
     },
     {
+      "path": "/sciences-du-vivant-appliquees/agronomie/selection-vegetale/plantes-nourrissantes",
+      "visualRefs": ["schema:editionNourishmentVariety"],
+      "fingerprint": "788de2f4681ec961d7666797647a05a9419cba2dd64996baf236dbe7673a153b",
+      "contentHash": "b98616be47511d776e8a2a542e5458d0c0498318b76608980b382c8f9f7064c1",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:46.651Z"
+    },
+    {
       "path": "/sciences-du-vivant-appliquees/agronomie/selection-vegetale/pourquoi-garde-t-on-des-millions-de-graines-dans-une-montagne-glacee-pres-du-pole-nord",
       "visualRefs": ["schema:seedvault"],
       "fingerprint": "de4fbf81b7996a659ce1167712d3642e56910195e76cd053baa952cdf9f808e3",
@@ -5095,6 +5806,15 @@
       "quality": "validee",
       "evidence": "docs/qa/existing-drawings/README.md",
       "reviewedAt": "2026-11-12T13:51:06.008Z"
+    },
+    {
+      "path": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/fertiliser-sans-engrais-industriels",
+      "visualRefs": ["schema:editionNitrogenReturn"],
+      "fingerprint": "d2e1769275990b47851a877090905f7557bedc5a3fa8c9d4c57f4be28b942ee6",
+      "contentHash": "e6f49380b1fb3d92ddf123ac2db4aa1175b94e5d36bf28d93307d49ec3adfed7",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:46.689Z"
     },
     {
       "path": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/reconnaitre-sol",
@@ -5196,6 +5916,51 @@
       "reviewedAt": "2026-11-23T13:11:26.145Z"
     },
     {
+      "path": "/sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves/james-lind-scorbut",
+      "visualRefs": ["schema:editionLindTrial"],
+      "fingerprint": "a2e88f4780a66d5f589fe893f7be8f172b241a51f704bc398296c0ef0c963352",
+      "contentHash": "cae916b907939edaa0be5dcc5c533539f7878cc586a177dab80f921ada155151",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:49.448Z"
+    },
+    {
+      "path": "/sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves/le-double-aveugle-eliminer-les-biais-d-attente",
+      "visualRefs": ["schema:editionBlindTrial"],
+      "fingerprint": "6131dfd94bf2a27f62c970e5ebc7aab15c9026f09361851edb4e345273eac391",
+      "contentHash": "9983538ea6969ba2909dfa6b5c4fdd07adfbddac3d7ad4c88ac96a06c65bff70",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:56.770Z"
+    },
+    {
+      "path": "/sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves/niveaux-de-preuve-en-medecine",
+      "visualRefs": ["schema:editionEvidenceComparison"],
+      "fingerprint": "87fe6505d3a4d2a64d8b407e75fb2bf8606387eef9ddad4d641956dbffb17f7b",
+      "contentHash": "3e27462944eab16de8c040944b189d5e539c58ee4fc187936be4a31c5cd92af1",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:57.273Z"
+    },
+    {
+      "path": "/sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves/pourquoi-un-faux-medicament-peut-il-parfois-soulager",
+      "visualRefs": ["schema:editionPlaceboTrial"],
+      "fingerprint": "907fd3684fa334c88e0040f80c5b2baa2f95d6c6c084edcae52bbd55ae60996b",
+      "contentHash": "5de5a0f14160eeb9e1f1987f7356be866044ac968ee19ee9d41d08b25badde56",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:57.430Z"
+    },
+    {
+      "path": "/sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves/semmelweis-lavage-mains",
+      "visualRefs": ["schema:editionHandWashingHistory"],
+      "fingerprint": "693aa10f8b46112bbafa93ce5172295257ab442646cc7550c1d2d101c38f1e95",
+      "contentHash": "24c31bf72e4309119ab286e15b69c0a28ff066bc58a6174a182bd6e2a51d12a1",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:49.474Z"
+    },
+    {
       "path": "/sciences-du-vivant-appliquees/medecine/pharmacologie/comment-un-antibiotique-tue-t-il-les-bacteries-sans-abimer-nos-cellules",
       "visualRefs": ["schema:antibiotictarget"],
       "fingerprint": "cca41e01951a83c263ab623fec0c74fde273bf343010d2eb01abcd6588d44577",
@@ -5203,6 +5968,24 @@
       "quality": "validee",
       "evidence": "docs/qa/horizons50/README.md",
       "reviewedAt": "2026-11-15T11:22:12.810Z"
+    },
+    {
+      "path": "/sciences-du-vivant-appliquees/medecine/pharmacologie/ecorce-saule-aspirine",
+      "visualRefs": ["schema:editionWillowMedicine"],
+      "fingerprint": "c1b247a7e75c3838c07dea29529e816b0e7105632adea2b0abd89dbc2f9881a6",
+      "contentHash": "6f22dc47863b1681745818854ad792f84f424e8607e4478d6110eb1c00564da1",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:57.428Z"
+    },
+    {
+      "path": "/sciences-du-vivant-appliquees/medecine/pharmacologie/principes-pharmacologie-essais-cliniques",
+      "visualRefs": ["schema:editionPhasesTrial"],
+      "fingerprint": "5dbf2d615bb0c3f1594999b450ff2fc67cd670510739182e9da3f54165658e53",
+      "contentHash": "633ba7a2ca04151f30b2005db58e5d9dde7b84ffb84dc75eff67dcdab5961883",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:57.437Z"
     },
     {
       "path": "/sciences-fondamentales/biologie/cellule/comment-une-feuille-fabrique-t-elle-du-sucre-avec-de-la-lumiere",
@@ -5817,6 +6600,15 @@
       "reviewedAt": "2026-11-22T12:25:27.728Z"
     },
     {
+      "path": "/sciences-humaines-et-sociales/economie/macroeconomie/pourquoi-les-prix-ont-ils-flambe-au-xvie-siecle-selon-jean-bodin",
+      "visualRefs": ["schema:editionBodinPrices"],
+      "fingerprint": "248dac1cb23fe8bf724860ac2866d2b3ce2f85c43af32ac379266ffe08a12130",
+      "contentHash": "985c4327668bd2cbbf61a3d83de4bea3b20c6329cef90c7b7e180e3dd47ae455",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:53.226Z"
+    },
+    {
       "path": "/sciences-humaines-et-sociales/economie/macroeconomie/troc-invention-monnaie",
       "visualRefs": ["schema:barterExchange"],
       "fingerprint": "20f1c1d3ea5021575eb5d12e343df42ed016e6f546f3d024b462ccfe64a3705d",
@@ -5851,6 +6643,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T20:18:06.503Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/economie/microeconomie/epargne-de-precaution",
+      "visualRefs": ["schema:editionReserveBuffer"],
+      "fingerprint": "48c5b12523d66a8a5d62dd71f5be2c277227aff882220ccfeb2a18d685911cf1",
+      "contentHash": "cc1ad1857d7a3c70c64dd3bc757ff173ce651a893b6eb30f9b628fb9b3f3cc0b",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:53.819Z"
     },
     {
       "path": "/sciences-humaines-et-sociales/economie/microeconomie/interets-composes",
@@ -5898,6 +6699,15 @@
       "reviewedAt": "2026-11-22T12:25:27.750Z"
     },
     {
+      "path": "/sciences-humaines-et-sociales/economie/microeconomie/tenir-son-budget-personnel",
+      "visualRefs": ["schema:editionBudgetEnvelope"],
+      "fingerprint": "e9a396f32b9a4ca0c7e2e578c939a8bfe8b1557860a4d0fb34c05651784685ba",
+      "contentHash": "a21d33f8cb8eafda15e5ae4ec88321d9189ed06748498a1e8a52f25eaec67aa3",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:53.908Z"
+    },
+    {
       "path": "/sciences-humaines-et-sociales/histoire/epoque-contemporaine/grandes-transformations-epoque-contemporaine",
       "visualRefs": ["schema:industrialTransition"],
       "fingerprint": "9a9d0151bcd569582ed416c3b02f06d96ebae3eb77b78a268d68e6eeed9a6578",
@@ -5914,6 +6724,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
       "reviewedAt": "2026-11-22T12:25:28.392Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/histoire/epoque-contemporaine/pourquoi-la-revolution-industrielle-a-t-elle-provoque-autant-de-revoltes-et-de-lois-sociales",
+      "visualRefs": ["schema:editionLaborWorkshop"],
+      "fingerprint": "bcbe341bbd479ec9f9cce3181b70c7d0b7a7b9bfb55cbde0a9e1b6b1fb49c8b4",
+      "contentHash": "c0a3f966c3005b446b8429f531964a5052c2962ef81c4757150e1e8d1211e1f9",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:57.439Z"
     },
     {
       "path": "/sciences-humaines-et-sociales/histoire/methode-historique/comment-le-carbone-14-permet-il-de-dater-un-os-ou-un-morceau-de-bois",
@@ -5979,6 +6798,15 @@
       "reviewedAt": "2026-11-22T12:25:28.488Z"
     },
     {
+      "path": "/sciences-humaines-et-sociales/psychologie/biais-cognitifs/comment-nos-emotions-orientent-elles-nos-decisions-sans-qu-on-s-en-rende-compte",
+      "visualRefs": ["schema:editionEmotionContext"],
+      "fingerprint": "bc3413a002412d2de0ceeab7490018e1c4e8fa04e37776a78c5654dd1b7f0aec",
+      "contentHash": "b5ed4973af22989ca803c74034c08ca34350c354bfe4b0c5e9409271936fcc20",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:57.839Z"
+    },
+    {
       "path": "/sciences-humaines-et-sociales/psychologie/biais-cognitifs/l-effet-dunning-kruger-surestimer-sa-propre-competence",
       "visualRefs": ["schema:skillCalibration"],
       "fingerprint": "12c3bc8cdaf36063c8756888797b8c45c2d86a07f92cfbe49c81276c65f5396d",
@@ -6024,6 +6852,15 @@
       "reviewedAt": "2026-11-22T12:25:26.431Z"
     },
     {
+      "path": "/sciences-humaines-et-sociales/psychologie/cognition/pourquoi-croit-on-aux-fausses-informations-meme-quand-on-se-croit-prudent",
+      "visualRefs": ["schema:editionClaimRepetition"],
+      "fingerprint": "9bbac1fe25f27b27d631334175a89e0520c6649229f8ede7b55ff42bc3cf09a8",
+      "contentHash": "73e4f6c44dee4347fa8743ea7e9e7d641f7aa145587a868dc60c4b9afd1e0e8b",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:58.184Z"
+    },
+    {
       "path": "/sciences-humaines-et-sociales/psychologie/cognition/pourquoi-ne-peut-on-pas-bien-faire-deux-choses-a-la-fois",
       "visualRefs": ["schema:taskSwitching"],
       "fingerprint": "793c9e9002f5d9e04d83c4784f0edcfded5581ee8fb714a4e2519931a24033ce",
@@ -6033,6 +6870,15 @@
       "reviewedAt": "2026-11-20T21:02:10.605Z"
     },
     {
+      "path": "/sciences-humaines-et-sociales/psychologie/cognition/pourquoi-reviser-en-plusieurs-fois-aide-t-il-a-mieux-retenir",
+      "visualRefs": ["schema:editionSpacedRecall"],
+      "fingerprint": "f729ecf92335b75bfbbff25bed21182050e65c1122be740bd0a3c6db64b18be1",
+      "contentHash": "5c2919f66f3dbd71e7deff65102e9bca24d5998feb74183edecab089425d08fa",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:58.161Z"
+    },
+    {
       "path": "/sciences-humaines-et-sociales/psychologie/cognition/processus-cognitifs-memoire-attention",
       "visualRefs": ["schema:attentionGate"],
       "fingerprint": "13905f168cf262883467dbf94e946af6e825d5279d0cf52adde7bce619bfbb8b",
@@ -6040,6 +6886,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
       "reviewedAt": "2026-11-22T12:25:26.457Z"
+    },
+    {
+      "path": "/sciences-humaines-et-sociales/psychologie/developpement/pourquoi-un-nouveau-ne-serre-t-il-fort-le-doigt-qu-on-lui-tend",
+      "visualRefs": ["schema:editionGraspReflex"],
+      "fingerprint": "41ca263b0175b3c406f2ec2569d22f29ba45870b2e6483c2a37636d31c8f577a",
+      "contentHash": "ad035f99bc5f092a56fa1a3b4a0ffad5ffa664f79080983e703c2d21e75842d1",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:48.043Z"
     },
     {
       "path": "/sciences-humaines-et-sociales/psychologie/developpement/stades-developpement-enfant-piaget",
@@ -6339,6 +7194,15 @@
       "reviewedAt": "2026-11-23T13:11:27.460Z"
     },
     {
+      "path": "/sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante/bouger-est-un-medicament",
+      "visualRefs": ["schema:editionActivityBouts"],
+      "fingerprint": "b95c8194d001c9c647a6a63eb5ac8a35a1205b72e8dba32fc694f370bb3a2eda",
+      "contentHash": "af57f814b43f828bfb4157e82bd777157738124f0d90b0b0b0e6fc24f5dd2c56",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:49.458Z"
+    },
+    {
       "path": "/sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante/porter-soulever-sans-blesser",
       "visualRefs": ["schema:detailLiftingMoment"],
       "fingerprint": "18caf88141bc0682231480be7033ffa9e93b17a7b6a5c164a569af7856afe318",
@@ -6364,6 +7228,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-detaillees-2026-11-23/README.md",
       "reviewedAt": "2026-11-23T13:11:22.104Z"
+    },
+    {
+      "path": "/sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport/economie-mondiale-du-sport",
+      "visualRefs": ["schema:editionSportRevenue"],
+      "fingerprint": "90fbc8111b71775e3ab329c05b9d9e395183edf3e196217b17c45b556b7d758c",
+      "contentHash": "df9f375c5c9107bb4a3a0774e97a1a3d20494f3d5ff7ea36d4a742eaa8032e1d",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:53.929Z"
     },
     {
       "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/comment-choisir-un-materiau",
@@ -6427,6 +7300,15 @@
       "quality": "validee",
       "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
       "reviewedAt": "2026-11-22T12:25:22.697Z"
+    },
+    {
+      "path": "/technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience/defaillances-techniques-et-causes-multiples",
+      "visualRefs": ["schema:editionFailureBarriers"],
+      "fingerprint": "b693145d96de34edde7a96641ed051a7430ca3422375eb0320d3ff63ffe1fad4",
+      "contentHash": "4df27b9c6f4ce1267ebf4f512c85700941fdb25d36eecdac6cb36613e28252d4",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:56.621Z"
     },
     {
       "path": "/technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience/pourquoi-construit-on-les-batiments-et-les-machines-plus-solides-que-necessaire",
@@ -6537,6 +7419,15 @@
       "reviewedAt": "2026-11-22T12:25:22.713Z"
     },
     {
+      "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/la-construction-de-puits-et-de-forages",
+      "visualRefs": ["schema:editionWellAquifer"],
+      "fingerprint": "5d49a5b1a4ef764d4a86ed1968b10354899809032f2f0accaf8cdee6aacce832",
+      "contentHash": "7d12aeab1a062c82dc77086b8743a8c930f578d3f78403f7f2b8696da74850a2",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:56.781Z"
+    },
+    {
       "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/ponts-et-entretien-des-ouvrages",
       "visualRefs": ["schema:bridgeinspection"],
       "fingerprint": "7fce1478e0f2cd8aae11d6b5b61708c957c2cf917dedfd7a7580a1a75f32ccb9",
@@ -6616,6 +7507,15 @@
       "quality": "validee",
       "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
       "reviewedAt": "2026-11-20T12:15:10.756Z"
+    },
+    {
+      "path": "/technologies-et-ingenierie/nanotechnologies/applications/applications-nanotechnologies-medecine-industrie",
+      "visualRefs": ["schema:editionNanoScale"],
+      "fingerprint": "b864230e39371798f92ffaff9e4c6e81a9d4cf293ecd7cae6b66ff9e4a58101f",
+      "contentHash": "a2f7bf0999a1091081bb1e76756222fbe91ca767bdb60d7688533e18791f3378",
+      "quality": "validee",
+      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
+      "reviewedAt": "2026-11-24T05:14:56.770Z"
     },
     {
       "path": "/technologies-et-ingenierie/nanotechnologies/applications/comment-construit-on-des-structures-a-l-echelle-du-milliardieme-de-metre",

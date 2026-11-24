@@ -1,3 +1,4 @@
+import { EditionLessonDrawing, hasEditionLessonDrawing } from "./EditionLessonDrawing";
 import { DetailedLessonDrawing, hasDetailedLessonDrawing } from "./DetailedLessonDrawing";
 import { EverydayDrawing } from "./EverydayDrawing";
 import { Thematic50Drawing } from "./Thematic50Drawing";
@@ -157,7 +158,9 @@ export function LessonDiagramCanvas({
         <AISocietyDrawing {...props} />
         <LearningProcessDrawing {...props} />
         <EverydayDrawing {...props} />
-        {hasDetailedLessonDrawing(spec.id) ? (
+        {hasEditionLessonDrawing(spec.id) ? (
+          <EditionLessonDrawing {...props} />
+        ) : hasDetailedLessonDrawing(spec.id) ? (
           <DetailedLessonDrawing {...props} />
         ) : hasAtlas100Drawing(spec.id) ? (
           <Atlas100Drawing {...props} />

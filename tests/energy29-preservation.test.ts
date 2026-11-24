@@ -1,3 +1,4 @@
+import { EDITION_LESSON_DIAGRAMS } from "../src/lib/lesson-visuals/edition20261124";
 import { DETAILED_LESSON_DIAGRAMS } from "../src/lib/lesson-visuals/detailed20261123";
 import { ATLAS100_DIAGRAMS } from "../src/lib/lesson-visuals/atlas100";
 import { ATLAS65_DIAGRAMS } from "../src/lib/lesson-visuals/atlas65";
@@ -21,6 +22,7 @@ it("preserves the exact markup of every previously delivered diagram in all thre
     [
       ...ATLAS100_DIAGRAMS,
       ...DETAILED_LESSON_DIAGRAMS,
+      ...EDITION_LESSON_DIAGRAMS,
       ...ATLAS65_DIAGRAMS,
       ...THEMATIC50_DIAGRAMS,
       ...ENERGY29_DIAGRAMS,

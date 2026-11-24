@@ -1,0 +1,5792 @@
+{
+  "browser": "Chromium headless",
+  "lessonCount": 100,
+  "viewCounts": {
+    "2": 6,
+    "3": 90,
+    "4": 4
+  },
+  "stateActivations": 596,
+  "minTextMobilePx": 12.6,
+  "issues": {
+    "console": 0,
+    "pageOverflow": 0,
+    "textOutside": 0,
+    "textOverlap": 0,
+    "invalidSvgReferences": 0
+  },
+  "lessons": [
+    {
+      "ref": "LEC-F175768216B2",
+      "drawing": "editionLipidRoutes",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Transport par LDL",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Retour par HDL",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Dans l’artère",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F175768216B2",
+      "drawing": "editionLipidRoutes",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Transport par LDL",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Retour par HDL",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Dans l’artère",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-892417BE920B",
+      "drawing": "editionFibreColon",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Prébiotique",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Probiotique",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Comparer les deux",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-892417BE920B",
+      "drawing": "editionFibreColon",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Prébiotique",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Probiotique",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Comparer les deux",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1A604325ED55",
+      "drawing": "editionIronCarrier",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Réserves",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Transport",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Réserves en baisse",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1A604325ED55",
+      "drawing": "editionIronCarrier",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Réserves",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Transport",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Réserves en baisse",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-3FCFD9FEC7E7",
+      "drawing": "editionHairFollicle",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Dans la peau",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Vers la surface",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-3FCFD9FEC7E7",
+      "drawing": "editionHairFollicle",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Dans la peau",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Vers la surface",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F34407601DBB",
+      "drawing": "editionSkinBarrier",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Couche externe",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Renouvellement",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Échanges",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F34407601DBB",
+      "drawing": "editionSkinBarrier",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Couche externe",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Renouvellement",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Échanges",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1FBFC46B7C72",
+      "drawing": "editionFoodReactions",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Réponse immunitaire",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Digestion du lactose",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Deux mécanismes",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1FBFC46B7C72",
+      "drawing": "editionFoodReactions",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Réponse immunitaire",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Digestion du lactose",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Deux mécanismes",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B4709FED2182",
+      "drawing": "editionGlutenVillous",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Surface plissée",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Maladie cœliaque",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B4709FED2182",
+      "drawing": "editionGlutenVillous",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Surface plissée",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Maladie cœliaque",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-CC99DA5B45E7",
+      "drawing": "editionMediterraneanTable",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Base végétale",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Autres aliments",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Sur la durée",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-CC99DA5B45E7",
+      "drawing": "editionMediterraneanTable",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Base végétale",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Autres aliments",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Sur la durée",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C1A6640E6E76",
+      "drawing": "editionPlantTable",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Végétalien et végétarien",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Faire varier",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Vitamine B12",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C1A6640E6E76",
+      "drawing": "editionPlantTable",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Végétalien et végétarien",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Faire varier",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Vitamine B12",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-11680B10F672",
+      "drawing": "editionFatGeometry",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Configuration cis",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Configuration trans",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "La double liaison",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-11680B10F672",
+      "drawing": "editionFatGeometry",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Configuration cis",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Configuration trans",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "La double liaison",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C0405D50853C",
+      "drawing": "editionMorningMeal",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Les aliments",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Le reste de la journée",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C0405D50853C",
+      "drawing": "editionMorningMeal",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Les aliments",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Le reste de la journée",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E226209F712F",
+      "drawing": "editionFoodHazards",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Biologique",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Chimique",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Physique",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E226209F712F",
+      "drawing": "editionFoodHazards",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Biologique",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Chimique",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Physique",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C63853B07C47",
+      "drawing": "editionKitchenSurfaces",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Transfert",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Deux surfaces",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Nettoyage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C63853B07C47",
+      "drawing": "editionKitchenSurfaces",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Transfert",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Deux surfaces",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Nettoyage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E5117A86F0EC",
+      "drawing": "editionFishTrophic",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Chaîne alimentaire",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Accumulation",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Espèces différentes",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E5117A86F0EC",
+      "drawing": "editionFishTrophic",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Chaîne alimentaire",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Accumulation",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Espèces différentes",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-57351428123E",
+      "drawing": "editionPesticideResidue",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Prélèvement",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Analyse",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Comparer à la limite",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-57351428123E",
+      "drawing": "editionPesticideResidue",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Prélèvement",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Analyse",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Comparer à la limite",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9A58E678727C",
+      "drawing": "editionPreservationModes",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Froid",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Eau disponible",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Traitement et protection",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9A58E678727C",
+      "drawing": "editionPreservationModes",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Froid",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Eau disponible",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Traitement et protection",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E177E4381391",
+      "drawing": "editionSupplementLabel",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "La substance",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "La portion",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Cumul des produits",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E177E4381391",
+      "drawing": "editionSupplementLabel",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "La substance",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "La portion",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Cumul des produits",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9C36DB3C44A0",
+      "drawing": "editionGrainSilo",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Stockage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Air et humidité",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Surveillance",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9C36DB3C44A0",
+      "drawing": "editionGrainSilo",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Stockage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Air et humidité",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Surveillance",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0584AA7204F7",
+      "drawing": "editionNourishmentVariety",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Énergie",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Protéines",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Vitamines et minéraux",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0584AA7204F7",
+      "drawing": "editionNourishmentVariety",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Énergie",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Protéines",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Vitamines et minéraux",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C7F58A418282",
+      "drawing": "editionNitrogenReturn",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Résidus végétaux",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Transformation dans le sol",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Racines",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C7F58A418282",
+      "drawing": "editionNitrogenReturn",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Résidus végétaux",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Transformation dans le sol",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Racines",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AA81F40FCCFC",
+      "drawing": "editionHeartSignal",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Activité désordonnée",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Interruption",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Reprise possible",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AA81F40FCCFC",
+      "drawing": "editionHeartSignal",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Activité désordonnée",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Interruption",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Reprise possible",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-BEAEB1FF85CD",
+      "drawing": "editionVesselRisks",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Une artère",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Formation d’une plaque",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Plusieurs facteurs",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-BEAEB1FF85CD",
+      "drawing": "editionVesselRisks",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Une artère",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Formation d’une plaque",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Plusieurs facteurs",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-3BA043697ECB",
+      "drawing": "editionPressureWaves",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Systolique",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Diastolique",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Plusieurs mesures",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-3BA043697ECB",
+      "drawing": "editionPressureWaves",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Systolique",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Diastolique",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Plusieurs mesures",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9D758D30D888",
+      "drawing": "editionDeficitCurve",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Apports et besoins",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Réserves",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Fonction touchée",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9D758D30D888",
+      "drawing": "editionDeficitCurve",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Apports et besoins",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Réserves",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Fonction touchée",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-7D91E944C024",
+      "drawing": "editionYawnObservation",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Le signal",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "La réponse",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Le contexte",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-7D91E944C024",
+      "drawing": "editionYawnObservation",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Le signal",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "La réponse",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Le contexte",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F147943594FB",
+      "drawing": "editionCellCycleControl",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Division contrôlée",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Contrôles altérés",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Accumulation de cellules",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F147943594FB",
+      "drawing": "editionCellCycleControl",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Division contrôlée",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Contrôles altérés",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Accumulation de cellules",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F4B58C094B5A",
+      "drawing": "editionGlucoseGates",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Insuline et glucose",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Résistance",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Glucose dans le sang",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F4B58C094B5A",
+      "drawing": "editionGlucoseGates",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Insuline et glucose",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Résistance",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Glucose dans le sang",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-8004279E6465",
+      "drawing": "editionThermalBalance",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Équilibre",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Perte nette",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Gain net",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-8004279E6465",
+      "drawing": "editionThermalBalance",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Équilibre",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Perte nette",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Gain net",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-BFC7C8A2218E",
+      "drawing": "editionImmuneTimeline",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Réponse innée",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Réponse adaptative",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Mémoire",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-BFC7C8A2218E",
+      "drawing": "editionImmuneTimeline",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Réponse innée",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Réponse adaptative",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Mémoire",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-09059FBEC55C",
+      "drawing": "editionGraspReflex",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Toucher la paume",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Fermeture de la main",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-09059FBEC55C",
+      "drawing": "editionGraspReflex",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Toucher la paume",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Fermeture de la main",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1B88BFF7F284",
+      "drawing": "editionDepressionFrames",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Plusieurs dimensions",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Durée",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Retentissement",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1B88BFF7F284",
+      "drawing": "editionDepressionFrames",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Plusieurs dimensions",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Durée",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Retentissement",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0076F68DF088",
+      "drawing": "editionExerciseMood",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Une séance",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Juste après",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Sur la durée",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0076F68DF088",
+      "drawing": "editionExerciseMood",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Une séance",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Juste après",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Sur la durée",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2A64B533C0D4",
+      "drawing": "editionStressPacing",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Demande et réponse",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Pause",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Après la pause",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2A64B533C0D4",
+      "drawing": "editionStressPacing",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Demande et réponse",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Pause",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Après la pause",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AE0CC40747F4",
+      "drawing": "editionTraumaTriggers",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Un indice",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Une réponse automatique",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Un contexte changeant",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AE0CC40747F4",
+      "drawing": "editionTraumaTriggers",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Un indice",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Une réponse automatique",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Un contexte changeant",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-A97F9B1CF240",
+      "drawing": "editionAllergyResponse",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Reconnaissance",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Médiateurs",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Dans les tissus",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-A97F9B1CF240",
+      "drawing": "editionAllergyResponse",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Reconnaissance",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Médiateurs",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Dans les tissus",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0FAB3FF6BA94",
+      "drawing": "editionSleepDefenses",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Temps de sommeil",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Échanges",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Sur plusieurs nuits",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0FAB3FF6BA94",
+      "drawing": "editionSleepDefenses",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Temps de sommeil",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Échanges",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Sur plusieurs nuits",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-6018D1F965A3",
+      "drawing": "editionScreeningGroups",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Population",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Résultats",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Examens",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 3,
+          "label": "Bénéfices et limites",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-6018D1F965A3",
+      "drawing": "editionScreeningGroups",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Population",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Résultats",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Examens",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 3,
+          "label": "Bénéfices et limites",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-BCE1B9126BFC",
+      "drawing": "editionLindTrial",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "En mer",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Groupes comparés",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Observer l’évolution",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-BCE1B9126BFC",
+      "drawing": "editionLindTrial",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "En mer",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Groupes comparés",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Observer l’évolution",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E89661263D0D",
+      "drawing": "editionHandWashingHistory",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Deux services",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Changement de pratique",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Après le changement",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E89661263D0D",
+      "drawing": "editionHandWashingHistory",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Deux services",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Changement de pratique",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Après le changement",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F4FD1CFEBF4A",
+      "drawing": "editionActivityBouts",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Moments séparés",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Temps cumulé",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Contexte",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F4FD1CFEBF4A",
+      "drawing": "editionActivityBouts",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Moments séparés",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Temps cumulé",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Contexte",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0B835B9FDE7F",
+      "drawing": "editionRentedRooms",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Le logement",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Usage et paiement",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "État des lieux",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-0B835B9FDE7F",
+      "drawing": "editionRentedRooms",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Le logement",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Usage et paiement",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "État des lieux",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C943C02A6D3A",
+      "drawing": "editionContractTerms",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Consentement",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Capacité",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Contenu",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C943C02A6D3A",
+      "drawing": "editionContractTerms",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Consentement",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Capacité",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Contenu",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-69409007F5E2",
+      "drawing": "editionHoldingTitle",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Usage de fait",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Droit de propriété",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-69409007F5E2",
+      "drawing": "editionHoldingTitle",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Usage de fait",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Droit de propriété",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-70722209BDDF",
+      "drawing": "editionSharedRisk",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Primes",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Événement",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Couverture",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-70722209BDDF",
+      "drawing": "editionSharedRisk",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Primes",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Événement",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Couverture",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-A33AAA628409",
+      "drawing": "editionLiabilityChain",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Le fait",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Le dommage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Le lien",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-A33AAA628409",
+      "drawing": "editionLiabilityChain",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Le fait",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Le dommage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Le lien",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D06F48C921B3",
+      "drawing": "editionLegalAccess",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Identifier le besoin",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Critères",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Prise en charge",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D06F48C921B3",
+      "drawing": "editionLegalAccess",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Identifier le besoin",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Critères",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Prise en charge",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1DBA3FCF104D",
+      "drawing": "editionMediationRoom",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Médiation",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Arbitrage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1DBA3FCF104D",
+      "drawing": "editionMediationRoom",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Médiation",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Arbitrage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-71010854325E",
+      "drawing": "editionProofBurden",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Au départ",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Examiner les preuves",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Décision",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-71010854325E",
+      "drawing": "editionProofBurden",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Au départ",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Examiner les preuves",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Décision",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-4CC37769F27A",
+      "drawing": "editionConstitutionMap",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Règle de référence",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Institutions",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Relations",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-4CC37769F27A",
+      "drawing": "editionConstitutionMap",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Règle de référence",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Institutions",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Relations",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AFA99A765FFA",
+      "drawing": "editionDeclarationRights",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Dignité",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Libertés",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Universalité",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AFA99A765FFA",
+      "drawing": "editionDeclarationRights",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Dignité",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Libertés",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Universalité",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F01248F4935F",
+      "drawing": "editionParkZoning",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Le cœur",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Aire d’adhésion",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "La charte",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F01248F4935F",
+      "drawing": "editionParkZoning",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Le cœur",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Aire d’adhésion",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "La charte",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9202061CE6AB",
+      "drawing": "editionUncertaintyPrecaution",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Un risque plausible",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Évaluer",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Réexaminer",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9202061CE6AB",
+      "drawing": "editionUncertaintyPrecaution",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Un risque plausible",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Évaluer",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Réexaminer",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-52040058E047",
+      "drawing": "editionInternationalCourt",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Compétence",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Les personnes",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Coopération",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-52040058E047",
+      "drawing": "editionInternationalCourt",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Compétence",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Les personnes",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Coopération",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2E04F44E132A",
+      "drawing": "editionPersonalData",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Collecte",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Finalité et durée",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Les droits",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2E04F44E132A",
+      "drawing": "editionPersonalData",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Collecte",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Finalité et durée",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Les droits",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-FB532AC07EBE",
+      "drawing": "editionExpressionBounds",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Exprimer et recevoir",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Restrictions",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Apprécier le contexte",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-FB532AC07EBE",
+      "drawing": "editionExpressionBounds",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Exprimer et recevoir",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Restrictions",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Apprécier le contexte",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D22313FF0B29",
+      "drawing": "editionIndependentCourt",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Indépendance",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Impartialité",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Procédure",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D22313FF0B29",
+      "drawing": "editionIndependentCourt",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Indépendance",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Impartialité",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Procédure",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-5D2C013A119D",
+      "drawing": "editionCourtLevels",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Première instance",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Appel",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Cassation",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-5D2C013A119D",
+      "drawing": "editionCourtLevels",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Première instance",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Appel",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Cassation",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-7746759BADE3",
+      "drawing": "editionTwoJurisdictions",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Judiciaire",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Administratif",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Compétence",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-7746759BADE3",
+      "drawing": "editionTwoJurisdictions",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Judiciaire",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Administratif",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Compétence",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B69BEC466527",
+      "drawing": "editionEmploymentExchange",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Travail",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Rémunération",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Subordination",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B69BEC466527",
+      "drawing": "editionEmploymentExchange",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Travail",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Rémunération",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Subordination",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-84B2BD0DA69D",
+      "drawing": "editionRemoteWork",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Hors du site",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Organisation",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Temps et droits",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-84B2BD0DA69D",
+      "drawing": "editionRemoteWork",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Hors du site",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Organisation",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Temps et droits",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1E3DD58CFBDF",
+      "drawing": "editionLoanSchedule",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Capital",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Remboursement",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Comparer",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1E3DD58CFBDF",
+      "drawing": "editionLoanSchedule",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Capital",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Remboursement",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Comparer",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2921507FC8C6",
+      "drawing": "editionGoodsConformity",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Description",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Écart",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Solution",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2921507FC8C6",
+      "drawing": "editionGoodsConformity",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Description",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Écart",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Solution",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9B72B23D63CE",
+      "drawing": "editionOrderReturn",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Réception",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Rétractation",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Retour",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9B72B23D63CE",
+      "drawing": "editionOrderReturn",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Réception",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Rétractation",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Retour",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-74F0B4687D0B",
+      "drawing": "editionAdvertisingClaims",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "La promesse",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Les preuves",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Le choix",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-74F0B4687D0B",
+      "drawing": "editionAdvertisingClaims",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "La promesse",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Les preuves",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Le choix",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-CDA31CD77696",
+      "drawing": "editionVacationTimeline",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "1936",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "1956",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "1969",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 3,
+          "label": "1982",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-CDA31CD77696",
+      "drawing": "editionVacationTimeline",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "1936",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "1956",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "1969",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 3,
+          "label": "1982",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AEF8066F89CF",
+      "drawing": "editionStrikeDialogue",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Arrêt collectif",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Revendications",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Discussion",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AEF8066F89CF",
+      "drawing": "editionStrikeDialogue",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Arrêt collectif",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Revendications",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Discussion",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-73220F18074E",
+      "drawing": "editionBodinPrices",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Monnaie",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Prix",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Explication",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-73220F18074E",
+      "drawing": "editionBodinPrices",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Monnaie",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Prix",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Explication",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F5B991692125",
+      "drawing": "editionReserveBuffer",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Réserve disponible",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Imprévu",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Après la dépense",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-F5B991692125",
+      "drawing": "editionReserveBuffer",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Réserve disponible",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Imprévu",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Après la dépense",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-8DDB9F449004",
+      "drawing": "editionBudgetEnvelope",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Recettes",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Dépenses",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Écarts",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-8DDB9F449004",
+      "drawing": "editionBudgetEnvelope",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Recettes",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Dépenses",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Écarts",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-29081904B5A1",
+      "drawing": "editionSportRevenue",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Billetterie",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Diffusion",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Partenariats",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-29081904B5A1",
+      "drawing": "editionSportRevenue",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Billetterie",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Diffusion",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Partenariats",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-3C95F002E8F4",
+      "drawing": "editionEmissionsTest",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Mise à l’essai",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Polluants",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Conformité",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-3C95F002E8F4",
+      "drawing": "editionEmissionsTest",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Mise à l’essai",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Polluants",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Conformité",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-5F1D351F18CD",
+      "drawing": "editionRoadZone",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Périmètre",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Véhicule",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Règles locales",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-5F1D351F18CD",
+      "drawing": "editionRoadZone",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Périmètre",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Véhicule",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Règles locales",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-4F206208EFF3",
+      "drawing": "editionFuelOrigins",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Matière biologique",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Voie de synthèse",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Cycle de vie",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-4F206208EFF3",
+      "drawing": "editionFuelOrigins",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Matière biologique",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Voie de synthèse",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Cycle de vie",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9ACB599879BB",
+      "drawing": "editionOilToFuel",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Collecte",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Conversion",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Contrôle",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9ACB599879BB",
+      "drawing": "editionOilToFuel",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Collecte",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Conversion",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Contrôle",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-85062C253F32",
+      "drawing": "editionRobotaxiZone",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Zone prévue",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "En bordure",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Suivi du service",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-85062C253F32",
+      "drawing": "editionRobotaxiZone",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Zone prévue",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "En bordure",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Suivi du service",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B60D29565938",
+      "drawing": "editionCarDataRoute",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Dans le véhicule",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Transfert",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Usage et droits",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B60D29565938",
+      "drawing": "editionCarDataRoute",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Dans le véhicule",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Transfert",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Usage et droits",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D9C741475013",
+      "drawing": "editionMediaTrustSurvey",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "La question",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Comparer",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Même cadre",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D9C741475013",
+      "drawing": "editionMediaTrustSurvey",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "La question",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Comparer",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Même cadre",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-6087CA4E26C2",
+      "drawing": "editionOversightPlatform",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Transparence",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Risques systémiques",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Contrôle",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-6087CA4E26C2",
+      "drawing": "editionOversightPlatform",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Transparence",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Risques systémiques",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Contrôle",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D6A3C9335736",
+      "drawing": "editionModerationQueue",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Tri",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Examen",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Motifs",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 3,
+          "label": "Recours",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D6A3C9335736",
+      "drawing": "editionModerationQueue",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Tri",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Examen",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Motifs",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 3,
+          "label": "Recours",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-67449DA681AD",
+      "drawing": "editionRegulatorRoles",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Observer",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Demander des éléments",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Décider",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-67449DA681AD",
+      "drawing": "editionRegulatorRoles",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Observer",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Demander des éléments",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Décider",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D95D399BB328",
+      "drawing": "editionWildfireLandscape",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Paysage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Vent",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Protection",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-D95D399BB328",
+      "drawing": "editionWildfireLandscape",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Paysage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Vent",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Protection",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2510FBA0B89B",
+      "drawing": "editionPlumeExposure",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Source",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Transport",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Exposition",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-2510FBA0B89B",
+      "drawing": "editionPlumeExposure",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Source",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Transport",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Exposition",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-053DF7E9625E",
+      "drawing": "editionStrategicMinerals",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Ressource",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Transformation",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Dépendances",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-053DF7E9625E",
+      "drawing": "editionStrategicMinerals",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Ressource",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Transformation",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Dépendances",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-EC9B216E9513",
+      "drawing": "editionAlkaliCompare",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Ion partagé",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Sodium et potassium",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Nom et usage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-EC9B216E9513",
+      "drawing": "editionAlkaliCompare",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Ion partagé",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Sodium et potassium",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Nom et usage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AA039A28446E",
+      "drawing": "editionProductionRobot",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "La tâche",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Le positionnement",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "L’organisation",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-AA039A28446E",
+      "drawing": "editionProductionRobot",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "La tâche",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Le positionnement",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "L’organisation",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9D0BBFCF9998",
+      "drawing": "editionCellFactory",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Électrodes",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Cellules",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Contrôles",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-9D0BBFCF9998",
+      "drawing": "editionCellFactory",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Électrodes",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Cellules",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Contrôles",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C783D12F1989",
+      "drawing": "editionChipSupplyMap",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Concevoir",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Fabriquer",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Assembler et tester",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-C783D12F1989",
+      "drawing": "editionChipSupplyMap",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Concevoir",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Fabriquer",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Assembler et tester",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-28034D33B36A",
+      "drawing": "editionFailureBarriers",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Barrières",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Lacunes",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Indépendance",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-28034D33B36A",
+      "drawing": "editionFailureBarriers",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Barrières",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Lacunes",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Indépendance",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-CD61D2A23D21",
+      "drawing": "editionWellAquifer",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Couche perméable",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Captage",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Protection",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-CD61D2A23D21",
+      "drawing": "editionWellAquifer",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Couche perméable",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Captage",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Protection",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-540468E98AC5",
+      "drawing": "editionNanoScale",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Comparer",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Couche mince",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Propriétés",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-540468E98AC5",
+      "drawing": "editionNanoScale",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Comparer",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Couche mince",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Propriétés",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-566CC9052E4F",
+      "drawing": "editionProgramLayers",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Écrire",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Traduire ou interpréter",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Exécuter",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-566CC9052E4F",
+      "drawing": "editionProgramLayers",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Écrire",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Traduire ou interpréter",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Exécuter",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-A332685DDF2F",
+      "drawing": "editionBlindTrial",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Comparer",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Masquer",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Analyser",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-A332685DDF2F",
+      "drawing": "editionBlindTrial",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Comparer",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Masquer",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Analyser",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B59AB41B8D7C",
+      "drawing": "editionEvidenceComparison",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Observer un cas",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Comparer",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Synthétiser",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-B59AB41B8D7C",
+      "drawing": "editionEvidenceComparison",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Observer un cas",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Comparer",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Synthétiser",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-7911B1329CF2",
+      "drawing": "editionPlaceboTrial",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Contexte",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Comparaison",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Évolution observée",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-7911B1329CF2",
+      "drawing": "editionPlaceboTrial",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Contexte",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Comparaison",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Évolution observée",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-6C37BDB0B91E",
+      "drawing": "editionWillowMedicine",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Écorce",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Molécules",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Aspirine",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-6C37BDB0B91E",
+      "drawing": "editionWillowMedicine",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Écorce",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Molécules",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Aspirine",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-791C91172FF8",
+      "drawing": "editionPhasesTrial",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Phase I",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Phase II",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Phase III",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 3,
+          "label": "Phase IV",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-791C91172FF8",
+      "drawing": "editionPhasesTrial",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Phase I",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Phase II",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Phase III",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 3,
+          "label": "Phase IV",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-6ED4CCA6F397",
+      "drawing": "editionLaborWorkshop",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Atelier",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Actions collectives",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Règles",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-6ED4CCA6F397",
+      "drawing": "editionLaborWorkshop",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Atelier",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Actions collectives",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Règles",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E4106C938FCB",
+      "drawing": "editionEmotionContext",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Perception",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Évaluation",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Contexte",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-E4106C938FCB",
+      "drawing": "editionEmotionContext",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Perception",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Évaluation",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Contexte",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1A63FFB694E2",
+      "drawing": "editionClaimRepetition",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Première rencontre",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Répétition",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Vérification",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-1A63FFB694E2",
+      "drawing": "editionClaimRepetition",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Première rencontre",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Répétition",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Vérification",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    },
+    {
+      "ref": "LEC-DE1F2853E90C",
+      "drawing": "editionSpacedRecall",
+      "viewportPx": 320,
+      "input": "touch",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Séance concentrée",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 1,
+          "label": "Séances espacées",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        },
+        {
+          "step": 2,
+          "label": "Rappel ultérieur",
+          "minTextPx": 12.6,
+          "svgWidthPx": 252,
+          "svgHeightPx": 189
+        }
+      ]
+    },
+    {
+      "ref": "LEC-DE1F2853E90C",
+      "drawing": "editionSpacedRecall",
+      "viewportPx": 1280,
+      "input": "click and Enter",
+      "validStates": [
+        {
+          "step": 0,
+          "label": "Séance concentrée",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 1,
+          "label": "Séances espacées",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        },
+        {
+          "step": 2,
+          "label": "Rappel ultérieur",
+          "minTextPx": 30.76,
+          "svgWidthPx": 615.125,
+          "svgHeightPx": 461.34375
+        }
+      ]
+    }
+  ]
+}
