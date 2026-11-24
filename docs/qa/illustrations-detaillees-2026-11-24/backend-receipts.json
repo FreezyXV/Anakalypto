@@ -1,0 +1,502 @@
+[
+  {
+    "path": "/alimentation-et-nutrition/nutriments/macronutriments/cholesterol-ami-ou-ennemi",
+    "status": "READY",
+    "visualRefs": ["schema:editionLipidRoutes"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutriments/microbiote-et-probiotiques/probiotiques-et-prebiotiques",
+    "status": "READY",
+    "visualRefs": ["schema:editionFibreColon"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutriments/micronutriments/carence-en-fer-dans-le-monde",
+    "status": "READY",
+    "visualRefs": ["schema:editionIronCarrier"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-cheveux",
+    "status": "READY",
+    "visualRefs": ["schema:editionHairFollicle"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-peau",
+    "status": "READY",
+    "visualRefs": ["schema:editionSkinBarrier"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/allergies-et-intolerances-alimentaires",
+    "status": "READY",
+    "visualRefs": ["schema:editionFoodReactions"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/gluten-mythes-et-realites",
+    "status": "READY",
+    "visualRefs": ["schema:editionGlutenVillous"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/regime-mediterraneen",
+    "status": "READY",
+    "visualRefs": ["schema:editionMediterraneanTable"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/regimes-vegetariens-et-vegetaliens",
+    "status": "READY",
+    "visualRefs": ["schema:editionPlantTable"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/graisses-trans",
+    "status": "READY",
+    "visualRefs": ["schema:editionFatGeometry"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/reperes-nutritionnels/le-petit-dejeuner-des-adolescents-et-leurs-apports-en-nutriments",
+    "status": "READY",
+    "visualRefs": ["schema:editionMorningMeal"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/contaminants-alimentaires-normes-securite",
+    "status": "READY",
+    "visualRefs": ["schema:editionFoodHazards"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/hygiene-en-cuisine",
+    "status": "READY",
+    "visualRefs": ["schema:editionKitchenSurfaces"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/metaux-lourds-poissons",
+    "status": "READY",
+    "visualRefs": ["schema:editionFishTrophic"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/pesticides-dans-alimentation",
+    "status": "READY",
+    "visualRefs": ["schema:editionPesticideResidue"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/conservation/techniques-conservation-aliments",
+    "status": "READY",
+    "visualRefs": ["schema:editionPreservationModes"]
+  },
+  {
+    "path": "/alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle/complements-alimentaires",
+    "status": "READY",
+    "visualRefs": ["schema:editionSupplementLabel"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/conserver-recoltes",
+    "status": "READY",
+    "visualRefs": ["schema:editionGrainSilo"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/agronomie/selection-vegetale/plantes-nourrissantes",
+    "status": "READY",
+    "visualRefs": ["schema:editionNourishmentVariety"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/fertiliser-sans-engrais-industriels",
+    "status": "READY",
+    "visualRefs": ["schema:editionNitrogenReturn"]
+  },
+  {
+    "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/comment-un-defibrillateur-remet-il-de-l-ordre-dans-un-coeur-qui-s-emballe",
+    "status": "READY",
+    "visualRefs": ["schema:editionHeartSignal"]
+  },
+  {
+    "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/les-facteurs-de-risque-cardiovasculaire-modifiables",
+    "status": "READY",
+    "visualRefs": ["schema:editionVesselRisks"]
+  },
+  {
+    "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/pression-arterielle-et-hypertension",
+    "status": "READY",
+    "visualRefs": ["schema:editionPressureWaves"]
+  },
+  {
+    "path": "/corps-humain-et-sante/anatomie/systeme-digestif/vitamines-carences",
+    "status": "READY",
+    "visualRefs": ["schema:editionDeficitCurve"]
+  },
+  {
+    "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/pourquoi-le-baillement-est-il-contagieux-et-est-ce-un-signe-d-empathie",
+    "status": "READY",
+    "visualRefs": ["schema:editionYawnObservation"]
+  },
+  {
+    "path": "/corps-humain-et-sante/maladies/maladies-chroniques/comment-une-cellule-normale-devient-elle-une-cellule-cancereuse",
+    "status": "READY",
+    "visualRefs": ["schema:editionCellCycleControl"]
+  },
+  {
+    "path": "/corps-humain-et-sante/maladies/maladies-chroniques/diabete-de-type-2-mecanismes-et-prevention",
+    "status": "READY",
+    "visualRefs": ["schema:editionGlucoseGates"]
+  },
+  {
+    "path": "/corps-humain-et-sante/physiologie/hypothermie-coup-de-chaleur",
+    "status": "READY",
+    "visualRefs": ["schema:editionThermalBalance"]
+  },
+  {
+    "path": "/corps-humain-et-sante/physiologie/immunite/immunite-innee-et-adaptative",
+    "status": "READY",
+    "visualRefs": ["schema:editionImmuneTimeline"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/psychologie/developpement/pourquoi-un-nouveau-ne-serre-t-il-fort-le-doigt-qu-on-lui-tend",
+    "status": "READY",
+    "visualRefs": ["schema:editionGraspReflex"]
+  },
+  {
+    "path": "/corps-humain-et-sante/maladies/sante-mentale/depression-donnees-et-prise-en-charge",
+    "status": "READY",
+    "visualRefs": ["schema:editionDepressionFrames"]
+  },
+  {
+    "path": "/corps-humain-et-sante/maladies/sante-mentale/le-role-de-l-exercice-physique-sur-la-sante-mentale",
+    "status": "READY",
+    "visualRefs": ["schema:editionExerciseMood"]
+  },
+  {
+    "path": "/corps-humain-et-sante/maladies/sante-mentale/les-techniques-de-gestion-du-stress-au-quotidien",
+    "status": "READY",
+    "visualRefs": ["schema:editionStressPacing"]
+  },
+  {
+    "path": "/corps-humain-et-sante/maladies/sante-mentale/stress-post-traumatique",
+    "status": "READY",
+    "visualRefs": ["schema:editionTraumaTriggers"]
+  },
+  {
+    "path": "/corps-humain-et-sante/physiologie/immunite/allergies-et-hypersensibilite",
+    "status": "READY",
+    "visualRefs": ["schema:editionAllergyResponse"]
+  },
+  {
+    "path": "/corps-humain-et-sante/physiologie/sommeil/pourquoi-manquer-de-sommeil-affaiblit-il-les-defenses-du-corps",
+    "status": "READY",
+    "visualRefs": ["schema:editionSleepDefenses"]
+  },
+  {
+    "path": "/corps-humain-et-sante/prevention-et-sante-publique/depistage/depistage-organise-des-cancers",
+    "status": "READY",
+    "visualRefs": ["schema:editionScreeningGroups"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves/james-lind-scorbut",
+    "status": "READY",
+    "visualRefs": ["schema:editionLindTrial"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves/semmelweis-lavage-mains",
+    "status": "READY",
+    "visualRefs": ["schema:editionHandWashingHistory"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante/bouger-est-un-medicament",
+    "status": "READY",
+    "visualRefs": ["schema:editionActivityBouts"]
+  },
+  {
+    "path": "/droit-et-justice/droit-prive/droit-civil/bail-habitation",
+    "status": "READY",
+    "visualRefs": ["schema:editionRentedRooms"]
+  },
+  {
+    "path": "/droit-et-justice/droit-prive/droit-civil/contrat-conditions-de-validite",
+    "status": "READY",
+    "visualRefs": ["schema:editionContractTerms"]
+  },
+  {
+    "path": "/droit-et-justice/droit-prive/droit-civil/la-possession-et-la-propriete-deux-notions-distinctes",
+    "status": "READY",
+    "visualRefs": ["schema:editionHoldingTitle"]
+  },
+  {
+    "path": "/droit-et-justice/droit-prive/droit-civil/le-contrat-d-assurance-principes-de-base",
+    "status": "READY",
+    "visualRefs": ["schema:editionSharedRisk"]
+  },
+  {
+    "path": "/droit-et-justice/droit-prive/droit-civil/responsabilite-civile-et-reparation",
+    "status": "READY",
+    "visualRefs": ["schema:editionLiabilityChain"]
+  },
+  {
+    "path": "/droit-et-justice/droit-prive/procedure-et-preuve/comment-peut-on-aller-en-justice-quand-on-n-a-pas-d-argent",
+    "status": "READY",
+    "visualRefs": ["schema:editionLegalAccess"]
+  },
+  {
+    "path": "/droit-et-justice/droit-prive/procedure-et-preuve/mediation-arbitrage",
+    "status": "READY",
+    "visualRefs": ["schema:editionMediationRoom"]
+  },
+  {
+    "path": "/droit-et-justice/droit-prive/procedure-et-preuve/presomption-dinnocence-et-charge-de-la-preuve",
+    "status": "READY",
+    "visualRefs": ["schema:editionProofBurden"]
+  },
+  {
+    "path": "/droit-et-justice/droit-public/droit-constitutionnel/constitution-du-4-octobre-1958",
+    "status": "READY",
+    "visualRefs": ["schema:editionConstitutionMap"]
+  },
+  {
+    "path": "/droit-et-justice/justice-et-institutions/droits-fondamentaux/declaration-universelle-droits-homme-1948",
+    "status": "READY",
+    "visualRefs": ["schema:editionDeclarationRights"]
+  },
+  {
+    "path": "/droit-et-justice/droit-public/droit-de-lenvironnement/comment-la-loi-protege-t-elle-la-nature-dans-un-parc-national",
+    "status": "READY",
+    "visualRefs": ["schema:editionParkZoning"]
+  },
+  {
+    "path": "/droit-et-justice/droit-public/droit-de-lenvironnement/principe-de-precaution",
+    "status": "READY",
+    "visualRefs": ["schema:editionUncertaintyPrecaution"]
+  },
+  {
+    "path": "/droit-et-justice/droit-public/droit-international/cour-penale-internationale-statut-de-rome",
+    "status": "READY",
+    "visualRefs": ["schema:editionInternationalCourt"]
+  },
+  {
+    "path": "/droit-et-justice/justice-et-institutions/droits-fondamentaux/comment-la-loi-protege-t-elle-nos-donnees-personnelles-sur-internet",
+    "status": "READY",
+    "visualRefs": ["schema:editionPersonalData"]
+  },
+  {
+    "path": "/droit-et-justice/justice-et-institutions/droits-fondamentaux/liberte-dexpression-et-ses-limites",
+    "status": "READY",
+    "visualRefs": ["schema:editionExpressionBounds"]
+  },
+  {
+    "path": "/droit-et-justice/justice-et-institutions/droits-fondamentaux/pourquoi-chacun-a-t-il-droit-a-un-tribunal-independant-et-impartial",
+    "status": "READY",
+    "visualRefs": ["schema:editionIndependentCourt"]
+  },
+  {
+    "path": "/droit-et-justice/justice-et-institutions/organisation-judiciaire/organisation-tribunaux-en-france",
+    "status": "READY",
+    "visualRefs": ["schema:editionCourtLevels"]
+  },
+  {
+    "path": "/droit-et-justice/justice-et-institutions/organisation-judiciaire/pourquoi-la-france-a-t-elle-deux-ordres-de-juridictions-judiciaire-et-administratif",
+    "status": "READY",
+    "visualRefs": ["schema:editionTwoJurisdictions"]
+  },
+  {
+    "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-du-travail/contrat-de-travail-et-licenciement",
+    "status": "READY",
+    "visualRefs": ["schema:editionEmploymentExchange"]
+  },
+  {
+    "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-du-travail/quelles-sont-les-regles-du-teletravail-pour-un-salarie-en-france",
+    "status": "READY",
+    "visualRefs": ["schema:editionRemoteWork"]
+  },
+  {
+    "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation/credit-consommation",
+    "status": "READY",
+    "visualRefs": ["schema:editionLoanSchedule"]
+  },
+  {
+    "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation/la-garantie-legale-de-conformite",
+    "status": "READY",
+    "visualRefs": ["schema:editionGoodsConformity"]
+  },
+  {
+    "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation/peut-on-changer-d-avis-apres-un-achat-en-ligne",
+    "status": "READY",
+    "visualRefs": ["schema:editionOrderReturn"]
+  },
+  {
+    "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation/pourquoi-une-publicite-n-a-t-elle-pas-le-droit-de-tromper",
+    "status": "READY",
+    "visualRefs": ["schema:editionAdvertisingClaims"]
+  },
+  {
+    "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-du-travail/comment-les-salaries-ont-ils-obtenu-cinq-semaines-de-conges-payes",
+    "status": "READY",
+    "visualRefs": ["schema:editionVacationTimeline"]
+  },
+  {
+    "path": "/droit-et-justice/vie-quotidienne-et-droit/droit-du-travail/droit-de-greve",
+    "status": "READY",
+    "visualRefs": ["schema:editionStrikeDialogue"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/macroeconomie/pourquoi-les-prix-ont-ils-flambe-au-xvie-siecle-selon-jean-bodin",
+    "status": "READY",
+    "visualRefs": ["schema:editionBodinPrices"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/microeconomie/epargne-de-precaution",
+    "status": "READY",
+    "visualRefs": ["schema:editionReserveBuffer"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/economie/microeconomie/tenir-son-budget-personnel",
+    "status": "READY",
+    "visualRefs": ["schema:editionBudgetEnvelope"]
+  },
+  {
+    "path": "/sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport/economie-mondiale-du-sport",
+    "status": "READY",
+    "visualRefs": ["schema:editionSportRevenue"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/reglementation-automobile/normes-demissions-euro",
+    "status": "READY",
+    "visualRefs": ["schema:editionEmissionsTest"]
+  },
+  {
+    "path": "/automobile/industrie-automobile/reglementation-automobile/zones-faibles-emissions-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:editionRoadZone"]
+  },
+  {
+    "path": "/automobile/motorisations/carburants-alternatifs/biocarburants-et-carburants-de-synthese",
+    "status": "READY",
+    "visualRefs": ["schema:editionFuelOrigins"]
+  },
+  {
+    "path": "/automobile/motorisations/carburants-alternatifs/comment-transforme-t-on-de-l-huile-de-friture-usagee-en-carburant",
+    "status": "READY",
+    "visualRefs": ["schema:editionOilToFuel"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/conduite-autonome/securite-des-vehicules-autonomes-waymo",
+    "status": "READY",
+    "visualRefs": ["schema:editionRobotaxiZone"]
+  },
+  {
+    "path": "/automobile/securite-et-conduite/donnees-voiture-vie-privee",
+    "status": "READY",
+    "visualRefs": ["schema:editionCarDataRoute"]
+  },
+  {
+    "path": "/communication-et-medias/information-et-verification/journalisme/dans-quels-pays-fait-on-le-plus-confiance-aux-medias",
+    "status": "READY",
+    "visualRefs": ["schema:editionMediaTrustSurvey"]
+  },
+  {
+    "path": "/communication-et-medias/medias-numeriques/plateformes-et-moderation/comment-le-reglement-europeen-sur-les-services-numeriques-encadre-t-il-les-grandes-plateformes",
+    "status": "READY",
+    "visualRefs": ["schema:editionOversightPlatform"]
+  },
+  {
+    "path": "/communication-et-medias/medias-numeriques/plateformes-et-moderation/moderation-des-contenus-en-ligne",
+    "status": "READY",
+    "visualRefs": ["schema:editionModerationQueue"]
+  },
+  {
+    "path": "/communication-et-medias/medias-numeriques/plateformes-et-moderation/que-fait-l-arcom-face-aux-fausses-informations",
+    "status": "READY",
+    "visualRefs": ["schema:editionRegulatorRoles"]
+  },
+  {
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/comment-lutte-t-on-contre-un-feu-de-foret",
+    "status": "READY",
+    "visualRefs": ["schema:editionWildfireLandscape"]
+  },
+  {
+    "path": "/environnement-et-climat/pollution-et-ressources/qualite-de-l-air/pollution-de-lair-ambiant-risque-sanitaire",
+    "status": "READY",
+    "visualRefs": ["schema:editionPlumeExposure"]
+  },
+  {
+    "path": "/geographie-et-territoires/geopolitique/ressources/repartition-mondiale-lithium-ressource-strategique",
+    "status": "READY",
+    "visualRefs": ["schema:editionStrategicMinerals"]
+  },
+  {
+    "path": "/industries/industrie-lourde/chimie-industrielle/soude-potasse",
+    "status": "READY",
+    "visualRefs": ["schema:editionAlkaliCompare"]
+  },
+  {
+    "path": "/industries/industrie-manufacturiere/automatisation/pourquoi-la-france-cherche-t-elle-a-reindustrialiser-et-quel-role-jouent-les-robots",
+    "status": "READY",
+    "visualRefs": ["schema:editionProductionRobot"]
+  },
+  {
+    "path": "/industries/industrie-manufacturiere/chaine-logistique/pourquoi-l-europe-construit-elle-des-usines-geantes-de-batteries-et-reussissent-elles",
+    "status": "READY",
+    "visualRefs": ["schema:editionCellFactory"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/tsmc-geopolitique-puces",
+    "status": "READY",
+    "visualRefs": ["schema:editionChipSupplyMap"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience/defaillances-techniques-et-causes-multiples",
+    "status": "READY",
+    "visualRefs": ["schema:editionFailureBarriers"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/la-construction-de-puits-et-de-forages",
+    "status": "READY",
+    "visualRefs": ["schema:editionWellAquifer"]
+  },
+  {
+    "path": "/technologies-et-ingenierie/nanotechnologies/applications/applications-nanotechnologies-medecine-industrie",
+    "status": "READY",
+    "visualRefs": ["schema:editionNanoScale"]
+  },
+  {
+    "path": "/micro-informatique-et-informatique/logiciel/programmation/histoire-principes-langages-programmation",
+    "status": "READY",
+    "visualRefs": ["schema:editionProgramLayers"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves/le-double-aveugle-eliminer-les-biais-d-attente",
+    "status": "READY",
+    "visualRefs": ["schema:editionBlindTrial"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves/niveaux-de-preuve-en-medecine",
+    "status": "READY",
+    "visualRefs": ["schema:editionEvidenceComparison"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves/pourquoi-un-faux-medicament-peut-il-parfois-soulager",
+    "status": "READY",
+    "visualRefs": ["schema:editionPlaceboTrial"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/medecine/pharmacologie/ecorce-saule-aspirine",
+    "status": "READY",
+    "visualRefs": ["schema:editionWillowMedicine"]
+  },
+  {
+    "path": "/sciences-du-vivant-appliquees/medecine/pharmacologie/principes-pharmacologie-essais-cliniques",
+    "status": "READY",
+    "visualRefs": ["schema:editionPhasesTrial"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/histoire/epoque-contemporaine/pourquoi-la-revolution-industrielle-a-t-elle-provoque-autant-de-revoltes-et-de-lois-sociales",
+    "status": "READY",
+    "visualRefs": ["schema:editionLaborWorkshop"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/psychologie/biais-cognitifs/comment-nos-emotions-orientent-elles-nos-decisions-sans-qu-on-s-en-rende-compte",
+    "status": "READY",
+    "visualRefs": ["schema:editionEmotionContext"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/psychologie/cognition/pourquoi-croit-on-aux-fausses-informations-meme-quand-on-se-croit-prudent",
+    "status": "READY",
+    "visualRefs": ["schema:editionClaimRepetition"]
+  },
+  {
+    "path": "/sciences-humaines-et-sociales/psychologie/cognition/pourquoi-reviser-en-plusieurs-fois-aide-t-il-a-mieux-retenir",
+    "status": "READY",
+    "visualRefs": ["schema:editionSpacedRecall"]
+  }
+]

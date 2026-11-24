@@ -1,0 +1,727 @@
+[
+  {
+    "drawing": "editionLipidRoutes",
+    "status": 200,
+    "url": "https://www.nhlbi.nih.gov/health/blood-cholesterol",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionFibreColon",
+    "status": 200,
+    "url": "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionIronCarrier",
+    "status": 403,
+    "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Fiche NIH sur le fer lisible par l’index web."
+  },
+  {
+    "drawing": "editionHairFollicle",
+    "status": 200,
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470321/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionSkinBarrier",
+    "status": 200,
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK513299/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionFoodReactions",
+    "status": 200,
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/symptoms-causes",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionGlutenVillous",
+    "status": 200,
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/symptoms-causes",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionMediterraneanTable",
+    "status": 200,
+    "url": "https://ich.unesco.org/fr/RL/la-diete-mediterraneenne-00884",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionPlantTable",
+    "status": 200,
+    "url": "https://www.anses.fr/fr/actualite/regimes-vegetariens-effets-sante-reperes-alimentaires",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionFatGeometry",
+    "status": 200,
+    "url": "https://www.anses.fr/fr/article/acides-gras-trans",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionMorningMeal",
+    "status": 200,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7589686/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionFoodHazards",
+    "status": 200,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/food-safety",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionKitchenSurfaces",
+    "status": 200,
+    "url": "https://www.who.int/publications/i/item/9789241594639",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionFishTrophic",
+    "status": 200,
+    "url": "https://www.anses.fr/fr/article/methylmercure-risque-sante-cas-consommation-importante-poissons",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionPesticideResidue",
+    "status": 200,
+    "url": "https://food.ec.europa.eu/plants/pesticides/maximum-residue-levels/qas-pesticides_en",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionPreservationModes",
+    "status": 404,
+    "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-technical-guides/water-activity-aw-foods",
+    "redirect": "https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+    "timeout": false,
+    "secondaryCheck": "Fiche technique sur l’activité de l’eau lisible par l’index web de la FDA."
+  },
+  {
+    "drawing": "editionSupplementLabel",
+    "status": 200,
+    "url": "https://www.anses.fr/fr/article/complements-alimentaires-necessite-dune-consommation-eclairee",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionGrainSilo",
+    "status": 200,
+    "url": "https://www.fao.org/4/x5065e/x5065e0a.htm",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionNourishmentVariety",
+    "status": 200,
+    "url": "https://www.fao.org/pulses-2016/en/",
+    "redirect": "https://www.fao.org/world-pulses-day/en",
+    "timeout": false
+  },
+  {
+    "drawing": "editionNitrogenReturn",
+    "status": 0,
+    "url": "https://www.nrcs.usda.gov/sites/default/files/2022-10/Soil%20Nitrogen.pdf",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Fiche Soil Nitrogen du NRCS ouverte par l’index web. Le document complet y est lisible."
+  },
+  {
+    "drawing": "editionHeartSignal",
+    "status": 200,
+    "url": "https://www.nhlbi.nih.gov/health/defibrillators/how-do-defibrillators-work",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionVesselRisks",
+    "status": 200,
+    "url": "https://www.who.int/fr/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionPressureWaves",
+    "status": 200,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionDeficitCurve",
+    "status": 403,
+    "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Fiche détaillée sur la vitamine A lisible par l’index web du NIH."
+  },
+  {
+    "drawing": "editionYawnObservation",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24632594/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Étude originale de Bartholomew et Cirulli retrouvée dans PubMed et chez l’éditeur."
+  },
+  {
+    "drawing": "editionCellCycleControl",
+    "status": 200,
+    "url": "https://www.cancer.gov/about-cancer/understanding/what-is-cancer",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionGlucoseGates",
+    "status": 200,
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/prediabetes-insulin-resistance",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionThermalBalance",
+    "status": 200,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionImmuneTimeline",
+    "status": 200,
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK27090/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionGraspReflex",
+    "status": 200,
+    "url": "https://www.healthychildren.org/English/ages-stages/baby/Pages/Newborn-Reflexes.aspx",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionDepressionFrames",
+    "status": 200,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/depression",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionExerciseMood",
+    "status": 200,
+    "url": "https://www.who.int/fr/news-room/fact-sheets/detail/physical-activity",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionStressPacing",
+    "status": 200,
+    "url": "https://www.who.int/publications/i/item/9789240003927",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionTraumaTriggers",
+    "status": 200,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/post-traumatic-stress-disorder",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionAllergyResponse",
+    "status": 200,
+    "url": "https://www.inserm.fr/dossier/allergies/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionSleepDefenses",
+    "status": 200,
+    "url": "https://www.nhlbi.nih.gov/news/2022/nih-funded-study-shows-sound-sleep-supports-immune-function",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionScreeningGroups",
+    "status": 200,
+    "url": "https://www.who.int/europe/publications/i/item/9789289054782",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionLindTrial",
+    "status": 200,
+    "url": "https://www.jameslindlibrary.org/lind-j-1753/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionHandWashingHistory",
+    "status": 200,
+    "url": "https://www.jameslindlibrary.org/semmelweis-i-1861/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionActivityBouts",
+    "status": 200,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionRentedRooms",
+    "status": 403,
+    "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "editionContractTerms",
+    "status": 403,
+    "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032006712",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Section du Code civil parue sur Légifrance et consultée via l’index web."
+  },
+  {
+    "drawing": "editionHoldingTitle",
+    "status": 403,
+    "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017175/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Article 2255 du Code civil consulté via l’index web."
+  },
+  {
+    "drawing": "editionSharedRisk",
+    "status": 403,
+    "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006073984/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Code des assurances et section des règles communes consultés via l’index web."
+  },
+  {
+    "drawing": "editionLiabilityChain",
+    "status": 403,
+    "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Article 1240 du Code civil consulté via l’index web."
+  },
+  {
+    "drawing": "editionLegalAccess",
+    "status": 200,
+    "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F18074",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionMediationRoom",
+    "status": 403,
+    "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070716/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Sections du Code de procédure civile sur la médiation retrouvées dans l’index web."
+  },
+  {
+    "drawing": "editionProofBurden",
+    "status": 200,
+    "url": "https://www.echr.coe.int/documents/d/echr/convention_fra",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionConstitutionMap",
+    "status": 200,
+    "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionDeclarationRights",
+    "status": 200,
+    "url": "https://www.un.org/fr/about-us/universal-declaration-of-human-rights",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionParkZoning",
+    "status": 200,
+    "url": "https://parcsnationaux.fr/qui-sommes-nous/quest-ce-quun-parc-national/la-charte-dun-parc-national",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionUncertaintyPrecaution",
+    "status": 200,
+    "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/charte-de-l-environnement-de-2004",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionInternationalCourt",
+    "status": 200,
+    "url": "https://www.icc-cpi.int/publications/core-legal-texts/rome-statute-international-criminal-court",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionPersonalData",
+    "status": 200,
+    "url": "https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles",
+    "redirect": "https://www.cnil.fr/fr/mes-demarches/les-droits-pour-maitriser-vos-donnees-personnelles",
+    "timeout": false
+  },
+  {
+    "drawing": "editionExpressionBounds",
+    "status": 403,
+    "url": "https://www.coe.int/en/web/freedom-expression",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "editionIndependentCourt",
+    "status": 200,
+    "url": "https://www.echr.coe.int/documents/d/echr/convention_fra",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionCourtLevels",
+    "status": 200,
+    "url": "https://www.justice.gouv.fr/justice-france/lorganisation-cours-tribunaux",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionTwoJurisdictions",
+    "status": 200,
+    "url": "https://www.justice.gouv.fr/justice-france/lorganisation-cours-tribunaux",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionEmploymentExchange",
+    "status": 403,
+    "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Code du travail consultable dans l’index web."
+  },
+  {
+    "drawing": "editionRemoteWork",
+    "status": 200,
+    "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13851",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionLoanSchedule",
+    "status": 200,
+    "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2440",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionGoodsConformity",
+    "status": 200,
+    "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11094",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionOrderReturn",
+    "status": 200,
+    "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F10485",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionAdvertisingClaims",
+    "status": 200,
+    "url": "https://eur-lex.europa.eu/eli/dir/2005/29/oj?locale=fr",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionVacationTimeline",
+    "status": 200,
+    "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L15B2097.raw",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionStrikeDialogue",
+    "status": 200,
+    "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F117",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionBodinPrices",
+    "status": 200,
+    "url": "https://www.bvh.univ-tours.fr/Consult/index.asp?numfiche=1430&numtable=B721816101_SA8_1092",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionReserveBuffer",
+    "status": 403,
+    "url": "https://www.mesquestionsdargent.fr/epargne-et-placements/epargne-de-precaution",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Fiche Banque de France sur l’épargne de précaution lue via l’index web."
+  },
+  {
+    "drawing": "editionBudgetEnvelope",
+    "status": 403,
+    "url": "https://www.mesquestionsdargent.fr/budget/budget-enfant/tuto-comment-gerer-efficacement-son-budget",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Fiche Banque de France sur la gestion du budget lue via l’index web."
+  },
+  {
+    "drawing": "editionSportRevenue",
+    "status": 200,
+    "url": "https://ecfil.uefa.com/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionEmissionsTest",
+    "status": 200,
+    "url": "https://single-market-economy.ec.europa.eu/sectors/automotive-industry/technical-harmonisation/faq-type-approval-vehicles_en",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionRoadZone",
+    "status": 200,
+    "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17999?lang=fr",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionFuelOrigins",
+    "status": 200,
+    "url": "https://www.iea.org/reports/the-role-of-e-fuels-in-decarbonising-transport",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionOilToFuel",
+    "status": 200,
+    "url": "https://afdc.energy.gov/fuels/biodiesel-production",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionRobotaxiZone",
+    "status": 403,
+    "url": "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Page et guide NHTSA sur les systèmes automatisés accessibles par l’index web."
+  },
+  {
+    "drawing": "editionCarDataRoute",
+    "status": 200,
+    "url": "https://www.cnil.fr/fr/vehicules-connectes-un-pack-de-conformite-pour-une-utilisation-responsable-des-donnees",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionMediaTrustSurvey",
+    "status": 200,
+    "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionOversightPlatform",
+    "status": 200,
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package",
+    "redirect": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act",
+    "timeout": false
+  },
+  {
+    "drawing": "editionModerationQueue",
+    "status": 200,
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/dsa-notice-and-action-mechanism",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionRegulatorRoles",
+    "status": 200,
+    "url": "https://www.arcom.fr/internet-et-reseaux-sociaux",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionWildfireLandscape",
+    "status": 200,
+    "url": "https://www.ecologie.gouv.fr/feux-foret-vegetation-ayons-bons-reflexes",
+    "redirect": "https://www.ecologie.gouv.fr/feux-foret-et-vegetation",
+    "timeout": false
+  },
+  {
+    "drawing": "editionPlumeExposure",
+    "status": 200,
+    "url": "https://www.who.int/health-topics/air-pollution",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionStrategicMinerals",
+    "status": 200,
+    "url": "https://www.iea.org/topics/critical-minerals",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionAlkaliCompare",
+    "status": 200,
+    "url": "https://www.energy.gov/sites/prod/files/2013/11/f4/potash_soda_borate.pdf",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionProductionRobot",
+    "status": 403,
+    "url": "https://www.osha.gov/otm/section-4-safety-hazards/chapter-4",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "editionCellFactory",
+    "status": 403,
+    "url": "https://www.anl.gov/partnerships/batpac-battery-manufacturing-cost-estimation",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Description du modèle BatPaC lue dans l’index web d’Argonne."
+  },
+  {
+    "drawing": "editionChipSupplyMap",
+    "status": 403,
+    "url": "https://www.tsmc.com/english/aboutTSMC",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Présentation officielle de la fonderie consultée via l’index web."
+  },
+  {
+    "drawing": "editionFailureBarriers",
+    "status": 200,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1117770/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionWellAquifer",
+    "status": 403,
+    "url": "https://www.usgs.gov/special-topics/water-science-school/science/aquifers-and-groundwater",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "Fiche équivalente du Water Science School consultée via l’index web."
+  },
+  {
+    "drawing": "editionNanoScale",
+    "status": 200,
+    "url": "https://www.nano.gov/nanotech-101/what/nano-size",
+    "redirect": "https://www.nano.gov/",
+    "timeout": false
+  },
+  {
+    "drawing": "editionProgramLayers",
+    "status": 200,
+    "url": "https://llvm.org/docs/tutorial/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionBlindTrial",
+    "status": 200,
+    "url": "https://www.consort-spirit.org/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionEvidenceComparison",
+    "status": 200,
+    "url": "https://training.cochrane.org/handbook/current",
+    "redirect": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current",
+    "timeout": false
+  },
+  {
+    "drawing": "editionPlaceboTrial",
+    "status": 200,
+    "url": "https://www.nccih.nih.gov/health/placebo-effect",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionWillowMedicine",
+    "status": 200,
+    "url": "https://www.sciencehistory.org/stories/magazine/aspirin-turn-of-the-century-miracle-drug/",
+    "redirect": null,
+    "timeout": false
+  },
+  {
+    "drawing": "editionPhasesTrial",
+    "status": 404,
+    "url": "https://www.fda.gov/patients/drug-development-process/step-3-clinical-research",
+    "redirect": "https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+    "timeout": false,
+    "secondaryCheck": "La fiche des phases cliniques de la FDA est lisible dans l’index web."
+  },
+  {
+    "drawing": "editionLaborWorkshop",
+    "status": 403,
+    "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "editionEmotionContext",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25251484/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "editionClaimRepetition",
+    "status": 203,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26301795/",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": null
+  },
+  {
+    "drawing": "editionSpacedRecall",
+    "status": 403,
+    "url": "https://journals.sagepub.com/doi/10.1111/j.1467-9280.2008.02209.x",
+    "redirect": null,
+    "timeout": false,
+    "secondaryCheck": "L’étude originale de Cepeda et ses collègues a été retrouvée par l’index web."
+  }
+]
