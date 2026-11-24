@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:49:58.839Z",
+  "generatedAt": "2026-11-24T05:58:08.775Z",
   "scope": "PUBLISHED_ONLY",
   "counts": {
     "published": 948,
@@ -3372,8 +3372,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:53.673Z"
+      "evidence": "docs/qa/refonte-ateliers-moteurs/README.md",
+      "reviewedAt": "2026-11-24T05:58:03.712Z"
     },
     {
       "ref": "LEC-810FB82798CB",
@@ -3404,8 +3404,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:53.758Z"
+      "evidence": "docs/qa/refonte-ateliers-moteurs/README.md",
+      "reviewedAt": "2026-11-24T05:58:03.692Z"
     },
     {
       "ref": "LEC-C0E0EDE2F3A8",

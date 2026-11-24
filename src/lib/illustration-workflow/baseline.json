@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "62f21cf447c333031cc90611c7323a321359dadc4c3991245bee36c8984b069a",
+  "sourceDigest": "2f8eefcad2b61fc2b5c49f13ab18ea03c81fa2dcbc34bbf39797df14519f9fb9",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -1688,11 +1688,11 @@
     {
       "path": "/automobile/motorisations/thermique/comment-un-moteur-a-quatre-temps-transforme-t-il-l-essence-en-mouvement",
       "visualRefs": ["atelier:les-quatre-temps"],
-      "fingerprint": "9b2288181bedd8f41aa597151539f31df240e71b62f93ae280a58241ecaab32c",
+      "fingerprint": "67a112dbee4bc3f56ded4d9785190007f4efb3c345586eb8cafaaccf146529fb",
       "contentHash": "0bb976144e0c17c9fe8f4a965bad073f33a4ceaf02e2da49d8e53bdf3b755126",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:53.673Z"
+      "evidence": "docs/qa/refonte-ateliers-moteurs/README.md",
+      "reviewedAt": "2026-11-24T05:58:03.712Z"
     },
     {
       "path": "/automobile/motorisations/thermique/comment-un-moteur-diesel-s-allume-t-il-sans-bougie-d-allumage",
@@ -1706,11 +1706,11 @@
     {
       "path": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant",
       "visualRefs": ["atelier:le-turbo"],
-      "fingerprint": "0bfa7e70e25527beac578b6466eefaece15aadd3d885b9c211726f5ee2283326",
+      "fingerprint": "22f79797817a58627cc0fd3f46582b714cbff5e44782db54c6bfc993bd3ce445",
       "contentHash": "4088cdf829ee539fa79253eb4064b424275086e6412b7fd518b735f1d331e1d5",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:53.758Z"
+      "evidence": "docs/qa/refonte-ateliers-moteurs/README.md",
+      "reviewedAt": "2026-11-24T05:58:03.692Z"
     },
     {
       "path": "/automobile/motorisations/thermique/distribution-variable-turbocompresseur",
