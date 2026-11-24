@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "eeb3e23428c3fa90fbd548d6915f19e84a0788a7040d37bd7be86fbb7f5f799d",
+  "sourceDigest": "62f21cf447c333031cc90611c7323a321359dadc4c3991245bee36c8984b069a",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -482,11 +482,11 @@
     {
       "path": "/alimentation-et-nutrition/nutriments/macronutriments/cholesterol-ami-ou-ennemi",
       "visualRefs": ["schema:editionLipidRoutes"],
-      "fingerprint": "584f5df84cad12b08d9143535079e57edc230e002f3a783751d383a2be9644dc",
+      "fingerprint": "0d115ce29899456f2688b6ba9b3698ea73f147fb13f22fb004c8c1fc6696611c",
       "contentHash": "00945c7ef5a9dbcbd22d39a382fd1aa04629e39743550870915d4a6f1c43a820",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:44.142Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:22.112Z"
     },
     {
       "path": "/alimentation-et-nutrition/nutriments/macronutriments/index-et-charge-glycemiques",
@@ -536,11 +536,11 @@
     {
       "path": "/alimentation-et-nutrition/nutriments/micronutriments/carence-en-fer-dans-le-monde",
       "visualRefs": ["schema:editionIronCarrier"],
-      "fingerprint": "bcd0be10e10042dc066ed63540394e030a29466d8509e7b8b837a021990cdc79",
+      "fingerprint": "12fb4b4a0701e33fd983e45d6506fc447e6229f1ea84bfb5b7000199558f83ca",
       "contentHash": "2319c6543d339cceca62021b992ce98bf63797610c67a063fe7aa95bac99a126",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:43.910Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:22.110Z"
     },
     {
       "path": "/alimentation-et-nutrition/nutriments/micronutriments/pourquoi-dit-on-que-les-carottes-font-voir-dans-le-noir",
@@ -563,11 +563,11 @@
     {
       "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-cheveux",
       "visualRefs": ["schema:editionHairFollicle"],
-      "fingerprint": "6bc0542b71d95fac44d553757c1eb6f8cef97b09e879dec202c2c638f223aaa3",
+      "fingerprint": "6119b2b8e364656f2b2582fce3ab52aaf852075b81d8c0a08cb54837f01b67b0",
       "contentHash": "ccc1196881ad86fbc50b5d387a574c53b3d3e8627367960aae24b7c11b116816",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:44.135Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:22.104Z"
     },
     {
       "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-dents",
@@ -590,11 +590,11 @@
     {
       "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-peau",
       "visualRefs": ["schema:editionSkinBarrier"],
-      "fingerprint": "8259fef42ac9fda40ca53e15c3b70954c0a7b22c7c8afdd65d784972b83a30f7",
+      "fingerprint": "64e921ab011ed58179ba1d3f07e29aa6ddd315968cbc677ae0ce4027664a4aa7",
       "contentHash": "2f4911c1ed4ff411c57313040b53e3433f6f77aeeb64c6e2b45ef27212825d3c",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:43.909Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:22.109Z"
     },
     {
       "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-vue",
@@ -608,20 +608,20 @@
     {
       "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/allergies-et-intolerances-alimentaires",
       "visualRefs": ["schema:editionFoodReactions"],
-      "fingerprint": "bfc48e7dca0c0478f753049e663375521f5ea428b19da1076fdb8bb9138608a2",
+      "fingerprint": "8dc259bd68eb992deb935e6449f6a730115a6ac681c9c2fd89332a34a70aa519",
       "contentHash": "15b2e5c52fd666e8102d9dad69f31fc81858371d9353dae76b1cc2cdc6de5b89",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:44.630Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:22.996Z"
     },
     {
       "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/gluten-mythes-et-realites",
       "visualRefs": ["schema:editionGlutenVillous"],
-      "fingerprint": "da1552151b797f2b2b8b9f0cc32e0040ef8e17bcc16a3e6eea7a269d61f7e459",
+      "fingerprint": "cc82a019630d22dcff3353330af1c17f8ad7de7e3d7e95415350cca213aeeb68",
       "contentHash": "7dc1492169e424ed703611781ba5719f947a4de74d7a61c3b68101ab17a8aea0",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:44.629Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:23.009Z"
     },
     {
       "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/lactose-et-intolerance",
@@ -707,11 +707,11 @@
     {
       "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/metaux-lourds-poissons",
       "visualRefs": ["schema:editionFishTrophic"],
-      "fingerprint": "9f9b1f4a3d7935f0bba4decd704aa7da6ab6259f0e19ef5c928b3477f77903e8",
+      "fingerprint": "5727760c83ca2a37950a632213b290417a549dc5838be8d502fc2bc8470700a9",
       "contentHash": "d3580fcb8df1c95e398c32a40229c93d4340ea45d871eb9c480076a5f2b7302b",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:45.767Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:23.004Z"
     },
     {
       "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/pesticides-dans-alimentation",
@@ -2579,20 +2579,20 @@
     {
       "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/comment-un-defibrillateur-remet-il-de-l-ordre-dans-un-coeur-qui-s-emballe",
       "visualRefs": ["schema:editionHeartSignal"],
-      "fingerprint": "0dea37ea390b0e28261f84e8c2e8685dbf6c91a3b63b732c9e9b671106f693d7",
+      "fingerprint": "729796043367088d96efdf4adda6f0cfe7ac4efe8cf674efdf1bf1103da4fb7c",
       "contentHash": "430a268fe1c39775543f42840579880d3c887707f8e8377d5ce9b16cd170cc6c",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:46.701Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:23.931Z"
     },
     {
       "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/les-facteurs-de-risque-cardiovasculaire-modifiables",
       "visualRefs": ["schema:editionVesselRisks"],
-      "fingerprint": "97f944cf8d65c03cbf3f07cb3b21ed881ffbc31f6f49a5209d9260c6f28cc953",
+      "fingerprint": "db417685d9f7860f45e2cede3ef53cc2eca322db853d2ad62ade929923f60146",
       "contentHash": "3708cd183ee3952c3e81788cc65189494241ac69ccdaa16d044efd6092c29690",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:46.817Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:23.905Z"
     },
     {
       "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/pourquoi-sent-on-son-coeur-battre-au-poignet",
@@ -2759,11 +2759,11 @@
     {
       "path": "/corps-humain-et-sante/maladies/maladies-chroniques/diabete-de-type-2-mecanismes-et-prevention",
       "visualRefs": ["schema:editionGlucoseGates"],
-      "fingerprint": "d4e2c484d9cbec6ec774f1d2952f4af4877b6e4e76b9dc766a2ad65997efbcd8",
+      "fingerprint": "3d6d4a8623d205c4a84f2247c69590b3e1a10e7b1e5bd16872078f4ab23c943c",
       "contentHash": "052ebe51cdfa28488b98c10e38a519557892c8e146bc70a22698df52ffaf29b8",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:47.540Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:23.899Z"
     },
     {
       "path": "/corps-humain-et-sante/maladies/sante-mentale/depression-donnees-et-prise-en-charge",
@@ -2813,11 +2813,11 @@
     {
       "path": "/corps-humain-et-sante/physiologie/immunite/allergies-et-hypersensibilite",
       "visualRefs": ["schema:editionAllergyResponse"],
-      "fingerprint": "02c4053f19a8b76352f7ba9d9a82d0148cdd8e9a33b562ef9d1548cc951b9a87",
+      "fingerprint": "be35a63a6692aa0729ab80958d13871e66cd4a96d8cd46cefc1a8714c5648e98",
       "contentHash": "74e67a84e4f28333d15083dd7d94e401bc4fd288869be5cc24f9d37a3872703c",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:48.771Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:24.845Z"
     },
     {
       "path": "/corps-humain-et-sante/physiologie/immunite/comment-un-anticorps-reconnait-il-un-microbe",
@@ -4091,11 +4091,11 @@
     {
       "path": "/environnement-et-climat/pollution-et-ressources/qualite-de-l-air/pollution-de-lair-ambiant-risque-sanitaire",
       "visualRefs": ["schema:editionPlumeExposure"],
-      "fingerprint": "13cb27ebcd7a82fe42093ca3efc2552b1bb3c522e10c0f67d12246bb8f3b01bf",
+      "fingerprint": "e73ac49d18f2484d2cfcdac4f4bdeafb2e50bdc37126d07af0e36675cf630d56",
       "contentHash": "c63fb918fba8c943a7bdbcf5d8dd55a054bd899373b099a24ddb68dfd2491edf",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:55.369Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:24.846Z"
     },
     {
       "path": "/espace-et-astronomie/astrophysique/cosmologie/comment-sait-on-que-l-univers-grandit",
@@ -4919,11 +4919,11 @@
     {
       "path": "/industries/industrie-manufacturiere/automatisation/pourquoi-la-france-cherche-t-elle-a-reindustrialiser-et-quel-role-jouent-les-robots",
       "visualRefs": ["schema:editionProductionRobot"],
-      "fingerprint": "cfe5d86275a2641fa0f2d38de8a619ee79758d7fb6e52778fbf7536f7a1838a7",
+      "fingerprint": "90f95756e2b3c3f169dce616a2eb81e92369f12066c3c708e344640b8df4af46",
       "contentHash": "f849ce0b94f168f14fac817232f7dc39b6a650dc872254eaef1d33eb116de88a",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:56.027Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:24.845Z"
     },
     {
       "path": "/industries/industrie-manufacturiere/chaine-logistique/chaine-logistique-mondiale-perturbations",
@@ -4964,11 +4964,11 @@
     {
       "path": "/industries/industrie-manufacturiere/chaine-logistique/pourquoi-l-europe-construit-elle-des-usines-geantes-de-batteries-et-reussissent-elles",
       "visualRefs": ["schema:editionCellFactory"],
-      "fingerprint": "7cd2a56595e996eaddbfc78671a7e302a69f5a0d09fbc77d20678057691be4ee",
+      "fingerprint": "e04b617b9492a77a6484998811bf74a11f1c64763d56c68ef4795cb32988cf76",
       "contentHash": "549493899cc692751235c2552a8fcc98bebb719ec4208b43d08dc9ac87450abf",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:56.039Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:25.506Z"
     },
     {
       "path": "/industries/industrie-manufacturiere/chaine-logistique/qu-est-ce-qu-un-fab-lab-et-que-peut-on-y-fabriquer",
@@ -5702,11 +5702,11 @@
     {
       "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/conserver-recoltes",
       "visualRefs": ["schema:editionGrainSilo"],
-      "fingerprint": "e89e3227009a48468d77c08552a1cff7eff296ada9dd8e3d1fa4b4f637d7be64",
+      "fingerprint": "50dd1084dad4e3f3d5d58f787fc28d07c7043afc13731879e1512dc05aa44d43",
       "contentHash": "25cb29d376f922eb20c433cadf2c04a7e4da143ddc26951284d1694b3a8c400a",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:46.648Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:23.004Z"
     },
     {
       "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/elevage-traction-animale",
@@ -5810,11 +5810,11 @@
     {
       "path": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/fertiliser-sans-engrais-industriels",
       "visualRefs": ["schema:editionNitrogenReturn"],
-      "fingerprint": "d2e1769275990b47851a877090905f7557bedc5a3fa8c9d4c57f4be28b942ee6",
+      "fingerprint": "4efb3f0ed659a462cf6006851b93e488c392c972f8fbc0d3e239f8cd8a1c6cde",
       "contentHash": "e6f49380b1fb3d92ddf123ac2db4aa1175b94e5d36bf28d93307d49ec3adfed7",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:46.689Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:23.916Z"
     },
     {
       "path": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/reconnaitre-sol",
@@ -6890,11 +6890,11 @@
     {
       "path": "/sciences-humaines-et-sociales/psychologie/developpement/pourquoi-un-nouveau-ne-serre-t-il-fort-le-doigt-qu-on-lui-tend",
       "visualRefs": ["schema:editionGraspReflex"],
-      "fingerprint": "41ca263b0175b3c406f2ec2569d22f29ba45870b2e6483c2a37636d31c8f577a",
+      "fingerprint": "79c1dab0f204effe567ba2c8e7cc048a58a76a90df63db6084c9ee04d8eb7c3b",
       "contentHash": "ad035f99bc5f092a56fa1a3b4a0ffad5ffa664f79080983e703c2d21e75842d1",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:48.043Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:24.824Z"
     },
     {
       "path": "/sciences-humaines-et-sociales/psychologie/developpement/stades-developpement-enfant-piaget",
@@ -7421,11 +7421,11 @@
     {
       "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/la-construction-de-puits-et-de-forages",
       "visualRefs": ["schema:editionWellAquifer"],
-      "fingerprint": "5d49a5b1a4ef764d4a86ed1968b10354899809032f2f0accaf8cdee6aacce832",
+      "fingerprint": "6a83f3cf508b3d52338343c89e20bdfc75aebd0af2fb85d47fd2571d50b90ec3",
       "contentHash": "7d12aeab1a062c82dc77086b8743a8c930f578d3f78403f7f2b8696da74850a2",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:56.781Z"
+      "evidence": "docs/qa/refonte-visuelle-apres/README.md",
+      "reviewedAt": "2026-11-24T05:49:25.530Z"
     },
     {
       "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/ponts-et-entretien-des-ouvrages",

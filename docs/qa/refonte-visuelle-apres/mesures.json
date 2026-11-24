@@ -1,0 +1,824 @@
+{
+  "lecons": 18,
+  "vues": 51,
+  "activations": 102,
+  "minTextMobilePx": 12.6,
+  "captures": [
+    {
+      "ref": "LEC-A97F9B1CF240",
+      "key": "editionAllergyResponse",
+      "width": 320,
+      "view": 0,
+      "caption": "Dans certaines allergies, des anticorps spécifiques reconnaissent un allergène.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-A97F9B1CF240",
+      "key": "editionAllergyResponse",
+      "width": 320,
+      "view": 1,
+      "caption": "Certaines cellules activées libèrent des médiateurs comme l’histamine.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-A97F9B1CF240",
+      "key": "editionAllergyResponse",
+      "width": 320,
+      "view": 2,
+      "caption": "Les manifestations varient selon les tissus et l’étendue de la réaction.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-A97F9B1CF240",
+      "key": "editionAllergyResponse",
+      "width": 1280,
+      "view": 0,
+      "caption": "Dans certaines allergies, des anticorps spécifiques reconnaissent un allergène.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-A97F9B1CF240",
+      "key": "editionAllergyResponse",
+      "width": 1280,
+      "view": 1,
+      "caption": "Certaines cellules activées libèrent des médiateurs comme l’histamine.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-A97F9B1CF240",
+      "key": "editionAllergyResponse",
+      "width": 1280,
+      "view": 2,
+      "caption": "Les manifestations varient selon les tissus et l’étendue de la réaction.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-9D0BBFCF9998",
+      "key": "editionCellFactory",
+      "width": 320,
+      "view": 0,
+      "caption": "La fabrication commence notamment par des opérations de préparation et de traitement des électrodes.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-9D0BBFCF9998",
+      "key": "editionCellFactory",
+      "width": 320,
+      "view": 1,
+      "caption": "Des électrodes et d’autres composants sont assemblés pour former des cellules.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-9D0BBFCF9998",
+      "key": "editionCellFactory",
+      "width": 320,
+      "view": 2,
+      "caption": "Des essais et le suivi de la production permettent d’évaluer la qualité et le rendement.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-9D0BBFCF9998",
+      "key": "editionCellFactory",
+      "width": 1280,
+      "view": 0,
+      "caption": "La fabrication commence notamment par des opérations de préparation et de traitement des électrodes.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-9D0BBFCF9998",
+      "key": "editionCellFactory",
+      "width": 1280,
+      "view": 1,
+      "caption": "Des électrodes et d’autres composants sont assemblés pour former des cellules.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-9D0BBFCF9998",
+      "key": "editionCellFactory",
+      "width": 1280,
+      "view": 2,
+      "caption": "Des essais et le suivi de la production permettent d’évaluer la qualité et le rendement.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-E5117A86F0EC",
+      "key": "editionFishTrophic",
+      "width": 320,
+      "view": 0,
+      "caption": "De petits organismes font partie de l’alimentation d’espèces plus grandes.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-E5117A86F0EC",
+      "key": "editionFishTrophic",
+      "width": 320,
+      "view": 1,
+      "caption": "Le méthylmercure peut s’accumuler dans les tissus et sa concentration augmenter aux niveaux trophiques élevés.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-E5117A86F0EC",
+      "key": "editionFishTrophic",
+      "width": 320,
+      "view": 2,
+      "caption": "Les concentrations varient avec l’espèce, le milieu, l’âge et l’alimentation.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-E5117A86F0EC",
+      "key": "editionFishTrophic",
+      "width": 1280,
+      "view": 0,
+      "caption": "De petits organismes font partie de l’alimentation d’espèces plus grandes.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-E5117A86F0EC",
+      "key": "editionFishTrophic",
+      "width": 1280,
+      "view": 1,
+      "caption": "Le méthylmercure peut s’accumuler dans les tissus et sa concentration augmenter aux niveaux trophiques élevés.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-E5117A86F0EC",
+      "key": "editionFishTrophic",
+      "width": 1280,
+      "view": 2,
+      "caption": "Les concentrations varient avec l’espèce, le milieu, l’âge et l’alimentation.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-1FBFC46B7C72",
+      "key": "editionFoodReactions",
+      "width": 320,
+      "view": 0,
+      "caption": "Dans certaines allergies, le système immunitaire réagit à une protéine alimentaire.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-1FBFC46B7C72",
+      "key": "editionFoodReactions",
+      "width": 320,
+      "view": 1,
+      "caption": "Quand l’activité de la lactase est insuffisante, du lactose reste mal digéré.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-1FBFC46B7C72",
+      "key": "editionFoodReactions",
+      "width": 320,
+      "view": 2,
+      "caption": "Une digestion incomplète du lactose et une allergie au lait ont des causes différentes.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-1FBFC46B7C72",
+      "key": "editionFoodReactions",
+      "width": 1280,
+      "view": 0,
+      "caption": "Dans certaines allergies, le système immunitaire réagit à une protéine alimentaire.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-1FBFC46B7C72",
+      "key": "editionFoodReactions",
+      "width": 1280,
+      "view": 1,
+      "caption": "Quand l’activité de la lactase est insuffisante, du lactose reste mal digéré.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-1FBFC46B7C72",
+      "key": "editionFoodReactions",
+      "width": 1280,
+      "view": 2,
+      "caption": "Une digestion incomplète du lactose et une allergie au lait ont des causes différentes.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-F4B58C094B5A",
+      "key": "editionGlucoseGates",
+      "width": 320,
+      "view": 0,
+      "caption": "Dans certains tissus, l’insuline favorise l’entrée du glucose dans les cellules.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-F4B58C094B5A",
+      "key": "editionGlucoseGates",
+      "width": 320,
+      "view": 1,
+      "caption": "Les mêmes tissus peuvent répondre moins fortement au signal d’insuline.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-F4B58C094B5A",
+      "key": "editionGlucoseGates",
+      "width": 320,
+      "view": 2,
+      "caption": "Si la compensation est insuffisante, la glycémie reste plus élevée.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-F4B58C094B5A",
+      "key": "editionGlucoseGates",
+      "width": 1280,
+      "view": 0,
+      "caption": "Dans certains tissus, l’insuline favorise l’entrée du glucose dans les cellules.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-F4B58C094B5A",
+      "key": "editionGlucoseGates",
+      "width": 1280,
+      "view": 1,
+      "caption": "Les mêmes tissus peuvent répondre moins fortement au signal d’insuline.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-F4B58C094B5A",
+      "key": "editionGlucoseGates",
+      "width": 1280,
+      "view": 2,
+      "caption": "Si la compensation est insuffisante, la glycémie reste plus élevée.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-B4709FED2182",
+      "key": "editionGlutenVillous",
+      "width": 320,
+      "view": 0,
+      "caption": "Les villosités augmentent la surface d’absorption de l’intestin grêle.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-B4709FED2182",
+      "key": "editionGlutenVillous",
+      "width": 320,
+      "view": 1,
+      "caption": "Dans la maladie cœliaque, la réaction au gluten peut abîmer et aplatir les villosités.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-B4709FED2182",
+      "key": "editionGlutenVillous",
+      "width": 1280,
+      "view": 0,
+      "caption": "Les villosités augmentent la surface d’absorption de l’intestin grêle.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-B4709FED2182",
+      "key": "editionGlutenVillous",
+      "width": 1280,
+      "view": 1,
+      "caption": "Dans la maladie cœliaque, la réaction au gluten peut abîmer et aplatir les villosités.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-9C36DB3C44A0",
+      "key": "editionGrainSilo",
+      "width": 320,
+      "view": 0,
+      "caption": "Le grain entre par le haut et remplit progressivement le volume du silo.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-9C36DB3C44A0",
+      "key": "editionGrainSilo",
+      "width": 320,
+      "view": 1,
+      "caption": "La circulation de l’air, la température et l’humidité influencent l’état du stock.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-9C36DB3C44A0",
+      "key": "editionGrainSilo",
+      "width": 320,
+      "view": 2,
+      "caption": "Des mesures prises à plusieurs endroits donnent des indications sur le stock.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-9C36DB3C44A0",
+      "key": "editionGrainSilo",
+      "width": 1280,
+      "view": 0,
+      "caption": "Le grain entre par le haut et remplit progressivement le volume du silo.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-9C36DB3C44A0",
+      "key": "editionGrainSilo",
+      "width": 1280,
+      "view": 1,
+      "caption": "La circulation de l’air, la température et l’humidité influencent l’état du stock.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-9C36DB3C44A0",
+      "key": "editionGrainSilo",
+      "width": 1280,
+      "view": 2,
+      "caption": "Des mesures prises à plusieurs endroits donnent des indications sur le stock.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-09059FBEC55C",
+      "key": "editionGraspReflex",
+      "width": 320,
+      "view": 0,
+      "caption": "Un contact sur la paume peut déclencher le réflexe du nourrisson.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-09059FBEC55C",
+      "key": "editionGraspReflex",
+      "width": 320,
+      "view": 1,
+      "caption": "Les doigts se referment automatiquement autour du stimulus.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-09059FBEC55C",
+      "key": "editionGraspReflex",
+      "width": 1280,
+      "view": 0,
+      "caption": "Un contact sur la paume peut déclencher le réflexe du nourrisson.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-09059FBEC55C",
+      "key": "editionGraspReflex",
+      "width": 1280,
+      "view": 1,
+      "caption": "Les doigts se referment automatiquement autour du stimulus.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-3FCFD9FEC7E7",
+      "key": "editionHairFollicle",
+      "width": 320,
+      "view": 0,
+      "caption": "La racine est logée dans un follicule vivant.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-3FCFD9FEC7E7",
+      "key": "editionHairFollicle",
+      "width": 320,
+      "view": 1,
+      "caption": "La fibre produite à la base ressort à la surface de la peau.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-3FCFD9FEC7E7",
+      "key": "editionHairFollicle",
+      "width": 1280,
+      "view": 0,
+      "caption": "La racine est logée dans un follicule vivant.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-3FCFD9FEC7E7",
+      "key": "editionHairFollicle",
+      "width": 1280,
+      "view": 1,
+      "caption": "La fibre produite à la base ressort à la surface de la peau.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-AA81F40FCCFC",
+      "key": "editionHeartSignal",
+      "width": 320,
+      "view": 0,
+      "caption": "Certains rythmes désorganisent la contraction du cœur.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-AA81F40FCCFC",
+      "key": "editionHeartSignal",
+      "width": 320,
+      "view": 1,
+      "caption": "Un choc électrique peut interrompre certains rythmes d’arrêt cardiaque.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-AA81F40FCCFC",
+      "key": "editionHeartSignal",
+      "width": 320,
+      "view": 2,
+      "caption": "Une activité électrique organisée peut reprendre après l’interruption du rythme.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-AA81F40FCCFC",
+      "key": "editionHeartSignal",
+      "width": 1280,
+      "view": 0,
+      "caption": "Certains rythmes désorganisent la contraction du cœur.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-AA81F40FCCFC",
+      "key": "editionHeartSignal",
+      "width": 1280,
+      "view": 1,
+      "caption": "Un choc électrique peut interrompre certains rythmes d’arrêt cardiaque.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-AA81F40FCCFC",
+      "key": "editionHeartSignal",
+      "width": 1280,
+      "view": 2,
+      "caption": "Une activité électrique organisée peut reprendre après l’interruption du rythme.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-1A604325ED55",
+      "key": "editionIronCarrier",
+      "width": 320,
+      "view": 0,
+      "caption": "Une partie du fer du corps est mise en réserve.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-1A604325ED55",
+      "key": "editionIronCarrier",
+      "width": 320,
+      "view": 1,
+      "caption": "L’hémoglobine des globules rouges contient du fer et fixe l’oxygène.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-1A604325ED55",
+      "key": "editionIronCarrier",
+      "width": 320,
+      "view": 2,
+      "caption": "Les réserves peuvent diminuer avant que le transport d’oxygène soit atteint.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-1A604325ED55",
+      "key": "editionIronCarrier",
+      "width": 1280,
+      "view": 0,
+      "caption": "Une partie du fer du corps est mise en réserve.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-1A604325ED55",
+      "key": "editionIronCarrier",
+      "width": 1280,
+      "view": 1,
+      "caption": "L’hémoglobine des globules rouges contient du fer et fixe l’oxygène.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-1A604325ED55",
+      "key": "editionIronCarrier",
+      "width": 1280,
+      "view": 2,
+      "caption": "Les réserves peuvent diminuer avant que le transport d’oxygène soit atteint.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-F175768216B2",
+      "key": "editionLipidRoutes",
+      "width": 320,
+      "view": 0,
+      "caption": "Des particules LDL transportent du cholestérol dans le sang.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-F175768216B2",
+      "key": "editionLipidRoutes",
+      "width": 320,
+      "view": 1,
+      "caption": "Les particules HDL participent au retour d’une partie du cholestérol vers le foie.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-F175768216B2",
+      "key": "editionLipidRoutes",
+      "width": 320,
+      "view": 2,
+      "caption": "Une plaque peut se former dans la paroi d’une artère.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-F175768216B2",
+      "key": "editionLipidRoutes",
+      "width": 1280,
+      "view": 0,
+      "caption": "Des particules LDL transportent du cholestérol dans le sang.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-F175768216B2",
+      "key": "editionLipidRoutes",
+      "width": 1280,
+      "view": 1,
+      "caption": "Les particules HDL participent au retour d’une partie du cholestérol vers le foie.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-F175768216B2",
+      "key": "editionLipidRoutes",
+      "width": 1280,
+      "view": 2,
+      "caption": "Une plaque peut se former dans la paroi d’une artère.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-C7F58A418282",
+      "key": "editionNitrogenReturn",
+      "width": 320,
+      "view": 0,
+      "caption": "Les résidus laissés ou apportés au sol contiennent des nutriments.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-C7F58A418282",
+      "key": "editionNitrogenReturn",
+      "width": 320,
+      "view": 1,
+      "caption": "Les organismes du sol transforment une partie de la matière organique.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-C7F58A418282",
+      "key": "editionNitrogenReturn",
+      "width": 320,
+      "view": 2,
+      "caption": "Certaines légumineuses hébergent des bactéries capables de fixer l’azote de l’air.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-C7F58A418282",
+      "key": "editionNitrogenReturn",
+      "width": 1280,
+      "view": 0,
+      "caption": "Les résidus laissés ou apportés au sol contiennent des nutriments.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-C7F58A418282",
+      "key": "editionNitrogenReturn",
+      "width": 1280,
+      "view": 1,
+      "caption": "Les organismes du sol transforment une partie de la matière organique.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-C7F58A418282",
+      "key": "editionNitrogenReturn",
+      "width": 1280,
+      "view": 2,
+      "caption": "Certaines légumineuses hébergent des bactéries capables de fixer l’azote de l’air.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-2510FBA0B89B",
+      "key": "editionPlumeExposure",
+      "width": 320,
+      "view": 0,
+      "caption": "Des activités humaines et des phénomènes naturels émettent des substances dans l’air.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-2510FBA0B89B",
+      "key": "editionPlumeExposure",
+      "width": 320,
+      "view": 1,
+      "caption": "Les polluants sont transportés et certains se transforment dans l’atmosphère.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-2510FBA0B89B",
+      "key": "editionPlumeExposure",
+      "width": 320,
+      "view": 2,
+      "caption": "L’exposition correspond à ce que les personnes rencontrent dans les lieux et au cours du temps.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-2510FBA0B89B",
+      "key": "editionPlumeExposure",
+      "width": 1280,
+      "view": 0,
+      "caption": "Des activités humaines et des phénomènes naturels émettent des substances dans l’air.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-2510FBA0B89B",
+      "key": "editionPlumeExposure",
+      "width": 1280,
+      "view": 1,
+      "caption": "Les polluants sont transportés et certains se transforment dans l’atmosphère.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-2510FBA0B89B",
+      "key": "editionPlumeExposure",
+      "width": 1280,
+      "view": 2,
+      "caption": "L’exposition correspond à ce que les personnes rencontrent dans les lieux et au cours du temps.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-AA039A28446E",
+      "key": "editionProductionRobot",
+      "width": 320,
+      "view": 0,
+      "caption": "Un bras peut répéter un mouvement défini pour déplacer une pièce ou agir sur elle.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-AA039A28446E",
+      "key": "editionProductionRobot",
+      "width": 320,
+      "view": 1,
+      "caption": "Les supports et les capteurs aident à présenter la pièce au bon endroit.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-AA039A28446E",
+      "key": "editionProductionRobot",
+      "width": 320,
+      "view": 2,
+      "caption": "Robotiser un poste modifie aussi des tâches de préparation, de réglage et de maintenance.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-AA039A28446E",
+      "key": "editionProductionRobot",
+      "width": 1280,
+      "view": 0,
+      "caption": "Un bras peut répéter un mouvement défini pour déplacer une pièce ou agir sur elle.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-AA039A28446E",
+      "key": "editionProductionRobot",
+      "width": 1280,
+      "view": 1,
+      "caption": "Les supports et les capteurs aident à présenter la pièce au bon endroit.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-AA039A28446E",
+      "key": "editionProductionRobot",
+      "width": 1280,
+      "view": 2,
+      "caption": "Robotiser un poste modifie aussi des tâches de préparation, de réglage et de maintenance.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-F34407601DBB",
+      "key": "editionSkinBarrier",
+      "width": 320,
+      "view": 0,
+      "caption": "La couche superficielle protège les tissus des échanges excessifs avec l’extérieur.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-F34407601DBB",
+      "key": "editionSkinBarrier",
+      "width": 320,
+      "view": 1,
+      "caption": "Des cellules produites en profondeur se déplacent vers la surface.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-F34407601DBB",
+      "key": "editionSkinBarrier",
+      "width": 320,
+      "view": 2,
+      "caption": "La peau est exposée à plusieurs facteurs à la fois.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-F34407601DBB",
+      "key": "editionSkinBarrier",
+      "width": 1280,
+      "view": 0,
+      "caption": "La couche superficielle protège les tissus des échanges excessifs avec l’extérieur.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-F34407601DBB",
+      "key": "editionSkinBarrier",
+      "width": 1280,
+      "view": 1,
+      "caption": "Des cellules produites en profondeur se déplacent vers la surface.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-F34407601DBB",
+      "key": "editionSkinBarrier",
+      "width": 1280,
+      "view": 2,
+      "caption": "La peau est exposée à plusieurs facteurs à la fois.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-BEAEB1FF85CD",
+      "key": "editionVesselRisks",
+      "width": 320,
+      "view": 0,
+      "caption": "Le sang circule dans une cavité bordée par la paroi de l’artère.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-BEAEB1FF85CD",
+      "key": "editionVesselRisks",
+      "width": 320,
+      "view": 1,
+      "caption": "Une plaque se développe dans la paroi et peut modifier le passage du sang.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-BEAEB1FF85CD",
+      "key": "editionVesselRisks",
+      "width": 320,
+      "view": 2,
+      "caption": "Des facteurs comme le tabac, la tension et le cholestérol peuvent se cumuler.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-BEAEB1FF85CD",
+      "key": "editionVesselRisks",
+      "width": 1280,
+      "view": 0,
+      "caption": "Le sang circule dans une cavité bordée par la paroi de l’artère.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-BEAEB1FF85CD",
+      "key": "editionVesselRisks",
+      "width": 1280,
+      "view": 1,
+      "caption": "Une plaque se développe dans la paroi et peut modifier le passage du sang.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-BEAEB1FF85CD",
+      "key": "editionVesselRisks",
+      "width": 1280,
+      "view": 2,
+      "caption": "Des facteurs comme le tabac, la tension et le cholestérol peuvent se cumuler.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-CD61D2A23D21",
+      "key": "editionWellAquifer",
+      "width": 320,
+      "view": 0,
+      "caption": "Une nappe occupe des pores ou des fissures dans un milieu qui peut transmettre l’eau.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-CD61D2A23D21",
+      "key": "editionWellAquifer",
+      "width": 320,
+      "view": 1,
+      "caption": "Un forage ouvert sur un niveau aquifère peut permettre d’en prélever de l’eau.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-CD61D2A23D21",
+      "key": "editionWellAquifer",
+      "width": 320,
+      "view": 2,
+      "caption": "L’environnement du captage et les caractéristiques du sous-sol comptent pour protéger l’eau.",
+      "minTextPx": 12.6
+    },
+    {
+      "ref": "LEC-CD61D2A23D21",
+      "key": "editionWellAquifer",
+      "width": 1280,
+      "view": 0,
+      "caption": "Une nappe occupe des pores ou des fissures dans un milieu qui peut transmettre l’eau.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-CD61D2A23D21",
+      "key": "editionWellAquifer",
+      "width": 1280,
+      "view": 1,
+      "caption": "Un forage ouvert sur un niveau aquifère peut permettre d’en prélever de l’eau.",
+      "minTextPx": 30.76
+    },
+    {
+      "ref": "LEC-CD61D2A23D21",
+      "key": "editionWellAquifer",
+      "width": 1280,
+      "view": 2,
+      "caption": "L’environnement du captage et les caractéristiques du sous-sol comptent pour protéger l’eau.",
+      "minTextPx": 30.76
+    }
+  ]
+}

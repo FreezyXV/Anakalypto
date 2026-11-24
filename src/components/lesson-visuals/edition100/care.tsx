@@ -101,25 +101,6 @@ export const carePlates = {
       s === 2 && [block(206, 108, 97, 102, "none", living, 4), label(178, 81, "Lieu et moment")],
     ],
   ),
-  editionAllergyResponse: plate(
-    ["Reconnaissance spécifique", "Libération de médiateurs", "Effets à des endroits variés"],
-    (s, id) => [
-      filled(id, "M41 181q62-25 139-2t139 0v34H41Z", "clay", "engraving"),
-      round(id, 166, 135, 41, "glass"),
-      round(id, 163, 137, 19, "steel"),
-      stroke("M131 110l-15-13m15 13 8-20m-8 20 9 10m53-10 14-13m-14 13-5-20m5 20-7 10", harm, 2.9),
-      s === 0 && [round(id, 117, 91, 7, "brass"), label(230, 84, "Allergène")],
-      s === 1 && [
-        ...[200, 219, 239, 254].map((x, i) => round(id, x, 132 + (i % 2) * 13, 3, "brass")),
-        call(264, 85, "Médiateurs", "M258 92l-17 32"),
-      ],
-      s === 2 && [
-        arrow(204, 152, 247, 153, harm),
-        arrow(200, 157, 225, 182, harm),
-        label(252, 89, "Réponse"),
-      ],
-    ],
-  ),
   editionSleepDefenses: plate(
     ["Temps de sommeil", "Échanges avec l’immunité", "Des effets à plusieurs échelles"],
     (s, id) => [
