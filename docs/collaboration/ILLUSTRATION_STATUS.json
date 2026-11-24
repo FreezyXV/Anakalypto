@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T06:36:37.035Z",
+  "generatedAt": "2026-11-24T06:49:15.682Z",
   "scope": "PUBLISHED_ONLY",
   "counts": {
     "published": 948,
@@ -236,8 +236,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.568Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:11.664Z"
     },
     {
       "ref": "LEC-7008E1840428",
@@ -252,8 +252,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.655Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:11.658Z"
     },
     {
       "ref": "LEC-D6FDF5654800",
@@ -268,8 +268,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.743Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:11.667Z"
     },
     {
       "ref": "LEC-E331BB1DE4B1",
@@ -300,8 +300,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:50.905Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:11.659Z"
     },
     {
       "ref": "LEC-BEFBADFB91B2",
@@ -380,8 +380,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:51.309Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:12.290Z"
     },
     {
       "ref": "LEC-5372F8D0D18F",
@@ -508,8 +508,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:52.109Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:12.300Z"
     },
     {
       "ref": "LEC-FF11EEF9DD4B",
@@ -524,8 +524,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:52.209Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:12.289Z"
     },
     {
       "ref": "LEC-1439572BBA79",
@@ -12684,8 +12684,8 @@
       "inlineStatus": "READY",
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
-      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T12:15:10.750Z"
+      "evidence": "docs/qa/refonte-aviation/README.md",
+      "reviewedAt": "2026-11-24T06:49:12.297Z"
     },
     {
       "ref": "LEC-B79236AAB569",

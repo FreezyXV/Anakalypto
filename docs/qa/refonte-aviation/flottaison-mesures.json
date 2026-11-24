@@ -1,0 +1,128 @@
+[
+  {
+    "reference": "LEC-0CA01323140F",
+    "largeur": 320,
+    "comparaisonMemorisee": true,
+    "positions": [
+      {
+        "chargePourcent": 0,
+        "legende": "400 kg au total ; 400 L déplacés. La coque flotte : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 12.27,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "chargePourcent": 25,
+        "legende": "600 kg au total ; 600 L déplacés. La coque flotte : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 12.27,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "chargePourcent": 50,
+        "legende": "800 kg au total ; 800 L déplacés. La coque flotte : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 12.27,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "chargePourcent": 74,
+        "legende": "992 kg au total ; 992 L déplacés. La coque flotte : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 12.27,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "chargePourcent": 75,
+        "legende": "1000 kg au total ; 1000 L déplacés. La coque est entièrement immergée : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 12.27,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "chargePourcent": 76,
+        "legende": "1008 kg au total ; 1000 L déplacés. Même immergée, la coque ne déplace pas assez d’eau : elle s’enfonce. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 12.27,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "chargePourcent": 100,
+        "legende": "1200 kg au total ; 1000 L déplacés. Même immergée, la coque ne déplace pas assez d’eau : elle s’enfonce. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 12.27,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-0CA01323140F",
+    "largeur": 1280,
+    "comparaisonMemorisee": true,
+    "positions": [
+      {
+        "chargePourcent": 0,
+        "legende": "400 kg au total ; 400 L déplacés. La coque flotte : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 38.22,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "chargePourcent": 25,
+        "legende": "600 kg au total ; 600 L déplacés. La coque flotte : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 38.22,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "chargePourcent": 50,
+        "legende": "800 kg au total ; 800 L déplacés. La coque flotte : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 38.22,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "chargePourcent": 74,
+        "legende": "992 kg au total ; 992 L déplacés. La coque flotte : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 38.22,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "chargePourcent": 75,
+        "legende": "1000 kg au total ; 1000 L déplacés. La coque est entièrement immergée : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 38.22,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "chargePourcent": 76,
+        "legende": "1008 kg au total ; 1000 L déplacés. Même immergée, la coque ne déplace pas assez d’eau : elle s’enfonce. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 38.22,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "chargePourcent": 100,
+        "legende": "1200 kg au total ; 1000 L déplacés. Même immergée, la coque ne déplace pas assez d’eau : elle s’enfonce. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "textMinPx": 38.22,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  }
+]

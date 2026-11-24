@@ -1,0 +1,50 @@
+[
+  {
+    "key": "certification",
+    "path": "/aeronautique/aviation-civile/certification-aeronautique/certification-avion-de-transport",
+    "status": "READY",
+    "visualRefs": ["schema:certification"]
+  },
+  {
+    "key": "saf",
+    "path": "/aeronautique/aviation-civile/decarbonation/carburants-aviation-durables-saf",
+    "status": "READY",
+    "visualRefs": ["schema:saf"]
+  },
+  {
+    "key": "zeroe",
+    "path": "/aeronautique/aviation-civile/decarbonation/les-concepts-d-avion-a-hydrogene-d-airbus",
+    "status": "READY",
+    "visualRefs": ["schema:zeroe"]
+  },
+  {
+    "key": "investigation",
+    "path": "/aeronautique/aviation-civile/securite/enquetes-de-securite-apres-accident",
+    "status": "READY",
+    "visualRefs": ["schema:investigation"]
+  },
+  {
+    "key": "aircontrol",
+    "path": "/aeronautique/navigation-aerienne/controle-du-trafic-aerien/controle-du-trafic-aerien-principes",
+    "status": "READY",
+    "visualRefs": ["schema:aircontrol"]
+  },
+  {
+    "key": "electricair",
+    "path": "/aeronautique/propulsion/propulsion-electrique-aeronautique/propulsion-electrique-hybride-aeronautique",
+    "status": "READY",
+    "visualRefs": ["schema:electricair"]
+  },
+  {
+    "key": "hydrogenair",
+    "path": "/aeronautique/propulsion/propulsion-electrique-aeronautique/que-rejette-un-avion-a-hydrogene-et-ou-loge-t-on-le-carburant",
+    "status": "READY",
+    "visualRefs": ["schema:hydrogenair"]
+  },
+  {
+    "key": "le-bateau-et-l-eau-deplacee",
+    "path": "/sciences-fondamentales/physique/mecanique/pourquoi-un-bateau-en-acier-flotte-t-il",
+    "status": "READY",
+    "visualRefs": ["atelier:le-bateau-et-l-eau-deplacee"]
+  }
+]

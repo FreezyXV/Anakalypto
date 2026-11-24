@@ -7,9 +7,9 @@ Les 435 leçons de la file « Autres vues à relire » correspondent à 416 dess
 - 265 leçons ont des illustrations conservées.
 - 170 leçons rejoignent la liste des refontes. Les planches de détail doivent mieux identifier l’objet, sa coupe ou le changement d’une vue à l’autre.
 
-À l’issue de cette série, le catalogue de 848 leçons avec un dessin dédié compte 41 refontes validées, 269 leçons dont les dessins sont conservés et 538 leçons à reprendre. Une décision « À refaire » dans l’inventaire correspond à la revue graphique. La file backend enregistre les réservations et les validations du travail pris en charge.
+À l’issue de cette première série, le catalogue de 848 leçons avec un dessin dédié compte 41 refontes validées, 269 leçons dont les dessins sont conservés et 538 leçons à reprendre. Une décision « À refaire » dans l’inventaire correspond à la revue graphique. La file backend enregistre les réservations et les validations du travail pris en charge.
 
-[Inventaire par référence](../refonte-visuelle-apres/inventaire.csv) · [Planches de relecture](revue)
+[Inventaire par référence](../refonte-visuelle-apres/inventaire.csv) · [Planches de relecture](revue) · [Série aéronautique suivante](../refonte-aviation/README.md)
 
 ## Série redessinée en SVG
 
