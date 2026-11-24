@@ -6,9 +6,9 @@ La référence donnée pour la refonte présente un phonographe avec une pointe 
 
 La file du 24 novembre 2026 contient 848 leçons publiées avec un dessin dédié. Le premier examen couvre les 829 couvertures issues du registre, réparties en 28 planches, et les 19 captures initiales des ateliers à 390 px. L’inventaire indique, par référence de leçon, la case examinée et l’observation associée. Les dessins qui servent à plusieurs leçons apparaissent sous les références de chaque leçon. [Inventaire](inventaire.csv) · [Planches de couverture](couvertures) · [Ateliers](couvertures/ateliers.jpg)
 
-- 18 leçons redessinées et vérifiées en intégralité.
+- 20 leçons redessinées et vérifiées, dont les deux ateliers du moteur et du turbo.
 - 4 leçons de la référence « Après » conservées.
-- 391 leçons à reprendre, identifiées dès la couverture.
+- 389 leçons à reprendre, identifiées dès la couverture.
 - 435 leçons dont les autres vues restent à relire avant décision.
 
 L’inventaire est le relevé de cet examen. PostgreSQL continue de servir aux réservations et aux validations. Le relevé n’atteste pas que chaque état de chaque planche a été relu.
@@ -25,4 +25,4 @@ Chromium a vérifié 51 vues, chacune activée à 320 et 1280 px. La recette cou
 
 [Mobile 1](vues-320-1.jpg) · [Mobile 2](vues-320-2.jpg) · [Mobile 3](vues-320-3.jpg) · [Ordinateur 1](vues-1280-1.jpg) · [Ordinateur 2](vues-1280-2.jpg) · [Ordinateur 3](vues-1280-3.jpg)
 
-[Reçus de validation](backend-receipts.json)
+[Reçus de validation de la première série](backend-receipts.json) · [Recette des deux ateliers repris ensuite](../refonte-ateliers-moteurs/README.md)

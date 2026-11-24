@@ -1,0 +1,14 @@
+[
+  {
+    "key": "les-quatre-temps",
+    "path": "/automobile/motorisations/thermique/comment-un-moteur-a-quatre-temps-transforme-t-il-l-essence-en-mouvement",
+    "status": "READY",
+    "visualRefs": ["atelier:les-quatre-temps"]
+  },
+  {
+    "key": "le-turbo",
+    "path": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant",
+    "status": "READY",
+    "visualRefs": ["atelier:le-turbo"]
+  }
+]

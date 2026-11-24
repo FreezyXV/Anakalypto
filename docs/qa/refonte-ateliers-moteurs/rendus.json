@@ -1,0 +1,56 @@
+{
+  "le-turbo": [
+    {
+      "scene": "essayer",
+      "value": 0,
+      "hash": "e895cb81c728331b5bb7d471cd2cfd7f0c56d17fc0308ea797294452e97da234"
+    },
+    {
+      "scene": "essayer",
+      "value": 25,
+      "hash": "6371e3214dc1a0b0d8a6ae20b0a83d6d8e9d55e3c3160509bb76e0624790b7ff"
+    },
+    {
+      "scene": "essayer",
+      "value": 50,
+      "hash": "90550a67982111a30b7c0c656d6e41daa492dff84db1930fbe2ebd13c9e000bb"
+    },
+    {
+      "scene": "essayer",
+      "value": 75,
+      "hash": "2c6d367391448aaf7276414d92e81f3826a63539ffd44546e009029508ef91a1"
+    },
+    {
+      "scene": "essayer",
+      "value": 100,
+      "hash": "78a78ecf2dfd894af2e4a1378bffcfff08b079d95ec6890e58cea9da9993bd7c"
+    }
+  ],
+  "les-quatre-temps": [
+    {
+      "scene": "essayer",
+      "value": 0,
+      "hash": "a49a7243799cdf438e4dd908c52f85067583a15b1dd35010938b620be76fd2b0"
+    },
+    {
+      "scene": "essayer",
+      "value": 25,
+      "hash": "ca50c91504fe1c4399be444216c023838b56fad08b6f95eec9583a827b4a6952"
+    },
+    {
+      "scene": "essayer",
+      "value": 50,
+      "hash": "4345a8565340bc7976c80e191948dd07feaaa1001f459350613d0d7b7a0f643d"
+    },
+    {
+      "scene": "essayer",
+      "value": 75,
+      "hash": "c351c335db4b6d23dbbe700221e4dc6fbf5c62c1ff7c9c4ffcc4d8b561468454"
+    },
+    {
+      "scene": "essayer",
+      "value": 100,
+      "hash": "62e380feffad9a36c6693a7ab18d61322e8ddaedce7500438411977fb423bb5d"
+    }
+  ]
+}

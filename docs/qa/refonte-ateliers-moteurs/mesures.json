@@ -1,0 +1,42 @@
+{
+  "scenes": 4,
+  "activations": 18,
+  "cartes": [
+    {
+      "key": "les-quatre-temps",
+      "ref": "LEC-963FCCC6C8BF",
+      "width": 1280,
+      "version": "new",
+      "comparison": true,
+      "vues": 4,
+      "tailleMinPx": 38.2
+    },
+    {
+      "key": "le-turbo",
+      "ref": "LEC-AAD4FCA9FF69",
+      "width": 320,
+      "version": "new",
+      "comparison": true,
+      "vues": 5,
+      "tailleMinPx": 12.3
+    },
+    {
+      "key": "le-turbo",
+      "ref": "LEC-AAD4FCA9FF69",
+      "width": 1280,
+      "version": "new",
+      "comparison": true,
+      "vues": 5,
+      "tailleMinPx": 38.2
+    },
+    {
+      "key": "les-quatre-temps",
+      "ref": "LEC-963FCCC6C8BF",
+      "width": 320,
+      "version": "new",
+      "comparison": true,
+      "vues": 4,
+      "tailleMinPx": 12.3
+    }
+  ]
+}
