@@ -10,6 +10,10 @@ import { nutritionPlates } from "./edition100/nutrition";
 import { physiologyPlates } from "./edition100/physiology";
 import { researchPlates } from "./edition100/research";
 import { PlateSurface, type Plate } from "./detail100/plate";
+import { anatomyRefinements } from "./refined/anatomy";
+import { industryRefinements } from "./refined/industry";
+import { fieldRefinements } from "./refined/field";
+import { microscopyRefinements } from "./refined/microscopy";
 
 const plates: Readonly<Record<(typeof EDITION_LESSON_DIAGRAMS)[number]["id"], Plate>> = {
   ...carePlates,
@@ -22,6 +26,10 @@ const plates: Readonly<Record<(typeof EDITION_LESSON_DIAGRAMS)[number]["id"], Pl
   ...nutritionPlates,
   ...physiologyPlates,
   ...researchPlates,
+  ...anatomyRefinements,
+  ...industryRefinements,
+  ...fieldRefinements,
+  ...microscopyRefinements,
 };
 
 const entries = new Map(

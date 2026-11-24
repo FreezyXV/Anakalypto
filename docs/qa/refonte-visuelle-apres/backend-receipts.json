@@ -1,0 +1,110 @@
+[
+  {
+    "key": "editionLipidRoutes",
+    "path": "/alimentation-et-nutrition/nutriments/macronutriments/cholesterol-ami-ou-ennemi",
+    "status": "READY",
+    "visualRefs": ["schema:editionLipidRoutes"]
+  },
+  {
+    "key": "editionIronCarrier",
+    "path": "/alimentation-et-nutrition/nutriments/micronutriments/carence-en-fer-dans-le-monde",
+    "status": "READY",
+    "visualRefs": ["schema:editionIronCarrier"]
+  },
+  {
+    "key": "editionHairFollicle",
+    "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-cheveux",
+    "status": "READY",
+    "visualRefs": ["schema:editionHairFollicle"]
+  },
+  {
+    "key": "editionSkinBarrier",
+    "path": "/alimentation-et-nutrition/nutrition-et-sante/nutrition-et-peau",
+    "status": "READY",
+    "visualRefs": ["schema:editionSkinBarrier"]
+  },
+  {
+    "key": "editionFoodReactions",
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/allergies-et-intolerances-alimentaires",
+    "status": "READY",
+    "visualRefs": ["schema:editionFoodReactions"]
+  },
+  {
+    "key": "editionGlutenVillous",
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/regimes-particuliers/gluten-mythes-et-realites",
+    "status": "READY",
+    "visualRefs": ["schema:editionGlutenVillous"]
+  },
+  {
+    "key": "editionFishTrophic",
+    "path": "/alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire/metaux-lourds-poissons",
+    "status": "READY",
+    "visualRefs": ["schema:editionFishTrophic"]
+  },
+  {
+    "key": "editionGrainSilo",
+    "path": "/sciences-du-vivant-appliquees/agronomie/agriculture-durable/conserver-recoltes",
+    "status": "READY",
+    "visualRefs": ["schema:editionGrainSilo"]
+  },
+  {
+    "key": "editionNitrogenReturn",
+    "path": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/fertiliser-sans-engrais-industriels",
+    "status": "READY",
+    "visualRefs": ["schema:editionNitrogenReturn"]
+  },
+  {
+    "key": "editionHeartSignal",
+    "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/comment-un-defibrillateur-remet-il-de-l-ordre-dans-un-coeur-qui-s-emballe",
+    "status": "READY",
+    "visualRefs": ["schema:editionHeartSignal"]
+  },
+  {
+    "key": "editionVesselRisks",
+    "path": "/corps-humain-et-sante/anatomie/systeme-cardiovasculaire/les-facteurs-de-risque-cardiovasculaire-modifiables",
+    "status": "READY",
+    "visualRefs": ["schema:editionVesselRisks"]
+  },
+  {
+    "key": "editionGlucoseGates",
+    "path": "/corps-humain-et-sante/maladies/maladies-chroniques/diabete-de-type-2-mecanismes-et-prevention",
+    "status": "READY",
+    "visualRefs": ["schema:editionGlucoseGates"]
+  },
+  {
+    "key": "editionGraspReflex",
+    "path": "/sciences-humaines-et-sociales/psychologie/developpement/pourquoi-un-nouveau-ne-serre-t-il-fort-le-doigt-qu-on-lui-tend",
+    "status": "READY",
+    "visualRefs": ["schema:editionGraspReflex"]
+  },
+  {
+    "key": "editionAllergyResponse",
+    "path": "/corps-humain-et-sante/physiologie/immunite/allergies-et-hypersensibilite",
+    "status": "READY",
+    "visualRefs": ["schema:editionAllergyResponse"]
+  },
+  {
+    "key": "editionPlumeExposure",
+    "path": "/environnement-et-climat/pollution-et-ressources/qualite-de-l-air/pollution-de-lair-ambiant-risque-sanitaire",
+    "status": "READY",
+    "visualRefs": ["schema:editionPlumeExposure"]
+  },
+  {
+    "key": "editionProductionRobot",
+    "path": "/industries/industrie-manufacturiere/automatisation/pourquoi-la-france-cherche-t-elle-a-reindustrialiser-et-quel-role-jouent-les-robots",
+    "status": "READY",
+    "visualRefs": ["schema:editionProductionRobot"]
+  },
+  {
+    "key": "editionCellFactory",
+    "path": "/industries/industrie-manufacturiere/chaine-logistique/pourquoi-l-europe-construit-elle-des-usines-geantes-de-batteries-et-reussissent-elles",
+    "status": "READY",
+    "visualRefs": ["schema:editionCellFactory"]
+  },
+  {
+    "key": "editionWellAquifer",
+    "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/la-construction-de-puits-et-de-forages",
+    "status": "READY",
+    "visualRefs": ["schema:editionWellAquifer"]
+  }
+]

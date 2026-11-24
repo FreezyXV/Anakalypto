@@ -6,11 +6,9 @@ import {
   cylinder,
   filled,
   flow,
-  focus,
   harm,
   ink,
   label,
-  living,
   moved,
   oval,
   prism,
@@ -18,26 +16,6 @@ import {
   stroke,
 } from "../detail100/plate";
 import { bench, grain, leaf, plate, vial } from "./craft";
-
-function fish(
-  id: string,
-  x: number,
-  y: number,
-  scale: number,
-  tone: "glass" | "steel" | "brass" = "glass",
-) {
-  return moved(
-    x,
-    y,
-    [
-      filled(id, "M-36 0q25-35 77-11l29-21-9 31 9 23-32-14q-50 26-74-8Z", tone, "engraving"),
-      filled(id, "M-4-16l19-16 13 14ZM3 12l18 13 7-15Z", tone),
-      round(id, -23, -2, 3, "graphite"),
-      stroke("M-15-10q10 10-1 20m20-5 17-3", ink, 1.3),
-    ],
-    scale,
-  );
-}
 
 function jar(id: string, x: number, y: number, w = 62) {
   return moved(x, y, [
@@ -105,32 +83,6 @@ export const foodSystemsPlates = {
       ],
     ],
   ),
-  editionFishTrophic: plate(
-    ["Organismes consommés", "Accumulation au fil du temps", "Espèces et niveaux variables"],
-    (s, id) => [
-      filled(id, "M30 89h300v127H30Z", "glass", "dots"),
-      stroke("M33 105h294m-280 85h267", flow, 1.1, "3 5"),
-      ...[65, 84, 108].map((x, i) => fish(id, x, 173 - (i % 2) * 18, 0.28)),
-      fish(id, 173, 155, 0.53, "steel"),
-      fish(id, 252, 131, 0.77, s > 0 ? "brass" : "steel"),
-      s > 0 && [
-        arrow(109, 166, 135, 158, flow),
-        arrow(197, 149, 220, 138, flow),
-        ...[
-          [80, 171],
-          [171, 152],
-          [184, 155],
-          [241, 130],
-          [254, 123],
-          [265, 132],
-          [276, 125],
-          [279, 138],
-        ].map(([x, y]) => round(id, x!, y!, 2.7, "clay")),
-      ],
-      s === 1 && call(174, 78, "Mercure", "M181 83l58 42", harm),
-      s === 2 && [focus(260, 131, 45, harm), call(182, 82, "Prédateur", "M203 89l28 22", harm)],
-    ],
-  ),
   editionPesticideResidue: plate(["Prélever", "Mesurer", "Comparer à la limite"], (s, id) => [
     bench(id, 33, 200, 280),
     ...[58, 84, 109].map((x, i) => grain(id, x, 151 - i * 16, 1.35, "clay")),
@@ -183,42 +135,6 @@ export const foodSystemsPlates = {
       s === 2 && arrow(113, 169, 159, 169, harm, true),
     ],
   ),
-  editionGrainSilo: plate(
-    ["Suivre l’entrée du grain", "Humidité et air", "Surveiller le stock"],
-    (s, id) => [
-      cylinder(id, 92, 98, 165, 102, "steel"),
-      filled(id, "M88 98l84-39 88 39Z", "steel", "engraving"),
-      ...[109, 128, 147, 166, 185].map((y) => stroke(`M94 ${y}q81 23 161 0`, "#626e69", 1.5)),
-      filled(id, "M108 122q32 16 59-4 38-18 75 4v66q-64 19-134 0Z", "brass", "dots"),
-      ...Array.from({ length: 42 }, (_, i) => {
-        const x = 116 + (i % 10) * 12,
-          y = 142 + Math.floor(i / 10) * 10;
-        return stroke(
-          `M${x} ${y}l${3 + (i % 4)} ${(i % 3) - 2}`,
-          i % 3 === 0 ? "#806139" : "#f1d8a1",
-          1.25,
-        );
-      }),
-      stroke("M110 128v55q61 18 129 1m-129-31q63 18 129 1", active, 1.25, "5 4"),
-      ...[116, 231].map((x) => prism(id, x, 200, 14, 24, 7, "graphite")),
-      s === 0 && [
-        stroke("M121 71h23l22 10v32", ink, 5),
-        stroke("M121 71h23l22 10v32", "#bc8c4b", 2),
-        arrow(169, 99, 169, 122, active),
-        label(68, 133, "Récolte"),
-      ],
-      s === 1 && [
-        arrow(73, 186, 106, 186, flow),
-        arrow(129, 166, 129, 120, flow),
-        call(281, 77, "Air", "M280 83l-38 38", flow),
-      ],
-      s === 2 && [
-        stroke("M198 100v74", harm, 1.7, "4 3"),
-        round(id, 198, 174, 4.7, "clay"),
-        call(268, 72, "Sonde", "M262 76l-62 28"),
-      ],
-    ],
-  ),
   editionNourishmentVariety: plate(
     ["Énergie disponible", "Acides aminés", "Vitamines et minéraux"],
     (s, id) => [
@@ -244,37 +160,6 @@ export const foodSystemsPlates = {
         ["Féculents", "Légumineuses", "Feuilles"][s]!,
         ["M111 80l12 29", "M178 81l12 77", "M249 79l-21 26"][s]!,
       ),
-    ],
-  ),
-  editionNitrogenReturn: plate(
-    ["Apports organiques", "Transformation dans le sol", "Échanges avec les racines"],
-    (s, id) => [
-      filled(id, "M33 139q87-13 147 1t147-2v79H33Z", "earth", "dots"),
-      filled(id, "M33 182q122-14 294-4v39H33Z", "clay", "engraving"),
-      leaf(id, 171, 126, 0.83),
-      stroke("M173 137q-8 15 14 53m-12-24-21 13m26-8 28 12", living, 2.2),
-      s === 0 && [
-        filled(id, "M56 137l24-29 30-10 31 38Z", "earth", "engraving"),
-        label(84, 84, "Matière"),
-      ],
-      s === 1 && [
-        ...Array.from({ length: 10 }, (_, i) =>
-          round(id, 88 + (i % 5) * 30, 155 + Math.floor(i / 5) * 17, 3, "brass"),
-        ),
-        call(248, 88, "Minéraux", "M243 95l-26 52"),
-      ],
-      s === 2 && [
-        arrow(106, 174, 160, 169, living),
-        arrow(237, 172, 196, 171, living),
-        ...[
-          [169, 164],
-          [157, 178],
-          [186, 178],
-          [198, 174],
-          [202, 178],
-        ].map(([x, y]) => round(id, x!, y!, 3.3, "brass")),
-        call(234, 84, "Nodules", "M226 92l-32 73", living),
-      ],
     ],
   ),
 };
