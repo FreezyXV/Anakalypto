@@ -1,4 +1,4 @@
-import { Arrow, Line } from "./EverydayParts";
+import { Line } from "./EverydayParts";
 import { Callout, Hatch, Material } from "./EditorialDrawings";
 
 const head =
@@ -206,99 +206,6 @@ export function Airbag(step: number, id: string) {
             </Callout>
           )}
         </>
-      )}
-    </>
-  );
-}
-
-export function CrumpleZone(step: number, id: string) {
-  const impact = step !== 0;
-  const cell = "M148 155l-1-38 21-38 28-10h51l52 34 16 24-4 28Z";
-  const front = impact
-    ? "M80 146v-13l10-4 8-23 14 13 13-17 11 16 11-1v38H89Z"
-    : "M64 143v-12l14-13 69-8 2 45H68Z";
-  const rail = impact
-    ? "M82 138l16-9 8 9 11-12 10 12 10-12 15 8v9l-16-5-8 10-12-12-10 11-12-9-12 8Z"
-    : "M70 132l82 1v10H70Z";
-  const metal = "#425765";
-  const fold = "#90552c";
-  const cabin = "#426956";
-  return (
-    <>
-      <defs>
-        <Material id={id + "-crashBody"} colors={["#e3ebed", "#91a4af", "#687d8c"]} />
-        <Material id={id + "-railMetal"} colors={["#e7b47f", "#c38554", "#a66538"]} />
-        <Hatch id={id + "-barrierCut"} color="#475463" space={5} opacity={0.55} />
-        <Hatch id={id + "-railCut"} color="#9d633b" space={4} opacity={0.5} />
-      </defs>
-      <path d="M27 183h304" stroke="#8797a1" strokeWidth="1.3" />
-      <path d="M32 68h22v115H32Z" fill="#acbac0" stroke={metal} strokeWidth="1.5" />
-      <path d="M32 68h22v115H32Z" fill={`url(#${id}-barrierCut)`} />
-      <g transform={`translate(${impact ? -26 : 0} 0)`}>
-        <path d={front} fill={`url(#${id}-crashBody)`} stroke={metal} strokeWidth="1.6" />
-        <path d={cell} fill={`url(#${id}-crashBody)`} stroke={metal} strokeWidth="1.8" />
-        <path
-          d="M158 116l20-34 22-5h45l44 31 6 12Z"
-          fill="#dbe5ea"
-          stroke="#637988"
-          strokeWidth="1.5"
-        />
-        <path
-          d="M196 78l-8 43m59-43 8 43M188 122l-3 27m76-27 2 24m-44-13h13"
-          fill="none"
-          stroke="#657d8a"
-          strokeWidth="1.5"
-        />
-        <path d="M153 151h151" stroke="#516a78" strokeWidth="5" />
-        {step === 2 && (
-          <path
-            d="M152 151l1-31 21-38 22-9h54l46 35 8 19-3 24Z"
-            fill="#729880"
-            fillOpacity=".19"
-            stroke={cabin}
-            strokeWidth="3"
-            strokeLinejoin="round"
-          />
-        )}
-        <path d={rail} fill={`url(#${id}-railMetal)`} stroke={fold} strokeWidth="1.7" />
-        <path d={rail} fill={`url(#${id}-railCut)`} />
-        {impact && (
-          <path
-            d="M83 134l17-13 10 8 14-15 12 11 11-4"
-            fill="none"
-            stroke="#84674f"
-            strokeWidth="1.5"
-          />
-        )}
-        {[impact ? 111 : 113, 283].map((x) => (
-          <g key={x}>
-            <circle cx={x} cy="161" r="21" fill="#344553" stroke="#687d88" strokeWidth="2" />
-            <circle cx={x} cy="161" r="13" fill="#adbbc0" stroke="#546b7a" strokeWidth="2" />
-            <circle cx={x} cy="161" r="5" fill="#577080" />
-            <path d={`M${x - 10} 158l13 11m2-17-7 16`} stroke="#e6eceb" strokeWidth="1.3" />
-          </g>
-        ))}
-      </g>
-      {step === 0 && (
-        <>
-          <Arrow x1={138} y1={80} x2={81} y2={80} color={fold} width={2.8} />
-          <Callout x={113} y={211} leader="M117 194l19-50" color={fold}>
-            Longeron
-          </Callout>
-          <Callout x={266} y={210} leader="M260 193v-37" color={metal}>
-            Habitacle
-          </Callout>
-        </>
-      )}
-      {step === 1 && (
-        <Callout x={168} y={213} leader="M103 194L76 176V143" color={fold}>
-          Le longeron se plie
-        </Callout>
-      )}
-      {step === 2 && (
-        <Callout x={224} y={213} leader="M219 195l-9-41" color={cabin}>
-          Cellule de sécurité
-        </Callout>
       )}
     </>
   );

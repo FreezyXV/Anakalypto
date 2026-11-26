@@ -1,0 +1,56 @@
+[
+  {
+    "key": "dragwake",
+    "path": "/automobile/industrie-automobile/production/aerodynamique-automobile-trainee",
+    "status": "READY",
+    "visualRefs": ["schema:dragwake"]
+  },
+  {
+    "key": "transferCase",
+    "path": "/automobile/motorisations/thermique/boite-de-transfert-4x4",
+    "status": "READY",
+    "visualRefs": ["schema:transferCase"]
+  },
+  {
+    "key": "clutchplates",
+    "path": "/automobile/motorisations/thermique/embrayage-volant-moteur-bimasse",
+    "status": "READY",
+    "visualRefs": ["schema:clutchplates"]
+  },
+  {
+    "key": "gearboxpair",
+    "path": "/automobile/motorisations/thermique/fonctionnement-boite-de-vitesses",
+    "status": "READY",
+    "visualRefs": ["schema:gearboxpair"]
+  },
+  {
+    "key": "automaticGearbox",
+    "path": "/automobile/motorisations/thermique/la-transmission-manuelle-contre-automatique",
+    "status": "READY",
+    "visualRefs": ["schema:automaticGearbox"]
+  },
+  {
+    "key": "differentialturn",
+    "path": "/automobile/motorisations/thermique/transmission-integrale-differentiel",
+    "status": "READY",
+    "visualRefs": ["schema:differentialturn"]
+  },
+  {
+    "key": "steeringAssist",
+    "path": "/automobile/securite-et-conduite/direction-assistee-maniabilite",
+    "status": "READY",
+    "visualRefs": ["schema:steeringAssist"]
+  },
+  {
+    "key": "crumplefront",
+    "path": "/automobile/securite-et-conduite/securite-passive/pourquoi-l-avant-d-une-voiture-est-il-fait-pour-s-ecraser",
+    "status": "READY",
+    "visualRefs": ["schema:crumplefront"]
+  },
+  {
+    "key": "suspensionLinks",
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/train-roulant-rotules-silentblocs",
+    "status": "READY",
+    "visualRefs": ["schema:suspensionLinks"]
+  }
+]

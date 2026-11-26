@@ -1,3 +1,4 @@
+import { transmissionPlates } from "./refined/transport/transmission";
 import {
   ArtFrame,
   Arrow,
@@ -11,35 +12,6 @@ import {
   ink,
   type DrawingProps,
 } from "./Exploration50Parts";
-import { gearOutline } from "@/lib/lesson-visuals/explorations50-models";
-function Gear({
-  x,
-  y,
-  teeth,
-  r,
-  phase = 0,
-}: {
-  x: number;
-  y: number;
-  teeth: number;
-  r: number;
-  phase?: number;
-}) {
-  const points = gearOutline(teeth, r, phase);
-  return (
-    <g transform={`translate(${x} ${y})`} data-teeth={teeth}>
-      <polygon
-        points={points.map((p) => p.join(",")).join(" ")}
-        fill="#afc2d0"
-        stroke="#617c90"
-        strokeWidth="1.5"
-      />
-      <circle r={r * 0.58} fill="#d7e3e8" stroke="#7a94a7" />
-      <circle r="7" fill="#5e778b" />
-      <path d={`M0 ${-r * 0.57}V${-r * 0.85}`} stroke={gold} strokeWidth="3" />
-    </g>
-  );
-}
 export function AutoPower50Drawing(p: DrawingProps) {
   const { kind, step: s } = p;
   if (kind === "regenbrake")
@@ -180,149 +152,7 @@ export function AutoPower50Drawing(p: DrawingProps) {
       </ArtFrame>
     );
   }
-  if (kind === "clutchplates")
-    return (
-      <ArtFrame
-        {...p}
-        foot={s === 2 ? "Ressorts entre deux masses" : "Coupe par la tranche · jeu exagéré"}
-      >
-        {s < 2 ? (
-          <>
-            <path
-              d={`M30 130h79M${s === 0 ? 141 : 175} 130H330`}
-              stroke="#7891a5"
-              strokeWidth="11"
-            />
-            <rect
-              x="106"
-              y="71"
-              width="27"
-              height="117"
-              rx="5"
-              fill="#b5c4cf"
-              stroke="#617c90"
-              strokeWidth="2"
-            />
-            <rect
-              x={s === 0 ? 134 : 168}
-              y="81"
-              width="13"
-              height="96"
-              fill="#b79c78"
-              stroke="#866b48"
-              strokeWidth="2"
-            />
-            <rect
-              x={s === 0 ? 148 : 211}
-              y="71"
-              width="23"
-              height="117"
-              rx="4"
-              fill="#9db2c4"
-              stroke="#617c90"
-              strokeWidth="2"
-            />
-            {s === 0 ? (
-              <>
-                <Arrow x1={47} y1={53} x2={292} y2={53} color={gold} />
-                <Label x={58} y={203}>
-                  Moteur
-                </Label>
-                <Label x={295} y={203}>
-                  Boîte
-                </Label>
-              </>
-            ) : (
-              <>
-                <Arrow x1={195} y1={54} x2={234} y2={54} color={red} />
-                <path d="M144 118l10 12-10 12" fill="none" stroke={red} strokeWidth="3" />
-                <Label x={180} y={203}>
-                  Disque libéré
-                </Label>
-              </>
-            )}
-          </>
-        ) : (
-          <>
-            <circle cx="180" cy="125" r="72" fill="#b8c9d4" stroke="#607b8e" strokeWidth="3" />
-            <circle cx="180" cy="125" r="52" fill="#e1e8e8" stroke="#8ea1ad" />
-            <circle cx="180" cy="125" r="22" fill="#879cab" stroke="#506b7e" />
-            {[0, 90, 180, 270].map((angle) => (
-              <g key={angle} transform={`rotate(${angle} 180 125)`}>
-                <path
-                  d="M152 80l6-5 6 10 6-10 6 10 6-10 6 10 6-10 6 10 7-5"
-                  stroke={gold}
-                  strokeWidth="4"
-                  fill="none"
-                />
-                <path d="M151 76v9m57-9v9" stroke="#6c7e88" strokeWidth="4" />
-              </g>
-            ))}
-            <Label x={62} y={66}>
-              Masse 1
-            </Label>
-            <Label x={298} y={189}>
-              Masse 2
-            </Label>
-          </>
-        )}
-      </ArtFrame>
-    );
-  if (kind === "gearboxpair")
-    return (
-      <ArtFrame
-        {...p}
-        foot={
-          s === 0
-            ? "2 tours d’entrée → 1 tour de sortie"
-            : s === 1
-              ? "1 tour d’entrée → 2 tours de sortie"
-              : "Deux rapports de transmission"
-        }
-      >
-        {s < 2 ? (
-          <>
-            <Gear x={s === 0 ? 123 : 153} y={128} teeth={s === 0 ? 12 : 24} r={s === 0 ? 30 : 60} />
-            <Gear
-              x={s === 0 ? 213 : 243}
-              y={128}
-              teeth={s === 0 ? 24 : 12}
-              r={s === 0 ? 60 : 30}
-              phase={Math.PI / (s === 0 ? 24 : 12)}
-            />
-            <Label x={s === 0 ? 123 : 153} y={s === 0 ? 81 : 53}>
-              {s === 0 ? "12 dents" : "24 dents"}
-            </Label>
-            <Label x={s === 0 ? 213 : 243} y={s === 0 ? 53 : 81}>
-              {s === 0 ? "24 dents" : "12 dents"}
-            </Label>
-            <Arrow x1={39} y1={128} x2={77} y2={128} color={gold} />
-            <Arrow x1={285} y1={128} x2={326} y2={128} color={green} />
-            <Label x={68} y={198}>
-              Entrée
-            </Label>
-            <Label x={293} y={198}>
-              Sortie
-            </Label>
-          </>
-        ) : (
-          <>
-            <Gear x={130} y={86} teeth={12} r={18} />
-            <Gear x={184} y={86} teeth={24} r={36} phase={Math.PI / 24} />
-            <Gear x={130} y={163} teeth={24} r={36} />
-            <Gear x={184} y={163} teeth={12} r={18} phase={Math.PI / 12} />
-            <Label x={280} y={91}>
-              Réduire
-            </Label>
-            <Label x={280} y={169}>
-              Accélérer
-            </Label>
-            <path d="M65 60v128" stroke="#95a8b3" strokeWidth="4" />
-            <path d="M58 122h14" stroke={gold} strokeWidth="7" />
-          </>
-        )}
-      </ArtFrame>
-    );
+  if (kind === "clutchplates" || kind === "gearboxpair") return transmissionPlates[kind](s, p.id);
   if (kind === "intercoolerair")
     return (
       <ArtFrame

@@ -1,3 +1,4 @@
+import mecanique from "../../docs/qa/refonte-mecanique-auto/rendus.json";
 import flottaison from "../../docs/qa/refonte-aviation/flottaison-rendus.json";
 import aviation from "../../docs/qa/refonte-aviation/rendus.json";
 import transport from "../../docs/qa/refonte-catalogue-suite/rendus.json";
@@ -8,6 +9,7 @@ export const reviewedDiagramHashes: Readonly<Record<string, string[]>> = {
   ...review.diagrams,
   ...transport,
   ...aviation,
+  ...mecanique,
 };
 export const reviewedWorkshopHashes = { ...review.workshops, ...moteurs, ...flottaison };
 
@@ -16,5 +18,7 @@ export function hasReviewedDiagram(id: string) {
 }
 
 export function hasTransportRevision(id: string) {
-  return Object.hasOwn(transport, id) || Object.hasOwn(aviation, id);
+  return (
+    Object.hasOwn(transport, id) || Object.hasOwn(aviation, id) || Object.hasOwn(mecanique, id)
+  );
 }

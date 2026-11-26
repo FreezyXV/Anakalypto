@@ -1,3 +1,4 @@
+import { chassisPlates } from "./refined/transport/chassis";
 import { automotivePlates } from "./refined/transport/automotive";
 import {
   ArtFrame,
@@ -10,10 +11,8 @@ import {
   green,
   gold,
   red,
-  ink,
   type DrawingProps,
 } from "./Exploration50Parts";
-import { differentialRates } from "@/lib/lesson-visuals/explorations50-models";
 export function AutoControl50Drawing(p: DrawingProps) {
   const { kind, step: s } = p;
   if (kind === "enginecoolant")
@@ -75,81 +74,7 @@ export function AutoControl50Drawing(p: DrawingProps) {
         )}
       </ArtFrame>
     );
-  if (kind === "differentialturn") {
-    const rates = differentialRates(2, 1);
-    return (
-      <ArtFrame
-        {...p}
-        foot={s === 2 ? "La moyenne des sorties reste égale à 2" : "Pneus égaux, sans glissement"}
-      >
-        {s < 2 ? (
-          <>
-            {s === 0 ? (
-              <>
-                <path
-                  d="M113 55v136m123-136v136"
-                  stroke="#9aafba"
-                  strokeWidth="16"
-                  strokeDasharray="8 8"
-                />
-                <Arrow x1={113} y1={112} x2={113} y2={68} />
-                <Arrow x1={236} y1={112} x2={236} y2={68} />
-              </>
-            ) : (
-              <>
-                <path
-                  d="M126 182A80 80 0 0 0 102.5685 125.4315"
-                  fill="none"
-                  stroke={green}
-                  strokeWidth="12"
-                />
-                <path
-                  d="M236 182A190 190 0 0 0 180.3503 47.6497"
-                  fill="none"
-                  stroke={blue}
-                  strokeWidth="12"
-                />
-                <circle cx="46" cy="182" r="4" fill={ink} />
-                <path d="M46 182H236" stroke="#aebcc1" strokeDasharray="3 3" />
-                <Label x={65} y={99}>
-                  Int.
-                </Label>
-                <Label x={273} y={67}>
-                  Ext.
-                </Label>
-              </>
-            )}
-            <path d="M123 169H236" stroke="#7791a6" strokeWidth="7" />
-            <rect x="160" y="149" width="38" height="38" rx="8" fill="#b6c7d3" stroke="#6c879b" />
-            {[123, 236].map((x) => (
-              <rect key={x} x={x - 9} y="149" width="18" height="39" rx="5" fill="#445867" />
-            ))}
-            <Label x={180} y={198}>
-              {s === 0 ? "Même distance" : "Distances différentes"}
-            </Label>
-          </>
-        ) : (
-          <>
-            <circle cx="180" cy="120" r="39" fill="#c6d7df" stroke="#7694a6" strokeWidth="2" />
-            <path d="M180 49v33M140 120H71m148 0h70" stroke="#6f879a" strokeWidth="9" />
-            <Wheel x={57} y={121} r={25} />
-            <Wheel x={303} y={121} r={25} angle={75} />
-            <Arrow x1={180} y1={49} x2={180} y2={83} color={gold} />
-            <Label x={231} y={61}>
-              Entrée 2
-            </Label>
-            <Label x={180} y={126}>
-              Diff.
-            </Label>
-            <Label x={62} y={182}>{`Sortie ${rates.inner}`}</Label>
-            <Label x={297} y={182}>{`Sortie ${rates.outer}`}</Label>
-            <Arrow x1={139} y1={120} x2={94} y2={120} />
-            <Arrow x1={219} y1={120} x2={264} y2={120} />
-          </>
-        )}
-      </ArtFrame>
-    );
-  }
+  if (kind === "differentialturn") return chassisPlates.differentialturn(s, p.id);
   if (kind === "abscontrol")
     return (
       <ArtFrame {...p} foot="Commande pointillée · pression en bleu">

@@ -10,7 +10,7 @@ Les trois vues de chacune des sept leçons ont été activées à 320 et 1 280 p
 
 [Mesures](mesures.json) · [Comparaison du registre](preservation.json) · [Empreintes des nouveaux rendus](rendus.json) · [Reçus backend](backend-receipts.json)
 
-L’inventaire regroupe désormais 49 leçons redessinées, 269 dont les illustrations ont été conservées et 530 leçons à reprendre. Il référence les planches et les décisions de la première revue et de ses suites. [Inventaire par référence](../refonte-visuelle-apres/inventaire.csv)
+À la fin de cette série, l’inventaire regroupait 49 leçons redessinées, 269 dont les illustrations ont été conservées et 530 leçons à reprendre. Il référence les planches et les décisions de la première revue et de ses suites. [Inventaire par référence](../refonte-visuelle-apres/inventaire.csv) · [Série de mécanique automobile](../refonte-mecanique-auto/README.md)
 
 ## Atelier de flottaison
 

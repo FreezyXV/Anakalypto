@@ -441,53 +441,6 @@ function Spark(step: number, id: string) {
   );
 }
 
-function Steering(step: number, id: string) {
-  return (
-    <>
-      <defs>
-        <Material id={id + "-steeringRack"} colors={["#cedce0", "#9bafb8", "#6b8795"]} />
-      </defs>
-      <circle cx="119" cy="75" r="25" fill="none" stroke={steel} strokeWidth="6" />
-      <path d="M97 75h44m-22 0v22l60 49" fill="none" stroke={steel} strokeWidth="4" />
-      <path d="M70 145h221v16H70Z" fill={`url(#${id}-steeringRack)`} stroke={steel} />
-      <path d="M151 145h58" stroke="#687c88" strokeDasharray="3 4" strokeWidth="3" />
-      {[57, 303].map((x) => (
-        <rect
-          key={x}
-          x={x - 10}
-          y="130"
-          width="20"
-          height="51"
-          rx="5"
-          transform={`rotate(${step === 2 ? -19 : 0} ${x} 152)`}
-          fill="#566b75"
-          stroke={steel}
-        />
-      ))}
-      {step > 0 && (
-        <>
-          <rect x="212" y="80" width="57" height="40" rx="7" fill="#b5cfca" stroke={green} />
-          <path d="M240 120v25" stroke={green} strokeWidth="4" />
-          <Label x={239} y={107} color={green}>
-            Moteur
-          </Label>
-        </>
-      )}
-      {step === 1 && <Arrow x1={193} y1={163} x2={224} y2={163} color={green} />}
-      {step === 2 && <Arrow x1={124} y1={180} x2={182} y2={180} color={blue} />}
-      <Label x={180} y={214}>
-        {
-          [
-            "Volant, colonne et crémaillère",
-            "L’assistance ajoute un effort",
-            "La crémaillère oriente les roues",
-          ][step]
-        }
-      </Label>
-    </>
-  );
-}
-
 function Heating(step: number, id: string) {
   return (
     <>
@@ -549,6 +502,5 @@ export const mobility50 = {
   vehicleGrid: VehicleGrid,
   engineFeedback: EngineFeedback,
   sparkCoil: Spark,
-  steeringAssist: Steering,
   carCooling: Heating,
 } satisfies SceneSet;

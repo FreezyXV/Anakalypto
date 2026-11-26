@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "a0a836a7db47765f7381a7803e051dffbd550afdc0774459398ae6c79bf93af4",
+  "sourceDigest": "326c35a6b92f478717205100ab4928a7f9002a664c28fadfdbe9fc990667600f",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -1409,11 +1409,11 @@
     {
       "path": "/automobile/industrie-automobile/production/aerodynamique-automobile-trainee",
       "visualRefs": ["schema:dragwake"],
-      "fingerprint": "9e2f94f64e20d4721a95a53b6df2e6aac6242641849373767ca74da9e5eee889",
+      "fingerprint": "38dea547659f1a5fd94ff11365a405dd398ba86800ab4e8010d730e6ed1094b4",
       "contentHash": "80dd54a29d0558689e67d04ec9e598784244f20304db796eb65a2ddc37a7f35e",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:34.754Z"
+      "evidence": "docs/qa/refonte-mecanique-auto/README.md",
+      "reviewedAt": "2026-11-26T23:23:46.749Z"
     },
     {
       "path": "/automobile/industrie-automobile/production/comment-la-chaine-de-montage-de-ford-a-t-elle-change-la-fabrication-des-voitures",
@@ -1670,11 +1670,11 @@
     {
       "path": "/automobile/motorisations/thermique/boite-de-transfert-4x4",
       "visualRefs": ["schema:transferCase"],
-      "fingerprint": "5a14eefaa35fe04a5e100aa483c847451a8a7b4387d74959f1e2d6def40e5d84",
+      "fingerprint": "b024876e71e612950157f20a4b1c48cb41c1aec1c2abfaa8c434e99c561522ed",
       "contentHash": "24c311a88245e1a9c495a935740c3a91627ad8a53e8424f67e6ad04788914e61",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T21:02:03.931Z"
+      "evidence": "docs/qa/refonte-mecanique-auto/README.md",
+      "reviewedAt": "2026-11-26T23:23:46.751Z"
     },
     {
       "path": "/automobile/motorisations/thermique/calculateur-moteur-capteurs",
@@ -1724,11 +1724,11 @@
     {
       "path": "/automobile/motorisations/thermique/embrayage-volant-moteur-bimasse",
       "visualRefs": ["schema:clutchplates"],
-      "fingerprint": "6d8caeb6baedc1341867e981706bf187eee9b25ed31cc09a6232e15eb3f5e314",
+      "fingerprint": "c5594070c7618f58c67fa7d699555d266eb60e5378432c104bb3d93cc8f6f31f",
       "contentHash": "b34daa756a582b2ee12a0e102e75bb8dfd98b6585f3b71403305176f72374eb3",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:52.694Z"
+      "evidence": "docs/qa/refonte-mecanique-auto/README.md",
+      "reviewedAt": "2026-11-26T23:23:46.749Z"
     },
     {
       "path": "/automobile/motorisations/thermique/filtre-particules-catalyseur",
@@ -1742,11 +1742,11 @@
     {
       "path": "/automobile/motorisations/thermique/fonctionnement-boite-de-vitesses",
       "visualRefs": ["schema:gearboxpair"],
-      "fingerprint": "6b990e09aae8f14b0c2c8da20921f292e9c5a6cbbd6f00bed47da1367e5c8aca",
+      "fingerprint": "6e537e631c9fd6a03627a9420798d0978df1af24ccd0409610f157da51e6c7d9",
       "contentHash": "5c07d0a4cc5fd22a7504616f7e0ad3c917f03f9fbd80cfee8bba11fc444454ad",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:50.317Z"
+      "evidence": "docs/qa/refonte-mecanique-auto/README.md",
+      "reviewedAt": "2026-11-26T23:23:46.751Z"
     },
     {
       "path": "/automobile/motorisations/thermique/intercooler-circuit-admission",
@@ -1760,11 +1760,11 @@
     {
       "path": "/automobile/motorisations/thermique/la-transmission-manuelle-contre-automatique",
       "visualRefs": ["schema:automaticGearbox"],
-      "fingerprint": "b0f4a385411d89502587846d9c1b378b33e3914303b4230ff7d591156e72cd28",
+      "fingerprint": "f7f318ae4ef1f454122a04f797517d89ffb584e5ee90baaaaa4aefae8ca3084f",
       "contentHash": "8d55cbef906c2de01263b600f24d3ca620e0f53056f21d3821c07c6d04683422",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T21:02:04.194Z"
+      "evidence": "docs/qa/refonte-mecanique-auto/README.md",
+      "reviewedAt": "2026-11-26T23:23:47.510Z"
     },
     {
       "path": "/automobile/motorisations/thermique/le-systeme-d-allumage-electronique-moderne",
@@ -1814,11 +1814,11 @@
     {
       "path": "/automobile/motorisations/thermique/transmission-integrale-differentiel",
       "visualRefs": ["schema:differentialturn"],
-      "fingerprint": "f7d3ae944f7036c040b23a245bc8d9a5cf6c8c8afa99f7f95ff53747cc95deb1",
+      "fingerprint": "5d307a51a7efbd671b010d3e4838b11c47d9a1e4379bafe8a2e6f4c92c53dfef",
       "contentHash": "fcd2b6020d8dbd61de1a0a209d7e3f43e33ed0a81d130c23be56a6c65ffcbf1e",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:53.789Z"
+      "evidence": "docs/qa/refonte-mecanique-auto/README.md",
+      "reviewedAt": "2026-11-26T23:23:47.565Z"
     },
     {
       "path": "/automobile/motorisations/thermique/vanne-egr-recirculation-gaz-echappement",
@@ -1913,11 +1913,11 @@
     {
       "path": "/automobile/securite-et-conduite/direction-assistee-maniabilite",
       "visualRefs": ["schema:steeringAssist"],
-      "fingerprint": "2d62d2fdcd215858f0a8a7c2685ad293ec3cebf1df167cd29ea1b98be2877f6f",
+      "fingerprint": "4519674ab9b4edfacf0a6cfb5432d5a14d6ec233cc6b214dab7c11f92de38752",
       "contentHash": "39e1abd2b40342e75752e9ea02da3d3a15fa5ce6ada9e33f32bc7fccbef27100",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:18:02.237Z"
+      "evidence": "docs/qa/refonte-mecanique-auto/README.md",
+      "reviewedAt": "2026-11-26T23:23:47.571Z"
     },
     {
       "path": "/automobile/securite-et-conduite/donnees-voiture-vie-privee",
@@ -1985,11 +1985,11 @@
     {
       "path": "/automobile/securite-et-conduite/securite-passive/pourquoi-l-avant-d-une-voiture-est-il-fait-pour-s-ecraser",
       "visualRefs": ["schema:crumplefront"],
-      "fingerprint": "5a68da81e8e61b3eb31f87af983fa1a38b84acad6c87b216138723e2d3d3b6ad",
+      "fingerprint": "d09f4aaf68532d8dc021817b10952f5eb91a8faa0a518150ee788e847aaf01aa",
       "contentHash": "996237ae6fd382ba18a8420feba21df73cb80785e5aaf65d2452b4889164a917",
       "quality": "validee",
-      "evidence": "docs/qa/revue-ciblee-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T09:52:20.716Z"
+      "evidence": "docs/qa/refonte-mecanique-auto/README.md",
+      "reviewedAt": "2026-11-26T23:23:47.560Z"
     },
     {
       "path": "/automobile/securite-et-conduite/securite-passive/securite-pietons-cyclistes-automobile",
@@ -2120,11 +2120,11 @@
     {
       "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/train-roulant-rotules-silentblocs",
       "visualRefs": ["schema:suspensionLinks"],
-      "fingerprint": "ea9508dbe8792bc28517e76727631192838e2eed8a1d42e8f69dfa1034903802",
+      "fingerprint": "e8e8aee93cbb7ad73ba300b1ebabc18fb762d924d1630e5f8d9ca94a2dce5264",
       "contentHash": "7c28f6a58b54d3a35a6fe09eec24c8e97f4cb7e0f8ba2da590238853f8f83b75",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T21:02:04.552Z"
+      "evidence": "docs/qa/refonte-mecanique-auto/README.md",
+      "reviewedAt": "2026-11-26T23:23:48.166Z"
     },
     {
       "path": "/automobile/usages-et-mobilite/mobilite-partagee/autopartage-et-covoiturage",
