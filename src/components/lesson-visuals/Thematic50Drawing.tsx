@@ -1,3 +1,4 @@
+import { chassisPlates } from "./refined/transport/chassis";
 import { THEMATIC50_DIAGRAMS } from "@/lib/lesson-visuals/thematic50";
 import { culture50 } from "./Culture50Drawings";
 import { Title, WorkshopPaints } from "./Energy29Parts";
@@ -20,6 +21,7 @@ const stepsByKind = new Map<string, readonly { label: string }[]>(
 );
 
 export function Thematic50Drawing({ kind, step, id }: { kind: string; step: number; id: string }) {
+  if (kind === "steeringAssist") return chassisPlates.steeringAssist(step, id);
   const steps = stepsByKind.get(kind);
   if (!steps) return null;
   const draw = scenes[kind];

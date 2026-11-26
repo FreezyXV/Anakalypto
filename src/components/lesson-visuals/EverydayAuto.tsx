@@ -1,12 +1,10 @@
-import { Airbag, CrumpleZone } from "./EverydayVehicleCuts";
+import { Airbag } from "./EverydayVehicleCuts";
 import {
   Arrow,
   Label,
   Line,
   Plate,
-  blue,
   green,
-  muted,
   navy,
   red,
   teal,
@@ -14,74 +12,6 @@ import {
   warm,
   type SceneSet,
 } from "./EverydayParts";
-
-function CarProfile({ x = 0, y = 0, scale = 1 }: { x?: number; y?: number; scale?: number }) {
-  return (
-    <g transform={`translate(${x} ${y}) scale(${scale})`}>
-      <path
-        d="M53 141v-17l13-19 61-10 34-33h63l31 31 35 10 6 38Z"
-        fill="#7d9cad"
-        stroke={navy}
-        strokeWidth="2.7"
-      />
-      <path d="M140 94l27-24h53l24 24Z" fill="#d6e9ef" stroke="#587484" strokeWidth="2" />
-      <path d="M196 71v23" stroke={navy} strokeWidth="2.7" />
-      <path d="M56 121h18m204-9h13" stroke="#f2d6a8" strokeWidth="4" />
-      {[107, 250].map((cx) => (
-        <g key={cx}>
-          <circle cx={cx} cy="142" r="17" fill={navy} stroke="#8d9fae" strokeWidth="2" />
-          <circle cx={cx} cy="142" r="7" fill="#bfcbd2" />
-        </g>
-      ))}
-    </g>
-  );
-}
-
-function Drag(step: number) {
-  if (step === 2)
-    return (
-      <>
-        <Line d="M49 176h270" color={muted} />
-        <rect x="111" y="147" width="48" height="29" rx="4" fill="#95b8ca" />
-        <rect x="214" y="60" width="48" height="116" rx="4" fill="#487f9e" />
-        <Label x={135} y={135}>
-          1×
-        </Label>
-        <Label x={238} y={52}>
-          4×
-        </Label>
-        <Label x={135} y={204}>
-          Vitesse 1×
-        </Label>
-        <Label x={238} y={204}>
-          Vitesse 2×
-        </Label>
-      </>
-    );
-  return (
-    <>
-      <CarProfile x={13} y={28} scale={0.86} />
-      <Line d="M27 105Q72 104 106 72Q151 47 201 54Q266 60 328 86" color={blue} width={2.3} />
-      <Line d="M27 124Q67 122 91 102Q122 65 197 69Q242 75 264 100" color={blue} width={2.3} />
-      <Line d="M26 163Q91 181 154 176H323" color={blue} width={2.3} />
-      <Arrow x1={284} y1={81} x2={328} y2={90} color={blue} />
-      {step === 1 && (
-        <>
-          <path d="M263 105q51 3 64 26q-21 31-64 29Z" fill="#e5c49f" opacity=".72" />
-          <path
-            d="M267 117q34 14 16 25q-12 5-13-9m22-10q25-1 24 10q-1 10-14 9"
-            stroke={warm}
-            strokeWidth="2.8"
-            fill="none"
-          />
-          <Label x={287} y={197} color={warm}>
-            Sillage
-          </Label>
-        </>
-      )}
-    </>
-  );
-}
 
 function MildHybrid(step: number) {
   return (
@@ -188,9 +118,7 @@ function Exhaust(step: number) {
 }
 
 export const everydayAuto = {
-  dragwake: Drag,
   mildhybrid: MildHybrid,
   exhaustclean: Exhaust,
   airbagsequence: Airbag,
-  crumplefront: CrumpleZone,
 } satisfies SceneSet;

@@ -1,0 +1,686 @@
+[
+  {
+    "reference": "LEC-FE3D1354EB57",
+    "dessin": "automaticGearbox",
+    "chemin": "/automobile/motorisations/thermique/la-transmission-manuelle-contre-automatique",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Le convertisseur",
+        "legende": "Un fluide permet de transmettre le couple entre le moteur et l’entrée de boîte.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Deux embrayages",
+        "legende": "Deux embrayages desservent deux ensembles de rapports.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Les poulies",
+        "legende": "Deux poulies à diamètre de travail variable peuvent faire évoluer le rapport en continu.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-FE3D1354EB57",
+    "dessin": "automaticGearbox",
+    "chemin": "/automobile/motorisations/thermique/la-transmission-manuelle-contre-automatique",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Le convertisseur",
+        "legende": "Un fluide permet de transmettre le couple entre le moteur et l’entrée de boîte.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Deux embrayages",
+        "legende": "Deux embrayages desservent deux ensembles de rapports.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Les poulies",
+        "legende": "Deux poulies à diamètre de travail variable peuvent faire évoluer le rapport en continu.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-3F2DF6211257",
+    "dessin": "clutchplates",
+    "chemin": "/automobile/motorisations/thermique/embrayage-volant-moteur-bimasse",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Embrayé",
+        "legende": "Le disque est serré entre volant et plateau : le moteur peut entraîner la boîte.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Débrayé",
+        "legende": "La commande libère le disque : la liaison d’entraînement est interrompue.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Volant bimasse",
+        "legende": "Des ressorts entre deux masses peuvent atténuer les irrégularités de rotation.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-3F2DF6211257",
+    "dessin": "clutchplates",
+    "chemin": "/automobile/motorisations/thermique/embrayage-volant-moteur-bimasse",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Embrayé",
+        "legende": "Le disque est serré entre volant et plateau : le moteur peut entraîner la boîte.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Débrayé",
+        "legende": "La commande libère le disque : la liaison d’entraînement est interrompue.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Volant bimasse",
+        "legende": "Des ressorts entre deux masses peuvent atténuer les irrégularités de rotation.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-B19C2184AB9F",
+    "dessin": "crumplefront",
+    "chemin": "/automobile/securite-et-conduite/securite-passive/pourquoi-l-avant-d-une-voiture-est-il-fait-pour-s-ecraser",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Avant l’impact",
+        "legende": "La structure avant et l’habitacle ont des fonctions différentes.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Plier",
+        "legende": "Des éléments de la structure avant se déforment progressivement.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Protéger l’espace",
+        "legende": "L’habitacle est conçu pour préserver autant que possible un espace de survie.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-B19C2184AB9F",
+    "dessin": "crumplefront",
+    "chemin": "/automobile/securite-et-conduite/securite-passive/pourquoi-l-avant-d-une-voiture-est-il-fait-pour-s-ecraser",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Avant l’impact",
+        "legende": "La structure avant et l’habitacle ont des fonctions différentes.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Plier",
+        "legende": "Des éléments de la structure avant se déforment progressivement.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Protéger l’espace",
+        "legende": "L’habitacle est conçu pour préserver autant que possible un espace de survie.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-92DC814A2D2E",
+    "dessin": "differentialturn",
+    "chemin": "/automobile/motorisations/thermique/transmission-integrale-differentiel",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Ligne droite",
+        "legende": "En ligne droite, deux roues égales parcourent des distances égales.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Virage",
+        "legende": "La roue extérieure suit un arc plus long que la roue intérieure.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Le différentiel",
+        "legende": "Le différentiel permet un écart de vitesse entre les deux sorties.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-92DC814A2D2E",
+    "dessin": "differentialturn",
+    "chemin": "/automobile/motorisations/thermique/transmission-integrale-differentiel",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Ligne droite",
+        "legende": "En ligne droite, deux roues égales parcourent des distances égales.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Virage",
+        "legende": "La roue extérieure suit un arc plus long que la roue intérieure.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Le différentiel",
+        "legende": "Le différentiel permet un écart de vitesse entre les deux sorties.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-9E4C7AF9CB20",
+    "dessin": "dragwake",
+    "chemin": "/automobile/industrie-automobile/production/aerodynamique-automobile-trainee",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Écoulement",
+        "legende": "Des lignes suivent le mouvement de l’air autour du véhicule.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Sillage",
+        "legende": "L’écoulement peut se décoller et laisser une zone perturbée derrière la voiture.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Vitesse × 2",
+        "legende": "Si les autres paramètres restent fixes, doubler la vitesse multiplie approximativement par quatre la force de traînée.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-9E4C7AF9CB20",
+    "dessin": "dragwake",
+    "chemin": "/automobile/industrie-automobile/production/aerodynamique-automobile-trainee",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Écoulement",
+        "legende": "Des lignes suivent le mouvement de l’air autour du véhicule.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Sillage",
+        "legende": "L’écoulement peut se décoller et laisser une zone perturbée derrière la voiture.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Vitesse × 2",
+        "legende": "Si les autres paramètres restent fixes, doubler la vitesse multiplie approximativement par quatre la force de traînée.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-ADD88C9A2C70",
+    "dessin": "gearboxpair",
+    "chemin": "/automobile/motorisations/thermique/fonctionnement-boite-de-vitesses",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Réduire",
+        "legende": "Un petit pignon entraîne une grande roue : la sortie tourne plus lentement.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Augmenter",
+        "legende": "La grande roue entraîne le petit pignon : la sortie tourne plus vite.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Choisir",
+        "legende": "Une boîte sélectionne un rapport adapté entre moteur et transmission.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-ADD88C9A2C70",
+    "dessin": "gearboxpair",
+    "chemin": "/automobile/motorisations/thermique/fonctionnement-boite-de-vitesses",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Réduire",
+        "legende": "Un petit pignon entraîne une grande roue : la sortie tourne plus lentement.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Augmenter",
+        "legende": "La grande roue entraîne le petit pignon : la sortie tourne plus vite.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Choisir",
+        "legende": "Une boîte sélectionne un rapport adapté entre moteur et transmission.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-339D11C43F55",
+    "dessin": "steeringAssist",
+    "chemin": "/automobile/securite-et-conduite/direction-assistee-maniabilite",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Suivre la liaison",
+        "legende": "Le volant agit sur la colonne puis sur le mécanisme de direction.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Ajouter une aide",
+        "legende": "Une assistance électrique ajoute un effort au mouvement commandé.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Tourner les roues",
+        "legende": "Les biellettes transmettent le mouvement de la crémaillère aux roues.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-339D11C43F55",
+    "dessin": "steeringAssist",
+    "chemin": "/automobile/securite-et-conduite/direction-assistee-maniabilite",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Suivre la liaison",
+        "legende": "Le volant agit sur la colonne puis sur le mécanisme de direction.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Ajouter une aide",
+        "legende": "Une assistance électrique ajoute un effort au mouvement commandé.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Tourner les roues",
+        "legende": "Les biellettes transmettent le mouvement de la crémaillère aux roues.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-19272AA94A57",
+    "dessin": "suspensionLinks",
+    "chemin": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/train-roulant-rotules-silentblocs",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Guider la roue",
+        "legende": "Un bras de suspension relie le porte-roue à la structure du véhicule.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Laisser la roue monter",
+        "legende": "Les articulations autorisent le débattement de la suspension.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Tourner la roue",
+        "legende": "Une biellette de direction agit sur le porte-roue dans cet exemple.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-19272AA94A57",
+    "dessin": "suspensionLinks",
+    "chemin": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/train-roulant-rotules-silentblocs",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Guider la roue",
+        "legende": "Un bras de suspension relie le porte-roue à la structure du véhicule.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Laisser la roue monter",
+        "legende": "Les articulations autorisent le débattement de la suspension.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Tourner la roue",
+        "legende": "Une biellette de direction agit sur le porte-roue dans cet exemple.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-0BB6DD291565",
+    "dessin": "transferCase",
+    "chemin": "/automobile/motorisations/thermique/boite-de-transfert-4x4",
+    "largeur": 320,
+    "vues": [
+      {
+        "libelle": "Suivre un seul essieu",
+        "legende": "Sur le schéma, un seul essieu reçoit le couple moteur au départ.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Entraîner deux essieux",
+        "legende": "La boîte peut aussi transmettre du couple à l’essieu avant.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Changer le rapport",
+        "legende": "La gamme courte permet de rouler plus lentement pour un même régime du moteur.",
+        "textMinPx": 12.6,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  },
+  {
+    "reference": "LEC-0BB6DD291565",
+    "dessin": "transferCase",
+    "chemin": "/automobile/motorisations/thermique/boite-de-transfert-4x4",
+    "largeur": 1280,
+    "vues": [
+      {
+        "libelle": "Suivre un seul essieu",
+        "legende": "Sur le schéma, un seul essieu reçoit le couple moteur au départ.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Entraîner deux essieux",
+        "legende": "La boîte peut aussi transmettre du couple à l’essieu avant.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      },
+      {
+        "libelle": "Changer le rapport",
+        "legende": "La gamme courte permet de rouler plus lentement pour un même régime du moteur.",
+        "textMinPx": 30.76,
+        "debordementPx": 0,
+        "texteHorsCadre": 0,
+        "texteSuperpose": 0,
+        "renvoisSvgManquants": 0,
+        "identifiantsSvgDupliques": 0
+      }
+    ]
+  }
+]

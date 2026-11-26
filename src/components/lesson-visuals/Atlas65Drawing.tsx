@@ -1,3 +1,5 @@
+import { transmissionPlates } from "./refined/transport/transmission";
+import { chassisPlates } from "./refined/transport/chassis";
 import { ATLAS65_DIAGRAMS } from "@/lib/lesson-visuals/atlas65";
 import { Title, WorkshopPaints } from "./Energy29Parts";
 import type { SceneSet } from "./Atlas65Parts";
@@ -24,6 +26,9 @@ export function hasAtlas65Drawing(kind: string) {
 }
 
 export function Atlas65Drawing({ kind, step, id }: { kind: string; step: number; id: string }) {
+  if (kind === "transferCase" || kind === "automaticGearbox")
+    return transmissionPlates[kind](step, id);
+  if (kind === "suspensionLinks") return chassisPlates.suspensionLinks(step, id);
   const steps = stepsByKind.get(kind);
   if (!steps) return null;
   const draw = scenes[kind];
