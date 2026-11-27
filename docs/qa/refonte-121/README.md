@@ -21,4 +21,4 @@ La comparaison avant et après confirme que les 357 vues distinctes ciblées cha
 
 [Mesures par leçon](mesures.json) · [Comparaison du registre](preservation.json) · [Empreintes des rendus](rendus.json) · [Reçus backend](backend-receipts.json)
 
-L’inventaire recense 179 leçons redessinées, 269 dont les illustrations ont été conservées et 400 à reprendre.
+À la fin de ce lot, l’inventaire recensait 179 leçons redessinées, 269 dont les illustrations avaient été conservées et 400 à reprendre. La [refonte suivante de 100 leçons](../refonte-cent/README.md) poursuit ce travail.

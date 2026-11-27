@@ -1,0 +1,602 @@
+[
+  {
+    "key": "pixels",
+    "path": "/micro-informatique-et-informatique/donnees/representation-et-compression/qu-est-ce-qu-un-pixel-et-comment-une-image-est-elle-faite-de-pixels",
+    "status": "READY",
+    "visualRefs": ["schema:pixels"]
+  },
+  {
+    "key": "editionProgramLayers",
+    "path": "/micro-informatique-et-informatique/logiciel/programmation/histoire-principes-langages-programmation",
+    "status": "READY",
+    "visualRefs": ["schema:editionProgramLayers"]
+  },
+  {
+    "key": "bootchain",
+    "path": "/micro-informatique-et-informatique/logiciel/systemes-d-exploitation/comment-un-ordinateur-demarre-t-il-quand-on-appuie-sur-le-bouton",
+    "status": "READY",
+    "visualRefs": ["schema:bootchain"]
+  },
+  {
+    "key": "detailArchivedComputer",
+    "path": "/micro-informatique-et-informatique/logiciel/systemes-d-exploitation/remettre-marche-vieil-ordinateur",
+    "status": "READY",
+    "visualRefs": ["schema:detailArchivedComputer"]
+  },
+  {
+    "key": "digitalArchives",
+    "path": "/micro-informatique-et-informatique/materiel/memoire-et-stockage/conserver-donnees-long-terme",
+    "status": "READY",
+    "visualRefs": ["schema:digitalArchives"]
+  },
+  {
+    "key": "ssdanddisk",
+    "path": "/micro-informatique-et-informatique/materiel/memoire-et-stockage/quelle-difference-y-a-t-il-entre-un-ssd-et-un-disque-dur",
+    "status": "READY",
+    "visualRefs": ["schema:ssdanddisk"]
+  },
+  {
+    "key": "memoryStorage",
+    "path": "/micro-informatique-et-informatique/materiel/memoire-et-stockage/ram-stockage-ssd-evolution",
+    "status": "READY",
+    "visualRefs": ["schema:memoryStorage"]
+  },
+  {
+    "key": "pixels",
+    "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-un-ecran-affiche-une-image",
+    "status": "READY",
+    "visualRefs": ["schema:pixels"]
+  },
+  {
+    "key": "capacitivetouch",
+    "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-un-ecran-tactile-sent-il-votre-doigt",
+    "status": "READY",
+    "visualRefs": ["schema:capacitivetouch"]
+  },
+  {
+    "key": "inkjetdrops",
+    "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-une-imprimante-depose-t-elle-l-encre-exactement-au-bon-endroit",
+    "status": "READY",
+    "visualRefs": ["schema:inkjetdrops"]
+  },
+  {
+    "key": "euvMirrors",
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/asml-lithographie-euv",
+    "status": "READY",
+    "visualRefs": ["schema:euvMirrors"]
+  },
+  {
+    "key": "graphicParallel",
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/cartes-graphiques",
+    "status": "READY",
+    "visualRefs": ["schema:graphicParallel"]
+  },
+  {
+    "key": "superconductingQubit",
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-fonctionne-un-processeur-quantique-a-qubits-supraconducteurs",
+    "status": "READY",
+    "visualRefs": ["schema:superconductingQubit"]
+  },
+  {
+    "key": "transistorgate",
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur",
+    "status": "READY",
+    "visualRefs": ["schema:transistorgate"]
+  },
+  {
+    "key": "chipFabrication",
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/fabrique-puce",
+    "status": "READY",
+    "visualRefs": ["schema:chipFabrication"]
+  },
+  {
+    "key": "detailGateThickness",
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/gravure-2-nanometres-tsmc",
+    "status": "READY",
+    "visualRefs": ["schema:detailGateThickness"]
+  },
+  {
+    "key": "cpucooling",
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/pourquoi-un-ordinateur-a-t-il-besoin-d-un-ventilateur",
+    "status": "READY",
+    "visualRefs": ["schema:cpucooling"]
+  },
+  {
+    "key": "editionChipSupplyMap",
+    "path": "/micro-informatique-et-informatique/materiel/processeurs/tsmc-geopolitique-puces",
+    "status": "READY",
+    "visualRefs": ["schema:editionChipSupplyMap"]
+  },
+  {
+    "key": "satelliteBackhaul",
+    "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-internet-arrive-t-il-par-satellite-dans-les-endroits-isoles",
+    "status": "READY",
+    "visualRefs": ["schema:satelliteBackhaul"]
+  },
+  {
+    "key": "subseacable",
+    "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-internet-traverse-t-il-les-oceans",
+    "status": "READY",
+    "visualRefs": ["schema:subseacable"]
+  },
+  {
+    "key": "interferometer",
+    "path": "/espace-et-astronomie/astrophysique/cosmologie/gwtc-5-catalogue-ondes-gravitationnelles",
+    "status": "READY",
+    "visualRefs": ["schema:interferometer"]
+  },
+  {
+    "key": "aurora",
+    "path": "/espace-et-astronomie/astrophysique/etoiles/comment-une-tempete-solaire-peut-elle-allumer-des-aurores-et-couper-le-courant",
+    "status": "READY",
+    "visualRefs": ["schema:aurora"]
+  },
+  {
+    "key": "starlife",
+    "path": "/espace-et-astronomie/astrophysique/etoiles/formation-stellaire-galaxies-lointaines-jwst",
+    "status": "READY",
+    "visualRefs": ["schema:starlife"]
+  },
+  {
+    "key": "blackhole",
+    "path": "/espace-et-astronomie/astrophysique/trous-noirs/trous-noirs-ce-quon-en-sait",
+    "status": "READY",
+    "visualRefs": ["schema:blackhole"]
+  },
+  {
+    "key": "heliosphere",
+    "path": "/espace-et-astronomie/exploration-spatiale/sondes/comment-les-sondes-voyager-ont-elles-atteint-l-espace-entre-les-etoiles",
+    "status": "READY",
+    "visualRefs": ["schema:heliosphere"]
+  },
+  {
+    "key": "webb",
+    "path": "/espace-et-astronomie/exploration-spatiale/sondes/telescope-spatial-james-webb",
+    "status": "READY",
+    "visualRefs": ["schema:webb"]
+  },
+  {
+    "key": "moonflight",
+    "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/artemis-ii-retour-vers-la-lune",
+    "status": "READY",
+    "visualRefs": ["schema:moonflight"]
+  },
+  {
+    "key": "isslife",
+    "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/comment-les-astronautes-ont-ils-toujours-de-l-eau-et-de-l-air-dans-la-station-spatiale",
+    "status": "READY",
+    "visualRefs": ["schema:isslife"]
+  },
+  {
+    "key": "readaptation",
+    "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/pourquoi-les-astronautes-ont-ils-du-mal-a-marcher-en-revenant-sur-terre",
+    "status": "READY",
+    "visualRefs": ["schema:readaptation"]
+  },
+  {
+    "key": "infrared",
+    "path": "/espace-et-astronomie/observation-astronomique/messagers-du-cosmos/pourquoi-observer-dans-linfrarouge",
+    "status": "READY",
+    "visualRefs": ["schema:infrared"]
+  },
+  {
+    "key": "smallbodies",
+    "path": "/espace-et-astronomie/systeme-solaire/petits-corps/asteroides-cometes-et-meteorites",
+    "status": "READY",
+    "visualRefs": ["schema:smallbodies"]
+  },
+  {
+    "key": "comet",
+    "path": "/espace-et-astronomie/systeme-solaire/petits-corps/pourquoi-la-queue-d-une-comete-pointe-t-elle-toujours-a-l-oppose-du-soleil",
+    "status": "READY",
+    "visualRefs": ["schema:comet"]
+  },
+  {
+    "key": "fluteair",
+    "path": "/arts-et-culture/arts-du-spectacle/musique/comment-une-flute-transforme-t-elle-un-souffle-en-musique",
+    "status": "READY",
+    "visualRefs": ["schema:fluteair"]
+  },
+  {
+    "key": "pitchfork",
+    "path": "/arts-et-culture/arts-du-spectacle/musique/diapason-a440-norme-internationale",
+    "status": "READY",
+    "visualRefs": ["schema:pitchfork"]
+  },
+  {
+    "key": "operaStage",
+    "path": "/arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques/naissance-de-lopera-en-italie",
+    "status": "READY",
+    "visualRefs": ["schema:operaStage"]
+  },
+  {
+    "key": "shadowstage",
+    "path": "/arts-et-culture/arts-du-spectacle/theatre-et-danse/d-ou-viennent-les-marionnettes-et-le-theatre-d-ombres",
+    "status": "READY",
+    "visualRefs": ["schema:shadowstage"]
+  },
+  {
+    "key": "balletPose",
+    "path": "/arts-et-culture/arts-du-spectacle/theatre-et-danse/naissance-du-ballet-classique",
+    "status": "READY",
+    "visualRefs": ["schema:balletPose"]
+  },
+  {
+    "key": "stageChorus",
+    "path": "/arts-et-culture/arts-du-spectacle/theatre-et-danse/origines-theatre-grec-antique",
+    "status": "READY",
+    "visualRefs": ["schema:stageChorus"]
+  },
+  {
+    "key": "leadtype",
+    "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/comment-la-typographie-est-elle-passee-du-plomb-a-l-ecran",
+    "status": "READY",
+    "visualRefs": ["schema:leadtype"]
+  },
+  {
+    "key": "engraving",
+    "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/comment-une-gravure-permet-elle-d-imprimer-la-meme-image-des-dizaines-de-fois",
+    "status": "READY",
+    "visualRefs": ["schema:engraving"]
+  },
+  {
+    "key": "letterForms",
+    "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/histoire-de-la-typographie",
+    "status": "READY",
+    "visualRefs": ["schema:letterForms"]
+  },
+  {
+    "key": "pigmentbinder",
+    "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/pigments-fabrication-couleurs",
+    "status": "READY",
+    "visualRefs": ["schema:pigmentbinder"]
+  },
+  {
+    "key": "paintingAuction",
+    "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/salvator-mundi-record-denchere",
+    "status": "READY",
+    "visualRefs": ["schema:paintingAuction"]
+  },
+  {
+    "key": "syncsound",
+    "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/comment-le-cinema-a-t-il-appris-a-parler",
+    "status": "READY",
+    "visualRefs": ["schema:syncsound"]
+  },
+  {
+    "key": "earlyCinema",
+    "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/premiere-projection-cinematographe-lumiere",
+    "status": "READY",
+    "visualRefs": ["schema:earlyCinema"]
+  },
+  {
+    "key": "novelReaders",
+    "path": "/arts-et-culture/litterature-et-ecriture/genres-litteraires/naissance-du-roman-moderne",
+    "status": "READY",
+    "visualRefs": ["schema:novelReaders"]
+  },
+  {
+    "key": "papyrussheet",
+    "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/comment-les-egyptiens-fabriquaient-ils-des-feuilles-avec-une-plante",
+    "status": "READY",
+    "visualRefs": ["schema:papyrussheet"]
+  },
+  {
+    "key": "inkTools",
+    "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/encre-outils-ecriture",
+    "status": "READY",
+    "visualRefs": ["schema:inkTools"]
+  },
+  {
+    "key": "paperfibres",
+    "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/fabriquer-papier",
+    "status": "READY",
+    "visualRefs": ["schema:paperfibres"]
+  },
+  {
+    "key": "printing",
+    "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/invention-de-limprimerie-a-caracteres-mobiles",
+    "status": "READY",
+    "visualRefs": ["schema:printing"]
+  },
+  {
+    "key": "vernacularHouse",
+    "path": "/arts-et-culture/patrimoine/architecture/architecture-vernaculaire",
+    "status": "READY",
+    "visualRefs": ["schema:vernacularHouse"]
+  },
+  {
+    "key": "gothicvault",
+    "path": "/arts-et-culture/patrimoine/architecture/art-gothique-et-croisee-dogives",
+    "status": "READY",
+    "visualRefs": ["schema:gothicvault"]
+  },
+  {
+    "key": "towerWind",
+    "path": "/arts-et-culture/patrimoine/architecture/burj-khalifa-exemple-architectural",
+    "status": "READY",
+    "visualRefs": ["schema:towerWind"]
+  },
+  {
+    "key": "capitals",
+    "path": "/arts-et-culture/patrimoine/architecture/ordres-architecturaux-grecs",
+    "status": "READY",
+    "visualRefs": ["schema:capitals"]
+  },
+  {
+    "key": "archivesClimate",
+    "path": "/arts-et-culture/patrimoine/musees-et-conservation/archives-bibliotheques-preservation",
+    "status": "READY",
+    "visualRefs": ["schema:archivesClimate"]
+  },
+  {
+    "key": "artRestoration",
+    "path": "/arts-et-culture/patrimoine/musees-et-conservation/comment-decide-t-on-de-restaurer-une-uvre-sans-la-trahir",
+    "status": "READY",
+    "visualRefs": ["schema:artRestoration"]
+  },
+  {
+    "key": "diglayers",
+    "path": "/arts-et-culture/patrimoine/musees-et-conservation/pourquoi-fouille-t-on-avant-de-construire-une-route",
+    "status": "READY",
+    "visualRefs": ["schema:diglayers"]
+  },
+  {
+    "key": "tapestryLoom",
+    "path": "/arts-et-culture/patrimoine/patrimoine-immateriel/pourquoi-un-ministre-du-roi-a-t-il-transforme-une-teinturerie-en-manufacture-de-tapisseries",
+    "status": "READY",
+    "visualRefs": ["schema:tapestryLoom"]
+  },
+  {
+    "key": "migrationStock",
+    "path": "/geographie-et-territoires/geographie-humaine/migrations/migrations-realites-et-idees-recues",
+    "status": "READY",
+    "visualRefs": ["schema:migrationStock"]
+  },
+  {
+    "key": "crowdedCoast",
+    "path": "/geographie-et-territoires/geographie-humaine/pourquoi-tant-de-monde-vit-il-sur-un-si-petit-bout-de-cote-en-france",
+    "status": "READY",
+    "visualRefs": ["schema:crowdedCoast"]
+  },
+  {
+    "key": "cityWaste",
+    "path": "/geographie-et-territoires/geographie-humaine/urbanisation/comment-une-grande-ville-se-debarrasse-t-elle-de-ses-dechets",
+    "status": "READY",
+    "visualRefs": ["schema:cityWaste"]
+  },
+  {
+    "key": "detailVillageServices",
+    "path": "/geographie-et-territoires/geographie-humaine/urbanisation/organiser-village-autonome",
+    "status": "READY",
+    "visualRefs": ["schema:detailVillageServices"]
+  },
+  {
+    "key": "cityGrowth",
+    "path": "/geographie-et-territoires/geographie-humaine/urbanisation/urbanisation-mondiale-onu",
+    "status": "READY",
+    "visualRefs": ["schema:cityGrowth"]
+  },
+  {
+    "key": "detailSeasonalBeds",
+    "path": "/geographie-et-territoires/geographie-physique/climatologie/calendrier-saisons-cultures",
+    "status": "READY",
+    "visualRefs": ["schema:detailSeasonalBeds"]
+  },
+  {
+    "key": "cloudtypes",
+    "path": "/geographie-et-territoires/geographie-physique/climatologie/les-nuages-et-ce-qu-ils-annoncent",
+    "status": "READY",
+    "visualRefs": ["schema:cloudtypes"]
+  },
+  {
+    "key": "monsoonwind",
+    "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-mousson-apporte-t-elle-des-pluies-torrentielles-en-inde-chaque-ete",
+    "status": "READY",
+    "visualRefs": ["schema:monsoonwind"]
+  },
+  {
+    "key": "pressureair",
+    "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-pression-de-l-air-annonce-t-elle-la-pluie-ou-le-beau-temps",
+    "status": "READY",
+    "visualRefs": ["schema:pressureair"]
+  },
+  {
+    "key": "timezone",
+    "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-terre-est-elle-decoupee-en-24-fuseaux-horaires",
+    "status": "READY",
+    "visualRefs": ["schema:timezone"]
+  },
+  {
+    "key": "detailFutureClouds",
+    "path": "/geographie-et-territoires/geographie-physique/climatologie/prevoir-temps-sans-instruments",
+    "status": "READY",
+    "visualRefs": ["schema:detailFutureClouds"]
+  },
+  {
+    "key": "waterjourney",
+    "path": "/geographie-et-territoires/geographie-physique/hydrographie/comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre",
+    "status": "READY",
+    "visualRefs": ["schema:waterjourney"]
+  },
+  {
+    "key": "riverdelta",
+    "path": "/geographie-et-territoires/geographie-physique/hydrographie/comment-un-fleuve-fabrique-t-il-de-nouvelles-terres-a-son-embouchure",
+    "status": "READY",
+    "visualRefs": ["schema:riverdelta"]
+  },
+  {
+    "key": "watershedridge",
+    "path": "/geographie-et-territoires/geographie-physique/hydrographie/ou-va-la-pluie-qui-tombe-de-chaque-cote-d-une-crete",
+    "status": "READY",
+    "visualRefs": ["schema:watershedridge"]
+  },
+  {
+    "key": "rainshadow",
+    "path": "/geographie-et-territoires/geographie-physique/hydrographie/pourquoi-il-pleut-ici-et-pas-la",
+    "status": "READY",
+    "visualRefs": ["schema:rainshadow"]
+  },
+  {
+    "key": "overseasScale",
+    "path": "/geographie-et-territoires/geographie-physique/pourquoi-les-outre-mer-donnent-ils-a-la-france-un-territoire-si-disperse",
+    "status": "READY",
+    "visualRefs": ["schema:overseasScale"]
+  },
+  {
+    "key": "terracefield",
+    "path": "/geographie-et-territoires/geographie-physique/reliefs/comment-les-terrasses-permettent-elles-de-cultiver-sur-une-montagne",
+    "status": "READY",
+    "visualRefs": ["schema:terracefield"]
+  },
+  {
+    "key": "mountainfold",
+    "path": "/geographie-et-territoires/geographie-physique/reliefs/formation-chaines-de-montagnes",
+    "status": "READY",
+    "visualRefs": ["schema:mountainfold"]
+  },
+  {
+    "key": "dryDesert",
+    "path": "/geographie-et-territoires/geographie-physique/reliefs/quel-est-le-plus-grand-desert-du-monde-et-est-ce-vraiment-le-sahara",
+    "status": "READY",
+    "visualRefs": ["schema:dryDesert"]
+  },
+  {
+    "key": "sandGrains",
+    "path": "/geographie-et-territoires/geopolitique/ressources/pourquoi-le-monde-pourrait-il-manquer-de-sable",
+    "status": "READY",
+    "visualRefs": ["schema:sandGrains"]
+  },
+  {
+    "key": "territoryAssets",
+    "path": "/geographie-et-territoires/geopolitique/ressources/ressources-territoire",
+    "status": "READY",
+    "visualRefs": ["schema:territoryAssets"]
+  },
+  {
+    "key": "seaPassage",
+    "path": "/geographie-et-territoires/geopolitique/routes-et-detroits/detroits-et-routes-maritimes",
+    "status": "READY",
+    "visualRefs": ["schema:seaPassage"]
+  },
+  {
+    "key": "foodweb",
+    "path": "/sciences-fondamentales/biologie/ecologie/chaines-alimentaires-et-ecosystemes",
+    "status": "READY",
+    "visualRefs": ["schema:foodweb"]
+  },
+  {
+    "key": "detailAbyssPressure",
+    "path": "/sciences-fondamentales/biologie/evolution/comment-les-animaux-des-profondeurs-survivent-ils-a-une-pression-ecrasante",
+    "status": "READY",
+    "visualRefs": ["schema:detailAbyssPressure"]
+  },
+  {
+    "key": "distillation",
+    "path": "/sciences-fondamentales/chimie/chimie-organique/distillation",
+    "status": "READY",
+    "visualRefs": ["schema:distillation"]
+  },
+  {
+    "key": "maillardfood",
+    "path": "/sciences-fondamentales/chimie/chimie-physique/pourquoi-la-croute-du-pain-et-la-viande-grillee-ont-elles-ce-gout-et-cette-couleur",
+    "status": "READY",
+    "visualRefs": ["schema:maillardfood"]
+  },
+  {
+    "key": "algebrabalance",
+    "path": "/sciences-fondamentales/mathematiques/algebre/histoire-principes-algebre",
+    "status": "READY",
+    "visualRefs": ["schema:algebrabalance"]
+  },
+  {
+    "key": "eratosthenes",
+    "path": "/sciences-fondamentales/mathematiques/geometrie/comment-eratosthene-a-t-il-mesure-la-terre-avec-une-ombre",
+    "status": "READY",
+    "visualRefs": ["schema:eratosthenes"]
+  },
+  {
+    "key": "microwavefood",
+    "path": "/sciences-fondamentales/physique/electromagnetisme/comment-un-four-a-micro-ondes-chauffe-t-il-les-aliments",
+    "status": "READY",
+    "visualRefs": ["schema:microwavefood"]
+  },
+  {
+    "key": "induction",
+    "path": "/sciences-fondamentales/physique/electromagnetisme/comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite",
+    "status": "READY",
+    "visualRefs": ["schema:induction"]
+  },
+  {
+    "key": "electricMagnetic",
+    "path": "/sciences-fondamentales/physique/electromagnetisme/electricite-et-magnetisme-un-seul-phenomene",
+    "status": "READY",
+    "visualRefs": ["schema:electricMagnetic"]
+  },
+  {
+    "key": "transformercoil",
+    "path": "/sciences-fondamentales/physique/electromagnetisme/les-transformateurs-electriques-et-leur-role-dans-l-ajustement-de-la-tension",
+    "status": "READY",
+    "visualRefs": ["schema:transformercoil"]
+  },
+  {
+    "key": "newtonmotion",
+    "path": "/sciences-fondamentales/physique/mecanique/lois-de-newton-mecanique-classique",
+    "status": "READY",
+    "visualRefs": ["schema:newtonmotion"]
+  },
+  {
+    "key": "moonweight",
+    "path": "/sciences-fondamentales/physique/mecanique/pourquoi-peserait-on-six-fois-moins-sur-la-lune-sans-perdre-un-gramme",
+    "status": "READY",
+    "visualRefs": ["schema:moonweight"]
+  },
+  {
+    "key": "detailInteractionsScale",
+    "path": "/sciences-fondamentales/physique/mecanique/quelles-sont-les-quatre-forces-qui-gouvernent-tout-l-univers",
+    "status": "READY",
+    "visualRefs": ["schema:detailInteractionsScale"]
+  },
+  {
+    "key": "particleWave",
+    "path": "/sciences-fondamentales/physique/physique-quantique/dualite-onde-corpuscule",
+    "status": "READY",
+    "visualRefs": ["schema:particleWave"]
+  },
+  {
+    "key": "lakeice",
+    "path": "/sciences-fondamentales/physique/thermodynamique/pourquoi-un-lac-gele-t-il-par-la-surface-plutot-que-par-le-fond",
+    "status": "READY",
+    "visualRefs": ["schema:lakeice"]
+  },
+  {
+    "key": "tectonics",
+    "path": "/sciences-fondamentales/sciences-de-la-terre/geologie/tectonique-des-plaques",
+    "status": "READY",
+    "visualRefs": ["schema:tectonics"]
+  },
+  {
+    "key": "oceancirculation",
+    "path": "/sciences-fondamentales/sciences-de-la-terre/oceanographie/courants-oceaniques-role-climatique",
+    "status": "READY",
+    "visualRefs": ["schema:oceancirculation"]
+  },
+  {
+    "key": "oceanTrench",
+    "path": "/sciences-fondamentales/sciences-de-la-terre/oceanographie/les-fosses-oceaniques-et-la-zone-hadale",
+    "status": "READY",
+    "visualRefs": ["schema:oceanTrench"]
+  },
+  {
+    "key": "hotspring",
+    "path": "/sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes/pourquoi-certaines-sources-sortent-elles-du-sol-deja-chaudes",
+    "status": "READY",
+    "visualRefs": ["schema:hotspring"]
+  },
+  {
+    "key": "tectonics",
+    "path": "/sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes/volcans-et-tremblements-de-terre",
+    "status": "READY",
+    "visualRefs": ["schema:tectonics"]
+  }
+]
