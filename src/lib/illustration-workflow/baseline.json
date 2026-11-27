@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "831b2d7d9ef258d67c89bded102bf917f7f5b122bd8b28a2483a3b50608cdf1e",
+  "sourceDigest": "b66d48ed8e97bf6029906090b5f2dbf821c5b52bb26fe5f563d235d8102ba7b6",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -4118,11 +4118,11 @@
     {
       "path": "/espace-et-astronomie/astrophysique/cosmologie/gwtc-5-catalogue-ondes-gravitationnelles",
       "visualRefs": ["schema:interferometer"],
-      "fingerprint": "8d585c78daedfa89816f45e584a1e699078acce86353d56a8dff2d1cf5661d0d",
+      "fingerprint": "e7aad452a48a14f12a57a08f83e76ae4e02b4b1f89508fa6f94b2d296ffaa2a3",
       "contentHash": "bf6ad18a96a17355cbe4383249a36130c86c1c427b401b1f14886d48b6e28dcc",
       "quality": "validee",
       "evidence": "docs/qa/refonte-cent/README.md",
-      "reviewedAt": "2026-11-27T20:14:24.094Z"
+      "reviewedAt": "2026-11-27T20:18:26.637Z"
     },
     {
       "path": "/espace-et-astronomie/astrophysique/etoiles/comment-nait-une-etoile-a-partir-d-un-nuage-de-gaz",

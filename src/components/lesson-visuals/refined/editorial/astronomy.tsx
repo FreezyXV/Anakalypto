@@ -209,16 +209,33 @@ export const astronomyStudies = {
       "Les longueurs changent différemment",
       "Les faisceaux se recombinent",
     ],
-    draw: (s, id) => [
-      panel(id, 47, 63, 269, 104, "iron"),
-      surface(id, "M64 118h49v22H64Z", "steel"),
-      surface(id, "M175 110l18-14 17 14-17 17Z", "glass", 1.1),
-      stroke(s === 1 ? "M111 128h78l4-16V76m0 36h93" : "M111 128h78l4-16V71m0 41h85", heat, 2.1),
-      stroke("M181 70h24m74 28v25", paint(id, "copper"), 4.4),
-      s === 2
-        ? [stroke("M192 116v34m0-4q12-8 24 0t23 0", forest, 1.9), nightLabel(259, 153, "Détecteur")]
-        : [nightLabel(101, 91, "Laser"), nightLabel(245, 91, s === 1 ? "Décalage" : "Miroirs")],
-    ],
+    draw: (s, id) => {
+      const top = s === 1 ? 76 : 67;
+      const right = s === 1 ? 288 : 275;
+      return [
+        panel(id, 28, 48, 304, 125, "soot"),
+        surface(id, "M53 109l9-7h29l8 6v18l-8 5H53Z", "steel", 1.08),
+        stroke("M59 106h30m-30 20h30", "#c5d3b3", 1.2),
+        surface(id, "M153 115l18-15 17 15-17 16Z", "glass", 1.1),
+        stroke("M160 121l19-15", "#e7dec1", 1.45),
+        s === 1 && [
+          stroke("M158 67h26M275 105v23", "#b0bba189", 1, "3 3"),
+          stroke("M154 69v5m125 60h7", cyan, 1.2),
+        ],
+        surface(id, `M155 ${top - 5}h32v7h-32Z`, "steel", 0.79),
+        surface(id, `M${right - 2} 100h7v31h-7Z`, "steel", 0.79),
+        stroke(`M98 115h72V${top}m0 ${115 - top}h${right - 170}`, amber, 2.45),
+        stroke(`M${right} 121H176V${top}`, cyan, 1.8, "4 2"),
+        stroke("M171 122v28m5-25v25", s === 2 ? amber : "#b4c29a", s === 2 ? 2 : 1.1),
+        surface(id, "M155 151l6-5h23l6 5v12h-35Z", "glass", 1.02),
+        ...(s === 2
+          ? [
+              stroke("M197 153h15m3 4q8-11 16-2q8 8 16-2 7-7 14 2", amber, 1.8),
+              nightLabel(260, 145, "Signal lu"),
+            ]
+          : [nightLabel(70, 91, "Laser"), nightLabel(252, 92, s === 1 ? "Longueurs" : "Miroirs")]),
+      ];
+    },
   },
   aurora: {
     foot: [

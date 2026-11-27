@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T20:15:24.620Z",
+  "generatedAt": "2026-11-27T20:19:31.336Z",
   "scope": "PUBLISHED_ONLY",
   "counts": {
     "published": 948,
@@ -8317,7 +8317,7 @@
       "inlineEvidence": "docs/qa/inline-schemas/README.md",
       "owner": "",
       "evidence": "docs/qa/refonte-cent/README.md",
-      "reviewedAt": "2026-11-27T20:14:24.094Z"
+      "reviewedAt": "2026-11-27T20:18:26.637Z"
     },
     {
       "ref": "LEC-4B90F06EA143",
