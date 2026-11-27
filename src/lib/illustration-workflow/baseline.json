@@ -1,6 +1,6 @@
 {
   "generatedFrom": "backend",
-  "sourceDigest": "6cc67b22ad336d69e04500cb9b45d60b7d404f996e2c8dfb9620baf5d7da539d",
+  "sourceDigest": "b66d48ed8e97bf6029906090b5f2dbf821c5b52bb26fe5f563d235d8102ba7b6",
   "lessons": [
     {
       "path": "/aeronautique/aerodynamique/ecoulements/comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler",
@@ -977,20 +977,20 @@
     {
       "path": "/arts-et-culture/arts-du-spectacle/musique/comment-une-flute-transforme-t-elle-un-souffle-en-musique",
       "visualRefs": ["schema:fluteair"],
-      "fingerprint": "3980732d2a86318167edadfe470041fd137ef79a4abff3a1cc3a79012e2609b0",
+      "fingerprint": "53f3574109a16e98cbd3f1682ea3aec58be0a61790e9fe20db578f2750c9dad5",
       "contentHash": "4ff9803540a5cf48a8861bca925d7d21c982b081d33e1b6b51b1910bc7fae035",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:49.547Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:26.092Z"
     },
     {
       "path": "/arts-et-culture/arts-du-spectacle/musique/diapason-a440-norme-internationale",
       "visualRefs": ["schema:pitchfork"],
-      "fingerprint": "de8251d3de071dd34ee8431323a04cc20c29372443f8d96f7d6b724a57ce6a67",
+      "fingerprint": "05ac984cb63470b82fe55019b2ef0d0d5857038e7adc6bee3d9d5889aa0e24c3",
       "contentHash": "b085ffa09589cb48cc7a9244b1e44d148aae14566fb9e0b22dd3c0ddf252cdf6",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:30.786Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:26.167Z"
     },
     {
       "path": "/arts-et-culture/arts-du-spectacle/musique/gammes-et-temperament-egal",
@@ -1022,47 +1022,47 @@
     {
       "path": "/arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques/naissance-de-lopera-en-italie",
       "visualRefs": ["schema:operaStage"],
-      "fingerprint": "b5e805acb4a43950aec702ae5c9ff6aaf775326f2bbb4f242b1f25f625ef5e0f",
+      "fingerprint": "694632817a30f46ff78a55755e0908925b33a94d2e774b609abad0a77e3786d3",
       "contentHash": "2bfa89549ed76ac96bf541fff3d833b60aa5ab5102edbe9cd6a4bcd276762ac0",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:18:00.012Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:26.120Z"
     },
     {
       "path": "/arts-et-culture/arts-du-spectacle/theatre-et-danse/d-ou-viennent-les-marionnettes-et-le-theatre-d-ombres",
       "visualRefs": ["schema:shadowstage"],
-      "fingerprint": "e73229df8ce47e78347efe2724d49ea0046cf160a6e0077e74b63a5d1a880e27",
+      "fingerprint": "128206a1c7d3d0dc5805d6cb53d3e9965c812d001472a5ebf0d963355f66f994",
       "contentHash": "633a93986035edf38e720fad98baed2fd39cfc02b13fb3b3552cb656e4c41126",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:53.502Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:26.136Z"
     },
     {
       "path": "/arts-et-culture/arts-du-spectacle/theatre-et-danse/naissance-du-ballet-classique",
       "visualRefs": ["schema:balletPose"],
-      "fingerprint": "d82989b614366344891938582cda5249abdf024d64500563e771546a330442dc",
+      "fingerprint": "121ee2375d8bfaffc50031e70c34f5f789af28fc886f5e8b244bdd7d9341a489",
       "contentHash": "b1a065fbbd49fad11eff47bc8cb1cf51c1dc7715ed68312d8d2546918a95831d",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:17:59.660Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:26.888Z"
     },
     {
       "path": "/arts-et-culture/arts-du-spectacle/theatre-et-danse/origines-theatre-grec-antique",
       "visualRefs": ["schema:stageChorus"],
-      "fingerprint": "42f376e480eb860ff17b31d34df795e224a85ccfb4d91c251bc40fea3ea16ae3",
+      "fingerprint": "924f3772f4f10d55cd262016d2440866e77bca2ab12bc15bc7b34e7fc1912f6a",
       "contentHash": "c08cbf93f41d32b661742d4bc76420534b3913f855f57f6eb4946f483766744c",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T21:02:02.671Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:26.992Z"
     },
     {
       "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/comment-la-typographie-est-elle-passee-du-plomb-a-l-ecran",
       "visualRefs": ["schema:leadtype"],
-      "fingerprint": "e24a1585f52cff827be7a796bf42c8f6daa217f5afd9315053cfb431877b5950",
+      "fingerprint": "1ce8c4fa4f1316ed061e4a8934cd75c8e8be26ae6cecf9d6d729b9beb39f31c2",
       "contentHash": "302b9cc4aa77c38294f2b4c1b8853c21772af0d568506500b25f4140fd8badc0",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:47.157Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:26.886Z"
     },
     {
       "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/comment-un-pictogramme-se-comprend-il-sans-un-seul-mot",
@@ -1076,20 +1076,20 @@
     {
       "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/comment-une-gravure-permet-elle-d-imprimer-la-meme-image-des-dizaines-de-fois",
       "visualRefs": ["schema:engraving"],
-      "fingerprint": "9a459cd734f4e93212cccff89c01a0f0f9e03fc5b812592c1decf3c8c81b6065",
+      "fingerprint": "6c18ed2a460068baeeef21c0410868522b3d3f0aef0ddac4818a22d8eb4b886c",
       "contentHash": "32a1889de967facd8af46e7b22b9acd7492e7cb8cc6790f81e6d8cc91c852cf9",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:53.057Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:27.061Z"
     },
     {
       "path": "/arts-et-culture/arts-visuels/arts-graphiques-et-design/histoire-de-la-typographie",
       "visualRefs": ["schema:letterForms"],
-      "fingerprint": "e466b020e0bb458350df7763acf48fcffa3c04e3d9f74a2072f22348ecac361c",
+      "fingerprint": "f28ca820143f8bdc7ed329d643d96610119ab36af7a656ab52e63ad8d5d1f9f4",
       "contentHash": "5892f5893bd5392bd8c072c4b10ba39b7a483b001d28cf68f0fe149c955ea7ce",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:17:59.660Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:27.068Z"
     },
     {
       "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/comment-l-argile-devient-elle-dure-comme-de-la-pierre-dans-un-four",
@@ -1121,11 +1121,11 @@
     {
       "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/pigments-fabrication-couleurs",
       "visualRefs": ["schema:pigmentbinder"],
-      "fingerprint": "8749638770965f7bc5549d820e1c7ebb493ce5589b0f2599ace42603b8d2c260",
+      "fingerprint": "793c29eb5967de182baac408991a95f51bf7c5549e3e2265f9524374bb10e729",
       "contentHash": "06b6f9e2521f8abd8b9994442c74e6745381744c0b91616ff7118c066054269e",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:46.780Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:27.220Z"
     },
     {
       "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/pourquoi-certains-pigments-des-maitres-anciens-etaient-ils-dangereux",
@@ -1139,20 +1139,20 @@
     {
       "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/salvator-mundi-record-denchere",
       "visualRefs": ["schema:paintingAuction"],
-      "fingerprint": "3337c7882ff058ae302faf8424b32e718218608dd607510477cade343b9436fa",
+      "fingerprint": "6602c64e1052820f971cd3d80458f8ad0df4a75e2d46116d5564857051a4e232",
       "contentHash": "66ef68b16ca854da882c801b7afb11860c54e00f3c18d30e83c1e1d584c3f605",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
-      "reviewedAt": "2026-11-22T12:25:18.833Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:27.770Z"
     },
     {
       "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/comment-le-cinema-a-t-il-appris-a-parler",
       "visualRefs": ["schema:syncsound"],
-      "fingerprint": "43c5fe0b1620c3f755b3b5996e9254db75a3bc9c6fb7e646dee847e0a55cbb73",
+      "fingerprint": "2991fcaa9efee0485ed177b1e1b57106945dcf8acd85cb38765123dd24d9984d",
       "contentHash": "a14f4aaeb5d096169dfb363dfcbfd6656986bd56714a578bdd4899f48578a48b",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:30.803Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:27.769Z"
     },
     {
       "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/comment-une-boite-percee-d-un-petit-trou-fabrique-t-elle-une-image",
@@ -1175,20 +1175,20 @@
     {
       "path": "/arts-et-culture/arts-visuels/photographie-et-cinema/premiere-projection-cinematographe-lumiere",
       "visualRefs": ["schema:earlyCinema"],
-      "fingerprint": "0f4f54cf609894baabed2dacc9d9b68c8c2ac131e37cffc3e90d49300cb4bac8",
+      "fingerprint": "be05e9440dcbda9c63c69ca33034624d35f3d457a46d8db66b60ab9308954cce",
       "contentHash": "448b638b2b240dc0552d3089c9634278ecf41fcb5d1d4fe45ac9bce820a0b020",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:18:00.016Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:27.779Z"
     },
     {
       "path": "/arts-et-culture/litterature-et-ecriture/genres-litteraires/naissance-du-roman-moderne",
       "visualRefs": ["schema:novelReaders"],
-      "fingerprint": "33f6a614bbf867199f5369cb8cbe97d63065bb0cb75c8dca9c67f15f57fade8e",
+      "fingerprint": "2d4957cea7631ee7ace3d8def07afdd01487e88463cc69253b04d3d941cd754d",
       "contentHash": "6216dccd7529f329992816b09d360d1035b720c4a47ea9e12228f20bc5e99e14",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T21:02:02.382Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:28.069Z"
     },
     {
       "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/comment-fabriquait-on-un-livre-enlumine-au-moyen-age",
@@ -1202,92 +1202,92 @@
     {
       "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/comment-les-egyptiens-fabriquaient-ils-des-feuilles-avec-une-plante",
       "visualRefs": ["schema:papyrussheet"],
-      "fingerprint": "541ba774db31a010733f972c228323a1e0c7b159821051d971b80fcc99945df1",
+      "fingerprint": "4f79031b78cc032c4d91d9e0c4ef35901f2b09986ef235da3361784f09746d52",
       "contentHash": "81294e587b47ebda55ab7709675f62b96b326aa66de81c45c8f5da084bea1ad7",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:52.231Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:28.271Z"
     },
     {
       "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/encre-outils-ecriture",
       "visualRefs": ["schema:inkTools"],
-      "fingerprint": "8c4943be77ea6df30a51bbc953cbe8db9f00231095af2ecbf62b7da24ccf8075",
+      "fingerprint": "9b7f10a626d197b432e033d13c38fce364e34ae7ea07ac9fb530baa7b09c6f70",
       "contentHash": "1af63e1c93be7d9f5e47fcd467121d817b3aaf4fad5cfaa2a8ff1dc02619405f",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:18:00.797Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:28.269Z"
     },
     {
       "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/fabriquer-papier",
       "visualRefs": ["schema:paperfibres"],
-      "fingerprint": "f06a5db539096c1c607f6d66b435621141935b472a84ea077afb9ff983b73e53",
+      "fingerprint": "7f7738f91f65184289ee037ac028a7a622c5a59926bc7eafadbdaa310b87fa9b",
       "contentHash": "3d994ceffd21fecc1fff1f4c0528d7ea98ba5cc3b7f5d4ae3aa968759a573586",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:53.649Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:28.724Z"
     },
     {
       "path": "/arts-et-culture/litterature-et-ecriture/histoire-du-livre/invention-de-limprimerie-a-caracteres-mobiles",
       "visualRefs": ["schema:printing"],
-      "fingerprint": "069dabc2f051ca92a257c9da9e3f8c32f2ce3f4a98251a652dcbd12f2df9aba0",
+      "fingerprint": "8b5e213befa91d53f2ce43fe76a1a437167819456ee1812ddc6456ed41c0b99c",
       "contentHash": "5d28cfb0400173fc7845d13b81e40b28961ca09f1c7f021dea75cf29e7eea359",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:53.489Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:28.726Z"
     },
     {
       "path": "/arts-et-culture/patrimoine/architecture/architecture-vernaculaire",
       "visualRefs": ["schema:vernacularHouse"],
-      "fingerprint": "8ba107153905ef543128926b40b5e863400bfcdd21b81d74b1f78783828260de",
+      "fingerprint": "ad7864df9f9aa05a86d4de94140a884fd564c998ebb2ebc68b31bc1b5d004926",
       "contentHash": "285609c65b958b609b472e35b6e77a0f6110082a867b67a267c6b82e5f740e95",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:18:00.800Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:28.710Z"
     },
     {
       "path": "/arts-et-culture/patrimoine/architecture/art-gothique-et-croisee-dogives",
       "visualRefs": ["schema:gothicvault"],
-      "fingerprint": "3edbd222a9c69e36cd394467cef9556d7e9ecce54059ca3a543b10ea94e9f88c",
+      "fingerprint": "913209a265e6cb198ca53b71f755fce8dd91ed900e0eb3d9adf7f1062ef64068",
       "contentHash": "0555074abbaa3996391b7c1929085116530009b6d8492a4d92f3a900a96f666a",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:49.884Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:28.816Z"
     },
     {
       "path": "/arts-et-culture/patrimoine/architecture/burj-khalifa-exemple-architectural",
       "visualRefs": ["schema:towerWind"],
-      "fingerprint": "12475d82b925f8edc30240afad2f50190bbeb03dee41b8b99e23b1685620cc31",
+      "fingerprint": "cc340322f8d9591fcd2019bf7c38c17f4262f00b195bf37568f3d7c8a74f8d06",
       "contentHash": "2c3449640d5551337e733a73a5b8a1c569ade056505c88f95f88d94d29e368d4",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T21:02:03.012Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:28.961Z"
     },
     {
       "path": "/arts-et-culture/patrimoine/architecture/ordres-architecturaux-grecs",
       "visualRefs": ["schema:capitals"],
-      "fingerprint": "b2372e865b9b3789d1cac95ba5f75327a75e65764136030a1700e8d69bc1a17b",
+      "fingerprint": "c27ac54c515ad2251cab5fec4e8b18e90326e7b1b61c236825cea490a4049af3",
       "contentHash": "b0ba55f09724003674e44bc50a10614fedad6093aab1ad0f2be70b18f6b1011e",
       "quality": "validee",
-      "evidence": "docs/qa/finition-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T09:19:38.801Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:28.965Z"
     },
     {
       "path": "/arts-et-culture/patrimoine/musees-et-conservation/archives-bibliotheques-preservation",
       "visualRefs": ["schema:archivesClimate"],
-      "fingerprint": "427666db91c5b8e9b9692f0629a719a107bc94a89ba068abd40c57a1a1d073fe",
+      "fingerprint": "3215e281cfc9ff0b426b735ce2b705617165a4798c752ee4984beef8a2a3609c",
       "contentHash": "597fab08395abb1e3a0b6e7d81f71c8b2ec8f8eaab3217e1f409f711175aca3d",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T21:02:02.659Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:29.378Z"
     },
     {
       "path": "/arts-et-culture/patrimoine/musees-et-conservation/comment-decide-t-on-de-restaurer-une-uvre-sans-la-trahir",
       "visualRefs": ["schema:artRestoration"],
-      "fingerprint": "3cfe4618d173f8d7ad888fce896b95c42bbdb6fa17f8f65122b3475d063e562a",
+      "fingerprint": "1b2bb020cce6379fc2e65abdd52e630139611b25772dc47c1e0951e58bf7337d",
       "contentHash": "837acfc43bc71ec9ec788a585971f65c9e692df3d5578026cb0b201ee7907e7f",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:18:00.616Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:29.472Z"
     },
     {
       "path": "/arts-et-culture/patrimoine/musees-et-conservation/conservation-preventive-et-restauration",
@@ -1310,11 +1310,11 @@
     {
       "path": "/arts-et-culture/patrimoine/musees-et-conservation/pourquoi-fouille-t-on-avant-de-construire-une-route",
       "visualRefs": ["schema:diglayers"],
-      "fingerprint": "8cf31497ee6f591222800de702b957e08867164c3755f23f0468c60025320650",
+      "fingerprint": "10224cffef1cde7e05c00908b0378ff3dec0a9de13d23f8143b6c013ef521b44",
       "contentHash": "66124370fc9713edf6b651f36a9bc7fd5755e0c9e1fd164bf2aa111a67a81e8e",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:31.497Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:29.468Z"
     },
     {
       "path": "/arts-et-culture/patrimoine/musees-et-conservation/pourquoi-les-princes-collectionnaient-ils-des-objets-etranges",
@@ -1337,11 +1337,11 @@
     {
       "path": "/arts-et-culture/patrimoine/patrimoine-immateriel/pourquoi-un-ministre-du-roi-a-t-il-transforme-une-teinturerie-en-manufacture-de-tapisseries",
       "visualRefs": ["schema:tapestryLoom"],
-      "fingerprint": "f0fe53cd6923011e0e33beffc7bc6c69a4b2ea9efdac7784a8cf0c8ef852f0f2",
+      "fingerprint": "14843b07818d3aa453973af8960e969ac7609dd3cc95a51c355af024f9378834",
       "contentHash": "ace70dc9df35216a101bc0fa237c2b42cbe5e031ef499c37432cb31553e84f60",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:18:00.759Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:29.489Z"
     },
     {
       "path": "/arts-et-culture/patrimoine/patrimoine-immateriel/savoir-faire-artisanaux",
@@ -4118,11 +4118,11 @@
     {
       "path": "/espace-et-astronomie/astrophysique/cosmologie/gwtc-5-catalogue-ondes-gravitationnelles",
       "visualRefs": ["schema:interferometer"],
-      "fingerprint": "2cbf76181975a3201015ff55439eca39a6914fa8da15f6593e3efff1d3587af2",
+      "fingerprint": "e7aad452a48a14f12a57a08f83e76ae4e02b4b1f89508fa6f94b2d296ffaa2a3",
       "contentHash": "bf6ad18a96a17355cbe4383249a36130c86c1c427b401b1f14886d48b6e28dcc",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:59.412Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:18:26.637Z"
     },
     {
       "path": "/espace-et-astronomie/astrophysique/etoiles/comment-nait-une-etoile-a-partir-d-un-nuage-de-gaz",
@@ -4136,20 +4136,20 @@
     {
       "path": "/espace-et-astronomie/astrophysique/etoiles/comment-une-tempete-solaire-peut-elle-allumer-des-aurores-et-couper-le-courant",
       "visualRefs": ["schema:aurora"],
-      "fingerprint": "0df11698a3549872cd4b993ef503fc081129c9390aabf38fe1a8ddf27cec6580",
+      "fingerprint": "356f0ab9a48e66d3c1efa972352937e9abd6c24adda7428f18b027801be559e5",
       "contentHash": "2b8a86fced96da308e15a4a4b977f76e0fb4fd86c6449dc496713edfec101a97",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:59.587Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:24.191Z"
     },
     {
       "path": "/espace-et-astronomie/astrophysique/etoiles/formation-stellaire-galaxies-lointaines-jwst",
       "visualRefs": ["schema:starlife"],
-      "fingerprint": "4fa20d7950d93607cb3895b44e293665f2b9f3ce320a6801d699051b88996dba",
+      "fingerprint": "95067df276bcaa1d8e94fb86a01dc68ba995663b484352696bda072ed6370dde",
       "contentHash": "c927ff30eb08b232fc753df8198b2cc39a25a45bd1aadab3dd54e1f496dff70f",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:59.679Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:24.196Z"
     },
     {
       "path": "/espace-et-astronomie/astrophysique/etoiles/l-etoile-polaire-et-son-role-dans-l-orientation",
@@ -4163,11 +4163,11 @@
     {
       "path": "/espace-et-astronomie/astrophysique/trous-noirs/trous-noirs-ce-quon-en-sait",
       "visualRefs": ["schema:blackhole"],
-      "fingerprint": "f9afd73329a38e3ee61ad61dc06b501d30fde75dc593c9c9c5ab0a7471525774",
+      "fingerprint": "eb3863eb8a359f659719da1a361b37a44aad7bf89b9fcbb56cbcb6a813f0437c",
       "contentHash": "f5719025044894651c5c6631f38cee9b6337dd434c795e7a78f0ff5d0597a2d5",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:50:59.845Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:24.187Z"
     },
     {
       "path": "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/comment-le-gps-sait-il-exactement-ou-vous-etes",
@@ -4190,38 +4190,38 @@
     {
       "path": "/espace-et-astronomie/exploration-spatiale/sondes/comment-les-sondes-voyager-ont-elles-atteint-l-espace-entre-les-etoiles",
       "visualRefs": ["schema:heliosphere"],
-      "fingerprint": "3f352cc38125a8e195db047809f3dd0be4cefd84283b0756f964b4210e3096ae",
+      "fingerprint": "5339ebecf70d6cff1b93e5bcd41f1c9b5cc6716c03e8be0a04dd31f8e29bae18",
       "contentHash": "df44dc62d7c8534805fa31e18c250a79221ba67316a9b8d74fd20e2a2c3d76fc",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:00.130Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:25.071Z"
     },
     {
       "path": "/espace-et-astronomie/exploration-spatiale/sondes/telescope-spatial-james-webb",
       "visualRefs": ["schema:webb"],
-      "fingerprint": "62f786a788067a1f233b74f5c55f790a96c004ee570d06636ac640dc4329c54e",
+      "fingerprint": "2008bc41db6822ef1d823829f3834a166604345ef9322d18fba786156df50f44",
       "contentHash": "ba6847ca87bac06f64116e4b5f4691c07813f0aed86316bd7e1dfc65c67beb0c",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:00.210Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:25.073Z"
     },
     {
       "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/artemis-ii-retour-vers-la-lune",
       "visualRefs": ["schema:moonflight"],
-      "fingerprint": "24abe5d8190dfa8575d02982c65698b06b3978f524b9fef6db87524baf1af205",
+      "fingerprint": "0fe1d18502a52c42caf68b9c5605a815f2f7af05587b55a2d41eca34ecaffe26",
       "contentHash": "338e042d1cb356911ca257a92e6b73c6a982c599ce513ff7bdeb1e2def3a8b23",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:00.302Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:25.076Z"
     },
     {
       "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/comment-les-astronautes-ont-ils-toujours-de-l-eau-et-de-l-air-dans-la-station-spatiale",
       "visualRefs": ["schema:isslife"],
-      "fingerprint": "5dbbc652559f8db9182025be01234cfab20e4330c487f2e26fc27ad060c1a166",
+      "fingerprint": "428712a60309ba888d05133cd98786fd9739bc9acaf842da79ef9a472118cdc4",
       "contentHash": "4d354728ec08bf7f82c411cbb31f369adccc69b76d2cb41fafcae5f047597269",
       "quality": "validee",
-      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T12:15:08.851Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:25.252Z"
     },
     {
       "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/pourquoi-les-astronautes-flottent-ils-dans-la-station-spatiale",
@@ -4235,11 +4235,11 @@
     {
       "path": "/espace-et-astronomie/exploration-spatiale/vols-habites/pourquoi-les-astronautes-ont-ils-du-mal-a-marcher-en-revenant-sur-terre",
       "visualRefs": ["schema:readaptation"],
-      "fingerprint": "bd26d1c354a4a4d8940bdcf7244576b6688a9accb8ea408c46f17796baf4741e",
+      "fingerprint": "7aa73921c606775752694f3c32be0ae0ed9b7f6e8a2151fe279e858f81184c0c",
       "contentHash": "c25419544a41e41a2273d9ceb0aac55f7046b29bd6b836d061f2efb60ff82858",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:00.571Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:25.126Z"
     },
     {
       "path": "/espace-et-astronomie/observation-astronomique/messagers-du-cosmos/comment-une-etoile-peut-elle-servir-de-loupe-pour-trouver-des-planetes",
@@ -4253,11 +4253,11 @@
     {
       "path": "/espace-et-astronomie/observation-astronomique/messagers-du-cosmos/pourquoi-observer-dans-linfrarouge",
       "visualRefs": ["schema:infrared"],
-      "fingerprint": "f4e520cf70dd55d86af23a265cd8eb23dda1cd13787a544a4622929cc1f45514",
+      "fingerprint": "ec1a6d7a9315aedd9ee65c3eef443bbc3614459ade560e7826cd2b5065522064",
       "contentHash": "04be39c9c278198f95a96026c87e05c226b828dab310ab79e2dfa7eabb9c9847",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:00.772Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:25.110Z"
     },
     {
       "path": "/espace-et-astronomie/observation-astronomique/retrouver-l-heure-avec-le-soleil",
@@ -4361,20 +4361,20 @@
     {
       "path": "/espace-et-astronomie/systeme-solaire/petits-corps/asteroides-cometes-et-meteorites",
       "visualRefs": ["schema:smallbodies"],
-      "fingerprint": "c2fe601e4b5149ea264d3f7c90034aac74856fb0ce0e60fbf4ca7376671a7d91",
+      "fingerprint": "b97179045dbd0016606fce26a09004a71e5df80120be177af07a191c168463a1",
       "contentHash": "6b3f83f03fd0854f048aa5c44f0c40104a29fbf83e80f926167be8493b69f10a",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:02.304Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:26.091Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/petits-corps/pourquoi-la-queue-d-une-comete-pointe-t-elle-toujours-a-l-oppose-du-soleil",
       "visualRefs": ["schema:comet"],
-      "fingerprint": "1a00971f6953ac3b2646e42e4134b379a9b0e8894cf80cd3f92616807cc2dccf",
+      "fingerprint": "13cd37dd6a0aa25d70181fca414fc0d4d5e34cbb3b646e3d4199b041a3b92625",
       "contentHash": "eb8c1d186de02393179b7e50fdfce7500db00f27e15059b3c0f18ac7e957ea9b",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:02.414Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:26.039Z"
     },
     {
       "path": "/espace-et-astronomie/systeme-solaire/petits-corps/pourquoi-voit-on-des-pluies-d-etoiles-filantes-en-aout-et-en-decembre",
@@ -4469,56 +4469,56 @@
     {
       "path": "/geographie-et-territoires/geographie-humaine/migrations/migrations-realites-et-idees-recues",
       "visualRefs": ["schema:migrationStock"],
-      "fingerprint": "c1e88cff689570c52ecc1ee026672c40768d4c4b22e5ab065529b5559de580b0",
+      "fingerprint": "c3a764d343940cb534f9fafc3afcfaaf1ac80cde33ceef13826f513bd3e18cf6",
       "contentHash": "152f543790abf30a273057fb03076c436eedc4fc119464b5c29798a24154a83e",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
-      "reviewedAt": "2026-11-22T12:25:16.321Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:29.981Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-humaine/pourquoi-tant-de-monde-vit-il-sur-un-si-petit-bout-de-cote-en-france",
       "visualRefs": ["schema:crowdedCoast"],
-      "fingerprint": "5031f6fbb7cd032ece66a2111d47dab205963db5455786c02da6e44be9d604cb",
+      "fingerprint": "e405533b541dd67b8b926d70af820ed55e255a8d2cce002f84b2f3f710044cdc",
       "contentHash": "e41bbad6f2042aeac087620b820317962cfa238d9a5cbe2a7607659867f7b713",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
-      "reviewedAt": "2026-11-22T12:25:16.642Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:29.861Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-humaine/urbanisation/comment-une-grande-ville-se-debarrasse-t-elle-de-ses-dechets",
       "visualRefs": ["schema:cityWaste"],
-      "fingerprint": "70a3ab3075bff3be8d34f7e30811bbd35a21d583edcdfd47d98ae831c39d26ae",
+      "fingerprint": "7323d5518573c0dc1e700f26fb9ff3ad44e17ea5e8892f10db0f9ac99a8e83c9",
       "contentHash": "0d779d251936cb25f735a00e8492c1011ae765d0dbdd7f2b5afce2f1804ac1a3",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T21:02:07.150Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:30.301Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-humaine/urbanisation/organiser-village-autonome",
       "visualRefs": ["schema:detailVillageServices"],
-      "fingerprint": "ee1b25fb3777d5f56ca006abac7dc501ee8b842ec895e7b2189a6037cdc427f8",
+      "fingerprint": "b2632a0b445c6e196d71d7da952d89650ccba56d0ae3f49497833e05be2a61c6",
       "contentHash": "e7a0c2e5c36ca8b8d49b19568d5efc3c6768253395a70dcb5806361ff0af65ef",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-23/README.md",
-      "reviewedAt": "2026-11-23T13:11:18.181Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:30.211Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-humaine/urbanisation/urbanisation-mondiale-onu",
       "visualRefs": ["schema:cityGrowth"],
-      "fingerprint": "aa4642594f433e910fc982eb5205ffcebaea3be8254f8039b16aa20ab73f0e89",
+      "fingerprint": "fff895ae84b9669d66140c986fd9d92cbbd123df19686796ad8c2469df1fb085",
       "contentHash": "ada31c8d4db686a324c4620a1ffd9ba9d548d15e9de0704095235d28200df00c",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
-      "reviewedAt": "2026-11-22T12:25:16.650Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:30.211Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/climatologie/calendrier-saisons-cultures",
       "visualRefs": ["schema:detailSeasonalBeds"],
-      "fingerprint": "943dbe701ef8e5842858a8883ca9c6d6bf62ad8b6390145a0166131d71994afc",
+      "fingerprint": "6b62e2779101f211cb3fcbda9ebeb54c0850d071afa821c71777fe7c520ac5a8",
       "contentHash": "826addb6fcfa37a96a31d3cab0f365e71894b0f2b8e596a98b893702bfe4251b",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-23/README.md",
-      "reviewedAt": "2026-11-23T13:11:18.173Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:30.241Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/climatologie/classification-climats-mondiaux-koppen",
@@ -4550,110 +4550,110 @@
     {
       "path": "/geographie-et-territoires/geographie-physique/climatologie/les-nuages-et-ce-qu-ils-annoncent",
       "visualRefs": ["schema:cloudtypes"],
-      "fingerprint": "ac5c8ff28c3946b4f95c185e0ca5a7c5a92992205a4d6b123ed5c85d4c8d6c13",
+      "fingerprint": "b7dd13f9dd71e50523b27c1dafe67e6a299b644c36a472ab06cea8a20f3d5314",
       "contentHash": "791cbeeaf0bb81bf444ae472bce27d688f290e611abd79233a29d1937249a9fe",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:32.542Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:30.508Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-mousson-apporte-t-elle-des-pluies-torrentielles-en-inde-chaque-ete",
       "visualRefs": ["schema:monsoonwind"],
-      "fingerprint": "06b7f5451e03d86566f196fc10da1934f3910a452a48a6bf4d528ae1f488a256",
+      "fingerprint": "387649bb9557307a674e1f7bfc1a2d89aae9eefe14df799b96b7b71ad7dc673a",
       "contentHash": "62b2f36e4e9fd5545bcfe56652c694e6bc7e185d48bf2c438b15732b2de56c08",
       "quality": "validee",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:12.295Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:30.767Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-pression-de-l-air-annonce-t-elle-la-pluie-ou-le-beau-temps",
       "visualRefs": ["schema:pressureair"],
-      "fingerprint": "dedc9ba0f6ec7bce7174d54da1572230229057fc7f9d5e7e327fb94276550b6e",
+      "fingerprint": "30c79d6f4b4c27f78faf76838d962bda6e5c3b93cd038efee614b17811330acc",
       "contentHash": "c0a6c8da48b5ce06d8e6a4cbf792e48fef8d754fd7a91110aa6c91eb880d8609",
       "quality": "validee",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:12.425Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:30.952Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/climatologie/pourquoi-la-terre-est-elle-decoupee-en-24-fuseaux-horaires",
       "visualRefs": ["schema:timezone"],
-      "fingerprint": "bcef57c23a81a49cb303703a6e12a40fe87b13f24fbd64f7906ae996d4fcf1af",
+      "fingerprint": "0c1af2eb32b23a4d9ab0d069954e84a5df8b40e80d9692f4463f4e2605616e44",
       "contentHash": "1f863e91e1ea8dece9458ad00b9ac18a9125ad8e81b568a97efe9342adedf772",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:32.609Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:30.970Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/climatologie/prevoir-temps-sans-instruments",
       "visualRefs": ["schema:detailFutureClouds"],
-      "fingerprint": "bb042b558c03537210dea9b3ebdc36072e83bdc4a989624d9fd3953d275807f2",
+      "fingerprint": "1fc4d51407df94939f31e4dec15cfa9e4329991b5d733f66f92634414a712231",
       "contentHash": "8a391dfd125b5e8a4357fee1da58684d5f2c79ac4bf96cf1204a085d5c9af9d9",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-23/README.md",
-      "reviewedAt": "2026-11-23T13:11:18.231Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:30.981Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/hydrographie/comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre",
       "visualRefs": ["schema:waterjourney"],
-      "fingerprint": "40f86341b07d18ac76f8127989980007f8a74238625760b6759f3f0bcf960ce8",
+      "fingerprint": "688fb45706424b2ca87de8f0c861ec8cc27b159d6ff1383e702e4b00f15424cd",
       "contentHash": "fa03ee91816fd32103be43820b648efdf704ef6f7f8736a0700f00608661ba44",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:52.832Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:31.235Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/hydrographie/comment-un-fleuve-fabrique-t-il-de-nouvelles-terres-a-son-embouchure",
       "visualRefs": ["schema:riverdelta"],
-      "fingerprint": "ac17d4309ed56225f3772f7b8abad4d49fb45dcb9576a228c58638801a387b6d",
+      "fingerprint": "9da6f9f3bd93161908c820c18686acf1108a55a1ed522db70bbc0d01bf24ddd6",
       "contentHash": "d3bce4bcc795bdf17a1544cd6a4b2ffbe0285dc1d5371911bd0d53534defade0",
       "quality": "validee",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:12.358Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:31.292Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/hydrographie/ou-va-la-pluie-qui-tombe-de-chaque-cote-d-une-crete",
       "visualRefs": ["schema:watershedridge"],
-      "fingerprint": "549d946cce6175a99824331c66a0a3f7c2bcea869fdb6681d8042eee7d9a85f2",
+      "fingerprint": "632d6a827937e4c68efb07d9eb7247ac7e6577ef58ec4f2ffef06140aab56849",
       "contentHash": "6b4b9e3aaa7015b7df5a443d31892337374acac4518220013f3b16f0aae21c31",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:51.092Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:31.426Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/hydrographie/pourquoi-il-pleut-ici-et-pas-la",
       "visualRefs": ["schema:rainshadow"],
-      "fingerprint": "edb16d858a1154a594f0134344622b0d45a04b7948dbe62939e6ef34d1131973",
+      "fingerprint": "87a3a5681f6cf29dfe5c63a61f67cbc25299bfcd21158fc3955c466d73d5d0b1",
       "contentHash": "faf6a6901c3f98f9798b8f96f03781b3fe76ba779d8dc4550f819ad4f2ac7a88",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:32.621Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:31.588Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/pourquoi-les-outre-mer-donnent-ils-a-la-france-un-territoire-si-disperse",
       "visualRefs": ["schema:overseasScale"],
-      "fingerprint": "c77cf9a0e4b9a1c7a0942515029d2bc60565c72d68703eb59a215971e71b78b0",
+      "fingerprint": "edbbfe143bc508240221a8c15bd6cc9602b7dda9a7e20e4f30b769b060a50464",
       "contentHash": "965baf785a4e1ed478f4c11cf68af01f0574c52b848e939651b1dd0daa7d6fa2",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
-      "reviewedAt": "2026-11-22T12:25:16.966Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:31.622Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/reliefs/comment-les-terrasses-permettent-elles-de-cultiver-sur-une-montagne",
       "visualRefs": ["schema:terracefield"],
-      "fingerprint": "8e2fb5ae92b7e52ce0a5c2674cd479cec05749598d6afe0f74d382c1bbdff65e",
+      "fingerprint": "f0e3601e5ee4297b8ce6fe6c0a69f4fa6952c0b287f4ffb1b725bff969ecb367",
       "contentHash": "35bc5b8321521b1a4fdfcc39092b5bfbfaf7d746f33b01a03de59d828a42b5e3",
       "quality": "validee",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:12.489Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:31.637Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/reliefs/formation-chaines-de-montagnes",
       "visualRefs": ["schema:mountainfold"],
-      "fingerprint": "5d5636322de3bc95f832b3a5f6260cf632ddecb628d951075dce2340dfa59682",
+      "fingerprint": "06c8379b89ccad4e0fcacc93e27a62d481195f581a423eb5befd4063cece31e0",
       "contentHash": "cac124c9b01302f054ceaaf2535eb6ff4b315adfac224a32510fa3e270f04125",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-2026-11-19/README.md",
-      "reviewedAt": "2026-11-19T09:10:32.616Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:31.874Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/reliefs/lire-une-carte-topographique-principes-de-base",
@@ -4676,11 +4676,11 @@
     {
       "path": "/geographie-et-territoires/geographie-physique/reliefs/quel-est-le-plus-grand-desert-du-monde-et-est-ce-vraiment-le-sahara",
       "visualRefs": ["schema:dryDesert"],
-      "fingerprint": "7837b481865b4769ecc45dcf20ef239ed68ed97088f0e9b3bf87537bce1654ba",
+      "fingerprint": "0366b13f45bc98843277ec553b3aafa0b74663aa9af45b434ac43f2794bb0fec",
       "contentHash": "9692726ac03bf714e8335562f5d2f306a652c1c672cd8c86629b6960b6f3b381",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:18:04.976Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:31.906Z"
     },
     {
       "path": "/geographie-et-territoires/geographie-physique/reliefs/refaire-une-carte-par-triangulation",
@@ -4712,11 +4712,11 @@
     {
       "path": "/geographie-et-territoires/geopolitique/ressources/pourquoi-le-monde-pourrait-il-manquer-de-sable",
       "visualRefs": ["schema:sandGrains"],
-      "fingerprint": "776833a695800302501230023df5723d076a57b14243a366ab922c2366643d0e",
+      "fingerprint": "d821c2ff31e38831d6af1cfa6c5484055dee13a70e73e81414ff9f1efe0ea31a",
       "contentHash": "63e386c6d3b7b3e65910f82b7edf5491ebf814062a2c255162ec21c14f0761f8",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:18:05.402Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:32.082Z"
     },
     {
       "path": "/geographie-et-territoires/geopolitique/ressources/repartition-mondiale-lithium-ressource-strategique",
@@ -4730,11 +4730,11 @@
     {
       "path": "/geographie-et-territoires/geopolitique/ressources/ressources-territoire",
       "visualRefs": ["schema:territoryAssets"],
-      "fingerprint": "0b624940adba312150acf1bba54a217a931c57a36cda119a78e07489b09fe309",
+      "fingerprint": "02a1852385b8b5f49a1846bd41e6e9941a57d93dc9c69f10cab55338f9327fc4",
       "contentHash": "d98a0c9f92aaf31d82ad30ca383c94316d82b70f5a77809b62756991ad21437e",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
-      "reviewedAt": "2026-11-22T12:25:17.370Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:32.317Z"
     },
     {
       "path": "/geographie-et-territoires/geopolitique/routes-et-detroits/comment-le-canal-de-panama-fait-il-passer-les-navires-d-un-ocean-a-l-autre",
@@ -4748,11 +4748,11 @@
     {
       "path": "/geographie-et-territoires/geopolitique/routes-et-detroits/detroits-et-routes-maritimes",
       "visualRefs": ["schema:seaPassage"],
-      "fingerprint": "f6f707a3f6a6d87adf763f25e51b86c0ad5d4ba92300e00b8dc125756f5a088c",
+      "fingerprint": "e451d1a88a877c2b4dcabeaff50c13b7f6a040b30d3443e1cecb09203c06abb5",
       "contentHash": "c21c29c7077c137ade372019a73142ac220f66ec2a70b7f94ac57465fccfd4b1",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:18:02.869Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:32.347Z"
     },
     {
       "path": "/geographie-et-territoires/geopolitique/routes-et-detroits/naviguer-sans-gps",
@@ -5351,11 +5351,11 @@
     {
       "path": "/micro-informatique-et-informatique/donnees/representation-et-compression/qu-est-ce-qu-un-pixel-et-comment-une-image-est-elle-faite-de-pixels",
       "visualRefs": ["schema:pixels"],
-      "fingerprint": "e1549ea32b9bae73fb20f6e398fd03f0e94c0bd489e0d71c5b3ae11aad1af74b",
+      "fingerprint": "0db85fce53b4a914ef11f610256f3de5f9d693853aea43d8282b03fe5ec1ae78",
       "contentHash": "5e6af32ac7cad35801e0a9632700ea692c8e3451854be601dbe3b278191aff5d",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:05.573Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:20.735Z"
     },
     {
       "path": "/micro-informatique-et-informatique/donnees/representation-et-compression/representation-et-compression-des-donnees",
@@ -5396,11 +5396,11 @@
     {
       "path": "/micro-informatique-et-informatique/logiciel/programmation/histoire-principes-langages-programmation",
       "visualRefs": ["schema:editionProgramLayers"],
-      "fingerprint": "17aa4a1c63ef6091bfcb8d5d42dc629e09613dd53f2f183f2e53b07b39fba384",
+      "fingerprint": "df231d7e37986960c96288c64817be5b45abb48c7c50967b39fffb81e30f004c",
       "contentHash": "641a57af2907be4707d995e853b1397771e1b4f7d656ee98d917e7987a0f5c8d",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:56.789Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:20.804Z"
     },
     {
       "path": "/micro-informatique-et-informatique/logiciel/programmation/les-langages-de-programmation-compiles-et-interpretes-une-distinction-fondamentale",
@@ -5414,11 +5414,11 @@
     {
       "path": "/micro-informatique-et-informatique/logiciel/systemes-d-exploitation/comment-un-ordinateur-demarre-t-il-quand-on-appuie-sur-le-bouton",
       "visualRefs": ["schema:bootchain"],
-      "fingerprint": "6c0fac4736a04a831e4dc2ee7998083846b1f8e433f408c212f7bf2071b9588d",
+      "fingerprint": "d1686cc9b48c163705bbc9cb08a6c25b7c7b06dd0e9f362bb708bed5f819775c",
       "contentHash": "d3af6f02036550aa0413c1ede613f5db805fd0d14b7fae060f1b472365a7ac85",
       "quality": "validee",
-      "evidence": "docs/qa/revue-integrale-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T12:15:09.567Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:20.749Z"
     },
     {
       "path": "/micro-informatique-et-informatique/logiciel/systemes-d-exploitation/histoire-principes-systemes-exploitation",
@@ -5441,83 +5441,83 @@
     {
       "path": "/micro-informatique-et-informatique/logiciel/systemes-d-exploitation/remettre-marche-vieil-ordinateur",
       "visualRefs": ["schema:detailArchivedComputer"],
-      "fingerprint": "d23b3557bb98ffe62a87d38c7f37b4b6ee10fe4c2530432caa2b140488ef6616",
+      "fingerprint": "b9a9168d0fcc07020331e7b3c4a3236f854f52d45c70c4d90db661db32f3fb0e",
       "contentHash": "a34bcf728406305bc5149ca7331a0c35b87f5394e6f1a71f7c385818c454e2a9",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-23/README.md",
-      "reviewedAt": "2026-11-23T13:11:23.545Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:20.749Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/memoire-et-stockage/conserver-donnees-long-terme",
       "visualRefs": ["schema:digitalArchives"],
-      "fingerprint": "15140740d99b00f0127cd2189e2d37abaf343e5075e5d83aba06696330a7c001",
+      "fingerprint": "2502d6c407979164174096e27588d71754dc0aacf2553a19f4eb273d2280a09a",
       "contentHash": "0c46aa19fcc56c527f62175b581f633ac08020edd540decc3386b8baebac2cad",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T21:02:09.199Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:20.804Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/memoire-et-stockage/quelle-difference-y-a-t-il-entre-un-ssd-et-un-disque-dur",
       "visualRefs": ["schema:ssdanddisk"],
-      "fingerprint": "31396a9ef01afddf0625426319af33c212bd73d305fb04900c3a45f2f53cb156",
+      "fingerprint": "db692419ed6345bfb3e893c829a6d855df24de43b7dbbb9c4718c8d2814abd9d",
       "contentHash": "d3a5c83e7fddf843010992a8063454ea2322262d9b6c38dd4d4d9f48aa02699d",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:51.244Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:20.804Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/memoire-et-stockage/ram-stockage-ssd-evolution",
       "visualRefs": ["schema:memoryStorage"],
-      "fingerprint": "40013c733d6a952ec0e11e0ae3f5690f24cad024711078a2e18633d5ae8d5c1b",
+      "fingerprint": "ae4141156a3c55ad8842c764f655e75c2f68e1754800f9ada9b4c80c69032d9c",
       "contentHash": "6594aa9f7411986f448448b4df88640e1626e19058516f6f7f5d775335eb8848",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:18:06.296Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:22.014Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-un-ecran-affiche-une-image",
       "visualRefs": ["schema:pixels"],
-      "fingerprint": "e1549ea32b9bae73fb20f6e398fd03f0e94c0bd489e0d71c5b3ae11aad1af74b",
+      "fingerprint": "0db85fce53b4a914ef11f610256f3de5f9d693853aea43d8282b03fe5ec1ae78",
       "contentHash": "268ff9484763ecacfff53aa7d069a9cb37ec041b07db79e5584614ede98a63ed",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:05.746Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:22.030Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-un-ecran-tactile-sent-il-votre-doigt",
       "visualRefs": ["schema:capacitivetouch"],
-      "fingerprint": "3d9083109731dc7f63d9db5d77e90c6e30503c9f8c69a40a6a16883583569113",
+      "fingerprint": "916a9aa252a64ccfbe841b981b577e5b8c0060c61ea72fce67e81c2c63d6090a",
       "contentHash": "8c507356d45df573f303f50f515d7627b204f059bdcc963ee64478f57b46a6f0",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:54.296Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:21.893Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/peripheriques-et-ecrans/comment-une-imprimante-depose-t-elle-l-encre-exactement-au-bon-endroit",
       "visualRefs": ["schema:inkjetdrops"],
-      "fingerprint": "8418a4637bff93a16146442f2f0ff9265510b037f0aea87b778dcd1dada314f8",
+      "fingerprint": "3ebb1f0a61fe826264d47d1545f129f9cad1c5112699e1e380aabac9c489dbe0",
       "contentHash": "08d77bd6f87bbce7249621d4dc916b49188431511785f4d34a979fcf939c22ec",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:54.448Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:22.049Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/asml-lithographie-euv",
       "visualRefs": ["schema:euvMirrors"],
-      "fingerprint": "aa9263fb9dc1bea7318e2f5e66f678dfc4ce6bd7e58990f70c72efd4b98abdc4",
+      "fingerprint": "77af9f3af23e70abb93fbde1cfacf9a6180c6dfb5cc5ccaa6fb18738910e9043",
       "contentHash": "bbe89f38ab47a710e68066e491630acaf4ee358c43439de208d3d65f247a6577",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
-      "reviewedAt": "2026-11-22T12:25:22.771Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:22.098Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/cartes-graphiques",
       "visualRefs": ["schema:graphicParallel"],
-      "fingerprint": "06a48b448dadf8a5324fcdc2663ad2e9ddd98b873943d3c5213be033cb18190c",
+      "fingerprint": "95c2b5e0b9d808ca4cb3c6f9957fbbe798c25d62742afc8555e7f3d5eb071e55",
       "contentHash": "c1acf825cc280a08826b8a66e4928767eb49297275a8f308a1ad5eb317b997b7",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-50-suivantes-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T20:18:06.334Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:22.095Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-fonctionne-un-processeur",
@@ -5531,38 +5531,38 @@
     {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-fonctionne-un-processeur-quantique-a-qubits-supraconducteurs",
       "visualRefs": ["schema:superconductingQubit"],
-      "fingerprint": "7091a09db56f731387d0cc6c52778e16837bf8a2271e0b89433d21b75f616b9d",
+      "fingerprint": "3039fef72e0f4cf25ad41a549bc2375f989edc014924f1daf7958fcb551466c3",
       "contentHash": "8414e5c4693331f9e069d1bd3e3fcd9ba1a4ee07b0515d8124b183dd3fdd558e",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
-      "reviewedAt": "2026-11-22T12:25:22.773Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:22.988Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur",
       "visualRefs": ["schema:transistorgate"],
-      "fingerprint": "f2a42fac57532088af4168192314a5a6668306fbf06ba6b414a1e5aea5aecced",
+      "fingerprint": "de08689fed8c9ca814ff4bc98b91a6dffd7ce1c178970b993acef7211b45e202",
       "contentHash": "fb2cbf59c7aaf877c3f86da122461fb67d1e4f7f0346f28bd6d557630bdbf5bb",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:54.596Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:23.059Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/fabrique-puce",
       "visualRefs": ["schema:chipFabrication"],
-      "fingerprint": "706c168cec69c3bcee3fd4b26e07a0cc62257735271512cacb6fbb63c259a000",
+      "fingerprint": "cb0321a3ec1292b172c28b7d160ddee38f86ff15a9a53b6e81e02bf064b9e167",
       "contentHash": "1040b6401f8b9a1f39c8c266aedaaca285673656f8f5ccb124e1368a4c5a0149",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T21:02:09.208Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:23.092Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/gravure-2-nanometres-tsmc",
       "visualRefs": ["schema:detailGateThickness"],
-      "fingerprint": "c7396cddd4c5e06032dab77d2b84c32b5a2f6216e324701429c690e71fa01f24",
+      "fingerprint": "97a7b09aaec130496d7f5bfa4fba5c391f24e2d99f28e3a5ed718368bb7a3544",
       "contentHash": "c9f7bdabf9943715348f02ad7999162e8f2de6217bba9cbc524c870d7b9f7ad7",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-23/README.md",
-      "reviewedAt": "2026-11-23T13:11:23.519Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:23.087Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/les-processeurs-specialises-pour-l-intelligence-artificielle",
@@ -5585,11 +5585,11 @@
     {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/pourquoi-un-ordinateur-a-t-il-besoin-d-un-ventilateur",
       "visualRefs": ["schema:cpucooling"],
-      "fingerprint": "fee5ae026b22454de3d8f745da238369add7e251665fc141802c7143d84bf9a3",
+      "fingerprint": "cbe20eb7a33372bb7e76545f0c019ce339abf0c986d3cfc6c82c739f945fd3a1",
       "contentHash": "22cbe23a79e7ecd420ae99a8f6099853d2ad1420af93f28dbbc65fdf27d1f86f",
       "quality": "validee",
-      "evidence": "docs/qa/explorations50/README.md",
-      "reviewedAt": "2026-11-14T21:33:53.072Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:23.059Z"
     },
     {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/que-change-le-fait-qu-une-architecture-de-processeur-soit-libre-comme-risc-v",
@@ -5603,11 +5603,11 @@
     {
       "path": "/micro-informatique-et-informatique/materiel/processeurs/tsmc-geopolitique-puces",
       "visualRefs": ["schema:editionChipSupplyMap"],
-      "fingerprint": "59077fc5b166e074de3d9da9a9ec4b15a00f8ea378923226e53ce6fc53912f15",
+      "fingerprint": "d0ba032b11cb0114ce0720d41ff942cdd022f9d15bd42f05f4fb83dcde64032a",
       "contentHash": "c2255f1f4e31d279bed5cec7cbc3c1c81a0011647867f0a0ae2f46a39d161166",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-24/README.md",
-      "reviewedAt": "2026-11-24T05:14:56.100Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:23.076Z"
     },
     {
       "path": "/micro-informatique-et-informatique/reseaux-et-securite/chiffrement/comment-le-chiffre-de-vigenere-cachait-il-un-message-mieux-que-celui-de-cesar",
@@ -5639,20 +5639,20 @@
     {
       "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-internet-arrive-t-il-par-satellite-dans-les-endroits-isoles",
       "visualRefs": ["schema:satelliteBackhaul"],
-      "fingerprint": "9ab2e911054b5d8c133f418d00cb474008edfe98fe7ab6ec669805c2b6b133ae",
+      "fingerprint": "d09308eb3c9686ca826e855bc44c9602455abddfd93c4c16fbbc01bbf12d480e",
       "contentHash": "9f578726ded8f2101fe08dc18aae3b6ce912a41b946bc806dc168ec900c3f30a",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
-      "reviewedAt": "2026-11-22T12:25:23.508Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:24.093Z"
     },
     {
       "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-internet-traverse-t-il-les-oceans",
       "visualRefs": ["schema:subseacable"],
-      "fingerprint": "18a27684381735aaedc9a2c7da50bc13406e6bd8a44bc55fe5a89d404322dbfb",
+      "fingerprint": "7bd151437498f6c6c8d76fd8d06a758feaaf651e332679fbae6dd670bf37dece",
       "contentHash": "3e9cbfb5760b25940efe69e4c9a425d188d4d11c810d06df540c7f3c23d4320b",
       "quality": "validee",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:14.093Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:24.083Z"
     },
     {
       "path": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-le-wi-fi-fait-il-voyager-des-donnees-a-travers-l-air",
@@ -6008,20 +6008,20 @@
     {
       "path": "/sciences-fondamentales/biologie/ecologie/chaines-alimentaires-et-ecosystemes",
       "visualRefs": ["schema:foodweb"],
-      "fingerprint": "88c28f0485eed7852f224d1f517f0d7f0708f6ed0fc1d410ef5cc5aaf93a3373",
+      "fingerprint": "10a552afed0ba611d22b1ea1c37351475b295eb9d78f04b55df53f718e8d6d01",
       "contentHash": "ef92865f32eccf012488f9a66a222430a8f733064f63abb6ab6389c0f71c2bfe",
       "quality": "validee",
-      "evidence": "docs/qa/sciences30/README.md",
-      "reviewedAt": "2026-11-12T19:17:45.220Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:32.353Z"
     },
     {
       "path": "/sciences-fondamentales/biologie/evolution/comment-les-animaux-des-profondeurs-survivent-ils-a-une-pression-ecrasante",
       "visualRefs": ["schema:detailAbyssPressure"],
-      "fingerprint": "715a052e307bbe048e9b3e51f46b15a84fbb95972d520ea0fe5c3ced7f6c89d4",
+      "fingerprint": "2409471af94ca761300b786408c1620a1ca469e6ac17f9ab1b8664ce537c85ea",
       "contentHash": "b9d458c65b5b1574c569cf8a53d07914d4ad14785631fc12319cbb92cfdd3299",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-23/README.md",
-      "reviewedAt": "2026-11-23T13:11:26.149Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:32.495Z"
     },
     {
       "path": "/sciences-fondamentales/biologie/evolution/comment-les-bacteries-deviennent-elles-resistantes-aux-antibiotiques",
@@ -6116,11 +6116,11 @@
     {
       "path": "/sciences-fondamentales/chimie/chimie-organique/distillation",
       "visualRefs": ["schema:distillation"],
-      "fingerprint": "eee52718e791b114ab178bd8b8fcd9f468f70fa1ff2edcd778dec7d08e4f9a91",
+      "fingerprint": "abde6b27ed59f9dcd2bed60fc300b72ec187c68fbbbdbd175c3cb83cbf5cad1a",
       "contentHash": "e6d78addd53f052ab369d57cd06830a9215f26d0da1a46445296b16cbfc7f502",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:06.330Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:32.548Z"
     },
     {
       "path": "/sciences-fondamentales/chimie/chimie-organique/molecule-carbone-composes-organiques",
@@ -6143,11 +6143,11 @@
     {
       "path": "/sciences-fondamentales/chimie/chimie-physique/pourquoi-la-croute-du-pain-et-la-viande-grillee-ont-elles-ce-gout-et-cette-couleur",
       "visualRefs": ["schema:maillardfood"],
-      "fingerprint": "1cdbf356d95673a6e94c0f2c536c72ae4697b281608a7c92719dbc0d8c110912",
+      "fingerprint": "7b119f429fa7f17f20279d19a059370803915fa376f62332971fa8d4e0ee4515",
       "contentHash": "9eb0918470f59eda5ac3a78adb6a986909f5f992f96dbfc851a7a63b29a3b25d",
       "quality": "validee",
-      "evidence": "docs/qa/sciences30/README.md",
-      "reviewedAt": "2026-11-12T19:17:44.096Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:32.749Z"
     },
     {
       "path": "/sciences-fondamentales/chimie/chimie-physique/pourquoi-le-sel-disparait-il-dans-l-eau-alors-que-l-huile-reste-a-part",
@@ -6170,11 +6170,11 @@
     {
       "path": "/sciences-fondamentales/mathematiques/algebre/histoire-principes-algebre",
       "visualRefs": ["schema:algebrabalance"],
-      "fingerprint": "0336473d2eddd3cc3dd77ee0a78240e0410d33ee2af4a5a5322853a7da34c25c",
+      "fingerprint": "d0daa8649c7512d93b33403b25ebd672e9a2d56c2a1fb0946e87e465a0b3b2bf",
       "contentHash": "0211ca2891be2851fdc635a0b28c7c38fce5f521fb70e8c9588d2f6225632a08",
       "quality": "validee",
-      "evidence": "docs/qa/horizons50/README.md",
-      "reviewedAt": "2026-11-15T11:22:10.933Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:32.970Z"
     },
     {
       "path": "/sciences-fondamentales/mathematiques/algebre/numeration-position-zero",
@@ -6197,11 +6197,11 @@
     {
       "path": "/sciences-fondamentales/mathematiques/geometrie/comment-eratosthene-a-t-il-mesure-la-terre-avec-une-ombre",
       "visualRefs": ["schema:eratosthenes"],
-      "fingerprint": "c131f190c169ca568c8b2c7cc71ee103813eb24d6beffbb41c4aa3a5c50f9933",
+      "fingerprint": "0f858543382d80a3d732e890ee17256f480be379b37fdc0acf80f9c556b5d991",
       "contentHash": "f5dc06a880c3cad2d8034496823e0803a6eada04b57e87605558583a150a74d6",
       "quality": "validee",
-      "evidence": "docs/qa/sciences30/README.md",
-      "reviewedAt": "2026-11-12T19:17:46.163Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:33.077Z"
     },
     {
       "path": "/sciences-fondamentales/mathematiques/geometrie/geometrie-euclidienne-et-au-dela",
@@ -6278,29 +6278,29 @@
     {
       "path": "/sciences-fondamentales/physique/electromagnetisme/comment-un-four-a-micro-ondes-chauffe-t-il-les-aliments",
       "visualRefs": ["schema:microwavefood"],
-      "fingerprint": "569845985707a819db14e54dac52a27119707581de8ca2da83a84f7f1a9ad728",
+      "fingerprint": "9d6dba41d65d9178b5e23741facb05bf5cb13ffdacfc5bef794efc28134fac1d",
       "contentHash": "91b74d5e41dca7d5db2d272ee678e3d3babb26336295d6800b0cb86e0afe40c6",
       "quality": "validee",
-      "evidence": "docs/qa/lesson-visuals-batch50/README.md",
-      "reviewedAt": "2026-11-12T08:39:13.708Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:33.018Z"
     },
     {
       "path": "/sciences-fondamentales/physique/electromagnetisme/comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite",
       "visualRefs": ["schema:induction"],
-      "fingerprint": "ace0f64805ec681099acb554dae18a6c1e9867357fba2fff70f19369c85554bc",
+      "fingerprint": "7d7e3a6be909f821ec01cc706adb08682463788f80c36b5f096209b5b1d672b1",
       "contentHash": "5fb93bd8f7ff6304eac015a030887f3b7e1ec18386f0465dc3ee32f4195b5a42",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:06.622Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:33.278Z"
     },
     {
       "path": "/sciences-fondamentales/physique/electromagnetisme/electricite-et-magnetisme-un-seul-phenomene",
       "visualRefs": ["schema:electricMagnetic"],
-      "fingerprint": "7d7f0dd975a7e17472bc9d0a4e71eae838d755b5175db8df4b54c4108b66b5b2",
+      "fingerprint": "f2e992fae15df8b568123acd9ebd18735bae4e0205baea56f017bb5f08be9ebe",
       "contentHash": "76a1452ee428cf02655a5e710338cf918db14f15bff9479e5da019409091e599",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
-      "reviewedAt": "2026-11-22T12:25:24.153Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:33.329Z"
     },
     {
       "path": "/sciences-fondamentales/physique/electromagnetisme/lentilles-optique",
@@ -6314,11 +6314,11 @@
     {
       "path": "/sciences-fondamentales/physique/electromagnetisme/les-transformateurs-electriques-et-leur-role-dans-l-ajustement-de-la-tension",
       "visualRefs": ["schema:transformercoil"],
-      "fingerprint": "69e3d9325fa3426584d1d5bb7a04bd0a6857706a794a2a67c6d7c39c353da599",
+      "fingerprint": "6900f5a6b7fb46a42a2dd445b3c1de77f18aa6857046364e0b7c6a3c02bc4123",
       "contentHash": "de9871be75810188e692c10dae8c754c80fe5fc276ab8cc60f3cdbe04129bc79",
       "quality": "validee",
-      "evidence": "docs/qa/lesson-visuals-batch50/README.md",
-      "reviewedAt": "2026-11-12T08:39:13.715Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:33.446Z"
     },
     {
       "path": "/sciences-fondamentales/physique/electromagnetisme/pourquoi-le-ciel-est-il-bleu-et-le-soleil-couchant-rouge",
@@ -6359,11 +6359,11 @@
     {
       "path": "/sciences-fondamentales/physique/mecanique/lois-de-newton-mecanique-classique",
       "visualRefs": ["schema:newtonmotion"],
-      "fingerprint": "cdaad2536d7291f876ffe3df8c7e072656737a6cc1fa00295884bc206f3369aa",
+      "fingerprint": "d95e7cce1f420b71985aae6ad6e460bfcddba51fe5ada391f10e97ff9836962f",
       "contentHash": "49ba462f76c8d34b72ffee54fb24b214d322d8101269681e39a85a151b9b31c9",
       "quality": "validee",
-      "evidence": "docs/qa/lesson-visuals-batch50/README.md",
-      "reviewedAt": "2026-11-12T08:39:13.726Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:33.617Z"
     },
     {
       "path": "/sciences-fondamentales/physique/mecanique/pendule-mesure-temps",
@@ -6386,11 +6386,11 @@
     {
       "path": "/sciences-fondamentales/physique/mecanique/pourquoi-peserait-on-six-fois-moins-sur-la-lune-sans-perdre-un-gramme",
       "visualRefs": ["schema:moonweight"],
-      "fingerprint": "e432dfedbe226a3c8a70cef4547092193ef8e55df73b60703419ae9747d4d0aa",
+      "fingerprint": "9abed314528ffa00c5b979ee9c9c4343da74bc7b5642f63c33a1b222e426c961",
       "contentHash": "4651be28829c87014b4ffe3e301770132727bd92b91d5b2f5ac6671949396a98",
       "quality": "validee",
-      "evidence": "docs/qa/sciences30/README.md",
-      "reviewedAt": "2026-11-12T19:17:45.054Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:33.694Z"
     },
     {
       "path": "/sciences-fondamentales/physique/mecanique/pourquoi-un-bateau-en-acier-flotte-t-il",
@@ -6404,11 +6404,11 @@
     {
       "path": "/sciences-fondamentales/physique/mecanique/quelles-sont-les-quatre-forces-qui-gouvernent-tout-l-univers",
       "visualRefs": ["schema:detailInteractionsScale"],
-      "fingerprint": "f652f73eed082140fea27f09ef440abe1f7e20d2411e67fdaca343bfa34d18b9",
+      "fingerprint": "c22cc9d11782f18b81eec02dcc1f23cfd61844cfdbd3906e6efd55083b0196d8",
       "contentHash": "e2fb0dfdce4423cda67f6a92aba790829fa8f16f9ee6df49335cde9e575d287b",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-detaillees-2026-11-23/README.md",
-      "reviewedAt": "2026-11-23T13:11:30.033Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:33.738Z"
     },
     {
       "path": "/sciences-fondamentales/physique/physique-quantique/correction-derreurs-quantiques-willow",
@@ -6422,11 +6422,11 @@
     {
       "path": "/sciences-fondamentales/physique/physique-quantique/dualite-onde-corpuscule",
       "visualRefs": ["schema:particleWave"],
-      "fingerprint": "84d11130c123052f14f37b91f9d22cbefd504ce85c3415d467c04fbf3742717b",
+      "fingerprint": "30268230677850a786503be19245511732a3c546f9174c7b0bd7648a028d97ac",
       "contentHash": "fd024ec8025417c9c08fa50535125c5984a6b38cb78ce77125b85d32466a09a1",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-100-2026-11-22/README.md",
-      "reviewedAt": "2026-11-22T12:25:24.152Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:33.930Z"
     },
     {
       "path": "/sciences-fondamentales/physique/physique-quantique/pourquoi-la-lumiere-d-un-laser-est-elle-si-differente-de-celle-d-une-lampe",
@@ -6467,11 +6467,11 @@
     {
       "path": "/sciences-fondamentales/physique/thermodynamique/pourquoi-un-lac-gele-t-il-par-la-surface-plutot-que-par-le-fond",
       "visualRefs": ["schema:lakeice"],
-      "fingerprint": "4209184443283a75eb6e2404b5e805b2f6a39d573d8dd9fd3ad44e21bc76d0cd",
+      "fingerprint": "6923f749bce3e5d0be41a96a1c8677edb531cc719b0a7e927f7f269379a6ebe7",
       "contentHash": "593514ba41b20744f82381864f9ea34fe8d96a677fa569db032544eb4ad17579",
       "quality": "validee",
-      "evidence": "docs/qa/lesson-visuals-batch50/README.md",
-      "reviewedAt": "2026-11-12T08:39:13.748Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:33.984Z"
     },
     {
       "path": "/sciences-fondamentales/physique/thermodynamique/temperature-et-chaleur",
@@ -6494,11 +6494,11 @@
     {
       "path": "/sciences-fondamentales/sciences-de-la-terre/geologie/tectonique-des-plaques",
       "visualRefs": ["schema:tectonics"],
-      "fingerprint": "3e9f7d1b7afcbd1adb3f99608c60908f3c720b60f881248d0aed07539792beb6",
+      "fingerprint": "dd64ec33ac1212f9541c375f932b7753d13fc1d6b5b9954e7a2591ff16521fd5",
       "contentHash": "5dc21cb91481015baa0fcd5e42dc51c3ede09451734d8bad94529f2cd49124af",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:06.995Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:34.118Z"
     },
     {
       "path": "/sciences-fondamentales/sciences-de-la-terre/geologie/trouver-eau-souterraine",
@@ -6530,38 +6530,38 @@
     {
       "path": "/sciences-fondamentales/sciences-de-la-terre/oceanographie/courants-oceaniques-role-climatique",
       "visualRefs": ["schema:oceancirculation"],
-      "fingerprint": "f537c6a11655759b78de3b2a40040a5428cf71e22d6372bc2320092f45792cbd",
+      "fingerprint": "cd83c2c992f6c51d9ad0cf3bf772530a6f4fd4e8edcdcc1f9fbf37eb5e8a6341",
       "contentHash": "8a3c7af8f108336f30c5daf7488cfd50a38d9843781489aeba9fda455d9b2e66",
       "quality": "validee",
-      "evidence": "docs/qa/sciences30/README.md",
-      "reviewedAt": "2026-11-12T19:17:44.928Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:34.439Z"
     },
     {
       "path": "/sciences-fondamentales/sciences-de-la-terre/oceanographie/les-fosses-oceaniques-et-la-zone-hadale",
       "visualRefs": ["schema:oceanTrench"],
-      "fingerprint": "dde18c1adab4e615cb8070769a8e8c3300fb57ca2480266374a2bf654e63c9d8",
+      "fingerprint": "68953cee9998646e0c6f361d4fe4046f427a6c6ebb6aeda423065547c12e0081",
       "contentHash": "a045e95a9a5fc6fb3c2ee950bfcb2262b69d0582e2c9cc26f0ab1a32aad2663a",
       "quality": "validee",
-      "evidence": "docs/qa/illustrations-65-2026-11-20/README.md",
-      "reviewedAt": "2026-11-20T21:02:09.188Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:34.485Z"
     },
     {
       "path": "/sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes/pourquoi-certaines-sources-sortent-elles-du-sol-deja-chaudes",
       "visualRefs": ["schema:hotspring"],
-      "fingerprint": "b40de6d523959302aa85309ea0e0617e834823c6a028854483f83fe923fa7438",
+      "fingerprint": "9fea9527a86d005da349622fa0074e0e46f61ac2fc05a40166777311d3001875",
       "contentHash": "893145880e5e70ef109fdd9ba12cbc3938970d09d9a911b10d8b864818056360",
       "quality": "validee",
-      "evidence": "docs/qa/sciences30/README.md",
-      "reviewedAt": "2026-11-12T19:17:46.471Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:34.511Z"
     },
     {
       "path": "/sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes/volcans-et-tremblements-de-terre",
       "visualRefs": ["schema:tectonics"],
-      "fingerprint": "3e9f7d1b7afcbd1adb3f99608c60908f3c720b60f881248d0aed07539792beb6",
+      "fingerprint": "dd64ec33ac1212f9541c375f932b7753d13fc1d6b5b9954e7a2591ff16521fd5",
       "contentHash": "d2670f6308a6c975a7a94a166c25ee29f05c3cd6ceb7e8045885c88aa29fba41",
       "quality": "validee",
-      "evidence": "docs/qa/existing-drawings/README.md",
-      "reviewedAt": "2026-11-12T13:51:07.237Z"
+      "evidence": "docs/qa/refonte-cent/README.md",
+      "reviewedAt": "2026-11-27T20:14:34.586Z"
     },
     {
       "path": "/sciences-humaines-et-sociales/economie/inegalites-et-redistribution/inegalites-de-revenu-et-de-patrimoine",

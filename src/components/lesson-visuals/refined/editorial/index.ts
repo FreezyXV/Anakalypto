@@ -14,6 +14,16 @@ import { structures } from "./structures";
 import { habitats } from "./habitats";
 import { waterAndClay } from "./waterAndClay";
 
+import { computing } from "./computing";
+import { astronomyStudies } from "./astronomy";
+
+import { performingArts } from "./performingArts";
+import { craftArts } from "./craftArts";
+
+import { geography } from "./geography";
+import { physicsStudies } from "./physicsStudies";
+import { earthLab } from "./earthLab";
+
 export const editorialStudies: Readonly<Record<string, Study>> = {
   ...autoElectric,
   ...autoRoad,
@@ -25,4 +35,11 @@ export const editorialStudies: Readonly<Record<string, Study>> = {
   ...structures,
   ...habitats,
   ...waterAndClay,
+  ...computing,
+  ...astronomyStudies,
+  ...performingArts,
+  ...craftArts,
+  ...geography,
+  ...physicsStudies,
+  ...earthLab,
 };

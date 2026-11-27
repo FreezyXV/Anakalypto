@@ -1,0 +1,884 @@
+[
+  {
+    "key": "pixels",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-1.jpg",
+    "desktop": "captures/informatique-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-AFBD38EFE77C", "LEC-2D7FCB04BCC6"]
+  },
+  {
+    "key": "editionProgramLayers",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-1.jpg",
+    "desktop": "captures/informatique-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-566CC9052E4F"]
+  },
+  {
+    "key": "bootchain",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-1.jpg",
+    "desktop": "captures/informatique-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-A0222EB4E75C"]
+  },
+  {
+    "key": "detailArchivedComputer",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-1.jpg",
+    "desktop": "captures/informatique-1280-1.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-7333BDCCDFDD"]
+  },
+  {
+    "key": "digitalArchives",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-1.jpg",
+    "desktop": "captures/informatique-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-D052E4D61F5C"]
+  },
+  {
+    "key": "ssdanddisk",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-1.jpg",
+    "desktop": "captures/informatique-1280-1.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-38E8C4499D9D"]
+  },
+  {
+    "key": "memoryStorage",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-1.jpg",
+    "desktop": "captures/informatique-1280-1.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-7283760E359C"]
+  },
+  {
+    "key": "capacitivetouch",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-1.jpg",
+    "desktop": "captures/informatique-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-F22835C08DE1"]
+  },
+  {
+    "key": "inkjetdrops",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-1.jpg",
+    "desktop": "captures/informatique-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-B9264712CAFA"]
+  },
+  {
+    "key": "euvMirrors",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-1.jpg",
+    "desktop": "captures/informatique-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-824304D1169C"]
+  },
+  {
+    "key": "graphicParallel",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-1.jpg",
+    "desktop": "captures/informatique-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-DF4F130C272D"]
+  },
+  {
+    "key": "superconductingQubit",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-1.jpg",
+    "desktop": "captures/informatique-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-7659AA58CC8B"]
+  },
+  {
+    "key": "transistorgate",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-2.jpg",
+    "desktop": "captures/informatique-1280-2.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-7DE9484E98C2"]
+  },
+  {
+    "key": "chipFabrication",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-2.jpg",
+    "desktop": "captures/informatique-1280-2.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-645BE456E0BF"]
+  },
+  {
+    "key": "detailGateThickness",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-2.jpg",
+    "desktop": "captures/informatique-1280-2.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-560A69FAA3DB"]
+  },
+  {
+    "key": "cpucooling",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-2.jpg",
+    "desktop": "captures/informatique-1280-2.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-66EEF3BF0B3F"]
+  },
+  {
+    "key": "editionChipSupplyMap",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-2.jpg",
+    "desktop": "captures/informatique-1280-2.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-C783D12F1989"]
+  },
+  {
+    "key": "satelliteBackhaul",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-2.jpg",
+    "desktop": "captures/informatique-1280-2.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-01642675A789"]
+  },
+  {
+    "key": "subseacable",
+    "group": "Informatique",
+    "mobile": "captures/informatique-320-2.jpg",
+    "desktop": "captures/informatique-1280-2.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-8A6E5716813C"]
+  },
+  {
+    "key": "interferometer",
+    "group": "Espace",
+    "mobile": "captures/espace-320-1.jpg",
+    "desktop": "captures/espace-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-BCE437F4AED9"]
+  },
+  {
+    "key": "aurora",
+    "group": "Espace",
+    "mobile": "captures/espace-320-1.jpg",
+    "desktop": "captures/espace-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-7D9F323974D2"]
+  },
+  {
+    "key": "starlife",
+    "group": "Espace",
+    "mobile": "captures/espace-320-1.jpg",
+    "desktop": "captures/espace-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-201E30E32677"]
+  },
+  {
+    "key": "blackhole",
+    "group": "Espace",
+    "mobile": "captures/espace-320-1.jpg",
+    "desktop": "captures/espace-1280-1.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-27E4C6FD1905"]
+  },
+  {
+    "key": "heliosphere",
+    "group": "Espace",
+    "mobile": "captures/espace-320-1.jpg",
+    "desktop": "captures/espace-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-BC3F3689382F"]
+  },
+  {
+    "key": "webb",
+    "group": "Espace",
+    "mobile": "captures/espace-320-1.jpg",
+    "desktop": "captures/espace-1280-1.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-9BDE87B5F82F"]
+  },
+  {
+    "key": "moonflight",
+    "group": "Espace",
+    "mobile": "captures/espace-320-1.jpg",
+    "desktop": "captures/espace-1280-1.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-FA93248B1261"]
+  },
+  {
+    "key": "isslife",
+    "group": "Espace",
+    "mobile": "captures/espace-320-1.jpg",
+    "desktop": "captures/espace-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-8678A466AA24"]
+  },
+  {
+    "key": "readaptation",
+    "group": "Espace",
+    "mobile": "captures/espace-320-1.jpg",
+    "desktop": "captures/espace-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-1C3134C17E90"]
+  },
+  {
+    "key": "infrared",
+    "group": "Espace",
+    "mobile": "captures/espace-320-1.jpg",
+    "desktop": "captures/espace-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-D1F274D4649C"]
+  },
+  {
+    "key": "smallbodies",
+    "group": "Espace",
+    "mobile": "captures/espace-320-1.jpg",
+    "desktop": "captures/espace-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-506D5478104A"]
+  },
+  {
+    "key": "comet",
+    "group": "Espace",
+    "mobile": "captures/espace-320-1.jpg",
+    "desktop": "captures/espace-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-0097C5EFE55B"]
+  },
+  {
+    "key": "fluteair",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-2912B100D0AF"]
+  },
+  {
+    "key": "pitchfork",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-EE0399309268"]
+  },
+  {
+    "key": "operaStage",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-67B0D253E10F"]
+  },
+  {
+    "key": "shadowstage",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-C138E40A8951"]
+  },
+  {
+    "key": "balletPose",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-F6478DCE1E67"]
+  },
+  {
+    "key": "stageChorus",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-BD4259C7CA75"]
+  },
+  {
+    "key": "leadtype",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-0A9070E203DF"]
+  },
+  {
+    "key": "engraving",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-E8B58BA328EB"]
+  },
+  {
+    "key": "letterForms",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-2CBDAA42FE74"]
+  },
+  {
+    "key": "pigmentbinder",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-35F7ABD77EBF"]
+  },
+  {
+    "key": "paintingAuction",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-DD6C127313B7"]
+  },
+  {
+    "key": "syncsound",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-85C0925E7820"]
+  },
+  {
+    "key": "earlyCinema",
+    "group": "Arts",
+    "mobile": "captures/arts-320-2.jpg",
+    "desktop": "captures/arts-1280-2.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-97D96F55D39D"]
+  },
+  {
+    "key": "novelReaders",
+    "group": "Arts",
+    "mobile": "captures/arts-320-2.jpg",
+    "desktop": "captures/arts-1280-2.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-89AB300B1BFA"]
+  },
+  {
+    "key": "papyrussheet",
+    "group": "Arts",
+    "mobile": "captures/arts-320-2.jpg",
+    "desktop": "captures/arts-1280-2.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-BF0D9C1CC3DD"]
+  },
+  {
+    "key": "inkTools",
+    "group": "Arts",
+    "mobile": "captures/arts-320-2.jpg",
+    "desktop": "captures/arts-1280-2.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-C6384D81D6B1"]
+  },
+  {
+    "key": "paperfibres",
+    "group": "Arts",
+    "mobile": "captures/arts-320-2.jpg",
+    "desktop": "captures/arts-1280-2.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-C94A4ED4EA09"]
+  },
+  {
+    "key": "printing",
+    "group": "Arts",
+    "mobile": "captures/arts-320-2.jpg",
+    "desktop": "captures/arts-1280-2.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-41D6FCE26309"]
+  },
+  {
+    "key": "vernacularHouse",
+    "group": "Arts",
+    "mobile": "captures/arts-320-2.jpg",
+    "desktop": "captures/arts-1280-2.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-87A24594C2C7"]
+  },
+  {
+    "key": "gothicvault",
+    "group": "Arts",
+    "mobile": "captures/arts-320-2.jpg",
+    "desktop": "captures/arts-1280-2.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-58AF670F6257"]
+  },
+  {
+    "key": "towerWind",
+    "group": "Arts",
+    "mobile": "captures/arts-320-2.jpg",
+    "desktop": "captures/arts-1280-2.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-3DBC941D2DC2"]
+  },
+  {
+    "key": "capitals",
+    "group": "Arts",
+    "mobile": "captures/arts-320-2.jpg",
+    "desktop": "captures/arts-1280-2.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-49870EA70E08"]
+  },
+  {
+    "key": "archivesClimate",
+    "group": "Arts",
+    "mobile": "captures/arts-320-2.jpg",
+    "desktop": "captures/arts-1280-2.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-674EF3E46931"]
+  },
+  {
+    "key": "artRestoration",
+    "group": "Arts",
+    "mobile": "captures/arts-320-2.jpg",
+    "desktop": "captures/arts-1280-2.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-671435110C25"]
+  },
+  {
+    "key": "diglayers",
+    "group": "Arts",
+    "mobile": "captures/arts-320-3.jpg",
+    "desktop": "captures/arts-1280-3.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-CFAE218AC7F1"]
+  },
+  {
+    "key": "tapestryLoom",
+    "group": "Arts",
+    "mobile": "captures/arts-320-3.jpg",
+    "desktop": "captures/arts-1280-3.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-C6E49D88767D"]
+  },
+  {
+    "key": "migrationStock",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-1.jpg",
+    "desktop": "captures/geographie-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-134EBA83577F"]
+  },
+  {
+    "key": "crowdedCoast",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-1.jpg",
+    "desktop": "captures/geographie-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-7541C10D2DBA"]
+  },
+  {
+    "key": "cityWaste",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-1.jpg",
+    "desktop": "captures/geographie-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-9A64E7A09F65"]
+  },
+  {
+    "key": "detailVillageServices",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-1.jpg",
+    "desktop": "captures/geographie-1280-1.jpg",
+    "position": 4,
+    "states": 4,
+    "refs": ["LEC-EC10B4112D84"]
+  },
+  {
+    "key": "cityGrowth",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-1.jpg",
+    "desktop": "captures/geographie-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-EB7119BA1527"]
+  },
+  {
+    "key": "detailSeasonalBeds",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-1.jpg",
+    "desktop": "captures/geographie-1280-1.jpg",
+    "position": 6,
+    "states": 4,
+    "refs": ["LEC-1E107DC95DE9"]
+  },
+  {
+    "key": "cloudtypes",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-1.jpg",
+    "desktop": "captures/geographie-1280-1.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-8EFA7FDFF634"]
+  },
+  {
+    "key": "monsoonwind",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-1.jpg",
+    "desktop": "captures/geographie-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-5A3184CC6A96"]
+  },
+  {
+    "key": "pressureair",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-1.jpg",
+    "desktop": "captures/geographie-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-22450D29A0D0"]
+  },
+  {
+    "key": "timezone",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-1.jpg",
+    "desktop": "captures/geographie-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-D1C2A218EF7C"]
+  },
+  {
+    "key": "detailFutureClouds",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-1.jpg",
+    "desktop": "captures/geographie-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-7544E84CCEDE"]
+  },
+  {
+    "key": "waterjourney",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-1.jpg",
+    "desktop": "captures/geographie-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-62F05D5DCBE6"]
+  },
+  {
+    "key": "riverdelta",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-2.jpg",
+    "desktop": "captures/geographie-1280-2.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-62E3A1FA99C6"]
+  },
+  {
+    "key": "watershedridge",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-2.jpg",
+    "desktop": "captures/geographie-1280-2.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-5D24CFD8F1C2"]
+  },
+  {
+    "key": "rainshadow",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-2.jpg",
+    "desktop": "captures/geographie-1280-2.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-3C7AB436EE83"]
+  },
+  {
+    "key": "overseasScale",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-2.jpg",
+    "desktop": "captures/geographie-1280-2.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-EEA18D43942B"]
+  },
+  {
+    "key": "terracefield",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-2.jpg",
+    "desktop": "captures/geographie-1280-2.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-7B30C11FE168"]
+  },
+  {
+    "key": "mountainfold",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-2.jpg",
+    "desktop": "captures/geographie-1280-2.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-69B31FC3FEFE"]
+  },
+  {
+    "key": "dryDesert",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-2.jpg",
+    "desktop": "captures/geographie-1280-2.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-EA7B7089BA22"]
+  },
+  {
+    "key": "sandGrains",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-2.jpg",
+    "desktop": "captures/geographie-1280-2.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-798D98155C23"]
+  },
+  {
+    "key": "territoryAssets",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-2.jpg",
+    "desktop": "captures/geographie-1280-2.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-90C0EE28375F"]
+  },
+  {
+    "key": "seaPassage",
+    "group": "Géographie",
+    "mobile": "captures/geographie-320-2.jpg",
+    "desktop": "captures/geographie-1280-2.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-D9BB1EC1EBC4"]
+  },
+  {
+    "key": "foodweb",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-1.jpg",
+    "desktop": "captures/sciences-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-482C9F4AF9C4"]
+  },
+  {
+    "key": "detailAbyssPressure",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-1.jpg",
+    "desktop": "captures/sciences-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-2179723E6331"]
+  },
+  {
+    "key": "distillation",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-1.jpg",
+    "desktop": "captures/sciences-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-2BA57D6D817C"]
+  },
+  {
+    "key": "maillardfood",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-1.jpg",
+    "desktop": "captures/sciences-1280-1.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-5062405EAFEF"]
+  },
+  {
+    "key": "algebrabalance",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-1.jpg",
+    "desktop": "captures/sciences-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-2FCF3D8925A3"]
+  },
+  {
+    "key": "eratosthenes",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-1.jpg",
+    "desktop": "captures/sciences-1280-1.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-AFE4313B5782"]
+  },
+  {
+    "key": "microwavefood",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-1.jpg",
+    "desktop": "captures/sciences-1280-1.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-986113EC21DD"]
+  },
+  {
+    "key": "induction",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-1.jpg",
+    "desktop": "captures/sciences-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-1CC8DA9C87FB"]
+  },
+  {
+    "key": "electricMagnetic",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-1.jpg",
+    "desktop": "captures/sciences-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-D3F721AD3555"]
+  },
+  {
+    "key": "transformercoil",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-1.jpg",
+    "desktop": "captures/sciences-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-33EB12F4F5DC"]
+  },
+  {
+    "key": "newtonmotion",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-1.jpg",
+    "desktop": "captures/sciences-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-CD94769882CF"]
+  },
+  {
+    "key": "moonweight",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-1.jpg",
+    "desktop": "captures/sciences-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-FB0B988C368B"]
+  },
+  {
+    "key": "detailInteractionsScale",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-2.jpg",
+    "desktop": "captures/sciences-1280-2.jpg",
+    "position": 1,
+    "states": 4,
+    "refs": ["LEC-B79236AAB569"]
+  },
+  {
+    "key": "particleWave",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-2.jpg",
+    "desktop": "captures/sciences-1280-2.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-E61BA6BE9A40"]
+  },
+  {
+    "key": "lakeice",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-2.jpg",
+    "desktop": "captures/sciences-1280-2.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-921E17C91667"]
+  },
+  {
+    "key": "tectonics",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-2.jpg",
+    "desktop": "captures/sciences-1280-2.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-298D1EED0918", "LEC-BF3771F937AA"]
+  },
+  {
+    "key": "oceancirculation",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-2.jpg",
+    "desktop": "captures/sciences-1280-2.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-E12CAA472289"]
+  },
+  {
+    "key": "oceanTrench",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-2.jpg",
+    "desktop": "captures/sciences-1280-2.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-151346749D2C"]
+  },
+  {
+    "key": "hotspring",
+    "group": "Sciences fondamentales",
+    "mobile": "captures/sciences-320-2.jpg",
+    "desktop": "captures/sciences-1280-2.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-2B67D7914614"]
+  }
+]
