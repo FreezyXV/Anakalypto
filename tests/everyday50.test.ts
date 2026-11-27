@@ -10,7 +10,7 @@ import { LESSON_DIAGRAMS, getLessonDiagram } from "../src/lib/lesson-visuals/reg
 import { canonicalSvg } from "./fixtures/canonicalSvg";
 
 function frames(spec: (typeof LESSON_DIAGRAMS)[number]) {
-  return [0, 1, 2].map((step) =>
+  return spec.steps.map((_, step) =>
     renderToStaticMarkup(createElement(LessonDiagramCanvas, { spec, step })),
   );
 }
@@ -61,8 +61,8 @@ it("preserves the historical layouts of 345 drawings with documented revisions",
   }
 });
 
-it("matches the audited revision of each reviewed diagram in all three states", () => {
-  expect(Object.keys(reviewedDiagramHashes)).toHaveLength(48);
+it("matches the audited revision of every state in each reviewed diagram", () => {
+  expect(Object.keys(reviewedDiagramHashes)).toHaveLength(162);
   for (const [id, hashes] of Object.entries(reviewedDiagramHashes)) {
     const spec = LESSON_DIAGRAMS.find((diagram) => diagram.id === id);
     expect(spec, id).toBeDefined();

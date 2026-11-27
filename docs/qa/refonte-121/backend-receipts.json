@@ -1,0 +1,728 @@
+[
+  {
+    "key": "movingAssembly",
+    "path": "/automobile/industrie-automobile/production/comment-la-chaine-de-montage-de-ford-a-t-elle-change-la-fabrication-des-voitures",
+    "status": "READY",
+    "visualRefs": ["schema:movingAssembly"]
+  },
+  {
+    "key": "carMaterials",
+    "path": "/automobile/industrie-automobile/production/materiaux-automobile-acier-aluminium-composites",
+    "status": "READY",
+    "visualRefs": ["schema:carMaterials"]
+  },
+  {
+    "key": "sharedPlatform",
+    "path": "/automobile/industrie-automobile/production/plateformes-modulaires-et-standardisation",
+    "status": "READY",
+    "visualRefs": ["schema:sharedPlatform"]
+  },
+  {
+    "key": "detailInspectionBench",
+    "path": "/automobile/industrie-automobile/reglementation-automobile/controle-technique-securite-pollution",
+    "status": "READY",
+    "visualRefs": ["schema:detailInspectionBench"]
+  },
+  {
+    "key": "detailAbrasionSources",
+    "path": "/automobile/industrie-automobile/reglementation-automobile/pourquoi-la-norme-euro-7-s-interesse-t-elle-aussi-aux-freins-et-aux-pneus",
+    "status": "READY",
+    "visualRefs": ["schema:detailAbrasionSources"]
+  },
+  {
+    "key": "editionOilToFuel",
+    "path": "/automobile/motorisations/carburants-alternatifs/comment-transforme-t-on-de-l-huile-de-friture-usagee-en-carburant",
+    "status": "READY",
+    "visualRefs": ["schema:editionOilToFuel"]
+  },
+  {
+    "key": "detailHotCellPack",
+    "path": "/automobile/motorisations/electrique/emballement-thermique-batterie-electrique",
+    "status": "READY",
+    "visualRefs": ["schema:detailHotCellPack"]
+  },
+  {
+    "key": "motorMagnets",
+    "path": "/automobile/motorisations/electrique/pourquoi-les-moteurs-de-voitures-electriques-ont-ils-besoin-de-terres-rares",
+    "status": "READY",
+    "visualRefs": ["schema:motorMagnets"]
+  },
+  {
+    "key": "dcfastcharge",
+    "path": "/automobile/motorisations/electrique/pourquoi-une-borne-de-recharge-rapide-charge-t-elle-une-voiture-electrique-bien-plus-vite",
+    "status": "READY",
+    "visualRefs": ["schema:dcfastcharge"]
+  },
+  {
+    "key": "vehicleGrid",
+    "path": "/automobile/motorisations/electrique/recharge-bidirectionnelle-vehicule-reseau",
+    "status": "READY",
+    "visualRefs": ["schema:vehicleGrid"]
+  },
+  {
+    "key": "evPower",
+    "path": "/automobile/motorisations/electrique/voiture-electrique",
+    "status": "READY",
+    "visualRefs": ["schema:evPower"]
+  },
+  {
+    "key": "regenbrake",
+    "path": "/automobile/motorisations/motorisations-hybrides/comment-une-voiture-electrique-recupere-t-elle-de-l-energie-en-freinant",
+    "status": "READY",
+    "visualRefs": ["schema:regenbrake"]
+  },
+  {
+    "key": "mildhybrid",
+    "path": "/automobile/motorisations/motorisations-hybrides/comment-une-voiture-hybride-legere-aide-t-elle-son-moteur-a-essence",
+    "status": "READY",
+    "visualRefs": ["schema:mildhybrid"]
+  },
+  {
+    "key": "hybridPower",
+    "path": "/automobile/motorisations/motorisations-hybrides/motorisations-hybrides-architectures",
+    "status": "READY",
+    "visualRefs": ["schema:hybridPower"]
+  },
+  {
+    "key": "injectorjet",
+    "path": "/automobile/motorisations/thermique/alimentation-carburant-injection",
+    "status": "READY",
+    "visualRefs": ["schema:injectorjet"]
+  },
+  {
+    "key": "engineFeedback",
+    "path": "/automobile/motorisations/thermique/calculateur-moteur-capteurs",
+    "status": "READY",
+    "visualRefs": ["schema:engineFeedback"]
+  },
+  {
+    "key": "dieselignition",
+    "path": "/automobile/motorisations/thermique/comment-un-moteur-diesel-s-allume-t-il-sans-bougie-d-allumage",
+    "status": "READY",
+    "visualRefs": ["schema:dieselignition"]
+  },
+  {
+    "key": "valveTiming",
+    "path": "/automobile/motorisations/thermique/distribution-variable-turbocompresseur",
+    "status": "READY",
+    "visualRefs": ["schema:valveTiming"]
+  },
+  {
+    "key": "exhaustclean",
+    "path": "/automobile/motorisations/thermique/filtre-particules-catalyseur",
+    "status": "READY",
+    "visualRefs": ["schema:exhaustclean"]
+  },
+  {
+    "key": "intercoolerair",
+    "path": "/automobile/motorisations/thermique/intercooler-circuit-admission",
+    "status": "READY",
+    "visualRefs": ["schema:intercoolerair"]
+  },
+  {
+    "key": "sparkCoil",
+    "path": "/automobile/motorisations/thermique/le-systeme-d-allumage-electronique-moderne",
+    "status": "READY",
+    "visualRefs": ["schema:sparkCoil"]
+  },
+  {
+    "key": "detailDieselFilters",
+    "path": "/automobile/motorisations/thermique/le-systeme-de-depollution-des-moteurs-diesel-adblue",
+    "status": "READY",
+    "visualRefs": ["schema:detailDieselFilters"]
+  },
+  {
+    "key": "enginePumps",
+    "path": "/automobile/motorisations/thermique/pompes-voiture-thermique",
+    "status": "READY",
+    "visualRefs": ["schema:enginePumps"]
+  },
+  {
+    "key": "enginecoolant",
+    "path": "/automobile/motorisations/thermique/refroidissement-moteur-thermique",
+    "status": "READY",
+    "visualRefs": ["schema:enginecoolant"]
+  },
+  {
+    "key": "egrloop",
+    "path": "/automobile/motorisations/thermique/vanne-egr-recirculation-gaz-echappement",
+    "status": "READY",
+    "visualRefs": ["schema:egrloop"]
+  },
+  {
+    "key": "driverSensors",
+    "path": "/automobile/securite-et-conduite/aides-a-la-conduite/capteurs-adas-radar-camera-lidar",
+    "status": "READY",
+    "visualRefs": ["schema:driverSensors"]
+  },
+  {
+    "key": "abscontrol",
+    "path": "/automobile/securite-et-conduite/aides-a-la-conduite/comment-l-abs-permet-il-de-tourner-le-volant-en-freinant-a-fond",
+    "status": "READY",
+    "visualRefs": ["schema:abscontrol"]
+  },
+  {
+    "key": "yawControl",
+    "path": "/automobile/securite-et-conduite/aides-a-la-conduite/comment-l-esp-empeche-t-il-une-voiture-de-partir-en-tete-a-queue",
+    "status": "READY",
+    "visualRefs": ["schema:yawControl"]
+  },
+  {
+    "key": "emergencyBrake",
+    "path": "/automobile/securite-et-conduite/aides-a-la-conduite/freinage-durgence-automatique",
+    "status": "READY",
+    "visualRefs": ["schema:emergencyBrake"]
+  },
+  {
+    "key": "carCooling",
+    "path": "/automobile/usages-et-mobilite/chauffage-climatisation-consommation-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:carCooling"]
+  },
+  {
+    "key": "startingCircuit",
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/circuit-electrique-12v-batterie-alternateur-demarreur",
+    "status": "READY",
+    "visualRefs": ["schema:startingCircuit"]
+  },
+  {
+    "key": "engineoil",
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/huile-moteur-lubrification",
+    "status": "READY",
+    "visualRefs": ["schema:engineoil"]
+  },
+  {
+    "key": "cogeneration",
+    "path": "/energie/efficacite-et-sobriete/efficacite-energetique/cogeneration",
+    "status": "READY",
+    "visualRefs": ["schema:cogeneration"]
+  },
+  {
+    "key": "heatpump",
+    "path": "/energie/efficacite-et-sobriete/efficacite-energetique/comment-une-pompe-a-chaleur-chauffe-t-elle-avec-l-air-froid-du-dehors",
+    "status": "READY",
+    "visualRefs": ["schema:heatpump"]
+  },
+  {
+    "key": "insulation",
+    "path": "/energie/efficacite-et-sobriete/efficacite-energetique/isoler-batiment",
+    "status": "READY",
+    "visualRefs": ["schema:insulation"]
+  },
+  {
+    "key": "thermalmass",
+    "path": "/energie/efficacite-et-sobriete/efficacite-energetique/pourquoi-une-maison-aux-murs-epais-de-pierre-ou-de-terre-reste-t-elle-fraiche-en-ete",
+    "status": "READY",
+    "visualRefs": ["schema:thermalmass"]
+  },
+  {
+    "key": "firewood",
+    "path": "/energie/efficacite-et-sobriete/usages-et-consommation/bois-chauffage",
+    "status": "READY",
+    "visualRefs": ["schema:firewood"]
+  },
+  {
+    "key": "isolatedHome",
+    "path": "/energie/efficacite-et-sobriete/usages-et-consommation/maison-autonome-independante",
+    "status": "READY",
+    "visualRefs": ["schema:isolatedHome"]
+  },
+  {
+    "key": "householdEnergy",
+    "path": "/energie/efficacite-et-sobriete/usages-et-consommation/ou-part-lenergie-dun-menage",
+    "status": "READY",
+    "visualRefs": ["schema:householdEnergy"]
+  },
+  {
+    "key": "standby",
+    "path": "/energie/efficacite-et-sobriete/usages-et-consommation/pourquoi-un-appareil-en-veille-consomme-t-il-encore-de-l-electricite",
+    "status": "READY",
+    "visualRefs": ["schema:standby"]
+  },
+  {
+    "key": "pyrolysis",
+    "path": "/energie/energies-fossiles-et-nucleaire/charbon/charbon-bois",
+    "status": "READY",
+    "visualRefs": ["schema:pyrolysis"]
+  },
+  {
+    "key": "steamengine",
+    "path": "/energie/energies-fossiles-et-nucleaire/charbon/machine-vapeur",
+    "status": "READY",
+    "visualRefs": ["schema:steamengine"]
+  },
+  {
+    "key": "biogasdigester",
+    "path": "/energie/energies-fossiles-et-nucleaire/hydrocarbures/biogaz-gaz-sans-gisement",
+    "status": "READY",
+    "visualRefs": ["schema:biogasdigester"]
+  },
+  {
+    "key": "refinery",
+    "path": "/energie/energies-fossiles-et-nucleaire/hydrocarbures/raffinage-du-petrole",
+    "status": "READY",
+    "visualRefs": ["schema:refinery"]
+  },
+  {
+    "key": "wind",
+    "path": "/energie/energies-renouvelables/eolien/comment-fonctionne-une-eolienne",
+    "status": "READY",
+    "visualRefs": ["schema:wind"]
+  },
+  {
+    "key": "detailRotorInduction",
+    "path": "/energie/energies-renouvelables/eolien/construire-petite-eolienne",
+    "status": "READY",
+    "visualRefs": ["schema:detailRotorInduction"]
+  },
+  {
+    "key": "windmill",
+    "path": "/energie/energies-renouvelables/eolien/moulins-vent",
+    "status": "READY",
+    "visualRefs": ["schema:windmill"]
+  },
+  {
+    "key": "wind",
+    "path": "/energie/energies-renouvelables/eolien/record-mondial-installations-eoliennes-2024",
+    "status": "READY",
+    "visualRefs": ["schema:wind"]
+  },
+  {
+    "key": "geoloop",
+    "path": "/energie/energies-renouvelables/geothermie-chaleur-de-la-terre",
+    "status": "READY",
+    "visualRefs": ["schema:geoloop"]
+  },
+  {
+    "key": "hydro",
+    "path": "/energie/energies-renouvelables/hydraulique/comment-un-barrage-transforme-t-il-l-eau-d-une-riviere-en-electricite",
+    "status": "READY",
+    "visualRefs": ["schema:hydro"]
+  },
+  {
+    "key": "pumpedstorage",
+    "path": "/energie/energies-renouvelables/hydraulique/hydroelectricite-et-stockage-par-pompage",
+    "status": "READY",
+    "visualRefs": ["schema:pumpedstorage"]
+  },
+  {
+    "key": "tidalturbine",
+    "path": "/energie/energies-renouvelables/hydraulique/les-hydroliennes-l-eolien-sous-marin",
+    "status": "READY",
+    "visualRefs": ["schema:tidalturbine"]
+  },
+  {
+    "key": "hydro",
+    "path": "/energie/energies-renouvelables/hydraulique/microcentrale-hydroelectrique",
+    "status": "READY",
+    "visualRefs": ["schema:hydro"]
+  },
+  {
+    "key": "watermill",
+    "path": "/energie/energies-renouvelables/hydraulique/moulin-eau",
+    "status": "READY",
+    "visualRefs": ["schema:watermill"]
+  },
+  {
+    "key": "solaroven",
+    "path": "/energie/energies-renouvelables/solaire/four-chauffe-eau-solaires",
+    "status": "READY",
+    "visualRefs": ["schema:solaroven"]
+  },
+  {
+    "key": "offgridsolar",
+    "path": "/energie/energies-renouvelables/solaire/installation-solaire-autonome",
+    "status": "READY",
+    "visualRefs": ["schema:offgridsolar"]
+  },
+  {
+    "key": "agrivoltaic",
+    "path": "/energie/energies-renouvelables/solaire/peut-on-produire-de-l-electricite-et-des-cultures-sur-le-meme-champ",
+    "status": "READY",
+    "visualRefs": ["schema:agrivoltaic"]
+  },
+  {
+    "key": "csp",
+    "path": "/energie/energies-renouvelables/solaire/solaire-thermique-et-concentration",
+    "status": "READY",
+    "visualRefs": ["schema:csp"]
+  },
+  {
+    "key": "compressedair",
+    "path": "/energie/reseaux-et-stockage/batteries/comment-stocker-de-l-electricite-dans-de-l-air-comprime",
+    "status": "READY",
+    "visualRefs": ["schema:compressedair"]
+  },
+  {
+    "key": "flowbattery",
+    "path": "/energie/reseaux-et-stockage/batteries/comment-une-batterie-peut-elle-stocker-de-l-energie-dans-des-reservoirs-de-liquide",
+    "status": "READY",
+    "visualRefs": ["schema:flowbattery"]
+  },
+  {
+    "key": "voltapile",
+    "path": "/energie/reseaux-et-stockage/batteries/comment-volta-a-t-il-invente-la-premiere-pile-electrique",
+    "status": "READY",
+    "visualRefs": ["schema:voltapile"]
+  },
+  {
+    "key": "lfpCell",
+    "path": "/energie/reseaux-et-stockage/batteries/la-chimie-lfp-lithium-fer-phosphate-plus-stable-et-moins-chere",
+    "status": "READY",
+    "visualRefs": ["schema:lfpCell"]
+  },
+  {
+    "key": "floatglass",
+    "path": "/industries/industrie-lourde/chimie-industrielle/la-fabrication-du-verre-procede-de-base",
+    "status": "READY",
+    "visualRefs": ["schema:floatglass"]
+  },
+  {
+    "key": "steelroutes",
+    "path": "/industries/industrie-lourde/siderurgie/comment-fabrique-t-on-de-l-acier-avec-un-haut-fourneau-ou-un-four-electrique",
+    "status": "READY",
+    "visualRefs": ["schema:steelroutes"]
+  },
+  {
+    "key": "anvilforge",
+    "path": "/industries/industrie-lourde/siderurgie/forge-travail-fer",
+    "status": "READY",
+    "visualRefs": ["schema:anvilforge"]
+  },
+  {
+    "key": "ironReduction",
+    "path": "/industries/industrie-lourde/siderurgie/lacier-bas-carbone-reduction-directe-hydrogene",
+    "status": "READY",
+    "visualRefs": ["schema:ironReduction"]
+  },
+  {
+    "key": "bloomFurnace",
+    "path": "/industries/industrie-lourde/siderurgie/minerai-fer-bas-fourneau",
+    "status": "READY",
+    "visualRefs": ["schema:bloomFurnace"]
+  },
+  {
+    "key": "ironCarbon",
+    "path": "/industries/industrie-lourde/siderurgie/pourquoi-la-fonte-le-fer-et-l-acier-ne-se-comportent-ils-pas-de-la-meme-facon",
+    "status": "READY",
+    "visualRefs": ["schema:ironCarbon"]
+  },
+  {
+    "key": "steeltemper",
+    "path": "/industries/industrie-lourde/siderurgie/trempe-revenu",
+    "status": "READY",
+    "visualRefs": ["schema:steeltemper"]
+  },
+  {
+    "key": "factoryArm",
+    "path": "/industries/industrie-manufacturiere/automatisation/automatisation-industrielle-robotique-production",
+    "status": "READY",
+    "visualRefs": ["schema:factoryArm"]
+  },
+  {
+    "key": "factoryNavigation",
+    "path": "/industries/industrie-manufacturiere/automatisation/comment-des-chariots-sans-conducteur-trouvent-ils-leur-chemin-dans-une-usine",
+    "status": "READY",
+    "visualRefs": ["schema:factoryNavigation"]
+  },
+  {
+    "key": "visionreject",
+    "path": "/industries/industrie-manufacturiere/automatisation/comment-une-camera-repere-t-elle-une-piece-defectueuse-sur-une-chaine-de-production",
+    "status": "READY",
+    "visualRefs": ["schema:visionreject"]
+  },
+  {
+    "key": "coldlogistics",
+    "path": "/industries/industrie-manufacturiere/chaine-logistique/comment-la-chaine-du-froid-garde-t-elle-les-aliments-frais-pendant-leur-voyage",
+    "status": "READY",
+    "visualRefs": ["schema:coldlogistics"]
+  },
+  {
+    "key": "barcode",
+    "path": "/industries/industrie-manufacturiere/chaine-logistique/comment-une-caisse-lit-elle-un-code-barres",
+    "status": "READY",
+    "visualRefs": ["schema:barcode"]
+  },
+  {
+    "key": "intermodal",
+    "path": "/industries/industrie-manufacturiere/chaine-logistique/comment-une-simple-boite-en-acier-a-t-elle-change-la-facon-dont-voyagent-les-objets",
+    "status": "READY",
+    "visualRefs": ["schema:intermodal"]
+  },
+  {
+    "key": "fabPrototype",
+    "path": "/industries/industrie-manufacturiere/chaine-logistique/qu-est-ce-qu-un-fab-lab-et-que-peut-on-y-fabriquer",
+    "status": "READY",
+    "visualRefs": ["schema:fabPrototype"]
+  },
+  {
+    "key": "warehouseFlow",
+    "path": "/industries/industrie-manufacturiere/chaine-logistique/stocker-conserver-marchandises",
+    "status": "READY",
+    "visualRefs": ["schema:warehouseFlow"]
+  },
+  {
+    "key": "threadFit",
+    "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/normalisation-et-controle-qualite",
+    "status": "READY",
+    "visualRefs": ["schema:threadFit"]
+  },
+  {
+    "key": "interchangefit",
+    "path": "/industries/industrie-manufacturiere/qualite-et-normalisation/pourquoi-les-pieces-interchangeables-ont-elles-change-la-fabrication-des-objets",
+    "status": "READY",
+    "visualRefs": ["schema:interchangefit"]
+  },
+  {
+    "key": "compositeply",
+    "path": "/industries/materiaux-et-procedes/composites-et-polymeres/composites-et-materiaux-combines",
+    "status": "READY",
+    "visualRefs": ["schema:compositeply"]
+  },
+  {
+    "key": "lathemill",
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/comment-un-tour-et-une-fraiseuse-taillent-ils-une-piece-dans-un-bloc-de-metal",
+    "status": "READY",
+    "visualRefs": ["schema:lathemill"]
+  },
+  {
+    "key": "printlayers",
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/comment-une-imprimante-3d-peut-elle-fabriquer-une-piece-detachee-sur-place",
+    "status": "READY",
+    "visualRefs": ["schema:printlayers"]
+  },
+  {
+    "key": "weaveloom",
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/filer-tisser",
+    "status": "READY",
+    "visualRefs": ["schema:weaveloom"]
+  },
+  {
+    "key": "foundrycast",
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/fonderie",
+    "status": "READY",
+    "visualRefs": ["schema:foundrycast"]
+  },
+  {
+    "key": "materialForming",
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/mise-en-forme-des-materiaux",
+    "status": "READY",
+    "visualRefs": ["schema:materialForming"]
+  },
+  {
+    "key": "weldjoint",
+    "path": "/industries/materiaux-et-procedes/mise-en-forme/soudage",
+    "status": "READY",
+    "visualRefs": ["schema:weldjoint"]
+  },
+  {
+    "key": "materialRecovery",
+    "path": "/technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux/reconnaitre-recuperer-materiaux",
+    "status": "READY",
+    "visualRefs": ["schema:materialRecovery"]
+  },
+  {
+    "key": "claybrick",
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/brique-terre-cuite",
+    "status": "READY",
+    "visualRefs": ["schema:claybrick"]
+  },
+  {
+    "key": "limecycle",
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/chaux-liant-millenaire",
+    "status": "READY",
+    "visualRefs": ["schema:limecycle"]
+  },
+  {
+    "key": "detailCementKiln",
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/empreinte-carbone-du-ciment",
+    "status": "READY",
+    "visualRefs": ["schema:detailCementKiln"]
+  },
+  {
+    "key": "concreteprint",
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/peut-on-vraiment-construire-une-maison-en-l-imprimant-en-beton",
+    "status": "READY",
+    "visualRefs": ["schema:concreteprint"]
+  },
+  {
+    "key": "rebarbeam",
+    "path": "/technologies-et-ingenierie/genie-civil/materiaux/pourquoi-met-on-des-barres-d-acier-dans-le-beton",
+    "status": "READY",
+    "visualRefs": ["schema:rebarbeam"]
+  },
+  {
+    "key": "aqueductslope",
+    "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/aqueducs-canaux",
+    "status": "READY",
+    "visualRefs": ["schema:aqueductslope"]
+  },
+  {
+    "key": "gravitydam",
+    "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/comment-un-barrage-resiste-t-il-a-la-poussee-de-l-eau",
+    "status": "READY",
+    "visualRefs": ["schema:gravitydam"]
+  },
+  {
+    "key": "roadDrainage",
+    "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/construire-route-durable",
+    "status": "READY",
+    "visualRefs": ["schema:roadDrainage"]
+  },
+  {
+    "key": "bridgeinspection",
+    "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/ponts-et-entretien-des-ouvrages",
+    "status": "READY",
+    "visualRefs": ["schema:bridgeinspection"]
+  },
+  {
+    "key": "arch",
+    "path": "/technologies-et-ingenierie/genie-civil/structures/arc-voute",
+    "status": "READY",
+    "visualRefs": ["schema:arch"]
+  },
+  {
+    "key": "baseisolation",
+    "path": "/technologies-et-ingenierie/genie-civil/structures/comment-construire-des-batiments-qui-resistent-aux-tremblements-de-terre",
+    "status": "READY",
+    "visualRefs": ["schema:baseisolation"]
+  },
+  {
+    "key": "printedBridge",
+    "path": "/technologies-et-ingenierie/genie-civil/structures/comment-des-robots-impriment-ils-des-ponts-en-beton-ou-en-acier",
+    "status": "READY",
+    "visualRefs": ["schema:printedBridge"]
+  },
+  {
+    "key": "deploystructure",
+    "path": "/technologies-et-ingenierie/genie-civil/structures/comment-une-structure-peut-elle-tenir-dans-un-sac-puis-se-deployer-ou-se-gonfler",
+    "status": "READY",
+    "visualRefs": ["schema:deploystructure"]
+  },
+  {
+    "key": "actuatorarm",
+    "path": "/technologies-et-ingenierie/robotique/actionneurs/actionneurs-en-robotique",
+    "status": "READY",
+    "visualRefs": ["schema:actuatorarm"]
+  },
+  {
+    "key": "motortorque",
+    "path": "/technologies-et-ingenierie/robotique/actionneurs/comment-un-moteur-electrique-transforme-t-il-le-courant-en-mouvement",
+    "status": "READY",
+    "visualRefs": ["schema:motortorque"]
+  },
+  {
+    "key": "quadcopter",
+    "path": "/technologies-et-ingenierie/robotique/robots-mobiles/comment-un-drone-a-quatre-helices-tient-il-immobile-dans-les-airs",
+    "status": "READY",
+    "visualRefs": ["schema:quadcopter"]
+  },
+  {
+    "key": "claykiln",
+    "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/comment-l-argile-devient-elle-dure-comme-de-la-pierre-dans-un-four",
+    "status": "READY",
+    "visualRefs": ["schema:claykiln"]
+  },
+  {
+    "key": "mangroveroots",
+    "path": "/environnement-et-climat/biodiversite/ecosystemes/comment-les-mangroves-protegent-elles-les-cotes-des-vagues",
+    "status": "READY",
+    "visualRefs": ["schema:mangroveroots"]
+  },
+  {
+    "key": "wormsoil",
+    "path": "/environnement-et-climat/biodiversite/ecosystemes/comment-les-vers-de-terre-rendent-ils-le-sol-fertile",
+    "status": "READY",
+    "visualRefs": ["schema:wormsoil"]
+  },
+  {
+    "key": "hedgerows",
+    "path": "/environnement-et-climat/biodiversite/ecosystemes/haies-bocage",
+    "status": "READY",
+    "visualRefs": ["schema:hedgerows"]
+  },
+  {
+    "key": "flowerpollination",
+    "path": "/environnement-et-climat/biodiversite/ecosystemes/pourquoi-les-abeilles-sauvages-et-autres-pollinisateurs-sont-ils-precieux-pour-nos-cultures",
+    "status": "READY",
+    "visualRefs": ["schema:flowerpollination"]
+  },
+  {
+    "key": "agroforestrows",
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/l-agroforesterie-combiner-arbres-et-cultures",
+    "status": "READY",
+    "visualRefs": ["schema:agroforestrows"]
+  },
+  {
+    "key": "coralbleach",
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/le-blanchissement-des-coraux",
+    "status": "READY",
+    "visualRefs": ["schema:coralbleach"]
+  },
+  {
+    "key": "citycanopy",
+    "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/comment-les-arbres-rafraichissent-ils-une-ville-en-ete",
+    "status": "READY",
+    "visualRefs": ["schema:citycanopy"]
+  },
+  {
+    "key": "floodspace",
+    "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/proteger-inondations",
+    "status": "READY",
+    "visualRefs": ["schema:floodspace"]
+  },
+  {
+    "key": "compostlife",
+    "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/comment-des-epluchures-se-transforment-elles-en-compost",
+    "status": "READY",
+    "visualRefs": ["schema:compostlife"]
+  },
+  {
+    "key": "paperloop",
+    "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/comment-un-vieux-journal-redevient-il-du-papier-neuf",
+    "status": "READY",
+    "visualRefs": ["schema:paperloop"]
+  },
+  {
+    "key": "groundwater",
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/comment-se-forme-une-nappe-d-eau-sous-nos-pieds",
+    "status": "READY",
+    "visualRefs": ["schema:groundwater"]
+  },
+  {
+    "key": "desalination",
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/comment-transforme-t-on-l-eau-de-mer-en-eau-douce",
+    "status": "READY",
+    "visualRefs": ["schema:desalination"]
+  },
+  {
+    "key": "wetlandsponge",
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/pourquoi-dit-on-que-les-zones-humides-sont-des-eponges-naturelles",
+    "status": "READY",
+    "visualRefs": ["schema:wetlandsponge"]
+  },
+  {
+    "key": "sewageplant",
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/que-devient-l-eau-de-l-evier-et-des-toilettes-dans-une-station-d-epuration",
+    "status": "READY",
+    "visualRefs": ["schema:sewageplant"]
+  },
+  {
+    "key": "rainharvest",
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/recuperer-eau-pluie",
+    "status": "READY",
+    "visualRefs": ["schema:rainharvest"]
+  },
+  {
+    "key": "detailWaterTreatment",
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/rendre-eau-potable",
+    "status": "READY",
+    "visualRefs": ["schema:detailWaterTreatment"]
+  },
+  {
+    "key": "groundwater",
+    "path": "/sciences-fondamentales/sciences-de-la-terre/geologie/trouver-eau-souterraine",
+    "status": "READY",
+    "visualRefs": ["schema:groundwater"]
+  }
+]

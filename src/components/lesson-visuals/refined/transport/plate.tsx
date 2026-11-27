@@ -59,14 +59,14 @@ export const fastener = (x: number, y: number, r = 2.2) => [
 ];
 
 export function technicalPlate(
-  titles: readonly [string, string, string],
-  footers: readonly [string, string, string],
+  titles: readonly string[],
+  footers: readonly string[],
   scene: (step: number, id: string) => ReactNode,
   height = 210,
 ) {
   return function drawPlate(step: number, id: string) {
     const title = titles[step] ?? titles[0];
-    const footer = footers[step] ?? footers[0];
+    const footer = footers[step] ?? footers[0] ?? "";
     return (
       <>
         <defs>

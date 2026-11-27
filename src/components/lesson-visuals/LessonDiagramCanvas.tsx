@@ -1,3 +1,5 @@
+import { editorialStudies } from "./refined/editorial";
+import { renderStudy } from "./refined/editorial/art";
 import { EditionLessonDrawing, hasEditionLessonDrawing } from "./EditionLessonDrawing";
 import { DetailedLessonDrawing, hasDetailedLessonDrawing } from "./DetailedLessonDrawing";
 import { EverydayDrawing } from "./EverydayDrawing";
@@ -82,19 +84,36 @@ export function LessonDiagramCanvas({
   const id = `lesson-art-${useId().replace(/:/g, "")}`;
   const frame = Math.max(0, Math.min(spec.steps.length - 1, Math.round(step)));
   const props = { kind: spec.id, step: frame, id };
+  const study = Object.hasOwn(editorialStudies, spec.id) ? editorialStudies[spec.id] : undefined;
+  const figureProps = {
+    className: styles.figure,
+    "data-lesson-diagram": spec.id,
+    "data-frame": frame,
+    "aria-hidden": decorative || undefined,
+  };
+  const svgProps = {
+    viewBox: `0 0 360 ${spec.canvasHeight ?? 210}`,
+    "aria-hidden": true,
+    focusable: "false" as const,
+    style: { fontFamily: "var(--font-sans), system-ui, sans-serif" } as CSSProperties,
+  };
+  const caption = !decorative && (
+    <figcaption>{(spec.steps[frame] ?? spec.steps[0]).caption}</figcaption>
+  );
+  if (study) {
+    return (
+      <figure {...figureProps}>
+        <svg {...svgProps}>
+          <DiagramSurface id={id} tint="#eef3f8" />
+          {renderStudy(study, spec, frame, id)}
+        </svg>
+        {caption}
+      </figure>
+    );
+  }
   return (
-    <figure
-      className={styles.figure}
-      data-lesson-diagram={spec.id}
-      data-frame={frame}
-      aria-hidden={decorative || undefined}
-    >
-      <svg
-        viewBox={`0 0 360 ${spec.canvasHeight ?? 210}`}
-        aria-hidden="true"
-        focusable="false"
-        style={{ fontFamily: "var(--font-sans), system-ui, sans-serif" } as CSSProperties}
-      >
+    <figure {...figureProps}>
+      <svg {...svgProps}>
         <DiagramSurface id={id} tint="#eef3f8" />
         <TelecomHorizonsDrawing {...props} />
         <AutoHorizonsDrawing {...props} />
@@ -170,7 +189,7 @@ export function LessonDiagramCanvas({
           <Thematic50Drawing {...props} />
         )}
       </svg>
-      {!decorative && <figcaption>{(spec.steps[frame] ?? spec.steps[0]).caption}</figcaption>}
+      {caption}
     </figure>
   );
 }
