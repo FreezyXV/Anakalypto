@@ -1,0 +1,1064 @@
+[
+  {
+    "key": "movingAssembly",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-BBC4E8A00244"]
+  },
+  {
+    "key": "carMaterials",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-692AED93C6B7"]
+  },
+  {
+    "key": "sharedPlatform",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-CCCD632F4288"]
+  },
+  {
+    "key": "detailInspectionBench",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-59644BB0E4E8"]
+  },
+  {
+    "key": "detailAbrasionSources",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-3D99A40316C9"]
+  },
+  {
+    "key": "editionOilToFuel",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-9ACB599879BB"]
+  },
+  {
+    "key": "detailHotCellPack",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 7,
+    "states": 4,
+    "refs": ["LEC-9839A47BA625"]
+  },
+  {
+    "key": "motorMagnets",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-439B2DAC5A15"]
+  },
+  {
+    "key": "dcfastcharge",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-1E87DF67DADE"]
+  },
+  {
+    "key": "vehicleGrid",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-9DE2FC0E4A4F"]
+  },
+  {
+    "key": "evPower",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-686FF4DBA7CB"]
+  },
+  {
+    "key": "regenbrake",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-A69CBB0BF74B"]
+  },
+  {
+    "key": "mildhybrid",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-D839C3151DD0"]
+  },
+  {
+    "key": "hybridPower",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-339F23BFAA8C"]
+  },
+  {
+    "key": "injectorjet",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-6B7DF8E92753"]
+  },
+  {
+    "key": "engineFeedback",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-5EB297309288"]
+  },
+  {
+    "key": "dieselignition",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-810FB82798CB"]
+  },
+  {
+    "key": "valveTiming",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-C0E0EDE2F3A8"]
+  },
+  {
+    "key": "exhaustclean",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-98720D1658C1"]
+  },
+  {
+    "key": "intercoolerair",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-B230E21BA5DE"]
+  },
+  {
+    "key": "sparkCoil",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-6A078C098BDC"]
+  },
+  {
+    "key": "detailDieselFilters",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 10,
+    "states": 4,
+    "refs": ["LEC-93B7A24F49C2"]
+  },
+  {
+    "key": "enginePumps",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-2148A76AB9E3"]
+  },
+  {
+    "key": "enginecoolant",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-DDF162C9DD4B"]
+  },
+  {
+    "key": "egrloop",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-3.jpg",
+    "desktop": "captures/automobile-1280-3.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-F2DF61ABA9B1"]
+  },
+  {
+    "key": "driverSensors",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-3.jpg",
+    "desktop": "captures/automobile-1280-3.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-2ACA73633CB1"]
+  },
+  {
+    "key": "abscontrol",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-3.jpg",
+    "desktop": "captures/automobile-1280-3.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-64E4D10D5E78"]
+  },
+  {
+    "key": "yawControl",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-3.jpg",
+    "desktop": "captures/automobile-1280-3.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-E04957295FB8"]
+  },
+  {
+    "key": "emergencyBrake",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-3.jpg",
+    "desktop": "captures/automobile-1280-3.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-BABB633505B4"]
+  },
+  {
+    "key": "carCooling",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-3.jpg",
+    "desktop": "captures/automobile-1280-3.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-61D35DA7262C"]
+  },
+  {
+    "key": "startingCircuit",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-3.jpg",
+    "desktop": "captures/automobile-1280-3.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-B6EA5C2040A9"]
+  },
+  {
+    "key": "engineoil",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-3.jpg",
+    "desktop": "captures/automobile-1280-3.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-CA23D520E399"]
+  },
+  {
+    "key": "cogeneration",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-1.jpg",
+    "desktop": "captures/energie-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-A122B9AAE1DA"]
+  },
+  {
+    "key": "heatpump",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-1.jpg",
+    "desktop": "captures/energie-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-18226ED00A76"]
+  },
+  {
+    "key": "insulation",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-1.jpg",
+    "desktop": "captures/energie-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-CC56946C1DF5"]
+  },
+  {
+    "key": "thermalmass",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-1.jpg",
+    "desktop": "captures/energie-1280-1.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-FA6DCA20A885"]
+  },
+  {
+    "key": "firewood",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-1.jpg",
+    "desktop": "captures/energie-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-056F72B602DA"]
+  },
+  {
+    "key": "isolatedHome",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-1.jpg",
+    "desktop": "captures/energie-1280-1.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-09F15B5EC1AB"]
+  },
+  {
+    "key": "householdEnergy",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-1.jpg",
+    "desktop": "captures/energie-1280-1.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-461D8B0B8E03"]
+  },
+  {
+    "key": "standby",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-1.jpg",
+    "desktop": "captures/energie-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-042806B5CF04"]
+  },
+  {
+    "key": "pyrolysis",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-1.jpg",
+    "desktop": "captures/energie-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-1524E0333950"]
+  },
+  {
+    "key": "steamengine",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-1.jpg",
+    "desktop": "captures/energie-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-B99970A4E06A"]
+  },
+  {
+    "key": "biogasdigester",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-1.jpg",
+    "desktop": "captures/energie-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-83AAE6EB7486"]
+  },
+  {
+    "key": "refinery",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-1.jpg",
+    "desktop": "captures/energie-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-78AC0B04F9E0"]
+  },
+  {
+    "key": "wind",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-2.jpg",
+    "desktop": "captures/energie-1280-2.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-8BED11E4076B", "LEC-649033EF8DF5"]
+  },
+  {
+    "key": "detailRotorInduction",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-2.jpg",
+    "desktop": "captures/energie-1280-2.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-88FED6DA467B"]
+  },
+  {
+    "key": "windmill",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-2.jpg",
+    "desktop": "captures/energie-1280-2.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-D42DFA4102F4"]
+  },
+  {
+    "key": "geoloop",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-2.jpg",
+    "desktop": "captures/energie-1280-2.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-9514752EEB2B"]
+  },
+  {
+    "key": "hydro",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-2.jpg",
+    "desktop": "captures/energie-1280-2.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-461055011802", "LEC-D75311B80120"]
+  },
+  {
+    "key": "pumpedstorage",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-2.jpg",
+    "desktop": "captures/energie-1280-2.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-94E54B9E69B7"]
+  },
+  {
+    "key": "tidalturbine",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-2.jpg",
+    "desktop": "captures/energie-1280-2.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-C924B477373F"]
+  },
+  {
+    "key": "watermill",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-2.jpg",
+    "desktop": "captures/energie-1280-2.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-46232B9F5B8F"]
+  },
+  {
+    "key": "solaroven",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-2.jpg",
+    "desktop": "captures/energie-1280-2.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-6D65993219E1"]
+  },
+  {
+    "key": "offgridsolar",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-2.jpg",
+    "desktop": "captures/energie-1280-2.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-0B9C47E9C0E9"]
+  },
+  {
+    "key": "agrivoltaic",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-2.jpg",
+    "desktop": "captures/energie-1280-2.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-45AAB7D8BE0C"]
+  },
+  {
+    "key": "csp",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-2.jpg",
+    "desktop": "captures/energie-1280-2.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-33076CB397C1"]
+  },
+  {
+    "key": "compressedair",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-3.jpg",
+    "desktop": "captures/energie-1280-3.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-E3DFB0303D33"]
+  },
+  {
+    "key": "flowbattery",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-3.jpg",
+    "desktop": "captures/energie-1280-3.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-33078A068CEF"]
+  },
+  {
+    "key": "voltapile",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-3.jpg",
+    "desktop": "captures/energie-1280-3.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-1848677BEF9D"]
+  },
+  {
+    "key": "lfpCell",
+    "group": "Énergie",
+    "mobile": "captures/energie-320-3.jpg",
+    "desktop": "captures/energie-1280-3.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-350E81D777C7"]
+  },
+  {
+    "key": "floatglass",
+    "group": "Industries",
+    "mobile": "captures/industries-320-1.jpg",
+    "desktop": "captures/industries-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-D6A5A0713C29"]
+  },
+  {
+    "key": "steelroutes",
+    "group": "Industries",
+    "mobile": "captures/industries-320-1.jpg",
+    "desktop": "captures/industries-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-DE84E84AEC2F"]
+  },
+  {
+    "key": "anvilforge",
+    "group": "Industries",
+    "mobile": "captures/industries-320-1.jpg",
+    "desktop": "captures/industries-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-F27C9CD4A48D"]
+  },
+  {
+    "key": "ironReduction",
+    "group": "Industries",
+    "mobile": "captures/industries-320-1.jpg",
+    "desktop": "captures/industries-1280-1.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-884FA96123B1"]
+  },
+  {
+    "key": "bloomFurnace",
+    "group": "Industries",
+    "mobile": "captures/industries-320-1.jpg",
+    "desktop": "captures/industries-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-962AAB02731C"]
+  },
+  {
+    "key": "ironCarbon",
+    "group": "Industries",
+    "mobile": "captures/industries-320-1.jpg",
+    "desktop": "captures/industries-1280-1.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-E900A0F1D402"]
+  },
+  {
+    "key": "steeltemper",
+    "group": "Industries",
+    "mobile": "captures/industries-320-1.jpg",
+    "desktop": "captures/industries-1280-1.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-1BE8E15DC109"]
+  },
+  {
+    "key": "factoryArm",
+    "group": "Industries",
+    "mobile": "captures/industries-320-1.jpg",
+    "desktop": "captures/industries-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-F53CE0E78763"]
+  },
+  {
+    "key": "factoryNavigation",
+    "group": "Industries",
+    "mobile": "captures/industries-320-1.jpg",
+    "desktop": "captures/industries-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-2F4C38CA7D42"]
+  },
+  {
+    "key": "visionreject",
+    "group": "Industries",
+    "mobile": "captures/industries-320-1.jpg",
+    "desktop": "captures/industries-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-FAE0F24FDECA"]
+  },
+  {
+    "key": "coldlogistics",
+    "group": "Industries",
+    "mobile": "captures/industries-320-1.jpg",
+    "desktop": "captures/industries-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-5E738B9A0AE8"]
+  },
+  {
+    "key": "barcode",
+    "group": "Industries",
+    "mobile": "captures/industries-320-1.jpg",
+    "desktop": "captures/industries-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-4751CD3A227C"]
+  },
+  {
+    "key": "intermodal",
+    "group": "Industries",
+    "mobile": "captures/industries-320-2.jpg",
+    "desktop": "captures/industries-1280-2.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-E64DC17D5B6E"]
+  },
+  {
+    "key": "fabPrototype",
+    "group": "Industries",
+    "mobile": "captures/industries-320-2.jpg",
+    "desktop": "captures/industries-1280-2.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-30CAF01D2F8E"]
+  },
+  {
+    "key": "warehouseFlow",
+    "group": "Industries",
+    "mobile": "captures/industries-320-2.jpg",
+    "desktop": "captures/industries-1280-2.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-81E745FA9DAE"]
+  },
+  {
+    "key": "threadFit",
+    "group": "Industries",
+    "mobile": "captures/industries-320-2.jpg",
+    "desktop": "captures/industries-1280-2.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-F5DDF56ED110"]
+  },
+  {
+    "key": "interchangefit",
+    "group": "Industries",
+    "mobile": "captures/industries-320-2.jpg",
+    "desktop": "captures/industries-1280-2.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-C25CE8775BFA"]
+  },
+  {
+    "key": "compositeply",
+    "group": "Industries",
+    "mobile": "captures/industries-320-2.jpg",
+    "desktop": "captures/industries-1280-2.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-8D3BB215585C"]
+  },
+  {
+    "key": "lathemill",
+    "group": "Industries",
+    "mobile": "captures/industries-320-2.jpg",
+    "desktop": "captures/industries-1280-2.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-B552365DD069"]
+  },
+  {
+    "key": "printlayers",
+    "group": "Industries",
+    "mobile": "captures/industries-320-2.jpg",
+    "desktop": "captures/industries-1280-2.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-2F986C77E170"]
+  },
+  {
+    "key": "weaveloom",
+    "group": "Industries",
+    "mobile": "captures/industries-320-2.jpg",
+    "desktop": "captures/industries-1280-2.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-61BF6660EAE7"]
+  },
+  {
+    "key": "foundrycast",
+    "group": "Industries",
+    "mobile": "captures/industries-320-2.jpg",
+    "desktop": "captures/industries-1280-2.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-C7747624891C"]
+  },
+  {
+    "key": "materialForming",
+    "group": "Industries",
+    "mobile": "captures/industries-320-2.jpg",
+    "desktop": "captures/industries-1280-2.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-2D6C248BD8E3"]
+  },
+  {
+    "key": "weldjoint",
+    "group": "Industries",
+    "mobile": "captures/industries-320-2.jpg",
+    "desktop": "captures/industries-1280-2.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-067A881A6777"]
+  },
+  {
+    "key": "materialRecovery",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-1.jpg",
+    "desktop": "captures/structures-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-FAD6F6B69675"]
+  },
+  {
+    "key": "claybrick",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-1.jpg",
+    "desktop": "captures/structures-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-A4801A70544F"]
+  },
+  {
+    "key": "limecycle",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-1.jpg",
+    "desktop": "captures/structures-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-C77ABAF4CF99"]
+  },
+  {
+    "key": "detailCementKiln",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-1.jpg",
+    "desktop": "captures/structures-1280-1.jpg",
+    "position": 4,
+    "states": 4,
+    "refs": ["LEC-A4E120576A57"]
+  },
+  {
+    "key": "concreteprint",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-1.jpg",
+    "desktop": "captures/structures-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-3E7703C8C12B"]
+  },
+  {
+    "key": "rebarbeam",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-1.jpg",
+    "desktop": "captures/structures-1280-1.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-60F14261AE47"]
+  },
+  {
+    "key": "aqueductslope",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-1.jpg",
+    "desktop": "captures/structures-1280-1.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-5C366692B779"]
+  },
+  {
+    "key": "gravitydam",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-1.jpg",
+    "desktop": "captures/structures-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-DEBC0D00C3F9"]
+  },
+  {
+    "key": "roadDrainage",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-1.jpg",
+    "desktop": "captures/structures-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-5DF9575987A1"]
+  },
+  {
+    "key": "bridgeinspection",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-1.jpg",
+    "desktop": "captures/structures-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-D2A4914E95FE"]
+  },
+  {
+    "key": "arch",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-1.jpg",
+    "desktop": "captures/structures-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-A5FA676E543A"]
+  },
+  {
+    "key": "baseisolation",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-1.jpg",
+    "desktop": "captures/structures-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-769B647B926C"]
+  },
+  {
+    "key": "printedBridge",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-2.jpg",
+    "desktop": "captures/structures-1280-2.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-53213107D4F0"]
+  },
+  {
+    "key": "deploystructure",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-2.jpg",
+    "desktop": "captures/structures-1280-2.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-86541225C996"]
+  },
+  {
+    "key": "actuatorarm",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-2.jpg",
+    "desktop": "captures/structures-1280-2.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-2052928B8F08"]
+  },
+  {
+    "key": "motortorque",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-2.jpg",
+    "desktop": "captures/structures-1280-2.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-213B5B859B7D"]
+  },
+  {
+    "key": "quadcopter",
+    "group": "Construction et robotique",
+    "mobile": "captures/structures-320-2.jpg",
+    "desktop": "captures/structures-1280-2.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-420609400C6A"]
+  },
+  {
+    "key": "claykiln",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-1.jpg",
+    "desktop": "captures/milieux-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-113051597F4D"]
+  },
+  {
+    "key": "mangroveroots",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-1.jpg",
+    "desktop": "captures/milieux-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-027FE0393F3A"]
+  },
+  {
+    "key": "wormsoil",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-1.jpg",
+    "desktop": "captures/milieux-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-51038463BCDB"]
+  },
+  {
+    "key": "hedgerows",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-1.jpg",
+    "desktop": "captures/milieux-1280-1.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-1365D448F288"]
+  },
+  {
+    "key": "flowerpollination",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-1.jpg",
+    "desktop": "captures/milieux-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-2CE7EB458037"]
+  },
+  {
+    "key": "agroforestrows",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-1.jpg",
+    "desktop": "captures/milieux-1280-1.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-C080879D0E3B"]
+  },
+  {
+    "key": "coralbleach",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-1.jpg",
+    "desktop": "captures/milieux-1280-1.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-579CE2C8CCBC"]
+  },
+  {
+    "key": "citycanopy",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-1.jpg",
+    "desktop": "captures/milieux-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-26EAB4A19BE4"]
+  },
+  {
+    "key": "floodspace",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-1.jpg",
+    "desktop": "captures/milieux-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-872D76D5A3C2"]
+  },
+  {
+    "key": "compostlife",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-1.jpg",
+    "desktop": "captures/milieux-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-15CBBE933AD2"]
+  },
+  {
+    "key": "paperloop",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-1.jpg",
+    "desktop": "captures/milieux-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-FD7B3BB15F42"]
+  },
+  {
+    "key": "groundwater",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-1.jpg",
+    "desktop": "captures/milieux-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-D856D357364D", "LEC-640025F3A5FF"]
+  },
+  {
+    "key": "desalination",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-2.jpg",
+    "desktop": "captures/milieux-1280-2.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-E17F8A1C316A"]
+  },
+  {
+    "key": "wetlandsponge",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-2.jpg",
+    "desktop": "captures/milieux-1280-2.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-A2FC08933C30"]
+  },
+  {
+    "key": "sewageplant",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-2.jpg",
+    "desktop": "captures/milieux-1280-2.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-22E3E9A95802"]
+  },
+  {
+    "key": "rainharvest",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-2.jpg",
+    "desktop": "captures/milieux-1280-2.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-FE56C55DEA31"]
+  },
+  {
+    "key": "detailWaterTreatment",
+    "group": "Milieux et matériaux",
+    "mobile": "captures/milieux-320-2.jpg",
+    "desktop": "captures/milieux-1280-2.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-D1B452436D54"]
+  }
+]

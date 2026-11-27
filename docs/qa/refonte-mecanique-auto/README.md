@@ -10,4 +10,4 @@ Les trois vues de chacune des neuf leçons ont été activées à 320 et 1 280 p
 
 [Mesures](mesures.json) · [Comparaison du registre](preservation.json) · [Empreintes des nouveaux rendus](rendus.json) · [Reçus backend](backend-receipts.json)
 
-L’inventaire compte 58 leçons redessinées, 269 conservées et 521 à reprendre. Chaque référence mène à la planche examinée ou redessinée. [Inventaire par référence](../refonte-visuelle-apres/inventaire.csv)
+À la fin de cette série, l’inventaire comptait 58 leçons redessinées, 269 conservées et 521 à reprendre. Chaque référence mène à la planche examinée ou redessinée. [Inventaire par référence](../refonte-visuelle-apres/inventaire.csv) · [Refonte des 121 leçons suivantes](../refonte-121/README.md)
