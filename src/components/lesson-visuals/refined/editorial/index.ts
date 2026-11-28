@@ -24,6 +24,17 @@ import { geography } from "./geography";
 import { physicsStudies } from "./physicsStudies";
 import { earthLab } from "./earthLab";
 
+import { vehicleWork } from "./vehicleWork";
+import { vehicleUse } from "./vehicleUse";
+
+import { mediaWorkshop } from "./mediaWorkshop";
+import { mediaSystems } from "./mediaSystems";
+
+import { environmentStudies } from "./environmentStudies";
+import { sportMotion } from "./sportMotion";
+import { sportBody } from "./sportBody";
+import { patrimony } from "./patrimony";
+
 export const editorialStudies: Readonly<Record<string, Study>> = {
   ...autoElectric,
   ...autoRoad,
@@ -42,4 +53,12 @@ export const editorialStudies: Readonly<Record<string, Study>> = {
   ...geography,
   ...physicsStudies,
   ...earthLab,
+  ...vehicleWork,
+  ...vehicleUse,
+  ...mediaWorkshop,
+  ...mediaSystems,
+  ...environmentStudies,
+  ...sportMotion,
+  ...sportBody,
+  ...patrimony,
 };

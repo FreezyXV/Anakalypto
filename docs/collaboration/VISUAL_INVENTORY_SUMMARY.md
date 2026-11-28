@@ -1,6 +1,6 @@
 # Inventaire des illustrations
 
-Photographie de la file backend exportée le 2026-11-27. L’export lit les états des leçons publiées. L’objectif porte sur un catalogue d’environ 1 000 leçons.
+Photographie de la file backend exportée le 2026-11-28. L’export lit les états des leçons publiées. L’objectif porte sur un catalogue d’environ 1 000 leçons.
 
 | État                                       | Nombre |
 | ------------------------------------------ | -----: |

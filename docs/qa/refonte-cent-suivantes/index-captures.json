@@ -1,0 +1,902 @@
+[
+  {
+    "key": "autoInnovations",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-DFC1986DCB95"]
+  },
+  {
+    "key": "detailOwnershipCosts",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-9CDAD179B541"]
+  },
+  {
+    "key": "detailLeaseReturn",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 3,
+    "states": 4,
+    "refs": ["LEC-13F3A436ECB4"]
+  },
+  {
+    "key": "detailCarMarket",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 4,
+    "states": 4,
+    "refs": ["LEC-F9318CB235BD"]
+  },
+  {
+    "key": "carMaterialChain",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-568E40F7249A"]
+  },
+  {
+    "key": "carFactoryNetwork",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-4578EE5D9BE3"]
+  },
+  {
+    "key": "autoChipSupply",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-848F45B0FF56"]
+  },
+  {
+    "key": "editionEmissionsTest",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-3C95F002E8F4"]
+  },
+  {
+    "key": "recallTrace",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-1855A6CA729A"]
+  },
+  {
+    "key": "editionFuelOrigins",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-4F206208EFF3"]
+  },
+  {
+    "key": "energyRange",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-DBC53D5DC3BC"]
+  },
+  {
+    "key": "detailCompressionIgnition",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-1.jpg",
+    "desktop": "captures/automobile-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-56F16E822386"]
+  },
+  {
+    "key": "detailThermalChain",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 1,
+    "states": 4,
+    "refs": ["LEC-91F6DA939A3F"]
+  },
+  {
+    "key": "detailDrivingAssistScope",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-34FF0B5F0B6F"]
+  },
+  {
+    "key": "trafficMessages",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-D34C86EE5A14"]
+  },
+  {
+    "key": "detailDrivingRoles",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 4,
+    "states": 4,
+    "refs": ["LEC-809FD8DB52D5"]
+  },
+  {
+    "key": "editionRobotaxiZone",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-85062C253F32"]
+  },
+  {
+    "key": "editionCarDataRoute",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-B60D29565938"]
+  },
+  {
+    "key": "drivingFatigue",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-43DE6379C197"]
+  },
+  {
+    "key": "detailCrashLab",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-EE623FAAA76F"]
+  },
+  {
+    "key": "detailRoadUsers",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-A85C9114B239"]
+  },
+  {
+    "key": "trafficNoise",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-C99833BB9D89"]
+  },
+  {
+    "key": "vehicleMass",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-FDAB2EBB63A4"]
+  },
+  {
+    "key": "detailWearPaths",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-2.jpg",
+    "desktop": "captures/automobile-1280-2.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-E9DED94AF5EB"]
+  },
+  {
+    "key": "bodyRecycling",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-3.jpg",
+    "desktop": "captures/automobile-1280-3.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-827D4F799711"]
+  },
+  {
+    "key": "batteryMaterials",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-3.jpg",
+    "desktop": "captures/automobile-1280-3.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-B476DBBADF3B"]
+  },
+  {
+    "key": "sharedMobility",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-3.jpg",
+    "desktop": "captures/automobile-1280-3.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-1D1E43E7F84A"]
+  },
+  {
+    "key": "utilityPayload",
+    "group": "Automobile",
+    "mobile": "captures/automobile-320-3.jpg",
+    "desktop": "captures/automobile-1280-3.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-24D2AC04DE98"]
+  },
+  {
+    "key": "newswire",
+    "group": "Médias",
+    "mobile": "captures/medias-320-1.jpg",
+    "desktop": "captures/medias-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-17D8F0C80414"]
+  },
+  {
+    "key": "cheapPrint",
+    "group": "Médias",
+    "mobile": "captures/medias-320-1.jpg",
+    "desktop": "captures/medias-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-B88550A27526"]
+  },
+  {
+    "key": "printPress",
+    "group": "Médias",
+    "mobile": "captures/medias-320-1.jpg",
+    "desktop": "captures/medias-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-A286042D565A"]
+  },
+  {
+    "key": "colourtv",
+    "group": "Médias",
+    "mobile": "captures/medias-320-1.jpg",
+    "desktop": "captures/medias-1280-1.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-D7658239E10E"]
+  },
+  {
+    "key": "wirelessmorse",
+    "group": "Médias",
+    "mobile": "captures/medias-320-1.jpg",
+    "desktop": "captures/medias-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-8FCA8C673DC7"]
+  },
+  {
+    "key": "crystalradio",
+    "group": "Médias",
+    "mobile": "captures/medias-320-1.jpg",
+    "desktop": "captures/medias-1280-1.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-2B7173097A62"]
+  },
+  {
+    "key": "radioAlert",
+    "group": "Médias",
+    "mobile": "captures/medias-320-1.jpg",
+    "desktop": "captures/medias-1280-1.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-E6306232F082"]
+  },
+  {
+    "key": "broadcast",
+    "group": "Médias",
+    "mobile": "captures/medias-320-1.jpg",
+    "desktop": "captures/medias-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-8CA3B8565FA5"]
+  },
+  {
+    "key": "detailInformationSample",
+    "group": "Médias",
+    "mobile": "captures/medias-320-1.jpg",
+    "desktop": "captures/medias-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-98FD04214EC2"]
+  },
+  {
+    "key": "detailSyntheticProvenance",
+    "group": "Médias",
+    "mobile": "captures/medias-320-1.jpg",
+    "desktop": "captures/medias-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-7E85FB891637"]
+  },
+  {
+    "key": "imageProvenance",
+    "group": "Médias",
+    "mobile": "captures/medias-320-1.jpg",
+    "desktop": "captures/medias-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-6E6DD3473C39"]
+  },
+  {
+    "key": "detailNewsAvoidance",
+    "group": "Médias",
+    "mobile": "captures/medias-320-1.jpg",
+    "desktop": "captures/medias-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-F433C24E1AE7"]
+  },
+  {
+    "key": "newsroomCheck",
+    "group": "Médias",
+    "mobile": "captures/medias-320-2.jpg",
+    "desktop": "captures/medias-1280-2.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-7080884B8DDF"]
+  },
+  {
+    "key": "editionMediaTrustSurvey",
+    "group": "Médias",
+    "mobile": "captures/medias-320-2.jpg",
+    "desktop": "captures/medias-1280-2.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-D9C741475013"]
+  },
+  {
+    "key": "protectedSource",
+    "group": "Médias",
+    "mobile": "captures/medias-320-2.jpg",
+    "desktop": "captures/medias-1280-2.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-51D1CA26B465"]
+  },
+  {
+    "key": "editionOversightPlatform",
+    "group": "Médias",
+    "mobile": "captures/medias-320-2.jpg",
+    "desktop": "captures/medias-1280-2.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-6087CA4E26C2"]
+  },
+  {
+    "key": "editionModerationQueue",
+    "group": "Médias",
+    "mobile": "captures/medias-320-2.jpg",
+    "desktop": "captures/medias-1280-2.jpg",
+    "position": 5,
+    "states": 4,
+    "refs": ["LEC-D6A3C9335736"]
+  },
+  {
+    "key": "feedRanking",
+    "group": "Médias",
+    "mobile": "captures/medias-320-2.jpg",
+    "desktop": "captures/medias-1280-2.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-1F11639E3878"]
+  },
+  {
+    "key": "editionRegulatorRoles",
+    "group": "Médias",
+    "mobile": "captures/medias-320-2.jpg",
+    "desktop": "captures/medias-1280-2.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-67449DA681AD"]
+  },
+  {
+    "key": "detailFeedRanking",
+    "group": "Médias",
+    "mobile": "captures/medias-320-2.jpg",
+    "desktop": "captures/medias-1280-2.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-B413479BAC1C"]
+  },
+  {
+    "key": "detailAccountCounts",
+    "group": "Médias",
+    "mobile": "captures/medias-320-2.jpg",
+    "desktop": "captures/medias-1280-2.jpg",
+    "position": 9,
+    "states": 2,
+    "refs": ["LEC-C85BF3F17CE7"]
+  },
+  {
+    "key": "webHyperlink",
+    "group": "Médias",
+    "mobile": "captures/medias-320-2.jpg",
+    "desktop": "captures/medias-1280-2.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-BE38104668D2"]
+  },
+  {
+    "key": "webSnapshots",
+    "group": "Médias",
+    "mobile": "captures/medias-320-2.jpg",
+    "desktop": "captures/medias-1280-2.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-B10C4174891F"]
+  },
+  {
+    "key": "cellhandoff",
+    "group": "Médias",
+    "mobile": "captures/medias-320-2.jpg",
+    "desktop": "captures/medias-1280-2.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-2A52341A491E"]
+  },
+  {
+    "key": "detailRadioCapacity",
+    "group": "Médias",
+    "mobile": "captures/medias-320-3.jpg",
+    "desktop": "captures/medias-1280-3.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-9738E4211536"]
+  },
+  {
+    "key": "detailMobileGenerations",
+    "group": "Médias",
+    "mobile": "captures/medias-320-3.jpg",
+    "desktop": "captures/medias-1280-3.jpg",
+    "position": 2,
+    "states": 4,
+    "refs": ["LEC-CEDFF73013F8"]
+  },
+  {
+    "key": "satrelay",
+    "group": "Médias",
+    "mobile": "captures/medias-320-3.jpg",
+    "desktop": "captures/medias-1280-3.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-ADCC4CDCA8A3"]
+  },
+  {
+    "key": "detailHandsetRelay",
+    "group": "Médias",
+    "mobile": "captures/medias-320-3.jpg",
+    "desktop": "captures/medias-1280-3.jpg",
+    "position": 4,
+    "states": 4,
+    "refs": ["LEC-4FC7F564651A"]
+  },
+  {
+    "key": "leoconstellation",
+    "group": "Médias",
+    "mobile": "captures/medias-320-3.jpg",
+    "desktop": "captures/medias-1280-3.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-5FC0B8A6449C"]
+  },
+  {
+    "key": "natureServices",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-1.jpg",
+    "desktop": "captures/environnement-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-04CA586E1DB6"]
+  },
+  {
+    "key": "editionWildfireLandscape",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-1.jpg",
+    "desktop": "captures/environnement-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-D95D399BB328"]
+  },
+  {
+    "key": "detailForestMosaic",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-1.jpg",
+    "desktop": "captures/environnement-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-B4BB75EA3261"]
+  },
+  {
+    "key": "forestRenewal",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-1.jpg",
+    "desktop": "captures/environnement-1280-1.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-953CCEA6C721"]
+  },
+  {
+    "key": "seacarbon",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-1.jpg",
+    "desktop": "captures/environnement-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-EE7263911EC5"]
+  },
+  {
+    "key": "oceanacid",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-1.jpg",
+    "desktop": "captures/environnement-1280-1.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-AF86C8B75BC1"]
+  },
+  {
+    "key": "floodAdaptation",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-1.jpg",
+    "desktop": "captures/environnement-1280-1.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-64BC916366EE"]
+  },
+  {
+    "key": "sealevelrise",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-1.jpg",
+    "desktop": "captures/environnement-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-636FE920AECB"]
+  },
+  {
+    "key": "detailClimateHabitats",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-1.jpg",
+    "desktop": "captures/environnement-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-CDEFC8F2E0BE"]
+  },
+  {
+    "key": "recyclesort",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-1.jpg",
+    "desktop": "captures/environnement-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-F58E0492BA5C"]
+  },
+  {
+    "key": "repairCycle",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-1.jpg",
+    "desktop": "captures/environnement-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-21DF621536A4"]
+  },
+  {
+    "key": "detailDrainagePlot",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-1.jpg",
+    "desktop": "captures/environnement-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-4C6C0E43DBCA"]
+  },
+  {
+    "key": "algaebloom",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-2.jpg",
+    "desktop": "captures/environnement-1280-2.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-97864407A8B4"]
+  },
+  {
+    "key": "waterBalance",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-2.jpg",
+    "desktop": "captures/environnement-1280-2.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-1152B096500B"]
+  },
+  {
+    "key": "detailIndoorAir",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-2.jpg",
+    "desktop": "captures/environnement-1280-2.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-31FB1963EF23"]
+  },
+  {
+    "key": "chartCompass",
+    "group": "Environnement",
+    "mobile": "captures/environnement-320-2.jpg",
+    "desktop": "captures/environnement-1280-2.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-744F4528505B"]
+  },
+  {
+    "key": "firstBasket",
+    "group": "Sport",
+    "mobile": "captures/sport-320-1.jpg",
+    "desktop": "captures/sport-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-FCBAB17ED7F9"]
+  },
+  {
+    "key": "rugbypass",
+    "group": "Sport",
+    "mobile": "captures/sport-320-1.jpg",
+    "desktop": "captures/sport-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-392A8FC3D6E6"]
+  },
+  {
+    "key": "wheelchaircourt",
+    "group": "Sport",
+    "mobile": "captures/sport-320-1.jpg",
+    "desktop": "captures/sport-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-1DC04D9C5C5E"]
+  },
+  {
+    "key": "paraClassification",
+    "group": "Sport",
+    "mobile": "captures/sport-320-1.jpg",
+    "desktop": "captures/sport-1280-1.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-D78ADA95782D"]
+  },
+  {
+    "key": "detailSwimmingDrag",
+    "group": "Sport",
+    "mobile": "captures/sport-320-1.jpg",
+    "desktop": "captures/sport-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-21296385B1FC"]
+  },
+  {
+    "key": "detailRopeStretch",
+    "group": "Sport",
+    "mobile": "captures/sport-320-1.jpg",
+    "desktop": "captures/sport-1280-1.jpg",
+    "position": 6,
+    "states": 2,
+    "refs": ["LEC-DFD5A7628621"]
+  },
+  {
+    "key": "altitudeTrack",
+    "group": "Sport",
+    "mobile": "captures/sport-320-1.jpg",
+    "desktop": "captures/sport-1280-1.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-51261525836C"]
+  },
+  {
+    "key": "crawl",
+    "group": "Sport",
+    "mobile": "captures/sport-320-1.jpg",
+    "desktop": "captures/sport-1280-1.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-2CCF1E3A2CEC"]
+  },
+  {
+    "key": "detailWarmupLoad",
+    "group": "Sport",
+    "mobile": "captures/sport-320-1.jpg",
+    "desktop": "captures/sport-1280-1.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-2D7074DEE49B"]
+  },
+  {
+    "key": "detailFiberSoreness",
+    "group": "Sport",
+    "mobile": "captures/sport-320-1.jpg",
+    "desktop": "captures/sport-1280-1.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-7175A4C78DA0"]
+  },
+  {
+    "key": "walkPendulum",
+    "group": "Sport",
+    "mobile": "captures/sport-320-1.jpg",
+    "desktop": "captures/sport-1280-1.jpg",
+    "position": 11,
+    "states": 3,
+    "refs": ["LEC-2F7151A90511"]
+  },
+  {
+    "key": "effortHeart",
+    "group": "Sport",
+    "mobile": "captures/sport-320-1.jpg",
+    "desktop": "captures/sport-1280-1.jpg",
+    "position": 12,
+    "states": 3,
+    "refs": ["LEC-E4576114244B"]
+  },
+  {
+    "key": "sweatcool",
+    "group": "Sport",
+    "mobile": "captures/sport-320-2.jpg",
+    "desktop": "captures/sport-1280-2.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-3013F1D05E5A"]
+  },
+  {
+    "key": "detailMuscleSpasm",
+    "group": "Sport",
+    "mobile": "captures/sport-320-2.jpg",
+    "desktop": "captures/sport-1280-2.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-65F2676C89BB"]
+  },
+  {
+    "key": "muscleAdaptation",
+    "group": "Sport",
+    "mobile": "captures/sport-320-2.jpg",
+    "desktop": "captures/sport-1280-2.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-9A2501984355"]
+  },
+  {
+    "key": "detailMealRecovery",
+    "group": "Sport",
+    "mobile": "captures/sport-320-2.jpg",
+    "desktop": "captures/sport-1280-2.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-29A5D3E628F3"]
+  },
+  {
+    "key": "detailRedCellAltitude",
+    "group": "Sport",
+    "mobile": "captures/sport-320-2.jpg",
+    "desktop": "captures/sport-1280-2.jpg",
+    "position": 5,
+    "states": 4,
+    "refs": ["LEC-F9BF30B42505"]
+  },
+  {
+    "key": "editionActivityBouts",
+    "group": "Sport",
+    "mobile": "captures/sport-320-2.jpg",
+    "desktop": "captures/sport-1280-2.jpg",
+    "position": 6,
+    "states": 3,
+    "refs": ["LEC-F4FD1CFEBF4A"]
+  },
+  {
+    "key": "detailLiftingMoment",
+    "group": "Sport",
+    "mobile": "captures/sport-320-2.jpg",
+    "desktop": "captures/sport-1280-2.jpg",
+    "position": 7,
+    "states": 3,
+    "refs": ["LEC-B5CCA5CC99EF"]
+  },
+  {
+    "key": "opticalWatch",
+    "group": "Sport",
+    "mobile": "captures/sport-320-2.jpg",
+    "desktop": "captures/sport-1280-2.jpg",
+    "position": 8,
+    "states": 3,
+    "refs": ["LEC-CA3AA54F6866"]
+  },
+  {
+    "key": "detailPlateShoe",
+    "group": "Sport",
+    "mobile": "captures/sport-320-2.jpg",
+    "desktop": "captures/sport-1280-2.jpg",
+    "position": 9,
+    "states": 3,
+    "refs": ["LEC-DBCF597109E6"]
+  },
+  {
+    "key": "editionSportRevenue",
+    "group": "Sport",
+    "mobile": "captures/sport-320-2.jpg",
+    "desktop": "captures/sport-1280-2.jpg",
+    "position": 10,
+    "states": 3,
+    "refs": ["LEC-29081904B5A1"]
+  },
+  {
+    "key": "pigmentLayers",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 1,
+    "states": 3,
+    "refs": ["LEC-000BCD8AE603"]
+  },
+  {
+    "key": "heritageListing",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 2,
+    "states": 3,
+    "refs": ["LEC-4DBFDA420D41"]
+  },
+  {
+    "key": "curiosityCabinet",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 3,
+    "states": 3,
+    "refs": ["LEC-A760EDF1B221"]
+  },
+  {
+    "key": "livingHeritage",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 4,
+    "states": 3,
+    "refs": ["LEC-F2C6B12D6B0A"]
+  },
+  {
+    "key": "craftTransmission",
+    "group": "Arts",
+    "mobile": "captures/arts-320-1.jpg",
+    "desktop": "captures/arts-1280-1.jpg",
+    "position": 5,
+    "states": 3,
+    "refs": ["LEC-8064E0690FE8"]
+  }
+]
