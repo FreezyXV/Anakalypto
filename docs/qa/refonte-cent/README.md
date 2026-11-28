@@ -24,3 +24,5 @@ La comparaison au commit de départ confirme les 297 vues distinctes modifiées 
 [Captures mobile et ordinateur](index-captures.json) · [Mesures par leçon](mesures.json) · [Comparaison du registre](preservation.json) · [Empreintes des rendus](rendus.json) · [Reçus backend](backend-receipts.json)
 
 L’[inventaire par référence](../refonte-visuelle-apres/inventaire.csv) recense 279 leçons redessinées, 269 dont les illustrations ont été conservées et 300 à reprendre à la fin de ce lot.
+
+La [refonte des 100 leçons suivantes](../refonte-cent-suivantes/README.md) poursuit ce travail.

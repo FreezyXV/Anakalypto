@@ -1,0 +1,602 @@
+[
+  {
+    "key": "autoInnovations",
+    "path": "/automobile/industrie-automobile/histoire-innovations-automobiles",
+    "status": "READY",
+    "visualRefs": ["schema:autoInnovations"]
+  },
+  {
+    "key": "detailOwnershipCosts",
+    "path": "/automobile/industrie-automobile/marche/cout-total-possession-voiture",
+    "status": "READY",
+    "visualRefs": ["schema:detailOwnershipCosts"]
+  },
+  {
+    "key": "detailLeaseReturn",
+    "path": "/automobile/industrie-automobile/marche/location-longue-duree-propriete-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:detailLeaseReturn"]
+  },
+  {
+    "key": "detailCarMarket",
+    "path": "/automobile/industrie-automobile/marche/marche-automobile-mondial-regions",
+    "status": "READY",
+    "visualRefs": ["schema:detailCarMarket"]
+  },
+  {
+    "key": "carMaterialChain",
+    "path": "/automobile/industrie-automobile/production/matieres-premieres-automobile-lithium-cobalt-nickel",
+    "status": "READY",
+    "visualRefs": ["schema:carMaterialChain"]
+  },
+  {
+    "key": "carFactoryNetwork",
+    "path": "/automobile/industrie-automobile/production/production-automobile-mondiale",
+    "status": "READY",
+    "visualRefs": ["schema:carFactoryNetwork"]
+  },
+  {
+    "key": "autoChipSupply",
+    "path": "/automobile/industrie-automobile/production/semi-conducteurs-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:autoChipSupply"]
+  },
+  {
+    "key": "editionEmissionsTest",
+    "path": "/automobile/industrie-automobile/reglementation-automobile/normes-demissions-euro",
+    "status": "READY",
+    "visualRefs": ["schema:editionEmissionsTest"]
+  },
+  {
+    "key": "recallTrace",
+    "path": "/automobile/industrie-automobile/reglementation-automobile/rappels-automobiles-securite",
+    "status": "READY",
+    "visualRefs": ["schema:recallTrace"]
+  },
+  {
+    "key": "editionFuelOrigins",
+    "path": "/automobile/motorisations/carburants-alternatifs/biocarburants-et-carburants-de-synthese",
+    "status": "READY",
+    "visualRefs": ["schema:editionFuelOrigins"]
+  },
+  {
+    "key": "energyRange",
+    "path": "/automobile/motorisations/electrique/autonomie-reelle-et-cycle-dhomologation",
+    "status": "READY",
+    "visualRefs": ["schema:energyRange"]
+  },
+  {
+    "key": "detailCompressionIgnition",
+    "path": "/automobile/motorisations/thermique/moteur-diesel-principe-et-declin",
+    "status": "READY",
+    "visualRefs": ["schema:detailCompressionIgnition"]
+  },
+  {
+    "key": "detailThermalChain",
+    "path": "/automobile/motorisations/thermique/voiture-thermique-chaine-complete",
+    "status": "READY",
+    "visualRefs": ["schema:detailThermalChain"]
+  },
+  {
+    "key": "detailDrivingAssistScope",
+    "path": "/automobile/securite-et-conduite/aides-a-la-conduite/technologies-aide-conduite-efficacite",
+    "status": "READY",
+    "visualRefs": ["schema:detailDrivingAssistScope"]
+  },
+  {
+    "key": "trafficMessages",
+    "path": "/automobile/securite-et-conduite/conduite-autonome/communication-v2x-vehicule-infrastructure",
+    "status": "READY",
+    "visualRefs": ["schema:trafficMessages"]
+  },
+  {
+    "key": "detailDrivingRoles",
+    "path": "/automobile/securite-et-conduite/conduite-autonome/niveaux-dautomatisation-de-la-conduite",
+    "status": "READY",
+    "visualRefs": ["schema:detailDrivingRoles"]
+  },
+  {
+    "key": "editionRobotaxiZone",
+    "path": "/automobile/securite-et-conduite/conduite-autonome/securite-des-vehicules-autonomes-waymo",
+    "status": "READY",
+    "visualRefs": ["schema:editionRobotaxiZone"]
+  },
+  {
+    "key": "editionCarDataRoute",
+    "path": "/automobile/securite-et-conduite/donnees-voiture-vie-privee",
+    "status": "READY",
+    "visualRefs": ["schema:editionCarDataRoute"]
+  },
+  {
+    "key": "drivingFatigue",
+    "path": "/automobile/securite-et-conduite/ergonomie-fatigue-conduite",
+    "status": "READY",
+    "visualRefs": ["schema:drivingFatigue"]
+  },
+  {
+    "key": "detailCrashLab",
+    "path": "/automobile/securite-et-conduite/securite-passive/crash-tests-etoiles-securite",
+    "status": "READY",
+    "visualRefs": ["schema:detailCrashLab"]
+  },
+  {
+    "key": "detailRoadUsers",
+    "path": "/automobile/securite-et-conduite/securite-passive/securite-pietons-cyclistes-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:detailRoadUsers"]
+  },
+  {
+    "key": "trafficNoise",
+    "path": "/automobile/usages-et-mobilite/bruit-routier-sante-et-pneus",
+    "status": "READY",
+    "visualRefs": ["schema:trafficNoise"]
+  },
+  {
+    "key": "vehicleMass",
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/augmentation-poids-voitures",
+    "status": "READY",
+    "visualRefs": ["schema:vehicleMass"]
+  },
+  {
+    "key": "detailWearPaths",
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/duree-vie-voiture-kilometrage-entretien",
+    "status": "READY",
+    "visualRefs": ["schema:detailWearPaths"]
+  },
+  {
+    "key": "bodyRecycling",
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/recyclage-acier-aluminium-automobile",
+    "status": "READY",
+    "visualRefs": ["schema:bodyRecycling"]
+  },
+  {
+    "key": "batteryMaterials",
+    "path": "/automobile/usages-et-mobilite/entretien-et-cycle-de-vie/recyclage-batteries-vehicules-electriques",
+    "status": "READY",
+    "visualRefs": ["schema:batteryMaterials"]
+  },
+  {
+    "key": "sharedMobility",
+    "path": "/automobile/usages-et-mobilite/mobilite-partagee/autopartage-et-covoiturage",
+    "status": "READY",
+    "visualRefs": ["schema:sharedMobility"]
+  },
+  {
+    "key": "utilityPayload",
+    "path": "/automobile/usages-et-mobilite/vehicules-utilitaires-transport-marchandises",
+    "status": "READY",
+    "visualRefs": ["schema:utilityPayload"]
+  },
+  {
+    "key": "newswire",
+    "path": "/communication-et-medias/histoire-des-medias/presse-ecrite/agences-de-presse-et-circulation-de-linformation",
+    "status": "READY",
+    "visualRefs": ["schema:newswire"]
+  },
+  {
+    "key": "cheapPrint",
+    "path": "/communication-et-medias/histoire-des-medias/presse-ecrite/comment-les-journaux-a-petit-prix-ont-ils-rendu-la-presse-populaire",
+    "status": "READY",
+    "visualRefs": ["schema:cheapPrint"]
+  },
+  {
+    "key": "printPress",
+    "path": "/communication-et-medias/histoire-des-medias/presse-ecrite/naissance-de-la-presse-periodique",
+    "status": "READY",
+    "visualRefs": ["schema:printPress"]
+  },
+  {
+    "key": "colourtv",
+    "path": "/communication-et-medias/histoire-des-medias/radio-et-television/comment-la-television-est-elle-passee-du-noir-et-blanc-a-la-couleur",
+    "status": "READY",
+    "visualRefs": ["schema:colourtv"]
+  },
+  {
+    "key": "wirelessmorse",
+    "path": "/communication-et-medias/histoire-des-medias/radio-et-television/comment-la-tsf-a-t-elle-permis-d-envoyer-des-messages-sans-fil",
+    "status": "READY",
+    "visualRefs": ["schema:wirelessmorse"]
+  },
+  {
+    "key": "crystalradio",
+    "path": "/communication-et-medias/histoire-des-medias/radio-et-television/comment-un-poste-a-galene-capte-t-il-la-radio-sans-pile-ni-prise",
+    "status": "READY",
+    "visualRefs": ["schema:crystalradio"]
+  },
+  {
+    "key": "radioAlert",
+    "path": "/communication-et-medias/histoire-des-medias/radio-et-television/la-radio-comme-outil-d-alerte-en-cas-de-catastrophe",
+    "status": "READY",
+    "visualRefs": ["schema:radioAlert"]
+  },
+  {
+    "key": "broadcast",
+    "path": "/communication-et-medias/histoire-des-medias/radio-et-television/naissance-de-la-radiodiffusion",
+    "status": "READY",
+    "visualRefs": ["schema:broadcast"]
+  },
+  {
+    "key": "detailInformationSample",
+    "path": "/communication-et-medias/information-et-verification/desinformation/ampleur-desinformation-en-ligne",
+    "status": "READY",
+    "visualRefs": ["schema:detailInformationSample"]
+  },
+  {
+    "key": "detailSyntheticProvenance",
+    "path": "/communication-et-medias/information-et-verification/desinformation/contenus-synthetiques-et-hypertrucages",
+    "status": "READY",
+    "visualRefs": ["schema:detailSyntheticProvenance"]
+  },
+  {
+    "key": "imageProvenance",
+    "path": "/communication-et-medias/information-et-verification/education-aux-medias/comment-retrouver-d-ou-vient-une-image-trouvee-en-ligne",
+    "status": "READY",
+    "visualRefs": ["schema:imageProvenance"]
+  },
+  {
+    "key": "detailNewsAvoidance",
+    "path": "/communication-et-medias/information-et-verification/education-aux-medias/pourquoi-certaines-personnes-evitent-elles-les-actualites",
+    "status": "READY",
+    "visualRefs": ["schema:detailNewsAvoidance"]
+  },
+  {
+    "key": "newsroomCheck",
+    "path": "/communication-et-medias/information-et-verification/journalisme/comment-les-journalistes-verifient-ils-une-information-avant-de-la-publier",
+    "status": "READY",
+    "visualRefs": ["schema:newsroomCheck"]
+  },
+  {
+    "key": "editionMediaTrustSurvey",
+    "path": "/communication-et-medias/information-et-verification/journalisme/dans-quels-pays-fait-on-le-plus-confiance-aux-medias",
+    "status": "READY",
+    "visualRefs": ["schema:editionMediaTrustSurvey"]
+  },
+  {
+    "key": "protectedSource",
+    "path": "/communication-et-medias/information-et-verification/journalisme/secret-des-sources-et-protection-des-journalistes",
+    "status": "READY",
+    "visualRefs": ["schema:protectedSource"]
+  },
+  {
+    "key": "editionOversightPlatform",
+    "path": "/communication-et-medias/medias-numeriques/plateformes-et-moderation/comment-le-reglement-europeen-sur-les-services-numeriques-encadre-t-il-les-grandes-plateformes",
+    "status": "READY",
+    "visualRefs": ["schema:editionOversightPlatform"]
+  },
+  {
+    "key": "editionModerationQueue",
+    "path": "/communication-et-medias/medias-numeriques/plateformes-et-moderation/moderation-des-contenus-en-ligne",
+    "status": "READY",
+    "visualRefs": ["schema:editionModerationQueue"]
+  },
+  {
+    "key": "feedRanking",
+    "path": "/communication-et-medias/medias-numeriques/plateformes-et-moderation/pourquoi-votre-fil-d-actualite-ne-ressemble-t-il-pas-a-celui-d-un-ami",
+    "status": "READY",
+    "visualRefs": ["schema:feedRanking"]
+  },
+  {
+    "key": "editionRegulatorRoles",
+    "path": "/communication-et-medias/medias-numeriques/plateformes-et-moderation/que-fait-l-arcom-face-aux-fausses-informations",
+    "status": "READY",
+    "visualRefs": ["schema:editionRegulatorRoles"]
+  },
+  {
+    "key": "detailFeedRanking",
+    "path": "/communication-et-medias/medias-numeriques/reseaux-sociaux/economie-de-lattention-et-fils-algorithmiques",
+    "status": "READY",
+    "visualRefs": ["schema:detailFeedRanking"]
+  },
+  {
+    "key": "detailAccountCounts",
+    "path": "/communication-et-medias/medias-numeriques/reseaux-sociaux/utilisateurs-reseaux-sociaux-monde",
+    "status": "READY",
+    "visualRefs": ["schema:detailAccountCounts"]
+  },
+  {
+    "key": "webHyperlink",
+    "path": "/communication-et-medias/medias-numeriques/web/histoire-du-web-utilisateurs",
+    "status": "READY",
+    "visualRefs": ["schema:webHyperlink"]
+  },
+  {
+    "key": "webSnapshots",
+    "path": "/communication-et-medias/medias-numeriques/web/le-web-archivage-et-la-memoire-d-internet",
+    "status": "READY",
+    "visualRefs": ["schema:webSnapshots"]
+  },
+  {
+    "key": "cellhandoff",
+    "path": "/communication-et-medias/telecommunications/reseaux-mobiles/comment-les-antennes-relais-permettent-elles-de-telephoner-en-se-deplacant",
+    "status": "READY",
+    "visualRefs": ["schema:cellhandoff"]
+  },
+  {
+    "key": "detailRadioCapacity",
+    "path": "/communication-et-medias/telecommunications/reseaux-mobiles/deploiement-5g-et-perspectives-6g",
+    "status": "READY",
+    "visualRefs": ["schema:detailRadioCapacity"]
+  },
+  {
+    "key": "detailMobileGenerations",
+    "path": "/communication-et-medias/telecommunications/reseaux-mobiles/que-change-chaque-generation-de-reseau-mobile-de-la-2g-a-la-5g",
+    "status": "READY",
+    "visualRefs": ["schema:detailMobileGenerations"]
+  },
+  {
+    "key": "satrelay",
+    "path": "/communication-et-medias/telecommunications/satellites/comment-un-satellite-de-telecommunication-relaie-t-il-la-television-d-un-continent-a-l-autre",
+    "status": "READY",
+    "visualRefs": ["schema:satrelay"]
+  },
+  {
+    "key": "detailHandsetRelay",
+    "path": "/communication-et-medias/telecommunications/satellites/comment-un-telephone-satellite-fonctionne-t-il-loin-de-toute-antenne-relais",
+    "status": "READY",
+    "visualRefs": ["schema:detailHandsetRelay"]
+  },
+  {
+    "key": "leoconstellation",
+    "path": "/communication-et-medias/telecommunications/satellites/constellations-satellites-orbite-basse",
+    "status": "READY",
+    "visualRefs": ["schema:leoconstellation"]
+  },
+  {
+    "key": "natureServices",
+    "path": "/environnement-et-climat/biodiversite/ecosystemes/services-ecosystemiques-biodiversite",
+    "status": "READY",
+    "visualRefs": ["schema:natureServices"]
+  },
+  {
+    "key": "editionWildfireLandscape",
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/comment-lutte-t-on-contre-un-feu-de-foret",
+    "status": "READY",
+    "visualRefs": ["schema:editionWildfireLandscape"]
+  },
+  {
+    "key": "detailForestMosaic",
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/forets-du-monde-et-deforestation",
+    "status": "READY",
+    "visualRefs": ["schema:detailForestMosaic"]
+  },
+  {
+    "key": "forestRenewal",
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/gerer-durablement-foret",
+    "status": "READY",
+    "visualRefs": ["schema:forestRenewal"]
+  },
+  {
+    "key": "seacarbon",
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/oceans-et-absorption-du-carbone",
+    "status": "READY",
+    "visualRefs": ["schema:seacarbon"]
+  },
+  {
+    "key": "oceanacid",
+    "path": "/environnement-et-climat/biodiversite/forets-et-oceans/pourquoi-l-acidification-des-oceans-menace-t-elle-les-recifs-coralliens",
+    "status": "READY",
+    "visualRefs": ["schema:oceanacid"]
+  },
+  {
+    "key": "floodAdaptation",
+    "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/adaptation-au-changement-climatique",
+    "status": "READY",
+    "visualRefs": ["schema:floodAdaptation"]
+  },
+  {
+    "key": "sealevelrise",
+    "path": "/environnement-et-climat/changement-climatique/impacts-et-adaptation/pourquoi-le-niveau-de-la-mer-monte-t-il-et-que-devient-le-littoral",
+    "status": "READY",
+    "visualRefs": ["schema:sealevelrise"]
+  },
+  {
+    "key": "detailClimateHabitats",
+    "path": "/environnement-et-climat/changement-climatique/scenarios/le-climat-et-la-biodiversite-sont-ils-deux-crises-separees-ou-une-seule",
+    "status": "READY",
+    "visualRefs": ["schema:detailClimateHabitats"]
+  },
+  {
+    "key": "recyclesort",
+    "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/dechets-et-limites-du-recyclage",
+    "status": "READY",
+    "visualRefs": ["schema:recyclesort"]
+  },
+  {
+    "key": "repairCycle",
+    "path": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/reparer-plutot-jeter",
+    "status": "READY",
+    "visualRefs": ["schema:repairCycle"]
+  },
+  {
+    "key": "detailDrainagePlot",
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/assainissement-autonome-toilettes-seches",
+    "status": "READY",
+    "visualRefs": ["schema:detailDrainagePlot"]
+  },
+  {
+    "key": "algaebloom",
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/pourquoi-des-algues-vertes-envahissent-elles-certaines-plages-de-bretagne",
+    "status": "READY",
+    "visualRefs": ["schema:algaebloom"]
+  },
+  {
+    "key": "waterBalance",
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/stress-hydrique-mondial",
+    "status": "READY",
+    "visualRefs": ["schema:waterBalance"]
+  },
+  {
+    "key": "detailIndoorAir",
+    "path": "/environnement-et-climat/pollution-et-ressources/qualite-de-l-air/la-pollution-de-l-air-interieur-un-risque-meconnu",
+    "status": "READY",
+    "visualRefs": ["schema:detailIndoorAir"]
+  },
+  {
+    "key": "chartCompass",
+    "path": "/geographie-et-territoires/geopolitique/routes-et-detroits/naviguer-sans-gps",
+    "status": "READY",
+    "visualRefs": ["schema:chartCompass"]
+  },
+  {
+    "key": "firstBasket",
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs/comment-le-basket-ball-a-t-il-ete-invente",
+    "status": "READY",
+    "visualRefs": ["schema:firstBasket"]
+  },
+  {
+    "key": "rugbypass",
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs/pourquoi-au-rugby-fait-on-des-passes-vers-l-arriere",
+    "status": "READY",
+    "visualRefs": ["schema:rugbypass"]
+  },
+  {
+    "key": "wheelchaircourt",
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/comment-joue-t-on-au-basket-en-fauteuil-roulant",
+    "status": "READY",
+    "visualRefs": ["schema:wheelchaircourt"]
+  },
+  {
+    "key": "paraClassification",
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap/sport-adapte-et-classification",
+    "status": "READY",
+    "visualRefs": ["schema:paraClassification"]
+  },
+  {
+    "key": "detailSwimmingDrag",
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/apprendre-nager",
+    "status": "READY",
+    "visualRefs": ["schema:detailSwimmingDrag"]
+  },
+  {
+    "key": "detailRopeStretch",
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/comment-une-corde-d-escalade-arrete-t-elle-la-chute-d-un-grimpeur",
+    "status": "READY",
+    "visualRefs": ["schema:detailRopeStretch"]
+  },
+  {
+    "key": "altitudeTrack",
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/les-records-de-1968-a-mexico-et-l-altitude",
+    "status": "READY",
+    "visualRefs": ["schema:altitudeTrack"]
+  },
+  {
+    "key": "crawl",
+    "path": "/sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels/pourquoi-le-crawl-est-il-la-nage-la-plus-rapide",
+    "status": "READY",
+    "visualRefs": ["schema:crawl"]
+  },
+  {
+    "key": "detailWarmupLoad",
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention/a-quoi-sert-vraiment-l-echauffement-et-vaut-il-mieux-s-etirer-avant-l-effort",
+    "status": "READY",
+    "visualRefs": ["schema:detailWarmupLoad"]
+  },
+  {
+    "key": "detailFiberSoreness",
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/l-acide-lactique-est-il-vraiment-responsable-des-courbatures",
+    "status": "READY",
+    "visualRefs": ["schema:detailFiberSoreness"]
+  },
+  {
+    "key": "walkPendulum",
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/marcher-et-porter-longtemps",
+    "status": "READY",
+    "visualRefs": ["schema:walkPendulum"]
+  },
+  {
+    "key": "effortHeart",
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/pourquoi-le-coeur-bat-il-plus-vite-quand-on-fait-du-sport",
+    "status": "READY",
+    "visualRefs": ["schema:effortHeart"]
+  },
+  {
+    "key": "sweatcool",
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/pourquoi-transpire-t-on-autant-quand-on-fait-du-sport-sous-la-chaleur",
+    "status": "READY",
+    "visualRefs": ["schema:sweatcool"]
+  },
+  {
+    "key": "detailMuscleSpasm",
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire/pourquoi-une-crampe-surgit-elle-en-plein-effort-et-que-sait-on-vraiment-de-ses-causes",
+    "status": "READY",
+    "visualRefs": ["schema:detailMuscleSpasm"]
+  },
+  {
+    "key": "muscleAdaptation",
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement/comment-les-muscles-deviennent-ils-plus-forts-avec-l-entrainement",
+    "status": "READY",
+    "visualRefs": ["schema:muscleAdaptation"]
+  },
+  {
+    "key": "detailMealRecovery",
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement/faut-il-manger-tout-de-suite-apres-l-entrainement-pour-mieux-progresser",
+    "status": "READY",
+    "visualRefs": ["schema:detailMealRecovery"]
+  },
+  {
+    "key": "detailRedCellAltitude",
+    "path": "/sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement/les-champions-d-endurance-s-entrainent-en-montagne-pourquoi-leur-sang-produit-il-plus-de-globules-rouges",
+    "status": "READY",
+    "visualRefs": ["schema:detailRedCellAltitude"]
+  },
+  {
+    "key": "editionActivityBouts",
+    "path": "/sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante/bouger-est-un-medicament",
+    "status": "READY",
+    "visualRefs": ["schema:editionActivityBouts"]
+  },
+  {
+    "key": "detailLiftingMoment",
+    "path": "/sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante/porter-soulever-sans-blesser",
+    "status": "READY",
+    "visualRefs": ["schema:detailLiftingMoment"]
+  },
+  {
+    "key": "opticalWatch",
+    "path": "/sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante/que-mesure-vraiment-le-capteur-au-dos-d-une-montre-connectee-et-peut-on-s-y-fier",
+    "status": "READY",
+    "visualRefs": ["schema:opticalWatch"]
+  },
+  {
+    "key": "detailPlateShoe",
+    "path": "/sport-et-sciences-du-mouvement/sport-et-societe/dopage/des-chaussures-qui-font-courir-plus-vite-est-ce-du-dopage-technologique",
+    "status": "READY",
+    "visualRefs": ["schema:detailPlateShoe"]
+  },
+  {
+    "key": "editionSportRevenue",
+    "path": "/sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport/economie-mondiale-du-sport",
+    "status": "READY",
+    "visualRefs": ["schema:editionSportRevenue"]
+  },
+  {
+    "key": "pigmentLayers",
+    "path": "/arts-et-culture/arts-visuels/peinture-et-sculpture/pourquoi-certains-pigments-des-maitres-anciens-etaient-ils-dangereux",
+    "status": "READY",
+    "visualRefs": ["schema:pigmentLayers"]
+  },
+  {
+    "key": "heritageListing",
+    "path": "/arts-et-culture/patrimoine/musees-et-conservation/liste-du-patrimoine-mondial-unesco",
+    "status": "READY",
+    "visualRefs": ["schema:heritageListing"]
+  },
+  {
+    "key": "curiosityCabinet",
+    "path": "/arts-et-culture/patrimoine/musees-et-conservation/pourquoi-les-princes-collectionnaient-ils-des-objets-etranges",
+    "status": "READY",
+    "visualRefs": ["schema:curiosityCabinet"]
+  },
+  {
+    "key": "livingHeritage",
+    "path": "/arts-et-culture/patrimoine/patrimoine-immateriel/patrimoine-culturel-immateriel",
+    "status": "READY",
+    "visualRefs": ["schema:livingHeritage"]
+  },
+  {
+    "key": "craftTransmission",
+    "path": "/arts-et-culture/patrimoine/patrimoine-immateriel/savoir-faire-artisanaux",
+    "status": "READY",
+    "visualRefs": ["schema:craftTransmission"]
+  }
+]

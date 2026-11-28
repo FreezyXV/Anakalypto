@@ -1,3 +1,4 @@
+import nextHundred from "../../docs/qa/refonte-cent-suivantes/rendus.json";
 import hundred from "../../docs/qa/refonte-cent/rendus.json";
 import editorial from "../../docs/qa/refonte-121/rendus.json";
 import mecanique from "../../docs/qa/refonte-mecanique-auto/rendus.json";
@@ -14,6 +15,7 @@ export const reviewedDiagramHashes: Readonly<Record<string, string[]>> = {
   ...mecanique,
   ...editorial,
   ...hundred,
+  ...nextHundred,
 };
 export const reviewedWorkshopHashes = { ...review.workshops, ...moteurs, ...flottaison };
 
@@ -27,6 +29,7 @@ export function hasRefinedDiagram(id: string) {
     Object.hasOwn(aviation, id) ||
     Object.hasOwn(mecanique, id) ||
     Object.hasOwn(editorial, id) ||
-    Object.hasOwn(hundred, id)
+    Object.hasOwn(hundred, id) ||
+    Object.hasOwn(nextHundred, id)
   );
 }
